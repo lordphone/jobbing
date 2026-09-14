@@ -1,0 +1,80 @@
+% !TEX program = pdflatex
+% Stripe — Software Engineer, New Grad
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\titlespacing*{\section}{0pt}{7pt}{3pt}
+\setlist[itemize]{
+  leftmargin=11pt,
+  itemsep=1.2pt,
+  parsep=0pt,
+  topsep=1.2pt,
+  partopsep=0pt
+}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Software Refactoring, LLM Systems, DS for SWE\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Operating Systems, Software Engineering, Data Structure \& Programming
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Opened a production FastAPI service with its first commit and grew it to 89 endpoints across 27 routers, $\sim$62k lines, and $\sim$1{,}450 fully-offline tests (0.17s) behind a ruff / pyright / pytest gate.
+  \item Redesigned a cache that could not hit: 13.2\,MB per user (structurally-zero hit rate) $\to$ 10.9\,MB shared (78$\times$), and caught an OOM against a 512\,MiB pod before production.
+  \item Designed a personalized LLM alert pipeline, hand-graded shadow alerts, and shipped it at 1.8 median sends/day (cap 2) after production shadow on 4{,}100+ decision rows; filler 34\% $\to$ 4\%.
+  \item Primary author on both sides of the stack (69\% of iOS commits, 83\% of backend; 344 PRs across five repos, 340 merged) and sole full-time engineer while onboarding the next hire.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to take a Next.js, FastAPI, and Supabase product from 0$\to$1 and ship it on GCP App Engine.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 in React, Next.js, and Supabase.
+  \item Owned auth, session state, and database interactions; iterated AI scoring and UI from user-testing sessions.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Java, JavaScript, Go, Python, TypeScript, SQL, Swift, C \\[1pt]
+  \textbf{Frameworks \& Tools} & FastAPI, Next.js, React, Express, LangChain, Pydantic, Firebase, Supabase \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Helm, Docker, CI/CD, Jenkins, GitHub~Actions, Linux \\[1pt]
+  \textbf{Data \& ML} & MongoDB, PostgreSQL, pytest, RAG, PyTorch, MySQL, Langfuse \\[1pt]
+  \textbf{Practices} & REST APIs, TDD, Unit Testing, Git, Jira, Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Leadership \& Activities}
+\begin{itemize}
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+  \item \textbf{my-av:} Built a CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}

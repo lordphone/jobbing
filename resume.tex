@@ -1,0 +1,80 @@
+% !TEX program = pdflatex
+% Base: general software engineering, United States
+\documentclass[11pt, letterpaper]{article}
+\input{shared/preamble}
+
+\titlespacing*{\section}{0pt}{4.5pt}{2.5pt}
+\setlist[itemize]{
+  leftmargin=11pt,
+  itemsep=0.5pt,
+  parsep=0pt,
+  topsep=0.8pt,
+  partopsep=0pt
+}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Machine Learning, Distributed Systems, LLM Systems, DS for SWE, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Operating Systems, Data Structure \& Programming
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the FastAPI backend from the first commit to 89 MongoDB endpoints on EKS, with $\sim$1{,}450 fully-offline tests (1:1 vs.\ production lines).
+  \item Sole SwiftUI engineer for a consumer sports app ($\sim$6{,}000 installs, 1{,}119 peak DAU); shipped Firebase auth, 72 Amplitude events, and a binary with zero third-party API keys.
+  \item Shipped agentic search with hybrid retrieval and server-resolved citations; entity resolution hit 100\% P@1 on real logged queries.
+  \item Replaced a 25--30 request client fan-out with one backend call and a shared 10.9\,MB catalog cache --- 78$\times$ smaller than a per-user key --- sized for a 512\,MiB pod.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to take a Next.js, FastAPI, and Supabase product from 0$\to$1 and ship it on GCP App Engine.
+  \item Designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 in React, Next.js, and Supabase.
+  \item Owned auth, session state, and database interactions; iterated AI scoring and UI from user-testing sessions.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, JavaScript, TypeScript, Swift, SQL, Go, C, Mandarin, HTML, CSS \\[1pt]
+  \textbf{Frameworks \& Tools} & FastAPI, SwiftUI, Next.js, React, Express, LangChain, Firebase, Supabase \\[1pt]
+  \textbf{Data \& ML} & MongoDB, MySQL, PyTorch, CUDA, NumPy, OpenCV, pytest, Langfuse, RAG \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Terraform, Jenkins, GitHub~Actions, CI/CD, Linux \\[1pt]
+  \textbf{Practices} & REST APIs, Agile/Scrum, TDD, Git, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Leadership \& Activities}
+\begin{itemize}
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+  \item \textbf{my-av:} Built a CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}

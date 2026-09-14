@@ -1,0 +1,55 @@
+% Shared styling for generated resumes.
+% Compile from the directory that contains resume.tex.
+\usepackage[margin=0.48in, top=0.38in, bottom=0.36in]{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+\definecolor{linkblue}{HTML}{0F4C81}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=linkblue,
+  pdfauthor={Lordphone Wen},
+  pdftitle={Lordphone Wen --- Resume}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{0pt}
+\frenchspacing
+\linespread{0.99}
+\raggedright
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\hyphenation{Jenkins GitHub}
+
+\titleformat{\section}{\normalsize\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{4.5pt}{2.5pt}
+
+\setlist[itemize]{
+  leftmargin=11pt,
+  itemsep=0.5pt,
+  parsep=0pt,
+  topsep=0.8pt,
+  partopsep=0pt
+}
+
+\newcommand{\role}[4]{%
+  \begin{tabularx}{\textwidth}{@{}X r@{}}
+    \textbf{#1} & \textbf{#3} \\[-0.5pt]
+    \textit{#2} & \textit{#4} \\
+  \end{tabularx}%
+}
+
+\newcommand{\edu}[4]{%
+  \begin{tabularx}{\textwidth}{@{}X r@{}}
+    \textbf{#1} & \textbf{#3} \\[-0.5pt]
+    \textit{#2} & \textit{#4} \\
+  \end{tabularx}%
+}
