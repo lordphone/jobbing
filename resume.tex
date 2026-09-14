@@ -27,31 +27,31 @@
 
 \section{Education}
 \edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
-Selected Coursework: Machine Learning, Distributed Systems, LLM Systems, DS for SWE, Software Refactoring\\[1pt]
+Selected Coursework: Distributed Systems, Software Refactoring, Machine Learning, LLM Systems\\[1pt]
 \edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
-Selected Coursework: Algorithms, Operating Systems, Data Structure \& Programming
+Selected Coursework: Algorithms, Operating Systems, Data Structure \& Programming III
 
 \section{Work Experience}
 \role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
 \begin{itemize}
-  \item Built the FastAPI backend from the first commit to 89 MongoDB endpoints on EKS, with $\sim$1{,}450 fully-offline tests (1:1 vs.\ production lines).
-  \item Sole SwiftUI engineer for a consumer sports app ($\sim$6{,}000 installs, 1{,}119 peak DAU); shipped Firebase auth, 72 Amplitude events, and a binary with zero third-party API keys.
-  \item Shipped agentic search with hybrid retrieval and server-resolved citations; entity resolution hit 100\% P@1 on real logged queries.
-  \item Replaced a 25--30 request client fan-out with one backend call and a shared 10.9\,MB catalog cache --- 78$\times$ smaller than a per-user key --- sized for a 512\,MiB pod.
+  \item Built the SportsBreak backend from scratch with FastAPI and MongoDB: 89 endpoints deployed on EKS, backed by $\sim$1{,}450 offline tests and automated linting, type checking, and test gates.
+  \item Sole SwiftUI engineer for SportsBreak, which reached $\sim$6{,}000 installs and 1{,}119 peak daily active users; moved nine third-party integrations server-side to keep API credentials out of the iOS binary.
+  \item Cut catalog loading from 25--30 client requests to one backend call; replaced per-user caching with a shared 10.9\,MB cache, reducing the cache footprint by 78$\times$ to fit a 512\,MiB pod.
+  \item Built and shipped a personalized LLM news-alert pipeline with article scoring and same-story deduplication; calibrated on 4{,}100+ production-shadow decisions, cutting filler alerts from 34\% to 4\% by count.
 \end{itemize}
 
 \vspace{1pt}
 \role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
 \begin{itemize}
-  \item Led an 8-intern team to take a Next.js, FastAPI, and Supabase product from 0$\to$1 and ship it on GCP App Engine.
-  \item Designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+  \item Led an 8-intern team to build and launch a Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+  \item Designed schemas and REST APIs for LangChain resume parsing, improvement suggestions, and job matching.
 \end{itemize}
 
 \vspace{1pt}
 \role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
 \begin{itemize}
-  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 in React, Next.js, and Supabase.
-  \item Owned auth, session state, and database interactions; iterated AI scoring and UI from user-testing sessions.
+  \item Built an LLM mock-interview web app from scratch as the sole engineer, using React, Next.js, and Supabase; owned authentication, session state, and database interactions.
+  \item Refined AI scoring with recruiters to reflect real hiring criteria and improved the UI through user testing.
 \end{itemize}
 
 \section{Research Experience}
@@ -63,18 +63,18 @@ Selected Coursework: Algorithms, Operating Systems, Data Structure \& Programmin
 
 \section{Skills}
 \begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
-  \textbf{Languages} & Python, Java, JavaScript, TypeScript, Swift, SQL, Go, C, Mandarin, HTML, CSS \\[1pt]
+  \textbf{Languages} & Python, TypeScript, JavaScript, Java, Swift, Go, SQL, C, HTML, CSS \\[1pt]
   \textbf{Frameworks \& Tools} & FastAPI, SwiftUI, Next.js, React, Express, LangChain, Firebase, Supabase \\[1pt]
-  \textbf{Data \& ML} & MongoDB, MySQL, PyTorch, CUDA, NumPy, OpenCV, pytest, Langfuse, RAG \\[1pt]
-  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Terraform, Jenkins, GitHub~Actions, CI/CD, Linux \\[1pt]
-  \textbf{Practices} & REST APIs, Agile/Scrum, TDD, Git, Jira \\[1pt]
+  \textbf{Data \& ML} & MongoDB, PostgreSQL, MySQL, PyTorch, CUDA, NumPy, Langfuse, RAG \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Terraform, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, REST APIs, Agile/Scrum, Git, Jira \\[1pt]
   \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
 \end{tabularx}
 
-\section{Leadership \& Activities}
+\section{Projects \& Leadership}
 \begin{itemize}
   \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
-  \item \textbf{my-av:} Built a CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU to predict steering angle and speed from 1s video; trained on 33 hours of Comma2k19 using local CUDA and GCP Vertex AI.
 \end{itemize}
 
 \end{document}
