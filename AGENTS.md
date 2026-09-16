@@ -14,6 +14,7 @@ This repo generates one-page LaTeX resumes from an experience bank.
 - Output PDF is always `Lordphone_Wen_Resume.pdf`. Keep `resume.tex` as the source.
 - `approved` lines are a starting point, not a lock. Rewrite or fuse freely as long as the facts stay real.
 - Do not add a skill that is not in `inventory/skills.md`.
+- When asked for bullet points, put them in copyable `text` code blocks with literal `•` bullets. Keep company/role headings outside the blocks, with a separate block for each role.
 
 ## When he pastes a job description, a posting URL, or both
 
