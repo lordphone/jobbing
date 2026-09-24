@@ -1,0 +1,67 @@
+% Meow - Software Engineer - New graduate
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large New York, NY}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Software Refactoring, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Operating Systems, Software Engineering
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's Python/FastAPI and MongoDB backend from the first commit to 89 endpoints on EKS, backed by $\sim$1{,}450 fully offline tests and CI gates for linting, type checking, and tests; wrote 34 contract-first API specifications.
+  \item Shipped Stripe web checkout for DramaBreak with signature-verified webhooks as the sole trusted fulfillment path, idempotent fulfillment, and recovery of pending transactions stale for 60 seconds.
+  \item Migrated nine third-party integrations, including SportsDataIO, YouTube Data, and DeepInfra, server-side so the iOS binary ships zero third-party API credentials; consolidated 25--30 catalog requests into one backend call with a 3-second per-source budget.
+  \item Sole SwiftUI engineer for SportsBreak, which reached $\sim$6{,}000 installs and 1{,}119 peak daily active users; built server-driven UI over 27 widget types so new catalog surfaces ship without an App Store release.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to build and launch a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+  \item Designed database schemas and REST APIs for LangChain resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview web app from scratch as the sole engineer using React, Next.js, Supabase, and PostgreSQL; owned authentication, user session state, and database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions and recruiter feedback; demoed the product, obtained contracts, and brought mid-sized companies onto the app.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & TypeScript, Python, JavaScript, SQL, Java, Swift, Go, HTML, CSS \\[1pt]
+  \textbf{Web \& Databases} & React, FastAPI, PostgreSQL, Next.js, Supabase, MongoDB, Express \\[1pt]
+  \textbf{Frameworks \& Tools} & Pydantic, Firebase, SwiftUI, LangChain, PyTorch \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, REST APIs, Agile/Scrum, Git, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU to predict steering angle and speed from 1s video; trained on 33 hours of Comma2k19 using local CUDA and GCP Vertex AI and implemented streaming inference.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

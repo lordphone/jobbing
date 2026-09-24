@@ -1,0 +1,80 @@
+% !TEX program = pdflatex
+% Tailored: OneStream Associate AI Engineer
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\titlespacing*{\section}{0pt}{4.5pt}{2.5pt}
+\setlist[itemize]{
+  leftmargin=11pt,
+  itemsep=0.5pt,
+  parsep=0pt,
+  topsep=0.8pt,
+  partopsep=0pt
+}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Machine Learning, Distributed Systems, Data Science for Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Operating Systems, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built and shipped a personalized LLM news-alert pipeline with embeddings, article scoring, and same-story deduplication; calibrated on 4{,}100+ production-shadow decisions, cutting filler alerts from 34\% to 4\% by count.
+  \item Built the SportsBreak backend from scratch with Python, FastAPI, and MongoDB: 89 endpoints deployed on EKS, backed by $\sim$1{,}450 offline tests and automated linting, type checking, and test gates.
+  \item Cut catalog loading from 25--30 client requests to one backend call; replaced per-user caching with a shared 10.9\,MB cache, reducing the cache footprint by 78$\times$ to fit a 512\,MiB pod.
+  \item Shipped a streaming RAG search API with hybrid MongoDB text and vector retrieval, bounded multi-turn tool calling, and server-resolved citations; degraded gracefully when individual retrieval paths failed.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to build and launch a Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+  \item Designed schemas and REST APIs for LangChain resume parsing, improvement suggestions, and job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview web app from scratch as the sole engineer, using React, Next.js, and PostgreSQL-backed Supabase; owned authentication, session state, and database interactions.
+  \item Refined AI scoring with recruiters to reflect real hiring criteria and improved the UI through user testing; demoed the product and obtained contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, SQL, Java, Go, C, TypeScript, JavaScript \\[1pt]
+  \textbf{Frameworks \& Tools} & FastAPI, PyTorch, LangChain, Pydantic, React, Next.js, Supabase \\[1pt]
+  \textbf{Data \& ML} & MongoDB, PostgreSQL, MySQL, NumPy, CUDA, RAG, Langfuse \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, REST APIs, Agile/Scrum, Git, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Developed a PyTorch CNN-GRU for real-time steering-angle and speed prediction from 20-frame (1s) video; built a data pipeline over 33 hours of Comma2k19 with shuffling, temporal windowing, and 240-by-320 frame processing. Trained locally on CUDA and on GCP Vertex AI; implemented streaming inference.
+\end{itemize}
+
+\end{document}

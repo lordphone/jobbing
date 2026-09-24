@@ -1,0 +1,66 @@
+% City and County of San Francisco - Technology Engineer Associate (Security)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Computer Architecture, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Infrastructure Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Migrated nine third-party integrations server-side so the iOS binary ships zero third-party API credentials; shipped Firebase authentication (Google, Apple, email/password) with guest sessions upgraded by account linking; kept search conversation state on the client so no PII sat at rest.
+  \item Spot-checked two closed security tickets against the code, found the fixes absent, reopened them with line-level evidence, and documented that a ticket status field is not evidence of a code change.
+  \item Stood up production EKS (Helm, Jenkins) on day 3; diagnosed a DNS $\rightarrow$ TLS $\rightarrow$ admission-policy chain that blocked iOS clients on public networks; caught a stale ArgoCD app with prune and self-heal that would have wiped Jenkins deploys.
+  \item Diagnosed a 5-day silent CronJob outage (non-terminal ImagePullBackOff and Forbid concurrency) and fixed it with paired job and scheduler deadlines; shipped Stripe checkout with a signature-verified webhook as the only trusted fulfillment.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+  \item Designed database schemas and REST APIs for LangChain resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview web app from scratch as the sole engineer using React, Next.js, Supabase, and PostgreSQL; owned authentication, user session state, and database interactions.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, SQL, C, Go, Java, Swift, TypeScript, JavaScript \\[1pt]
+  \textbf{Cloud \& Systems} & AWS, GCP, Kubernetes (EKS), Linux, Docker, Helm, NGINX, Grafana, Terraform \\[1pt]
+  \textbf{Frameworks \& Tools} & FastAPI, Firebase, Supabase, Pydantic, React, Next.js, Jenkins, GitHub~Actions \\[1pt]
+  \textbf{Data \& Storage} & MongoDB, PostgreSQL, MySQL, REST APIs \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, CI/CD, ruff, pyright, Git, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU to predict steering angle and speed from 20-frame (1s) video; processed 33 hours of Comma2k19 with shuffling, temporal windowing, and 240$\times$320 frames, then trained on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}

@@ -103,9 +103,11 @@ facts:
 - catalog 97 → 206 topics; section ~53 KB resident / ~9 KB serialized; full catalog ~11 MB resident / ~1.9 MB JSON
 - first-page payload 2.8 MB / ~4.7 s → 20 sections ≈ 0.27 MB
 - 168 of 206 topics previously unreachable without paging
+- cache code was written by an AI agent; the code was clean and he wrote tests for it
+- found the per-user key after the pod's memory climbed toward the 512 MiB limit as the app grew (not caught before production)
 approved:
 - default: Replaced a 25–30 request client fan-out with one backend call and a shared 10.9 MB catalog cache — 78× smaller than a per-user key — sized for a 512 MiB pod.
-- redesign: Redesigned a cache that could not hit: 13.2 MB per user (structurally-zero hit rate) → 10.9 MB shared (78×), and caught an OOM against a 512 MiB pod before production.
+- redesign: Redesigned a cache that could not hit: 13.2 MB per user (structurally-zero hit rate) → 10.9 MB shared (78×), after pod memory climbed toward its 512 MiB limit.
 
 ## nb-cronjob-outage
 
@@ -173,6 +175,8 @@ facts:
 - ActivityKit Live Activities + widget extension
 - shared ScoreboardKit compiled into both targets; removed ~380 lines of bespoke scoreboards
 - Live Activity push-to-start had never worked: iOS drops a start push with no `aps.alert` while APNs returns HTTP 200; fixed by raising on the sender
+- went down a rabbit hole of irrelevant leads before finding the real cause (APNs 200 meant logs showed no problem)
+- general, across his debugging: AI tools have repeatedly claimed with confidence to have found a bug's cause, then contradicted themselves one turn later after reading log output
 approved:
 - default: Shipped ActivityKit Live Activities and a shared scoreboard widget; found that iOS drops a start push with no `aps.alert` while APNs returns 200.
 

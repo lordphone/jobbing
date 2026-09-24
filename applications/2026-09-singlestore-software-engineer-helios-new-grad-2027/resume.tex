@@ -1,0 +1,67 @@
+% SingleStore — Software Engineer-Helios-New Grad 2027
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Algorithms, Data Structure \& Programming III
+
+\section{Work Experience}
+\role{NewsBreak}{Infrastructure Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the SportsBreak backend from scratch with FastAPI and MongoDB: 89 endpoints across 27 routers, backed by $\sim$1{,}450 fully offline tests and automated linting, type checking, and test gates. Built a Motor fake reproducing a production MongoDB failure as a regression guard.
+  \item Stood up production EKS with Helm and Jenkins on day 3, with 7 CronJobs and a two-stage amd64 image; diagnosed a DNS, TLS, and admission-policy chain blocking public clients and drove a public-domain fix.
+  \item Cut catalog loading from 25--30 client requests to one backend call; replaced per-user caching with a shared 10.9\,MB cache, reducing the cache footprint by 78$\times$ to fit a 512\,MiB pod.
+  \item Diagnosed a 5-day silent CronJob outage: an image-pull failure left a job active, so Forbid concurrency skipped later runs; fixed the failure mechanism with paired job and scheduler deadlines.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to launch a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+  \item Designed database schemas and REST APIs for LangChain resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview web app from scratch as the sole engineer using React, Next.js, Supabase, and PostgreSQL; owned authentication, user session state, and database interactions.
+  \item Refined AI scoring with recruiters to reflect real hiring criteria and improved the UI through user testing; demoed the product and obtained contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Go, TypeScript, JavaScript, Python, SQL, Java, C \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD, GCP, Terraform, Linux \\[1pt]
+  \textbf{Frameworks \& Tools} & React, Next.js, FastAPI, Pydantic, Firebase, Supabase \\[1pt]
+  \textbf{Data \& Storage} & PostgreSQL, MongoDB, MySQL, REST APIs \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, ruff, pyright, Git, Jira, Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU to predict steering angle and speed from 1s video; trained on 33 hours of Comma2k19 using local CUDA and GCP Vertex AI and implemented streaming inference.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

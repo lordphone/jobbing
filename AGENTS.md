@@ -18,7 +18,7 @@ This repo generates one-page LaTeX resumes from an experience bank.
 
 ## When he pastes a job description, a posting URL, or both
 
-Follow `.agents/skills/generate-resume/SKILL.md`. A URL-only paste is enough: fetch the posting, then generate. If he pastes both, use the text and keep the URL as the tracker link. Output goes under `applications/<date>-<company>-<role>/`. That run also prepends a row to `applications/TRACKER.md`.
+Follow `.agents/skills/generate-resume/SKILL.md`. A URL-only paste is enough: fetch the posting, then generate. If he pastes both, use the text and keep the URL as the tracker link. Output goes under `applications/<YYYY-MM-DD>-<company>-<role>/`, using the full creation date including the day. That run also prepends a row to `applications/TRACKER.md`.
 
 ## When he pastes an application email or reports a status
 
