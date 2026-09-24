@@ -8,7 +8,7 @@ description: >-
 
 # Update an application
 
-`applications/TRACKER.md` is the log. Each generate-resume run adds a row. This skill only edits the matching row.
+`applications/TRACKER.md` is the log. Each new-application run adds a row. This skill only edits the matching row.
 
 ## Statuses
 

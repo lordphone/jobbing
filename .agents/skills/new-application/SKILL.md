@@ -1,12 +1,14 @@
 ---
-name: generate-resume
+name: new-application
 description: >-
-  Tailors a one-page LaTeX resume from inventory/ plus a job description.
-  Use when the user pastes a JD, a job posting URL, both, asks to generate
-  or tailor a resume, or wants a new applications/ folder for a company or role.
+  Starts a new application from a job description: tailors a one-page LaTeX
+  resume from inventory/, logs it in applications/TRACKER.md, and writes
+  LinkedIn referral notes. Use when the user pastes a JD, a job posting URL,
+  both, asks to generate or tailor a resume, or wants a new applications/
+  folder for a company or role.
 ---
 
-# Generate a resume
+# New application
 
 ## Inputs
 
@@ -94,3 +96,19 @@ The deliverable PDF is always `Lordphone_Wen_Resume.pdf`. Keep `resume.tex` as t
 - Record the final page count, bottom margin, last-content position, unused height, and visual-review result in `selection.md`. These measurements must describe the final PDF after the last edit.
 
 8. Prepend a row to `applications/TRACKER.md` (newest first). Date = today (`YYYY-MM-DD`). Company and Role = the JD. Link = posting URL, or empty. Status = `draft`. Folder = the slug. NB title = the printed NewsBreak title. Notes empty unless something is worth one clause. Do not duplicate a row for the same folder.
+
+9. Write LinkedIn referral notes to `outreach.md` in the same folder, and paste them in the reply as two copyable `text` code blocks, one for CMU alumni and one for UW–Madison alumni. Templates:
+
+```text
+Hi [Name], CMU MSSE student here (ex-NewsBreak, ZenAI backend). I'm applying for [Role] ([Job ID]) at [Company]. Would you be open to referring me? Resume: [link]. Kept this short to respect your time, but I'd love to chat if you're open to it. Thanks!
+```
+
+```text
+Hi [Name], fellow Badger, now doing my MSSE at CMU (ex-NewsBreak, ZenAI backend). Applying for [Role] ([Job ID]) at [Company]. Would you be open to referring me? Resume: [link]. Kept this short to respect your time, but happy to chat if you're open to it. Thanks!
+```
+
+   - Fill `[Role]`, `[Job ID]`, and `[Company]` from the JD. Leave `[Name]` and `[link]` as placeholders.
+   - Use the role's short form if the posting title is long, for example "Backend SWE, New Grad" instead of the full posting title. Keep it recognizable.
+   - If the JD has no job ID, drop ` ([Job ID])`. Do not invent one.
+   - Keep the note framed around respecting their time. Do not reword the last sentence so it sounds like he is avoiding a call.
+   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters and `[link]` as 23. Require 300 or less. If a note is over, cut in this order until it fits: shorten `[Role]`, remove ` (ex-NewsBreak, ZenAI backend)`, then remove ` Resume: [link].` Report each final count in the reply.
