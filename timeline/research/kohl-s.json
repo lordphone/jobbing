@@ -1,0 +1,15 @@
+{
+  "company": "Kohl's",
+  "tier": 9,
+  "checked": "2026-09-24",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history found (SimplifyJobs/vanshb03 regex 'Kohl' returned 0 postings). Kohl's Early Talent Technology program has historically been internship-only (e.g. LinkedIn posting 'Early Talent - 2026 - Technology - Software Engineer' internship), not full-time new-grad.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://kohls.wd504.myworkdayjobs.com/kohlscareers",
+  "jobs_spec": "wd:kohls/wd504/kohlscareers",
+  "evidence": "Fetched all 54 live postings on Workday board (correct pod is wd504, not wd1). Two 'Early Talent - 2027' listings exist (Production Coordinator, Assistant Designer) but no Technology/Software Engineer entry-level posting. Web search found only a Technology internship track, no full-time new-grad SWE program.",
+  "confidence": "medium"
+}

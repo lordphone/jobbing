@@ -23,3 +23,11 @@ Follow `.agents/skills/new-application/SKILL.md`. A URL-only paste is enough: fe
 ## When he pastes an application email or reports a status
 
 Follow `.agents/skills/update-application/SKILL.md`. Find the row in `applications/TRACKER.md` and update status. Do not regenerate the resume.
+
+## When he asks about new-grad hiring timelines
+
+Follow `.agents/skills/new-grad-timeline/SKILL.md`. That covers questions like "is X hiring new grads yet", refreshing `timeline/status.csv` / `timeline/SUMMARY.md`, and researching many companies with one Sonnet agent each. Trust the company's own job board first; GitHub trackers are leads only.
+
+## When working on the company list
+
+`timeline/COMPANY_LIST.md` is a plain list of company names in 11 tiers. A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.

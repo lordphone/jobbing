@@ -1,0 +1,19 @@
+{
+  "company": "AutoZone",
+  "tier": 9,
+  "checked": "2026-09-24",
+  "status": "closed",
+  "postings": [
+    {"title": "Systems Engineer Associate", "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511", "location": "Memphis, TN, United States",
+     "opened": "on or before 2026-07-27", "date_source": "tracker first seen",
+     "grad_window": null, "live_verified": "api"}
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history 'AutoZone' returned only one posting (2026-07-27, this cycle); no 2025-07 to 2026-01 entry-level SWE posting found in tracker history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
+  "evidence": "Board API shows 84 postings, no open entry-level SWE/Systems Engineer role; only 'Systems Engineer Associate' (Memphis) first seen 2026-07-27, now 404s via API (closed).",
+  "confidence": "medium"
+}

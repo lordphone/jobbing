@@ -1,0 +1,15 @@
+{
+  "company": "Zillow",
+  "tier": 9,
+  "checked": "2026-09-24",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history 'Zillow' returned 0 tracker postings for 2025-07 to 2026-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External",
+  "jobs_spec": "wd:zillow/wd5/Zillow_Group_External",
+  "evidence": "Checked full Workday board (26 postings, --all): no new-grad/entry-level SWE titles. Only generic 'Software Development Engineer' posting prefers 3+ years experience. No tracker history found either.",
+  "confidence": "medium"
+}
