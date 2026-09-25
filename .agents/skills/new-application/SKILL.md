@@ -95,7 +95,7 @@ The deliverable PDF is always `Lordphone_Wen_Resume.pdf`. Keep `resume.tex` as t
 - If either check fails, revise using the inventory-first rule in step 3, recompile, and repeat both checks. Do not call the resume complete or claim it fills the page while a check fails. If compilation or verification is blocked, report the unresolved check instead of claiming success.
 - Record the final page count, bottom margin, last-content position, unused height, and visual-review result in `selection.md`. These measurements must describe the final PDF after the last edit.
 
-8. Prepend a row to `applications/TRACKER.md` (newest first). Date = today (`YYYY-MM-DD`). Company and Role = the JD. Link = posting URL, or empty. Status = `draft`. Folder = the slug. NB title = the printed NewsBreak title. Notes empty unless something is worth one clause. Do not duplicate a row for the same folder.
+8. Prepend a row to `applications/TRACKER.md` (newest first). Date = today (`YYYY-MM-DD`). Company and Role = the JD. Link = posting URL, or empty. Status = `draft`. Outreach = `—`. Folder = the slug. NB title = the printed NewsBreak title. Notes empty unless something is worth one clause. Do not duplicate a row for the same folder.
 
 9. Write LinkedIn outreach to `outreach.md` in the same folder. He looks for someone at every company, so every run writes all four notes. Each note goes on a connection request; he sends his resume later, so no note has a resume link.
 
@@ -103,6 +103,14 @@ The deliverable PDF is always `Lordphone_Wen_Resume.pdf`. Keep `resume.tex` as t
    - **Call:** one line saying which notes to send first and why. Big company (formal referral program, high applicant volume) → alumni referral first, non-alumni as backup, hiring-manager note optional. Startup or small team → hiring-manager note plus any alumni. Consultancy or mass hiring → alumni referral if one is easy to find; otherwise just apply. Referrals are never pointless, so no call says to skip outreach entirely.
    - **Search:** three LinkedIn people-search links, `https://www.linkedin.com/search/results/people/?keywords=<URL-encoded query>`, for `[Company] Carnegie Mellon`, `[Company] University of Wisconsin`, and `[Company] <team or role keyword from the JD>`.
    - **Notes:** the four notes below, recommended ones first, each with its character count. Label any note the call marks optional.
+   - **Contacts:** an empty log the `update-application` skill fills in as he reaches out:
+
+```markdown
+## Contacts
+
+| Name | Link | Type | Sent | Status | Notes |
+|------|------|------|------|--------|-------|
+```
 
    CMU alumni:
 

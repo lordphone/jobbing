@@ -1,9 +1,10 @@
 ---
 name: update-application
 description: >-
-  Finds a job application in applications/TRACKER.md and updates its status.
-  Use when the user pastes a recruiter or ATS email, says they applied,
-  or reports OA / screen / interview / rejection / offer / withdrawn.
+  Finds a job application in applications/TRACKER.md and updates its status
+  or outreach. Use when the user pastes a recruiter or ATS email, says they
+  applied, reports OA / screen / interview / rejection / offer / withdrawn,
+  or reports LinkedIn outreach (sent requests, replies, referrals).
 ---
 
 # Update an application
@@ -43,8 +44,28 @@ If nothing matches, add a row (date = today or the email date, status from the e
 
 ## Edit
 
-Change only `Status` and `Notes` (and `Date` if the email has a clear applied/event date and the row is still `draft`). Keep Company, Role, Link, Folder, NB title unless the user corrects them.
+Change only `Status`, `Outreach`, and `Notes` (and `Date` if the email has a clear applied/event date and the row is still `draft`). Keep Company, Role, Link, Folder, NB title unless the user corrects them.
 
 Notes: one short clause — subject or event, not the whole email.
 
-Tell the user which row changed and old → new status.
+Tell the user which row changed and old → new status or outreach.
+
+## Outreach
+
+The tracker's `Outreach` column is the one-glance summary. Values:
+
+`—` not reached out · `sent` requests sent · `talking` someone replied · `referred` someone submitted a referral · `none` looked, found nobody, applied cold
+
+The details go in the Contacts table at the bottom of `applications/<folder>/outreach.md`: `Name | Link | Type | Sent | Status | Notes`.
+
+- Type: `CMU alum` · `UW alum` · `non-alum` · `hiring mgr`
+- Sent: the date he sent the request (`MM-DD`), today if he does not say.
+- Status: `no reply` · `replied` · `referred MM-DD` · `declined`, plus anything short he mentions.
+- Add one row per person he names ("sent to J. Chen and A. Patel at Visa"). Update the existing row when he reports on someone already logged. Record names and links only as he gives them; do not look people up or fill in a link he did not provide.
+- If `outreach.md` has no Contacts table, add one at the end. If the application has no folder, keep the details in the tracker Notes instead.
+
+Set the tracker `Outreach` value from the best contact status: any referral → `referred`, else any reply → `talking`, else any sent → `sent`. Set `none` only when he says he found nobody. Never move it backward (a later "no reply" does not undo `referred`).
+
+When there is a referrer, add `ref: <Name>` to Notes, alongside what is already there.
+
+"Who haven't I followed up with?" → read the Contacts tables and list contacts still `no reply` more than a week after Sent, grouped by company.
