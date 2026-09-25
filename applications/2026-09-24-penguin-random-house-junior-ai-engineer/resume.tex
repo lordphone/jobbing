@@ -1,0 +1,80 @@
+% !TEX program = pdflatex
+% Tailored: Penguin Random House Junior AI Engineer
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\titlespacing*{\section}{0pt}{4.5pt}{2.5pt}
+\setlist[itemize]{
+  leftmargin=11pt,
+  itemsep=0.5pt,
+  parsep=0pt,
+  topsep=0.8pt,
+  partopsep=0pt
+}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Machine Learning, Data Science for Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Software Engineering, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped a personalized LLM news-alert pipeline (embeddings, LLM scoring, same-story dedupe); hand-graded alerts, ran prompt ablations, and added a categorical event classifier, cutting filler alerts from 34\% to 4\%.
+  \item Shipped a streaming agentic search API: RAG on turn one, then a bounded tool-calling agent (5 tools, $\le$3 hops); citations resolve server-side, and entity resolution took logged queries from 0\% to 100\% P@1.
+  \item Built a FastAPI / MongoDB backend from scratch with AI coding agents: 89 endpoints on EKS, $\sim$1{,}450 offline tests, and a lint, type-check, and test CI gate; moved nine third-party integrations (SportsDataIO, YouTube, SerpApi, DeepInfra LLM, APNs) server-side so the iOS app ships zero API credentials.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline, via Langfuse traces, as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ runaways at 16{,}384); sized a 2{,}048-token cap that truncates 0\% of observed successes.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+  \item Led an 8-intern team through Agile sprints to ship a Next.js, FastAPI, and Supabase web app on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git workflows.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview web app from scratch as the sole engineer, using React, Next.js, and Supabase; owned authentication, session state, and database interactions.
+  \item Worked with recruiters to refine AI scoring to real hiring criteria and iterated the UI from user testing; demoed the product and obtained contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, Java, SQL, Go \\[1pt]
+  \textbf{AI \& Frameworks} & LangChain, RAG, hybrid retrieval, Langfuse, FastAPI, Pydantic, React, Next.js, PyTorch \\[1pt]
+  \textbf{Data} & MongoDB, PostgreSQL, MySQL, Supabase, NumPy \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, REST APIs, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 20-frame (1s) video; processed 33 hours of Comma2k19 footage and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

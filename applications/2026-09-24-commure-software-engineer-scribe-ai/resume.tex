@@ -1,0 +1,71 @@
+% !TEX program = pdflatex
+% Commure — Software Engineer, Scribe AI
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\noindent
+{\LARGE\bfseries Lordphone Wen}%
+\hfill
+\raisebox{0.65ex}{\large Mountain View, CA}\\[5pt]
+{\centering
+  \href{mailto:lordphonewen@gmail.com}{lordphonewen@gmail.com} \ $\cdot$ \
+  (608) 217-8920 \ $\cdot$ \
+  \href{https://www.linkedin.com/in/lordphone-wen}{linkedin.com/in/lordphone-wen} \ $\cdot$ \
+  \href{https://github.com/lordphone}{github.com/lordphone}\par
+}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Distributed Systems, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Mobile Computing Laboratory, Large Language Models in Practice, Software Engineering
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Sole SwiftUI engineer and primary backend author for SportsBreak ($\sim$6{,}000 installs, 1{,}119 peak DAU); grew the FastAPI / MongoDB backend from its first commit to 89 endpoints with $\sim$1{,}450 tests.
+  \item Shipped the iOS app through three App Store rejections; built Firebase auth, Live Activities, and server-driven UI over 27 widget types so new surfaces ship without an App Store release.
+  \item Shipped a personalized LLM alert pipeline that scores each article into a categorical label plus 0--100 importance, then dedupes with an LLM judge; calibrated on 4{,}100+ shadow decisions, filler 34\% $\to$ 4\%.
+  \item Built LLM agentic search over hybrid retrieval with SSE streaming and server-resolved citations, so the model cannot author a URL; entity resolution took real logged queries from 0\% to 100\% P@1.
+  \item Stood up production EKS (Helm, Jenkins) on day 3; later fixed a 5-day silent CronJob outage (ImagePullBackOff + Forbid concurrency) with paired job and scheduler deadlines.
+  \item Shipped a personalized LLM morning digest to 5{,}026 users ($\sim$81\% of the base) and migrated nine third-party integrations server-side so the iOS binary ships zero third-party API credentials.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on testing and Git.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked directly with recruiters and clients to iterate AI scoring and UI; demoed the product and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, Swift, SQL, HTML, CSS, Go, Java, C \\[1pt]
+  \textbf{Frameworks \& Tools} & React, Next.js, Express, SwiftUI, ActivityKit, FastAPI, Pydantic, Firebase, Supabase \\[1pt]
+  \textbf{Data \& AI} & LangChain, RAG, hybrid retrieval, Langfuse, PostgreSQL, MongoDB, MySQL, PyTorch \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, REST APIs, Agile/Scrum, Git, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 20-frame (1s) video; processed 33 hours of Comma2k19 and ran streaming inference on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}
