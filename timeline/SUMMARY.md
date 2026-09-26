@@ -2,12 +2,12 @@
 
 Checked 2026-09-25. 1733 companies in `COMPANY_LIST.md`. Full data: `status.csv`.
 
-- **Apply now:** 174 open, not yet applied
-- **Referrals / cold messages now:** 263 expected to open by 2026-11-20 or overdue vs last year
-- **Tracker leads to confirm:** 25 listed by a GitHub tracker, company board not checked yet
-- **Later / unknown timing:** 808
+- **Apply now:** 176 open, not yet applied
+- **Referrals / cold messages now:** 266 expected to open by 2026-11-20 or overdue vs last year
+- **Tracker leads to confirm:** 19 listed by a GitHub tracker, company board not checked yet
+- **Later / unknown timing:** 807
 - **Already in TRACKER.md:** 7
-- **No US new-grad SWE track found:** 370
+- **No US new-grad SWE track found:** 372
 - **Dropped (citizenship, green card, or clearance required):** 86 — kept in `status.csv` as `excluded`
 
 "Apply now" only counts postings seen on the company's own job board. GitHub trackers (SimplifyJobs, speedyapply, vanshb03) are used for leads and last-cycle dates. Workday dates are the latest repost.
@@ -30,11 +30,13 @@ Open now, by tier, oldest posting first.
 
 | Company | Tier | Role | Opened | Confidence | Sponsorship | Notes |
 |---|---|---|---|---|---|---|
-| Salesforce | 1 | [Software Engineering AMTS (College Grad)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | 2026-07-01 | high |  | 2 matching postings |
-| Nvidia | 1 | [Software Quality Assurance Engineer - 2026 New College Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1) | 2026-07-04 | high |  | 5 matching postings |
-| Adobe | 1 | [2027 University Graduate - Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | 2026-07-19 | high |  | 2 matching postings |
-| Snap | 1 | [Software Engineer, Level 3](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer--Level-3_Q326SWE-1) | 2026-08-18 | medium |  | tracker lists a posting the company board does not show; 2 yrs ago opened 2024-09-26; L3 is Snap's entry level (not labeled new grad), 6 US locations. Also 'Software Engineer, iOS, Level 3'. API's iOS Level 4 is not entry. |
-| IBM | 1 | [Entry Level Software Developer 2027](https://careers.ibm.com/en_US/careers/JobDetail/Entry-Level-Software-Developer-2027/129784) | 2026-09-11 (per search snippet) | medium |  | Poughkeepsie NY / Durham NC. IBM careers site blocks fetch; date from search snippet. Other 2027 entry-level programs likely too. |
+| Apple | 1 | [Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems) | 2026-07-30 | high |  | Tracker lead posting (200657382, San Diego, 0-2 yrs C/C++/Python, posted Jul 30 2026) confirmed live via browser with Submit Resume button; no grad-window text; no citizenship/sponsorship exclusion. jobs.py history shows dozens of similar 2026 entry-level SWE postings, several still active.; 3 live  |
+| IBM | 1 | [Entry Level Software Developer 2027](https://careers.ibm.com/en_US/careers/JobDetail/Entry-Level-Software-Developer-2027/129784) | 2026-08-19 | high | no sponsorship | Poughkeepsie NY / Durham NC. IBM careers site blocks fetch; date from search snippet. Other 2027 entry-level programs likely too.; careers.ibm.com blocks WebFetch; confirmed live via browser pane. Apply button present, posted 19-Aug-2026. 'IBM will not be providing visa sponsorship for this position |
+| Microsoft | 1 | [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982924) | 2026-09-23 | high |  | Confirmed tracker_lead live via browser: Software Engineer - Intune (SWE IC2), Cambridge MA, posted Sep 23 2026, Apply button live, entry-level (bachelor's or equivalent), no citizenship/clearance exclusion beyond a standard background check. |
+| Amazon/AWS | 1 | [Software Development Engineer I, Annapurna Labs, Early Career - 2027](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) | 2026-09-24 | high |  | amazon: board (164 postings) shows a live 2027 Early Career SDE posting at Annapurna Labs; WebFetch confirmed active Apply button, grad date May 2027+, no citizenship/sponsorship restriction. Tracker lead (10464055) matches board data, not independently re-verified live.; 2 live postings |
+| Adobe | 1 | [2027 University Graduate - Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | 2026-09-24 | high |  | 2 matching postings; Confirmed tracker lead on Adobe's own Workday board: 2 live 2027 University Graduate postings (SWE, MLE), grad window Dec 2026-Jun 2027, posted 2026-09-24. No citizenship/clearance/sponsorship restriction found in either posting.; 2 live postings |
+| ByteDance / TikTok | 1 | [Backend Software Engineer Graduate (Risk & Response) - 2027 Start](https://lifeattiktok.com/search/7663032057264244997) | on or before 2026-07-16 | high |  | Opened tracker-lead posting in browser: title says '2027 Start', live Apply button present, Seattle, BS+ CS degree, no citizenship/clearance language. History shows dozens more 'Graduate' postings active through 2026-09-22. |
+| Salesforce | 1 | [Software Engineering AMTS (College Grad)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | on or before 2026-08-05 | high |  | 2 matching postings; jobs.py board + detail confirm live posting on Salesforce's own Workday board; tracker lead matches; history confirms last-cycle date. |
 | Google | 1 | [Software Engineer, Early Career, Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) | on or before 2026-08-07 | high |  | Custom board, no API. Verified live posting in browser pane: Apply button present, window open until at least 2026-09-30, no citizenship/clearance/sponsorship restriction found. First seen 2026-08-07 per tracker, satisfying no-2026-window + post-07-01 rule. |
 | Abridge | 2 | [Junior Software Engineer](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | 2026-07-13 | high |  |  |
 | Surge AI | 2 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85) | 2026-07-13 | low |  | tracker lists a posting the company board does not show; US remote; not labeled new grad, closer to ops than SWE. |
@@ -211,12 +213,6 @@ A GitHub tracker lists these as open, but no one has checked the company's own b
 
 | Company | Tier | Role | Opened | Notes |
 |---|---|---|---|---|
-| Amazon/AWS | 1 | [Software Development Engineer I - ML Infra Services - Annapurna Labs](https://www.amazon.jobs/jobs/10464055/apply) | 2026-07-02 |  |
-| Tesla | 1 | [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) | 2026-07-06 |  |
-| Uber | 1 | [Software Engineer I](https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D) | 2026-07-09 |  |
-| ByteDance / TikTok | 1 | [Backend Software Engineer Graduate - Risk & Response](https://lifeattiktok.com/search/7663032057264244997) | 2026-07-16 |  |
-| Apple | 1 | [Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) | 2026-07-31 |  |
-| Microsoft | 1 | [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982924) | 2026-09-24 |  |
 | Whatnot | 3 | [Software Engineer New Grad](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true) | 2026-08-31 |  |
 | Atlassian | 3 | [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) | 2026-09-14 |  |
 | Citadel | 4 | [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) | 2026-07-05 |  |
@@ -243,11 +239,14 @@ A GitHub tracker lists these as open, but no one has checked the company's own b
 
 | Company | Tier | Expected open | Last year opened | Sponsorship | Notes |
 |---|---|---|---|---|---|
-| Meta | 1 | overdue (opened Jul 07 last cycle) | 2025-07-07 |  | No 2027 University Grad SWE found in trackers or search as of 2026-09-24; main SWE UG posting last year appeared mid-August. |
-| Pinterest | 1 | overdue (opened Jul 02 last cycle) | 2025-07-02 |  |  |
-| GitHub | 1 | overdue (~Aug per 2 yrs ago) |  |  | 2 yrs ago opened 2024-08-27; github.careers API shows no early-career/new grad roles; Early in Profession page lists none. May not have run 2026 cycle. |
-| Tencent | 1 | overdue (opened Aug 23 last cycle) | 2025-08-23 |  |  |
-| Oracle | 1 | 2026-10-27 | 2025-10-27 |  | Oracle HCM API keyword 'Undergrad' returns 0 live jobs today. Titles use 'Undergrad Software Engineer', mostly OCI Seattle/Nashville. |
+| Meta | 1 | overdue (opened Aug 14 last cycle) | 2025-08-14 |  | No 2027 University Grad SWE found in trackers or search as of 2026-09-24; main SWE UG posting last year appeared mid-August.; Checked metacareers.com jobsearch filtered to University Grad - Engineering/Business teams: 0 US roles. Unfiltered by office, only 1 UG Engineering posting globally (Research |
+| LinkedIn | 1 | overdue (opened Sep 02 last cycle) | 2025-09-02 |  | Lever board empty; could not confirm a live 2027 entry-level SWE posting. Hires 'Software Engineer - Systems & Infrastructure' associate roles and APB.; Checked full SmartRecruiters board (343 postings, sr:LinkedIn3). All 'Software Engineer' titles (plain, Android, AI Platform, Systems and Infrastru |
+| Oracle | 1 | overdue (opened Aug 07 last cycle) | 2025-08-07 |  | Oracle HCM API keyword 'Undergrad' returns 0 live jobs today. Titles use 'Undergrad Software Engineer', mostly OCI Seattle/Nashville.; Checked full board (182 postings, --all). No 'Undergrad'/new-grad SWE titles. Only near-match 'OCI Core Infrastructure Engineer 2 - Nashville Campus' requires 3-5+ y |
+| Snap | 1 | overdue (opened Sep 26 last cycle) | 2024-09-26 |  | tracker lists a posting the company board does not show; 2 yrs ago opened 2024-09-26; L3 is Snap's entry level (not labeled new grad), 6 US locations. Also 'Software Engineer, iOS, Level 3'. API's iOS Level 4 is not entry.; Live board (33 postings, own API) has no Level 3 (entry-level) SWE posting.  |
+| Pinterest | 1 | overdue (opened Sep 24 last cycle) | 2025-09-24 |  | Greenhouse board has 3 live postings (ML Engineer II, Manager II Data Science, Sr ML Engineer), none entry-level/new-grad. No 2027 university-grad SWE posting live yet. |
+| GitHub | 1 | overdue (~Aug per 2 yrs ago) | unknown |  | 2 yrs ago opened 2024-08-27; github.careers API shows no early-career/new grad roles; Early in Profession page lists none. May not have run 2026 cycle.; No jobs.py spec (board runs on iCIMS/Jibe, login-gated for direct search). Checked github.careers/jobs (78 open US/UK roles, top relevance results  |
+| Tencent | 1 | overdue (opened Aug 14 last cycle) | 2025-08-14 |  | Fetched all 52 live postings on Tencent's own Workday board (jobs.py board --all): none are US 2027 new-grad SWE/backend/ML roles. Current postings are internships, senior roles, or non-US. No open new-grad track found. |
+| Nvidia | 1 | 2026-10-16 | 2025-10-16 |  | 5 matching postings; Board has 164 postings; no US 2027 new-grad SWE/backend/full-stack role live. Tracker lead 'Backend Compiler Engineer - New College Grad 2026' (JR2021242) not found via API, treated as closed 2026 leftover. Only 2027 US listings are internships; the 2027 New College Graduate SWE |
 | SpaceXAI (xAI) | 2 | overdue (opened Jul 20 last cycle) | 2025-07-20 |  | tracker lists a posting the company board does not show |
 | Harvey | 2 | overdue (opened Aug 22 last cycle) | 2025-08-22 |  |  |
 | Glean | 2 | overdue (opened Sep 03 last cycle) | 2025-09-03 |  |  |
@@ -511,10 +510,9 @@ A GitHub tracker lists these as open, but no one has checked the company's own b
 
 | Company | Tier | Status | Expected open | Notes |
 |---|---|---|---|---|
-| Netflix | 1 | not_yet | 2026-12-05 | Only Winter 2027 PhD intern roles live. Two years ago opened 2024-09-12; very small cohort. |
-| LinkedIn | 1 | not_yet | 2026-12-17 | Lever board empty; could not confirm a live 2027 entry-level SWE posting. Hires 'Software Engineer - Systems & Infrastructure' associate roles and APB. |
-| Airbnb | 1 | not_yet | 2027-04-30 | last yr: Simplify: 'Software Engineer New Grad' Seattle/SF posted 202; Airbnb posts new-grad roles in spring (Apr), not fall; expect ~Apr 2027. |
-| Alibaba Group | 1 | unknown |  | US roles (Sunnyvale, Seattle/Bellevue) appear experienced-only; campus hiring is China-focused. |
+| Netflix | 1 | not_yet | 2026-12-05 | Only Winter 2027 PhD intern roles live. Two years ago opened 2024-09-12; very small cohort.; Searched explore.jobs.netflix.net for 'software engineer', 'university', 'graduate' in United States. All software engineer results are L4/L5/L6 (senior); 'university' returns 0 jobs; 'graduate' returns only |
+| Uber | 1 | closed | 2026-12-18 | Tracker-lead posting 160017 now returns "Not found" on jobs.uber.com. University-team listing on jobs.uber.com shows no live new-grad SWE posting (only a PhD AV Labs role, also marked removed). A this-cycle posting existed (first seen 2026-07-09) but is gone now. |
+| Airbnb | 1 | not_yet | 2027-04-28 | last yr: Simplify: 'Software Engineer New Grad' Seattle/SF posted 202; Airbnb posts new-grad roles in spring (Apr), not fall; expect ~Apr 2027.; Checked all 156 live postings on Airbnb's Greenhouse board (--all, no filter); none are new-grad/university/entry-level SWE. Airbnb posts new-grad roles in |
 | SandboxAQ | 2 | not_yet | 2026-11-21 | Early-career track is the Residency Program (fixed-term). Some gov-facing roles need clearance; residency did not. |
 | Snorkel AI | 2 | not_yet | 2027-01-07 (from 2 yrs ago) | 2 yrs ago opened 2025-01-07; 2024 cycle first posting 2025-01-07; no 2025-cycle posting tracked. |
 | Distyl AI | 2 | not_yet | 2027-01-11 |  |

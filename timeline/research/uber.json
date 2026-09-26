@@ -1,0 +1,19 @@
+{
+  "company": "Uber",
+  "tier": 1,
+  "checked": "2026-09-25",
+  "status": "closed",
+  "postings": [
+    {"title": "Software Engineer I", "url": "https://jobs.uber.com/en/jobs/160017/", "location": "Seattle, WA",
+     "opened": "on or before 2026-07-09", "date_source": "tracker first seen",
+     "grad_window": null, "live_verified": "browser"}
+  ],
+  "last_cycle_opened": "2025-12-18",
+  "last_cycle_basis": "tracker first-seen of job 152427 (\"Graduate Software Engineer 1\", later listed as \"Graduate 2026 Software Engineer 1 - US\"), Seattle/SF/NYC/Sunnyvale",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.uber.com",
+  "jobs_spec": null,
+  "evidence": "Tracker-lead posting 160017 now returns \"Not found\" on jobs.uber.com. University-team listing on jobs.uber.com shows no live new-grad SWE posting (only a PhD AV Labs role, also marked removed). A this-cycle posting existed (first seen 2026-07-09) but is gone now.",
+  "confidence": "medium"
+}

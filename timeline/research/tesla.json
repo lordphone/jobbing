@@ -1,0 +1,15 @@
+{
+  "company": "Tesla",
+  "tier": 1,
+  "checked": "2026-09-25",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": "2025-07-05",
+  "last_cycle_basis": "tracker_last_cycle from prior pass (GitHub tracker first-seen date), not independently re-verified this run",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.tesla.com/careers/search/?site=US",
+  "jobs_spec": null,
+  "evidence": "Tesla's own careers search (browser, custom site, no API) returns 0 results for \"new grad\", \"new college grad\", and \"software engineer new grad\". The tracker-lead posting (req 276000, Applied Reinforcement Learning Engineer, Whole Body Controls, Optimus) is live but is a general-level Tesla AI/robotics role open to 'all levels, including recent graduates' with no 2027 grad-window language or dedicated new-grad track; it doesn't confirm an open new-grad SWE program. No separate new-grad SWE/ML posting found on the live board.",
+  "confidence": "medium"
+}

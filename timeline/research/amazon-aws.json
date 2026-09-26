@@ -1,0 +1,34 @@
+{
+  "company": "Amazon/AWS",
+  "tier": 1,
+  "checked": "2026-09-25",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "location": "Austin, TX; Seattle, WA; New York, NY; Cupertino, CA",
+      "opened": "2026-09-24",
+      "date_source": "page text (job posting URL and board listing date)",
+      "grad_window": "May 2027 or later",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs",
+      "location": "Cupertino, CA",
+      "opened": "on or before 2026-07-02",
+      "date_source": "tracker first seen (matches board listing date of July 1, 2026)",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_opened": "2025-10-17",
+  "last_cycle_basis": "amazon.jobs board history: 'Software Engineer I' (job 3111761), first 2026-grad-cycle SDE-titled posting in the tracker snapshot history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.amazon.jobs",
+  "jobs_spec": "amazon:",
+  "evidence": "amazon: board (164 postings) shows a live 2027 Early Career SDE posting at Annapurna Labs; WebFetch confirmed active Apply button, grad date May 2027+, no citizenship/sponsorship restriction. Tracker lead (10464055) matches board data, not independently re-verified live.",
+  "confidence": "high"
+}
