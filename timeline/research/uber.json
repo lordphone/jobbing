@@ -1,7 +1,7 @@
 {
   "company": "Uber",
   "tier": 1,
-  "checked": "2026-09-25",
+  "checked": "2026-09-27",
   "status": "closed",
   "postings": [
     {"title": "Software Engineer I", "url": "https://jobs.uber.com/en/jobs/160017/", "location": "Seattle, WA",
@@ -14,6 +14,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
   "jobs_spec": null,
-  "evidence": "Tracker-lead posting 160017 now returns \"Not found\" on jobs.uber.com. University-team listing on jobs.uber.com shows no live new-grad SWE posting (only a PhD AV Labs role, also marked removed). A this-cycle posting existed (first seen 2026-07-09) but is gone now.",
+  "evidence": "Re-checked 2026-09-27: tracker-lead posting 160017 still returns \"Not found\" on jobs.uber.com. University-team filter on jobs.uber.com shows all listings, including the PhD AV Labs role, marked \"Job removed\" -- no live new-grad SWE posting.",
   "confidence": "medium"
 }

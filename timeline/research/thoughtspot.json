@@ -1,0 +1,15 @@
+{
+  "company": "ThoughtSpot",
+  "tier": 6,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker history has one weak match ('Member of Technical Staff 2', Mountain View, 2026-04-09) that is likely not entry-level (level 2); not used as a confirmed last-cycle date.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://thoughtspot.wd5.myworkdayjobs.com/careers",
+  "jobs_spec": "wd:thoughtspot/wd5/careers",
+  "evidence": "Workday API (direct POST to /wday/cxs/thoughtspot/careers/jobs) returns total=0 -- the entire board is currently empty company-wide, not just for new grads. No qualifying posting exists to find.",
+  "confidence": "medium"
+}

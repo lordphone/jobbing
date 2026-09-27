@@ -13,9 +13,7 @@ description: >-
 
 ## Statuses
 
-`draft` · `applied` · `oa` · `screen` · `interview` · `rejected` · `offer` · `withdrawn`
-
-Map from the email or message:
+Values are listed at the top of `TRACKER.md`. Map from the email or message:
 
 - application received / "thank you for applying" / submitted → `applied`
 - CodeSignal / HackerRank / Karat / OA / take-home → `oa`
@@ -52,17 +50,22 @@ Tell the user which row changed and old → new status or outreach.
 
 ## Outreach
 
-The tracker's `Outreach` column is the one-glance summary. Values:
+The tracker's `Outreach` column is the one-glance summary; values are listed at the top of `TRACKER.md`.
 
-`—` not reached out · `sent` requests sent · `talking` someone replied · `referred` someone submitted a referral · `none` looked, found nobody, applied cold
+The details go in the Contacts table at the bottom of `applications/<folder>/outreach.md`:
 
-The details go in the Contacts table at the bottom of `applications/<folder>/outreach.md`: `Name | Link | Type | Sent | Status | Notes`.
+```markdown
+## Contacts
+
+| Name | Link | Type | Sent | Status | Notes |
+|------|------|------|------|--------|-------|
+```
 
 - Type: `CMU alum` · `UW alum` · `non-alum` · `hiring mgr`
 - Sent: the date he sent the request (`MM-DD`), today if he does not say.
 - Status: `no reply` · `replied` · `referred MM-DD` · `declined`, plus anything short he mentions.
 - Add one row per person he names ("sent to J. Chen and A. Patel at Visa"). Update the existing row when he reports on someone already logged. Record names and links only as he gives them; do not look people up or fill in a link he did not provide.
-- If `outreach.md` has no Contacts table, add one at the end. If the application has no folder, keep the details in the tracker Notes instead.
+- If `outreach.md` has no Contacts table, add one at the end. If the folder has no `outreach.md` (applications made before the outreach step), create one containing only the Contacts table. If the application has no folder, keep the details in the tracker Notes instead.
 
 Set the tracker `Outreach` value from the best contact status: any referral → `referred`, else any reply → `talking`, else any sent → `sent`. Set `none` only when he says he found nobody. Never move it backward (a later "no reply" does not undo `referred`).
 

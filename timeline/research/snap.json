@@ -1,19 +1,15 @@
 {
   "company": "Snap",
   "tier": 1,
-  "checked": "2026-09-25",
+  "checked": "2026-09-27",
   "status": "closed",
-  "postings": [
-    {"title": "Software Engineer - Backend - Level 3", "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3", "location": "Palo Alto, CA; Seattle, WA; SF; LA; NYC; Bellevue",
-     "opened": "on or before 2026-07-23", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
-  ],
+  "postings": [],
   "last_cycle_opened": "2024-09-26",
-  "last_cycle_basis": "tracker first-seen date for 'New Grad: Software Engineer, Full Stack', Seattle WA",
+  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' and 'Software Engineer - New Grad Engineer - Full Stack', Seattle, WA, first seen 2024-09-26",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
   "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Live board (33 postings, own API) has no Level 3 (entry-level) SWE posting. Tracker's 'Level 4' iOS lead is live but requires 2+ yrs post-Bachelor's exp, so does not qualify. A this-cycle Level 3 Backend posting (first seen 2026-07-23) is absent from the live board and tracker marks it closed.",
+  "evidence": "Board has 32 postings, no entry-level SWE. Tracker's 'Software Engineer - Backend - Level 3' (first seen 2026-07-23) is gone from board. Tracker's iOS Level 4 posting is live but requires '2+ years of post-Bachelor's software development experience' -> not new-grad eligible.",
   "confidence": "high"
 }

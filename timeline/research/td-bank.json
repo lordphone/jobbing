@@ -1,0 +1,15 @@
+{
+  "company": "TD Bank (TD Bank Group)",
+  "tier": 5,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": "2026-01-16",
+  "last_cycle_basis": "worklist tracker_last_cycle hint (unconfirmed on own board)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+  "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
+  "evidence": "Workday API: 161 postings, 7 SWE-title matches, but all live 'Software Engineer I' / 'Quality Engineer I' roles are in Toronto/London Ontario (Canada, not US) and the Java role requires 3-5 years experience. US Mount Laurel NJ tech postings found are all 2027 co-op/summer internships, not full-time new-grad roles. Corrects previous_result of 'open' (that API read included non-US and non-qualifying postings).",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "company": "Scale AI",
+  "tier": 2,
+  "checked": "2026-09-27",
+  "status": "open",
+  "postings": [
+    {"title": "Software Engineer - New Grad", "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005", "location": "San Francisco, CA",
+     "opened": "2026-09-04", "date_source": "greenhouse first_published",
+     "grad_window": "Fall 2026 or Spring 2027", "live_verified": "api"},
+    {"title": "Software Engineer - New Grad", "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005", "location": "London, UK",
+     "opened": "2026-09-14", "date_source": "greenhouse first_published",
+     "grad_window": "Fall 2026 or Spring 2027", "live_verified": "api"},
+    {"title": "Software Engineer, Public Sector - New Grad", "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005", "location": "San Francisco, CA",
+     "opened": "2026-09-23", "date_source": "greenhouse first_published",
+     "grad_window": "Fall 2026 or Spring 2027", "live_verified": "api"}
+  ],
+  "last_cycle_opened": "2025-09-08",
+  "last_cycle_basis": "jobs.py history 'scale ?ai': 'Software Engineer – New Grad' SF, https://job-boards.greenhouse.io/scaleai/jobs/4605996005, first seen 2025-09-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/scaleai",
+  "jobs_spec": "gh:scaleai",
+  "evidence": "gh:scaleai board and detail confirm 3 live 2027-cycle New Grad SWE postings (SF, London, SF Public Sector), grad window Fall 2026/Spring 2027. No citizenship/clearance/sponsorship line found in the detail excerpt for the Public Sector posting.",
+  "confidence": "high"
+}

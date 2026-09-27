@@ -1,15 +1,15 @@
 {
   "company": "GitHub",
   "tier": 1,
-  "checked": "2026-09-25",
+  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "Tracker history (jobs.py history 'github') shows 5 prior-cycle postings (2024-08-27, 2024-09-11, 2024-09-17, 2025-01-06, 2025-01-16, e.g. 'New Grad: Software Engineer I') but none in the 2025-07 to 2026-01 window used to date the current last cycle.",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no first-party posting found via search or the careers site to date a last-cycle opening",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.github.careers/careers-home/jobs",
+  "jobs_page": "https://www.github.careers/early-in-profession",
   "jobs_spec": null,
-  "evidence": "No jobs.py spec (board runs on iCIMS/Jibe, login-gated for direct search). Checked github.careers/jobs (78 open US/UK roles, top relevance results for 'software engineer' all Senior/Staff/Principal) and /early-in-profession, which describes an early-career program but lists no open postings.",
-  "confidence": "medium"
+  "evidence": "github.careers 'Early in Profession' > 'University grads' page exists and links to a generic job search, but no specific new-grad/entry-level SWE posting is listed. Board runs on iCIMS (careers-githubinc.icims.com), which is JS-rendered and returned no listings via WebFetch; browser pane was unavailable this run (shared/contended). WebSearch found no confirmed live 2027 GitHub new-grad posting on trackers either.",
+  "confidence": "low"
 }

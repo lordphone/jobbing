@@ -1,0 +1,15 @@
+{
+  "company": "SpaceXAI (xAI)",
+  "tier": 2,
+  "checked": "2026-09-27",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history 'xai|spacexai' shows no distinct new-grad SWE posting; the one 'Software Engineer – New Grad' hit is FlexAI (ats.rippling.com/flexai), a different company matched by substring, not xAI",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/xai",
+  "jobs_spec": "gh:xai",
+  "evidence": "Checked full gh:xai board (276 postings, --all). No 'new grad'/'university'/entry-level SWE track. Tracker lead 'Software Engineer - Evals' (5188230007) requires '3+ years of experience actively writing code' -- excluded, not new-grad.",
+  "confidence": "medium"
+}

@@ -1,15 +1,19 @@
 {
   "company": "Tesla",
   "tier": 1,
-  "checked": "2026-09-25",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-27",
+  "status": "open",
+  "postings": [
+    {"title": "Applied Reinforcement Learning Engineer, Whole Body Controls, Optimus", "url": "https://www.tesla.com/careers/search/job/276000", "location": "Palo Alto, CA",
+     "opened": "on or before 2026-07-06", "date_source": "tracker first seen",
+     "grad_window": null, "live_verified": "browser"}
+  ],
   "last_cycle_opened": "2025-07-05",
-  "last_cycle_basis": "tracker_last_cycle from prior pass (GitHub tracker first-seen date), not independently re-verified this run",
+  "last_cycle_basis": "tracker first-seen 'Software Engineer, Machine Learning Integration, Optimus' (Palo Alto, CA), job/245229, via jobs.py history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.tesla.com/careers/search/?site=US",
   "jobs_spec": null,
-  "evidence": "Tesla's own careers search (browser, custom site, no API) returns 0 results for \"new grad\", \"new college grad\", and \"software engineer new grad\". The tracker-lead posting (req 276000, Applied Reinforcement Learning Engineer, Whole Body Controls, Optimus) is live but is a general-level Tesla AI/robotics role open to 'all levels, including recent graduates' with no 2027 grad-window language or dedicated new-grad track; it doesn't confirm an open new-grad SWE program. No separate new-grad SWE/ML posting found on the live board.",
+  "evidence": "Tesla careers search (browser) has no titled 'new grad' program; keyword searches return 0. But tracker-lead job/276000 (AI Engineer role, posted 2026-07-06, live, Apply button present) reads: 'We hire at all levels, including recent graduates with strong controls or robotics fundamentals and a demonstrated project or research record.' No citizenship/clearance/sponsorship exclusion in the posting. Counts as an open AI-engineer posting welcoming new grads this cycle.",
   "confidence": "medium"
 }

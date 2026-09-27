@@ -1,6 +1,6 @@
 # Skills
 
-Union of resume skills plus NewsBreak skills that the internship record marks as shipped. Reorder and drop to match the JD. Do not add a skill that is not here. Group labels can change; the skill names cannot.
+Union of resume skills plus NewsBreak skills that shipped. Reorder and drop to match the JD. Group labels can change; the skill names cannot.
 
 ## Languages
 

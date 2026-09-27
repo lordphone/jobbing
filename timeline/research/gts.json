@@ -1,0 +1,15 @@
+{
+  "company": "GTS",
+  "tier": 4,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker/history evidence found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers-gtsx.icims.com",
+  "jobs_spec": null,
+  "evidence": "iCIMS board (no API); WebFetch of the search page and the main careers page did not surface individual listings (JS-rendered). Company page references a Core Technology team and 'graduate co-op programs' but the only confirmed 2027 program is Quantitative Trader (non-SWE, ETF group). No confirmed live SWE new-grad posting; would need the browser pane on the iCIMS search results to be certain.",
+  "confidence": "low"
+}

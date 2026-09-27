@@ -1,15 +1,15 @@
 {
   "company": "X",
   "tier": 1,
-  "checked": "2026-09-25",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No last-cycle new-grad SWE posting found under xai/spacex Greenhouse boards in tracker history; nearest were internship/experienced roles.",
+  "last_cycle_basis": "history search on xAI's greenhouse board (job-boards.greenhouse.io/xai) found no new-grad-labeled SWE posting; generic 'Software Engineer' reqs exist but carry no grad-window or entry-level language",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xai",
   "jobs_spec": "gh:xai",
-  "evidence": "wd:twitter/wd5/X board (in worklist) returns not found -- X folded into xAI (SpaceXAI) in 2026. Checked xAI's own Greenhouse board (gh:xai, 278 postings, --all) for new-grad/university/2027/entry-level SWE roles: none found, only senior roles (e.g. 'Exceptional Software Engineer', 'Backend Engineer') and non-eng postings. Confirms previous_result.",
+  "evidence": "Checked xai greenhouse board (276 postings, --all). No 'new grad'/'university'/'graduate'/'early career' titles. Generic Software Engineer reqs show no grad window or years-of-experience language in detail.",
   "confidence": "medium"
 }

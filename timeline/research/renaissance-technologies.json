@@ -1,0 +1,15 @@
+{
+  "company": "Renaissance Technologies",
+  "tier": 4,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.rentec.com/Careers.action?jobs=true",
+  "jobs_spec": null,
+  "evidence": "worklist jobs_spec (gh:renaissancelearning-nam) is the WRONG company (Renaissance Learning, an ed-tech firm) - needs correction in sources.csv/overrides.json. Real board is rentec.com/Careers.action; it lists Programmer/Engineer roles (Data Programmer, Financial Infrastructure Programmer, Research Infrastructure Programmer, Systems Engineer) with no posted dates or explicit grad-year/experience language visible via WebFetch - could not confirm this-cycle new-grad status.",
+  "confidence": "low"
+}

@@ -2,6 +2,8 @@
 
 1733 companies.
 
+A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
+
 ## 1. FAANG+ / Big Tech (22)
 
 - Google

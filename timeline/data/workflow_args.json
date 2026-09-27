@@ -1,90 +1,1206 @@
 {
-  "approval": "Lordphone asked: \"confirm the tracker leads for Apple, Amazon and Microsoft and the rest of tier 1 tech companies\", then approved the ~1.2M-token run with \"run it\".",
-  "worklist": "/Users/lordphone/Documents/jobbing/timeline/data/worklist.json",
-  "companies": [
-    [
-      "Meta",
-      0
-    ],
-    [
-      "Apple",
-      1
-    ],
-    [
-      "Amazon/AWS",
-      2
-    ],
-    [
-      "Netflix",
-      3
-    ],
-    [
-      "Microsoft",
-      4
-    ],
-    [
-      "LinkedIn",
-      5
-    ],
-    [
-      "Nvidia",
-      6
-    ],
-    [
-      "Tesla",
-      7
-    ],
-    [
-      "Oracle",
-      8
-    ],
-    [
-      "Salesforce",
-      9
-    ],
-    [
-      "Adobe",
-      10
-    ],
-    [
-      "IBM",
-      11
-    ],
-    [
-      "Uber",
-      12
-    ],
-    [
-      "Airbnb",
-      13
-    ],
-    [
-      "ByteDance / TikTok",
-      14
-    ],
-    [
-      "Snap",
-      15
-    ],
-    [
-      "Pinterest",
-      16
-    ],
-    [
-      "X",
-      17
-    ],
-    [
-      "GitHub",
-      18
-    ],
-    [
-      "Tencent",
-      19
-    ],
-    [
-      "Alibaba Group",
-      20
-    ]
+ "approval": "FILL IN: his request, quoted",
+ "worklist": "/Users/lordphone/Documents/jobbing/timeline/data/worklist.json",
+ "companies": [
+  [
+   "Next Insurance",
+   0
+  ],
+  [
+   "Ethos",
+   1
+  ],
+  [
+   "Clover Health",
+   2
+  ],
+  [
+   "Doximity",
+   3
+  ],
+  [
+   "Headway",
+   4
+  ],
+  [
+   "Color Health",
+   5
+  ],
+  [
+   "Better (Better.com)",
+   6
+  ],
+  [
+   "Yugabyte",
+   7
+  ],
+  [
+   "Airbyte",
+   8
+  ],
+  [
+   "Hex",
+   9
+  ],
+  [
+   "Highspot",
+   10
+  ],
+  [
+   "Egnyte",
+   11
+  ],
+  [
+   "project44",
+   12
+  ],
+  [
+   "Jane Street",
+   13
+  ],
+  [
+   "Citadel",
+   14
+  ],
+  [
+   "Citadel Securities",
+   15
+  ],
+  [
+   "Two Sigma",
+   16
+  ],
+  [
+   "Hudson River Trading",
+   17
+  ],
+  [
+   "Jump Trading",
+   18
+  ],
+  [
+   "D.E. Shaw",
+   19
+  ],
+  [
+   "Optiver",
+   20
+  ],
+  [
+   "IMC Trading",
+   21
+  ],
+  [
+   "Susquehanna International Group (SIG)",
+   22
+  ],
+  [
+   "Five Rings",
+   23
+  ],
+  [
+   "Tower Research Capital",
+   24
+  ],
+  [
+   "Akuna Capital",
+   25
+  ],
+  [
+   "DRW",
+   26
+  ],
+  [
+   "Virtu Financial",
+   27
+  ],
+  [
+   "Point72",
+   28
+  ],
+  [
+   "Millennium",
+   29
+  ],
+  [
+   "Bridgewater",
+   30
+  ],
+  [
+   "AQR",
+   31
+  ],
+  [
+   "Chicago Trading Company (CTC)",
+   32
+  ],
+  [
+   "Balyasny Asset Management",
+   33
+  ],
+  [
+   "Old Mission Capital",
+   34
+  ],
+  [
+   "Renaissance Technologies",
+   35
+  ],
+  [
+   "WorldQuant",
+   36
+  ],
+  [
+   "Squarepoint Capital",
+   37
+  ],
+  [
+   "Schonfeld Strategic Advisors",
+   38
+  ],
+  [
+   "XTX Markets",
+   39
+  ],
+  [
+   "Flow Traders",
+   40
+  ],
+  [
+   "Man Group",
+   41
+  ],
+  [
+   "Marshall Wace",
+   42
+  ],
+  [
+   "Qube Research & Technologies (QRT)",
+   43
+  ],
+  [
+   "Brevan Howard",
+   44
+  ],
+  [
+   "Elliott Investment Management",
+   45
+  ],
+  [
+   "Tudor Investment Corporation",
+   46
+  ],
+  [
+   "Quantlab Financial",
+   47
+  ],
+  [
+   "The Voleon Group",
+   48
+  ],
+  [
+   "PEAK6",
+   49
+  ],
+  [
+   "G-Research",
+   50
+  ],
+  [
+   "Radix Trading",
+   51
+  ],
+  [
+   "PDT Partners",
+   52
+  ],
+  [
+   "Headlands Technologies",
+   53
+  ],
+  [
+   "Hyannis Port Research (HPR)",
+   54
+  ],
+  [
+   "Belvedere Trading",
+   55
+  ],
+  [
+   "Wolverine Trading",
+   56
+  ],
+  [
+   "Geneva Trading",
+   57
+  ],
+  [
+   "Engineers Gate",
+   58
+  ],
+  [
+   "Walleye Capital",
+   59
+  ],
+  [
+   "Verition Fund Management",
+   60
+  ],
+  [
+   "Jain Global",
+   61
+  ],
+  [
+   "Trexquant",
+   62
+  ],
+  [
+   "Voloridge",
+   63
+  ],
+  [
+   "Teza Technologies",
+   64
+  ],
+  [
+   "DV Trading",
+   65
+  ],
+  [
+   "Maven Securities",
+   66
+  ],
+  [
+   "Aquatic Capital Management",
+   67
+  ],
+  [
+   "StoneX Group",
+   68
+  ],
+  [
+   "Wintermute",
+   69
+  ],
+  [
+   "GTS",
+   70
+  ],
+  [
+   "TGS Management",
+   71
+  ],
+  [
+   "Vatic Labs",
+   72
+  ],
+  [
+   "Arrowstreet Capital",
+   73
+  ],
+  [
+   "ExodusPoint",
+   74
+  ],
+  [
+   "Aquatic Capital",
+   75
+  ],
+  [
+   "Graham Capital Management",
+   76
+  ],
+  [
+   "Group One Trading",
+   77
+  ],
+  [
+   "Simplex Trading",
+   78
+  ],
+  [
+   "XR Trading",
+   79
+  ],
+  [
+   "Magnetar Capital",
+   80
+  ],
+  [
+   "JPMorgan Chase",
+   81
+  ],
+  [
+   "Goldman Sachs",
+   82
+  ],
+  [
+   "Morgan Stanley",
+   83
+  ],
+  [
+   "Bank of America",
+   84
+  ],
+  [
+   "Citi",
+   85
+  ],
+  [
+   "Wells Fargo",
+   86
+  ],
+  [
+   "Capital One",
+   87
+  ],
+  [
+   "American Express",
+   88
+  ],
+  [
+   "BlackRock",
+   89
+  ],
+  [
+   "Fidelity Investments",
+   90
+  ],
+  [
+   "Charles Schwab",
+   91
+  ],
+  [
+   "Vanguard",
+   92
+  ],
+  [
+   "Visa",
+   93
+  ],
+  [
+   "Mastercard",
+   94
+  ],
+  [
+   "PayPal",
+   95
+  ],
+  [
+   "Intuit",
+   96
+  ],
+  [
+   "Bloomberg",
+   97
+  ],
+  [
+   "Nasdaq",
+   98
+  ],
+  [
+   "Intercontinental Exchange (ICE)",
+   99
+  ],
+  [
+   "S&P Global",
+   100
+  ],
+  [
+   "Moody's",
+   101
+  ],
+  [
+   "State Street",
+   102
+  ],
+  [
+   "BNY",
+   103
+  ],
+  [
+   "Barclays",
+   104
+  ],
+  [
+   "Deutsche Bank",
+   105
+  ],
+  [
+   "UBS",
+   106
+  ],
+  [
+   "Fiserv",
+   107
+  ],
+  [
+   "FIS",
+   108
+  ],
+  [
+   "Global Payments / Worldpay",
+   109
+  ],
+  [
+   "Truist",
+   110
+  ],
+  [
+   "U.S. Bank",
+   111
+  ],
+  [
+   "FactSet",
+   112
+  ],
+  [
+   "CME Group",
+   113
+  ],
+  [
+   "HSBC",
+   114
+  ],
+  [
+   "Fannie Mae",
+   115
+  ],
+  [
+   "Freddie Mac",
+   116
+  ],
+  [
+   "TIAA",
+   117
+  ],
+  [
+   "PNC Financial Services",
+   118
+  ],
+  [
+   "Principal Financial Group",
+   119
+  ],
+  [
+   "Synchrony Financial",
+   120
+  ],
+  [
+   "Ally Financial",
+   121
+  ],
+  [
+   "Fifth Third Bank",
+   122
+  ],
+  [
+   "Edward Jones",
+   123
+  ],
+  [
+   "Raymond James Financial",
+   124
+  ],
+  [
+   "LPL Financial",
+   125
+  ],
+  [
+   "Bilt",
+   126
+  ],
+  [
+   "AlphaSense",
+   127
+  ],
+  [
+   "iCapital",
+   128
+  ],
+  [
+   "Addepar",
+   129
+  ],
+  [
+   "Checkout.com",
+   130
+  ],
+  [
+   "Revolut",
+   131
+  ],
+  [
+   "Mercury",
+   132
+  ],
+  [
+   "Greenlight Financial Technology",
+   133
+  ],
+  [
+   "Klarna",
+   134
+  ],
+  [
+   "eToro",
+   135
+  ],
+  [
+   "Wealthfront",
+   136
+  ],
+  [
+   "Gemini (Gemini Space Station, Inc.)",
+   137
+  ],
+  [
+   "Galaxy Digital",
+   138
+  ],
+  [
+   "Wise",
+   139
+  ],
+  [
+   "Upstart",
+   140
+  ],
+  [
+   "Citizens (Citizens Financial Group)",
+   141
+  ],
+  [
+   "KeyBank (KeyCorp)",
+   142
+  ],
+  [
+   "M&T Bank",
+   143
+  ],
+  [
+   "Huntington Bank (Huntington Bancshares)",
+   144
+  ],
+  [
+   "Regions Financial (Regions Bank)",
+   145
+  ],
+  [
+   "Northern Trust",
+   146
+  ],
+  [
+   "TD Bank (TD Bank Group)",
+   147
+  ],
+  [
+   "RBC (Royal Bank of Canada)",
+   148
+  ],
+  [
+   "BMO (Bank of Montreal)",
+   149
+  ],
+  [
+   "CIBC",
+   150
+  ],
+  [
+   "MUFG",
+   151
+  ],
+  [
+   "Mizuho Financial Group",
+   152
+  ],
+  [
+   "Santander (Santander US)",
+   153
+  ],
+  [
+   "BBVA",
+   154
+  ],
+  [
+   "ING",
+   155
+  ],
+  [
+   "Jefferies",
+   156
+  ],
+  [
+   "Stifel Financial",
+   157
+  ],
+  [
+   "Houlihan Lokey",
+   158
+  ],
+  [
+   "Ameriprise Financial",
+   159
+  ],
+  [
+   "T. Rowe Price",
+   160
+  ],
+  [
+   "Franklin Templeton",
+   161
+  ],
+  [
+   "Invesco",
+   162
+  ],
+  [
+   "PIMCO",
+   163
+  ],
+  [
+   "Wellington Management",
+   164
+  ],
+  [
+   "Dimensional Fund Advisors",
+   165
+  ],
+  [
+   "Neuberger Berman",
+   166
+  ],
+  [
+   "AllianceBernstein",
+   167
+  ],
+  [
+   "Blackstone",
+   168
+  ],
+  [
+   "Apollo Global Management",
+   169
+  ],
+  [
+   "Ares Management",
+   170
+  ],
+  [
+   "Brookfield Corporation / Brookfield Asset Management",
+   171
+  ],
+  [
+   "Bain Capital",
+   172
+  ],
+  [
+   "General Atlantic",
+   173
+  ],
+  [
+   "Vista Equity Partners",
+   174
+  ],
+  [
+   "Equifax",
+   175
+  ],
+  [
+   "Experian",
+   176
+  ],
+  [
+   "TransUnion",
+   177
+  ],
+  [
+   "Morningstar",
+   178
+  ],
+  [
+   "Dun & Bradstreet",
+   179
+  ],
+  [
+   "Verisk",
+   180
+  ],
+  [
+   "LSEG (London Stock Exchange Group)",
+   181
+  ],
+  [
+   "Tradeweb Markets",
+   182
+  ],
+  [
+   "Cboe Global Markets",
+   183
+  ],
+  [
+   "Depository Trust & Clearing Corporation (DTCC)",
+   184
+  ],
+  [
+   "FINRA",
+   185
+  ],
+  [
+   "Federal Reserve System",
+   186
+  ],
+  [
+   "Interactive Brokers",
+   187
+  ],
+  [
+   "Broadridge Financial Solutions",
+   188
+  ],
+  [
+   "Western Union",
+   189
+  ],
+  [
+   "Early Warning Services (Zelle)",
+   190
+  ],
+  [
+   "LendingClub",
+   191
+  ],
+  [
+   "OneMain Financial",
+   192
+  ],
+  [
+   "Rocket Companies",
+   193
+  ],
+  [
+   "Sallie Mae (SLM Corporation)",
+   194
+  ],
+  [
+   "Navy Federal Credit Union",
+   195
+  ],
+  [
+   "NCR Voyix",
+   196
+  ],
+  [
+   "OKX",
+   197
+  ],
+  [
+   "Credit Karma",
+   198
+  ],
+  [
+   "Marqeta",
+   199
+  ],
+  [
+   "Adyen",
+   200
+  ],
+  [
+   "Betterment",
+   201
+  ],
+  [
+   "NerdWallet",
+   202
+  ],
+  [
+   "MSCI",
+   203
+  ],
+  [
+   "PitchBook (Morningstar)",
+   204
+  ],
+  [
+   "FICO",
+   205
+  ],
+  [
+   "Macquarie Group",
+   206
+  ],
+  [
+   "Nomura",
+   207
+  ],
+  [
+   "BNP Paribas",
+   208
+  ],
+  [
+   "Capital Group",
+   209
+  ],
+  [
+   "Nu Holdings (Nubank)",
+   210
+  ],
+  [
+   "Payoneer",
+   211
+  ],
+  [
+   "Webull",
+   212
+  ],
+  [
+   "Jack Henry & Associates",
+   213
+  ],
+  [
+   "KKR",
+   214
+  ],
+  [
+   "IEX Group",
+   215
+  ],
+  [
+   "Lazard",
+   216
+  ],
+  [
+   "Evercore",
+   217
+  ],
+  [
+   "Empower",
+   218
+  ],
+  [
+   "Shift4",
+   219
+  ],
+  [
+   "MoneyGram",
+   220
+  ],
+  [
+   "LendingTree",
+   221
+  ],
+  [
+   "Prosper Marketplace",
+   222
+  ],
+  [
+   "MoneyLion (Gen Digital)",
+   223
+  ],
+  [
+   "The Carlyle Group",
+   224
+  ],
+  [
+   "TPG Inc.",
+   225
+  ],
+  [
+   "First Citizens BancShares (Silicon Valley Bank, a division of First Citizens Bank)",
+   226
+  ],
+  [
+   "Scotiabank (Bank of Nova Scotia)",
+   227
+  ],
+  [
+   "Cantor Fitzgerald",
+   228
+  ],
+  [
+   "Anchorage Digital",
+   229
+  ],
+  [
+   "Paxos",
+   230
+  ],
+  [
+   "Upgrade",
+   231
+  ],
+  [
+   "Bullish",
+   232
+  ],
+  [
+   "Figure Technology Solutions",
+   233
+  ],
+  [
+   "Miami International Holdings (MIAX)",
+   234
+  ],
+  [
+   "MarketAxess",
+   235
+  ],
+  [
+   "Options Clearing Corporation (OCC)",
+   236
+  ],
+  [
+   "Apex Fintech Solutions",
+   237
+  ],
+  [
+   "SS&C Technologies",
+   238
+  ],
+  [
+   "Clearwater Analytics",
+   239
+  ],
+  [
+   "Q2",
+   240
+  ],
+  [
+   "nCino",
+   241
+  ],
+  [
+   "Corpay",
+   242
+  ],
+  [
+   "WEX",
+   243
+  ],
+  [
+   "Pennymac",
+   244
+  ],
+  [
+   "United Wholesale Mortgage",
+   245
+  ],
+  [
+   "Bread Financial",
+   246
+  ],
+  [
+   "Envestnet",
+   247
+  ],
+  [
+   "SEI Investments",
+   248
+  ],
+  [
+   "ACI Worldwide",
+   249
+  ],
+  [
+   "Finastra",
+   250
+  ],
+  [
+   "Flywire",
+   251
+  ],
+  [
+   "Blend",
+   252
+  ],
+  [
+   "Dave",
+   253
+  ],
+  [
+   "Varo Bank",
+   254
+  ],
+  [
+   "EarnIn",
+   255
+  ],
+  [
+   "SAP",
+   256
+  ],
+  [
+   "ServiceNow",
+   257
+  ],
+  [
+   "Workday",
+   258
+  ],
+  [
+   "Autodesk",
+   259
+  ],
+  [
+   "Docusign",
+   260
+  ],
+  [
+   "Palo Alto Networks",
+   261
+  ],
+  [
+   "CrowdStrike",
+   262
+  ],
+  [
+   "Zscaler",
+   263
+  ],
+  [
+   "Okta",
+   264
+  ],
+  [
+   "Twilio",
+   265
+  ],
+  [
+   "Zoom Communications",
+   266
+  ],
+  [
+   "HubSpot",
+   267
+  ],
+  [
+   "Epic Systems",
+   268
+  ],
+  [
+   "Veeva",
+   269
+  ],
+  [
+   "Qualtrics",
+   270
+  ],
+  [
+   "Fortinet",
+   271
+  ],
+  [
+   "Rubrik",
+   272
+  ],
+  [
+   "Palantir",
+   273
+  ],
+  [
+   "ADP",
+   274
+  ],
+  [
+   "DataRobot",
+   275
+  ],
+  [
+   "Netskope",
+   276
+  ],
+  [
+   "Snyk",
+   277
+  ],
+  [
+   "Gong",
+   278
+  ],
+  [
+   "1Password",
+   279
+  ],
+  [
+   "Grafana Labs",
+   280
+  ],
+  [
+   "Workato",
+   281
+  ],
+  [
+   "OneTrust",
+   282
+  ],
+  [
+   "Abnormal AI",
+   283
+  ],
+  [
+   "Arctic Wolf",
+   284
+  ],
+  [
+   "ThoughtSpot",
+   285
+  ],
+  [
+   "Vanta",
+   286
+  ],
+  [
+   "Cohesity",
+   287
+  ],
+  [
+   "Harness",
+   288
+  ],
+  [
+   "LaunchDarkly",
+   289
+  ],
+  [
+   "Lattice",
+   290
+  ],
+  [
+   "Sentry",
+   291
+  ],
+  [
+   "Sourcegraph",
+   292
+  ],
+  [
+   "Temporal Technologies",
+   293
+  ],
+  [
+   "Algolia",
+   294
+  ],
+  [
+   "Dialpad",
+   295
+  ],
+  [
+   "Neo4j",
+   296
+  ],
+  [
+   "Redis",
+   297
+  ],
+  [
+   "Celonis",
+   298
+  ],
+  [
+   "SailPoint",
+   299
   ]
+ ]
 }

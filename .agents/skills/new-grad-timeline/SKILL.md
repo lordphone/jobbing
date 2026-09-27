@@ -16,7 +16,7 @@ The answer must come from the company's **own job board** (first party). Communi
 Two uses:
 
 - **One company** ("is X hiring new grads yet"): follow the Procedure below yourself and write its research file. Then run `merge.py`.
-- **Many companies:** follow "Full pipeline". It runs one Sonnet agent per company through the saved workflow.
+- **Many companies:** follow "Full pipeline". It runs Sonnet agents, 20 companies each, through the saved workflow. To refresh every company, use `.agents/skills/nightly-refresh/SKILL.md`.
 
 Files:
 
@@ -26,7 +26,7 @@ Files:
 - `timeline/research/<company-slug>.json`: one first-party result file per company. The research step writes these, and they beat every other source.
 - `timeline/data/`: intermediate files. It holds `trackers.json`, `boards.json`, `worklist.json`, `workflow_args.json` and `merged.json`, plus `first_pass_agents/*.jsonl`, the 2026-09-24 first-pass results kept as a lower-priority source.
 - `applications/TRACKER.md`: companies he already applied to.
-- `.claude/workflows/new-grad-research.js`: the saved workflow, one Sonnet agent per company.
+- `.claude/workflows/new-grad-research.js`: the saved workflow, 20 companies per Sonnet agent (`per_agent` in args).
 - `scripts/jobs.py` (in this skill folder): the tool for every step below. Run it with no arguments for usage.
 
 ## What counts
@@ -137,7 +137,7 @@ These lessons come from the runs on 2026-09-24 and 2026-09-25:
 - **Sonnet is enough.** With this skill, Sonnet agents averaged about 58K tokens and 0–4 web searches per company. 95 of 100 results were high or medium confidence.
 - **The workflow runs at most min(16, CPU cores − 2) agents at once.** That's 6 on his 8-core Mac.
 
-- **Keep each agent's list short.** Each agent session can make 200 web searches. When one agent had ~290 companies, four of the five agents ran out 13 minutes in, and about 850 companies were researched without web search. Use one agent per company (or at most ~10 per agent), and use the API steps before web search.
+- **Keep each agent's list short.** Each agent session can make 200 web searches. When one agent had ~290 companies, four of the five agents ran out 13 minutes in, and about 850 companies were researched without web search. 20 per agent worked on 2026-09-27 (61 web searches across 15 agents; peak context median 150K, max 197K; no compaction). Use the API steps before web search.
 - **Agents must not spawn sub-agents.** One agent split its batch into 11 more agents and broke the agent cap.
 - **One result file per company.** Agents appending to a shared file raced each other and overwrote shared helper files.
 - **Work top tiers first,** so the results that matter most get done first.

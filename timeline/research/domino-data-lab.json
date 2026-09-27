@@ -1,0 +1,34 @@
+{
+  "company": "Domino Data Lab",
+  "tier": 2,
+  "checked": "2026-09-27",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - New Grad, 2027",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+      "location": "New York City, New York",
+      "opened": "2026-09-09",
+      "date_source": "greenhouse first_published (via gh:dominodatalab board fetch, confirmed by tracker first-seen date)",
+      "grad_window": "2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Forward Deployed Engineer - New Grad, 2027",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
+      "location": "New York City, New York",
+      "opened": "2026-09-09",
+      "date_source": "greenhouse first_published (via gh:dominodatalab board fetch, confirmed by tracker first-seen date)",
+      "grad_window": "2027",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-10-03",
+  "last_cycle_basis": "Tracker history: 'Forward Deployed Engineer - New Grad - 2026' (NYC) and 'Software Engineer - New Grad - Campus Recruiting 2026' (SF), both first seen 2025-10-03.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/dominodatalab",
+  "jobs_spec": "gh:dominodatalab",
+  "evidence": "gh:dominodatalab board fetch (own Greenhouse-backed board) lists both postings live with first_published 2026-09-09, matching tracker lead. Page is JS-rendered (careerpuck skin) so browser pane could not confirm the Apply button directly; relying on API listing.",
+  "confidence": "medium"
+}
