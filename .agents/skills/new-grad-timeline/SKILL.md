@@ -73,7 +73,7 @@ Files:
    - Some companies post in spring (Airbnb and Airtable post Feb–Apr). Record that.
    - If you find nothing, say unknown. Don't guess.
 6. **Decide status.**
-   - `open`: a live, this-cycle, US, qualifying posting.
+   - `open`: a live, this-cycle, US, qualifying posting that you opened yourself in this run. If you couldn't read the posting or the board, the status is `unknown`, not `open`.
    - `not_yet`: has a new-grad track, nothing live yet.
    - `closed`: a this-cycle posting existed and is gone.
    - `leftover_2026`: only last-cycle postings are live.
@@ -138,19 +138,3 @@ All scripts are in this skill's `scripts/` folder. Run them with `python3` from 
 6. `merge.py` again. Then open every `open` posting whose research file says `live_verified: "no"` in the browser pane.
 
 The dates are for the 2027 cycle. For the next cycle, move the dates in `common.py` (`CYCLE_START`, `LAST_*`, `PREV_*`) and the snapshot dates in `trackers.py` forward one year, and update the tracker repo names in `trackers.py` and `jobs.py`.
-
-## Running it across many companies
-
-These lessons come from the runs on 2026-09-24 and 2026-09-25:
-
-- **Say in each agent's prompt that he approved the run, and quote his words.** Agents see his latest chat message, and his AGENTS.md rule says an opinion isn't a request. When his latest message was "i think we can use sonnet for the subagents", 75 of 89 agents declined my instructions as unauthorized. Adding an approval line with his quotes fixed it.
-- **Sonnet is enough.** With this skill, Sonnet agents averaged about 58K tokens and 0–4 web searches per company. 95 of 100 results were high or medium confidence.
-- **The workflow runs at most min(16, CPU cores − 2) agents at once.** That's 6 on his 8-core Mac.
-
-- **Keep each agent's list short.** Each agent session can make 200 web searches. When one agent had ~290 companies, four of the five agents ran out 13 minutes in, and about 850 companies were researched without web search. 20 per agent worked on 2026-09-27 (61 web searches across 15 agents; peak context median 150K, max 197K; no compaction). Use the API steps before web search.
-- **Agents must not spawn sub-agents.** One agent split its batch into 11 more agents and broke the agent cap.
-- **One result file per company.** Agents appending to a shared file raced each other and overwrote shared helper files.
-- **Work top tiers first,** so the results that matter most get done first.
-- **Unanswered browser approval prompts stall agents.** On 2026-09-27, three agents each waited 75+ minutes on a financial site (hsbc.com, klarna.com, webull.com) until the prompt was denied. Without those stalls, the 300-company run would have taken about 25–30 minutes, not 96.
-- **"Open" needs a posting you saw.** On 2026-09-27, two agents marked companies `open` without reading a live posting. Epic's careers pages came back empty in the browser pane; D.E. Shaw's job filters wouldn't update. Either should have been `unknown`.
-- **Never let a tracker make a company "open".** The first merge did, and 82 of 225 "open" companies rested on a GitHub tracker alone. `merge.py` now keeps a tracker listing in the `Tracker lead` column. If the company's own board shows nothing, the status is `not_yet`. If nobody has read the board yet, it's `tracker_lead`.

@@ -11,7 +11,7 @@ if (!args || !Array.isArray(args.companies) || !args.worklist) {
   throw new Error('args must be the contents of timeline/data/workflow_args.json (run scripts/worklist.py first)')
 }
 if (!args.approval || args.approval.startsWith('FILL IN')) {
-  throw new Error('Fill args.approval with his request, quoted. Without it, agents may decline (see SKILL.md).')
+  throw new Error('Fill args.approval with his request, quoted. Agents see his latest chat message and may decline if it reads as a question.')
 }
 const PER = args.per_agent || 20
 const REPO = args.worklist.replace(/\/timeline\/data\/worklist\.json$/, '')
