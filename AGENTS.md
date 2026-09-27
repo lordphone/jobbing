@@ -21,4 +21,4 @@ This repo generates one-page LaTeX resumes from an experience bank.
 - He pastes an application email or reports a status or outreach → `.agents/skills/update-application/SKILL.md`
 - He asks about new-grad hiring timelines ("is X hiring new grads yet", refreshing `timeline/`) → `.agents/skills/new-grad-timeline/SKILL.md`
 - He pastes an application question or asks for interview prep → `.agents/skills/answers/SKILL.md`
-- Nightly scheduled run, or he asks to refresh or update all companies → `.agents/skills/nightly-refresh/SKILL.md`
+- He asks for the full search (the job posting search on all companies, or refreshing all companies), or a scheduled task runs it → `.agents/skills/full-search/SKILL.md`

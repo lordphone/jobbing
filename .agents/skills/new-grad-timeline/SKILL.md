@@ -16,7 +16,7 @@ The answer must come from the company's **own job board** (first party). Communi
 Two uses:
 
 - **One company** ("is X hiring new grads yet"): follow the Procedure below yourself and write its research file. Then run `merge.py`.
-- **Many companies:** follow "Full pipeline". It runs Sonnet agents, 20 companies each, through the saved workflow. To refresh every company, use `.agents/skills/nightly-refresh/SKILL.md`.
+- **Many companies:** follow "Full pipeline". It runs Sonnet agents, 20 companies each, through the saved workflow. To search every company, use `.agents/skills/full-search/SKILL.md`.
 
 Files:
 
@@ -25,6 +25,8 @@ Files:
 - `timeline/status.csv`, `timeline/SUMMARY.md`, `timeline/sources.csv`: built by `scripts/merge.py`. Don't edit them by hand.
 - `timeline/research/<company-slug>.json`: one first-party result file per company. The research step writes these, and they beat every other source.
 - `timeline/data/`: intermediate files. It holds `trackers.json`, `boards.json`, `worklist.json`, `workflow_args.json` and `merged.json`, plus `first_pass_agents/*.jsonl`, the 2026-09-24 first-pass results kept as a lower-priority source.
+  - The full search adds `prev/`, its before-run snapshot of `status.csv` and `COMPANY_LIST.md`, and `list_notes.md`, its company-list edits.
+- `timeline/CHANGES.md`: what changed since the last full search. Written by `.agents/skills/full-search/scripts/changes.py`.
 - `applications/TRACKER.md`: companies he already applied to.
 - `.claude/workflows/new-grad-research.js`: the saved workflow, 20 companies per Sonnet agent (`per_agent` in args).
 - `scripts/jobs.py` (in this skill folder): the tool for every step below. Run it with no arguments for usage.
@@ -78,12 +80,20 @@ Files:
    - `no_program_found`: you checked the first-party board and the parent company, and there are no entry-level SWE postings this cycle or last. Say what you checked.
    - `excluded`: see What counts.
    - `unknown`: you couldn't reach or read the board. Say why in `evidence` (blocked, site down, filters didn't apply) so a later run can retry. Wayfair and Williams-Sonoma blocked both WebFetch and the browser pane, and Workday was down for Condé Nast. Don't spend more than 2–3 calls fighting a blocked site.
+7. **Compare with the previous file. Do this only after steps 1–6.** Research fresh first, without reading the old `timeline/research/<slug>.json`. Then read it, if it exists, and compare:
+   - **Old posting missing from your findings:** check its URL with `jobs.py detail <url>`, or in the browser pane if there's no API.
+     - Still live and it qualifies → add it back.
+     - Gone, and it was a this-cycle posting → that's `closed` (unless another posting is open).
+   - **Same posting found both times:** keep the earlier `opened` date.
+   - **Old `last_cycle_opened` or `excluded_reason` you didn't find this time:** keep it, unless your research contradicts it.
+   - **The comparison raises a question:** keep investigating (open more pages, fetch more) until you can reach a real conclusion.
+   - **Then rewrite the file** with your final result: everything from the old file that is still true, plus what you found. If the status differs from the old file, say why in `evidence`.
 
 Budget: about 10 tool calls per company. If the board works through the API, 3–4 calls is normal.
 
 ## Output
 
-Write `timeline/research/<company-slug>.json`. Use lowercase with hyphens for the slug: `jpmorgan-chase`, `amazon-aws`. Overwrite any older file for that company.
+Write `timeline/research/<company-slug>.json`. Use lowercase with hyphens for the slug: `jpmorgan-chase`, `amazon-aws`. One file per company. Rewrite it after the step 7 comparison; it never keeps history.
 
 ```json
 {
@@ -141,4 +151,6 @@ These lessons come from the runs on 2026-09-24 and 2026-09-25:
 - **Agents must not spawn sub-agents.** One agent split its batch into 11 more agents and broke the agent cap.
 - **One result file per company.** Agents appending to a shared file raced each other and overwrote shared helper files.
 - **Work top tiers first,** so the results that matter most get done first.
+- **Unanswered browser approval prompts stall agents.** On 2026-09-27, three agents each waited 75+ minutes on a financial site (hsbc.com, klarna.com, webull.com) until the prompt was denied. Without those stalls, the 300-company run would have taken about 25–30 minutes, not 96.
+- **"Open" needs a posting you saw.** On 2026-09-27, two agents marked companies `open` without reading a live posting. Epic's careers pages came back empty in the browser pane; D.E. Shaw's job filters wouldn't update. Either should have been `unknown`.
 - **Never let a tracker make a company "open".** The first merge did, and 82 of 225 "open" companies rested on a GitHub tracker alone. `merge.py` now keeps a tracker listing in the `Tracker lead` column. If the company's own board shows nothing, the status is `not_yet`. If nobody has read the board yet, it's `tracker_lead`.

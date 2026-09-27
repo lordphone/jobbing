@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compare last night's snapshot with tonight's results and write timeline/CHANGES.md.
+"""Compare the snapshot taken before a run with its results and write timeline/CHANGES.md.
 
   changes.py snapshot   # before the run: copy status.csv and COMPANY_LIST.md into timeline/data/prev/
   changes.py            # after the run: write timeline/CHANGES.md

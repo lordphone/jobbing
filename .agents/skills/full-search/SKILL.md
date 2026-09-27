@@ -1,32 +1,33 @@
 ---
-name: nightly-refresh
+name: full-search
 description: >-
-  Refreshes the whole new-grad timeline in one unattended run: tidies timeline/COMPANY_LIST.md,
+  Runs the job posting search on every company in one pass: tidies timeline/COMPANY_LIST.md,
   re-checks every company's own job board, researches all companies with Sonnet agents (20 per
   agent), and writes timeline/CHANGES.md with what changed since the last run. Use for the
-  nightly scheduled run, or when he asks to refresh or update all companies.
+  full search, the job posting search on all companies, or a refresh of all companies,
+  whether he asks in chat or a scheduled task runs it.
 ---
 
-# Nightly refresh
+# Full search
 
 Every company, every run. No tiering, no skipping.
 
-This runs unattended (scheduled at night). Don't ask questions or wait for replies. Where the steps below leave a choice, make the sensible call and write it in `timeline/CHANGES.md`.
+It may run unattended (scheduled), so don't ask questions or wait for replies. Where the steps below leave a choice, make the sensible call and write it in `timeline/CHANGES.md`.
 
 The research method, statuses and output format live in `.agents/skills/new-grad-timeline/SKILL.md`. This skill only sets the order.
 
-`TL=.agents/skills/new-grad-timeline/scripts` and `NR=.agents/skills/nightly-refresh/scripts`, relative to the repo root.
+`TL=.agents/skills/new-grad-timeline/scripts` and `FS=.agents/skills/full-search/scripts`, relative to the repo root.
 
 ## Steps
 
-1. **Snapshot.** Run `python3 $NR/changes.py snapshot`. It copies `timeline/status.csv` and `timeline/COMPANY_LIST.md` to `timeline/data/prev/` so the morning report can compare.
+1. **Snapshot.** Run `python3 $FS/changes.py snapshot`. It copies `timeline/status.csv` and `timeline/COMPANY_LIST.md` to `timeline/data/prev/` so the morning report can compare.
 2. **Trackers.** Run `python3 $TL/trackers.py` (about 10 seconds).
 3. **Company list.** See "Company list review" below.
 4. **Job boards.** Run `python3 $TL/probe.py` in the foreground with a 10-minute timeout (a few minutes).
 5. **Merge and worklist.** Run `python3 $TL/merge.py`, then `python3 $TL/worklist.py --redo`. That picks every company on the list.
 6. **Research.** Read `timeline/data/workflow_args.json`. Set `approval` to the request that started this run, quoted: the scheduled task's prompt, or his chat message. Then call the Workflow tool with `scriptPath: <repo>/.claude/workflows/new-grad-research.js` and those contents as `args`. It runs 20 companies per agent, 6 agents at a time, for about 2 hours.
 7. **Rerun misses.** Rerun the companies in the result's `failed` and `declined` lists, and any company on the list whose `timeline/research/<slug>.json` isn't dated today. To rerun them, use `worklist.py --redo --names "A|B|C"` and run the workflow again. Do this once; if some still fail, list them in the report.
-8. **Report.** Run `python3 $TL/merge.py`, then `python3 $NR/changes.py`. It writes `timeline/CHANGES.md`: newly open, no longer open, other status changes, and company-list edits.
+8. **Report.** Run `python3 $TL/merge.py`, then `python3 $FS/changes.py`. It writes `timeline/CHANGES.md`: newly open, no longer open, other status changes, and company-list edits.
 9. **Finish.** Reply with the counts from `changes.py` and the newly open companies. Don't commit.
 
 ## Company list review
@@ -49,11 +50,11 @@ Allowed edits:
 
 If an added company's tracker name doesn't match its list name, add the pair to `$TL/overrides.json` (normalized tracker name → exact list name).
 
-After editing, run `python3 $NR/recount.py` to fix the counts. Write one line per edit to `timeline/data/list_notes.md`, overwriting last night's: what changed and why. `changes.py` puts it in the report.
+After editing, run `python3 $FS/recount.py` to fix the counts. Write one line per edit to `timeline/data/list_notes.md`, overwriting the last run's: what changed and why. `changes.py` puts it in the report.
 
-Keep it to about 20 edits a night. Leave the rest for the next run.
+Keep it to about 20 edits a run. Leave the rest for the next run.
 
-## Unattended pitfalls
+## When it runs unattended
 
 - **Browser approval prompts stall agents.** A site that needs approval can hold an agent for over an hour when nobody answers. The agent eventually gets "denied", marks the company `unknown`, and moves on.
 - **Permission prompts stall the whole run.** The scheduled session must be allowed to run Bash, write files and call the Workflow tool without asking.
