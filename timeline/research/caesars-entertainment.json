@@ -1,15 +1,15 @@
 {
   "company": "Caesars Entertainment",
   "tier": 9,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'caesars': 17 tracker postings this cycle, none SWE-track (Analyst 1, Graduate Data Scientist, Salesforce Engineer 1, Digital Analyst 1, Graduate Sports Trader); no first-party SWE new-grad posting found",
+  "last_cycle_basis": "no tracker or first-party history found for a US new-grad SWE track",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:edmn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Checked full Oracle Cloud board (184 postings, --all): only hospitality/ops/security roles plus one Senior Frontend Engineer (not new grad). No entry-level SWE program this cycle or last.",
-  "confidence": "high"
+  "evidence": "Checked full Oracle Cloud board (--all): a 'Software Engineer' posting (ZeroFlucs, a Caesars Digital subsidiary, first posted 2026-08-25) describes the hire as expected to 'be a leader in the team,' not entry-level, with no grad-window or years-of-experience language. Other engineering titles are Senior/Staff or non-software (Facilities/Market Engineer). No qualifying new-grad SWE track found.",
+  "confidence": "medium"
 }

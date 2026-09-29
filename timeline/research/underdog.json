@@ -1,15 +1,15 @@
 {
   "company": "Underdog (Underdog Fantasy)",
   "tier": 9,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-12",
-  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer – 2026 New Grad', Remote USA, https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
+  "last_cycle_basis": "tracker history: Associate Software Engineer - 2026 New Grad, Remote USA, first seen 2026-01-12",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/underdog",
   "jobs_spec": "gh:underdog",
-  "evidence": "Checked gh:underdog board (11 postings, --all): no SWE/new-grad roles, only Senior/Manager roles in design, fraud, trading, tax, analytics. No 2027 program posted yet.",
-  "confidence": "high"
+  "evidence": "Checked gh:underdog board (--all): current roles are Analytics Engineer II/Senior and Senior Software Engineer only; no new-grad/associate SWE roles. Last cycle's new-grad posting opened mid-January (2026-01-12), so this cycle's equivalent likely hasn't posted yet.",
+  "confidence": "medium"
 }

@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE postings found across current Greenhouse board; engineering hiring concentrated in Bangalore/Poland/Netherlands at senior level",
+  "last_cycle_basis": "No first-party or tracker evidence of a new-grad SWE track.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/project44",
   "jobs_spec": "gh:project44",
-  "evidence": "jobs.py board gh:project44 --all lists 32 postings; all US engineering roles are Senior/Staff (Chicago), entry-level Software Engineer roles are only in Bangalore, India. No US entry-level SWE track.",
+  "evidence": "jobs.py board gh:project44 --all lists 32 postings; all US engineering roles are Senior/Staff (Chicago); other Software Engineer roles are entry-level but based in Bangalore/Krakow, not US. No US entry-level SWE.",
   "confidence": "high"
 }

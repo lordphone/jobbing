@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board history found for a US new-grad SWE track",
+  "last_cycle_basis": "No history match found via tracker search; no first-party evidence of a US new-grad cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.nextinsurance.com/careers/",
-  "jobs_spec": null,
-  "evidence": "Careers page lists no software roles directly; job.py guess found no Greenhouse/Lever/Ashby/SmartRecruiters board. Search shows only experienced backend openings (Waltham, MA); grad program is in Kfar Saba, Israel under parent ERGO/Munich Re.",
-  "confidence": "medium"
+  "jobs_page": "https://job-boards.greenhouse.io/nextinsurance66",
+  "jobs_spec": "gh:nextinsurance66",
+  "evidence": "Checked full Greenhouse board (32 postings). Only 'Graduate' program (UpNEXT) is in Kfar Saba, Israel, not US. All US (Boston/Palo Alto) SWE roles are senior (7+ yrs). No US entry-level SWE.",
+  "confidence": "high"
 }

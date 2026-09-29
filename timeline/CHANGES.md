@@ -1,0 +1,508 @@
+# Changes — 2026-09-27
+
+Compared with the snapshot taken before this run. Open now: 215.
+
+## Newly open (51)
+
+- **Commure** (tier 3): closed → open · Software Engineer, Early Career 2027 · https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced
+- **Bloomberg** (tier 5): not_yet → open · 2027 Software Engineer - New York · https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414
+- **Goldman Sachs** (tier 5): closed → open · 2027 | Americas | New York City Area | Engineering | New Analyst · https://higher.gs.com/roles/171569
+- **JPMorgan Chase** (tier 5): not_yet → open · 2027 Software Engineer Program - Full-Time - United States - July Start · https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111
+- **Mastercard** (tier 5): not_yet → open · Site Reliability Engineer I, Launch Program 2027 - St. Louis, MO, US · https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642
+- **Q2** (tier 5): not_yet → open · Software Engineer (Risk & Fraud) · https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-12745
+- **Vanguard** (tier 5): not_yet → open · Entry Level Application Engineer - 2027 Start Date · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412
+- **Appian** (tier 6): not_yet → open · Associate Application Engineer (2027 Graduates) · https://job-boards.greenhouse.io/appian/jobs/8035372
+- **AspenTech** (tier 6): not_yet → open · Software Developer 1 - Asset Performance Management · https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395
+- **Canonical** (tier 6): not_yet → open · Software Engineer - Python - Cloud - graduate level · https://job-boards.greenhouse.io/canonical/jobs/3257589
+- **Informatica** (tier 6): unknown → open · Software Engineering AMTS (College Grad) · https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1
+- **Paylocity** (tier 6): not_yet → open · Associate Engineer Software · https://www.paylocity.com/company/careers/all-listings.job.47607/
+- **PlanetScale** (tier 6): not_yet → open · Software Engineer - Internal Tools · https://job-boards.greenhouse.io/planetscale/jobs/4389100009
+- **Cadence** (tier 7): not_yet → open · Software Engineer (new college grad Dec 2026) · https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2
+- **Ciena** (tier 7): not_yet → open · WaveLogic Software Developer - New Grad · https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608
+- **Dell** (tier 7): tracker_lead → open · Software Engineer 1 - IT · https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784
+- **Garmin** (tier 7): tracker_lead → open · Software Engineer 1 - Connect IQ Applications · https://careers.garmin.com/jobs/18475?icims=1
+- **NetApp** (tier 7): not_yet → open · Entry Level Software Engineer - ANF (Azure NetApp Files) · https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496
+- **Qualcomm** (tier 7): tracker_lead → open · Machine Learning Engineer - College Graduate · https://careers.qualcomm.com/careers/job/446717859953
+- **Schweitzer Engineering Laboratories** (tier 7): closed → open · Software Engineer - Full Stack TypeScript/React/C# · https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer---Full-Stack-TypeScript-React-C-_2026-23008
+- **Tenstorrent** (tier 7): not_yet → open · Software Engineer, TT-Distributed · https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007
+- **Trimble** (tier 7): unknown → open · Software Engineer · https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer_R57754
+- **Western Digital** (tier 7): tracker_lead → open · Software Engineer · https://jobs.smartrecruiters.com/WesternDigital/744000138717897
+- **PlusAI** (tier 8): not_yet → open · Software Engineer (SE / Sr SE), Fullstack · https://jobs.lever.co/plus-2/8f5bccee-4cf5-435a-9673-16e546686050
+- **Pony.ai** (tier 8): not_yet → open · Software Engineer - Evaluation · https://apply.workable.com/pony-dot-ai/j/95D88E76BE
+- **Thales** (tier 8): not_yet → open · Software DevOps Engineer - Grad (DevSecOps Engineer - Graduate) · https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2
+- **XPENG** (tier 8): no_program → open · 2027 Campus Recruiting General Intelligence Center Full-Time Position · https://job-boards.greenhouse.io/xpengmotors/jobs/8680015002
+- **Carvana** (tier 9): not_yet → open · Software Engineer · https://www.carvana.com/careers/apply?gh_jid=8120638
+- **Domino's Pizza** (tier 9): closed → open · Technology Rotation Program · https://jobs.smartrecruiters.com/Dominos/744000146020360-technology-rotation-program-
+- **Marriott International** (tier 9): closed → open · FLEX Associate Software Engineer - CDP · https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377
+- **Vizio (Walmart)** (tier 9): not_yet → open · Software Engineer III · https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2651385-1
+- **EPAM Systems** (tier 10): unknown → open · Junior Android Engineer · https://careers.epam.com/en/jobs/united_states_of_america
+- **Hexaware** (tier 10): not_yet → open · Application Support - Java skills - Associate · https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/691590
+- **Robert Half** (tier 10): not_yet → open · Software Engineer I · https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943
+- **AIG (American International Group)** (tier 11): tracker_lead → open · 2027 Early Careers: Analyst, Gen AI Engineering · https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744
+- **Amgen** (tier 11): not_yet → open · Associate AI Engineer, OI&A · https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988
+- **BNSF Railway** (tier 11): unknown → open · bnsf tech Trainee 2027 (Remote - US) · https://jobs.bnsf.com/us/en/job/95881/bnsf-tech-Trainee-2027-Remote-US
+- **CVS Health** (tier 11): not_yet → open · Software Development Engineer · https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Software-Development-Engineer_R1038482
+- **Caterpillar** (tier 11): not_yet → open · Software Engineer · https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873
+- **Emerson Electric** (tier 11): tracker_lead → open · Software Engineer · https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937
+- **GE Appliances (a Haier company)** (tier 11): closed → open · Edison Engineering Development Program (EEDP) - Software - January 2027 · https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806
+- **GE HealthCare** (tier 11): not_yet → open · Edison Engineering Development Program · https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1
+- **GE Vernova** (tier 11): not_yet → open · AI Engineer · https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2
+- **General Mills** (tier 11): no_program → open · Digital & Technology Associate - Campus Recruiting · https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732
+- **Ginkgo Bioworks** (tier 11): not_yet → open · Software Engineer 2, Autonomous Lab · https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007
+- **Pacific Life** (tier 11): not_yet → open · Software Engineer I · https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Software-Engineer-I_R17694
+- **Philips (Royal Philips)** (tier 11): not_yet → open · Full Time - Graduate Development Program - AI & Analytics Associate · https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083
+- **Phillips 66** (tier 11): unknown → open · 2027 University New Hire - Information Technology · https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/
+- **Rockwell Automation** (tier 11): not_yet → open · Leadership Development Program, Product Engineering & Development · https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1
+- **Shell plc (Shell USA)** (tier 11): not_yet → open · Shell Graduate Program 2027 - United States · https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Graduate-Program-2027---United-States_R205157-1
+- **United Airlines** (tier 11): not_yet → open · Associate Software Developer · https://careers.united.com/us/en/job/HSC00001080/Associate-Software-Developer
+
+## No longer open (34)
+
+- **Citi** (tier 5): open → not_yet
+- **Sift** (tier 6): open → excluded
+- **Arista** (tier 7): open → not_yet
+- **GlobalFoundries** (tier 7): open → no_program
+- **Graphcore** (tier 7): open → not_yet
+- **HP** (tier 7): open → not_yet
+- **Lenovo** (tier 7): open → not_yet
+- **Panasonic** (tier 7): open → not_yet
+- **TP-Link** (tier 7): open → not_yet
+- **Texas Instruments** (tier 7): open → closed
+- **Nuro** (tier 8): open → not_yet
+- **Rivian** (tier 8): open → no_program
+- **Waymo** (tier 8): open → not_yet
+- **Chewy** (tier 9): open → not_yet
+- **DiDi Global** (tier 9): open → not_yet
+- **FanDuel (Flutter Entertainment)** (tier 9): open → not_yet
+- **Light & Wonder** (tier 9): open → closed
+- **Nintendo** (tier 9): open → not_yet
+- **Quora** (tier 9): open → not_yet
+- **Rover** (tier 9): open → not_yet
+- **Twitch** (tier 9): open → not_yet
+- **WHOOP** (tier 9): open → not_yet
+- **WebMD (Internet Brands)** (tier 9): open → closed
+- **Baker Tilly** (tier 10): open → not_yet
+- **Conduent** (tier 10): open → closed
+- **DXC Technology** (tier 10): open → excluded
+- **Guidehouse** (tier 10): open → excluded
+- **AbbVie** (tier 11): open → closed
+- **Boston Scientific** (tier 11): open → not_yet
+- **Eli Lilly and Company** (tier 11): open → unknown
+- **Illinois Tool Works (ITW)** (tier 11): open → closed
+- **Pacific Northwest National Laboratory (PNNL)** (tier 11): open → excluded
+- **Sanofi** (tier 11): open → no_program
+- **USAA** (tier 11): open → not_yet
+
+## Other status changes (360)
+
+- **Egnyte** (tier 3): not_yet → no_program
+- **XR Trading** (tier 4): unknown → no_program
+- **Shift4** (tier 5): unknown → no_program
+- **Stifel Financial** (tier 5): unknown → not_yet
+- **Visa** (tier 5): not_yet → closed
+- **Agora** (tier 6): unknown → no_program
+- **Apollo.io** (tier 6): not_yet → no_program
+- **AppsFlyer** (tier 6): not_yet → no_program
+- **Attentive** (tier 6): not_yet → closed
+- **Avalara** (tier 6): not_yet → no_program
+- **Axonius** (tier 6): not_yet → no_program
+- **Bandwidth** (tier 6): not_yet → no_program
+- **BeyondTrust** (tier 6): not_yet → no_program
+- **Bitwarden** (tier 6): not_yet → no_program
+- **BlackLine** (tier 6): unknown → no_program
+- **Boomi** (tier 6): no_program → unknown
+- **Braze** (tier 6): not_yet → no_program
+- **Cato Networks** (tier 6): not_yet → no_program
+- **Commerce.com (formerly BigCommerce)** (tier 6): unknown → no_program
+- **Contentful** (tier 6): not_yet → no_program
+- **Couchbase** (tier 6): not_yet → no_program
+- **CyberArk** (tier 6): unknown → no_program
+- **Dassault Systèmes** (tier 6): unknown → not_yet
+- **Diligent** (tier 6): not_yet → no_program
+- **Domo** (tier 6): not_yet → no_program
+- **Druva** (tier 6): not_yet → no_program
+- **Entrust** (tier 6): not_yet → no_program
+- **Five9** (tier 6): not_yet → no_program
+- **Greenhouse** (tier 6): not_yet → no_program
+- **HackerRank** (tier 6): not_yet → no_program
+- **HashiCorp** (tier 6): unknown → no_program
+- **Huntress** (tier 6): not_yet → no_program
+- **Instructure (Canvas)** (tier 6): not_yet → no_program
+- **Island** (tier 6): not_yet → no_program
+- **Ivanti** (tier 6): not_yet → no_program
+- **Keeper Security** (tier 6): not_yet → no_program
+- **KnowBe4** (tier 6): not_yet → no_program
+- **Komodo Health** (tier 6): not_yet → no_program
+- **Kong** (tier 6): not_yet → no_program
+- **LastPass** (tier 6): not_yet → no_program
+- **Manhattan Associates** (tier 6): not_yet → no_program
+- **McAfee** (tier 6): not_yet → no_program
+- **OpenText** (tier 6): not_yet → no_program
+- **Orca Security** (tier 6): not_yet → no_program
+- **Pegasystems** (tier 6): unknown → no_program
+- **Pendo** (tier 6): not_yet → no_program
+- **Red Hat** (tier 6): not_yet → closed
+- **Seismic** (tier 6): not_yet → no_program
+- **ServiceTitan** (tier 6): not_yet → no_program
+- **SolarWinds** (tier 6): not_yet → no_program
+- **Sophos** (tier 6): not_yet → no_program
+- **SurveyMonkey** (tier 6): not_yet → no_program
+- **Tenable** (tier 6): not_yet → no_program
+- **UKG** (tier 6): not_yet → unknown
+- **VMware** (tier 6): not_yet → no_program
+- **Veeam Software** (tier 6): not_yet → no_program
+- **Veracode** (tier 6): not_yet → no_program
+- **Wiz** (tier 6): not_yet → no_program
+- **Wolfram Research** (tier 6): unknown → no_program
+- **Wolters Kluwer** (tier 6): not_yet → closed
+- **Yardi** (tier 6): unknown → not_yet
+- **Zoom Communications** (tier 6): not_yet → closed
+- **athenahealth** (tier 6): not_yet → no_program
+- **dbt Labs** (tier 6): unknown → no_program
+- **10x Genomics** (tier 7): not_yet → no_program
+- **Allegro MicroSystems** (tier 7): not_yet → no_program
+- **Arlo Technologies** (tier 7): unknown → no_program
+- **Arrow Electronics** (tier 7): not_yet → no_program
+- **Avnet** (tier 7): not_yet → unknown
+- **Ayar Labs** (tier 7): unknown → no_program
+- **Backblaze** (tier 7): not_yet → no_program
+- **CyrusOne** (tier 7): not_yet → no_program
+- **DigitalOcean** (tier 7): not_yet → closed
+- **Dolby Laboratories** (tier 7): unknown → no_program
+- **Ericsson** (tier 7): unknown → not_yet
+- **Fastly** (tier 7): not_yet → no_program
+- **Flex** (tier 7): not_yet → no_program
+- **Infleqtion** (tier 7): tracker_lead → excluded
+- **IonQ** (tier 7): not_yet → no_program
+- **Lumentum** (tier 7): not_yet → no_program
+- **Microchip Technology** (tier 7): not_yet → excluded
+- **NXP Semiconductors** (tier 7): not_yet → closed
+- **PsiQuantum** (tier 7): not_yet → no_program
+- **SiFive** (tier 7): unknown → not_yet
+- **Skyworks Solutions** (tier 7): unknown → not_yet
+- **Symbotic** (tier 7): not_yet → closed
+- **Synaptics** (tier 7): unknown → no_program
+- **TD Synnex** (tier 7): not_yet → no_program
+- **Tektronix** (tier 7): unknown → no_program
+- **Tokyo Electron** (tier 7): not_yet → closed
+- **Ubiquiti** (tier 7): not_yet → no_program
+- **Vantage Data Centers** (tier 7): not_yet → no_program
+- **ZT Systems** (tier 7): unknown → no_program
+- **Zebra Technologies** (tier 7): not_yet → closed
+- **onsemi** (tier 7): unknown → no_program
+- **Archer Aviation** (tier 8): not_yet → no_program
+- **BMW Group** (tier 8): not_yet → no_program
+- **Divergent Technologies** (tier 8): not_yet → no_program
+- **Epirus** (tier 8): excluded → no_program
+- **Faraday Future Intelligent Electric** (tier 8): not_yet → no_program
+- **Firefly Aerospace** (tier 8): excluded → no_program
+- **GE Aerospace** (tier 8): excluded → not_yet
+- **Hermeus** (tier 8): excluded → no_program
+- **Howmet Aerospace** (tier 8): no_program → excluded
+- **Hyundai Motor Group** (tier 8): unknown → no_program
+- **Impulse Space** (tier 8): excluded → no_program
+- **Karman Space & Defense** (tier 8): excluded → unknown
+- **L3Harris** (tier 8): excluded → closed
+- **Leonardo DRS** (tier 8): excluded → not_yet
+- **Moog** (tier 8): not_yet → excluded
+- **NIO** (tier 8): no_program → unknown
+- **Ouster** (tier 8): unknown → no_program
+- **Planet Labs PBC (Planet)** (tier 8): not_yet → no_program
+- **Polaris Inc.** (tier 8): not_yet → excluded
+- **SRI International** (tier 8): closed → unknown
+- **Saab** (tier 8): excluded → no_program
+- **Serve Robotics** (tier 8): not_yet → no_program
+- **Shield AI** (tier 8): excluded → no_program
+- **Spirit AeroSystems** (tier 8): excluded → no_program
+- **Stellantis** (tier 8): unknown → no_program
+- **Textron** (tier 8): excluded → not_yet
+- **The Boring Company** (tier 8): unknown → not_yet
+- **Ursa Major** (tier 8): excluded → no_program
+- **Vantor (formerly Maxar Intelligence)** (tier 8): not_yet → excluded
+- **Varda Space** (tier 8): excluded → no_program
+- **Wisk** (tier 8): not_yet → no_program
+- **7-Eleven, Inc.** (tier 9): not_yet → no_program
+- **AOL** (tier 9): unknown → no_program
+- **Abercrombie & Fitch Co.** (tier 9): unknown → no_program
+- **Academy Sports + Outdoors** (tier 9): not_yet → no_program
+- **Agoda** (tier 9): not_yet → no_program
+- **Albertsons Companies** (tier 9): not_yet → no_program
+- **American Eagle Outfitters** (tier 9): unknown → no_program
+- **Audible** (tier 9): closed → no_program
+- **Axios** (tier 9): not_yet → no_program
+- **BJ's Wholesale Club** (tier 9): not_yet → no_program
+- **Bath & Body Works** (tier 9): unknown → no_program
+- **Best Buy** (tier 9): not_yet → no_program
+- **Bungie** (tier 9): not_yet → no_program
+- **BuzzFeed** (tier 9): not_yet → no_program
+- **Calm** (tier 9): not_yet → no_program
+- **CarGurus** (tier 9): not_yet → no_program
+- **CarMax** (tier 9): not_yet → no_program
+- **Carnival Corporation** (tier 9): unknown → no_program
+- **Codecademy (Skillsoft)** (tier 9): not_yet → no_program
+- **Costco** (tier 9): unknown → no_program
+- **Coupang** (tier 9): not_yet → no_program
+- **Criteo** (tier 9): not_yet → no_program
+- **DIRECTV** (tier 9): unknown → not_yet
+- **Depop** (tier 9): not_yet → no_program
+- **Dollar General** (tier 9): unknown → no_program
+- **DoubleVerify** (tier 9): not_yet → unknown
+- **Dutch Bros Coffee** (tier 9): not_yet → no_program
+- **Epic Games** (tier 9): not_yet → no_program
+- **Eventbrite** (tier 9): not_yet → no_program
+- **Foot Locker (part of Dick's Sporting Goods)** (tier 9): no_program → closed
+- **Forbes** (tier 9): not_yet → no_program
+- **Fox Corporation** (tier 9): not_yet → closed
+- **Gap Inc.** (tier 9): not_yet → no_program
+- **Genius Sports** (tier 9): not_yet → no_program
+- **GoPro** (tier 9): unknown → no_program
+- **Groupon** (tier 9): not_yet → no_program
+- **Grubhub (owned by Wonder)** (tier 9): not_yet → no_program
+- **Hard Rock Digital (Hard Rock Bet)** (tier 9): unknown → no_program
+- **Hasbro (incl. Wizards of the Coast)** (tier 9): not_yet → no_program
+- **HelloFresh** (tier 9): not_yet → no_program
+- **Indeed** (tier 9): not_yet → no_program
+- **Integral Ad Science** (tier 9): unknown → no_program
+- **J.Crew Group** (tier 9): not_yet → no_program
+- **JCPenney (Catalyst Brands)** (tier 9): unknown → no_program
+- **JD.com** (tier 9): not_yet → no_program
+- **Jam City** (tier 9): not_yet → no_program
+- **KAYAK** (tier 9): not_yet → closed
+- **Khan Academy** (tier 9): not_yet → no_program
+- **Kohl's** (tier 9): not_yet → no_program
+- **Levi Strauss & Co.** (tier 9): unknown → no_program
+- **Life360** (tier 9): not_yet → no_program
+- **Liftoff** (tier 9): not_yet → no_program
+- **Lionsgate Studios** (tier 9): unknown → no_program
+- **LiveRamp** (tier 9): not_yet → no_program
+- **MGM Resorts International** (tier 9): not_yet → no_program
+- **Magnite** (tier 9): not_yet → unknown
+- **Mercari** (tier 9): not_yet → no_program
+- **NASCAR** (tier 9): not_yet → no_program
+- **NetEase Games** (tier 9): not_yet → no_program
+- **New Balance** (tier 9): unknown → no_program
+- **Nexstar Media** (tier 9): not_yet → no_program
+- **Nordstrom** (tier 9): not_yet → closed
+- **Norwegian Cruise Line Holdings** (tier 9): unknown → no_program
+- **OfferUp** (tier 9): not_yet → no_program
+- **Peloton** (tier 9): not_yet → closed
+- **Playtika** (tier 9): no_program → unknown
+- **Poshmark (Naver)** (tier 9): not_yet → no_program
+- **PrizePicks** (tier 9): not_yet → no_program
+- **Realtor.com (Move, Inc., News Corp)** (tier 9): not_yet → unknown
+- **Riot Games** (tier 9): not_yet → no_program
+- **Rumble** (tier 9): not_yet → no_program
+- **Sabre Corporation** (tier 9): not_yet → no_program
+- **Saks Global** (tier 9): unknown → no_program
+- **Skechers** (tier 9): not_yet → no_program
+- **SoundCloud** (tier 9): not_yet → no_program
+- **Sphere Entertainment Co.** (tier 9): not_yet → no_program
+- **Sportradar** (tier 9): not_yet → no_program
+- **StackAdapt** (tier 9): not_yet → no_program
+- **Staples** (tier 9): unknown → no_program
+- **Stitch Fix** (tier 9): not_yet → no_program
+- **StockX** (tier 9): not_yet → no_program
+- **Sweetgreen** (tier 9): not_yet → no_program
+- **Tapestry (Coach, Kate Spade)** (tier 9): unknown → no_program
+- **Taskrabbit (IKEA-owned)** (tier 9): not_yet → no_program
+- **Teladoc Health** (tier 9): unknown → no_program
+- **TelevisaUnivision** (tier 9): not_yet → no_program
+- **The Associated Press (AP)** (tier 9): no_program → unknown
+- **The New York Times** (tier 9): not_yet → closed
+- **The ODP Corporation (Office Depot)** (tier 9): unknown → no_program
+- **The Pokémon Company International** (tier 9): unknown → no_program
+- **Thumbtack** (tier 9): not_yet → no_program
+- **Topgolf** (tier 9): not_yet → no_program
+- **Tripadvisor** (tier 9): not_yet → no_program
+- **Turnitin** (tier 9): unknown → no_program
+- **Turo** (tier 9): not_yet → no_program
+- **Udemy** (tier 9): not_yet → no_program
+- **Under Armour** (tier 9): unknown → no_program
+- **Upwork** (tier 9): not_yet → no_program
+- **WPP** (tier 9): not_yet → no_program
+- **Wizards of the Coast** (tier 9): not_yet → no_program
+- **Wyndham Hotels & Resorts** (tier 9): unknown → no_program
+- **Wynn Resorts** (tier 9): unknown → no_program
+- **Zappos (Amazon)** (tier 9): not_yet → no_program
+- **ZeniMax Media / Bethesda (Microsoft)** (tier 9): not_yet → unknown
+- **Zeta Global** (tier 9): not_yet → no_program
+- **iHeartMedia** (tier 9): not_yet → no_program
+- **Accenture** (tier 10): excluded → not_yet
+- **AlixPartners** (tier 10): not_yet → no_program
+- **Ankura** (tier 10): not_yet → no_program
+- **Atos** (tier 10): no_program → unknown
+- **CGI** (tier 10): not_yet → unknown
+- **Capgemini** (tier 10): not_yet → closed
+- **Globant** (tier 10): no_program → unknown
+- **Grant Thornton** (tier 10): not_yet → closed
+- **Huron** (tier 10): not_yet → no_program
+- **Ingram Micro** (tier 10): not_yet → closed
+- **Jacobs Solutions** (tier 10): not_yet → unknown
+- **KPMG** (tier 10): unknown → no_program
+- **NTT DATA** (tier 10): not_yet → unknown
+- **Persistent Systems** (tier 10): no_program → unknown
+- **Publicis Sapient** (tier 10): not_yet → unknown
+- **RAND Corporation** (tier 10): unknown → no_program
+- **Rackspace Technology** (tier 10): unknown → no_program
+- **Slalom** (tier 10): unknown → no_program
+- **Tata Consultancy Services (TCS)** (tier 10): not_yet → unknown
+- **Unisys** (tier 10): not_yet → no_program
+- **ABB** (tier 11): no_program → closed
+- **ADM (Archer Daniels Midland)** (tier 11): unknown → no_program
+- **Ahold Delhaize USA** (tier 11): unknown → not_yet
+- **Align Technology** (tier 11): unknown → no_program
+- **American Airlines** (tier 11): unknown → not_yet
+- **Amtrak** (tier 11): unknown → no_program
+- **Anheuser-Busch (AB InBev)** (tier 11): not_yet → no_program
+- **Aon plc** (tier 11): unknown → no_program
+- **Aramark** (tier 11): unknown → no_program
+- **Argonne National Laboratory** (tier 11): not_yet → closed
+- **Arthur J. Gallagher & Co.** (tier 11): unknown → no_program
+- **BASF** (tier 11): no_program → unknown
+- **Baker Hughes** (tier 11): not_yet → closed
+- **Bayer** (tier 11): unknown → no_program
+- **Biogen** (tier 11): unknown → no_program
+- **Blue Shield of California** (tier 11): unknown → no_program
+- **Broad Institute** (tier 11): unknown → no_program
+- **C.H. Robinson** (tier 11): unknown → no_program
+- **CNA Financial** (tier 11): not_yet → no_program
+- **CNH (CNH Industrial)** (tier 11): unknown → not_yet
+- **Cardinal Health** (tier 11): not_yet → no_program
+- **Carrier Global** (tier 11): not_yet → closed
+- **Cedars-Sinai** (tier 11): unknown → no_program
+- **Cintas** (tier 11): not_yet → no_program
+- **Comcast** (tier 11): not_yet → closed
+- **CommonSpirit Health** (tier 11): unknown → no_program
+- **Consolidated Edison (Con Edison)** (tier 11): unknown → no_program
+- **Cummins** (tier 11): tracker_lead → not_yet
+- **DHL (DHL Group, US)** (tier 11): unknown → no_program
+- **Danaher** (tier 11): closed → not_yet
+- **Darden Restaurants** (tier 11): unknown → no_program
+- **Dexcom** (tier 11): not_yet → closed
+- **Dollar Tree** (tier 11): unknown → no_program
+- **Edison International (Southern California Edison)** (tier 11): not_yet → closed
+- **Farmers Insurance (Farmers Group, Zurich Insurance Group)** (tier 11): not_yet → no_program
+- **FedEx** (tier 11): unknown → no_program
+- **GSK** (tier 11): not_yet → no_program
+- **Guardian Life Insurance Company of America** (tier 11): not_yet → no_program
+- **HCA Healthcare** (tier 11): unknown → no_program
+- **Hyatt Hotels Corporation** (tier 11): unknown → no_program
+- **Inspire Brands** (tier 11): unknown → no_program
+- **Iron Mountain** (tier 11): not_yet → no_program
+- **JLL (Jones Lang LaSalle)** (tier 11): not_yet → no_program
+- **JetBlue Airways** (tier 11): unknown → no_program
+- **Johnson & Johnson** (tier 11): not_yet → closed
+- **Kaiser Permanente** (tier 11): unknown → no_program
+- **Kenvue** (tier 11): unknown → no_program
+- **Keurig Dr Pepper** (tier 11): unknown → no_program
+- **Koch Inc. (Koch Industries)** (tier 11): not_yet → unknown
+- **Kroger** (tier 11): unknown → not_yet
+- **Lawrence Berkeley National Laboratory (Berkeley Lab)** (tier 11): not_yet → no_program
+- **Lennar** (tier 11): not_yet → closed
+- **Lincoln Financial** (tier 11): unknown → no_program
+- **Linde plc** (tier 11): unknown → no_program
+- **Lumen Technologies** (tier 11): not_yet → no_program
+- **Marathon Petroleum** (tier 11): not_yet → closed
+- **Marsh McLennan** (tier 11): not_yet → no_program
+- **Mayo Clinic** (tier 11): unknown → not_yet
+- **McGraw Hill** (tier 11): unknown → no_program
+- **Medline Industries** (tier 11): not_yet → no_program
+- **Medtronic** (tier 11): not_yet → closed
+- **Memorial Sloan Kettering Cancer Center** (tier 11): not_yet → no_program
+- **MetLife** (tier 11): not_yet → unknown
+- **Moderna** (tier 11): not_yet → no_program
+- **Molina Healthcare** (tier 11): unknown → no_program
+- **Molson Coors Beverage Company** (tier 11): unknown → no_program
+- **Mount Sinai Health System** (tier 11): not_yet → no_program
+- **Mutual of Omaha** (tier 11): unknown → not_yet
+- **Natera** (tier 11): not_yet → no_program
+- **NextEra Energy** (tier 11): not_yet → unknown
+- **Norfolk Southern** (tier 11): unknown → no_program
+- **Novo Nordisk** (tier 11): unknown → not_yet
+- **Optimum Communications (formerly Altice USA)** (tier 11): not_yet → unknown
+- **Oscar Health** (tier 11): not_yet → no_program
+- **Otis Worldwide** (tier 11): unknown → no_program
+- **P&G** (tier 11): not_yet → no_program
+- **Pacific Gas and Electric Company (PG&E)** (tier 11): not_yet → closed
+- **Parker Hannifin** (tier 11): unknown → no_program
+- **Progressive** (tier 11): unknown → no_program
+- **Providence** (tier 11): not_yet → no_program
+- **Quest Diagnostics** (tier 11): unknown → no_program
+- **Regeneron** (tier 11): not_yet → no_program
+- **Restaurant Brands International** (tier 11): unknown → no_program
+- **Ross Stores** (tier 11): closed → unknown
+- **Ryder System** (tier 11): not_yet → closed
+- **SLB** (tier 11): unknown → not_yet
+- **Schneider Electric** (tier 11): unknown → no_program
+- **Siemens** (tier 11): closed → unknown
+- **Stanford Health Care** (tier 11): unknown → no_program
+- **Sunrun** (tier 11): unknown → no_program
+- **Sutter Health** (tier 11): unknown → no_program
+- **T-Mobile** (tier 11): not_yet → closed
+- **TAE Technologies** (tier 11): unknown → no_program
+- **Takeda Pharmaceutical** (tier 11): not_yet → unknown
+- **The Clorox Company** (tier 11): not_yet → no_program
+- **The Coca-Cola Company** (tier 11): not_yet → closed
+- **The Estée Lauder Companies** (tier 11): unknown → no_program
+- **The Kraft Heinz Company** (tier 11): unknown → no_program
+- **Tyson Foods** (tier 11): not_yet → closed
+- **Union Pacific** (tier 11): unknown → no_program
+- **Valero Energy** (tier 11): not_yet → no_program
+- **Viasat** (tier 11): not_yet → closed
+- **W.W. Grainger (Grainger)** (tier 11): unknown → no_program
+- **WM (Waste Management)** (tier 11): unknown → no_program
+- **Whirlpool Corporation** (tier 11): unknown → no_program
+- **Yum! Brands** (tier 11): unknown → no_program
+- **Zurich Insurance Group (Zurich North America)** (tier 11): no_program → unknown
+- **bp** (tier 11): not_yet → no_program
+
+## Added to the company list (19)
+
+- AMERICAN SYSTEMS
+- American Electric Power
+- Auto-Owners Insurance
+- Berkshire Hathaway Energy
+- BlueCross BlueShield of South Carolina
+- Citizen Health
+- DaVita
+- Genuine Parts Company
+- Jerry
+- Latitude AI
+- NewsBreak
+- Quantcast
+- SMX
+- Torch Technologies
+- Truveta
+- Uline
+- Wellmark
+- Western Alliance
+- Xylem
+
+## Removed from the company list (1)
+
+- Aquatic Capital
+
+## Company list edits
+
+- Added Jerry (tier 3): 209 new-grad/entry postings in the trackers under its own name.
+- Added Truveta (tier 3): 12 tracker postings under its own name.
+- Added Citizen Health (tier 3): 28 tracker postings under its own name.
+- Added Western Alliance (tier 5): 11 tracker postings under its own name.
+- Added Quantcast (tier 6): 11 tracker postings under its own name.
+- Added Latitude AI (tier 8): 19 tracker postings; Ford's autonomy company hires under its own name.
+- Added Torch Technologies (tier 8): 14 tracker postings, defense engineering.
+- Added NewsBreak (tier 9): 11 tracker postings under its own name.
+- Added SMX (tier 10): 17 tracker postings, government IT services.
+- Added AMERICAN SYSTEMS (tier 10): 16 tracker postings, government IT services.
+- Added Uline (tier 11): 18 tracker postings.
+- Added American Electric Power (tier 11): 18 tracker postings.
+- Added DaVita (tier 11): 17 tracker postings.
+- Added Genuine Parts Company (tier 11): 17 tracker postings.
+- Added Auto-Owners Insurance (tier 11): 15 tracker postings.
+- Added Berkshire Hathaway Energy (tier 11): 18 tracker postings.
+- Added Xylem (tier 11): 11 tracker postings.
+- Added Wellmark (tier 11): 11 tracker postings.
+- Added BlueCross BlueShield of South Carolina (tier 11): 12 tracker postings.
+- Merged "Aquatic Capital" into "Aquatic Capital Management": the same firm listed twice in tier 4; deleted aquatic-capital.json.
+- Overrides only (no list change): tracker names "Ernst & Young", "Fidelity National Information Services", "Hewlett Packard (HP)", "United Parcel Service (UPS)", "Procter & Gamble" now map to EY, FIS, HP, UPS, P&G.
+- Skipped from the top 100: staffing/IT-contracting agencies (Artech, AG Technologies, TSMG, mthree, 360 IT Professionals, Jobsbridge, USM, DellFor, Sonsoft, Collabera, etc.), universities, non-US employers (Sainsbury's, Hastings Direct), data-annotation/localization vendors (Innodata, RWS, Welocalize, Welo Global), and civil-engineering firms whose postings are not software roles (WSP, AECOM, Kimley-Horn, Arcadis). No renames, merges or removals: last run's research showed no company posting under a new name or shutting down.

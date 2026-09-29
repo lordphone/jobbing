@@ -2,7 +2,7 @@
   "company": "Visa",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "not_yet",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'Software Engineer - New College Grad' (Austin, TX, SmartRecruiters) first seen 2025-09-11",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://visa.wd5.myworkdayjobs.com/Visa",
   "jobs_spec": "wd:visa/wd5/Visa",
-  "evidence": "Checked Workday board (--all): no 'New College Grad'/early-career SWE postings live, only Senior/Staff/Sr Manager SWE roles and a Summer 2027 intern program. Tracker history shows New College Grad postings run via SmartRecruiters (jobs.smartrecruiters.com/Visa), last seen closing 2026-04-07; none currently live there either based on Workday board scan.",
-  "confidence": "medium"
+  "evidence": "Tracker showed 'Software Engineer (New College Grad) - 2027' postings for Austin/Bellevue/Foster City first seen 2026-09-16; current Workday board scan no longer lists them, and browser-verified the Austin posting URL now returns 'The page you are looking for doesn't exist.' A this-cycle posting existed and closed within ~11 days.",
+  "confidence": "high"
 }

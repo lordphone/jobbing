@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE postings found in tracker history",
+  "last_cycle_basis": "No SWE-track new-grad record found; campus hiring is Operations Analyst / Fund Accountant, not software.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services",
   "jobs_spec": "wd:seic/wd1/SEI_Global_Services",
-  "evidence": "Workday API: 35 postings. Campus-level roles are all Operations Analyst / Fund Accountant / Compliance (finance ops), not software. Engineering roles present are Senior/Lead only. No entry-level SWE track.",
-  "confidence": "high"
+  "evidence": "Workday API checked. Campus-level roles are 'Operations Analyst/Fund Accountant Opportunities (Dec 2026 / Spring-Summer 2027 Graduates)', not software. Software/engineering roles are Senior/Lead/II level or India-based. No entry-level SWE track found.",
+  "confidence": "medium"
 }

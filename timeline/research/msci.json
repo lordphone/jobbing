@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://uscareers-msci.icims.com",
   "jobs_spec": null,
-  "evidence": "Searched US iCIMS board (browser) for 'engineer' and 'graduate'. Only result for 'engineer' is Platform Engineer (Senior Associate, NY); only result for 'graduate' is a sales role (Senior Associate). No entry-level SWE / new-grad posting.",
-  "confidence": "high"
+  "evidence": "Re-checked uscareers-msci.icims.com/jobs/search?searchKeyword=software+engineer in the browser: the iCIMS results widget doesn't render as scrapable text (still blocked, same issue as prior pass). No entry-level SWE / new-grad posting confirmed via WebSearch either; MSCI's Technology Development Program appears to be its early-career SWE track but no live 2027 posting was found.",
+  "confidence": "medium"
 }

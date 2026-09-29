@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ssi",
   "jobs_spec": "ashby:ssi",
-  "evidence": "Company's Ashby board (jobs.ashbyhq.com/ssi) shows 'Open Positions (0)' verified in browser; posting API returns empty jobs list. ssi.inc has no separate careers page, only an Apply link to that board and general recruiting language. No structured new-grad track.",
+  "evidence": "Re-checked 2026-09-27: jobs.py API still returns no board/empty list for ashby:ssi. Prior run verified 'Open Positions (0)' in browser; no structured new-grad track.",
   "confidence": "high"
 }

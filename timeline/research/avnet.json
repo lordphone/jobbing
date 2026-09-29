@@ -1,0 +1,15 @@
+{
+  "company": "Avnet",
+  "tier": 7,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker shows only a 'Software Developer' req (Tempe/Phoenix, AZ), first seen 2026-06-01 and now closed; not labeled as a new-grad/entry program.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://avnet.wd1.myworkdayjobs.com/en-US/External",
+  "jobs_spec": "wd:avnet/wd1/External",
+  "evidence": "The Workday board loads and shows 'Search for Jobs' with the right tenant, but its jobs API (wday/cxs/avnet/External/jobs) returned HTTP 502 on every attempt (direct fetch in the browser pane, 3 retries with 1s gaps, both with and without a search term), so the page falls back to a false '0 JOBS FOUND'. Could not verify current openings; the board itself is down.",
+  "confidence": "low"
+}

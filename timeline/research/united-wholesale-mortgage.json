@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history found",
+  "last_cycle_basis": "No tracker or first-party record found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-uwmcareers.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS job board search for 'software engineer' returns zero results ('no jobs that match your search criteria'). No new-grad SWE program found; entry-level hiring at UWM is loan/mortgage roles.",
+  "evidence": "iCIMS job search for 'software engineer' returns no results (JS-rendered iframe, empty result set). Teams page lists a 'Technology' team and an annual company-wide Rotational Program (not SWE-specific, opens late summer/fall) but no new-grad SWE track.",
   "confidence": "medium"
 }

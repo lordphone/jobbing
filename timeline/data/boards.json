@@ -10,7 +10,16 @@
    "hits": []
   }
  ],
- "1X Technologies": [],
+ "1X Technologies": [
+  {
+   "kind": "ashby",
+   "slug": "1x",
+   "guessed": false,
+   "n_jobs": 92,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "23andMe (owned by TTAM Research Institute since 2025)": [],
  "2U (edX)": [
   {
@@ -27,7 +36,7 @@
    "kind": "workday",
    "slug": "3m/wd1/Search",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 71,
    "board_name": "",
    "hits": []
   }
@@ -75,7 +84,24 @@
  "ADP": [],
  "ADT": [],
  "AI21 Labs": [],
- "AIG (American International Group)": [],
+ "AIG (American International Group)": [
+  {
+   "kind": "workday",
+   "slug": "aig/wd1/early_careers",
+   "guessed": false,
+   "n_jobs": 22,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "aig/wd1/aig",
+   "guessed": false,
+   "n_jobs": 42,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "AMC Networks": [
   {
    "kind": "workday",
@@ -87,6 +113,7 @@
   }
  ],
  "AMD": [],
+ "AMERICAN SYSTEMS": [],
  "AOL": [],
  "AQR": [
   {
@@ -136,7 +163,7 @@
    "kind": "workday",
    "slug": "att/wd1/ATTGeneral",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 63,
    "board_name": "",
    "hits": []
   },
@@ -181,7 +208,7 @@
    "kind": "workday",
    "slug": "abbott/wd5/abbottcareers2",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 71,
    "board_name": "",
    "hits": [
     {
@@ -234,7 +261,7 @@
    "kind": "workday",
    "slug": "academy/wd1/careers",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 23,
    "board_name": "",
    "hits": []
   }
@@ -609,17 +636,17 @@
  "AllianceBernstein": [
   {
    "kind": "workday",
-   "slug": "abglobal/wd1/alliancebernsteincareers",
+   "slug": "abglobal/wd1/abcampuscareers",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   },
   {
    "kind": "workday",
-   "slug": "abglobal/wd1/abcampuscareers",
+   "slug": "abglobal/wd1/alliancebernsteincareers",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   }
@@ -742,6 +769,7 @@
  ],
  "American Airlines": [],
  "American Eagle Outfitters": [],
+ "American Electric Power": [],
  "American Express": [],
  "American Family Insurance": [
   {
@@ -768,7 +796,7 @@
    "kind": "workday",
    "slug": "amgen/wd1/careers",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 127,
    "board_name": "",
    "hits": []
   }
@@ -970,7 +998,7 @@
    "kind": "workday",
    "slug": "peak6group/wd1/apexfintechsolutions",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -1218,7 +1246,7 @@
    "kind": "workday",
    "slug": "arrow/wd1/ac",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -1329,8 +1357,18 @@
   }
  ],
  "Audible": [],
- "Augment Code": [],
+ "Augment Code": [
+  {
+   "kind": "greenhouse",
+   "slug": "augmentcomputing",
+   "guessed": false,
+   "n_jobs": 0,
+   "board_name": "Augment Code",
+   "hits": []
+  }
+ ],
  "Aurora Innovation": [],
+ "Auto-Owners Insurance": [],
  "AutoZone": [],
  "Autodesk": [
   {
@@ -1367,7 +1405,7 @@
    "kind": "workday",
    "slug": "avisbudget/wd1/abg_careers",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 12,
    "board_name": "",
    "hits": []
   }
@@ -1435,7 +1473,7 @@
    "kind": "greenhouse",
    "slug": "axonius",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 18,
    "board_name": "Axonius",
    "hits": []
   }
@@ -1459,7 +1497,7 @@
    "kind": "workday",
    "slug": "bdx/wd1/EXTERNAL_CAREER_SITE_USA",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 28,
    "board_name": "",
    "hits": []
   }
@@ -1628,7 +1666,7 @@
    "kind": "workday",
    "slug": "basspro/wd1/careers",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 4,
    "board_name": "",
    "hits": []
   }
@@ -1640,7 +1678,7 @@
    "kind": "workday",
    "slug": "baxter/wd1/baxter",
    "guessed": false,
-   "n_jobs": 5,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -1674,6 +1712,7 @@
   }
  ],
  "Bentley Systems": [],
+ "Berkshire Hathaway Energy": [],
  "Best Buy": [
   {
    "kind": "workday",
@@ -1684,16 +1723,7 @@
    "hits": []
   }
  ],
- "BetMGM": [
-  {
-   "kind": "workday",
-   "slug": "betmgminc/wd5/BetMGM",
-   "guessed": false,
-   "n_jobs": 3,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "BetMGM": [],
  "Beta Technologies": [
   {
    "kind": "greenhouse",
@@ -1704,7 +1734,16 @@
    "hits": []
   }
  ],
- "Better (Better.com)": [],
+ "Better (Better.com)": [
+  {
+   "kind": "ashby",
+   "slug": "better-mortgage",
+   "guessed": false,
+   "n_jobs": 13,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Betterment": [
   {
    "kind": "greenhouse",
@@ -1845,13 +1884,14 @@
    "hits": []
   }
  ],
+ "BlueCross BlueShield of South Carolina": [],
  "Boehringer Ingelheim": [],
  "Boeing": [
   {
    "kind": "workday",
    "slug": "boeing/wd1/EXTERNAL_CAREERS",
    "guessed": false,
-   "n_jobs": 103,
+   "n_jobs": 48,
    "board_name": "",
    "hits": [
     {
@@ -1860,81 +1900,8 @@
      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
      "date": "2026-08-28",
      "date_kind": "on or before"
-    },
-    {
-     "title": "Associate Software Engineer",
-     "loc": "2 Locations",
-     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1",
-     "date": "2026-09-22",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Associate Software Engineer",
-     "loc": "USA - Huntsville, AL",
-     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254-1",
-     "date": "2026-09-24",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Associate Software Engineer - Developers",
-     "loc": "USA - Oklahoma City, OK",
-     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1",
-     "date": "2026-09-24",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Associate Software Engineer, Phantom Works",
-     "loc": "USA - Berkeley, MO",
-     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer--Phantom-Works_JR2026523287-2",
-     "date": "2026-09-10",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Associate Software Development Engineer",
-     "loc": "3 Locations",
-     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Development-Engineer_JR2026515830-1",
-     "date": "2026-09-18",
-     "date_kind": "exact"
     }
    ]
-  },
-  {
-   "kind": "workday",
-   "slug": "boeing/wd1/external_subsidiary",
-   "guessed": false,
-   "n_jobs": 76,
-   "board_name": "",
-   "hits": [
-    {
-     "title": "Associate Software Engineer",
-     "loc": "USA - Omaha, NE",
-     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990",
-     "date": "2026-08-28",
-     "date_kind": "on or before"
-    },
-    {
-     "title": "Associate Software Engineer - Developers",
-     "loc": "USA - Oklahoma City, OK",
-     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427",
-     "date": "2026-09-24",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Associate Software Engineer",
-     "loc": "USA - Huntsville, AL",
-     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254",
-     "date": "2026-09-24",
-     "date_kind": "exact"
-    }
-   ]
-  },
-  {
-   "kind": "workday",
-   "slug": "boeing/wd1/INTERN",
-   "guessed": false,
-   "n_jobs": 25,
-   "board_name": "",
-   "hits": []
   }
  ],
  "Booking Holdings": [
@@ -2102,7 +2069,7 @@
    "kind": "workday",
    "slug": "bristolmyerssquibb/wd5/bms",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 44,
    "board_name": "",
    "hits": []
   }
@@ -2156,7 +2123,16 @@
    "hits": []
   }
  ],
- "Bullish": [],
+ "Bullish": [
+  {
+   "kind": "workday",
+   "slug": "bullish/wd3/Bullish",
+   "guessed": false,
+   "n_jobs": 2,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Bumble": [
   {
    "kind": "ashby",
@@ -2189,7 +2165,29 @@
  ],
  "ByteDance / TikTok": [],
  "C.H. Robinson": [],
- "C3.ai": [],
+ "C3.ai": [
+  {
+   "kind": "greenhouse",
+   "slug": "c3iot",
+   "guessed": false,
+   "n_jobs": 82,
+   "board_name": "C3 AI",
+   "hits": [
+    {
+     "title": "Forward Deployed Engineer,  New Grad 2027",
+     "loc": "Redwood City, California, United States",
+     "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+     "date": "2026-09-14"
+    },
+    {
+     "title": "Platform Full-Stack Engineer, New Grad 2027",
+     "loc": "Redwood City, California, United States",
+     "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+     "date": "2026-09-14"
+    }
+   ]
+  }
+ ],
  "CACI International": [
   {
    "kind": "workday",
@@ -2311,7 +2309,7 @@
    "kind": "workday",
    "slug": "cadence/wd1/External_Careers",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   },
@@ -2524,7 +2522,7 @@
    "kind": "greenhouse",
    "slug": "catonetworks",
    "guessed": false,
-   "n_jobs": 99,
+   "n_jobs": 100,
    "board_name": "Cato Networks",
    "hits": []
   }
@@ -2580,7 +2578,16 @@
    "hits": []
   }
  ],
- "Chainalysis": [],
+ "Chainalysis": [
+  {
+   "kind": "ashby",
+   "slug": "chainalysis-careers",
+   "guessed": false,
+   "n_jobs": 52,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Chainguard": [
   {
    "kind": "greenhouse",
@@ -2838,6 +2845,7 @@
    "hits": []
   }
  ],
+ "Citizen Health": [],
  "Citizens (Citizens Financial Group)": [],
  "Citrix (Cloud Software Group)": [],
  "Clari": [],
@@ -3337,7 +3345,7 @@
    "kind": "greenhouse",
    "slug": "coupang",
    "guessed": false,
-   "n_jobs": 708,
+   "n_jobs": 709,
    "board_name": "Coupang",
    "hits": []
   }
@@ -3512,7 +3520,7 @@
    "kind": "workday",
    "slug": "cyrusone/wd1/CyrusOneCareerPortal",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -3521,7 +3529,16 @@
  "D.E. Shaw": [],
  "DENSO": [],
  "DHL (DHL Group, US)": [],
- "DIRECTV": [],
+ "DIRECTV": [
+  {
+   "kind": "workday",
+   "slug": "directv/wd1/careers",
+   "guessed": false,
+   "n_jobs": 5,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "DRW": [
   {
    "kind": "greenhouse",
@@ -3559,6 +3576,7 @@
    "hits": []
   }
  ],
+ "DaVita": [],
  "DailyPay": [
   {
    "kind": "ashby",
@@ -3592,7 +3610,7 @@
    "kind": "workday",
    "slug": "danaher/wd1/DanaherJobs",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 38,
    "board_name": "",
    "hits": []
   }
@@ -3600,7 +3618,16 @@
  "Darden Restaurants": [],
  "Darktrace": [],
  "Dassault Syst\u00e8mes": [],
- "DataRobot": [],
+ "DataRobot": [
+  {
+   "kind": "workday",
+   "slug": "datarobot/wd1/DataRobot_External_Careers",
+   "guessed": false,
+   "n_jobs": 2,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Databricks": [
   {
    "kind": "greenhouse",
@@ -3686,7 +3713,16 @@
  "Dell": [],
  "Deloitte": [],
  "Delta": [],
- "Depop": [],
+ "Depop": [
+  {
+   "kind": "workday",
+   "slug": "etsy/wd5/Depop_Careers",
+   "guessed": false,
+   "n_jobs": 7,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Depository Trust & Clearing Corporation (DTCC)": [],
  "Descript": [
   {
@@ -3713,7 +3749,7 @@
    "kind": "workday",
    "slug": "dexcom/wd1/Dexcom",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 23,
    "board_name": "",
    "hits": []
   }
@@ -4033,7 +4069,7 @@
    "kind": "workday",
    "slug": "dukeenergy/wd1/search",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   }
@@ -4204,7 +4240,7 @@
    "kind": "workday",
    "slug": "entegris/wd1/entegriscareers",
    "guessed": false,
-   "n_jobs": 68,
+   "n_jobs": 84,
    "board_name": "",
    "hits": []
   }
@@ -4855,7 +4891,7 @@
    "kind": "workday",
    "slug": "flextronics/wd1/Careers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 80,
    "board_name": "",
    "hits": []
   }
@@ -4870,7 +4906,16 @@
    "hits": []
   }
  ],
- "Flock Safety": [],
+ "Flock Safety": [
+  {
+   "kind": "ashby",
+   "slug": "Flock%20Safety",
+   "guessed": false,
+   "n_jobs": 18,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Flow Traders": [
   {
    "kind": "greenhouse",
@@ -4899,7 +4944,7 @@
    "kind": "workday",
    "slug": "formfactor/wd1/FFI-Careers",
    "guessed": false,
-   "n_jobs": 13,
+   "n_jobs": 14,
    "board_name": "",
    "hits": []
   }
@@ -5073,7 +5118,7 @@
    "kind": "workday",
    "slug": "gevernova/wd5/vernova_externalsite",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 55,
    "board_name": "",
    "hits": []
   }
@@ -5149,7 +5194,7 @@
    "kind": "workday",
    "slug": "gsk/wd5/GSKCareers",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 65,
    "board_name": "",
    "hits": []
   }
@@ -5399,6 +5444,7 @@
    "hits": []
   }
  ],
+ "Genuine Parts Company": [],
  "Getty Images Holdings": [
   {
    "kind": "lever",
@@ -5414,7 +5460,7 @@
    "kind": "workday",
    "slug": "gilead/wd1/gileadcareers",
    "guessed": false,
-   "n_jobs": 72,
+   "n_jobs": 86,
    "board_name": "",
    "hits": []
   }
@@ -5621,7 +5667,16 @@
    "hits": []
   }
  ],
- "Grubhub (owned by Wonder)": [],
+ "Grubhub (owned by Wonder)": [
+  {
+   "kind": "workday",
+   "slug": "wonder/wd1/Grubhub_Careers",
+   "guessed": false,
+   "n_jobs": 4,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Guardant Health": [],
  "Guardian Life Insurance Company of America": [
   {
@@ -5894,7 +5949,16 @@
    "hits": []
   }
  ],
- "Hebbia": [],
+ "Hebbia": [
+  {
+   "kind": "ashby",
+   "slug": "hebbia-ai",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Helion": [
   {
    "kind": "ashby",
@@ -5910,7 +5974,7 @@
    "kind": "greenhouse",
    "slug": "hellofresh",
    "guessed": false,
-   "n_jobs": 444,
+   "n_jobs": 443,
    "board_name": "HelloFresh",
    "hits": []
   }
@@ -5930,7 +5994,7 @@
   {
    "kind": "ashby",
    "slug": "hex",
-   "guessed": true,
+   "guessed": false,
    "n_jobs": 3,
    "board_name": "",
    "hits": []
@@ -6069,7 +6133,7 @@
   {
    "kind": "greenhouse",
    "slug": "hubspot",
-   "guessed": false,
+   "guessed": true,
    "n_jobs": 0,
    "board_name": "HubSpot Product",
    "hits": []
@@ -6275,16 +6339,7 @@
    "hits": []
   }
  ],
- "IQVIA": [
-  {
-   "kind": "workday",
-   "slug": "iqvia/wd1/IQVIA",
-   "guessed": false,
-   "n_jobs": 94,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "IQVIA": [],
  "IXL Learning": [
   {
    "kind": "greenhouse",
@@ -6343,7 +6398,7 @@
    "kind": "workday",
    "slug": "illumina/wd1/illumina-careers",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 8,
    "board_name": "",
    "hits": []
   }
@@ -6630,24 +6685,7 @@
    "hits": []
   }
  ],
- "J.Crew Group": [
-  {
-   "kind": "workday",
-   "slug": "jcrew/wd1/MadewellCareers",
-   "guessed": false,
-   "n_jobs": 0,
-   "board_name": "",
-   "hits": []
-  },
-  {
-   "kind": "workday",
-   "slug": "jcrew/wd1/jcrewcareers",
-   "guessed": false,
-   "n_jobs": 4,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "J.Crew Group": [],
  "JCPenney (Catalyst Brands)": [],
  "JD.com": [
   {
@@ -6664,7 +6702,7 @@
    "kind": "greenhouse",
    "slug": "jfrog",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 60,
    "board_name": "JFrog",
    "hits": []
   }
@@ -6732,8 +6770,18 @@
    "hits": []
   }
  ],
- "Jasper": [],
+ "Jasper": [
+  {
+   "kind": "ashby",
+   "slug": "Jasper%20AI",
+   "guessed": false,
+   "n_jobs": 6,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Jefferies": [],
+ "Jerry": [],
  "JetBlue Airways": [],
  "JetBrains": [
   {
@@ -6789,15 +6837,7 @@
    "kind": "workday",
    "slug": "jci/wd5/JCI",
    "guessed": false,
-   "n_jobs": 113,
-   "board_name": "",
-   "hits": []
-  },
-  {
-   "kind": "workday",
-   "slug": "jci/wd5/JCI_Confidential",
-   "guessed": false,
-   "n_jobs": 8,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -7063,7 +7103,7 @@
   {
    "kind": "greenhouse",
    "slug": "koch",
-   "guessed": true,
+   "guessed": false,
    "n_jobs": 1,
    "board_name": "Koch Mechanical",
    "hits": []
@@ -7141,16 +7181,7 @@
  ],
  "L'Or\u00e9al USA": [],
  "L.E.K. Consulting": [],
- "L.L.Bean": [
-  {
-   "kind": "workday",
-   "slug": "llbean/wd1/llbean_careers",
-   "guessed": false,
-   "n_jobs": 3,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "L.L.Bean": [],
  "L3Harris": [],
  "LG Electronics": [
   {
@@ -7163,14 +7194,6 @@
   }
  ],
  "LPL Financial": [
-  {
-   "kind": "workday",
-   "slug": "lplfinancial/wd1/External",
-   "guessed": false,
-   "n_jobs": 29,
-   "board_name": "",
-   "hits": []
-  },
   {
    "kind": "workday",
    "slug": "lplfinancial/wd1/university",
@@ -7200,6 +7223,14 @@
      "date_kind": "on or before"
     }
    ]
+  },
+  {
+   "kind": "workday",
+   "slug": "lplfinancial/wd1/External",
+   "guessed": false,
+   "n_jobs": 29,
+   "board_name": "",
+   "hits": []
   }
  ],
  "LSEG (London Stock Exchange Group)": [
@@ -7282,6 +7313,7 @@
    "hits": []
   }
  ],
+ "Latitude AI": [],
  "Lattice": [
   {
    "kind": "greenhouse",
@@ -7432,7 +7464,7 @@
    "kind": "workday",
    "slug": "lifetime/wd1/lifetime",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 43,
    "board_name": "",
    "hits": []
   }
@@ -7583,11 +7615,11 @@
  "Los Alamos National Laboratory (LANL)": [],
  "Lovable": [
   {
-   "kind": "greenhouse",
+   "kind": "ashby",
    "slug": "lovable",
    "guessed": false,
-   "n_jobs": 61,
-   "board_name": "Lovable",
+   "n_jobs": 79,
+   "board_name": "",
    "hits": []
   }
  ],
@@ -7689,7 +7721,7 @@
    "kind": "workday",
    "slug": "mksinst/wd1/mkscareersamericas",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -7743,11 +7775,11 @@
  "Macy's, Inc.": [],
  "Magic (magic.dev)": [
   {
-   "kind": "greenhouse",
-   "slug": "magic",
-   "guessed": true,
-   "n_jobs": 0,
-   "board_name": "Magic",
+   "kind": "ashby",
+   "slug": "magic.dev",
+   "guessed": false,
+   "n_jobs": 8,
+   "board_name": "",
    "hits": []
   }
  ],
@@ -7852,7 +7884,16 @@
    "hits": []
   }
  ],
- "Marqeta": [],
+ "Marqeta": [
+  {
+   "kind": "ashby",
+   "slug": "marqeta-inc",
+   "guessed": false,
+   "n_jobs": 40,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Marriott International": [],
  "Mars, Incorporated": [
   {
@@ -7864,7 +7905,16 @@
    "hits": []
   }
  ],
- "Marsh McLennan": [],
+ "Marsh McLennan": [
+  {
+   "kind": "workday",
+   "slug": "mmc/wd1/mmc",
+   "guessed": false,
+   "n_jobs": 83,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Marshall Wace": [
   {
    "kind": "greenhouse",
@@ -7910,13 +7960,30 @@
    "hits": []
   }
  ],
- "MassMutual": [],
+ "MassMutual": [
+  {
+   "kind": "workday",
+   "slug": "massmutual/wd1/MMAscendCareers",
+   "guessed": false,
+   "n_jobs": 1,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "massmutual/wd1/MMCareers",
+   "guessed": false,
+   "n_jobs": 7,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Mastercard": [
   {
    "kind": "workday",
    "slug": "mastercard/wd1/CorporateCareers",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 69,
    "board_name": "",
    "hits": []
   },
@@ -7924,7 +7991,7 @@
    "kind": "workday",
    "slug": "mastercard/wd1/Campus",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 34,
    "board_name": "",
    "hits": [
     {
@@ -7940,7 +8007,7 @@
    "kind": "workday",
    "slug": "mastercard/wd1/campusapplyonly",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -8053,7 +8120,7 @@
    "kind": "workday",
    "slug": "medline/wd5/Medline",
    "guessed": false,
-   "n_jobs": 52,
+   "n_jobs": 57,
    "board_name": "",
    "hits": []
   }
@@ -8063,7 +8130,15 @@
    "kind": "workday",
    "slug": "medtronic/wd1/redeploymentmedtroniccareers",
    "guessed": false,
-   "n_jobs": 39,
+   "n_jobs": 114,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "medtronic/wd1/MedtronicCareers",
+   "guessed": false,
+   "n_jobs": 20,
    "board_name": "",
    "hits": []
   }
@@ -8208,14 +8283,6 @@
    "n_jobs": 27,
    "board_name": "",
    "hits": []
-  },
-  {
-   "kind": "workday",
-   "slug": "tti/wd1/tti_pe",
-   "guessed": false,
-   "n_jobs": 5,
-   "board_name": "",
-   "hits": []
   }
  ],
  "Mimecast": [
@@ -8292,7 +8359,7 @@
    "kind": "workday",
    "slug": "modernatx/wd1/M_tx",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 25,
    "board_name": "",
    "hits": []
   }
@@ -8432,7 +8499,7 @@
    "kind": "workday",
    "slug": "motorolasolutions/wd5/Careers",
    "guessed": false,
-   "n_jobs": 111,
+   "n_jobs": 112,
    "board_name": "",
    "hits": []
   }
@@ -8580,7 +8647,7 @@
    "kind": "greenhouse",
    "slug": "tripactions",
    "guessed": false,
-   "n_jobs": 211,
+   "n_jobs": 212,
    "board_name": "Navan",
    "hits": []
   }
@@ -8693,6 +8760,35 @@
  "New York Life Insurance Company": [],
  "Newegg": [],
  "News Corp": [],
+ "NewsBreak": [
+  {
+   "kind": "greenhouse",
+   "slug": "newsbreak",
+   "guessed": true,
+   "n_jobs": 53,
+   "board_name": "NewsBreak",
+   "hits": [
+    {
+     "title": "Applied AI Engineer, Advertising Agents (New Grad)",
+     "loc": "Mountain View, California, United States",
+     "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+     "date": "2026-07-27"
+    },
+    {
+     "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad\uff09",
+     "loc": "Mountain View, California, United States",
+     "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
+     "date": "2026-07-06"
+    },
+    {
+     "title": "Software Engineer, ML Infra (Junior & New Grad)",
+     "loc": "Mountain View, California, United States",
+     "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+     "date": "2025-11-05"
+    }
+   ]
+  }
+ ],
  "Nexstar Media": [
   {
    "kind": "workday",
@@ -8794,17 +8890,9 @@
    "kind": "workday",
    "slug": "ngc/wd1/Northrop_Grumman_External_Site",
    "guessed": false,
-   "n_jobs": 98,
+   "n_jobs": 50,
    "board_name": "",
-   "hits": [
-    {
-     "title": "Associate Software Engineer / Software Engineer",
-     "loc": "United States-Alabama-Huntsville",
-     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10253028-1",
-     "date": "2026-09-24",
-     "date_kind": "exact"
-    }
-   ]
+   "hits": []
   }
  ],
  "Northwell Health": [],
@@ -8813,7 +8901,7 @@
    "kind": "workday",
    "slug": "northwesternmutual/wd5/corporate-careers",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -8861,11 +8949,11 @@
  "Novo Nordisk": [],
  "Nu Holdings (Nubank)": [
   {
-   "kind": "greenhouse",
+   "kind": "ashby",
    "slug": "nubank",
    "guessed": false,
-   "n_jobs": 0,
-   "board_name": "Nubank",
+   "n_jobs": 117,
+   "board_name": "",
    "hits": []
   }
  ],
@@ -9098,7 +9186,7 @@
    "kind": "workday",
    "slug": "onto/wd1/onto_careers",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 31,
    "board_name": "",
    "hits": []
   }
@@ -9230,10 +9318,10 @@
  "Otter.ai": [
   {
    "kind": "greenhouse",
-   "slug": "otter",
+   "slug": "otterai",
    "guessed": false,
    "n_jobs": 23,
-   "board_name": "Otter",
+   "board_name": "Otter.ai",
    "hits": []
   }
  ],
@@ -9336,7 +9424,7 @@
    "kind": "workday",
    "slug": "pvh/wd1/pvh_careers",
    "guessed": false,
-   "n_jobs": 53,
+   "n_jobs": 33,
    "board_name": "",
    "hits": []
   }
@@ -9493,7 +9581,7 @@
    "kind": "workday",
    "slug": "paloaltonetworks/wd5/panwexternalcareers",
    "guessed": false,
-   "n_jobs": 84,
+   "n_jobs": 85,
    "board_name": "",
    "hits": []
   }
@@ -9504,7 +9592,7 @@
    "kind": "workday",
    "slug": "papajohns/wd1/papajohnscareers",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 46,
    "board_name": "",
    "hits": []
   }
@@ -9516,7 +9604,7 @@
    "kind": "workday",
    "slug": "parsons/wd5/search",
    "guessed": false,
-   "n_jobs": 122,
+   "n_jobs": 121,
    "board_name": "",
    "hits": []
   }
@@ -9576,7 +9664,7 @@
    "kind": "greenhouse",
    "slug": "payoneer",
    "guessed": false,
-   "n_jobs": 109,
+   "n_jobs": 111,
    "board_name": "Payoneer",
    "hits": []
   }
@@ -9665,6 +9753,14 @@
    "slug": "pfizer/wd1/PfizerCareers",
    "guessed": false,
    "n_jobs": 61,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "pfizer/wd1/internaljobs",
+   "guessed": false,
+   "n_jobs": 46,
    "board_name": "",
    "hits": []
   }
@@ -9887,7 +9983,16 @@
    "hits": []
   }
  ],
- "Postman": [],
+ "Postman": [
+  {
+   "kind": "workday",
+   "slug": "postman/wd108/careers",
+   "guessed": false,
+   "n_jobs": 22,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "PowerSchool": [],
  "Priceline": [
   {
@@ -9911,6 +10016,7 @@
   }
  ],
  "Procore Technologies": [],
+ "Procter & Gamble": [],
  "Progressive": [],
  "Project Prometheus": [],
  "Proofpoint": [
@@ -9972,7 +10078,16 @@
    "hits": []
   }
  ],
- "Public.com": [],
+ "Public.com": [
+  {
+   "kind": "greenhouse",
+   "slug": "public",
+   "guessed": false,
+   "n_jobs": 2,
+   "board_name": "Public",
+   "hits": []
+  }
+ ],
  "Publicis Groupe (incl. Publicis Sapient)": [],
  "Publicis Sapient": [],
  "Publix Super Markets": [],
@@ -10039,6 +10154,16 @@
   }
  ],
  "Qualys": [],
+ "Quantcast": [
+  {
+   "kind": "ashby",
+   "slug": "quantcast",
+   "guessed": true,
+   "n_jobs": 18,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Quantinuum": [],
  "Quantlab Financial": [],
  "QuantumScape": [],
@@ -10426,17 +10551,17 @@
  "Raymond James Financial": [
   {
    "kind": "workday",
-   "slug": "raymondjames/wd1/RaymondJamesCareers",
+   "slug": "raymondjames/wd1/RaymondJamesEarlyCareers",
    "guessed": false,
-   "n_jobs": 52,
+   "n_jobs": 20,
    "board_name": "",
    "hits": []
   },
   {
    "kind": "workday",
-   "slug": "raymondjames/wd1/RaymondJamesEarlyCareers",
+   "slug": "raymondjames/wd1/RaymondJamesCareers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -10547,7 +10672,7 @@
    "kind": "workday",
    "slug": "regeneron/wd1/Careers",
    "guessed": false,
-   "n_jobs": 45,
+   "n_jobs": 24,
    "board_name": "",
    "hits": []
   }
@@ -10816,7 +10941,7 @@
    "kind": "greenhouse",
    "slug": "rocketlab",
    "guessed": false,
-   "n_jobs": 526,
+   "n_jobs": 525,
    "board_name": "Rocket Lab Corporation",
    "hits": [
     {
@@ -10856,6 +10981,14 @@
    "slug": "rockwellautomation/wd1/External_Rockwell_Automation",
    "guessed": false,
    "n_jobs": 68,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "rockwellautomation/wd1/External-Rockwell-Automation-Early-Careers",
+   "guessed": false,
+   "n_jobs": 17,
    "board_name": "",
    "hits": []
   }
@@ -10992,7 +11125,7 @@
    "kind": "workday",
    "slug": "seic/wd1/SEI_Global_Services",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -11000,6 +11133,7 @@
  "SK hynix": [],
  "SLAC National Accelerator Laboratory": [],
  "SLB": [],
+ "SMX": [],
  "SRI International": [],
  "SS&C Technologies": [
   {
@@ -11229,7 +11363,16 @@
    "hits": []
   }
  ],
- "Schweitzer Engineering Laboratories": [],
+ "Schweitzer Engineering Laboratories": [
+  {
+   "kind": "workday",
+   "slug": "selinc/wd1/SEL",
+   "guessed": false,
+   "n_jobs": 43,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Scopely": [
   {
    "kind": "greenhouse",
@@ -11286,7 +11429,7 @@
    "kind": "workday",
    "slug": "semtech/wd1/SemtechCareers",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 31,
    "board_name": "",
    "hits": []
   }
@@ -11385,18 +11528,18 @@
    "hits": []
   }
  ],
- "Shift4": [],
- "Shopify": [],
- "Shutterstock (merging with Getty Images)": [
+ "Shift4": [
   {
    "kind": "workday",
-   "slug": "shutterstock/wd1/shutterstockcareers",
+   "slug": "shift4payments/wd108/Shift4_External_CareerSite",
    "guessed": false,
-   "n_jobs": 0,
+   "n_jobs": 6,
    "board_name": "",
    "hits": []
   }
  ],
+ "Shopify": [],
+ "Shutterstock (merging with Getty Images)": [],
  "SiFive": [],
  "Siemens": [],
  "Siemens Healthineers": [],
@@ -11466,7 +11609,7 @@
    "kind": "workday",
    "slug": "silabs/wd1/SiliconlabsCareers",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 24,
    "board_name": "",
    "hits": [
     {
@@ -11474,6 +11617,13 @@
      "loc": "Austin",
      "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/DevOps-Platform-Engineer_21029-1",
      "date": "2026-09-08",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Software Engineer I",
+     "loc": "Austin",
+     "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1",
+     "date": "2026-09-14",
      "date_kind": "exact"
     }
    ]
@@ -11713,7 +11863,7 @@
    "kind": "workday",
    "slug": "sonyglobal/wd1/Sony_Europe_Careers",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -12041,7 +12191,7 @@
    "kind": "workday",
    "slug": "sbdinc/wd1/Stanley_Black_Decker_Career_Site",
    "guessed": false,
-   "n_jobs": 80,
+   "n_jobs": 81,
    "board_name": "",
    "hits": [
     {
@@ -12150,7 +12300,7 @@
    "kind": "greenhouse",
    "slug": "stripe",
    "guessed": false,
-   "n_jobs": 702,
+   "n_jobs": 701,
    "board_name": "Stripe",
    "hits": [
     {
@@ -12173,7 +12323,7 @@
    "kind": "workday",
    "slug": "stryker/wd1/StrykerCareers",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 81,
    "board_name": "",
    "hits": []
   }
@@ -12441,7 +12591,7 @@
    "kind": "workday",
    "slug": "wwecorp/wd5/wwecorp",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 1,
    "board_name": "",
    "hits": []
   }
@@ -12543,7 +12693,7 @@
    "kind": "workday",
    "slug": "target/wd5/targetcareers",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -12569,7 +12719,16 @@
   }
  ],
  "Tech Mahindra": [],
- "Tekion": [],
+ "Tekion": [
+  {
+   "kind": "ashby",
+   "slug": "tekion",
+   "guessed": false,
+   "n_jobs": 115,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Tektronix": [],
  "Teladoc Health": [],
  "Teledyne": [
@@ -12577,9 +12736,24 @@
    "kind": "workday",
    "slug": "flir/wd1/flircareers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 66,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "Associate Software Engineer",
+     "loc": "US - Huntsville, AL",
+     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189",
+     "date": "2026-08-28",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Associate Software Engineer",
+     "loc": "US - Huntsville, AL",
+     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36190",
+     "date": "2026-08-28",
+     "date_kind": "on or before"
+    }
+   ]
   }
  ],
  "TelevisaUnivision": [
@@ -12609,7 +12783,7 @@
    "kind": "greenhouse",
    "slug": "tenableinc",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 41,
    "board_name": "Tenable, Inc.",
    "hits": []
   }
@@ -12709,7 +12883,16 @@
  ],
  "The Associated Press (AP)": [],
  "The Boring Company": [],
- "The Carlyle Group": [],
+ "The Carlyle Group": [
+  {
+   "kind": "workday",
+   "slug": "carlyle/wd1/Carlyle",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "The Clorox Company": [
   {
    "kind": "workday",
@@ -12986,6 +13169,7 @@
    ]
   }
  ],
+ "Torch Technologies": [],
  "Tower Research Capital": [
   {
    "kind": "greenhouse",
@@ -13126,7 +13310,16 @@
  ],
  "Trexquant": [],
  "TriNet": [],
- "Trimble": [],
+ "Trimble": [
+  {
+   "kind": "workday",
+   "slug": "trimble/wd1/TrimbleCareers",
+   "guessed": false,
+   "n_jobs": 37,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Tripadvisor": [
   {
    "kind": "greenhouse",
@@ -13203,6 +13396,16 @@
    "guessed": false,
    "n_jobs": 68,
    "board_name": "",
+   "hits": []
+  }
+ ],
+ "Truveta": [
+  {
+   "kind": "greenhouse",
+   "slug": "truveta",
+   "guessed": true,
+   "n_jobs": 40,
+   "board_name": "Truveta",
    "hits": []
   }
  ],
@@ -13314,16 +13517,7 @@
    "hits": []
   }
  ],
- "U-Haul (U-Haul Holding Company)": [
-  {
-   "kind": "workday",
-   "slug": "uhaul/wd1/UhaulJobs",
-   "guessed": false,
-   "n_jobs": 16,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "U-Haul (U-Haul Holding Company)": [],
  "U.S. Bank": [
   {
    "kind": "workday",
@@ -13407,6 +13601,7 @@
    "hits": []
   }
  ],
+ "Uline": [],
  "Ulta Beauty": [],
  "Under Armour": [],
  "Underdog (Underdog Fantasy)": [
@@ -13438,7 +13633,16 @@
   }
  ],
  "Union Pacific": [],
- "Uniphore": [],
+ "Uniphore": [
+  {
+   "kind": "workday",
+   "slug": "uniphore/wd503/Uniphore",
+   "guessed": false,
+   "n_jobs": 6,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Uniswap Labs": [
   {
    "kind": "ashby",
@@ -13632,7 +13836,7 @@
    "kind": "workday",
    "slug": "vantagedc/wd1/Vantage",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   }
@@ -13738,7 +13942,16 @@
    "hits": []
   }
  ],
- "Verily": [],
+ "Verily": [
+  {
+   "kind": "workday",
+   "slug": "verily/wd1/verily_careers",
+   "guessed": false,
+   "n_jobs": 26,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Verisk": [],
  "Verition Fund Management": [],
  "Verizon": [
@@ -13779,7 +13992,7 @@
    "kind": "workday",
    "slug": "viavisolutions/wd1/careers",
    "guessed": false,
-   "n_jobs": 16,
+   "n_jobs": 38,
    "board_name": "",
    "hits": [
     {
@@ -13837,7 +14050,7 @@
    "kind": "workday",
    "slug": "walmart/wd504/WalmartExternal",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 99,
    "board_name": "",
    "hits": []
   },
@@ -13981,7 +14194,7 @@
    "kind": "workday",
    "slug": "walmart/wd504/WalmartExternal",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 99,
    "board_name": "",
    "hits": []
   }
@@ -14164,6 +14377,7 @@
    "hits": []
   }
  ],
+ "Wellmark": [],
  "Wells Fargo": [
   {
    "kind": "workday",
@@ -14176,6 +14390,7 @@
  ],
  "Wendy's": [],
  "West Monroe": [],
+ "Western Alliance": [],
  "Western Digital": [],
  "Western Union": [
   {
@@ -14420,6 +14635,7 @@
   }
  ],
  "Xerox": [],
+ "Xylem": [],
  "Yahoo": [
   {
    "kind": "workday",
@@ -14729,6 +14945,14 @@
    "slug": "iheartmedia/wd5/External_iHM",
    "guessed": false,
    "n_jobs": 18,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "iheartmedia/wd5/iHM_Technology_Site",
+   "guessed": false,
+   "n_jobs": 5,
    "board_name": "",
    "hits": []
   }

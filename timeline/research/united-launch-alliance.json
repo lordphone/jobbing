@@ -1,19 +1,18 @@
 {
   "company": "United Launch Alliance (ULA)",
   "tier": 8,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "CI/CD Infrastructure Software Engineer 1", "url": "https://jobs.ulalaunch.com/go/ENGINEERING-SOFTWARE-JOBS/9546500/", "location": "Centennial, CO (ULA - Denver)",
-     "opened": "on or before 2026-09-19", "date_source": "page text",
-     "grad_window": null, "live_verified": "no"}
+    {"title": "CI/CD Infrastructure Software Engineer 1", "url": "https://jobs.ulalaunch.com/job/Centennial-CICD-Infrastructure-Software-Engineer-1-CO-80112/1402696200/", "location": "Centennial/Denver, CO", "opened": "on or before 2026-09-22", "date_source": "page text", "grad_window": null, "live_verified": "no"},
+    {"title": "Ground Systems Software Engineer 3 / Embedded Flight Software Engineer 2-3 / other Software Engineer 1-3 roles", "url": "https://jobs.ulalaunch.com/search/?q=software+engineer", "location": "Centennial, CO; Decatur, AL; Cape Canaveral, FL", "opened": "unknown", "date_source": "page text", "grad_window": null, "live_verified": "no"}
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not checked given ITAR exclusion",
-  "excluded_reason": "us person / itar",
+  "last_cycle_basis": "Tracker history shows SWE 1 postings first seen 2026-06-23 onward, outside the 2025-07 to 2026-01 last-cycle window; no earlier match found",
+  "excluded_reason": "green card",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ulalaunch.com",
   "jobs_spec": null,
-  "evidence": "Entry-level CI/CD Infrastructure Software Engineer 1 posted ~Sep 19 2026 requires 'U.S. Person' per ITAR 22 CFR 120.62 (citizen/green card/protected individual). ULA is an ITAR launch provider; excluded per skill rules.",
-  "confidence": "high"
+  "evidence": "WebFetch of live CI/CD Infrastructure Software Engineer 1 posting: 'all applicants must be U.S. Persons as defined in ITAR 22 CFR 120.62 (e.g., U.S. Citizen, Lawful Permanent Resident...)'. No experience required (entry-level).",
+  "confidence": "medium"
 }

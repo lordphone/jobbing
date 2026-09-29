@@ -2,14 +2,14 @@
   "company": "KKR",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
+  "last_cycle_basis": "no tracker history found for KKR",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.kkr.com/careers/student-careers/student-career-opportunities",
-  "jobs_spec": null,
-  "evidence": "KKR's student careers page embeds its job board in a widget/iframe that get_page_text can't read; search results found a 'Software Engineering Graduate Analyst' role but placed in Dublin, not confirmed for the US. FT analyst hiring is mostly internship-conversion. Could not confirm a US SWE new-grad posting this pass.",
-  "confidence": "low"
+  "jobs_spec": "gh:staged",
+  "evidence": "Found KKR's embedded Greenhouse board via its iframe src (slug 'staged'), 23 postings, all shown. Every 2027/2028 campus posting is a finance/actuarial/insurance/private-equity analyst or associate track (K-Star, Capstone, Infrastructure, Insurance Risk, etc). No software engineering or technology title of any kind on the student board.",
+  "confidence": "high"
 }

@@ -1,0 +1,15 @@
+{
+  "company": "John Deere",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown - not found in this run",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://johndeere.eightfold.ai/careers",
+  "jobs_spec": "eightfold:johndeere.eightfold.ai/johndeere.com",
+  "evidence": "Eightfold board checked (--all). Several 'Engineering Development Program' postings exist (Electrification, Weld, Engine, Factory, Product) but none are software-specific. Checked 'Software Engineer II (CA)' (Moline, posted 2026-09-15): requires 3 years experience + Bachelor's, not new-grad. Other SWE postings are Senior/Staff or Embedded (excluded, firmware-adjacent). No qualifying entry-level SWE posting found.",
+  "confidence": "medium"
+}

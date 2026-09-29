@@ -1,25 +1,15 @@
 {
   "company": "WebMD (Internet Brands)",
   "tier": 9,
-  "checked": "2026-09-24",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate AI Software Engineer",
-      "url": "https://jobs.jobvite.com/internetbrands/job/oSkoAfwU",
-      "location": "Newark, NJ",
-      "opened": "on or before 2026-06-30",
-      "date_source": "tracker first seen",
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "checked": "2026-09-27",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-11-14",
-  "last_cycle_basis": "tracker first-seen date for 'Associate AI Software Engineer' (El Segundo, CA) on internetbrands jobvite board",
+  "last_cycle_basis": "kept from prior research file (tracker_last_cycle 2025-11-14)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/webmd",
   "jobs_spec": null,
-  "evidence": "Jobvite board (no API) checked live. Only US entry-level eng role: Associate AI Software Engineer, Newark NJ, requires Bachelor's + no prior experience, live Apply button. WebMD/Internet Brands share this Jobvite recruiting; no explicit 2027 grad-year framing.",
+  "evidence": "Prior file (2026-09-24) found 'Associate AI Software Engineer', Newark NJ, open. That title is no longer on the Jobvite board (checked via WebFetch, full listing + keyword search); current Newark tech roles are 'AI Engineer', 'Production Engineer', 'Risk & Compliance Engineer' with no entry-level indication. Treating as closed since a this-cycle posting existed and is now gone.",
   "confidence": "medium"
 }

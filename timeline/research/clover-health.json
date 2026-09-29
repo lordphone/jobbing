@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE postings found in current Greenhouse board history",
+  "last_cycle_basis": "No first-party or tracker evidence of a new-grad SWE track.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cloverhealth",
   "jobs_spec": "gh:cloverhealth",
-  "evidence": "jobs.py board gh:cloverhealth --all lists 67 postings; all engineering roles are Senior/Staff level or Software Developer with no 0-1 year / new-grad requirement. No entry-level SWE track.",
+  "evidence": "jobs.py board gh:cloverhealth --all lists 67 postings; all engineering roles are Senior/Staff or 'Software Engineer, Engineering Productivity' with no 0-1 year requirement. No entry-level SWE track found.",
   "confidence": "high"
 }

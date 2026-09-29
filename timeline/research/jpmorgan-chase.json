@@ -2,11 +2,14 @@
   "company": "JPMorgan Chase",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "leftover_2026",
+  "status": "open",
   "postings": [
-    {"title": "2027 Software Engineer Program - Full-Time - United States - February Start", "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102", "location": "United States",
-     "opened": "2026-08-03", "date_source": "page text (posted date)",
-     "grad_window": "graduation between July 2026 and December 2026", "live_verified": "browser"}
+    {"title": "2027 Software Engineer Program - Full-Time - United States - July Start", "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111", "location": "Chicago, IL and 8 more (US)",
+     "opened": "2026-08-02", "date_source": "page text (Posting Date)",
+     "grad_window": "graduation between July 2026 and June 2027, start July 2027", "live_verified": "browser"},
+    {"title": "2027 Software Engineer Program - Full-Time - United States - February Start", "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102", "location": "Chicago, IL and 8 more (US)",
+     "opened": "2026-08-02", "date_source": "page text (Posting Date)",
+     "grad_window": "graduation between July 2026 and December 2026, start February 2027", "live_verified": "browser"}
   ],
   "last_cycle_opened": "2025-08-04",
   "last_cycle_basis": "tracker history: 'Software Engineer' postings first seen 2025-08-04 (x2, Austin/Chicago/Columbus/Houston and Wilmington variants)",
@@ -14,6 +17,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "Only 'new grad'-shaped posting is titled '2027 Software Engineer Program' but its grad window is Jul-Dec 2026 (Feb 2027 start), a leftover per skill rule. No other 2027-grad-window SWE posting found scanning 281-posting board.",
-  "confidence": "medium"
+  "evidence": "Browser-verified live Apply page for the 'July Start' variant (job/210774111): grad window Jul 2026-Jun 2027, start July 2027 -- a genuine 2027-cycle posting, not just the previously-found Feb-Start leftover. No sponsorship offered. Both variants Apply Before 11/05/2026.",
+  "confidence": "high"
 }

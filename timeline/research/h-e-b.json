@@ -1,15 +1,15 @@
 {
   "company": "H-E-B",
   "tier": 9,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; previous low-quality pass noted a SWE 1 posting now 404, but no dated tracker or page evidence found this run",
+  "last_cycle_basis": "H-E-B Digital reposts a 'Software Engineer I' role periodically (per prior research); no dated first-seen record found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.heb.com/digital",
   "jobs_spec": null,
-  "evidence": "iCIMS-based board (careers.heb.com/jobs). Searched 'software engineer' (17 results, all Senior/Staff/Manager) and 'new grad' (0 results). No entry-level SWE, no 2027 or 2026 grad-window posting found. Level Up is an onboarding program, not a posting; summer internship apps 'open in the fall'.",
+  "evidence": "iCIMS-based board (no API); WebFetch can't render the JS job list. Prior 2026-09-24 research searched 'software engineer' (17 results, all Senior/Staff/Manager) and 'new grad' (0 results); that cycle's SWE 1 posting is now 404. No contradicting evidence found this pass.",
   "confidence": "medium"
 }

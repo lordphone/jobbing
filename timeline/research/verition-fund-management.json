@@ -2,14 +2,14 @@
   "company": "Verition Fund Management",
   "tier": 4,
   "checked": "2026-09-27",
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker_last_cycle from worklist (last cycle's entry was a Quant Developer role, not a labeled SWE new-grad program)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker shows only Quantitative Developer/Analyst reqs (2024-2026), none labeled new-grad SWE; closest is 'Quantitative Developer' first tracked 2025-10-30 (open-ended req, not a labeled cycle posting)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.verition.com/open-positions",
-  "jobs_spec": null,
-  "evidence": "verition.com/open-positions is JS-rendered with no API; browser pane failed to show a job list (one navigation attempt spuriously loaded an unrelated PEAK6 careers page, not Verition's own board). Web search surfaced only 2027 internship mentions, no confirmed new-grad SWE posting.",
-  "confidence": "low"
+  "jobs_spec": "gh:veritiongroupllc",
+  "evidence": "Found the embedded Greenhouse board (gh:veritiongroupllc, 27 postings) via the page's iframe src. Only 'Associate Platform Engineer' (NY, opened 2026-09-02) is SWE-adjacent, but its posting explicitly requires '1+ year of experience in a similar position', so it doesn't qualify as new-grad. '2027 Technology Internship (US)' (opened 2026-08-19) is an internship, not counted. No full-time new-grad-labeled SWE title found.",
+  "confidence": "high"
 }

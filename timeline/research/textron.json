@@ -1,0 +1,19 @@
+{
+  "company": "Textron",
+  "tier": 8,
+  "checked": "2026-09-27",
+  "status": "leftover_2026",
+  "postings": [
+    {"title": "2026 Software Engineer I (Sea Systems)", "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975",
+     "location": "Hunt Valley, MD", "opened": "2026-08-25", "date_source": "page text (Job Posting date)",
+     "grad_window": "2026 grad (title-labeled)", "live_verified": "browser"}
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history 'textron': no new-grad SWE posting found in the 2025-07..2026-01 window; earliest tracked entry-level SWE posting this cycle is 2026-06-02 ('Software Engineer 1/2', now closed)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://textron.taleo.net",
+  "jobs_spec": null,
+  "evidence": "Live posting '2026 Software Engineer I (Sea Systems)' (job 341975) is title-labeled for 2026 grads, so it's a last-cycle leftover, not this cycle. Its text has no citizenship/clearance/ITAR language (unlike the prior 'excluded' assumption). A separate 'Software Engineer 1 - Electronic Systems' req (342666) closed per tracker on 2026-09-01. No confirmed live 2027-titled entry SWE posting found; web search suggests a '2027 Software Engineer I (Electronic Systems)' listing may exist but its Taleo link could not be verified live (stale ids redirected elsewhere).",
+  "confidence": "low"
+}

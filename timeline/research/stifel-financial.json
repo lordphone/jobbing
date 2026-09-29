@@ -2,14 +2,14 @@
   "company": "Stifel Financial",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "unknown",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown -- tracker history shows only Trading Assistant / Advisory Trading Analyst roles, no SWE",
+  "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (per builtin.com listing), no confirmed date",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "No Greenhouse/Lever/Ashby/SmartRecruiters board found (jobs.py guess only matched an unrelated board). Career site is iCIMS with job listings rendered in an iframe that the browser pane/get_page_text could not extract; the site's Campus Connection page did not load listable postings in the time available. Could not confirm current tech program status; retry with direct iCIMS job-search iframe URL or WebFetch of the JSON search endpoint.",
+  "evidence": "Searched Stifel's iCIMS board (browser pane) for 'Future in Technology', 'Technology Analyst', 'software engineer': no 2027 tech/SWE new-grad program listed, only unrelated Operations/Corporate Services roles. No Greenhouse/Lever/Ashby/SmartRecruiters board found either.",
   "confidence": "low"
 }

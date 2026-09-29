@@ -1,0 +1,15 @@
+{
+  "company": "Delta",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": "unknown",
+  "last_cycle_basis": "jobs.py history for 'Delta' / 'Delta Air' matched only a Lever board for a different company ('deltasands', Junior Software Engineer, Colorado Springs) -- not Delta Air Lines. Excluded from consideration.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://delta.avature.net/en_US/careers/SearchJobs?2884=75200",
+  "jobs_spec": null,
+  "evidence": "delta.avature.net (the real board; delta.com/us/en/careers/students-and-early-careers links to it) loads fully in the browser pane; free-text keyword search doesn't filter, but the Job Category facet does. Filtered to 'Information Technology & Engineering': 7 US/global results, all senior/architect-level (IT Field Engineer, IT Portfolio Architect, Senior Process Architect, 2x Senior Software Development Engineer) -- no 'Associate Software Development Engineer'. Filtered to 'Internships, Co-Ops & University Recruiting Programs': 55 results, page 1 has no Software/Engineer title. WebSearch found several past-cycle Associate Software Development Engineer req numbers (15492, 19308, 26029, 27683, 27948), all now dead links (Error page) -- a recurring but currently-closed title. Delta's Students & Early Careers page lists only Internship/Co-op/MBA/Rotational programs, no distinct full-time new-grad SWE program name.",
+  "confidence": "medium"
+}

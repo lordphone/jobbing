@@ -1,0 +1,15 @@
+{
+  "company": "Marathon Petroleum",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no clear prior-cycle SWE posting found via history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
+  "jobs_spec": "wd:mpc/wd1/MPCCareers",
+  "evidence": "jobs.py history found an 'Associate Software Engineer' (Findlay OH / San Antonio TX) first seen 2026-08-31; jobs.py detail on that URL returns not found via API, confirming it is no longer live. Current board only shows interns/co-ops and senior SWE roles.",
+  "confidence": "medium"
+}

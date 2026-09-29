@@ -1,15 +1,15 @@
 {
   "company": "Condé Nast",
   "tier": 9,
-  "checked": "2026-09-24",
-  "status": "unknown",
+  "checked": "2026-09-27",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "SimplifyJobs/vanshb03 tracker history: 0 postings found for Conde Nast",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers",
-  "jobs_spec": "wd:condenast/wd5/CondeCareers",
-  "evidence": "Job board is Workday (found via web search). Workday itself was down (community.workday.com maintenance page) on every attempt, API and browser, so postings couldn't be read.",
-  "confidence": "low"
+  "jobs_page": "https://condenast.wd115.myworkdayjobs.com/en-US/CondeCareers",
+  "jobs_spec": "wd:condenast/wd115/CondeCareers",
+  "evidence": "The wd5 pod redirects to a Workday maintenance page (still down), but the actual current pod is wd115: python3 jobs.py board wd:condenast/wd115/CondeCareers returned 36 live postings. All US roles are senior/director/principal level (e.g. Software Engineer 3, Principal Engineer, Director Engineering); the only entry-level-titled 'Software Engineer 1' posting is in Bengaluru, India, not the US. No qualifying new-grad SWE posting in the US.",
+  "confidence": "medium"
 }

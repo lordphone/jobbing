@@ -1,0 +1,15 @@
+{
+  "company": "Hexagon",
+  "tier": 6,
+  "checked": "2026-09-27",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no US new-grad SWE tracker history found for Hexagon (only a Calgary, Canada 'Software Engineer - Algorithms' req)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://hexagon.com/company/careers/job-listings",
+  "jobs_spec": null,
+  "evidence": "careers.hexagon.com itself still has an invalid TLS cert (fails in both browser and WebFetch), but found and used the working parent listing at hexagon.com/company/careers/job-listings, which calls a Sitecore SXA JSON API (queried directly via fetch() in the browser pane). Pulled and read all 73 US listings. Only SWE titles are 'Software Engineer, Research & Development' x2 (Williamsburg, VA -- requires '3-5+ years with C# or C++', excluded) and 'Senior Software Engineer' (Camarillo, CA). US 'intern' postings are all Applications/Mechanical/International Engineering interns, not software. No new-grad SWE track found.",
+  "confidence": "high"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "IHG Hotels & Resorts",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "not found this run",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
+  "jobs_spec": null,
+  "evidence": "Board (careers.ihg.com/en/search-and-apply) reached; 4723 jobs total. Typed 'software engineer' into the Keyword search box and pressed Enter -- results stayed the identical unfiltered hotel-staff list (Front Desk Agent, Massage Therapist, etc.), confirming the prior finding that the JS search form has no working deep link. The Location/Job Type/Brand dropdowns are custom JS controls this session could not operate (not exposed as standard selects). Could not isolate Corporate/Atlanta technology postings from the 95-page unfiltered list.",
+  "confidence": "low"
+}

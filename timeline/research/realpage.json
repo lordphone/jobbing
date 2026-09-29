@@ -1,0 +1,15 @@
+{
+  "company": "RealPage",
+  "tier": 6,
+  "checked": "2026-09-27",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history found for RealPage",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers-realpagepms.icims.com/jobs/search",
+  "jobs_spec": null,
+  "evidence": "The iCIMS board's outer page doesn't expose the job list to get_page_text/WebFetch, but reading the same-page iframe's contentDocument directly (via javascript_tool) worked. With no filters ('(All)' category/location), the full board is only 6 open reqs total, all Engineering/AI: Agentic AI Developer IV, Senior AI Engineer, Senior Software Engineer (Solutions), Senior Director Internal AI Product Owner, AI Engineer (DFW Area), Lead AI Engineer. Checked the AI Engineer posting directly: requires '5+ years of total experience'. No entry-level or new-grad-labeled SWE role.",
+  "confidence": "high"
+}

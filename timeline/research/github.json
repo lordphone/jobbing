@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.github.careers/early-in-profession",
   "jobs_spec": null,
-  "evidence": "github.careers 'Early in Profession' > 'University grads' page exists and links to a generic job search, but no specific new-grad/entry-level SWE posting is listed. Board runs on iCIMS (careers-githubinc.icims.com), which is JS-rendered and returned no listings via WebFetch; browser pane was unavailable this run (shared/contended). WebSearch found no confirmed live 2027 GitHub new-grad posting on trackers either.",
-  "confidence": "low"
+  "evidence": "Browser pane worked this run: github.careers 'Early in Profession' > University grads links to a job search with 0 results for Software Engineering in the US, and the unfiltered US list (80 results) is all Staff/Senior/Principal/Manager roles, no entry-level or university-grad SWE posting.",
+  "confidence": "medium"
 }

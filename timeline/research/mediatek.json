@@ -1,15 +1,15 @@
 {
   "company": "MediaTek",
   "tier": 7,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker/reddit/blind evidence found; MediaTek's graduate SWE program (MUK-prefixed postings) is UK-based (Cambridge), not US",
+  "last_cycle_basis": "jobs.py history found 0 tracker postings for MediaTek",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.mediatek.com/en",
   "jobs_spec": null,
-  "evidence": "Checked careers.mediatek.com (no API, custom board) and web search. Only US listings found are experienced/hardware (GPU Design Verification, 5G low-power SWE). New-grad 'Graduate Software Engineer' postings are Cambridge, UK (MUK prefix), not US.",
-  "confidence": "medium"
+  "evidence": "Custom careers site (no API, not machine-readable via keyword/region query params). Web search of US listings (San Jose, Austin) turns up only experienced hardware/embedded roles; no new-grad SWE postings or program found this cycle.",
+  "confidence": "low"
 }

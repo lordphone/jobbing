@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "unknown",
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://sallie-mae.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": null,
-  "evidence": "jobs.py Workday API call returns 422 (known issue). Browser search of the board for 'engineer' returns only 4 results, all Manager-level (Product Owner, Model Risk); 19 total jobs on the board, none entry-level SWE. No internship or new-grad SWE program found.",
+  "evidence": "Browser: Workday board (19 jobs total) has two Early Career Development Program roles (Lines of Defense, Analytics) but no SWE/engineering role at all on the board, entry-level or otherwise. No IT/Technology track found this check.",
   "confidence": "medium"
 }

@@ -2,7 +2,7 @@
   "company": "Contextual AI",
   "tier": 2,
   "checked": "2026-09-27",
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found for Contextual AI",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "evidence": "Careers page is JS-rendered with no ATS link in source; guess (ashby/gh: contextualai/contextual-ai/contextual) found nothing; web search found no first-party Ashby/Greenhouse/Lever board. Could not locate ATS feed.",
-  "confidence": "low"
+  "evidence": "Loaded contextual.ai/careers fully in browser pane; the 'Open roles' section renders with zero job listings and the page fires no job-board API request (checked network log). No Greenhouse/Lever/Ashby/SmartRecruiters slug found by jobs.py guess. LinkedIn shows only senior roles (Member of Technical Staff, Solutions Architect, Technical Account Manager), no new-grad-labeled SWE posting.",
+  "confidence": "medium"
 }

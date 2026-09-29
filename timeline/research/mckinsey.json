@@ -1,0 +1,25 @@
+{
+  "company": "McKinsey",
+  "tier": 10,
+  "checked": "2026-09-27",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Data Engineer - QuantumBlack, AI by McKinsey",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
+      "location": "Atlanta, Boston, Chicago, New Jersey/Newark, New York City, Raleigh, San Francisco, Washington DC",
+      "opened": "on or before 2026-09-27",
+      "date_source": "page text (no posted-date metadata on McKinsey's site; job ID 112288, confirmed live and open today)",
+      "grad_window": "December 2026 - August 2027",
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history \"mckinsey\" returned 0 tracker postings (no tracker coverage of McKinsey)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
+  "jobs_spec": null,
+  "evidence": "Found a qualifying, live posting on McKinsey's own careers site: 'AI Data Engineer - QuantumBlack, AI by McKinsey' (job ID 112288), explicitly requiring 'Upcoming graduation between December 2026-August 2027', US locations (Atlanta, Boston, Chicago, NJ, NYC, Raleigh, SF, DC), Apply Now button live, salary $121,600-$125,000. No citizenship/clearance/sponsorship restriction mentioned. A related 'AI Engineer - QuantumBlack' posting exists but only lists non-US (EU) locations. McKinsey's search UI does not actually filter by keyword/country (returns the same 500+ alphabetical list regardless of query), so results were found by manually reviewing Tech & AI category postings rather than by a working search filter.",
+  "confidence": "high"
+}

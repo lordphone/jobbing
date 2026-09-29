@@ -1,0 +1,22 @@
+- Added Jerry (tier 3): 209 new-grad/entry postings in the trackers under its own name.
+- Added Truveta (tier 3): 12 tracker postings under its own name.
+- Added Citizen Health (tier 3): 28 tracker postings under its own name.
+- Added Western Alliance (tier 5): 11 tracker postings under its own name.
+- Added Quantcast (tier 6): 11 tracker postings under its own name.
+- Added Latitude AI (tier 8): 19 tracker postings; Ford's autonomy company hires under its own name.
+- Added Torch Technologies (tier 8): 14 tracker postings, defense engineering.
+- Added NewsBreak (tier 9): 11 tracker postings under its own name.
+- Added SMX (tier 10): 17 tracker postings, government IT services.
+- Added AMERICAN SYSTEMS (tier 10): 16 tracker postings, government IT services.
+- Added Uline (tier 11): 18 tracker postings.
+- Added American Electric Power (tier 11): 18 tracker postings.
+- Added DaVita (tier 11): 17 tracker postings.
+- Added Genuine Parts Company (tier 11): 17 tracker postings.
+- Added Auto-Owners Insurance (tier 11): 15 tracker postings.
+- Added Berkshire Hathaway Energy (tier 11): 18 tracker postings.
+- Added Xylem (tier 11): 11 tracker postings.
+- Added Wellmark (tier 11): 11 tracker postings.
+- Added BlueCross BlueShield of South Carolina (tier 11): 12 tracker postings.
+- Merged "Aquatic Capital" into "Aquatic Capital Management": the same firm listed twice in tier 4; deleted aquatic-capital.json.
+- Overrides only (no list change): tracker names "Ernst & Young", "Fidelity National Information Services", "Hewlett Packard (HP)", "United Parcel Service (UPS)", "Procter & Gamble" now map to EY, FIS, HP, UPS, P&G.
+- Skipped from the top 100: staffing/IT-contracting agencies (Artech, AG Technologies, TSMG, mthree, 360 IT Professionals, Jobsbridge, USM, DellFor, Sonsoft, Collabera, etc.), universities, non-US employers (Sainsbury's, Hastings Direct), data-annotation/localization vendors (Innodata, RWS, Welocalize, Welo Global), and civil-engineering firms whose postings are not software roles (WSP, AECOM, Kimley-Horn, Arcadis). No renames, merges or removals: last run's research showed no company posting under a new name or shutting down.

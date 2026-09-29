@@ -1,0 +1,15 @@
+{
+  "company": "Newegg",
+  "tier": 9,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history \"newegg\" returned 0 tracker postings",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
+  "jobs_spec": null,
+  "evidence": "Careers page links to an ADP RecruitingCenter board. Both the landing page and the direct job-listing URL (myjobs.adp.com/newegg/cx/job-listing) render only the ADP privacy-statement footer text, not a job list, to both WebFetch and the browser pane (JS-rendered SPA that doesn't hydrate for our tools). No Greenhouse/Lever/Ashby/SmartRecruiters slug found via guess.",
+  "confidence": "low"
+}

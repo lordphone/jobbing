@@ -1,0 +1,19 @@
+{
+  "company": "Accenture",
+  "tier": 10,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [
+    {"title": "Entry Level Java Developer Associate", "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121", "location": "San Antonio, TX",
+     "opened": "on or before 2026-08-12", "date_source": "tracker first seen",
+     "grad_window": null, "live_verified": "api"}
+  ],
+  "last_cycle_opened": "2025-12-03",
+  "last_cycle_basis": "jobs.py history: 'ATC Salesforce Analyst - Nashville' active 2025-12-03; multiple ATC Analyst roles Dec 2025-Jan 2026 (tracker_last_cycle 2026-01-09)",
+  "excluded_reason": null,
+  "no_sponsorship": true,
+  "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+  "jobs_spec": "wd:accenture/wd103/AccentureCareers",
+  "evidence": "176 postings on main Workday board, none a qualifying US new-grad SWE role this cycle (only summer 2028-grad intern posting). Accenture Federal Services board (SmartRecruiters) has entry-level dev roles with no_sponsorship language but no explicit citizenship/clearance quote found on this one; not clearly 2027-cycle. Commercial ATC track opened Dec last cycle, not yet this cycle.",
+  "confidence": "medium"
+}

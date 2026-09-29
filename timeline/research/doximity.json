@@ -5,11 +5,11 @@
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE postings found in current Greenhouse board",
+  "last_cycle_basis": "No first-party or tracker evidence of a new-grad SWE track.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doximity",
   "jobs_spec": "gh:doximity",
-  "evidence": "jobs.py board gh:doximity --all lists 13 postings; engineering roles are Senior Software Engineer and Staff Applied AI Engineer only, no entry-level/new-grad track.",
+  "evidence": "jobs.py board gh:doximity --all lists 13 postings; engineering roles are Senior Software Engineer and Staff Applied AI Engineer only. No entry-level/new-grad SWE posting.",
   "confidence": "high"
 }

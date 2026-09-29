@@ -1,0 +1,15 @@
+{
+  "company": "NextEra Energy",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": "2025-09-22",
+  "last_cycle_basis": "tracker first-seen date (jobs.py history) for 'Software Development Engineer 1 - New Product Engineering', St Paul MN",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.nexteraenergy.com/search-jobs",
+  "jobs_spec": null,
+  "evidence": "Board (Phenom-based) URL-path keyword search (/search-jobs/<query>/47690/1) does not filter: returns the same unfiltered 311-result, all-departments list every time (confirmed again this run, matching the prior finding). Could not isolate software engineer / new-grad postings from the noise this run.",
+  "confidence": "low"
+}

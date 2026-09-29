@@ -1,15 +1,15 @@
 {
   "company": "Booking Holdings",
   "tier": 9,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history on Priceline Workday tracker shows only an 'Associate Data Developer - Fintech' posting in Toronto (closed 2026-04-27), not a US SWE role; no other new-grad SWE history found.",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://priceline.wd1.myworkdayjobs.com/priceline",
   "jobs_spec": "wd:priceline/wd1/priceline",
-  "evidence": "Checked Priceline Workday board (34 postings, US entity for Booking Holdings): no entry-level US SWE roles, only Senior/Mumbai/Toronto. Booking.com's grad SWE programme is Amsterdam/Shanghai only, not US.",
+  "evidence": "Checked Priceline Workday board (US entity for Booking Holdings). Only US software roles are Senior/Staff/Director/Java Engineer; the entry-level 'Associate Software Engineer/Developer' postings are in Mumbai and Toronto, not the US. No US new-grad SWE program found.",
   "confidence": "medium"
 }

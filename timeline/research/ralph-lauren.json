@@ -1,0 +1,15 @@
+{
+  "company": "Ralph Lauren",
+  "tier": 9,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": null,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate",
+  "jobs_spec": null,
+  "evidence": "Corporate careers board is reachable in the browser pane (212 open roles total; WebFetch fails with a TLS certificate error). The board's keyword search box does not actually filter results (returns the same unfiltered list), so titles had to be spot-checked by paging; Information Technology postings seen (DevOps Sr. Manager, Digital Technology Manager, Data Engineer, Integration Engineer, Junior ML Engineer) are all mid/senior, none an entry-level/new-grad SWE track. Did not exhaustively page all 212 postings within budget, so this is not a confirmed no-program finding.",
+  "confidence": "low"
+}

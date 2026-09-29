@@ -1,0 +1,15 @@
+{
+  "company": "Major League Baseball (MLB)",
+  "tier": 9,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": "2025-11-18",
+  "last_cycle_basis": "tracker_last_cycle from worklist (not independently re-confirmed this run)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.mlb.com/careers/opportunities",
+  "jobs_spec": "gh:majorleaguebaseball",
+  "evidence": "Corrected jobs_spec: the league office's actual Greenhouse board is gh:majorleaguebaseball (gh:philliesbaseballoperations in worklist is the Phillies club board, a different entity). Checked full board (31 postings, --all); both 'Software Engineer' postings (NY and Boulder) require '3+ years of professional software engineering experience'. No entry-level SWE track live now.",
+  "confidence": "medium"
+}

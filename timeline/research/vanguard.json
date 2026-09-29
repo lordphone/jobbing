@@ -2,14 +2,18 @@
   "company": "Vanguard",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {"title": "Entry Level Application Engineer - 2027 Start Date", "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412", "location": "Charlotte, NC (also Malvern PA, Dallas TX)",
+     "opened": "on or before 2026-08-17", "date_source": "workday postedOn",
+     "grad_window": "2027 start date, 0-3 years relevant experience", "live_verified": "api"}
+  ],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker history: 'Application Engineer - I - Gifs' (Malvern, PA) first seen 2025-11-14",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://vanguard.wd5.myworkdayjobs.com/contractors_restricted",
-  "jobs_spec": "wd:vanguard/wd5/contractors_restricted",
-  "evidence": "Checked Workday board (--all): only 2027 Spring/Summer Co-op postings (excluded, not full-time) live; no Application Engineer / entry-level SWE full-time posting yet.",
+  "no_sponsorship": true,
+  "jobs_page": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+  "jobs_spec": "wd:vanguard/wd5/vanguard_external",
+  "evidence": "CORRECTION: the worklist's jobs_spec ('contractors_restricted' site) only lists co-op internships; Vanguard's full-time postings, including 'Entry Level Application Engineer - 2027 Start Date' (Charlotte/Malvern/Dallas), live on the separate 'vanguard_external' Workday site. jobs.py detail confirms live posting, 0-3 yrs experience, no visa sponsorship.",
   "confidence": "high"
 }

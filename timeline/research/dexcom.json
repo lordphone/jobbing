@@ -1,0 +1,15 @@
+{
+  "company": "Dexcom",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": "2026-01-21",
+  "last_cycle_basis": "tracker first-seen: 'SW Systems Engineer 2', San Diego, CA",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://dexcom.wd1.myworkdayjobs.com/Dexcom",
+  "jobs_spec": "wd:dexcom/wd1/Dexcom",
+  "evidence": "Tracker shows 'Software Development Engineer 1' postings for San Diego (first seen 2026-08-03) and Remote USA (2026-08-12), both this-cycle (post 2026-07-01). jobs.py detail returns 'not found via API' for both, and neither appears on the current full board (--all) of 41 postings (all Senior/Staff level). This-cycle postings existed and are now gone.",
+  "confidence": "high"
+}

@@ -91,4 +91,3 @@ tiers_count = {}
 for x in items:
     tiers_count[x['tier']] = tiers_count.get(x['tier'], 0) + 1
 print(f'{len(items)} companies -> timeline/data/worklist.json; by tier {dict(sorted(tiers_count.items()))}')
-print('Estimated cost on Sonnet: ~58K tokens per company =', f'~{len(items) * 58 / 1000:.1f}M tokens')

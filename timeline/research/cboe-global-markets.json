@@ -5,11 +5,11 @@
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "unknown",
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE",
   "jobs_spec": "wd:cboe/wd1/External_Career_CBOE",
-  "evidence": "Workday API board shows only interns (Software Engineer Intern, Chicago) and experienced SWE roles (WebTools requires 2+ yrs, others Senior/Principal). No posting states a 2027 grad window or 0-1 yr requirement; detail text for a plain 'Software Engineer' Chicago req did not reveal a years-of-experience or grad-class line.",
-  "confidence": "medium"
+  "evidence": "Workday API board (52 postings, --all) shows only Software Engineer Intern (Chicago) and one full-time 'Software Engineer' (Chicago, R-4636-2) requiring 2+ years experience and no visa sponsorship; all other SWE roles are Senior/Principal. No entry-level (0-1 yr) posting.",
+  "confidence": "high"
 }

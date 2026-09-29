@@ -1,0 +1,15 @@
+{
+  "company": "ETS (Educational Testing Service)",
+  "tier": 9,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": null,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://etscareers.submit4jobs.com/",
+  "jobs_spec": null,
+  "evidence": "etscareers.submit4jobs.com (also linked from careers.ets.org) is a JS SPA that still shows no job list to get_page_text/read_page in the browser pane. WebSearch found several current Senior Software Engineer postings (edtech.com/builtin mirrors) and one promising lead, 'Associate AI Engineer'/'Associate AI/ML Engineer - Automated Content Generation' in Princeton NJ, requiring a Master's degree + '1 year of training or experience in AI/ML' -- but its posting date and live status could not be confirmed first-party (edtech.com 403s, LinkedIn cache stale). Worth re-checking this lead directly on the ETS board next run.",
+  "confidence": "low"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Kroger",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; jobs.py history found no matching postings for 'Kroger'",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.krogerfamilycareers.com/en/sites/CX_2001",
+  "jobs_spec": "oracle:www.krogerfamilycareers.com/CX_2001",
+  "evidence": "Found the real first-party board (Kroger Family Careers, Oracle Cloud, site CX_2001; jobs.py's oracle spec against this host returned no response, so used the browser). Searched keyword 'Engineer' filtered to Technology & Digital (4 results) and 'software engineer' (65 results): all senior/architect/manufacturing-maintenance roles, no entry-level SWE or new-grad program. 84.51 (Kroger's data-science subsidiary) is separate and not checked here.",
+  "confidence": "medium"
+}

@@ -2,18 +2,14 @@
   "company": "Citi",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "open",
-  "postings": [
-    {"title": "Software Engineer | Enterprise Technology & Security Development Program", "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291", "location": "Plano, TX; Johnston, RI; Phoenix, AZ",
-     "opened": "2026-09-11", "date_source": "tracker first seen",
-     "grad_window": "Expected graduation Spring 2027, min GPA 3.0", "live_verified": "api"}
-  ],
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-11-30",
   "last_cycle_basis": "tracker history: 'Technology - Application Development' Full Time Analyst postings first seen 2025-11-30 (Jacksonville/Tampa)",
   "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.citi.com/early-career-programs-full-time",
   "jobs_spec": null,
-  "evidence": "jobs.py detail confirms live 'Software Engineer - Enterprise Technology & Security Development Program' posting, Spring 2027 grad window, min GPA 3.0, explicitly no sponsorship/CPT/OPT. Posted on Oracle Cloud board (not the Workday citi:2 board).",
-  "confidence": "high"
+  "evidence": "CORRECTION: previous file's 'open' posting (hcgn.fa.us2.oraclecloud.com job/49291, 'Enterprise Technology & Security Development Program') is Citizens Bank's board, not Citi -- confirmed the page itself says 'Back to jobs.citizensbank.com'. Re-searched jobs.citi.com/analyst and the Student-and-Grad-Programs filter (32 US/global results): only banking/commercial/services analyst programs and one Investment-Banking-coverage 'San Francisco Technology' analyst role (not a SWE role) are live. No Technology/Application Development full-time analyst posting for 2027 found yet.",
+  "confidence": "medium"
 }

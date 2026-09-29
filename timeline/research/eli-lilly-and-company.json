@@ -1,0 +1,15 @@
+{
+  "company": "Eli Lilly and Company",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": "2026-01-19",
+  "last_cycle_basis": "tracker first-seen date (jobs.py history) for 'Engineer - MES System', Indianapolis IN (nearest SWE-adjacent tracker hit; not confirmed as the new-grad SWE track)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://lilly.wd5.myworkdayjobs.com/LLY",
+  "jobs_spec": "wd:lilly/wd5/LLY",
+  "evidence": "Workday itself is down site-wide: both jobs.py board and the live board redirect to community.workday.com/maintenance-page ('Workday is currently unavailable... service interruption'). Confirmed this is a broad Workday outage, not Lilly-specific, by checking another wd tenant (Takeda) which shows the identical maintenance page. Could not verify live board this run.",
+  "confidence": "low"
+}

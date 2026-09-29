@@ -1,15 +1,15 @@
 {
   "company": "Lam Research",
   "tier": 7,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Lam Research; web search only found India (Bangalore) 'Software Engineer 1' fresher roles in 2026, none US.",
+  "last_cycle_basis": "jobs.py history found 0 tracker postings for Lam Research in 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.lamresearch.com/careers",
-  "jobs_spec": null,
-  "evidence": "Eightfold API (careers.lamresearch.com/api/pcsx/search, US): ~394 postings checked for software/early career/college/ML. US SWE roles are Sys 2-5 needing 2+ yrs (MS) or 5+ yrs; 'Early Career' titles are Field Service only.",
+  "jobs_spec": "eightfold:careers.lamresearch.com/lamresearch.com",
+  "evidence": "Checked first-party Eightfold board (55 postings, --all). Software Engineer/Sys titles are all level 2-5, none level 1 or labeled new grad/entry. No qualifying SWE postings found.",
   "confidence": "medium"
 }

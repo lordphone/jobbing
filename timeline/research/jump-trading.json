@@ -4,17 +4,20 @@
   "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Campus AI Research Engineer (Full-Time)", "url": "https://www.jumptrading.com/hr/job?gh_jid=8052313", "location": "Chicago; New York",
-     "opened": "2026-07-08", "date_source": "greenhouse first_published", "grad_window": "Campus (full-time, entry-level)", "live_verified": "api"},
-    {"title": "Campus AI Research Engineer - Deep Learning (Full-Time)", "url": "https://www.jumptrading.com/hr/job?gh_jid=8052343", "location": "Chicago; New York",
-     "opened": "2026-07-08", "date_source": "greenhouse first_published", "grad_window": "Campus (full-time, entry-level)", "live_verified": "api"}
+    {"title": "Campus AI Research Engineer (Full-Time)", "url": "https://job-boards.greenhouse.io/jumptrading/jobs/8052313", "location": "Chicago; New York",
+     "opened": "2026-07-08", "date_source": "greenhouse first_published",
+     "grad_window": null, "live_verified": "api"},
+    {"title": "Campus AI Research Engineer – Deep Learning (Full-Time)", "url": "https://www.jumptrading.com/hr/job?gh_jid=8052343", "location": "Chicago; New York",
+     "opened": "2026-07-08", "date_source": "greenhouse board listing", "grad_window": null, "live_verified": "api"},
+    {"title": "Campus Systems Engineer (Full-Time)", "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112", "location": "Chicago",
+     "opened": "2026-07-08", "date_source": "greenhouse board listing", "grad_window": null, "live_verified": "api"}
   ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker_last_cycle from worklist (2025-08-07)",
+  "last_cycle_basis": "tracker_last_cycle from earlier research",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/jumptrading",
   "jobs_spec": "gh:jumptrading",
-  "evidence": "jobs.py board gh:jumptrading --all lists 113 postings including multiple 'Campus AI Research Engineer (Full-Time)' roles first published 2026-07-08, matching the tracker lead gh_jid 8052313. Own greenhouse board, first-party.",
+  "evidence": "gh:jumptrading board --all lists several full-time Campus AI/Systems Engineer roles first_published 2026-07-08; detail via API confirms live and sponsors visas. Matches prior result.",
   "confidence": "high"
 }

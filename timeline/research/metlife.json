@@ -1,0 +1,15 @@
+{
+  "company": "MetLife",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "not found this run",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
+  "jobs_spec": null,
+  "evidence": "Public board (metlifecareers.com, not the metlife.avature.net SSO redirect) reached and its filter UI operated directly (typed Keywords, selected Country=United States, set the real Career Level <select> to 'Early Career'), but results never changed from the unfiltered default (456 results, same Tokyo-only top page every time) -- the search/filter genuinely does not apply, matching the prior run's finding. Two entry-level postings surfaced by web search (Junior Software Engineer /JobDetail/18191, Software Development Engineer-Entry-Level /JobDetail/16566) both now 404 to an Error page, so they are gone, but their low job-ID numbers suggest they may predate this cycle rather than being 2027-specific; couldn't confirm either way.",
+  "confidence": "low"
+}

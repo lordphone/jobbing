@@ -8,8 +8,8 @@
   "last_cycle_basis": "tracker history: 'Software Engineer University Grad', San Francisco;Palo Alto;Seattle, first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/pinterestjobadvertisements",
-  "jobs_spec": "gh:pinterestjobadvertisements",
-  "evidence": "Greenhouse board (API and page) has 0 postings total, confirmed via boards-api.greenhouse.io/v1/boards/pinterestjobadvertisements/jobs (total:0). No entry-level SWE live; no 2027 university-grad posting yet.",
+  "jobs_page": "https://www.pinterestcareers.com",
+  "jobs_spec": "gh:pinterest",
+  "evidence": "gh:pinterestjobadvertisements (old spec) now returns 0 total postings; found Pinterest's real board at gh:pinterest (153 postings, pinterestcareers.com URLs). Checked full board for new-grad/university-grad/entry-level SWE titles: none live. Only mid/senior/staff Software Engineer II+ roles.",
   "confidence": "high"
 }

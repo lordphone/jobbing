@@ -5,11 +5,11 @@
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-09",
-  "last_cycle_basis": "worklist tracker_last_cycle hint; own board history shows Technology Delivery Analyst postings closing late Nov-Dec 2025",
+  "last_cycle_basis": "tracker first-seen date 2026-01-09",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
   "jobs_spec": "wd:huntington/wd12/HNBcareers",
-  "evidence": "Workday API: 89 postings, 1 SWE-titled match (Junior Backend Java Developer, posted 2026-09-04) but it requires '1-3+ years of experience... or... apprenticeship... in lieu of related experience' and '1+ years of experience with DevOps' -- excluded as experienced-hire, not new-grad. No qualifying 0-1yr SWE posting live.",
-  "confidence": "medium"
+  "evidence": "Only SWE-title match is 'Junior Backend Java Developer' (posted 2026-09-04), confirmed via detail to require '1-3+ years of experience developing... with Java' -- not a qualifying 0-1yr new-grad role. Also states will not sponsor.",
+  "confidence": "high"
 }

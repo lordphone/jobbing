@@ -1,15 +1,15 @@
 {
   "company": "Redfin (Rocket Companies)",
   "tier": 9,
-  "checked": "2026-09-24",
+  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2026-01-21",
-  "last_cycle_basis": "tracker history: 'Software Developer 1' Seattle first seen 2026-01-21 on redfin.wd1.myworkdayjobs.com, closed by 2026-04-07 (https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I_59686)",
+  "last_cycle_basis": "tracker history (old Redfin Workday board, now dead): Software Developer 1, Seattle WA, first seen 2026-01-21",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.rocket.com/us/en/teams/technology,-data,-and-engineering",
-  "jobs_spec": "wd:rocket/wd5/rocket_careers",
-  "evidence": "Redfin's own Workday board (wd:redfin/wd1/redfin_careers) is dead (302/not found). Checked parent Rocket Companies Workday board (59 total postings, --all) and careers.rocket.com search for 'redfin': no new-grad SWE or Redfin-branded postings found.",
+  "jobs_page": "https://careers.rocket.com/us/en/search-results?keywords=redfin",
+  "jobs_spec": null,
+  "evidence": "Redfin's own Workday board (redfin.wd1.myworkdayjobs.com) is dead. Redfin now posts under Rocket Companies' careers.rocket.com (a custom Phenom-style site, no API). Searched it for Redfin + software/new grad roles: only 'Software Developer I - Search' (San Francisco) is entry-titled, but it requires '1 or more years of experience developing full-stack, customer-facing applications', which excludes it per the 1+ years rule. No qualifying new-grad SWE posting found.",
   "confidence": "medium"
 }

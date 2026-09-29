@@ -1,0 +1,15 @@
+{
+  "company": "Magnite",
+  "tier": 9,
+  "checked": "2026-09-27",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": "2025-11-03",
+  "last_cycle_basis": "jobs.py history \"magnite\": 'Engineer 1 - Automation and Custom Applications' (NYC) first seen active 2025-11-03; also entry-level 'Backend Engineer - Entry Level' and 'Engineer - Entry Level RUST Developer' postings in Belfast UK from Oct-Dec 2025, all now closed",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
+  "jobs_spec": "wd:osv-rubicon/wd5/MagniteCareers",
+  "evidence": "Workday board reachable this run (jobs.py's own wd: spec call timed out, but the browser pane reached it directly). Searching 'engineer' gives 15 current postings; the only titled 'Engineer II' (Boston/NYC, Demand Tech) requires 2+ years experience. No current 'Engineer I' / entry-level posting exists (last cycle's entry-level 'Engineer I' NYC and Belfast postings are all closed). Magnite has an entry-level 'Engineer I' track (used last cycle), so this is not_yet rather than no_program_found.",
+  "confidence": "medium"
+}

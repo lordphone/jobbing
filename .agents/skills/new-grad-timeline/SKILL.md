@@ -33,10 +33,11 @@ Files:
 
 ## What counts
 
-- **Role:** software, SDE, backend, full-stack, front-end, platform, ML, AI or forward-deployed engineer. Also named programs whose track is software engineering (e.g. Technology Development Program, Engineering Analyst, AMTS, "Software Engineer I" or "Associate Software Engineer" when the posting asks for 0–1 years).
-- **Not counted:** internships, co-ops, and roles asking for 1+ years of experience. Also returning-intern-only roles, and hardware / electrical / firmware / test / sales-engineer roles.
+- **Role:** software, SDE, backend, full-stack, front-end, platform, ML, AI or forward-deployed engineer. Also named programs whose track is software engineering (e.g. Technology Development Program, Engineering Analyst, AMTS, "Software Engineer I", "Associate Software Engineer").
+- **Years of experience don't disqualify an entry-level role.** A "1+", "2+" or "3+ years" ask on an entry-level posting is usually not enforced, and he applies with a master's. Judge the level by the title and posting (entry-level, I, Associate, Junior), not the years line.
+- **Not counted:** internships, co-ops, and senior / staff / lead or other clearly non-entry-level roles. Also returning-intern-only roles, and hardware / electrical / firmware / test / sales-engineer roles.
 - **Location:** the US, including US-remote.
-- **This cycle** means the posting is for 2027 grads. Look for: "2027" in the title, a graduation window that includes 2027 (e.g. "Graduating Dec 2026 – Aug 2027"), a 2027 start date, or a first-published date on or after 2026-07-01 with no 2026 grad window.
+- **This cycle** means he can apply to it now as a 2027 grad. Clues: "2027" in the title, a graduation window that includes 2027 (e.g. "Graduating Dec 2026 – Aug 2027"), a 2027 start date, or a first-published date on or after 2026-07-01. These are clues, not requirements: a live posting open to recent or upcoming grads with no class year (evergreen or rolling, like Epic or Infosys) counts too, whenever it was first published.
   - "2026" in the title, or a grad window ending in 2026, means a **last-cycle leftover**. Record it, but not as open.
 - **Excluded:** requires US citizenship, a green card / permanent residency, a security clearance, or "U.S. person" / ITAR eligibility. Mark it `excluded`. This applies to most defense, space and national-lab roles.
 - **No sponsorship:** "will not sponsor", "permanent work authorization required". **Keep** the role and set `no_sponsorship: true`.
@@ -79,7 +80,7 @@ Files:
    - `leftover_2026`: only last-cycle postings are live.
    - `no_program_found`: you checked the first-party board and the parent company, and there are no entry-level SWE postings this cycle or last. Say what you checked.
    - `excluded`: see What counts.
-   - `unknown`: you couldn't reach or read the board. Say why in `evidence` (blocked, site down, filters didn't apply) so a later run can retry. Wayfair and Williams-Sonoma blocked both WebFetch and the browser pane, and Workday was down for Condé Nast. Don't spend more than 2–3 calls fighting a blocked site.
+   - `unknown`: you couldn't reach or read the board. Say why in `evidence` (blocked, site down, filters didn't apply) so a later run can retry. Wayfair and Williams-Sonoma blocked both WebFetch and the browser pane, and Workday was down for Condé Nast.
 7. **Compare with the previous file. Do this only after steps 1–6.** Research fresh first, without reading the old `timeline/research/<slug>.json`. Then read it, if it exists, and compare:
    - **Old posting missing from your findings:** check its URL with `jobs.py detail <url>`, or in the browser pane if there's no API.
      - Still live and it qualifies → add it back.
@@ -88,8 +89,6 @@ Files:
    - **Old `last_cycle_opened` or `excluded_reason` you didn't find this time:** keep it, unless your research contradicts it.
    - **The comparison raises a question:** keep investigating (open more pages, fetch more) until you can reach a real conclusion.
    - **Then rewrite the file** with your final result: everything from the old file that is still true, plus what you found. If the status differs from the old file, say why in `evidence`.
-
-Budget: about 10 tool calls per company. If the board works through the API, 3–4 calls is normal.
 
 ## Output
 
@@ -127,7 +126,7 @@ All scripts are in this skill's `scripts/` folder. Run them with `python3` from 
    - Check `timeline/data/unmatched_tracker_names.txt` for big companies that didn't match a list name. Add real matches to `scripts/overrides.json` as tracker name (normalized) → exact list name.
 2. `probe.py`: checks every company's own Greenhouse / Lever / Ashby / Workday board and writes `timeline/data/boards.json`. Takes 20–30 minutes; run it in the background. Use `probe.py --only "Name" ...` to redo a few companies.
 3. `merge.py`: builds `status.csv`, `SUMMARY.md`, `sources.csv` and `timeline/data/merged.json`.
-4. `worklist.py`: picks the companies to research and writes `timeline/data/worklist.json` and `timeline/data/workflow_args.json`. It prints the count and a token estimate (~58K per company on Sonnet); **tell him the estimate and get his OK before running.** Examples:
+4. `worklist.py`: picks the companies to research and writes `timeline/data/worklist.json` and `timeline/data/workflow_args.json`. It prints the count; **tell him the count and get his OK before running.** Examples:
    - `worklist.py --status open,tracker_lead --source tracker,first-pass`: confirm open roles that aren't first-party yet.
    - `worklist.py --tier 1-5 --source first-pass --limit 100`: redo weak first-pass results, top tiers first.
    - `worklist.py --names "Google|Meta"`: specific companies.

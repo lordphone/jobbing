@@ -2,14 +2,17 @@
   "company": "Bloomberg",
   "tier": 5,
   "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {"title": "2027 Software Engineer - New York", "url": "https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414", "location": "New York, NY",
+     "opened": "unknown (page loads via JS; not shown)", "date_source": "page text", "grad_window": null, "live_verified": "browser"}
+  ],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker history: 'Software Engineering Associate' (Bloomberg Industry Group, Arlington VA) first seen 2025-09-25",
+  "last_cycle_basis": "tracker history: 'Software Engineering Associate' (Bloomberg Industry Group, Arlington VA) first seen 2025-09-25; main Bloomberg LP 2026-cycle posting date not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
-  "jobs_spec": "wd:bloomberg/wd1/Bloombergindustrygroup_External_Career_Site",
-  "evidence": "Bloomberg Industry Group Workday board (--all) has no live SWE Associate posting this cycle, only Application Security Engineer I/3 and non-SWE roles. Main Bloomberg LP career site (bloomberg.avature.net) keyword search did not filter (351 generic results, likely JS-driven search not reachable via simple query param); no 2027 new-grad SWE posting surfaced on first 3 result pages checked.",
-  "confidence": "low"
+  "jobs_spec": null,
+  "evidence": "Browser-verified live posting titled '2027 Software Engineer - New York' with an active Apply Now button on Bloomberg LP's own Avature career site (distinct from the Bloomberg Industry Group Workday board previously checked, which has no SWE opening). Posting details load via JS and were not extractable, so grad-window/sponsorship text not confirmed.",
+  "confidence": "medium"
 }

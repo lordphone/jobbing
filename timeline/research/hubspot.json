@@ -5,11 +5,11 @@
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-08",
-  "last_cycle_basis": "tracker_last_cycle from worklist",
+  "last_cycle_basis": "tracker history: 'Software Engineer' Cambridge MA/Remote, first seen 2025-09-08 (RippleMatch listing, does not offer sponsorship)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.hubspot.com/careers/jobs?department=engineering&office=north-america",
   "jobs_spec": null,
-  "evidence": "Greenhouse API for 'hubspot' token returns 0 jobs (board migrated off standard Greenhouse API). Careers site's Emerging Talent section links to a RippleMatch company page for engineering/NA -- no open positions listed there (requires signup to see any matches).",
-  "confidence": "low"
+  "evidence": "HubSpot's own careers site filters don't apply via URL; its Emerging Talent 'Explore Roles' link goes to a RippleMatch company page listing only 2 jobs, both Co-op (Toronto/Cambridge), no full-time new-grad SWE role live.",
+  "confidence": "medium"
 }

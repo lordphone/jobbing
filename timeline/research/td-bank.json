@@ -5,11 +5,11 @@
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-16",
-  "last_cycle_basis": "worklist tracker_last_cycle hint (unconfirmed on own board)",
+  "last_cycle_basis": "tracker first-seen date 2026-01-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday API: 161 postings, 7 SWE-title matches, but all live 'Software Engineer I' / 'Quality Engineer I' roles are in Toronto/London Ontario (Canada, not US) and the Java role requires 3-5 years experience. US Mount Laurel NJ tech postings found are all 2027 co-op/summer internships, not full-time new-grad roles. Corrects previous_result of 'open' (that API read included non-US and non-qualifying postings).",
-  "confidence": "high"
+  "evidence": "Workday board: 'Software Engineer I/II/III' postings live are mostly Toronto/London Ontario (Canada). Only US match is 'Software Engineer II (US)' Mount Laurel NJ, a Salesforce Loyalty Management specialist role with no 2027 grad window, not a campus new-grad posting. Live US 2027 postings are co-op/internship only.",
+  "confidence": "medium"
 }

@@ -2,14 +2,14 @@
   "company": "Zoom Communications",
   "tier": 6,
   "checked": "2026-09-27",
-  "status": "not_yet",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker_last_cycle from worklist",
+  "last_cycle_basis": "tracker history: 'Software Engineer' Remote, first seen 2025-08-17",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "jobs_spec": "wd:zoom/wd5/Zoom",
-  "evidence": "Workday board returned 21 postings; no matches for new grad / university / graduate / entry / associate software keywords.",
-  "confidence": "high"
+  "evidence": "Workday board: 21 postings, 0 match filter. Tracker showed 2026-09-09/09-10 SWE postings (San Jose) but jobs.py detail returns 'not found' for both (confirmed gone from live board) -- this-cycle postings existed and closed.",
+  "confidence": "medium"
 }

@@ -1,0 +1,15 @@
+{
+  "company": "The Coca-Cola Company",
+  "tier": 11,
+  "checked": "2026-09-27",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": "2026-06-08",
+  "last_cycle_basis": "tracker/board history: multiple Software Engineer I postings (Atlanta, GA), including Software Engineer I - CRM, first seen 2026-06-08 and 2026-06-10; confirmed closed via jobs.py detail (posting not found via API)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers",
+  "jobs_spec": "wd:coke/wd1/coca-cola-careers",
+  "evidence": "Checked live Workday board (--all): several Software Engineer I reqs (Atlanta) existed since June 2026 but are no longer on the live board and jobs.py detail returns not found - closed. No new 2027-dated posting currently live.",
+  "confidence": "high"
+}

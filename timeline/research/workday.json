@@ -5,11 +5,11 @@
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history checked",
+  "last_cycle_basis": "jobs.py history returned 0 tracker postings for Workday",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://workday.wd5.myworkdayjobs.com/Workday",
   "jobs_spec": "wd:workday/wd5/Workday",
-  "evidence": "Workday API: unlabeled 'Software Development Engineer - Workday Everywhere' (Pleasanton) requires '2+ years of work experience' -- not entry-level. Other unlabeled SDE roles are US Federal (Reston), likely requiring citizenship/clearance. No qualifying 2027 new-grad SWE posting found.",
+  "evidence": "Workday API: 82 postings, 0 match new-grad filter. Manual scan of all titles shows only Senior/Principal/unlabeled 'Software Development Engineer - Workday Everywhere' (Pleasanton, mid-level) and US Federal SRE/SDE roles (citizenship-sensitive). No qualifying live 2027 posting.",
   "confidence": "medium"
 }

@@ -1,0 +1,15 @@
+{
+  "company": "SRI International",
+  "tier": 8,
+  "checked": "2026-09-27",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": "2026-09-01",
+  "last_cycle_basis": "Tracker history: 'Software Engineer' (California) posting first seen 2026-09-01 at careers-sri.icims.com/jobs/6468; now returns HTTP 410 Gone (confirmed via WebFetch), so it has closed.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers-sri.icims.com",
+  "jobs_spec": null,
+  "evidence": "iCIMS board (careers-sri.icims.com) still renders only static shell/nav in browser pane and WebFetch, no job list; search box only searches sri.com. The one tracked SWE posting (job 6468) now 410s. WebSearch found no other current SWE req.",
+  "confidence": "low"
+}

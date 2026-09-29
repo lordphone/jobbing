@@ -4,17 +4,19 @@
   "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Algorithm Developer (Quant Research & Trading) - 2027 Grads", "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050", "location": "New York, NY (also London, Singapore)",
-     "opened": "2026-07-13", "date_source": "greenhouse first_published", "grad_window": "2027 Grads", "live_verified": "api"},
-    {"title": "Software Engineer (C++ or Python) - 2027 Grads", "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122", "location": "Austin, TX / Chicago / New York (also London, Singapore)",
-     "opened": "2026-07-13", "date_source": "greenhouse first_published", "grad_window": "2027 Grads", "live_verified": "api"}
+    {"title": "Software Engineer (C++ or Python) – 2027 Grads", "url": "https://job-boards.greenhouse.io/wehrtyou/jobs/8052122", "location": "Austin, TX; Chicago, IL; London, UK; New York, NY; Singapore",
+     "opened": "2026-07-13", "date_source": "greenhouse first_published",
+     "grad_window": "eligible for full-time roles in 2027", "live_verified": "api"},
+    {"title": "Algorithm Developer (Quant Research & Trading) – 2027 Grads", "url": "https://job-boards.greenhouse.io/wehrtyou/jobs/8052050", "location": "London, UK; New York, NY; Singapore",
+     "opened": "2026-07-13", "date_source": "greenhouse first_published",
+     "grad_window": "2027 grads", "live_verified": "api"}
   ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker_last_cycle from worklist (2025-08-07)",
+  "last_cycle_basis": "tracker_last_cycle from earlier research",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/wehrtyou",
   "jobs_spec": "gh:wehrtyou",
-  "evidence": "jobs.py board gh:wehrtyou lists multiple postings explicitly titled '2027 Grads', first_published 2026-07-13, on the company's own careers site. Matches and extends the tracker lead.",
+  "evidence": "gh:wehrtyou board --all (87 postings) shows two 2027-grad titles live, first_published 2026-07-13; detail confirmed via API. Matches prior result.",
   "confidence": "high"
 }
