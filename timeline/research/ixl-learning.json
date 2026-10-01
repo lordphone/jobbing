@@ -1,7 +1,7 @@
 {
   "company": "IXL Learning",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -17,7 +17,17 @@
     {
       "title": "Software Engineer, New Grad",
       "url": "https://job-boards.greenhouse.io/ixllearning/jobs/8765745002",
-      "location": "Raleigh-Durham, NC",
+      "location": "Raleigh, NC; Raleigh-Durham, NC",
+      "opened": "2026-08-31",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer, New Grad",
+      "url": "https://job-boards.greenhouse.io/ixllearning/jobs/8765751002",
+      "location": "Toronto, ON, Canada",
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -31,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ixllearning",
   "jobs_spec": "gh:ixllearning",
-  "evidence": "Greenhouse API (115, --all): live 'Software Engineer, New Grad' in San Mateo and Raleigh (first_published 2026-08-31), plus Toronto new-grad role (not US). Posting says H1B sponsorship is available.",
+  "evidence": "Greenhouse API (118): live 'Software Engineer, New Grad' in San Mateo and Raleigh plus Toronto 'Software Developer, New Grad', all first_published 2026-08-31; detail confirms H1B sponsorship available. Same as prior check.",
   "confidence": "high"
 }

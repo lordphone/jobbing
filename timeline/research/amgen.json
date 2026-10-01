@@ -1,8 +1,8 @@
 {
   "company": "Amgen",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Associate AI Engineer, OI&A",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://amgen.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:amgen/wd1/careers",
-  "evidence": "Previous file said open; changed to closed. The Associate AI Engineer OI&A posting no longer resolves via CXS and is absent from Workday searches (OI&A, Associate AI, AI engineer). Remaining US tech roles are 2027 grad/undergrad interns or 30+ day non-entry.",
-  "confidence": "medium"
+  "evidence": "Associate AI Engineer OI&A (2026-09-22) absent from Workday list and searches, likely closed, but page unreadable (CXS 403, WebFetch empty; no browser in cloud run). Other US tech roles: 2027 interns, senior/director. Prior file said closed.",
+  "confidence": "low"
 }

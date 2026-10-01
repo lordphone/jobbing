@@ -1,25 +1,26 @@
 {
   "company": "Ibotta",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
       "title": "Associate Software Engineer",
-      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d/application",
+      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06ec0873d/application",
       "location": "Denver, CO",
       "opened": "2026-07-07",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2026-02-13",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver, Workday era, https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver, Workday era (after the 2025-07/2026-01 window), https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ashby (46, --all) 2026-09-30: only SWE Intern, Data Engineering Intern, Data Engineer, Staff SWE and managers. Associate Software Engineer (opened 2026-07-07 per tracker) is gone from the board.",
+  "evidence": "Ashby board (45, --all): only SWE Intern, Data Eng Intern, Data Engineer, Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) returns null from Ashby posting API: gone.",
   "confidence": "high"
 }

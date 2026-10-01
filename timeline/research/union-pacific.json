@@ -1,7 +1,7 @@
 {
   "company": "Union Pacific",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://up.jobs/search/",
   "jobs_spec": null,
-  "evidence": "up.jobs searches (software, technology, developer, engineer, analyst, trainee, cyber): full-time roles are crew, mechanical, signal, track; Technology appears only as Summer and Year-Round interns in Omaha. Same as before.",
-  "confidence": "medium"
+  "evidence": "up.jobs search 'software engineer' (54 results): only Summer and Year-Round Technology interns (Omaha); rest are crew/mechanic roles. No entry SWE posting found; no tracker history. No browser in cloud run, so search was text-only.",
+  "confidence": "low"
 }

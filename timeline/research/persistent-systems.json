@@ -1,8 +1,8 @@
 {
   "company": "Persistent Systems",
   "tier": 10,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history has no Persistent entries.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.persistent.com/jobslist",
   "jobs_spec": null,
-  "evidence": "Job list at careers.persistent.com/jobslist loads by script; not readable this run (no API found, browser pane unreliable). Carried over earlier US-filtered read: 24 openings, nearly all senior/architect. Early-careers page shows no US roles or dates.",
+  "evidence": "Job list careers.persistent.com/jobslist is script-loaded; WebFetch got HTTP 503, no API spec, no browser in cloud run. Search found only India fresher hiring. Earlier note: US openings mostly senior (unverified this run).",
   "confidence": "low"
 }

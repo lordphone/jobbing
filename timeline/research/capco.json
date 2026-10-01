@@ -1,7 +1,7 @@
 {
   "company": "Capco",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -25,6 +25,16 @@
       "live_verified": "api"
     },
     {
+      "title": "Capco Associate Talent Program - Houston June 2027",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/8108842",
+      "location": "Dallas, TX; Houston, TX",
+      "opened": "2026-08-24",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "June 2027 start",
+      "live_verified": "api"
+    },
+    {
       "title": "Capco Associate Talent Program - Houston Jan 2027",
       "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
       "location": "Houston, TX",
@@ -41,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/capco",
   "jobs_spec": "gh:capco",
-  "evidence": "Greenhouse API: live Associate Talent Program postings (consulting/technology, not pure SWE) say \"Must be authorized to work in the United States (US Citizens or Permanent Residents ONLY)\". NY 2027 ATP (8156530) now gone. No pure SWE entry role; Junior AI Engineer closed.",
+  "evidence": "Greenhouse API 2026-10-01: live Associate Talent Program postings (consulting/technology, not pure SWE) say \"Must be authorized to work in the United States (US Citizens or Permanent Residents ONLY)\". NY ATP 8156530 not on board. Toronto dev roles not entry-level.",
   "confidence": "medium"
 }

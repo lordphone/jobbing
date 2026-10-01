@@ -1,15 +1,26 @@
 {
   "company": "ManTech",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: entry SWE postings 2024-09 (Workday); none dated 2025-07 to 2026-01 found",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://careers.mantech.com/en_US/careers/JobDetail/61501",
+      "location": "Crane, IN",
+      "opened": "2025-12-22",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
+  "last_cycle_opened": "2025-12-22",
+  "last_cycle_basis": "Posting page https://careers.mantech.com/en_US/careers/JobDetail/61501 (Software Engineer I, Crane IN) dated December 22, 2025; earlier entry SWE 2024-09 (Workday).",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.mantech.com/en_US/careers",
   "jobs_spec": null,
-  "evidence": "Opened Software Engineer (R64744, Crane IN, posting date 12/22/2025, tracker id 61501): \"Must have a current and active Secret Clearance\". Other tracker leads (Fort Meade CNO/Associate SWE) are cleared defense roles.",
-  "confidence": "high"
+  "evidence": "WebFetch of posting 61501 (Apply button shown, dated 2025-12-22): \"Must have a current and active Secret Clearance\". Last-cycle posting, not this cycle. Other tracker leads (Fort Meade CNO/Associate SWE) are cleared defense roles. Board is script-rendered; no browser in cloud run.",
+  "confidence": "medium"
 }

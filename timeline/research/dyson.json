@@ -1,8 +1,8 @@
 {
   "company": "Dyson",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.dyson.com/en-gb/search-results?keywords=software+engineer&location=united+states",
   "jobs_spec": null,
-  "evidence": "Careers site (no API; location filter ignored, 460 global jobs). US early-careers page (opened in browser) lists Marketing, Sales, Direct, Finance, Supply Chain; no US software new-grad track. Graduate software roles are UK.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: careers.dyson.com job search returned 403 to WebFetch, no API. Search snippet of US early-careers page lists Marketing, Sales, Direct, Finance, Supply Chain only; prior 2026-09-30 browser check found no US software new-grad (no_program_found).",
+  "confidence": "low"
 }

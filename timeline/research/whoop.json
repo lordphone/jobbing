@@ -1,8 +1,8 @@
 {
   "company": "WHOOP",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer I - WHOOP Pace Setters",
@@ -10,9 +10,9 @@
       "location": "Boston, MA",
       "opened": "2026-09-08",
       "date_source": "ashby publishedDate (isListed false)",
-      "deadline": null,
-      "grad_window": "undergraduate senior, expected graduation Spring 2027",
-      "live_verified": "no"
+      "deadline": "2026-10-05",
+      "grad_window": "graduating Winter 2026 or Spring 2027 (per linked SWE I posting)",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2024-08-22",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whoop",
   "jobs_spec": "ashby:whoop",
-  "evidence": "Ashby board (152): SWE I (Backend) and Android Engineer I say immediate hire and send Winter 2026/Spring 2027 grads to 'SWE I - WHOOP Pace Setters' (published 2026-09-08). Its API shows isListed false, undergrad senior Spring 2027; apply status unverified, so not counted open.",
+  "evidence": "Ashby GraphQL shows unlisted 'Software Engineer I - WHOOP Pace Setters' (Boston, published 2026-09-08, deadline 2026-10-05), linked from SWE I posting for Winter 2026/Spring 2027 grads. Public board lists only SWE I/II roles for immediate hire. No browser in cloud run.",
   "confidence": "medium"
 }

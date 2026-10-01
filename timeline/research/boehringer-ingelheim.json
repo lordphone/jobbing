@@ -1,7 +1,7 @@
 {
   "company": "Boehringer Ingelheim",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.boehringer-ingelheim.com",
   "jobs_spec": null,
-  "evidence": "Own SuccessFactors board is JS-rendered (not readable by fetch). 2026-09-30 web search found only Ridgefield CT IT co-ops and interns; prior run saw multi-tier Software Engineer AI (Senior/Principal, no sponsorship), not clearly entry-level. Not re-opened.",
+  "evidence": "Board HTML readable by curl 2026-10-01 (no browser in cloud run; keyword filter partly ignored). Only Ridgefield CT 'Software Engineer AI' (multi-tier SWE/Senior/Principal, lowest tier Bachelor+2 yrs, no sponsorship) not entry-labeled; rest are co-ops/interns. Not fully scanned.",
   "confidence": "low"
 }

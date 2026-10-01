@@ -1,15 +1,16 @@
 {
   "company": "Quora",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "leftover_2026",
   "postings": [
     {
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
       "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
-      "location": "Remote - US/Canada",
+      "location": "Remote (US); Remote (Canada)",
       "opened": "2026-09-25",
-      "date_source": "tracker first seen / ashby publishedAt",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
       "grad_window": "2025 or 2026 graduate",
       "live_verified": "api"
     }
@@ -20,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/quora",
   "jobs_spec": "ashby:quora",
-  "evidence": "Ashby API (6): live 'Software Engineer New Grad, ML Platform' (published 2026-09-25, rolling) requires 'A 2025 or 2026 graduate', a last-cycle window excluding 2027. No 2027-class posting.",
+  "evidence": "Ashby board (5): live 'Software Engineer New Grad, ML Platform' (2026-09-25) requires 'A 2025 or 2026 graduate', last-cycle window. Earlier tracker-listed New Grad SWE postings (2026-08) are gone (Ashby API null).",
   "confidence": "high"
 }

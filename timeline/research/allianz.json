@@ -1,18 +1,17 @@
 {
   "company": "Allianz (Allianz Life / Allianz Global Investors US)",
   "tier": 11,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "TechSTART Associate - 2027_3318",
       "url": "https://careers.allianz.com/us/en/job/105620/TechSTART-Associate-2027-3318",
       "location": "Minneapolis, MN (hybrid)",
-      "opened": "on or before 2026-09-28",
-      "date_source": "page text",
+      "opened": "2026-09-03",
+      "date_source": "page text (JSON-LD datePosted; a second field says 2026-09-21)",
+      "deadline": null,
       "grad_window": "June 2027 start",
-      "live_verified": "browser",
-      "deadline": null
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.allianz.com/us/en/graduates",
   "jobs_spec": null,
-  "evidence": "Opened posting 2026-09-30 in browser: TechSTART Associate - 2027_3318, Entry Level, June 2027 start, technical track (app dev, cloud/DevOps), 0-1 yrs, Apply Now shown, no deadline or sponsorship text. Posted date not shown.",
-  "confidence": "medium"
+  "evidence": "No browser in cloud run: WebFetch of internal-careers.allianz.com copy showed 'Apply now'; careers.allianz.com copy returned JSON-LD but fetch summary said 'filled' (possibly hidden template text). Entry level, June 2027 start, 0-1 yrs, no sponsorship text. Recheck in browser.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }
