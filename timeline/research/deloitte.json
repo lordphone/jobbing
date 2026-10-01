@@ -1,18 +1,18 @@
 {
   "company": "Deloitte",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Consultative Offerings - Analyst - AI Innovation (builds AI-native prototypes; borderline engineering)",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-AI-Innovation/361321",
-      "location": "3 US locations",
+      "location": "McLean, VA; New York, NY; Philadelphia, PA",
       "opened": "on or before 2026-09-30",
       "date_source": "page text (no posted date)",
       "deadline": "2026-10-01",
       "grad_window": "by Spring/Summer 2027",
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://apply.deloitte.com",
   "jobs_spec": null,
-  "evidence": "Previous posting 361306 (Data & AI Solutions Engineering Analyst) now returns 'Page not found'. Deloitte US search: no software-engineer analyst; AI Innovation Analyst 361321 is live, prototype-building, recruiting ends 10/01/2026, no sponsorship. Tech Transformation analyst (SAP/Oracle) is consulting, not counted. Borderline role.",
+  "evidence": "WebFetch 2026-10-01: AI Innovation Analyst 361321 shows Apply, McLean/NY/Philadelphia, recruiting ends 10/01/2026, grad by Spring/Summer 2027, no sponsorship. No software-titled analyst found. Borderline engineering role; not browser-verified.",
   "confidence": "low"
 }

@@ -1,8 +1,8 @@
 {
   "company": "Unity Technologies",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2026-01-10",
   "last_cycle_basis": "tracker first-seen date (unchanged from prior research); prior MLE New Grad roles (Mountain View/Bellevue/SF/NYC) posted May-Jun 2026",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://unity.com/careers/positions",
   "jobs_spec": null,
-  "evidence": "Re-read unity.com/careers/positions in browser 2026-09-30: Students & Early Career has only Junior Test Engineer (Vilnius); US engineering/ML roles are Senior/Staff/Principal. Earlier MLE New Grad roles (May-Jun 2026) are not on the board, so closed.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: unity.com/careers/positions and careers.unity.com render via JavaScript, no API found. Prior browser read 2026-09-30 saw MLE New Grad roles (May-Jun 2026) gone and no US entry roles; not re-verified.",
+  "confidence": "low"
 }

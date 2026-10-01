@@ -1,15 +1,15 @@
 {
   "company": "Insight Enterprises",
-  "tier": 10,
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no tracker history or early-career SWE program found",
   "jobs_page": "https://careers.insight.com/careers",
   "jobs_spec": null,
-  "evidence": "careers.insight.com is Eightfold; its public /api/apply/v2/jobs?domain=insight.com listed 97 jobs (53 US), all read. US roles are technicians, warehouse, sales, architects and Senior engineers; no entry-level SWE or new-grad program this cycle or last.",
+  "evidence": "careers.insight.com is Eightfold; public /api/apply/v2/jobs?domain=insight.com listed 136 jobs, all titles read. US roles are technicians, warehouse, sales, architects. Toronto AI/Data/Cloud engineer roles need 5-6+ yrs. No entry-level SWE.",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "tier": 10,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

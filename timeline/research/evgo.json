@@ -1,15 +1,15 @@
 {
   "company": "EVgo",
-  "status": "not_yet",
+  "status": "unknown",
   "last_cycle_opened": "2025-10-17",
   "last_cycle_basis": "tracker first-seen 2025-10-17 (Software Development Engineer I, jobs.jobvite.com/evgo), now closed",
   "jobs_page": "https://www.evgo.com/company/careers/",
-  "jobs_spec": null,
-  "evidence": "Browser: evgo.com careers lists 16 roles (Rippling ATS). Only software role is Software Engineer III - Security Specialist (senior); Data Scientist needs 2+ yrs, not an entry SWE title. No entry-level SWE. Last cycle had one SDE I req (Oct 2025, tracker).",
-  "confidence": "medium",
+  "evidence": "No browser in cloud run: evgo.com careers is behind a Vercel checkpoint (429 to fetch). Prior browser read: 16 roles, only software role Software Engineer III Security Specialist (senior), no entry SWE. Retry in browser.",
+  "confidence": "low",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "postings": [],
   "no_sponsorship": false,
-  "excluded_reason": null
+  "excluded_reason": null,
+  "jobs_spec": null
 }

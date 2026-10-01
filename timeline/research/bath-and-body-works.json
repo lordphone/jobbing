@@ -1,8 +1,8 @@
 {
-  "company": "Bath and Body Works",
+  "company": "Bath & Body Works",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.bathandbodyworks.com/jobs",
   "jobs_spec": null,
-  "evidence": "Browser: careers.bathandbodyworks.com shows 2402 jobs, mostly retail/DC; category facets show just 1 Information Technology and 1 Data Science & Analytics job (titles not read; keyword/category filters did not apply). Prior check found only a 5+ yr Associate Test Automation Developer. No new-grad SWE evident.",
-  "confidence": "medium"
+  "evidence": "Keyword/category filters ignored on fetch (2412 jobs, retail only on page 1). No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "confidence": "low"
 }

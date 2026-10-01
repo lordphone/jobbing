@@ -1,7 +1,7 @@
 {
   "company": "Chewy",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,20 +9,20 @@
       "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Bellevue-WA/Software-Engineer-I_R31016",
       "location": "Bellevue, WA",
       "opened": "2026-09-25",
-      "date_source": "workday startDate (posted 3 days ago)",
+      "date_source": "workday startDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer I",
       "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I_R30757",
       "location": "Boston, MA",
       "opened": "2026-09-02",
-      "date_source": "workday startDate (posted 26 days ago)",
+      "date_source": "workday startDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-07",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://chewy.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:chewy/wd5/External",
-  "evidence": "Two live 'Software Engineer I' postings (rolling, API-confirmed); Boston asks 2+ years. Under the updated skill rule years don't disqualify an entry title, so open (prior file said not_yet). Not labeled new grad; no grad window.",
+  "evidence": "Workday --all (30) 2026-10-01: two live Software Engineer I postings, rolling, not labeled new grad; Boston asks 2+ yrs (not disqualifying for entry title). No citizenship or sponsorship bar found. Same as prior file.",
   "confidence": "low"
 }

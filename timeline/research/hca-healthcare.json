@@ -1,15 +1,15 @@
 {
   "company": "HCA Healthcare",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker history shows only unrelated HCA-named healthcare roles and GE Healthcare SWE 1",
+  "last_cycle_basis": "none found; a web search mentions an HCA Technical Residency Program (6-month, junior developers) and Associate Software Engineer role, no dates",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcahealthcare.com/search/jobs?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Phenom board (browser): 'software engineer' (217), 'application developer I', 'new graduate technology', 'early career technology program': only Senior/Staff/Consulting engineers, Technical Analyst I, an unlevelled Application Developer; new-grad hits are nursing. No SWE I or new-grad tech program.",
-  "confidence": "medium"
+  "evidence": "Phenom board returns 403 to curl and WebFetch; no browser in cloud run, so board unreadable. Prior browser check (2026-09-30) found only senior/staff engineers, no SWE I. Web search hints at a Technical Residency Program; unverified.",
+  "confidence": "low"
 }

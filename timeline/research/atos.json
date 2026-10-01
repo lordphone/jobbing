@@ -1,7 +1,7 @@
 {
   "company": "Atos",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2026-02-10",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.atos.net/search/?q=&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "jobs.atos.net US search (112 results) read. Only junior title is Junior NOC Analyst (ops). Application Developer, AI Engineer, Security Engineer, Architect not entry-level; Full Stack Engineer (remote) has no entry-level marker. No US entry SWE.",
+  "evidence": "WebFetch of jobs.atos.net US search (107 results, US listings on first two pages, then UK) read. Only junior title is Junior NOC Analyst (ops). Application Developer, AI Engineer, Security Engineer not entry-level. No US entry SWE. Board read via WebFetch, not browser.",
   "confidence": "medium"
 }

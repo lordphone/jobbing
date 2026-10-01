@@ -1,7 +1,7 @@
 {
   "company": "IHG Hotels & Resorts",
   "tier": 11,
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history. IHG Internships & Graduate page lists only US corporate internships and a Manager In Training program.",
@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "IHG careers returned Access Denied this run; search shows only interns and senior roles; prior 2026-09-28 read retained: Read the Corporate job-type filter in the browser (151 jobs, pages 1-3). US tech roles are Principal SWE, Senior Engineer Infrastructure, Head of App/Web Tech; only junior dev is 'Jr Developer - Salesforce' in Guadalajara, Mexico. No US new-grad SWE.",
+  "evidence": "IHG careers returned 403 to WebFetch; no browser in cloud run; search showed only US corporate internships. Earlier browser read (2026-09-28, 151 Corporate jobs) found no US new-grad SWE (only Jr Developer in Guadalajara); unverified today.",
   "confidence": "low",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

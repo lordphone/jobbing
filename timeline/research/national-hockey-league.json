@@ -1,8 +1,8 @@
 {
   "company": "National Hockey League (NHL)",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
   "jobs_spec": null,
-  "evidence": "Browser: TeamWork NHL board (league office plus clubs) shows marketing, production, legal, merchandise and club roles; only tech title seen was a Buffalo Sabres cybersecurity intern. No NHL entry-level SWE. Earlier check found only Detroit Red Wings manager-level developer roles.",
-  "confidence": "medium"
+  "evidence": "TeamWork returns 403. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "confidence": "low"
 }

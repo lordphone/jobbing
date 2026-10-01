@@ -1,8 +1,8 @@
 {
   "company": "FedEx",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history only shows 'Software Engineer I and II - Gen AI' (Memphis) first seen 2025-01-25, outside the last-cycle window",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.fedex.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.fedex.com keyword search (47 'software engineer' hits + developer/data/graduate/entry queries): US SWE roles are Software Engineer Multi Level II/III (Memphis, posted 2026-09-29, 2 yrs, advanced degree may offset; not entry-level title), Senior/Advisor/8-yr roles; Full Stack Developer I/II are Hyderabad. No US new-grad track.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: careers.fedex.com API returns Access Denied and keyword search is client-side, WebFetch shows only package-handler list. Prior 2026-09-30 browser check found no US new-grad SWE (only Software Engineer II/III, 2 yrs). Retry in browser.",
+  "confidence": "low"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Inspire Brands",
   "tier": 11,
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.inspirebrands.com/jobs",
   "jobs_spec": null,
-  "evidence": "Inspire careers site returned Access Denied this run (Paradox); prior 2026-09-28 read retained: Paged through all 86 live jobs on the own board (Paradox). Tech roles: Senior SRE, Lead Data Engineer, Data Scientist, BI Report Developer Lead, tech operations analysts, End User Support Analyst. Early Careers page lists only summer internships. No entry-level SWE.",
+  "evidence": "no browser in cloud run: board (88 jobs, 9 pages) paging and keyword filters didn't apply via WebFetch; only first 10 read (no tech entry roles). Earlier browser read (2026-09-28, 86 jobs) found no entry-level SWE; not re-verified today.",
   "confidence": "low",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

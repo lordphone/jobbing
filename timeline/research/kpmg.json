@@ -1,7 +1,7 @@
 {
   "company": "KPMG",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "on or before 2026-09-28",
       "date_source": "page text (no posted date; rolling)",
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.kpmguscareers.com/job-search",
   "jobs_spec": null,
-  "evidence": "WebFetch of job 135722: Associate, Software Engineer (Tax GenAI tools), Apply present, career level Experienced, asks 1+ yr recent experience, no deadline ('apply expeditiously'), no sponsorship text. Borderline level; not opened in browser pane.",
+  "evidence": "WebFetch 2026-10-01 of job 135722: Associate, Software Engineer (Tax GenAI tools), Apply Now present, career level Experienced, 1+ yr, rolling, no sponsorship text. Borderline level; no browser in cloud run.",
   "confidence": "low"
 }

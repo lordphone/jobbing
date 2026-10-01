@@ -1,8 +1,8 @@
 {
   "company": "SLB",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Early Careers - Digital Technology",
@@ -12,7 +12,7 @@
       "date_source": "board search index jobposteddate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.slb.com/job-listing",
   "jobs_spec": null,
-  "evidence": "SLB's own job-search index (Coveo, US filter, 226 jobs) lists live 'Early Careers - Digital Technology' (Houston, posted 2026-08-10) hiring graduates as Back End/Front End/Full Stack SWE, ML, AI, QA engineers. Pipeline-style req; no citizenship/sponsorship line, no deadline, no class year.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: careers.slb.com posting pages are JS-rendered and returned only the site shell via curl/WebFetch. Earlier Coveo index read (2026-09-30) listed 'Early Careers - Digital Technology' (Houston, 2026-08-10) for SWE/ML grads; not re-verified live today.",
+  "confidence": "low"
 }

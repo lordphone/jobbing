@@ -1,7 +1,7 @@
 {
   "company": "Forbes",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/forbes",
   "jobs_spec": "gh:forbes",
-  "evidence": "Greenhouse --all (12 postings) 2026-09-30: no SWE roles at any level; editorial, ops, a temporary helpdesk engineer, and a non-SWE Forbes Fellowship (2024).",
-  "confidence": "high"
+  "evidence": "Greenhouse API (11, --all): no SWE roles; only a temporary helpdesk engineer and the non-SWE Forbes Fellowship.",
+  "confidence": "medium"
 }

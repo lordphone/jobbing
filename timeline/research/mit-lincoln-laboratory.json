@@ -2,7 +2,6 @@
   "company": "MIT Lincoln Laboratory",
   "status": "excluded",
   "excluded_reason": "citizenship",
-  "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
   "postings": [
     {
@@ -14,13 +13,24 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Assistant Staff - Programming",
+      "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-Programming-MA-02420/1431161300/",
+      "location": "Lexington, MA",
+      "opened": "2026-09-17",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "jobs_page": "https://careers.ll.mit.edu/",
-  "jobs_spec": null,
-  "evidence": "Opened AI/ML Engineer - Assistant Staff (posted 9/23) and Cybersecurity Researcher (Early Career): both say 'U.S. citizenship is required' and need a DoD Secret clearance. Apply button shown, no deadline. Excluded.",
+  "evidence": "Opened both postings on board (Apply now shown): each says \"U.S. citizenship is required\" and needs a DoD Secret clearance. No deadline. Excluded.",
   "confidence": "high",
   "tier": 8,
-  "checked": "2026-09-30",
-  "no_sponsorship": false
+  "checked": "2026-10-01",
+  "no_sponsorship": false,
+  "jobs_spec": null,
+  "last_cycle_opened": null
 }

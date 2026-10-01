@@ -1,8 +1,8 @@
 {
   "company": "PGA TOUR",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/pga-tour-",
   "jobs_spec": null,
-  "evidence": "Browser: TeamWork PGA TOUR board (first ~40 listings read): tech roles are Forward Deployed Engineer (Manager level), Senior Software Engineer (Director level), Senior Product Manager ShotLink; 2027 Summer Internship only. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "TeamWork returns 403; search shows a 5-yr Software Engineer (ShotLink) and Senior roles only. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "confidence": "low"
 }

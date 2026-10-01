@@ -1,8 +1,8 @@
 {
   "company": "Delta",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; earlier run found dead past-cycle 'Associate Software Development Engineer' requisitions (15492, 19308, 26029, 27683, 27948) but no dates",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://delta.avature.net/en_US/careers/SearchJobs?2884=75200",
   "jobs_spec": null,
-  "evidence": "delta.avature.net search in browser (keywords software/developer/engineer/data/graduate/2027/associate/entry): only Spring/Summer 2027 interns, co-ops and graduate interns, plus Senior SWE, Principal Data Product Engineer, architects. No full-time Associate SWE or new-grad posting live.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: delta.avature.net returns an AWS WAF challenge (HTTP 202, empty) to curl and WebFetch. Prior 2026-09-30 browser check found only interns/co-ops and senior roles, no full-time Associate SWE. Retry in browser.",
+  "confidence": "low"
 }

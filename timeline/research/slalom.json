@@ -1,8 +1,6 @@
 {
   "company": "Slalom",
-  "tier": 10,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no dated source found",
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.slalom.com/en_US/careersmarketplace",
   "jobs_spec": null,
-  "evidence": "Browser keyword searches on jobs.slalom.com (428 total results global): 'entry' (4, sales/front desk), 'graduate' (1 flex consultant), 'junior' (22, architects/senior), 'software engineer' (143, senior/principal, non-US). No entry-level US SWE; paging not fully read.",
-  "confidence": "medium"
+  "evidence": "Avature board lists via JS; fetch returned no results, no browser in cloud run. Prior 2026-09-30 browser read found no entry US SWE (428 global). Search snippet (not first-party) says Slalom Build 2027 intern window opened.",
+  "confidence": "low",
+  "checked": "2026-10-01",
+  "tier": 10
 }

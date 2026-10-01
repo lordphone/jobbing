@@ -1,7 +1,7 @@
 {
   "company": "Mercari",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/mercari",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-09-30: 141 roles, all Japan (new-grad tracks there are Japan recruiting). Greenhouse board empty. No US SWE roles.",
-  "confidence": "high"
+  "evidence": "Workable API 2026-10-01: 141 roles; all 20 paged and the first 10 'engineer' hits are Japan (Minato). Further paging rate-limited (1015), so a US-only filter was not confirmed. No US SWE seen. No browser in cloud run.",
+  "confidence": "medium"
 }

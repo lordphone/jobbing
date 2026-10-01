@@ -1,15 +1,15 @@
 {
   "company": "The Goodyear Tire & Rubber Company",
-  "tier": 8,
-  "checked": "2026-09-30",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history and no dated early-careers software posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers",
   "jobs_spec": "wd:goodyear/wd1/GoodyearCareers",
-  "evidence": "Workday API lists 13 postings; none software or new-grad (search \"software\" returns 0). Web search shows only a Senior Embedded Software Engineer (Akron) and 2027-28 internships. Board looks partial, so medium.",
-  "confidence": "medium"
+  "evidence": "Workday API returned only 4 postings today (none software or new-grad); earlier pass saw 13 with no software. Prior web search showed only a senior embedded role and internships. Board looks partial, so medium.",
+  "confidence": "medium",
+  "tier": 8,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null,
+  "last_cycle_opened": null
 }

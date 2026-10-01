@@ -1,15 +1,15 @@
 {
   "company": "Choice Hotels International",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer 1 - Guest & Loyalty Domain",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22196",
       "location": "Scottsdale, AZ",
-      "opened": "2026-08-28",
-      "date_source": "workday startDate",
+      "opened": "on or before 2026-09-01",
+      "date_source": "workday postedOn (30+ days ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -18,8 +18,8 @@
       "title": "Software Engineer 1, Mobile Apps - Kotlin exposure required",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1--Mobile-Apps---Kotlin-exposure-required_R22195",
       "location": "Scottsdale, AZ",
-      "opened": "2026-08-24",
-      "date_source": "workday startDate",
+      "opened": "on or before 2026-09-01",
+      "date_source": "workday postedOn (30+ days ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://choicehotels.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:choicehotels/wd5/External",
-  "evidence": "Workday API lists two live Software Engineer 1 postings (Scottsdale), start dates Aug 2026, read via detail; both say not eligible for sponsorship. Not new-grad branded; entry-level title, open under relaxed years rule. No deadline.",
+  "evidence": "Workday detail: two Software Engineer 1 postings (Scottsdale) live, start dates Aug 2026, both 'not eligible for sponsorship'. Not new-grad branded; entry title, counted under relaxed years rule. No deadline.",
   "confidence": "medium"
 }

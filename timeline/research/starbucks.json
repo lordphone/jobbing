@@ -1,7 +1,7 @@
 {
   "company": "Starbucks",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,20 +9,30 @@
       "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
       "location": "Nashville, TN",
       "opened": "on or before 2026-08-05",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (Eightfold postedTs 2026-09-21)",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Application Developer - Application Development",
       "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
-      "location": "Seattle, WA",
-      "opened": "on or before 2026-09-15",
-      "date_source": "tracker first seen",
+      "location": "Seattle, WA; Nashville, TN",
+      "opened": "2026-09-15",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://starbucks.eightfold.ai/careers/job/481078371803",
+      "location": "Seattle, WA; Nashville, TN",
+      "opened": "2026-07-27",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://starbucks.eightfold.ai",
   "jobs_spec": "eightfold:starbucks.eightfold.ai/starbucks.com",
-  "evidence": "Opened Nashville Application Developer posting in browser: Apply Now shown, posted 09/21/2026, no expiration, 0-4 years experience, no sponsorship line. Rolling non-program role. Seattle twin API-only. Same as prior file.",
+  "evidence": "Eightfold pcsx search/position_details 2026-10-01: three listed postings (App Developer Nashville, Seattle; Software Engineer Seattle) ask 0-4 yrs, BS CS, no sponsorship/citizenship line. Rolling, not a new-grad program; pages not opened (no browser in cloud run).",
   "confidence": "medium"
 }

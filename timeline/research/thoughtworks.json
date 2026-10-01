@@ -1,5 +1,7 @@
 {
   "company": "Thoughtworks",
+  "tier": 10,
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -16,11 +18,9 @@
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first seen: Consultant Graduate Developer, Chicago IL (also Graduate Developer, Toronto)",
   "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/thoughtworksreferral",
   "jobs_spec": "gh:thoughtworksreferral",
-  "evidence": "Greenhouse API 2026-09-30, 27 postings, --all: no graduate developer live; Chicago Graduate Developer (tracker first seen 2026-07-08) returns 404 from the API, so closed. Remaining US roles are lead/senior. Earlier file said not_yet; closed fits the gone this-cycle posting.",
-  "confidence": "medium",
-  "checked": "2026-09-30",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "Greenhouse API 2026-10-01, 28 postings, --all: no graduate developer live. Chicago Graduate Developer (first seen 2026-07-08) returns 404 on both the API and the thoughtworks.com posting page, so closed. Remaining US roles are lead/senior.",
+  "confidence": "medium"
 }

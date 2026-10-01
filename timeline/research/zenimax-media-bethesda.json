@@ -1,7 +1,7 @@
 {
   "company": "ZeniMax Media / Bethesda (Microsoft)",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.zenimax.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.zenimax.com/jobs opened in browser 2026-09-30: 2 postings (Director Workplace Services, Senior Environment Artist). No SWE roles.",
-  "confidence": "high"
+  "evidence": "jobs.zenimax.com returned 403 to WebFetch (no browser in cloud run). Prior browser check 2026-09-30 showed 2 postings, no SWE. Web search hits (icims) are undated senior/systems roles. Not re-verified today.",
+  "confidence": "low"
 }

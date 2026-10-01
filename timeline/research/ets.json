@@ -1,7 +1,7 @@
 {
   "company": "ETS (Educational Testing Service)",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://etscareers.submit4jobs.com/",
   "jobs_spec": null,
-  "evidence": "ETS uses a Pereless JavaScript app (etscareers.pereless.com / etscareers.submit4jobs.com) with no job list to curl or WebFetch; browser pane unusable. Web search showed only senior developer roles. Retry in a browser.",
+  "evidence": "no browser in cloud run: etscareers.submit4jobs.com / pereless.com is a JS app; HTML fetch has no job list and no API found. Web search showed only senior developer roles and internships. Retry in a browser.",
   "confidence": "low"
 }

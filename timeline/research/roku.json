@@ -1,7 +1,7 @@
 {
   "company": "Roku",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -11,16 +11,16 @@
       "opened": "2026-09-11",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "up to 4/6 years since finishing studying",
-      "live_verified": "browser"
+      "grad_window": "up to 4/6 years of experience since finishing studying",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting in tracker history; only UK roles",
+  "last_cycle_basis": "no US new-grad SWE posting in tracker history; only UK roles (Cambridge UK 2025-11-20)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roku",
   "jobs_spec": "gh:roku",
-  "evidence": "Re-read 2026-09-30 via page fetch and Greenhouse API: Project Ahsoka early-career SWE live with Apply button, no deadline; quote: not able to sponsor visas for this role. First published 2026-09-11.",
+  "evidence": "Greenhouse board/API 2026-10-01: early-careers SWE (Project Ahsoka) live (API 200), first published 2026-09-11, no deadline. Quote: \"We are not able to sponsor visas for this role.\" No other entry SWE roles on board.",
   "confidence": "medium"
 }

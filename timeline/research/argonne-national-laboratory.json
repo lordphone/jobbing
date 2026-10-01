@@ -1,6 +1,7 @@
 {
   "company": "Argonne National Laboratory",
   "tier": 11,
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -20,7 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers",
   "jobs_spec": "wd:argonne/wd1/Argonne_Careers",
-  "evidence": "Workday API 2026-09-30, 22 postings: postdocs, scientists, admins, Linux/HPC sysadmin, Security Engineer; no software engineer. Tracker 'Software Engineer' 423398 (first seen 2026-09-09) is gone (Workday 403); its level is unknown, so closed is low-confidence.",
-  "confidence": "low",
-  "checked": "2026-09-30"
+  "evidence": "Workday API 2026-10-01, 24 postings: postdocs, scientists, Linux/HPC sysadmin, Security Engineer; no software engineer. Tracker 'Software Engineer' 423398 (first seen 2026-09-09) returns 403 from Workday, so gone, but its level is unknown; closed is low-confidence.",
+  "confidence": "low"
 }

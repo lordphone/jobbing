@@ -1,7 +1,7 @@
 {
   "company": "Integral Ad Science",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/",
   "jobs_spec": "wd:integralads/wd1/IAScareers",
-  "evidence": "Workday API (--all) shows only 3 reqs (publisher growth manager, senior solutions architect, senior manager solutions architecture). No entry-level SWE; no tracker history. Status unchanged.",
-  "confidence": "high"
+  "evidence": "wd:integralads/wd1/IAScareers --all (4-5 reqs): publisher growth manager, solutions architects, VP product; no engineering at all. No tracker history.",
+  "confidence": "medium"
 }

@@ -1,10 +1,19 @@
 {
   "company": "Humana",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
-    {"title": "Junior Software Engineer Cloud Cost Optimization", "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization", "location": "Louisville, KY; Boston; Nashville", "opened": "2026-07-12", "date_source": "tracker first seen", "deadline": null, "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Junior Software Engineer Cloud Cost Optimization",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization",
+      "location": "Louisville, KY; Boston; Nashville",
+      "opened": "2026-07-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-10",
   "last_cycle_basis": "tracker first-seen: Software Engineer 1 - Cybersecurity Identity, 2025-10-10",
@@ -12,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
   "jobs_spec": "wd:humana/wd5/humana_external_career_site",
-  "evidence": "Workday board (54, --all): no junior/entry SWE live. Tracker-seen junior roles (Junior SWE Cloud Cost Optimization 07-12, SFDC/BPM Junior Developer 07-20, Data Engineer R-423155) are gone. Live 'Software Engineer' reqs ask 2+ yrs Salesforce; not entry-level.",
+  "evidence": "Workday board (51, --all) 2026-10-01: no junior/entry SWE live; only Summer 2027 interns and Lead/Senior/Director roles. Tracker junior roles (Jr SWE Cloud Cost 07-12, SFDC/BPM Jr Dev 07-20) gone from board. Closed.",
   "confidence": "medium"
 }

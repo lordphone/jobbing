@@ -1,7 +1,7 @@
 {
   "company": "SiriusXM",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.siriusxm.com/careers/jobs?categories=Engineering",
   "jobs_spec": null,
-  "evidence": "Careers-site JSON in browser pane 2026-09-30, all 59 postings: engineering roles all Senior/Staff/Principal (US, Bucharest, Dublin). Early-career page shows no SWE new-grad track. Board has no entry SWE.",
+  "evidence": "careers.siriusxm.com JSON API read via curl, all 63 postings: engineering roles Senior/Staff/Principal (Irving, Oakland, NY, Bucharest, Dublin). Only SWE intern seen on third-party sites; not counted.",
   "confidence": "medium"
 }

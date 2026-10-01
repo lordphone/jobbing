@@ -1,7 +1,7 @@
 {
   "company": "Foot Locker (part of Dick's Sporting Goods)",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.footlocker.com",
   "jobs_spec": null,
-  "evidence": "Jibe API (careers.footlocker.com): req 71916 Associate Software Engineer (opened 2026-09-15) now 404. Live engineer roles need 3+ years and say no sponsorship (71846, 72115). No graduate/early career results.",
+  "evidence": "Jibe API (careers.footlocker.com/api/jobs): req 71916 Associate Software Engineer (2026-09-15) page now 404, so closed. Remaining engineer roles are senior/lead; 'graduate' returns interns only. No sponsorship line on those roles. No browser in cloud run.",
   "confidence": "high"
 }

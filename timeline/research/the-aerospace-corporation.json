@@ -1,13 +1,13 @@
 {
   "company": "The Aerospace Corporation",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
       "title": "2027 RPO Software Developer/Analyst",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-RPO-Software-Developer-Analyst_R016457",
-      "location": "El Segundo CA (3 locations)",
+      "location": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
       "opened": "2026-09-14",
       "date_source": "workday startDate",
       "deadline": "2027-02-26",
@@ -17,10 +17,20 @@
     {
       "title": "2027 Vehicle Systems Software Engineer",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Vehicle-Systems-Software-Engineer_R016604",
-      "location": "El Segundo CA",
+      "location": "El Segundo, CA",
       "opened": "2026-09-16",
       "date_source": "workday startDate",
       "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "2027 Data Scientist/Machine Learning Engineer",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
+      "location": "El Segundo, CA",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-27",
       "grad_window": null,
       "live_verified": "api"
     }
@@ -31,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA",
   "jobs_spec": "wd:aero/wd5/external",
-  "evidence": "Workday (128 postings): 2027 SWE/data postings live (RPO Software Developer, Vehicle Systems SWE, Data Engineer). Each states 'U.S. citizenship is required to obtain a security clearance'. RPO has Workday endDate 2027-02-26.",
+  "evidence": "Workday (127): 2027 RPO Software Developer, Vehicle Systems SWE, Data Scientist/ML Engineer live (API). Each states 'U.S. citizenship is required to obtain a security clearance'. Deadlines from Workday endDate (RPO 2027-02-26, ML 2026-11-27).",
   "confidence": "high"
 }

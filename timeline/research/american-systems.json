@@ -1,15 +1,15 @@
 {
   "company": "AMERICAN SYSTEMS",
-  "tier": 10,
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": "2026-01-06",
-  "last_cycle_basis": "tracker history: 'Software Engineer 1', Bethesda, MD, first seen 2026-01-06",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_opened": "2026-01-06",
+  "last_cycle_basis": "Tracker history: Software Engineer 1 (Bethesda, MD) first seen 2026-01-06; Software Engineer I (McLean) 2025-02-28",
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS search read by fetch: live SWE roles are Journeyman/Senior/Staff or 1-3+ yrs C/C++ avionics and state 'Active DoD Secret security clearance' (postings 2026-4974, 2026-4977). Earlier browse: 'U.S. Citizenship Required for the purposes of obtaining/holding a U.S. security clearance.' No entry-level SWE live.",
+  "evidence": "Read iCIMS search (242 jobs, 5 pages) and 7 SWE postings by fetch: all state 'Clearance Required: Secret/Top Secret' (e.g. 4977 'Active DoD Secret Security Clearance'; 4982 'Must be a U.S. Citizen'); no entry-level SWE without clearance. No browser in cloud run.",
   "confidence": "high",
-  "checked": "2026-09-30"
+  "tier": 10,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false
 }

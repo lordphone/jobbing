@@ -1,7 +1,7 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2026-07-10",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "Still could not read board 2026-09-30: gh:rdccareers API returns 0, careers.realtor.com blocked for WebFetch and browser pane. Builtin shows Junior SWE (Austin) removed 2026-03-09; nothing this cycle seen. Retry later.",
+  "evidence": "Could not read board, no browser in cloud run: gh:rdccareers API returns 0 postings, careers.realtor.com blocked for WebFetch/curl (403). Search shows only 2026 interns and a Junior SWE listing on third-party sites; nothing verified first-party. Retry with browser.",
   "confidence": "low"
 }

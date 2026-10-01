@@ -1,8 +1,8 @@
 {
   "company": "Chegg",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://osv-chegg.wd5.myworkdayjobs.com/Chegg",
   "jobs_spec": "wd:osv-chegg/wd5/Chegg",
-  "evidence": "Browser on Workday board (en-US path; API not reachable): 11 jobs, engineering roles in India/Spain, only US role is UX/UI Industry Coach. No US entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday cxs API returned HTTP 422 for osv-chegg/wd5/Chegg; no browser in cloud run. Earlier browser check (2026-09-30) saw 11 jobs, engineering in India/Spain, no US entry SWE; not re-verified.",
+  "confidence": "low"
 }

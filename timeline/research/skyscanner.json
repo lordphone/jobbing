@@ -1,7 +1,7 @@
 {
   "company": "Skyscanner",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2026-01-05",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.skyscanner.net/jobs/",
   "jobs_spec": null,
-  "evidence": "Web search: Skyscanner engineering graduate programmes (2025, 2026 intake, 18 months, UK-based) on third-party boards; no 2027 or US programme found. Own careers page unreadable via WebFetch.",
+  "evidence": "Own jobs page is JS-rendered (unreadable, no browser in cloud run); Greenhouse board token not found. Search: graduate programme hires in Scotland, Barcelona, Shenzhen only; no US/Toronto/Vancouver or 2027 role seen. Last cycle Jan 2026 UK.",
   "confidence": "low"
 }

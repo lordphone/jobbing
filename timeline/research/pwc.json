@@ -1,8 +1,8 @@
 {
   "company": "PwC",
   "tier": 10,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Assurance Innovation & Technology (AIT) - Software Engineering - Associate - Summer/Fall 2027",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers",
   "jobs_spec": "wd:pwc/wd3/US_Entry_Level_Careers",
-  "evidence": "Workday board searches (software, engineer, technology, AIT, TIDE, developer) return no software role; only Audit, Tax, DAT intern/Data associate (deadline 2026-10-30, not SWE), consulting. AIT Software Engineering posting (opened by 2026-08-30) not found via API, so closed. Posting text: no H-1B sponsorship.",
-  "confidence": "high"
+  "evidence": "Workday list 2026-10-01 (21 reqs, --all) lacks the AIT Software Engineering posting (opened by 2026-08-30); only Audit/Tax/DAT roles, none SWE. Posting page unreadable (JS, no browser in cloud run), so closed unconfirmed. No H-1B sponsorship.",
+  "confidence": "medium"
 }

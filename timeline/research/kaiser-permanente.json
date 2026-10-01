@@ -1,8 +1,8 @@
 {
   "company": "Kaiser Permanente",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found; tracker history has only a 2026-06 R/Python Programmer (data scientist) role",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.kaiserpermanentejobs.org",
   "jobs_spec": null,
-  "evidence": "kaiserpermanentejobs.org (browser): 'software engineer' (116), 'engineer I', 'new graduate' searches: only IT Applications/Infrastructure Engineer IV-VI and leads; no Engineer I/II software or new-grad IT program. Nothing last cycle in tracker.",
-  "confidence": "medium"
+  "evidence": "No browser in cloud run: WebFetch of kaiserpermanentejobs.org search pages shows only first ~5-15 of 113-415 results (all IT Engineer IV-VI/leads); can't enumerate. 2026-09-30 browser check found no entry SWE or new-grad program. Not fully re-verifiable.",
+  "confidence": "low"
 }

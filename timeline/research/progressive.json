@@ -1,8 +1,8 @@
 {
   "company": "Progressive",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown - trackers have no history; recent-grad page lists developer roles generically",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.progressive.com/search/jobs/",
   "jobs_spec": null,
-  "evidence": "Progressive board (287 jobs) searched in browser: 'software' 28 hits, 'developer' and 'engineer' queries show only Senior Software Developer - Node/React (Cleveland, Sep 3) and Sustainability Engineer; no entry-level SWE or 2027 grad posting.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: careers.progressive.com returns a Cloudflare challenge to curl and 403 to WebFetch. Prior 2026-09-30 browser check found only Senior Software Developer roles, no entry-level. Retry in browser.",
+  "confidence": "low"
 }

@@ -1,8 +1,8 @@
 {
   "company": "Walgreens",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer I (Full Stack) Java",
@@ -11,7 +11,7 @@
       "opened": "2026-08-02",
       "date_source": "tracker first seen",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://sjobs.brassring.com",
   "jobs_spec": null,
-  "evidence": "Opened req 1810437BR (jobid 1855141) in browser 2026-09-30: 'Apply to job' present; Bachelor's CS (or 4 yrs experience); 'Work visa sponsorship is not available for this role'. No deadline stated. Not labeled new grad but Software Engineer I.",
-  "confidence": "medium"
+  "evidence": "No browser in cloud run: WebFetch of BrassRing jobid 1855141 shows 'expired or already filled' text (static render, may be unreliable); 2026-09-30 browser saw Apply present. Conflicting, can't resolve. Posting is SWE I Java, Deerfield IL, no visa sponsorship.",
+  "confidence": "low"
 }

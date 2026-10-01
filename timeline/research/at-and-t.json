@@ -1,26 +1,26 @@
 {
   "company": "AT&T",
   "tier": 11,
-  "checked": "2026-09-30",
   "status": "open",
+  "no_sponsorship": true,
   "postings": [
     {
-      "title": "AT&T Technology Development Program (Software Engineer / Data Science Engineer / Business Analytics Engineer / Network Engineer tracks)",
+      "title": "AT&T Technology Development Program",
       "url": "https://att.wd1.myworkdayjobs.com/attcollege/job/Dallas-Texas/AT-T-Technology-Development-Program_R-121905-1",
-      "location": "Dallas, Texas; Middletown, New Jersey; Bothell, Washington; Atlanta, Georgia",
-      "opened": "2026-09-20",
-      "date_source": "tracker first seen (workday startDate 2026-09-21, postedOn 9 days ago)",
+      "location": "Dallas, TX; Middletown, NJ; Bothell, WA; Atlanta, GA",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate (postedOn 'Posted 10 Days Ago' on 2026-10-01)",
       "deadline": "2026-11-14",
-      "grad_window": "degree completed before start; start full-time by July 2027",
+      "grad_window": "degree completed before start; full-time start by July 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2024-10-18",
-  "last_cycle_basis": "tracker history: 'New Grad 2025: Technology Development Program' first seen 2024-10-18 (no 2025-26 TDP entry found)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "last_cycle_basis": "Tracker: 'New Grad 2025: Technology Development Program' (Atlanta) first seen 2024-10-18; no 2025 cycle entry in tracker",
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "attcollege Workday API lists the TDP (canApply true, Software Engineer track, endDate 2026-11-14). Text: 'will not hire any applicants ... who require employer sponsorship'. Read via API.",
-  "confidence": "high"
+  "evidence": "attcollege Workday board (6 postings): TDP canApply true, Software Engineer and Data Science Engineer tracks, endDate 2026-11-14. 'AT&T will not hire any applicants for Technology Development Program Full-Time who require employer sponsorship now or in the future'.",
+  "confidence": "high",
+  "checked": "2026-10-01",
+  "excluded_reason": null
 }

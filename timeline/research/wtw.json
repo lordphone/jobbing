@@ -1,15 +1,15 @@
 {
   "company": "WTW (Willis Towers Watson)",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or dated source found",
+  "last_cycle_basis": "no US/Canada tracker or dated source; tracker history shows only UK graduate data/software roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.wtwco.com/jobs/search",
   "jobs_spec": "sr:wtw",
-  "evidence": "sr:wtw has 7 postings, all seasonal benefits CSR or licensed advisor. careers.wtwco.com search and early-careers-north-america: US graduate program is actuarial/consulting/business; software developer grad programme is UK. No US entry SWE found.",
-  "confidence": "medium"
+  "evidence": "sr:wtw has 7 postings (seasonal benefits CSR, licensed advisor). careers.wtwco.com (602 results) read only first page via WebFetch (filters ignored): no US SWE; US/Canada grad programs are actuarial/consulting/intern. Software grad roles are UK. No browser in cloud run.",
+  "confidence": "low"
 }

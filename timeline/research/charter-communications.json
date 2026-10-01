@@ -1,7 +1,7 @@
 {
   "company": "Charter Communications (Spectrum)",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.spectrum.com",
   "jobs_spec": null,
-  "evidence": "jobs.spectrum.com (browser) searches 'software engineer', 'Software Engineer I', 'associate software', 'new graduate': only 2027 Summer Intern SWE roles and Principal/Lead/Manager full-time roles. No entry-level full-time SWE live. Last SWE I postings were spring 2025.",
-  "confidence": "medium"
+  "evidence": "jobs.spectrum.com 'software engineer' search via WebFetch (no browser in cloud run): only 2027 Summer Intern SWE roles and Principal SWE/DevOps full-time. No entry-level full-time SWE seen; other searches unreadable. Last SWE I postings were spring 2025.",
+  "confidence": "low"
 }

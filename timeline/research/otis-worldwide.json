@@ -1,8 +1,8 @@
 {
   "company": "Otis Worldwide",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer – Early Career Digital Technology Rising Leaders Program",
@@ -12,7 +12,7 @@
       "date_source": "workday startDate / 'Date Posted: 2026-09-30'",
       "deadline": null,
       "grad_window": "Bachelor's completed by June 2027 start",
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
   "jobs_spec": "wd:otis/wd504/REC_Ext_Gateway",
-  "evidence": "Workday API/cxs 2026-09-30: new 24-month DT Rising Leaders rotational program, titled Software Engineer, entry-level, Farmington CT, canApply true, no sponsorship or deadline text. Embedded Software Engineer (5+ yrs) and SWE intern are not counted.",
-  "confidence": "high"
+  "evidence": "Seen live via Workday API 2026-09-30 (posted 2026-09-30). On 2026-10-01 it is absent from board/cxs searches and its cxs detail returns 403 (not 404), WebFetch empty; no browser in cloud run, so can't tell if pulled or hidden. Retry in browser.",
+  "confidence": "low"
 }
