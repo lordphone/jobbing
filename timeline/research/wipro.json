@@ -1,7 +1,7 @@
 {
   "company": "Wipro",
   "tier": 10,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,20 +9,20 @@
       "url": "https://careers.wipro.com/job/AI-Developer-%28Entry-Level%29/159939-en_US",
       "location": "Charlotte NC; Dallas; Jersey City NJ; Pennington NJ; St Louis",
       "opened": "2026-04-10",
-      "date_source": "SuccessFactors API start date",
+      "date_source": "page text (Posted April 10, 2026)",
       "deadline": null,
       "grad_window": "Recent university graduate of a STEM Master's degree program",
-      "live_verified": "api"
+      "live_verified": "browser"
     },
     {
       "title": "Junior Forward Deployed Engineer",
       "url": "https://careers.wipro.com/job/Junior-Forward-Deployed-Engineer/160017-en_US",
       "location": "Plano TX; Boston; East Brunswick NJ (also Austin, Louisville)",
       "opened": "2026-04-10",
-      "date_source": "SuccessFactors API start date",
+      "date_source": "page text (Posted April 10, 2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.wipro.com/search/?q=entry+level&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Wipro recruiting API (533 US jobs, 354 read) lists AI Developer (Entry Level) and Junior FDE, start 2026-04-10, no end date. Opened AI Developer page: Apply shown, requires recent STEM Master's grad, no citizenship/sponsorship text. Rolling, no class year.",
+  "evidence": "WebFetch of both posting pages 2026-10-01: Apply button present, posted 2026-04-10, recent STEM grads (Master's / Bachelor's-Master's), 3.0 GPA, no sponsorship text. Rolling, no class year. Search page not rendered; no browser in cloud run.",
   "confidence": "medium"
 }
