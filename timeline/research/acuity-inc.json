@@ -1,7 +1,7 @@
 {
   "company": "Acuity Inc.",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,26 +9,26 @@
       "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Program-GA-30309/1429282700/",
       "location": "Atlanta, GA",
       "opened": "2026-09-11",
-      "date_source": "careers site search listing; tracker first seen 2026-09-11",
+      "date_source": "careers site search listing; tracker first seen 2026-09-12",
       "deadline": null,
       "grad_window": "Start July 12, 2027; bachelor's, 0-2 yrs experience",
       "live_verified": "browser"
     },
     {
       "title": "Specialist Software Engineering BUILD Program",
-      "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429301900/",
+      "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429301800/",
       "location": "Conyers, GA",
       "opened": "2026-09-12",
       "date_source": "careers site search listing",
       "deadline": null,
-      "grad_window": "Start July 12, 2027",
-      "live_verified": "no"
+      "grad_window": "Start July 12, 2027; bachelor's in CS or related, under 2 yrs experience preferred",
+      "live_verified": "browser"
     },
     {
       "title": "Data & AI Specialist - BUILD Leadership Program",
       "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/",
       "location": "Atlanta, GA",
-      "opened": "2026-09-11",
+      "opened": "2026-09-12",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.acuityinc.com/search/",
   "jobs_spec": null,
-  "evidence": "Careers site (read via WebFetch, not the browser pane): Growth & Transformation SWE BUILD posting has Apply buttons, July 12 2027 start, bachelor's, 0-2 yrs, no deadline stated; Conyers SWE BUILD listed Sep 12. No citizenship or sponsorship line seen.",
+  "evidence": "Careers site read via WebFetch (no browser in cloud run): Atlanta and Conyers SWE BUILD posting pages show Apply buttons, July 12 2027 start, bachelor's, 0-2 yrs, no deadline, no citizenship or sponsorship line.",
   "confidence": "medium"
 }

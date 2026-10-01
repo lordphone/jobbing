@@ -1,15 +1,15 @@
 {
   "company": "Keurig Dr Pepper",
-  "status": "no_program_found",
-  "jobs_page": "https://careers.keurigdrpepper.com/en/search-jobs",
-  "jobs_spec": null,
-  "evidence": "Board (TalentBrew) 2026-09-30, all 744 postings title-scanned: only US entry software title is Embedded Software Engineer I (Benton Harbor MI, brewer firmware; excluded as firmware). Other 2027 tech postings are co-ops/interns (Data Engineering, Mobile App Development). No new-grad SWE.",
-  "confidence": "high",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
+  "status": "no_program_found",
   "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
+  "jobs_page": "https://careers.keurigdrpepper.com/en/search-jobs",
+  "jobs_spec": null,
+  "evidence": "KDP TalentBrew board searched 2026-10-01 (software, developer, associate engineer, 2027, graduate): only entry software title is Embedded Software Engineer I (Benton Harbor MI, brewer firmware; not counted). Software/IT otherwise co-ops or senior. No new-grad SWE.",
+  "confidence": "high"
 }
