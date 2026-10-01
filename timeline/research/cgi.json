@@ -1,36 +1,96 @@
 {
   "company": "CGI",
-  "tier": 10,
-  "checked": "2026-09-30",
-  "status": "unknown",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Developer \u2013 Entry Level (Reno; req J0926-2371)",
-      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2371&BRID=1336707&lang=1",
+      "title": "Software Developer – Entry Level (J0926-2371)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0926-2371",
       "location": "Reno, NV",
-      "opened": "2026-09 (req number J0926; exact day not read)",
-      "date_source": "req id month",
-      "deadline": null,
+      "opened": "2026-09-28",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-30",
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     },
     {
-      "title": "Software Developer \u2013 Entry Level (Atlanta; req J0826-1365)",
+      "title": "Software Developer – Entry Level (J0826-1390)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1390",
+      "location": "Mobile, AL",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1365)",
       "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1365&BRID=1326953&lang=1",
       "location": "Atlanta, GA",
-      "opened": "2026-08 (req number J0826; exact day not read)",
-      "date_source": "req id month",
-      "deadline": null,
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-09",
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1385)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1385",
+      "location": "Chattanooga, TN",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-12",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1617)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1617",
+      "location": "St. Louis, MO",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1531)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1531",
+      "location": "Chicago, IL",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1487)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1487",
+      "location": "Knoxville, TN",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer – Entry Level (J0826-1382)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0826-1382",
+      "location": "Birmingham, AL",
+      "opened": "2026-08-24",
+      "date_source": "page text (datePosted)",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-03",
   "last_cycle_basis": "tracker first seen 2025-03-31: 'New Grad: Software Developer' Atlanta GA (J0824-1617) and Lebanon VA; earlier 2024-09-25 Entry Level Software Developer (Knoxville). Spring window Jan 15-Apr 4, 2025.",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://cgi.njoyn.com/corp/xweb/xweb.asp?page=joblisting&CLID=21001&categoryID=1319&kwr=CGIEarlyCareers",
   "jobs_spec": null,
-  "evidence": "Browser read the CGI early-careers listing (38 results): ~20 US 'Software Developer - Entry Level' / 'Technical Analyst - Entry Level' reqs (J0726-J0926) plus interns; Fairfax ones say 'Top Secret Clearance Required'. Posting pages hit Radware captcha (not bypassed), so none opened: unknown, not open.",
-  "confidence": "medium"
+  "evidence": "CGI njoyn list shows ~16 non-clearance US 'Software Developer – Entry Level' reqs (Aug-Sep 2026); opened 8 pages with Apply buttons and 'Fall Application Period' end dates. 'Ability to work in the U.S. permanently and without restriction'. Fairfax TS-clearance reqs excluded. Pages fetched, no browser.",
+  "confidence": "high",
+  "checked": "2026-10-01",
+  "tier": 10
 }
