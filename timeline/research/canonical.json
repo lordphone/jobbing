@@ -1,7 +1,7 @@
 {
   "company": "Canonical",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse updated_at (evergreen listing, first_published 2021)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Junior Ubuntu Software Engineer",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/canonical",
   "jobs_spec": "gh:canonical",
-  "evidence": "Opened evergreen 'graduate level' SWE posting 2026-09-30 (WebFetch): Submit application button, Home Based - Americas, Bachelor's, no grad-year limit, no deadline or sponsorship text. Graduate SWE Open Source (2026-08-24) says 2025/2026 grads only (leftover). Junior Ubuntu SWE also live on API.",
+  "evidence": "Greenhouse API 2026-10-01: evergreen 'graduate level' Python Cloud SWE (Americas, updated 2026-08-05) and Junior Ubuntu SWE listed; no grad-year limit. Graduate SWE Open Source (2026-08-24) says 2025/2026 grads (leftover). Posting pages not re-opened.",
   "confidence": "medium"
 }

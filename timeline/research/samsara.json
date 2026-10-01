@@ -1,15 +1,15 @@
 {
   "company": "Samsara",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-08-27",
-  "last_cycle_basis": "tracker first-seen: 'New Grad \u2013 Software Engineering' SF, https://www.samsara.com/company/careers/roles/7172579",
+  "last_cycle_basis": "tracker first-seen: 'New Grad – Software Engineering' SF, https://www.samsara.com/company/careers/roles/7172579",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/samsara",
   "jobs_spec": "gh:samsara",
-  "evidence": "Full gh:samsara board (239, --all) 2026-09-30: no US new-grad SWE; only SWE II, Poland SWE I, sales new-grad roles. Tracker's 2026-08-03 'Software Engineer 1 New Grad' (gh_jid 8097343) returns 404 on Greenhouse API, so closed.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:samsara full board (244, --all) 2026-10-01: no US new-grad SWE (only SWE I Poland, sales new-grad). Tracker's 2026-08-03 'Software Engineer 1 New Grad' (gh_jid 8097343, SF) is gone: Greenhouse API 404 and samsara.com role URL redirects to roles list.",
+  "confidence": "medium"
 }

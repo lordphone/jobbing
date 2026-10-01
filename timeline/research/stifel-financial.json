@@ -1,15 +1,15 @@
 {
   "company": "Stifel Financial",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (per builtin.com listing), no confirmed date",
+  "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (builtin.com listing), no confirmed date",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS search via WebFetch (software): only Sr Developer Full Stack, Cloud/Security engineers, service desk and product owner. No entry-level SWE, tech program or 2027 tech role. WebFetch summary, not browser pane.",
-  "confidence": "medium"
+  "evidence": "iCIMS has no API; WebFetch returns only the careers landing page (Campus Connection link), no job list. Earlier WebFetch found no SWE roles. Board unreadable: no browser in cloud run. Retry with browser.",
+  "confidence": "low"
 }

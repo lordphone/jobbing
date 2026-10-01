@@ -1,7 +1,7 @@
 {
   "company": "JPMorgan Chase",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "jobs.py detail returns both 2027 Software Engineer Program postings (Jul and Feb start), posted 2026-08-03, API end date 2026-11-06; still served by API 2026-09-30. No employment-based sponsorship, no OPT/CPT.",
+  "evidence": "jobs.py detail 2026-10-01 returns both 2027 Software Engineer Program postings (Jul and Feb start), posted 2026-08-03, end date 2026-11-06. No employment-based sponsorship, no OPT/CPT.",
   "confidence": "high"
 }

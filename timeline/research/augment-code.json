@@ -1,7 +1,7 @@
 {
   "company": "Augment Code",
   "tier": 2,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/augmentcomputing",
   "jobs_spec": "gh:augmentcomputing",
-  "evidence": "augmentcode.com/careers shows no open positions; gh:augmentcomputing empty. No roles to evaluate.",
-  "confidence": "high"
+  "evidence": "gh:augmentcomputing returns 0 postings (slug confirmed by search results); careers page JS-rendered, WebFetch showed no listings (no browser in cloud run). No roles seen; may be a hiring pause.",
+  "confidence": "medium"
 }

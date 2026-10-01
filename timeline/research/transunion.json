@@ -1,15 +1,15 @@
 {
   "company": "TransUnion",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history has no posting 2025-07 to 2026-01; nearest is 'Entry Level Software Engineer' (Boca Raton FL) 2026-02-18, outside window.",
+  "last_cycle_opened": "2026-02-18",
+  "last_cycle_basis": "tracker history: 'Entry Level Software Engineer' (Boca Raton FL) first seen 2026-02-18; outside Jul-Jan window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
   "jobs_spec": "wd:transunion/wd5/TransUnion",
-  "evidence": "Workday board re-read 2026-09-30 (84 postings): SWE/dev roles are Senior/Lead/Architect or non-US; only Summer 2027 Argus Advisory internship and BDR college recruiting are early-career. No entry SWE role live.",
-  "confidence": "high"
+  "evidence": "Workday board read 2026-10-01 (--all): SWE/dev roles are Senior/Lead/Architect or India/Costa Rica; only 2027 intern (Argus Advisory) and a BDR college role in the US. No entry-level SWE posting.",
+  "confidence": "medium"
 }

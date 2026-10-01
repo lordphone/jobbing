@@ -1,7 +1,7 @@
 {
   "company": "Meta",
   "tier": 1,
-  "status": "not_yet",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-07-07",
   "last_cycle_basis": "jobs.py history: 'Software Engineer \u2013 University Grad - Research Infrastructure' (Burlingame/Redmond) first seen 2025-07-07, https://www.metacareers.com/jobs/23968798566082979; main SWE UG roles seen mid-Aug 2025 (tracker 2025-08-14)",
@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.metacareers.com/jobsearch/?teams%5B0%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&offices%5B0%5D=USA",
   "jobs_spec": null,
-  "evidence": "Browser 2026-09-30: University Grad - Engineering, Tech & Design + USA filter shows 0 items; keyword 'University Grad' + USA also 0. Earlier check found only non-US and PhD research roles. Last cycle main SWE UG roles mid-Aug 2025.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run: WebFetch of metacareers.com returns an empty shell, no API. Prior browser check 2026-09-30 showed 0 University Grad US items (not_yet); cannot re-verify today.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

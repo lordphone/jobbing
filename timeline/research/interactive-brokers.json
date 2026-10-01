@@ -1,8 +1,8 @@
 {
   "company": "Interactive Brokers",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Nothing dated found; hires entry developers ad hoc.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL",
   "jobs_spec": null,
-  "evidence": "Browser pane, all 8 Dayforce pages read: Software Developer Summer Internship 2027 (Aug 19), software roles are II/III/Senior (3+ yrs). No entry full-time SWE. Hires entry devs ad hoc.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: Dayforce portal has no API and WebFetch returns an empty shell. Prior browser read 2026-09-30 (8 pages): only Summer 2027 internship, software roles II/III/Senior; retry with browser.",
+  "confidence": "low"
 }

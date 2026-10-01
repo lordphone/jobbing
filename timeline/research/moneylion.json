@@ -1,7 +1,7 @@
 {
   "company": "MoneyLion (Gen Digital)",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     },
     {
       "title": "AI & Machine Learning Engineer 1",
@@ -22,7 +22,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gen-digital",
   "jobs_spec": "ashby:gen-digital",
-  "evidence": "Ashby gen-digital (122) checked: US engineering roles are Senior/Lead/Principal; only entry roles are Czechia/Malaysia interns. Tracker ML Engineer 1 (Mountain View, 2026-06-26 and 2026-07-08) postings are gone from the board, so closed.",
+  "evidence": "Ashby gen-digital (121): US engineering roles Senior/Lead/Principal or ML Engineer II / Full Stack (10+ yrs). Tracker 'Engineer 1' postings (2026-06-26, 2026-07-08) are off the board and Ashby posting API returns null, so closed.",
   "confidence": "medium"
 }

@@ -1,8 +1,8 @@
 {
   "company": "Moody's",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history hit. Early-careers page says the Technology Rotation Program (New York, 2 years, three 8-month rotations) exists and early-career roles start posting in September; no dated posting found.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.moodys.com/en/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.moodys.com 2026-09-30: Students & Early Careers category (first page only; filters/pagination would not apply) shows interns and Sales Rotation Associate, no US tech rotation posting; 'software engineer' search shows Senior/Staff/Principal US roles. Earlier-pass Charlotte SWE (2 yrs, master's) not reproduced.",
+  "evidence": "no browser in cloud run: search-jobs filters/pagination would not apply via WebFetch (first page only, 336 jobs). Early-careers page lists a Tech Rotation Program with no dates. Prior browser pass saw no US tech rotation posting (not_yet); cannot confirm.",
   "confidence": "low"
 }

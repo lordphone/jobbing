@@ -1,15 +1,15 @@
 {
   "company": "Coinbase",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "gh:coinbase tracker history shows only 2024-09/10 Data Engineer; nothing in 2025-07 to 2026-01 window.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.coinbase.com/careers/positions",
   "jobs_spec": "gh:coinbase",
-  "evidence": "gh:coinbase board (214, --all) checked 2026-09-30: interns (2027-type, non-SWE and SWE) and experienced SWE roles; no new-grad or entry-level SWE this cycle or last.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:coinbase (222, --all) 2026-10-01: 2027-type interns and experienced SWE/ML roles only; no new-grad or entry-level SWE this cycle or last.",
+  "confidence": "high"
 }

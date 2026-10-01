@@ -1,8 +1,8 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "2027 Graduate Talent Program - Technology - NY/NJ",
@@ -12,7 +12,7 @@
       "date_source": "page text (live on jobs.ubs.com; ref 341211BR; no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Opened job 348622 in browser 2026-09-30: Apply button, full-stack SWE/data engineer graduate (Java, Python, React), grad Dec 2026-Jun 2027, $105-110k. 'Not eligible for any employment-based immigration sponsorship' incl. OPT/CPT. Raleigh version from earlier pass not re-found; no deadline stated.",
-  "confidence": "high"
+  "evidence": "no browser in cloud run: WebFetch of job 348622 (siteid 5176) says 'expired or filled' but jobs.ubs.com is a JS app and WebFetch gave the same text for any URL. Prior browser read 2026-09-30 saw Apply live. Unconfirmed; retry in browser.",
+  "confidence": "low"
 }

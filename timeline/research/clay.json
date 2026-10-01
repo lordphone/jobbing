@@ -1,15 +1,26 @@
 {
   "company": "Clay",
   "tier": 2,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Early Career Software Engineer",
+      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
+      "location": "New York, NY",
+      "opened": "2026-10-01",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2024-10-17",
-  "last_cycle_basis": "tracker history: 'Software Engineer Early Career (2025)' posted 2024-10-17 (ashby claylabs); that is two cycles back. No early-career posting found in the 2025-07 to 2026-01 window.",
+  "last_cycle_basis": "tracker history: 'Software Engineer Early Career (2025)' posted 2024-10-17 (ashby claylabs); no early-career posting found in 2025-07 to 2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/claylabs",
   "jobs_spec": "ashby:claylabs",
-  "evidence": "Read all 57 Ashby postings; opened SWE ones: Backend, Full Stack 4+ yrs, Data Products/Infra 8+, GTM Ops 4+ (2026-09-24), Applied AI wants production LLM/agent experience. No early-career title now; Clay ran one in 2024-10. Same as previous check.",
-  "confidence": "medium"
+  "evidence": "Ashby board lists 'Early Career Software Engineer' (New York), publishedAt 2026-10-01, text asks recently graduated/graduating CS; read via API, no sponsorship/citizenship lines. Previous file (not_yet) predates this posting.",
+  "confidence": "high"
 }

@@ -1,26 +1,26 @@
 {
   "company": "Citadel Securities",
-  "tier": 4,
-  "checked": "2026-09-30",
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer - University Graduate (US)",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-      "location": "New York, Miami",
+      "location": "New York, NY; Miami, FL",
       "opened": "on or before 2026-09-28",
-      "date_source": "page text (live; no date shown)",
+      "date_source": "page text (live; no date shown) per prior run",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-07-05",
   "last_cycle_basis": "Prior-year University Graduate roles at Citadel Securities first seen 2025-07-05 (tracker).",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.citadelsecurities.com/careers/open-opportunities/",
   "jobs_spec": null,
-  "evidence": "Opened in browser 2026-09-30: 'Start Application' present, New York/Miami, no citizenship language, no deadline. Exact posting date not shown; Citadel's equivalent role first seen 2026-07-05.",
-  "confidence": "high"
+  "evidence": "Posting page returns 403 to WebFetch; no browser in cloud run. Prior run (2026-09-30, browser) saw Start Application, NY/Miami, no citizenship text, no deadline; likely open but not re-verified.",
+  "confidence": "low",
+  "tier": 4,
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,28 +1,38 @@
 {
   "company": "Atlassian",
   "tier": 3,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, 2027 Graduate U.S.",
       "url": "https://www.atlassian.com/company/careers/details/25813",
       "location": "Seattle, WA",
-      "opened": "on or before 2026-09-14",
+      "opened": "on or before 2026-09-15",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": "graduating by August 2027",
-      "live_verified": "browser",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Machine Learning Engineer, 2027 Graduate U.S.",
       "url": "https://www.atlassian.com/company/careers/details/25999",
       "location": "Seattle, WA",
-      "opened": "2026-09-14",
+      "opened": "on or before 2026-09-24",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": "graduating by August 2027",
-      "live_verified": "browser",
-      "deadline": null
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, 2027 Graduate Canada",
+      "url": "https://www.atlassian.com/company/careers/details/26070",
+      "location": "Canada (no city listed)",
+      "opened": "on or before 2026-09-09",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "graduating by August 2027",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-03",
@@ -31,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.atlassian.com/company/careers/all-jobs?team=Graduates",
   "jobs_spec": null,
-  "evidence": "Opened both Graduates postings (25813 SWE, 25999 MLE) in browser 2026-09-30: Apply button present, Seattle, graduating by Aug 2027; text: 'not eligible for F1 and J1 students... not available for any work sponsorship.' No deadline stated.",
+  "evidence": "Atlassian's own listings feed (atlassian.com/endpoint/careers/listings) 2026-10-01 lists all three 2027 Graduate SWE/MLE postings with apply URLs. US roles: 'not eligible for F1 and J1 students... not available for any work sponsorship'; Canada: not eligible for sponsorship. No deadline stated.",
   "confidence": "high"
 }

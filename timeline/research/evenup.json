@@ -1,26 +1,26 @@
 {
   "company": "EvenUp",
   "tier": 2,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (New Grad), AI Entities",
       "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5",
-      "location": "San Francisco (hybrid); Toronto",
-      "opened": "on or before 2026-09-30",
-      "date_source": "tracker first seen",
+      "location": "San Francisco, CA (hybrid)",
+      "opened": "2026-09-30",
+      "date_source": "ashby publishedDate (GraphQL)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-14",
-  "last_cycle_basis": "Tracker first seen 'Software Engineer – New Graduate' (SF/Toronto) https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d; also Early Career ML Engineer 2025-06/07.",
+  "last_cycle_basis": "Tracker first seen 'Software Engineer \u2013 New Graduate' (SF/Toronto) https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d; also Early Career ML Engineer 2025-06/07; new-grad SWE again Apr 2026.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/evenup",
   "jobs_spec": null,
-  "evidence": "Ashby public board read via GraphQL (43 postings) and posting opened in browser (Apply for this Job shown). New Grad SWE, SF hybrid; no class year, years ask or sponsorship line, no deadline. Earlier Apr 2026 new-grad postings are gone.",
-  "confidence": "high"
+  "evidence": "Ashby GraphQL board (45 postings) lists the New Grad SWE posting, published 2026-09-30; posting fetched with full text (BS/MS CS, no class year, no sponsorship line). Apr 2026 new-grad postings gone. Not opened in browser (none in cloud run).",
+  "confidence": "medium"
 }

@@ -1,5 +1,7 @@
 {
   "company": "DoorDash",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -15,12 +17,10 @@
   ],
   "last_cycle_opened": "2025-10-06",
   "last_cycle_basis": "Tracker first seen 'New Grad: Software Engineer I' (Fall 2025-Summer 2026 grads) 2025-10-06; earlier 2025-07-30 listing.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doordashusa",
   "jobs_spec": "gh:doordashusa",
-  "evidence": "gh:doordashusa board (460) 2026-09-30: live SWE I Entry-Level posting, published 2026-09-04; page fetched shows apply form. Asks 2 prior SWE internships or equivalent. No citizenship/clearance line, no deadline stated.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:doordashusa (465, --all) 2026-10-01: SWE I Entry-Level (grad Fall 2026-Summer 2027) published 2026-09-04, listed on board, updated 2026-09-29. Wants 2 internships or equivalent. No citizenship/clearance line, no deadline.",
+  "confidence": "high"
 }

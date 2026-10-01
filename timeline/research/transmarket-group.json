@@ -1,13 +1,12 @@
 {
   "company": "TransMarket Group",
   "tier": 4,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007",
-      "location": "Chicago, Illinois, United States",
+      "location": "Chicago, IL",
       "opened": "2026-06-02",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -17,7 +16,7 @@
     {
       "title": "Junior Data Engineer",
       "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007",
-      "location": "Chicago, Illinois, United States",
+      "location": "Chicago, IL",
       "opened": "2026-06-02",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -27,10 +26,11 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history: Junior Software Engineer first seen 2026-04-19 (outside the Jul 2025-Jan 2026 window); Python Developer / Data Engineer 2025-06-07. Rolling junior postings.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/transmarketgroup",
   "jobs_spec": "gh:transmarketgroup",
-  "evidence": "Greenhouse API lists Junior Software Engineer and Junior Data Engineer, both entry-level (BA/BS, no years ask, no class year). No sponsorship or citizenship text. Rolling, not class-specific; no deadline stated.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-01 lists Junior Software Engineer and Junior Data Engineer, entry-level, rolling, no class year, no sponsorship/citizenship text found; no deadline stated.",
+  "confidence": "medium",
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

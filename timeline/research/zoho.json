@@ -1,8 +1,8 @@
 {
   "company": "Zoho",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.zoho.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page fetched again: no US SWE or graduate program listed; candidate portal only (careers.zohocorp.com), no API to list all jobs. Engineering India-based.",
+  "evidence": "careers.zohocorp.com job list is JavaScript-rendered; WebFetch returned only header, no API. Could not read board: no browser in cloud run. Prior check saw no US SWE/grad program; engineering India-based. Retry with browser.",
   "confidence": "low"
 }

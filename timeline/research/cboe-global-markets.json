@@ -1,8 +1,7 @@
 {
   "company": "Cboe Global Markets",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "status": "unknown",
   "postings": [
     {
       "title": "Associate Software Engineer - Web",
@@ -10,9 +9,9 @@
       "location": "Kansas City, MO",
       "opened": "2026-08-04",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +20,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE",
   "jobs_spec": "wd:cboe/wd1/External_Career_CBOE",
-  "evidence": "Tracker saw Associate SWE - Web (Kansas City) 2026-08-04; gone from Workday API (53 postings). Live: interns and unleveled Software Engineer R-4636-2 (2+ yrs, no sponsorship). no_sponsorship from that live posting.",
-  "confidence": "medium"
+  "evidence": "Workday API --all: tracker's Associate SWE - Web (Kansas City, 2026-08-04) not on board, but posting page not opened (no browser in cloud run), so not confirmed closed. Live: interns; Software Engineer R-4636-2 Chicago, no sponsorship.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

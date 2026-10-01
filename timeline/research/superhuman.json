@@ -1,5 +1,7 @@
 {
   "company": "Superhuman (Grammarly)",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -10,17 +12,15 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "graduating in 2026 or 2027",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history only shows this cycle's posting (2026-09-14); no 2025-07 to 2026-01 posting found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc",
   "jobs_spec": "ashby:Superhuman%20Platform%20Inc",
-  "evidence": "Opened posting in browser 2026-09-30: live, SF/Seattle, $130-150K, degree graduating in 2026 or 2027. No sponsorship, citizenship or deadline text found.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "ashby Superhuman Platform Inc (70, --all) 2026-10-01: SWE Early Career published 2026-09-14, listed on board, SF and Seattle hubs, graduating 2026 or 2027; prior run saw it live. No sponsorship/citizenship/deadline text.",
+  "confidence": "high"
 }

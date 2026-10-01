@@ -1,15 +1,15 @@
 {
   "company": "Flexport",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-10-04",
   "last_cycle_basis": "jobs.py history: 'Software Engineer 1 - Import Team' Bellevue first seen 2025-10-04; 'Software Engineer I, Finance' SF 2025-11-19",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/flexport",
   "jobs_spec": "gh:flexport",
-  "evidence": "Full gh:flexport board (205, --all) 2026-09-30: SWE I/II only in China/Amsterdam; no US SWE entry-level live. Earlier US SWE 1 postings (Bellevue, SF) closed in 2025-26.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:flexport full board (200, --all) 2026-10-01: SWE I only in Beijing/Shanghai; new-grad titles are sales and warehouse Area Manager. No US SWE entry-level live; earlier US SWE 1 postings closed.",
+  "confidence": "medium"
 }

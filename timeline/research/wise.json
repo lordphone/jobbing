@@ -1,7 +1,7 @@
 {
   "company": "Wise",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -16,11 +16,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no 2025 posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst (this cycle)",
+  "last_cycle_basis": "no 2025 posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/Wise",
   "jobs_spec": "sr:Wise",
-  "evidence": "Austin 'Graduate Software Engineer' released 2026-09-22 (grads 2026/27, no sponsorship) but SmartRecruiters API says active=false and it is absent from the 415-posting live board; no other US entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Austin 'Graduate Software Engineer' released 2026-09-22; SmartRecruiters posting API returns active=false and it is absent from the live board (411). Posting says no immigration sponsorship. No other US entry-level SWE.",
+  "confidence": "medium"
 }

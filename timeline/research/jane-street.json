@@ -1,26 +1,26 @@
 {
   "company": "Jane Street",
-  "tier": 4,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (Full-Time: New Grad)",
       "url": "https://www.janestreet.com/join-jane-street/position/8594541002/",
-      "location": "New York",
+      "location": "New York, NY",
       "opened": "2026-07-06",
-      "date_source": "greenhouse first_published",
+      "date_source": "tracker first seen (2026-07-07) and greenhouse first_published of sibling NYC SWE reqs (2026-07-06)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "page fetch (WebFetch; Apply button seen)"
     }
   ],
   "last_cycle_opened": "2025-07-10",
   "last_cycle_basis": "jobs.py history tracker first-seen for prior cycle's full-time SWE posting.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.janestreet.com/join-jane-street/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "2026-09-30: Students and New Grads list (New York) shows Software Engineer, Full-Time: New Grad, accepting applications; posting page has Apply, no experience required, no deadline or citizenship text. First published 2026-07-06 per Greenhouse API.",
-  "confidence": "high"
+  "evidence": "2026-10-01 WebFetch of posting 8594541002: Software Engineer, NYC, Apply button, no citizenship/sponsorship text, no deadline. Page text doesn't say New Grad (earlier browser check 2026-09-30 did); board list API omits this req.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

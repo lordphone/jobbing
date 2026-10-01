@@ -1,7 +1,7 @@
 {
   "company": "Apple",
   "tier": 1,
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
@@ -10,7 +10,7 @@
       "opened": "2026-07-30",
       "date_source": "page text",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -20,7 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.apple.com",
   "jobs_spec": null,
-  "evidence": "Reopened posting in browser 2026-09-30: Submit Resume present, posted Jul 30 2026, Bachelors/Masters, 0-2 years SWE, no deadline or citizenship text. No class-year wording; Apple has no labeled 2027 new-grad program, so entry-level counted; medium.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run: WebFetch of jobs.apple.com returns only nav/footer, no API. Prior browser run 2026-09-30 found this posting live (Submit Resume, posted 2026-07-30, 0-2 yrs); not re-verified today.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

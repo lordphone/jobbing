@@ -1,8 +1,8 @@
 {
   "company": "Sallie Mae (SLM Corporation)",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Nothing found.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://sallie-mae.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:sallie-mae/wd5/Careers",
-  "evidence": "Browser: Workday board, 19 jobs. Only Early Career Development Program roles are Analytics and Lines of Defense (Newark DE), not SWE. No engineering roles at all. (API returns 422.)",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: Workday API not found and WebFetch returns empty. Prior browser read 2026-09-30 (19 jobs): only Analytics and Lines of Defense early-career roles (Newark DE), no engineering; retry with browser.",
+  "confidence": "low"
 }

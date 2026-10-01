@@ -1,7 +1,7 @@
 {
   "company": "Quantlab Financial",
   "tier": 4,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.quantlab.com/careers",
   "jobs_spec": null,
-  "evidence": "quantlab.com/careers, ?p=jobs and jobvite board return S3 AccessDenied in browser pane and WebFetch; could not read first-party board. Web search shows only generic intern and Quantitative Developer listings.",
+  "evidence": "no browser in cloud run: quantlab.com/careers and jobs.jobvite.com/quantlab return 403 AccessDenied to curl and WebFetch. 1 web search shows only generic intern and Quantitative Developer listings; no board read.",
   "confidence": "low"
 }

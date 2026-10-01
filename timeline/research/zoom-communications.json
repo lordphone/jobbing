@@ -1,7 +1,7 @@
 {
   "company": "Zoom Communications",
   "tier": 6,
-  "status": "closed",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker first seen 'Software Engineer' Remote (Zoom Workday)",
@@ -9,7 +9,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "jobs_spec": "wd:zoom/wd5/Zoom",
-  "evidence": "Workday API (22 postings): SDE roles read (R19559) need 2+ years and 'Immigration sponsorship is not available'. Tracker's 2026-09 San Jose SWE postings (R19357, R19646) are gone from the board, so closed; no entry-level SWE live.",
+  "evidence": "Workday API (22 postings) 2026-10-01: 8 US SDE/SWE roles read all need 2-4 yrs and say 'Immigration sponsorship is not available'; none entry-level. Tracker's Sept SWE postings R19357/R19646 return permission denied (gone), but never confirmed entry-level, so not_yet not closed (was closed).",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

@@ -1,15 +1,26 @@
 {
   "company": "M&T Bank",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Technology Development Program - Software Engineering",
+      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039",
+      "location": "Buffalo, NY",
+      "opened": "2026-10-01",
+      "date_source": "workday postedOn 'Posted Today' / startDate",
+      "deadline": null,
+      "grad_window": "2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-07-30",
   "last_cycle_basis": "tracker first-seen 2025-07-30 'Technology Development Program - Software Engineering' Buffalo NY (Campus board)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://mtb.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mtb/wd5/Campus",
-  "evidence": "Campus board (45 postings, --all): 2027 programs are Management Development, Executive Associate, Enterprise Operations, Credit Analyst; 'IS Forward Deployed Product Analyst' MDP read: product/business analyst track, not SWE. Last year's Technology Development Program (SWE) not reposted.",
+  "evidence": "New since earlier file: Campus Workday board lists '2027 Technology Development Program - Software Engineering' (Buffalo, posted today) and a Cybersecurity track. Posting says work visa sponsorship not offered. No deadline stated. Earlier not_yet superseded.",
   "confidence": "high"
 }

@@ -1,8 +1,7 @@
 {
   "company": "Tradeweb Markets",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history only has experienced roles (C++ Developer NYC 2026-05-06); no dated new-grad posting found.",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://tradeweb.dejobs.org/jobs/",
   "jobs_spec": null,
-  "evidence": "Browser pane on dejobs.org, all 47 jobs read: Summer 2027 internships plus experienced roles (C++ Application Developer, AI Production Support Engineer). No full-time entry SWE.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: dejobs.org list returns empty to WebFetch. Web search shows only Summer 2027 internships. Prior browser read 2026-09-30 (47 jobs) found no full-time entry SWE; retry with browser.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

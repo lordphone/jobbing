@@ -1,36 +1,36 @@
 {
   "company": "Susquehanna International Group (SIG)",
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Quantitative Strategy Developer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
-      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "location": "Bala Cynwyd, PA",
       "opened": "2026-08-19",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "begin full-time employment by August 2027",
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Trading System Engineer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job",
-      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "location": "Bala Cynwyd, PA",
       "opened": "2026-08-21",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "new graduates, 2027 start",
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08-26",
   "last_cycle_basis": "tracker history first seen 2025-08-26",
   "jobs_page": "https://careers-sig.icims.com",
   "jobs_spec": null,
-  "evidence": "Browser pane on careers-sig.icims.com: New Graduates filter lists Quantitative Strategy Developer and Trading System Engineer (Software Engineering, Bala Cynwyd); posting 11321 read, Apply present, begin by Aug 2027. No deadline or sponsorship line seen.",
-  "confidence": "high",
+  "evidence": "no browser in cloud run: iCIMS posting pages render via JavaScript; WebFetch returned only header/footer. Prior file (browser, 2026-09-30) found New Grad Quant Strategy Developer and Trading System Engineer open; not reconfirmed.",
+  "confidence": "low",
   "tier": 4,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "excluded_reason": null,
   "no_sponsorship": false
 }

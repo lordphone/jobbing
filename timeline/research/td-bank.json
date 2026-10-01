@@ -1,15 +1,36 @@
 {
   "company": "TD Bank (TD Bank Group)",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2024-10-08",
-  "last_cycle_basis": "tracker first-seen 2024-10-08 'New Grad 2025: Data Engineer Analyst' New York (two cycles back); no US SWE new-grad posting found for 2025-26",
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-01",
+      "date_source": "workday postedOn 'Posted Today' / startDate",
+      "deadline": "2026-10-08",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-10",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-08-25",
+  "last_cycle_basis": "tracker first-seen 2025-08-25 'Machine Learning Engineer I' Toronto (also SWE I 2025-05-22); NY 'New Grad 2025' 2024-10-08 two cycles back",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday --all (159): Software Engineer I roles are Toronto/London Ontario; 2027 Technology Graduate Programme is Dublin. US tech is 2027 Spring Co-op/Summer Internship (Mount Laurel NJ). No US full-time new-grad SWE live.",
-  "confidence": "high"
+  "evidence": "Workday API: two live 'Software Engineer I' in Toronto (entry-level title; deadlines 2026-10-08 and 2026-10-10 from endDate). Not a class-year program; counts as entry-level Toronto. 2027 Technology Graduate Programme is Dublin only; US tech is internship. Earlier not_yet superseded since Toronto counts.",
+  "confidence": "medium"
 }

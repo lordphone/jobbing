@@ -1,26 +1,26 @@
 {
   "company": "AllianceBernstein",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
       "title": "Software Development Associate",
       "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0019882",
       "location": "Nashville, TN",
-      "opened": "2026-09-15",
-      "date_source": "workday startDate/postedOn (tracker first seen 2026-09-14)",
+      "opened": "2026-09-14",
+      "date_source": "tracker first seen 2026-09-14 (workday startDate 2026-09-15)",
+      "deadline": null,
       "grad_window": "Dec 2026 or May/June 2027",
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-16",
-  "last_cycle_basis": "Tracker history: 'Software Development Associate' (Nashville) first seen 2025-09-16, tagged offers sponsor then; this cycle requires citizenship/PR.",
-  "excluded_reason": "citizenship / green card",
+  "last_cycle_basis": "tracker history: 'Software Development Associate' (Nashville) first seen 2025-09-16, tagged offers sponsor then",
+  "excluded_reason": "citizenship | green card",
   "no_sponsorship": true,
   "jobs_page": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
   "jobs_spec": "wd:abglobal/wd1/abcampuscareers",
-  "evidence": "Re-read 2026-09-30: live 2-year Software Development Associate program; posting says 'Citizen or Permanent Resident (must be able to work in the U.S. without visa sponsorship now or in the future)'. Excluded. No deadline stated.",
+  "evidence": "Campus board read 2026-10-01, posting live via API: 2-year Software Development Associate program; 'Must be a U.S. Citizen or Permanent Resident (must be able to work in the U.S. without visa sponsorship now or in the future)'. Excluded. No deadline stated.",
   "confidence": "high"
 }

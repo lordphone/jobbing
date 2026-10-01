@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
   "jobs_spec": null,
-  "evidence": "jobs.uber.com listing pages in browser show 'Job removed' for every result and no live new-grad SWE found; tracker lead 'Software Engineer I' (first seen 2026-07-09, job 160017) returns 404. A this-cycle posting existed and is gone. Board search is weak, so medium.",
+  "evidence": "No browser in cloud run. WebFetch: tracker lead jobs.uber.com/en/jobs/160017 (SWE I, first seen 2026-07-09) returns 404; job list renders 'Loading jobs' only, so no live new-grad SWE could be seen. This-cycle posting gone; board unreadable, so medium.",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

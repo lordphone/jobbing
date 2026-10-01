@@ -1,8 +1,8 @@
 {
   "company": "Cohesity",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer New Grad",
@@ -12,15 +12,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-11-14",
-  "last_cycle_basis": "tracker first-seen, 'AI Software Engineer-New Graduate', Santa Clara CA (also New College Graduate 2026-04-09)",
+  "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA (also New College Graduate 2026-04-09)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
   "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
-  "evidence": "Workday 24 postings, none SWE in US. Tracker first saw 'Software Engineer New Grad' Santa Clara 2026-08-10 (titled New Grad 2026 on aggregators); no longer on board. Recurring track (Nov 2025, Apr 2026, Aug 2026).",
-  "confidence": "medium"
+  "evidence": "Workday API 24 postings, none SWE. 'Software Engineer New Grad' Santa Clara (tracker 2026-08-10) is NOT ON THE BOARD; page unreadable via WebFetch and no browser in cloud run, so closure unconfirmed. Recurring track.",
+  "confidence": "low"
 }

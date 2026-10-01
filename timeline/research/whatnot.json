@@ -1,18 +1,18 @@
 {
   "company": "Whatnot",
   "tier": 3,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, 2027 New Grad",
       "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
-      "location": "New York, NY; Los Angeles, CA; San Francisco, CA; Seattle, WA (hybrid)",
-      "opened": "on or before 2026-08-31",
-      "date_source": "tracker first seen",
-      "grad_window": "graduate by Summer 2027",
-      "live_verified": "browser",
-      "deadline": null
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
+      "opened": "2026-08-31",
+      "date_source": "ashby publishedDate",
+      "deadline": null,
+      "grad_window": "graduated by Summer 2027",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-04",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whatnot",
   "jobs_spec": null,
-  "evidence": "Opened Whatnot Ashby posting in browser 2026-09-30: 'Apply for this Job' button live, graduate by Summer 2027, no sponsorship/citizenship text, no deadline. Board list also shows SWE Intern Summer 2027; no other new-grad SWE.",
-  "confidence": "high"
+  "evidence": "No browser in cloud run; read Ashby's public job-posting GraphQL: posting live, published 2026-08-31, no sponsorship/citizenship text, no deadline. Board also lists SWE Intern Summer 2027; no other new-grad SWE.",
+  "confidence": "medium"
 }

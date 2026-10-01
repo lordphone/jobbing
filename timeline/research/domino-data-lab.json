@@ -1,34 +1,36 @@
 {
   "company": "Domino Data Lab",
   "tier": 2,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - New Grad, 2027",
       "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
-      "location": "New York City, NY",
+      "location": "New York, NY; Remote (US)",
       "opened": "2026-09-09",
       "date_source": "greenhouse first_published",
-      "grad_window": "Graduating Spring 2027",
-      "live_verified": "browser"
+      "deadline": null,
+      "grad_window": "Spring 2027 graduation",
+      "live_verified": "api"
     },
     {
       "title": "Forward Deployed Engineer - New Grad, 2027",
       "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
-      "location": "New York City, NY",
+      "location": "New York, NY; Remote (US)",
       "opened": "2026-09-09",
       "date_source": "greenhouse first_published",
-      "grad_window": "Graduating Spring 2027",
-      "live_verified": "browser"
+      "deadline": null,
+      "grad_window": "Spring 2027 graduation",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-03",
-  "last_cycle_basis": "Tracker first seen 'Forward Deployed Engineer – New Grad - 2026' and 'Software Engineer – New Grad - Campus Recruiting 2026' 2025-10-03.",
+  "last_cycle_basis": "Tracker first seen 'Forward Deployed Engineer \u2013 New Grad - 2026' and 'Software Engineer \u2013 New Grad - Campus Recruiting 2026' 2025-10-03.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/dominodatalab",
   "jobs_spec": "gh:dominodatalab",
-  "evidence": "Greenhouse API listing: both 2027 New Grad postings live (first published 2026-09-09); SWE posting re-opened in browser, Apply button shown. Spring 2027 grad, NYC. Visa sponsorship 'may be available'. 2027 interns not counted.",
+  "evidence": "Greenhouse API listing and detail: both 2027 New Grad postings live (first published 2026-09-09, updated 2026-09-23). Spring 2027 grad. Visa sponsorship 'may be available'. Not browser-checked (cloud run).",
   "confidence": "high"
 }

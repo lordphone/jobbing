@@ -1,8 +1,8 @@
 {
   "company": "Vista Equity Partners",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers2-vistaequitypartners.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "Vista iCIMS board (no API) re-read 2026-09-30: all postings Director/Principal/Architect level (agentic engineering, AI Ops, value creation). No entry-level SWE; engineering hiring is at portfolio companies.",
-  "confidence": "medium"
+  "evidence": "iCIMS board has no API and WebFetch returned no listings (JS-rendered); no browser in cloud run. Web search showed only PE analyst internships. Earlier 2026-09-30 browser read found only Director/Principal/Architect roles, so likely no_program_found.",
+  "confidence": "low"
 }

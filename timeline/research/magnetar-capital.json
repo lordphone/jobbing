@@ -1,15 +1,15 @@
 {
   "company": "Magnetar Capital",
   "tier": 4,
-  "checked": "2026-09-30",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "SimplifyJobs/vanshb03 tracker history: no matches for Magnetar",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/magnetar",
   "jobs_spec": "gh:magnetar",
-  "evidence": "Own Greenhouse board (--all): only 2 non-tech postings (Portfolio Finance Reporting Analyst, Senior Associate Fund Finance), no SWE. No tracker history.",
-  "confidence": "high"
+  "evidence": "jobs.py gh:magnetar 2026-10-01: board has only 2 postings, none SWE (finance roles per earlier check). No tracker history.",
+  "confidence": "high",
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }
