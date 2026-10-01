@@ -11,7 +11,7 @@
       "date_source": "page text: pipeline position opened on a recurring basis",
       "deadline": null,
       "grad_window": "BS CS/EE, 0-2 yrs; text says start in 2026",
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer - ANF (Azure NetApp Files)",
@@ -21,16 +21,16 @@
       "date_source": "page text: pipeline position opened on a recurring basis",
       "deadline": null,
       "grad_window": "Master's CS/EE with 0+ yrs (or BS with 2+ yrs)",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history shows only 2024 postings for NetApp (earliest 2024-08-25 New Grad: Software Engineer); none 2025-07..2026-01; no last-cycle date found",
   "jobs_page": "https://careers.netapp.com/engineering-careers",
   "jobs_spec": null,
-  "evidence": "careers.netapp.com search (server-rendered, keyword searches) plus both ANF posting pages via WebFetch: Apply button shown on both; entry-level BS 0-2 yrs and Master's 0+ yrs variants, no sponsorship text, no deadline. Rolling pipeline; 'start 2026' text is stale. Wichita intern only otherwise.",
+  "evidence": "Both ANF posting pages re-fetched via WebFetch 2026-10-01: Apply button present; entry-level BS and Master's 0+ yrs variants; no sponsorship text, no posted date or deadline. Rolling pipeline; 'start 2026' text stale. Search not readable without browser.",
   "confidence": "medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "no_sponsorship": false,
   "excluded_reason": null
 }

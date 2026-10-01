@@ -7,9 +7,9 @@
   "last_cycle_basis": "none found",
   "jobs_page": "https://amphenol.com/careers",
   "jobs_spec": null,
-  "evidence": "amphenol.com/careers returns 403 to WebFetch/curl; it lists ~150 decentralized business units. Read one division board (amphenol-tcs.acquiretm.com, 99 of 339 jobs listed): no entry SWE, only firmware manager, PLM/AI enablement, hardware. No corporate SWE new-grad program found.",
+  "evidence": "no browser in cloud run. amphenol.com/careers returns 403 to WebFetch/curl. Earlier read of one division board showed no entry SWE; decentralized units, no corporate SWE new-grad program found. Retry with browser.",
   "confidence": "low",
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "excluded_reason": null,
   "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "Microchip Technology",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,6 +9,16 @@
       "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3962-26",
       "location": "Houston, TX",
       "opened": "2026-09-18",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Engineer I-Software Development (second req)",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26",
+      "location": "Houston, TX",
+      "opened": "2026-10-01",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://microchiphr.wd5.myworkdayjobs.com/external",
   "jobs_spec": "wd:microchiphr/wd5/external",
-  "evidence": "Workday CXS: Houston 'Engineer I-Software Development' (BS CS/CE, 2+ yrs C++) still live, canApply true, no end date, no citizenship line. Santa Rosa 'Engineer I - Software' requires proof of US citizenship/PR (export control), so excluded.",
+  "evidence": "Workday API+CXS 2026-10-01: Houston Engineer I-Software Development (C++ QA automation, BS CS/CE, 2+ yrs) live in two reqs (R3962 from 2026-09-18, R3961 reposted today), canApply true, no citizenship line, no deadline. Santa Rosa Engineer I requires US citizenship/PR proof.",
   "confidence": "medium"
 }

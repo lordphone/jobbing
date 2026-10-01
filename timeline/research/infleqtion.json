@@ -1,7 +1,7 @@
 {
   "company": "Infleqtion",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     },
     {
       "title": "Quantum Software Engineer (Compiler)",
@@ -22,7 +22,7 @@
       "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-12-09",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/coldquanta/",
   "jobs_spec": null,
-  "evidence": "Workable API (65 postings): Chicago Quantum Software Engineer postings (2026-08-24) are open to entry-level and senior, but say offer may be conditioned on export-control authorization 'without sponsorship for an export license'. Treated as US-person eligibility.",
-  "confidence": "medium"
+  "evidence": "Workable page/API unreadable (429, JS page; no browser in cloud run). Mirror listings (builtinchicago) of Chicago Quantum Software Engineer say offer 'may be conditioned on authorization to receive' export-controlled tech 'without sponsorship for an export license'. Kept excluded per prior check; wording is not an explicit US-person line.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "NIO",
   "tier": 8,
-  "checked": "2026-09-30",
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker's one clean NIO US match is 'Staff AI Researcher' (San Jose), first seen 2026-04-18, closed; not new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://nio.wd3.myworkdayjobs.com/NIO_Careers",
-  "jobs_spec": "wd:nio/wd3/NIO_Careers",
-  "evidence": "Workday board API returns HTTP 422 (still unreachable, 2026-09-30). Web search shows only senior San Jose roles (OS/kernel, AI infra); no new-grad SWE track found. Retry later.",
-  "confidence": "low"
+  "jobs_page": "https://jobs.lever.co/nio-usa",
+  "jobs_spec": "lever:nio-usa",
+  "evidence": "NIO USA Lever board (9 postings, --all, 2026-10-01): all San Jose, senior/staff/lead or researcher; no entry-level or new-grad. Older Workday board (nio.wd3 NIO_Careers) still returns HTTP 422, so not read.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

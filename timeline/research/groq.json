@@ -1,7 +1,7 @@
 {
   "company": "Groq",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/groq",
   "jobs_spec": null,
-  "evidence": "jobs.gem.com/groq and Gem API list no open positions; groq.com/careers shows no listings; old Greenhouse board 404. Nvidia licensing/talent deal (Dec 2025) per earlier check. Tracker New Grad SWE first seen 2024-09-03.",
+  "evidence": "Gem board API returns [] open jobs; groq.com/careers redirects; old Greenhouse board 404. Nvidia licensing deal per earlier check. Tracker New Grad SWE first seen 2024-09-03 only.",
   "confidence": "medium"
 }

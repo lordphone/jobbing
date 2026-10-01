@@ -1,15 +1,15 @@
 {
   "company": "Wix.com",
   "tier": 6,
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Wix new-grad SWE.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.wix.com/positions",
   "jobs_spec": null,
-  "evidence": "All 69 positions read (3 pages): US roles sales/marketing/ops; xEngineer roles Tel Aviv, Kyiv, Vilnius. No US entry SWE.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Careers page is JavaScript-rendered; no browser in cloud run, so full list not read. Search shows xEngineer entry roles in Kyiv/Vilnius only; 2026-09-30 browser pass found no US entry SWE.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Teradata",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for Teradata",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.teradata.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.teradata.com (166 jobs; ~100 titles read via browser): engineering roles are senior/staff or India/Mexico; US early-career only SAP-related/intern roles. No US entry SWE. Not every listing was read.",
-  "confidence": "medium"
+  "evidence": "Job list is JavaScript-rendered (fetch shows 0 results); no browser in cloud run. Search shows San Diego SWE interns and entry SWE in Tijuana only; prior browser pass found no US entry SWE.",
+  "confidence": "low"
 }

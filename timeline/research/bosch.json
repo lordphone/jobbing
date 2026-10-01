@@ -1,6 +1,7 @@
 {
   "company": "Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)",
   "tier": 8,
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,28 +10,27 @@
       "location": "Farmington Hills, MI",
       "opened": "2026-09-23",
       "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api+webfetch",
-      "deadline": null
+      "live_verified": "api"
     },
     {
-      "title": "Rotational Development Program \u2013 Software Engineer \u2013 Power Solutions",
+      "title": "Rotational Development Program – Software Engineer – Power Solutions",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131227160",
       "location": "Farmington Hills, MI",
       "opened": "2026-06-26",
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": "Bachelor's received within the last 2 years",
-      "live_verified": "api+webfetch"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No US new-grad SWE first-seen 2025-07..2026-01 in tracker; only UK graduate roles. RDP posted 2026-06-26 (API) is the earliest US entry SWE program seen.",
+  "last_cycle_basis": "No US new-grad SWE first-seen 2025-07..2026-01 in tracker; only UK graduate roles. RDP posted 2026-06-26 is the earliest US entry SWE program seen.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/BoschGroup",
   "jobs_spec": "sr:BoschGroup",
-  "evidence": "SmartRecruiters API + posting pages (Apply/'I'm interested' shown, no deadline). Associate Motorsport SWE (1+ yrs, posted 9/23) and 24-month RDP Software Engineer (degree within 2 yrs, posted 6/26) live in MI. Both: sponsorship unavailable. Other US SWE roles senior/staff/intern.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "SmartRecruiters API (1100 postings) + Motorsport page fetched (I'm interested shown, no deadline). Associate Motorsport SWE (1+ yrs) and 24-month RDP SWE (degree within 2 yrs) live in MI. Both: 'Future sponsorship for work authorization unavailable'. Other US SWE roles not entry.",
+  "confidence": "medium"
 }

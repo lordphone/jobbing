@@ -1,15 +1,15 @@
 {
   "company": "Mercedes-Benz Research & Development North America",
+  "tier": 8,
+  "checked": "2026-10-01",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; no entry-level SWE track observed",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/MBRDNA",
   "jobs_spec": "lever:MBRDNA",
-  "evidence": "Lever API, 11 postings, read ADAS roles: Development Engineer System Integration AD (3+ yrs), Data Engineer ADAS (2-5 yrs), Data Scientist ADAS (2-5 yrs), Sr. roles. No entry-level title or new-grad program; rest legal/contractor.",
-  "confidence": "high",
-  "tier": 8,
-  "checked": "2026-09-30",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Lever API and page fetched, 11 postings: Development Engineer System Integration AD, senior engineers, legal, interns, contractors (Software Compliance Engineer contractor). No entry-level SWE or new-grad program.",
+  "confidence": "high"
 }

@@ -1,15 +1,26 @@
 {
   "company": "HII",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Engineer Software 3",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-3-Virg/1426770100/",
+      "location": "Newport News, VA",
+      "opened": "2026-09-04",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2026-01-08",
-  "last_cycle_basis": "tracker last-cycle note (kept from prior pass)",
+  "last_cycle_basis": "tracker first seen 2026-01-08/09: Software Engineer 1 / Engineer Software 1, Newport News VA (careers.huntingtoningalls.com)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.huntingtoningalls.com",
   "jobs_spec": null,
-  "evidence": "Crawled all 388 listings on the SuccessFactors site: only software role is ENGINEER SOFTWARE 3 (3-5 yrs) and IT/computer interns/co-ops. Both software postings say 'US Citizenship Required for this Position: Yes'. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Careers site searches via WebFetch: only software role live is Engineer Software 3 (Newport News, 5 yrs BS / 3 yrs MS) saying 'US Citizenship Required for this Position: Yes'. SWE 1 postings seen in tracker are all closed. No entry SWE live.",
+  "confidence": "medium"
 }

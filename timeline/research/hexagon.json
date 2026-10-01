@@ -1,8 +1,8 @@
 {
   "company": "Hexagon",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no US new-grad SWE tracker history (only Calgary Canada req)",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hexagon.com/company/careers/job-listings",
   "jobs_spec": null,
-  "evidence": "Hexagon job-listings search API, 77 US roles: only SWE are Software Engineer R&D Williamsburg VA (3-5+ yrs C#/C++) and Senior SWE Camarillo; US interns are applications/mechanical. Divisions' boards not all checked.",
-  "confidence": "medium"
+  "evidence": "Job-listings page returned 403 to WebFetch; no browser in cloud run. Prior check (2026-09-30, search API): only SWE were mid/senior in Williamsburg VA and Camarillo; no entry roles. Many divisions unchecked.",
+  "confidence": "low"
 }

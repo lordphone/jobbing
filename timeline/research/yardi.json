@@ -1,15 +1,15 @@
 {
   "company": "Yardi",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only 2024 Software Development Engineer I postings (Santa Barbara), outside the 2025-07 to 2026-01 window; nothing later found",
+  "last_cycle_basis": "tracker shows only 2024 SDE I postings (2024-10-15, 2024-12-22 Santa Barbara), outside last-cycle window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.yardi.com/openings/",
   "jobs_spec": null,
-  "evidence": "Read careers.yardi.com/openings in browser pane 2026-09-30 (full list): only software role is 'Software Development Engineer II' (Oxnard, Residential), not entry level. No SDE I posting.",
-  "confidence": "medium"
+  "evidence": "careers.yardi.com returned 403 to WebFetch; no browser in cloud run. Search surfaced a 'Software Development Engineer I' Santa Barbara posting (RES25425895) that could not be opened or dated. Prior pass saw only one SWE role; retry in browser.",
+  "confidence": "low"
 }

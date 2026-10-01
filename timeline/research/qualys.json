@@ -1,15 +1,15 @@
 {
   "company": "Qualys",
   "tier": 6,
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Qualys new-grad SWE.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://qualys.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:qualys/wd5/Careers",
-  "evidence": "Workday (34, --all): software engineers all Pune; US engineering only Cloud Infrastructure Engineer (Raleigh), not entry SWE.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Workday API, 35 postings with --all: all software engineer roles are Pune, India; no US, Toronto or Vancouver entry SWE.",
+  "confidence": "high"
 }

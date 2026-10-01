@@ -1,7 +1,7 @@
 {
   "company": "Keysight",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-09-02",
       "date_source": "tracker first seen",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Re-opened in browser 2026-09-30: live Apply, 'Upcoming or recent graduate' SWE, Colorado Springs. Quote: 'Visa Sponsorship is not available for this position' and 'Candidates need to be a U.S. citizen, lawful permanent resident of the U.S., protected individual'. Other US SWE hits not entry-level.",
-  "confidence": "high"
+  "evidence": "Posting page unreadable via WebFetch today (nav shell; no browser in cloud run). Kept from 2026-09-30 browser read: 'Visa Sponsorship is not available' and 'need to be a U.S. citizen, lawful permanent resident...'. Other US SWE hits not entry-level.",
+  "confidence": "medium"
 }

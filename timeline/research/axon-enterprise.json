@@ -1,15 +1,15 @@
 {
   "company": "Axon Enterprise",
   "tier": 8,
-  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; Axon posts US Software Engineer 1 roles irregularly (tracker shows many in Feb-May 2026, none Jul 2025-Jan 2026)",
+  "last_cycle_basis": "unknown; Axon posts US Software Engineer 1 roles irregularly (tracker shows many Feb-May 2026, none Jul 2025-Jan 2026)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/axon",
   "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse API (503 postings). Only US entry-labeled role is Software QA Engineer I (Seattle, VR QA), a test role, not counted. Graduate/SWE I postings are Vietnam, Romania, UK, Australia only.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API (--all, 2026-10-01): US entry-labeled roles are Software QA Engineer I (Seattle, test role, not counted) and non-SWE LDP 2027; Graduate SWE / SWE I postings are Vietnam, Romania, UK only.",
+  "confidence": "medium",
+  "checked": "2026-10-01"
 }

@@ -1,10 +1,19 @@
 {
   "company": "Vantor (formerly Maxar Intelligence)",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer", "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Software-Engineer_R24593", "location": "Colorado Springs, CO", "opened": "2026-09-11", "date_source": "workday startDate", "deadline": null, "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Software-Engineer_R24593",
+      "location": "Colorado Springs, CO",
+      "opened": "2026-09-11",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-08",
   "last_cycle_basis": "tracker first seen: Forward Deployed Software Engineer I, Herndon VA (Maxar board)",
@@ -12,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://maxar.wd1.myworkdayjobs.com/Vantor",
   "jobs_spec": "wd:maxar/wd1/Vantor",
-  "evidence": "Workday API, 60 postings. Software Engineer (Colorado Springs): 'Must be U.S. Citizen and eligible for SECRET security clearance'. Associate Systems Engineer and Junior Data Scientist also require U.S. citizenship. Other SWE roles senior or TS/SCI.",
+  "evidence": "Workday API, 60 postings; detail read. Software Engineer (Colorado Springs): 'Must be U.S. Citizen and eligible for SECRET security clearance'. Junior Data Scientist: 'Must be a US citizen'. Other SWE roles senior or TS/SCI.",
   "confidence": "high"
 }

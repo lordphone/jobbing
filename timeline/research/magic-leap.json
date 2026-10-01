@@ -1,7 +1,7 @@
 {
   "company": "Magic Leap",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://resources.magicleap.cloud/careers",
   "jobs_spec": null,
-  "evidence": "First-party board unreadable 2026-09-30: magicleap.com/careers 301s to resources.magicleap.cloud/careers with expired TLS cert (WebFetch and browser pane refused); gh:magicleap API not found. Web search shows only old Greenhouse listings. Retry later.",
+  "evidence": "no browser in cloud run. magicleap.com/careers redirects to resources.magicleap.cloud/careers with an expired TLS cert; curl and WebFetch refuse. No readable board. Retry later.",
   "confidence": "low"
 }

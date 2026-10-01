@@ -1,15 +1,15 @@
 {
   "company": "Aurora Innovation",
-  "tier": 8,
-  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-30",
   "last_cycle_basis": "jobs.py history: 'Software Engineer I' (Pittsburgh) first seen 2025-07-30, plus Software Engineer 1 postings 2025-10-13 and 2026-01-21",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://aurora.tech/careers",
   "jobs_spec": "ashby:aurora-operations-inc",
-  "evidence": "Ashby API (90 postings, --all): live SWE roles are II/Senior/Staff or unlabeled with heavy experience (Autonomy Controls asks 8+ yrs); no Software Engineer I or new grad live. Rolling SWE I history (Nov 2024-Jan 2026) suggests it reappears.",
-  "confidence": "medium"
+  "evidence": "Ashby API (88 postings, --all): SWE roles are II/Senior/Staff or unlabeled (Autonomy Controls); no Software Engineer I or new grad live. Rolling SWE I history (Nov 2024-Jan 2026) suggests it reappears.",
+  "confidence": "medium",
+  "tier": 8,
+  "checked": "2026-10-01",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

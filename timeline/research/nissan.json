@@ -1,15 +1,15 @@
 {
   "company": "Nissan",
   "tier": 8,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker entry (only Researcher roles tracked)",
+  "last_cycle_basis": "tracker history: only Data Analyst / Associate Analyst (Franklin TN), no SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://alliance.wd3.myworkdayjobs.com/nissanjobs",
   "jobs_spec": "wd:alliance/wd3/nissanjobs",
-  "evidence": "Workday API (46 postings). US roles are experienced, Researcher II (Santa Clara) or trainers; graduate trainee roles are Spain/Japan. No US entry SWE.",
+  "evidence": "Workday API (45 postings, --all): US roles are senior/planner, trainers, Researcher I/II (Santa Clara) and an intern; graduate trainee roles are Spain/Brazil/Mexico. No entry SWE in US/Canada. Prior file said not_yet; no this- or last-cycle SWE found.",
   "confidence": "high"
 }
