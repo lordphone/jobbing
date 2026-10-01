@@ -1,7 +1,5 @@
 {
   "company": "Rackspace Technology",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://rackspace.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:rackspace/wd1/External",
-  "evidence": "Workday API, 26 postings read in full. US roles are sales, Network Engineer II/IV, architect, director, evangelist; only entry-level engineer titles (Cloud Engineer I, Network Engineer I) are India. No entry US SWE or new-grad program.",
-  "confidence": "high"
+  "evidence": "Workday API, 26 postings read with --all: US roles are sales, Network Engineer II/IV, architect, director, evangelist; only entry-level engineer title (Network Engineer I) is India. No entry US SWE or new-grad program.",
+  "confidence": "high",
+  "checked": "2026-10-01",
+  "tier": 10
 }

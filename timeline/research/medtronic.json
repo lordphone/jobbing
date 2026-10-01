@@ -1,15 +1,15 @@
 {
   "company": "Medtronic",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-08-05",
-  "last_cycle_basis": "tracker history: Software Engineer I - CRM (Blaine/Mounds View, MN) first seen 2025-08-05, within 2025-07 to 2026-01 window",
+  "last_cycle_basis": "tracker history: Software Engineer I - CRM (Blaine/Mounds View, MN) first seen 2025-08-05, within 2025-07 to 2026-01 window; tracker also saw Software Engineer 1 - AI-Driven Data Solutions (Lafayette, CO) 2026-07-24",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers",
   "jobs_spec": "wd:medtronic/wd1/redeploymentmedtroniccareers",
-  "evidence": "Workday searches: US software roles are Embedded Software Engineer II and senior; entry SWE I roles are outside the US. Tracker shows rolling US SWE I postings (2025-08 to 2025-12), none live now. Kept closed.",
-  "confidence": "medium"
+  "evidence": "Workday lists (both sites) and searches show no live entry SWE; tracker's Jul 2026 SWE 1 roles are absent but their pages weren't opened (no browser in cloud run). Live borderline: Software Automation Test Engineer I (Mounds View, 0 yrs, closes 2026-10-02), test role, not counted.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "ADM (Archer Daniels Midland)",
-  "status": "no_program_found",
-  "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25416&siteid=5998",
-  "jobs_spec": null,
-  "evidence": "BrassRing board searched in browser 2026-09-30 (software 71 results, developer 5, graduate 10, early career 11, entry level 43): only tech titles are GT Azure Support Developer, IFS Technical Analyst, Modernization Software Lead. Rest are plant, sales and lab. No entry-level SWE or new-grad program.",
-  "confidence": "medium",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
+  "status": "no_program_found",
   "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
+  "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25416&siteid=5998",
+  "jobs_spec": null,
+  "evidence": "BrassRing search API 2026-10-01 (software 71 results; developer, entry level, graduate, early career queries): only tech titles are GT Azure Support Developer, IFS Technical Analyst, Modernization Software Lead. Rest plant, lab, sales. No entry SWE program.",
+  "confidence": "medium"
 }
