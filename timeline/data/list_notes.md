@@ -1,14 +1,1 @@
-- Added TransMarket Group (tier 4): Chicago prop-trading firm with Junior Software Engineer and Python Developer postings.
-- Added Axos Bank (tier 5): San Diego bank posting Product Engineer 1 and AI Engineer roles.
-- Added Cotiviti (tier 6): Associate Software Engineer and Data Scientist 1 postings, remote US.
-- Added WellSky (tier 6): Associate Software Engineer postings in Overland Park, KS.
-- Added Netsmart (tier 6): Software Engineer postings in Overland Park, KS and Bay Shore, NY.
-- Added Harris Computer (tier 6): Associate Software Engineer postings in the US.
-- Added Sev1Tech (tier 10): Entry Level Software Developer postings, government IT.
-- Added Datalab USA (tier 10): Entry Level SQL Developer and Programmer Analyst postings in MD and CO.
-- Added Mercury Insurance (tier 11): Software Engineering Graduate Development Program and Software Engineer 1 postings.
-- Renamed Clari to Salesloft (formerly Clari): last run found clari.com/careers redirects to Salesloft's careers page after the merger; deleted clari.json; override "clari".
-- Merged Highspot into Seismic: last run found highspot.com/careers redirects to seismic.com after the merger; deleted highspot.json; override "highspot".
-- Merged HashiCorp into IBM: last run found hashicorp.com/careers redirects to IBM careers; deleted hashicorp.json; override "hashicorp".
-- Overrides for tracker names of listed companies: Hewlett Packard → HP, CenturyLink → Lumen Technologies, Paramount Global → Paramount Skydance, Penn Interactive → PENN Entertainment, Boston Consulting Group → BCG X, PricewaterhouseCoopers (PwC) → PwC, Citigroup → Citi.
-- Skipped from the top 100: staffing/IT-contracting agencies (Artech, AG Technologies, TSMG, mthree, 360 IT Professionals, Jobsbridge, USM, Atria Group, etc.), universities and national labs posting postdocs, non-US employers (Sainsbury's, Sun Life's Canadian roles, Hastings Direct), AI-training vendors (Prolific, Innodata), companies with only senior or non-software roles (Clera, Collaborative Robotics, Xcel Energy, Nakupuna, Primetals, Cambridge Associates).
+- No company-list edits this run. The top unmatched tracker names are the same staffing agencies, universities, non-US employers and AI-training vendors skipped last run (Sainsbury's, Artech, Innodata, AG Technologies, universities, TSMG, mthree, etc.), and none of the last run's research files showed a company posting only under another name.
