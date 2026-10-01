@@ -4,7 +4,7 @@
   jobs.py board SPEC [--all]     list new-grad-looking postings (title | location | date | url)
   jobs.py guess NAME [SLUG...]   try Greenhouse / Lever / Ashby / SmartRecruiters slugs for a company
   jobs.py workday TENANT [SITE...]   find a Workday board (tries wd1..wd503 and common site names)
-  jobs.py detail URL             fetch one posting's text; print dates and citizenship / clearance /
+  jobs.py detail URL             fetch one posting's text; print dates, every location, and citizenship / clearance /
                                  sponsorship / graduation lines
   jobs.py history REGEX          SimplifyJobs + vanshb03 tracker history for a company (last-year dates)
 
@@ -12,7 +12,7 @@ SPEC forms:
   gh:SLUG   lever:SLUG   levereu:SLUG   ashby:SLUG   sr:COMPANY_ID   wd:TENANT/wdN/SITE   oracle:HOST/SITE_NUMBER
   pinpoint:SUBDOMAIN   eightfold:HOST/DOMAIN (careers sites with /api/pcsx/search)   amazon:
 """
-import datetime as dt, html, json, os, re, subprocess, sys, urllib.parse, urllib.request
+import datetime as dt, html, json, os, re, subprocess, sys, urllib.error, urllib.parse, urllib.request
 
 NEWGRAD = re.compile(r'new grad|new college|college grad|university|graduate|early career|early in career|entry.level|'
                      r'campus|2027|junior|associate|engineer,? i\b|engineer,? 1\b|developer,? i\b|level 1\b|rotation|'
@@ -21,8 +21,10 @@ ROLE = re.compile(r'software|engineer|developer|\bsde\b|\bswe\b|machine learning
                   r'platform|technolog|programmer|member of technical', re.I)
 SKIP = re.compile(r'\bintern\b|internship|co-?op|senior|\bsr\b|staff|principal|\blead\b|manager|director', re.I)
 FLAGS = re.compile(r'[^.]{0,140}(u\.?s\.? citizen|citizenship|security clearance|clearance|green card|permanent resident|'
-                   r'u\.?s\.? person|itar|export control|sponsor|work authori[sz]ation|graduat|years of experience)'
+                   r'u\.?s\.? person|itar|export control|sponsor|work authori[sz]ation|graduat|years of experience|'
+                  r'deadline|apply by|applications? (?:close|due)|closing date|accepting applications until)'
                    r'[^.]{0,140}', re.I)
+LOCLINE = re.compile(r'[^.]{0,60}\b(locations?|based in|offices? in|work(ing)? classification)\b[^.]{0,140}', re.I)
 WD_SITES = ['External', 'Careers', 'careers', 'External_Careers', 'ExternalCareers', 'External_Career_Site', 'Jobs',
             'jobs', 'Search', 'University', 'Campus', 'EarlyCareers', 'Early_Careers', 'en-US']
 WD_PODS = ['wd1', 'wd3', 'wd5', 'wd12', 'wd103', 'wd108', 'wd501', 'wd503', 'wd504']
@@ -35,8 +37,10 @@ def get(url, data=None, timeout=25):
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        return {} if e.code in (404, 410) else None  # {} = the board answered "no such posting"
     except Exception:
-        return None
+        return None  # network error, timeout, rate limit, blocked
 
 
 def text(h):
@@ -210,61 +214,97 @@ def workday(tenant, sites):
     print('not found — get the exact URL from the careers page ("Search jobs" link) or a search result')
 
 
-def detail(url):
+def posting(url):
+    """One posting via its job-board API: dict(title, text, dates, locations); 'missing' if the board answered
+    without it; 'failed' if the lookup itself failed (says nothing about open/closed); 'noapi' if unsupported."""
     u = urllib.parse.urlparse(url)
-    t, title, dates = '', '', ''
+    t, title, dates, locs, resp = '', '', '', [], {}
     m = re.search(r'greenhouse\.io/(?:embed/job_app\?for=)?([\w-]+)/jobs/(\d+)', url) or \
         (re.search(r'gh_jid=(\d+)', url) and None)
     if m:
-        j = get(f'https://boards-api.greenhouse.io/v1/boards/{m.group(1)}/jobs/{m.group(2)}?content=true') or {}
+        j = resp = get(f'https://boards-api.greenhouse.io/v1/boards/{m.group(1)}/jobs/{m.group(2)}?content=true')
+        j = j or {}
         title, t = j.get('title', ''), text(j.get('content'))
         dates = f"first_published={j.get('first_published')} updated={j.get('updated_at')}"
+        locs = [(j.get('location') or {}).get('name', '')] + [o.get('name', '') for o in j.get('offices') or []]
     elif 'myworkdayjobs.com' in u.netloc:
         tenant = u.netloc.split('.')[0]
         parts = [p for p in u.path.split('/') if p]
         if re.match(r'[a-z]{2}-[A-Z]{2}$', parts[0]):
             parts = parts[1:]
         site, path = parts[0], '/'.join(parts[1:])
-        j = (get(f'https://{u.netloc}/wday/cxs/{tenant}/{site}/{path}') or {}).get('jobPostingInfo', {})
+        resp = get(f'https://{u.netloc}/wday/cxs/{tenant}/{site}/{path}')
+        j = (resp or {}).get('jobPostingInfo', {})
         title, t = j.get('title', ''), text(j.get('jobDescription'))
-        dates = f"postedOn={j.get('postedOn')} startDate={j.get('startDate')} timeType={j.get('timeType')}"
+        dates = f"postedOn={j.get('postedOn')} startDate={j.get('startDate')} endDate={j.get('endDate')} timeType={j.get('timeType')}"
+        locs = [j.get('location', '')] + list(j.get('additionalLocations') or [])
     elif 'lever.co' in u.netloc:
         slug, jid = [p for p in u.path.split('/') if p][:2]
         api = 'api.eu.lever.co' if '.eu.' in u.netloc else 'api.lever.co'
-        j = get(f'https://{api}/v0/postings/{slug}/{jid}') or {}
+        j = resp = get(f'https://{api}/v0/postings/{slug}/{jid}')
+        j = j or {}
         title = j.get('text', '')
         t = text(j.get('description', '') + ' '.join(x.get('content', '') for x in j.get('lists', [])) + j.get('additional', ''))
         dates = f"createdAt={ms(j.get('createdAt'))}"
+        c = j.get('categories') or {}
+        locs = list(c.get('allLocations') or []) or [c.get('location', '')]
     elif 'ashbyhq.com' in u.netloc:
         slug, jid = [p for p in u.path.split('/') if p][:2]
-        for j in (get(f'https://api.ashbyhq.com/posting-api/job-board/{slug}') or {}).get('jobs', []):
+        resp = get(f'https://api.ashbyhq.com/posting-api/job-board/{slug}')
+        for j in (resp or {}).get('jobs', []):
             if jid in (j.get('jobUrl') or '') or j.get('id') == jid:
                 title, t, dates = j['title'], j.get('descriptionPlain', ''), f"publishedAt={j.get('publishedAt')}"
+                locs = [j.get('location', '')] + [x.get('location', '') for x in j.get('secondaryLocations') or []]
+                if j.get('workplaceType') == 'Remote':  # isRemote is also true for hybrid jobs
+                    locs.append('Remote')
     elif 'smartrecruiters.com' in u.netloc:
         cid, jid = [p for p in u.path.split('/') if p][:2]
         jid = jid.split('-')[0]
-        j = get(f'https://api.smartrecruiters.com/v1/companies/{cid}/postings/{jid}') or {}
+        j = resp = get(f'https://api.smartrecruiters.com/v1/companies/{cid}/postings/{jid}')
+        j = j or {}
         title = j.get('name', '')
         t = text(' '.join(s.get('text', '') for s in ((j.get('jobAd') or {}).get('sections') or {}).values()))
         dates = f"releasedDate={j.get('releasedDate')}"
+        lo = j.get('location') or {}
+        locs = [lo.get('fullLocation') or ', '.join(x for x in (lo.get('city'), lo.get('region'), lo.get('country')) if x)]
+        if lo.get('remote'):
+            locs.append('Remote')
     elif '/hcmUI/CandidateExperience' in url:
         site = re.search(r'/sites/([^/]+)/', url).group(1)
         jid = re.search(r'/job/(\d+)', url).group(1)
-        d = get(f'https://{u.netloc}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?expand=all'
-                f'&onlyData=true&finder=ById;Id=%22{jid}%22,siteNumber={site}') or {}
-        j = (d.get('items') or [{}])[0]
+        d = resp = get(f'https://{u.netloc}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?expand=all'
+                       f'&onlyData=true&finder=ById;Id=%22{jid}%22,siteNumber={site}')
+        j = ((d or {}).get('items') or [{}])[0]
         title = j.get('Title', '')
         t = text(''.join(j.get(k) or '' for k in ('ExternalDescriptionStr', 'ExternalQualificationsStr',
                                                   'ExternalResponsibilitiesStr')))
-        dates = f"posted={j.get('ExternalPostedStartDate')}"
+        dates = f"posted={j.get('ExternalPostedStartDate')} ends={j.get('ExternalPostedEndDate')}"
+        locs = [j.get('PrimaryLocation', '')] + [x.get('Name', '') for x in j.get('secondaryLocations') or []]
     else:
+        return 'noapi'
+    if not title:
+        return 'failed' if resp is None else 'missing'
+    return {'title': title, 'text': t, 'dates': dates, 'locations': list(dict.fromkeys(x.strip() for x in locs if x and x.strip()))}
+
+
+def detail(url):
+    p = posting(url)
+    if p == 'noapi':
         print('No API for this host. Open it in the browser pane (it renders JavaScript) or WebFetch it.')
         return
-    if not title:
-        print('Posting not found via API — it may be closed. Confirm in the browser pane.')
+    if p == 'failed':
+        print('LOOKUP FAILED (network error, timeout, rate limit or blocked). This says nothing about whether the '
+              'posting is open: retry, or open it in the browser pane.')
         return
-    print(title, '|', dates)
-    for s in list(dict.fromkeys(m.group(0).strip() for m in FLAGS.finditer(t)))[:8]:
+    if p == 'missing':
+        print('NOT ON THE BOARD: the job board answered but did not return this posting. It may be closed or just '
+              'unlisted. Open the posting page in the browser pane before calling it closed.')
+        return
+    print(p['title'], '|', p['dates'])
+    print('  locations:', '; '.join(p['locations']) or '(none in API — read them from the page)')
+    for s in list(dict.fromkeys(m.group(0).strip() for m in LOCLINE.finditer(p['text'])))[:3]:
+        print('  @', s[:220])
+    for s in list(dict.fromkeys(m.group(0).strip() for m in FLAGS.finditer(p['text'])))[:8]:
         print('  >', s[:300])
 
 

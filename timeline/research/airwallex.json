@@ -1,15 +1,15 @@
 {
   "company": "Airwallex",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker/history evidence available; not checked via jobs.py history (no company-name regex run)",
+  "last_cycle_basis": "no tracker history for Airwallex (jobs.py history 2026-09-30)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/airwallex",
   "jobs_spec": "ashby:airwallex",
-  "evidence": "Checked full Ashby board (578 postings, --all). No entry-level/new-grad SWE titles for US; all US SWE roles are Senior/Staff. Entry-level SWE roles exist only in Singapore/Australia.",
+  "evidence": "Ashby board (549, --all) checked 2026-09-30: US roles are Senior/Staff, T0 AI Engineer (2+ yrs applied AI, not entry-titled) or Infrastructure AI (Senior). Early-career/intern SWE roles are Singapore only.",
   "confidence": "high"
 }

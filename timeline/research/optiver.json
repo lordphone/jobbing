@@ -1,15 +1,36 @@
 {
   "company": "Optiver",
-  "tier": 4,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Graduate Software Engineer (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+      "location": "Chicago, IL",
+      "opened": "on or before 2026-07-01",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Jun 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Graduate Software Engineer (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+      "location": "Austin, TX",
+      "opened": "on or before 2026-07-01",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Jun 2027",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "tracker_last_cycle from earlier research",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history: Graduate Software Engineer - 2026 Start (Austin/Chicago), first seen 2025-07-01",
   "jobs_page": "https://job-boards.greenhouse.io/optiverprivate",
   "jobs_spec": "gh:optiverprivate",
-  "evidence": "gh:optiverprivate board --all (10 postings) has no US new-grad SWE. Tracker's Graduate Software Engineer posting (8604899002) returns not found via API, confirming closed.",
-  "confidence": "high"
+  "evidence": "gh:optiverprivate API lacks the US grad SWE roles (10 postings). Fetched optiver.com/join-us pages 8401042002 (Chicago) and 8604899002 (Austin): Apply button, 2027 Start, Dec 2026–Jun 2027, sponsorship supported, no deadline.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

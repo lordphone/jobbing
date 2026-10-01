@@ -1,0 +1,18 @@
+{
+ "_note": "His target areas. A posting is in an area if any '; '-separated part of its location matches 'place' (and 'need', when given, matches that same part). Edit freely.",
+ "areas": [
+  {"area": "Bay Area", "place": "san francisco|\\bsf\\b|bay area|silicon valley|mountain view|sunnyvale|santa clara|san jose|palo alto|menlo park|redwood city|redwood shores|san mateo|foster city|burlingame|san bruno|south san francisco|oakland|berkeley|emeryville|alameda|milpitas|cupertino|los gatos|pleasanton|livermore|hayward|san ramon|walnut creek|union city"},
+  {"area": "Bay Area", "place": "fremont|dublin|campbell|newark|san carlos|belmont|los altos", "need": "\\bca\\b|california"},
+  {"area": "LA", "place": "los angeles|santa monica|culver city|playa vista|marina del rey|el segundo|manhattan beach|redondo beach|beverly hills|hollywood|burbank|irvine|costa mesa|newport beach|santa clarita|venice, ca"},
+  {"area": "LA", "place": "hawthorne|torrance|long beach|glendale|pasadena|inglewood|carson|anaheim", "need": "\\bca\\b|california"},
+  {"area": "NYC / NJ", "place": "new york city|\\bnyc\\b|manhattan|brooklyn|queens|^\\s*new york\\b|new york,\\s*(ny|new york|united states|usa|us)\\b|\\bny,\\s*new york|\\bnj\\b|new jersey|jersey city|hoboken|weehawken"},
+  {"area": "Boston", "place": "boston|somerville|waltham|woburn|needham|framingham|natick|westford|boxborough|chelmsford|billerica|maynard"},
+  {"area": "Boston", "place": "cambridge|burlington|lexington|bedford|quincy|andover|marlborough|wilmington|newton|watertown|medford|lowell|wakefield|littleton|braintree", "need": "\\bma\\b|massachusetts"},
+  {"area": "Toronto", "place": "toronto|mississauga|markham|vaughan|richmond hill|oakville|brampton"},
+  {"area": "Vancouver", "place": "vancouver|burnaby|surrey|richmond", "need": "\\bbc\\b|british columbia|canada|^\\s*(north )?vancouver\\s*$|burnaby"},
+  {"area": "Chicago", "place": "chicago|evanston|naperville|oak brook|schaumburg|northbrook|rosemont|itasca|downers grove|skokie|glenview|hoffman estates|vernon hills|riverwoods"},
+  {"area": "Chicago", "place": "aurora|deerfield|lake forest|lincolnshire|lisle|lombard|elk grove", "need": "\\bil\\b|illinois"},
+  {"area": "Austin", "place": "austin|round rock|cedar park|pflugerville|bee cave"},
+  {"area": "Remote", "place": "remote|work from home|home.based|virtual|anywhere", "not": "apac|europe|emea|india|latam|\\buk\\b|mexico|brazil"}
+ ]
+}

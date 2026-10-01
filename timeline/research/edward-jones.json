@@ -1,15 +1,15 @@
 {
   "company": "Edward Jones",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no first-party posting date found",
+  "last_cycle_basis": "unknown; no first-party dated new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.edwardjones.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "No Greenhouse/Lever/Ashby/SmartRecruiters board found (guess failed). Site uses own Phenom-based board with a 'Students & Recent Grads' career area; WebSearch of careers.edwardjones.com for software engineer/2027 returned only Engineer III/IV (experienced) roles, no entry-level/new-grad SWE posting.",
-  "confidence": "low"
+  "evidence": "Own careers site (browser) 2026-09-30: 'Students & Recent Grads' filter shows 7 jobs: rotational development, leadership program, internships. None software engineering. HQ SWE roles are Engineer III/IV.",
+  "confidence": "medium"
 }

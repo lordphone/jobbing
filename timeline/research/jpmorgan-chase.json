@@ -1,15 +1,29 @@
 {
   "company": "JPMorgan Chase",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 Software Engineer Program - Full-Time - United States - July Start", "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111", "location": "Chicago, IL and 8 more (US)",
-     "opened": "2026-08-02", "date_source": "page text (Posting Date)",
-     "grad_window": "graduation between July 2026 and June 2027, start July 2027", "live_verified": "browser"},
-    {"title": "2027 Software Engineer Program - Full-Time - United States - February Start", "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102", "location": "Chicago, IL and 8 more (US)",
-     "opened": "2026-08-02", "date_source": "page text (Posting Date)",
-     "grad_window": "graduation between July 2026 and December 2026, start February 2027", "live_verified": "browser"}
+    {
+      "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
+      "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Tampa, FL, United States; Wilmington, DE, United States",
+      "opened": "2026-08-03",
+      "date_source": "oracle API posted",
+      "grad_window": "Jul 2026 – Jun 2027 (start Jul 2027)",
+      "live_verified": "api",
+      "deadline": "2026-11-06"
+    },
+    {
+      "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102",
+      "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Tampa, FL, United States; Wilmington, DE, United States",
+      "opened": "2026-08-03",
+      "date_source": "oracle API posted",
+      "grad_window": "Jul 2026 – Dec 2026 (start Feb 2027)",
+      "live_verified": "api",
+      "deadline": "2026-11-06"
+    }
   ],
   "last_cycle_opened": "2025-08-04",
   "last_cycle_basis": "tracker history: 'Software Engineer' postings first seen 2025-08-04 (x2, Austin/Chicago/Columbus/Houston and Wilmington variants)",
@@ -17,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "Browser-verified live Apply page for the 'July Start' variant (job/210774111): grad window Jul 2026-Jun 2027, start July 2027 -- a genuine 2027-cycle posting, not just the previously-found Feb-Start leftover. No sponsorship offered. Both variants Apply Before 11/05/2026.",
+  "evidence": "jobs.py detail returns both 2027 Software Engineer Program postings (Jul and Feb start), posted 2026-08-03, API end date 2026-11-06; still served by API 2026-09-30. No employment-based sponsorship, no OPT/CPT.",
   "confidence": "high"
 }

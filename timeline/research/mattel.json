@@ -1,15 +1,15 @@
 {
   "company": "Mattel",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history found for Mattel.",
+  "last_cycle_basis": "No new-grad SWE tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/mattelinc",
   "jobs_spec": "sr:mattelinc",
-  "evidence": "Scanned all 443 postings on Mattel's SmartRecruiters board (sr:mattelinc, --all; confirmed total via API is 443, so this covers everything). All US-based software/data engineer roles seen are Senior/Sr/Lead or 'Data Engineer, Mobile Game Analytics'; remaining entry-titled software roles are in Hyderabad (India) or Mexico. No US entry-level SWE/new-grad postings. Confirms prior no_program result.",
+  "evidence": "SmartRecruiters board (438 postings): US software/data roles are QA Engineer, Data Engineer, Senior/Lead, directors. Entry engineers (Prod Dev Engineer I, Assoc Packaging Engineer) are product/packaging, not software.",
   "confidence": "high"
 }

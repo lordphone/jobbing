@@ -1,22 +1,36 @@
 {
   "company": "C3.ai",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Forward Deployed Engineer, New Grad 2027", "url": "https://job-boards.greenhouse.io/c3iot/jobs/8804558002", "location": "Redwood City, CA",
-     "opened": "2026-09-14", "date_source": "greenhouse first_published",
-     "grad_window": "Dec 2026 - Summer/Fall 2027", "live_verified": "api"},
-    {"title": "Platform Full-Stack Engineer, New Grad 2027", "url": "https://job-boards.greenhouse.io/c3iot/jobs/8801434002", "location": "Redwood City, CA",
-     "opened": "2026-09-14", "date_source": "greenhouse first_published",
-     "grad_window": "Dec 2025 or Summer/Fall 2027", "live_verified": "api"}
+    {
+      "title": "Forward Deployed Engineer, New Grad 2027",
+      "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+      "location": "Redwood City, CA",
+      "opened": "2026-09-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 or Summer/Fall 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Platform Full-Stack Engineer, New Grad 2027",
+      "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "location": "Redwood City, CA",
+      "opened": "2026-09-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Summer/Fall 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2024-09-25",
-  "last_cycle_basis": "Tracker history shows two generic 'Software Engineer' / 'Software Engineer, Platform' postings first seen 2024-09-25 (no explicit new-grad title found for prior cycle in tracker data).",
+  "last_cycle_basis": "tracker: generic SWE postings first seen 2024-09-25; no explicit last-cycle new-grad title found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/c3iot",
   "jobs_spec": "gh:c3iot",
-  "evidence": "Found board via gh:c3iot spec (company's own Greenhouse board behind c3.ai proxy). Both postings verified live via jobs.py detail on the greenhouse job-boards URL; explicit '2027' grad-window text confirmed on each.",
+  "evidence": "Greenhouse API (board behind c3.ai) returns both 2027 New Grad postings live, first published 2026-09-14, with graduation-window text. No citizenship or deadline line.",
   "confidence": "high"
 }

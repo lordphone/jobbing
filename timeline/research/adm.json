@@ -1,15 +1,15 @@
 {
   "company": "ADM (Archer Daniels Midland)",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record; not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25416&siteid=5998",
   "jobs_spec": null,
-  "evidence": "Searched BrassRing board for 'software engineer' in the US (14 results): all are Process Automation / industrial control engineer roles at plants, not application-software new-grad roles. No entry-level SWE posting found.",
-  "confidence": "low"
+  "evidence": "BrassRing board searched in browser 2026-09-30 (software 71 results, developer 5, graduate 10, early career 11, entry level 43): only tech titles are GT Azure Support Developer, IFS Technical Analyst, Modernization Software Lead. Rest are plant, sales and lab. No entry-level SWE or new-grad program.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

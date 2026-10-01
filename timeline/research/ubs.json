@@ -1,22 +1,26 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 Graduate Talent Program - Technology - NY/ NJ", "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622", "location": "New York / New Jersey",
-     "opened": "on or before 2026-09-27", "date_source": "page text (live listing on jobs.ubs.com)",
-     "grad_window": "graduating December 2026 - June 2027", "live_verified": "browser"},
-    {"title": "2027 Graduate Talent Program - Technology - Raleigh", "url": "https://jobs.ubs.com/TGNewUI/Search/Home/Home?partnerid=25008&siteid=5176#keyWordSearch=Technology&locationSearch=United%20States", "location": "Raleigh, NC",
-     "opened": "on or before 2026-09-27", "date_source": "page text (live listing on jobs.ubs.com)",
-     "grad_window": "2027 graduates", "live_verified": "browser"}
+    {
+      "title": "2027 Graduate Talent Program - Technology - NY/NJ",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622",
+      "location": "New York / Weehawken, NJ",
+      "opened": "on or before 2026-09-30",
+      "date_source": "page text (live on jobs.ubs.com; ref 341211BR; no posted date shown)",
+      "deadline": null,
+      "grad_window": "Graduating Dec 2026 - Jun 2027",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "UBS site states applications for the US Graduate Talent Program 'typically open in September'; no tracker history hit found for UBS.",
+  "last_cycle_basis": "UBS says US Graduate Talent Program applications typically open in September; no tracker history hit for UBS.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Re-opened the NY/NJ posting (job 348622) directly in browser: still live, full-stack SWE Group Technology Office role (Java, Python, TypeScript, React, Spring Boot), graduating Dec 2026-Jun 2027, $105-110k. Text states 'not eligible for any employment-based immigration sponsorship' including OPT/CPT support - upgraded no_sponsorship to true from prior pass.",
+  "evidence": "Opened job 348622 in browser 2026-09-30: Apply button, full-stack SWE/data engineer graduate (Java, Python, React), grad Dec 2026-Jun 2027, $105-110k. 'Not eligible for any employment-based immigration sponsorship' incl. OPT/CPT. Raleigh version from earlier pass not re-found; no deadline stated.",
   "confidence": "high"
 }

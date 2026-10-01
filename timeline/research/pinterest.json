@@ -1,15 +1,15 @@
 {
   "company": "Pinterest",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-24",
-  "last_cycle_basis": "tracker history: 'Software Engineer University Grad', San Francisco;Palo Alto;Seattle, first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+  "last_cycle_basis": "tracker history: 'Software Engineer University Grad', SF/Palo Alto/Seattle, first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.pinterestcareers.com",
   "jobs_spec": "gh:pinterest",
-  "evidence": "gh:pinterestjobadvertisements (old spec) now returns 0 total postings; found Pinterest's real board at gh:pinterest (153 postings, pinterestcareers.com URLs). Checked full board for new-grad/university-grad/entry-level SWE titles: none live. Only mid/senior/staff Software Engineer II+ roles.",
-  "confidence": "high"
+  "evidence": "Ran gh:pinterest --all (150 postings): no university grad / new grad / 2027 titles; only SE II / ML Engineer II mid-level roles. Last cycle's university grad posting appeared ~Sep 24, 2025, so possibly imminent.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

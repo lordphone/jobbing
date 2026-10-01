@@ -1,18 +1,26 @@
 {
   "company": "Castelion",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Embedded Software Engineer (All Levels)", "url": "https://www.castelion.com/careers/job/4386829009/", "location": "Torrance, CA",
-     "opened": "unknown", "date_source": "page text", "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Embedded Software Engineer (All Levels)",
+      "url": "https://www.castelion.com/careers/job/4386829009/",
+      "location": "Torrance, CA",
+      "opened": "unknown",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": "us person / itar",
   "no_sponsorship": true,
   "jobs_page": "https://www.castelion.com/careers/",
   "jobs_spec": null,
-  "evidence": "'Embedded Software Engineer (All Levels)' (open to early-career engineers) requires U.S. person status: 'Are you a U.S. person, defined as a U.S. citizen or national, lawful permanent resident...' per ITAR, and states 'Applicants must be legally authorized to work in the United States without current or future employer sponsorship.'",
-  "confidence": "high"
+  "evidence": "Careers page lists All Levels SWE roles, but posting asks 'Are you a U.S. person, defined as a U.S. citizen or national, lawful permanent resident...' and employment is contingent on export-controlled access without extra licensing. Flight SW posting asks about sponsorship.",
+  "confidence": "medium"
 }

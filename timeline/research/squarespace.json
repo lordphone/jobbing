@@ -1,15 +1,15 @@
 {
   "company": "Squarespace",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-10-24",
-  "last_cycle_basis": "Tracker history shows a 'New Grad 2024: Software Engineer, Java' posting first seen 2024-10-24 (https://www.squarespace.com/careers/jobs/6283547); no posting found in the 2025-07 to 2026-01 window for the prior cycle.",
+  "last_cycle_basis": "tracker: 'New Grad 2024: Software Engineer, Java' NYC 2024-10-24 (two cycles ago); no posting in 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.squarespace.com/careers/early-career",
   "jobs_spec": "gh:squarespace",
-  "evidence": "Greenhouse board (34 postings, --all) has no new-grad/entry-level SWE roles, only senior/staff/manager/director. Own Early Career page confirms: 'There are currently no openings available. Please check back later.'",
-  "confidence": "high"
+  "evidence": "Early-career page (WebFetch 2026-09-30): 'no openings available', describes a New Grad program. gh:squarespace --all: 'Software Engineer, Frontend' NYC (3+ yrs per earlier check), others Senior/Staff/Manager.",
+  "confidence": "medium"
 }

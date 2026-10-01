@@ -1,15 +1,15 @@
 {
   "company": "KeyBank (KeyCorp)",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-06-03",
-  "last_cycle_basis": "prior 'Associate Software Engineer' Brooklyn OH posted 2026-06-03 (now closed)",
+  "last_cycle_basis": "tracker first-seen 2026-06-03 'Associate Software Engineer' Brooklyn OH (closed; off-cycle spring posting)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:keybank/wd5/External_Career_Site",
-  "evidence": "Workday API: only Senior/Sr-level developer roles match filter (AEM Developer, Tableau Developer). No 2027 new-grad SWE or Technology Development Program posting live.",
-  "confidence": "medium"
+  "evidence": "Workday --all (81 postings): 2027 programs are analytics, commercial credit, banking; Key Technology & Services 2027 are internships. Engineer roles Senior/Lead. No live SWE new-grad role.",
+  "confidence": "high"
 }

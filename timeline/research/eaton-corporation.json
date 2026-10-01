@@ -1,15 +1,15 @@
 {
   "company": "Eaton Corporation",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "prior tracker_last_cycle 2025-10-30; not independently reverified this run",
+  "last_cycle_basis": "jobs.py history: Eaton Distributed Infrastructure Technical Support Engineer and Product Engineer postings first seen 2025-10-30; no dedicated SWE new-grad posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://eaton.eightfold.ai",
   "jobs_spec": null,
-  "evidence": "Eightfold board (70 postings) checked with --all: Development Programs exist for Marketing, Technical Sales, Applications Engineering, Operations Engineering, Field Service Engineer, but no Software/IT/Digital development-program track. All software engineer titles found (Senior, Embedded Software Control Manager, Digital Controls Specialist) are experienced-level; only internships exist for entry-level software.",
+  "evidence": "Eightfold pcsx API 2026-09-30 (2360 total; searched software, developer, entry level, early career, graduate, data, AI, digital): US Development Programs are Applications, Operations, Field Service, Marketing, Fibrebond only; no US entry SWE. US software roles are senior/specialist, plus a Plymouth MN software internship.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Novo Nordisk",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_opened": "2025-11-14",
+  "last_cycle_basis": "novonordisk.com graduate page via search: prior-cycle positions posted 2025-11-14 to 2025-12-05 (Denmark-based)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.novonordisk.com/careers/early-career-programmes/graduate.html",
+  "jobs_page": "https://careers.novonordisk.com/search/",
   "jobs_spec": null,
-  "evidence": "Global Graduate Programme includes a 'Global Digital Business Track' (tech), but applications open 2026-12-06 (deadline 2027-01-05) and location is 'worldwide', not confirmed US/SWE-specific. Job board itself sits behind SAML/SuccessFactors login, unreachable via WebFetch or browser.",
-  "confidence": "low"
+  "evidence": "Graduate page: 2-yr programme incl. Technology/Digital track, applications open 2026-12-06, deadline 2027-01-05; Denmark-based. US board (careers.novonordisk.com) searches show only manufacturing/compliance grad roles and app/automation engineers; no US SWE new-grad. Not yet open.",
+  "confidence": "medium"
 }

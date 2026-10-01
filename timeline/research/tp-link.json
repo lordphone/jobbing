@@ -1,19 +1,26 @@
 {
   "company": "TP-Link",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "leftover_2026",
   "postings": [
-    {"title": "2026 Early Career Embedded Software Engineer", "url": "https://jobs.workable.com/view/fng5Khy1CECks5YXsWjgKW/2026-early-career-embedded-software-engineer-in-irvine-at-tp-link-systems-inc.", "location": "Irvine, CA",
-     "opened": "on or before 2026-04-27", "date_source": "page text ('Posted 5 months ago')",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "2026 Early Career Embedded Software Engineer",
+      "url": "https://apply.workable.com/j/F943A617EC",
+      "location": "Irvine, CA",
+      "opened": "on or before 2026-04-27",
+      "date_source": "page text ('Posted 5 months ago'); Workable API published 2026-05-12",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no earlier tracker/history evidence found; this posting itself is titled 2026 (last cycle)",
+  "last_cycle_basis": "no earlier tracker/history evidence; this posting itself is titled 2026 (last cycle)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.workable.com/company/qZcsEs6SLAUmDv4AbsPYFC/jobs-at-tp-link-systems-inc.",
   "jobs_spec": null,
-  "evidence": "Board is Workable (no jobs.py API spec). Live posting is titled '2026 Early Career Embedded Software Engineer', posted ~5 months ago, still accepting applications, requires 'continuous work authorization in the US without the need for visa sponsorships'. No 2027-titled posting found; this is a 2026-cycle leftover, not a 2027 opening.",
+  "evidence": "Workable API (tp-link-usa-corp, 82 jobs) re-read 2026-09-30: only early-career SWE is the 2026-titled Embedded SWE (still published; earlier check noted no sponsorship). Other SWE roles need 2-5+ yrs or Senior. No 2027 posting. No deadline stated.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Intercom",
   "tier": 3,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-10-26",
-  "last_cycle_basis": "Tracker first-seen date for 'Graduate Product Engineer Dublin - 2026' (job-boards.greenhouse.io/intercom/jobs/7317849), first seen 2025-10-26 per jobs.py history.",
+  "last_cycle_basis": "Tracker first seen 2025-10-26: 'Graduate Product Engineer Dublin - 2026' (Dublin/London, not US) https://job-boards.greenhouse.io/intercom/jobs/7317849",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/intercom",
   "jobs_spec": "gh:intercom",
-  "evidence": "Greenhouse board (115 postings, --all) has no Graduate/Product Engineer 1/new-grad SWE title currently; last cycle's Dublin grad posting is gone. Graduate program is Dublin/London only, no US new-grad SWE track found.",
+  "evidence": "Greenhouse board (110 postings) 2026-09-30: engineering roles are Dublin/London/Sydney, security, or FDE (Chicago/SF, not entry). Graduate program is Dublin/London only. Previous file said not_yet; changed because no US track.",
   "confidence": "medium"
 }

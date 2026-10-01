@@ -1,15 +1,36 @@
 {
   "company": "Optum (UnitedHealth Group)",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://careers.unitedhealthgroup.com/job/basking-ridge/associate-software-engineer/34088/101072065280",
+      "location": "Basking Ridge, NJ (Remote)",
+      "opened": "2026-09-24",
+      "date_source": "page schema datePosted",
+      "deadline": "at least 2026-09-28",
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Associate AI/ML Engineer",
+      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/101316245472",
+      "location": "Minnetonka, MN (Remote)",
+      "opened": "2026-09-29",
+      "date_source": "page schema datePosted",
+      "deadline": "at least 2026-10-01",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "worklist tracker_last_cycle hint: 2025-08-17 (not independently re-verified this run)",
+  "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (listed Vancouver, Canada / Remote)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.unitedhealthgroup.com",
+  "jobs_page": "https://careers.unitedhealthgroup.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Searched careers.unitedhealthgroup.com job board for 'new grad software engineer' and 'technology development program'; results are all senior/lead/manager roles or unrelated Sales/Consultant development programs, no entry-level SWE or TDP postings found. Session WebSearch budget was exhausted before further verification.",
-  "confidence": "low"
+  "evidence": "Radancy search endpoint + posting pages read: Associate Software Engineer req 2389442 (Bachelor's + 1 yr Python/FastAPI) and Associate AI/ML Engineer (2+ yrs stated), both remote US with Apply. Deadline text: 'minimum of 2 business days or until a sufficient candidate pool'. La Crosse Associate SWE requires US citizenship (excluded). No sponsorship text.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

@@ -1,15 +1,15 @@
 {
   "company": "TD Bank (TD Bank Group)",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-01-16",
-  "last_cycle_basis": "tracker first-seen date 2026-01-16",
+  "last_cycle_opened": "2024-10-08",
+  "last_cycle_basis": "tracker first-seen 2024-10-08 'New Grad 2025: Data Engineer Analyst' New York (two cycles back); no US SWE new-grad posting found for 2025-26",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday board: 'Software Engineer I/II/III' postings live are mostly Toronto/London Ontario (Canada). Only US match is 'Software Engineer II (US)' Mount Laurel NJ, a Salesforce Loyalty Management specialist role with no 2027 grad window, not a campus new-grad posting. Live US 2027 postings are co-op/internship only.",
-  "confidence": "medium"
+  "evidence": "Workday --all (159): Software Engineer I roles are Toronto/London Ontario; 2027 Technology Graduate Programme is Dublin. US tech is 2027 Spring Co-op/Summer Internship (Mount Laurel NJ). No US full-time new-grad SWE live.",
+  "confidence": "high"
 }

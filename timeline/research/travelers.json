@@ -1,22 +1,66 @@
 {
   "company": "Travelers",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Engineering Development Program (EDP) - Software Engineering", "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271", "location": "Hartford, CT (4 locations)",
-     "opened": "2026-09-01", "date_source": "workday postedOn (Posted 26 Days Ago, startDate 2026-09-01)",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Engineering Development Program (EDP) - Data Engineering", "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272", "location": "Hartford, CT (4 locations)",
-     "opened": "2026-09-01", "date_source": "workday postedOn (Posted 26 Days Ago)",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Engineering Development Program (EDP) - Software Engineering",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271",
+      "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+      "opened": "2026-09-01",
+      "date_source": "workday startDate (tracker first seen 2026-08-31)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Engineering Development Program (EDP) - Data Engineering",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272",
+      "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+      "opened": "2026-09-01",
+      "date_source": "workday startDate (tracker first seen 2026-08-31)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I - MERN, AWS",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
+      "location": "St. Paul, MN; Hartford, CT",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I - Elixir, Python, AWS",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
+      "location": "Hartford, CT; St. Paul, MN; Hunt Valley, MD",
+      "opened": "2026-08-27",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I (MERN, AWS)",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988",
+      "location": "Hartford, CT; St. Paul, MN",
+      "opened": "2026-08-14",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-01",
-  "last_cycle_basis": "worklist tracker_last_cycle hint: 2025-08-01",
+  "last_cycle_basis": "tracker history: multiple 'Software Engineer I' postings first seen 2025-08-01; New Grad EDP 2024-09-03",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://travelers.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:travelers/wd5/External",
-  "evidence": "Confirmed 'Engineering Development Program (EDP) - Software Engineering' and '- Data Engineering' both live on the board, posted 2026-09-01. Posting: 'company does not sponsor/support H-1B petitions, TN, or Forms I-983/STEM OPT, for this role.' Also multiple 'Software Engineer I' postings live, some very recent (3-6 days).",
+  "evidence": "Workday API: EDP Software Engineering and EDP Data Engineering (both 2026-09-01) plus Software Engineer I postings live, canApply true; all say company does not sponsor H-1B/TN/STEM OPT. No deadline stated. Software Engineer I AI Agents (3+ yrs) and SE/DE II roles not counted.",
   "confidence": "high"
 }

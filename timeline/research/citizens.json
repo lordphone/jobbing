@@ -1,19 +1,36 @@
 {
   "company": "Citizens (Citizens Financial Group)",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Data Engineer | Enterprise Technology & Security Development Program", "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290", "location": "United States",
-     "opened": "on or before 2026-09-11", "date_source": "tracker first seen",
-     "grad_window": "Spring 2027", "live_verified": "api"}
+    {
+      "title": "Software Engineer | Enterprise Technology & Security Development Program",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
+      "location": "Plano TX / Johnston RI / Phoenix AZ",
+      "opened": "2026-09-11",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Spring 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Data Engineer | Enterprise Technology & Security Development Program",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
+      "location": "Plano TX / Johnston RI / Phoenix AZ",
+      "opened": "2026-09-11",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Spring 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first-seen date 2025-10-30",
+  "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Confirmed via jobs.py detail on Citizens' own Oracle board: 'Data Engineer | Enterprise Technology & Security Development Program', grad Spring 2027, GPA 3.0+ min. Not eligible for CPT/OPT/visa sponsorship, permanent work authorization required.",
+  "evidence": "Opened both ETS Development Program postings (Software Engineer, Data Engineer) in browser/Oracle API: live, Spring 2027 grad, start 2027-06-28. Not in search list; permanent work authorization required, no sponsorship. No deadline stated.",
   "confidence": "high"
 }

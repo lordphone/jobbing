@@ -1,19 +1,15 @@
 {
   "company": "Samsara",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "closed",
-  "postings": [
-    {"title": "Software Engineer 1 New Grad", "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
-     "location": "SF", "opened": "2026-08-03", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
-  ],
   "last_cycle_opened": "2025-08-27",
-  "last_cycle_basis": "tracker first-seen: \"New Grad – Software Engineering\", SF, https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first-seen: 'New Grad \u2013 Software Engineering' SF, https://www.samsara.com/company/careers/roles/7172579",
   "jobs_page": "https://job-boards.greenhouse.io/samsara",
   "jobs_spec": "gh:samsara",
-  "evidence": "Full GH board (--all) has no live new-grad SWE title, only Software Engineer II+ (18 months+ exp required per posting text). Tracker's 2026-08-03 \"Software Engineer 1 New Grad\" (SF, gh_jid 8097343) 404s on the Greenhouse jobs API, confirming it's closed.",
-  "confidence": "high"
+  "evidence": "Full gh:samsara board (239, --all) 2026-09-30: no US new-grad SWE; only SWE II, Poland SWE I, sales new-grad roles. Tracker's 2026-08-03 'Software Engineer 1 New Grad' (gh_jid 8097343) returns 404 on Greenhouse API, so closed.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

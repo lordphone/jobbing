@@ -1,15 +1,15 @@
 {
   "company": "Fiserv",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker_last_cycle from worklist entry; tracker history shows this cycle's rolling Technology Analyst Program postings opening 2026-03 through 2026-05 (already closed) by location",
+  "last_cycle_basis": "tracker history: 'Technology Analyst Program - Cyber Security' Columbus OH first seen 2025-11-01; rolling TAP reqs by location through 2026-05",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fiserv.wd5.myworkdayjobs.com/ext",
   "jobs_spec": "wd:fiserv/wd5/ext",
-  "evidence": "Re-checked Workday board (--all): still no live 'Technology Analyst Program' postings, only a Military Pathways apprenticeship and senior SWE roles.",
+  "evidence": "Workday board (--all, 42 postings) 2026-09-30: no 'Technology Analyst Program' or entry-level SWE live; only Sr/4+ yr roles (Java Software Engineer Omaha needs 4+ yrs, no sponsorship). TAP reqs rolled out Nov-Mar by location last cycle, all closed now.",
   "confidence": "medium"
 }

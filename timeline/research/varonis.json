@@ -1,6 +1,7 @@
 {
   "company": "Varonis",
   "tier": 6,
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.varonis.com/",
   "jobs_spec": null,
-  "evidence": "No jobs.py spec found (guess found no match); careers.varonis.com is a JS-rendered SPA that returned no listing content via WebFetch. Kept prior finding: R&D is mainly Israel, US roles mostly sales/support.",
-  "confidence": "low",
-  "checked": "2026-09-27"
+  "evidence": "Read jobs.jobvite.com/varonis (2026-09-30): US R&D is Applied/Senior Data Scientist and Software Escalation Engineer (Morrisville NC, 3+ yrs, Tier-IV). No entry-level SWE; other SWE roles are Senior/Israel/Canada/India.",
+  "confidence": "medium"
 }

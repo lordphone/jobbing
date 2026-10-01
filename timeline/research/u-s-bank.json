@@ -1,25 +1,26 @@
 {
   "company": "U.S. Bank",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "2027 Engineering Rotational Program",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
       "location": "Hopkins, MN",
-      "opened": "2026-09-25",
-      "date_source": "workday postedOn",
-      "grad_window": "Bachelor's degree completed December 2026 or Spring 2027, start July 12, 2027",
-      "live_verified": "browser"
+      "opened": "2026-09-14",
+      "date_source": "tracker first seen (workday startDate/repost 2026-09-25)",
+      "deadline": "2026-10-02",
+      "grad_window": "Bachelor's completed Dec 2026 or spring 2027, start Jul 2027",
+      "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2026-09-13",
-  "last_cycle_basis": "tracker: 'Associate Software Engineer - C# - .NET Core', Hopkins MN, first seen 2026-09-13 (closed now); U.S. Bank's tracker_last_cycle field said 2025-12-02",
+  "last_cycle_opened": "2025-12-02",
+  "last_cycle_basis": "tracker history: 'C# / .NET Software Application Support / Engineer' first seen 2025-12-02; 'Full-Stack Java / Spring Boot Developer' 2025-12-18; 2025 Engineering Rotational Program first seen 2024-08-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
   "jobs_spec": "wd:usbank/wd1/US_Bank_Careers",
-  "evidence": "Re-confirmed via Workday board: '2027 Engineering Rotational Program' (Hopkins, MN) still live, posted 2026-09-25; rotational program choosing 'software or infrastructure engineering' path, Dec 2026/Spring 2027 grad window, start Jul 2027.",
+  "evidence": "Workday API 2026-09-30: 2027 Engineering Rotational Program live (canApply true), software or infrastructure engineering path, CS degree Dec 2026/spring 2027. Deadline is Workday endDate 2026-10-02. No sponsorship or clearance line found.",
   "confidence": "high"
 }

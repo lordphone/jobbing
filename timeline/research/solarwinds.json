@@ -1,6 +1,7 @@
 {
   "company": "SolarWinds",
   "tier": 6,
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.solarwinds.com/",
   "jobs_spec": "gh:solarwinds",
-  "evidence": "Checked Greenhouse board via jobs.py (56 postings, 0 new-grad-filtered). The one US 'Software Engineer' posting is Bangalore, India; the one Austin engineering role is Staff-level. No US entry-level SWE track found.",
-  "confidence": "high",
-  "checked": "2026-09-27"
+  "evidence": "Greenhouse gh:solarwinds, 58 postings via jobs.py --all (2026-09-30): SWE roles are Bangalore Software Engineer, Staff SWE Austin, SREs in Europe/India. No US entry-level SWE.",
+  "confidence": "high"
 }

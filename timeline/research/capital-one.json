@@ -1,19 +1,25 @@
 {
   "company": "Capital One",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "open",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [
-    {"title": "Technology Development Program Associate - February 2027", "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2027_R244320-1", "location": "McLean, VA (3 locations)",
-     "opened": "on or before 2026-09-21", "date_source": "workday postedOn",
-     "grad_window": "February 2027 start", "live_verified": "api"}
+    {
+      "title": "Technology Development Program Associate - February 2027",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2027_R244320-1",
+      "location": "McLean, VA (3 locations)",
+      "opened": "on or before 2026-09-21",
+      "date_source": "workday postedOn (previous check 2026-09-27)",
+      "grad_window": "February 2027 start",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-09-09",
-  "last_cycle_basis": "worklist tracker_last_cycle: 2025-09-09",
+  "last_cycle_basis": "tracker history: US Technology Development Program Associate first seen 2025-09-09 (McLean/Richmond/Plano)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
   "jobs_spec": "wd:capitalone/wd12/Capital_One",
-  "evidence": "jobs.py board+detail confirms live 'Technology Development Program Associate - February 2027' posting (McLean VA), posted ~2026-09-21, explicitly no sponsorship. Matches prior TDP pattern.",
-  "confidence": "high"
+  "evidence": "Browser pane 2026-09-30: US TDP Feb 2027 posting (R244320-1) returns 'page doesn't exist'; Workday board (--all) has only Mexico TDP 2027, Toronto new grads and interns. Tracker shows US TDP reposts (08-30, 09-13) also closed. No sponsorship.",
+  "confidence": "medium"
 }

@@ -1,18 +1,26 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "open",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [
-    {"title": "2027 Software Engineer - New York", "url": "https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414", "location": "New York, NY",
-     "opened": "unknown (page loads via JS; not shown)", "date_source": "page text", "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "2027 Software Engineer - New York",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414",
+      "location": "New York, NY",
+      "opened": "unknown (page has no date)",
+      "date_source": "none",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker history: 'Software Engineering Associate' (Bloomberg Industry Group, Arlington VA) first seen 2025-09-25; main Bloomberg LP 2026-cycle posting date not found",
+  "last_cycle_basis": "tracker history: Bloomberg Industry Group 'Software Engineering Associate' first seen 2025-09-25; main Bloomberg LP posted its 2025 New Grad SWE on 2024-09-17; 2026-cycle LP posting date not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "Browser-verified live posting titled '2027 Software Engineer - New York' with an active Apply Now button on Bloomberg LP's own Avature career site (distinct from the Bloomberg Industry Group Workday board previously checked, which has no SWE opening). Posting details load via JS and were not extractable, so grad-window/sponsorship text not confirmed.",
+  "evidence": "Browser pane 2026-09-30: '2027 Software Engineer - New York' (21414) page has Apply button but no description (live pages show one); Avature searches for 2027, new grad, graduate, software engineer list no entry-level or 2027 SWE in US. BIG Workday board has no SWE new grad. Treated as closed.",
   "confidence": "medium"
 }

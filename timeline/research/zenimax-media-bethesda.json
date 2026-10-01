@@ -1,15 +1,15 @@
 {
   "company": "ZeniMax Media / Bethesda (Microsoft)",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "none found in tracker history or first-party board",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://apply.careers.microsoft.com/careers?q=ZeniMax",
+  "jobs_page": "https://jobs.zenimax.com/jobs",
   "jobs_spec": null,
-  "evidence": "gh:bethesda is still the wrong company. Microsoft's careers site search box (typed 'ZeniMax' and clicked Search, also tried the q= URL param) does not filter the 2332-job listing in the browser pane -- results stay generic Microsoft jobs regardless of query. WebSearch found only mid/senior Bethesda Game Studios programmer roles (3-7 yrs experience) via builtin.com mirrors, no new-grad-track posting. Could not isolate a working ZeniMax/Bethesda-specific search within budget.",
-  "confidence": "low"
+  "evidence": "jobs.zenimax.com/jobs opened in browser 2026-09-30: 2 postings (Director Workplace Services, Senior Environment Artist). No SWE roles.",
+  "confidence": "high"
 }

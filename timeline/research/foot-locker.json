@@ -1,15 +1,26 @@
 {
   "company": "Foot Locker (part of Dick's Sporting Goods)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Associate Software Engineer - Merchandise Technology",
+      "url": "https://careers.footlocker.com/jobs/71916",
+      "location": "Remote, US",
+      "opened": "2026-09-15",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-12-05",
-  "last_cycle_basis": "tracker_last_cycle from prior run (Simplify tracker); Technology Development Program - Data Scientist posting.",
+  "last_cycle_basis": "Simplify tracker (prior run): Technology Development Program - Data Scientist posting.",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://careers.footlocker.com",
   "jobs_spec": null,
-  "evidence": "Tracker history shows 'Associate Software Engineer - Merchandise Technology' (remote US) posted 2026-09-15. Confirmed gone: direct URL now returns 404. Technology category search page also 404s on the careers site. Confirms prior closed result.",
-  "confidence": "medium"
+  "evidence": "Jibe API (careers.footlocker.com): req 71916 Associate Software Engineer (opened 2026-09-15) now 404. Live engineer roles need 3+ years and say no sponsorship (71846, 72115). No graduate/early career results.",
+  "confidence": "high"
 }

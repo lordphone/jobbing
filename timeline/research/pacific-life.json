@@ -1,22 +1,26 @@
 {
   "company": "Pacific Life",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I", "url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Software-Engineer-I_R17694", "location": "Newport Beach, CA",
-     "opened": "2026-09-21", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Technology Rotation Program Associate", "url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Rotation-Program-Associate_R17829", "location": "Newport Beach, CA",
-     "opened": "2026-09-25", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Technology Rotation Program Associate",
+      "url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Rotation-Program-Associate_R17829",
+      "location": "Newport Beach, CA",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "first rotation starts July 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no matching SWE new-grad posting for this company (only Investments Operational Support Analyst)",
+  "last_cycle_basis": "tracker history has no matching SWE new-grad posting for this company",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
   "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
-  "evidence": "Workday API. Software Engineer I (0.5-2 yrs exp, Newport Beach, posted 2026-09-21) and Technology Rotation Program Associate (posted 2026-09-25) are live now, both entry-level tracks.",
-  "confidence": "high"
+  "evidence": "Workday API, canApply true: 18-month rotation on technology teams, CS/IS/engineering degree preferred; not explicitly SWE, so borderline. No deadline. Summer 2027 SWE internship also live (not counted).",
+  "confidence": "medium"
 }

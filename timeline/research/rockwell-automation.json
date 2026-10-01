@@ -1,12 +1,19 @@
 {
   "company": "Rockwell Automation",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Leadership Development Program, Product Engineering & Development", "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
-     "location": "Mayfield Heights, OH", "opened": "on or before 2026-09-21", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "EDGE, Information Technology Rotational Program",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/EDGE-Associate--Information-Technology-Rotational-Program_R26-5375-1",
+      "location": "Milwaukee, WI, United States",
+      "opened": "2026-09-10",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Graduating or graduated before ~June/July 2027 start",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "jobs.py history: 'Associate Engineer Embedded Software' (Mayfield Heights, OH), first seen 2025-11-13",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
   "jobs_spec": "wd:rockwellautomation/wd1/External_Rockwell_Automation",
-  "evidence": "Workday board: 'Leadership Development Program, Product Engineering & Development' (Mayfield Heights, OH) is live, posted 2026-09-21, full-time, and states 'We will not sponsor individuals for employment visas, now or in the future.' Also live: Co-op/Intern AI Software Engineering roles (internships, not counted).",
+  "evidence": "Workday API 2026-09-30: EDGE IT Rotational Program live (app development/AI/cloud rotations), says no visa sponsorship ever; no end date. Software Engineer - C++ (Milwaukee, 2026-09-29) prefers ~2 yrs, mid-level, not counted; Mayfield Software Engineer wants 5+ yrs. LDP Product Engineering is gone.",
   "confidence": "medium"
 }

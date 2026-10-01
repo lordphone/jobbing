@@ -1,15 +1,15 @@
 {
   "company": "dbt Labs",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE history found; company now recruits via Fivetran's shared career site following the dbt Labs + Fivetran merger",
+  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.getdbt.com/about-us/careers",
-  "jobs_spec": null,
-  "evidence": "dbt Labs merged with Fivetran; open roles now list under fivetran.com/careers (gh_jid links). Only unqualified 'Software Engineer' titles found (Oakland) require 3+ years experience per posting text. No entry-level/new-grad SWE track found.",
+  "jobs_page": "https://www.fivetran.com/careers",
+  "jobs_spec": "gh:fivetran",
+  "evidence": "dbt Labs posts on Fivetran Greenhouse (gh:fivetran, 188 postings) re-checked: US SWE roles Senior/Staff/Principal/Manager; no entry track.",
   "confidence": "medium"
 }

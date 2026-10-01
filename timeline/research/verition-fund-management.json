@@ -1,15 +1,26 @@
 {
   "company": "Verition Fund Management",
   "tier": 4,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only Quantitative Developer/Analyst reqs (2024-2026), none labeled new-grad SWE; closest is 'Quantitative Developer' first tracked 2025-10-30 (open-ended req, not a labeled cycle posting)",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Platform Engineer",
+      "url": "https://www.verition.com/open-positions?gh_jid=5173326007",
+      "location": "New York, NY",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-10-30",
+  "last_cycle_basis": "tracker: Quantitative Developer (multi-location) first seen 2025-10-30; no labeled SWE new-grad program",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.verition.com/open-positions",
   "jobs_spec": "gh:veritiongroupllc",
-  "evidence": "Found the embedded Greenhouse board (gh:veritiongroupllc, 27 postings) via the page's iframe src. Only 'Associate Platform Engineer' (NY, opened 2026-09-02) is SWE-adjacent, but its posting explicitly requires '1+ year of experience in a similar position', so it doesn't qualify as new-grad. '2027 Technology Internship (US)' (opened 2026-08-19) is an internship, not counted. No full-time new-grad-labeled SWE title found.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (27 postings), detail read: Associate Platform Engineer (NY, internal web apps/Python/SQL, 1+ yr, first published 2026-09-02, updated 2026-09-28) is associate-level, no class year; counted as entry-level. 2027 Technology Internship is intern only. No deadline stated.",
+  "confidence": "medium"
 }

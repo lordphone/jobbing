@@ -1,15 +1,26 @@
 {
   "company": "Centene",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Business Solutions Developer 1",
+      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Solutions-Developer-I_1652686-1",
+      "location": "Remote, Missouri",
+      "opened": "2026-08-18",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker/board history: Application Development Engineer I (Missouri, remote) first seen 2025-09-15; also Cloud Platform Engineer I 2025-10-17. Both now closed.",
+  "last_cycle_basis": "tracker first seen: Application Development Engineer I, Remote MO, centene.wd5.myworkdayjobs.com; Data Engineer I from 2025-09-18",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://centene.wd5.myworkdayjobs.com/Centene_External",
   "jobs_spec": "wd:centene/wd5/Centene_External",
-  "evidence": "Checked full Workday board (--all); only open engineering role is Senior IAM Engineer (not entry level). No live Engineer I / Developer I posting this cycle.",
-  "confidence": "high"
+  "evidence": "Workday board (51, --all): only Summer 2027 interns and senior roles. Tracker-seen entry-level Business Solutions Developer 1 (2026-08-18) and Automation Engineer (08-10) are gone from board; Engineer I roles were posted from Sept last cycle.",
+  "confidence": "medium"
 }

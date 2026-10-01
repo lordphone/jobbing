@@ -1,7 +1,7 @@
 {
   "company": "MGM Resorts International",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
   "jobs_spec": "wd:mgmresorts/wd5/MGMCareers",
-  "evidence": "Checked Workday board for engineer/analyst/software titles: only Lead Data Engineer and 'Engineer Computer'/'Computer Engineer' roles (IT/facilities support, not software development). No SWE postings, no entry-level track.",
-  "confidence": "medium"
+  "evidence": "Workday API --all 2026-09-30, 24 postings: Lead Data Engineer, internships, computer/property tech-ops engineers (IT support). No entry-level SWE.",
+  "confidence": "high"
 }

@@ -1,19 +1,26 @@
 {
   "company": "Equifax",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Site Reliability Engineer - Rotational Development Program", "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675", "location": "St. Louis, MO",
-     "opened": "2026-09-01", "date_source": "workday startDate/postedOn",
-     "grad_window": "availability by June 2027 (Spring 2027 graduation)", "live_verified": "api"}
+    {
+      "title": "Site Reliability Engineer - Rotational Development Program",
+      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675",
+      "location": "St. Louis, MO",
+      "opened": "2026-09-01",
+      "date_source": "workday startDate/postedOn",
+      "grad_window": "availability by June 2027 (Spring 2027 graduation)",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
-  "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "worklist tracker_last_cycle hint (2025-09-07); tracker history print also shows a Dec 2025/Jan 2026 entry-level tech posting cluster.",
+  "last_cycle_opened": "2025-09-04",
+  "last_cycle_basis": "Workday startDate of 2025 'Rotational Technology Associate' (Alpharetta, May 2026 grads); tracker first seen 2025-09-07.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://equifax.wd5.myworkdayjobs.com/UR_External",
   "jobs_spec": "wd:equifax/wd5/UR_External",
-  "evidence": "Workday API detail: 'Site Reliability Engineer - Rotational Development Program' explicitly requires 'Availability for full-time employment by June 2027 (Spring 2027 graduation dates)'. Live, posted 2026-09-01, St. Louis MO. Two copies of the requisition are posted (J00170527 and J00178675).",
-  "confidence": "high"
+  "evidence": "Re-read via API 2026-09-30, canApply true: SRE Rotational Development Program (St. Louis, Spring 2027 grads, posted 2026-09-01). Other rotational roles are data, finance, sales; older Technology Associate is May 2026 leftover. No deadline or sponsorship line.",
+  "confidence": "medium"
 }

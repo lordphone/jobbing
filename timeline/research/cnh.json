@@ -1,15 +1,15 @@
 {
   "company": "CNH (CNH Industrial)",
-  "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record; not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "no_program_found",
   "jobs_page": "https://join.cnh.com/search/?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Checked first-party board (251 results for 'software engineer'). US full-time 'Software Engineer' posting (Tempe, AZ) requires a Master's degree + 3 years experience, not entry-level. Only Software Engineer Intern/Co-op roles are entry-level this cycle; no full-time new-grad SWE track found.",
-  "confidence": "medium"
+  "evidence": "Board 'software' search read in browser 2026-09-30 (120 results, all pages): US full-time roles are Software Engineer (Tempe, Master's+experience style posting, Req 4935), AI Development Engineer, Senior, Tech Lead, Systems Engineer II. Software/AI/data postings otherwise interns. No new-grad SWE track.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

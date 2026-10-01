@@ -1,15 +1,15 @@
 {
   "company": "Colgate-Palmolive",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "SimplifyJobs/vanshb03 trackers: 0 postings found for Colgate",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.colgate.com/go/Information-Technology/8516700/",
   "jobs_spec": null,
-  "evidence": "Keyword search on jobs.colgate.com now filters correctly; reviewed all 27 live Information Technology postings (Piscataway/Mumbai) - all senior/specialist/manager/architect level, no entry-level SWE title. Reviewed all 31 Student Opportunities postings - all internships/co-ops (2027 CS&L, CDO, Finance, Marketing interns), no full-time new-grad track. No tracker history either.",
-  "confidence": "medium"
+  "evidence": "IT category (27 jobs) and Student Opportunities (29) read in browser 2026-09-30. US IT roles in Piscataway: Full Stack Developer needs 4+ yrs and no sponsorship, Data Engineer 2+ yrs, Platform Engineer, architects. Student postings are interns/co-ops; Mumbai trainees only.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

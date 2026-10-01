@@ -1,15 +1,15 @@
 {
   "company": "AppFolio",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only a 2024-10-03 Software Engineer I posting (Santa Barbara/San Diego/Dallas), outside the 2025-07 to 2026-01 window; no more recent last-cycle posting found",
+  "last_cycle_basis": "tracker shows only a 2024-10-03 Software Engineer I posting (Santa Barbara/San Diego/Dallas), outside the 2025-07 to 2026-01 window; nothing later found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jvistg2.com/appfolio",
   "jobs_spec": null,
-  "evidence": "Careers page (appfolio.com/open-roles) uses a Radancy-hosted board at jobs.jvistg2.com/appfolio, no first-party API. Checked full listing: only Director/Manager/Sr/Staff/Principal SWE and ML roles at Santa Barbara/San Diego/Dallas hubs. No entry-level SWE posting live.",
+  "evidence": "WebFetch of first-party board (linked from appfolio.com/open-roles) 2026-09-30: 13 engineering/ML roles, all Sr/Staff/Principal/Manager/Director. No Software Engineer I or new-grad posting. Not opened in browser.",
   "confidence": "medium"
 }

@@ -1,19 +1,36 @@
 {
   "company": "GE Vernova",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "AI Engineer", "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2", "location": "Greenville, SC",
-     "opened": "2026-09-10", "date_source": "workday postedOn (Posted 17 Days Ago) + tracker first seen 2026-09-09",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "AI Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
+      "location": "Greenville, SC",
+      "opened": "2026-09-09",
+      "date_source": "tracker first seen (workday startDate 2026-09-10)",
+      "deadline": "2026-11-30",
+      "grad_window": "Bachelor's completed by start date",
+      "live_verified": "api"
+    },
+    {
+      "title": "GE Vernova Advanced Research Development Program (Edison, Master's Level) - US 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Development-Program--Edison--Master-s-Level----US-2027_R5047236-2",
+      "location": "Niskayuna, NY",
+      "opened": "2026-09-15",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Master's within past 12 months",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-10",
-  "last_cycle_basis": "tracker_last_cycle from prior pass: 2025-12-10 (not independently re-verified this run)",
+  "last_cycle_basis": "tracker_last_cycle from prior pass: Software Engineering Specialist (Bellevue) 2025-12-10",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting",
-  "jobs_spec": "wd:gevernova/wd5/only_confidential_executive_recruiting",
-  "evidence": "Confirmed AI Engineer live via jobs.py detail on the company's own board: posting explicitly says 'designed for a recent graduate who enjoys building working systems, learning new technologies and turning prototypes into maintainable solutions'.",
+  "no_sponsorship": true,
+  "jobs_page": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite",
+  "jobs_spec": "wd:gevernova/wd5/vernova_externalsite",
+  "evidence": "Read both via CXS API: entry-level AI Engineer (Greenville, endDate 2026-11-30) and Master's R&D program with AI/software/robotics areas (no sponsorship now or future). Nuclear/Wind Edison programs are not SWE. Same status, second posting and deadline added.",
   "confidence": "high"
 }

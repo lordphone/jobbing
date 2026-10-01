@@ -1,19 +1,26 @@
 {
   "company": "Ginkgo Bioworks",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer 2, Autonomous Lab", "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007", "location": "Boston, MA",
-     "opened": "2026-06-17", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer 2, Autonomous Lab",
+      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007",
+      "location": "Boston, Massachusetts; Boston Drydock",
+      "opened": "2026-06-17",
+      "date_source": "greenhouse first_published",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no prior-cycle posting found in this run",
+  "last_cycle_basis": "unknown; only a Software Intern posting 2026-01-28 (intern, not counted)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/ginkgobioworks",
   "jobs_spec": "gh:ginkgobioworks",
-  "evidence": "Opened 'Software Engineer 2, Autonomous Lab' posting: minimum requirement is a bachelor's/master's degree plus 'some professional software development experience, including internships, academic research, or full time employment', $85.6k-$120.2k salary; qualifies as entry-level SWE. Posting states Ginkgo cannot sponsor/take over H-1B sponsorship.",
+  "evidence": "Greenhouse API 2026-09-30: Software Engineer 2, Autonomous Lab live (first published 2026-06-17, no deadline); min reqs bachelor's/master's plus some experience incl. internships; no class year. Cannot sponsor H-1B. Other SWE roles senior/III.",
   "confidence": "medium"
 }

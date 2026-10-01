@@ -1,15 +1,15 @@
 {
   "company": "Doximity",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker evidence of a new-grad SWE track.",
+  "last_cycle_basis": "No tracker history of new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doximity",
   "jobs_spec": "gh:doximity",
-  "evidence": "jobs.py board gh:doximity --all lists 13 postings; engineering roles are Senior Software Engineer and Staff Applied AI Engineer only. No entry-level/new-grad SWE posting.",
+  "evidence": "Greenhouse API (14 postings) rechecked. Engineering roles are Senior Software Engineer, Data and Staff Applied AI Engineer; no entry-level SWE.",
   "confidence": "high"
 }

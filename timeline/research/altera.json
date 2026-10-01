@@ -1,15 +1,15 @@
 {
   "company": "Altera",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'Altera' matched only Altera Digital Health (unrelated company) and one FPGA tools engineer; no SWE new-grad history found",
+  "last_cycle_basis": "unknown - no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://altera.wd1.myworkdayjobs.com/altera",
   "jobs_spec": "wd:altera/wd1/altera",
-  "evidence": "Checked full Workday board (~35 postings): all FPGA/hardware/silicon design, field applications, or senior software management roles (e.g. Software Engineering Manager). No entry-level or new-grad SWE posting.",
+  "evidence": "Workday API (52 postings) rechecked: US software-ish roles are a San Jose AI Engineer contract and a GUI Engineering Manager; Junior Verification Engineer is Israel, interns are Toronto/Bengaluru. No US entry SWE this cycle or last.",
   "confidence": "medium"
 }

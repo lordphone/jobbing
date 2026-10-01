@@ -1,12 +1,19 @@
 {
   "company": "InterSystems",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Core Development Program", "url": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003", "location": "Boston, MA",
-     "opened": "2026-09-01", "date_source": "greenhouse first_published",
-     "grad_window": "Fall 2026 or Spring 2027", "live_verified": "api"}
+    {
+      "title": "Core Development Program (Software Engineer Rotational Program - Early Career)",
+      "url": "https://job-boards.greenhouse.io/intersystems/jobs/7827894003",
+      "location": "Boston, MA",
+      "opened": "2026-09-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Fall 2026 or Spring 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-08",
   "last_cycle_basis": "tracker history: Core Development Program, Boston MA, first seen 2025-09-08",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/intersystems",
   "jobs_spec": "gh:intersystems",
-  "evidence": "Greenhouse API confirms live posting (job id 7827894003), currently titled 'Core Development Program' (tracker's cached title was 'Software Engineer Rotational Program - Early Career', same posting id). Detail text: grad window Fall 2026/Spring 2027, Boston MA.",
+  "evidence": "Greenhouse API + detail: live 'Core Development Program' Boston (200 OK, first published 2026-09-01), for grads Fall 2026 or Spring 2027 (BS/MS/PhD), no citizenship language, no deadline. Also Quality Development Program (Boston, 2026-09-01) not assessed.",
   "confidence": "high"
 }

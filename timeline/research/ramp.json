@@ -1,15 +1,15 @@
 {
   "company": "Ramp",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-08-01",
-  "last_cycle_basis": "jobs.py history 'ramp': 'New Grad 2026: Software Engineer - Backend' and '...Frontend' both first seen 2025-08-01/02 on jobs.ashbyhq.com/ramp (tracker), matching tracker_last_cycle in worklist.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker: 'University Grad - Software Engineer - Frontend' and New Grad 2026 SWE roles first seen 2025-08-01 on jobs.ashbyhq.com/ramp.",
   "jobs_page": "https://jobs.ashbyhq.com/ramp",
   "jobs_spec": "ashby:ramp",
-  "evidence": "Checked full ashby:ramp board (--all). No 'New Grad 2027' or university-grad SWE posting live; current 'Software Engineer, <team>' postings show no stated experience floor in detail text but are undifferentiated generalist reqs, not the new-grad-labeled track Ramp used last cycle (Aug 2025). History confirms last cycle's new-grad postings opened 2025-08-01/02; no equivalent 2027 posting yet.",
-  "confidence": "medium"
+  "evidence": "ashby:ramp board (155, --all) checked 2026-09-30: only 'University Grad | Customer Experience Associate' (not SWE) plus 2027 SWE interns (NY). SWE roles are generic/experienced. Last year opened Aug 1, so late.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

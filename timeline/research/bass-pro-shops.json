@@ -1,15 +1,15 @@
 {
   "company": "Bass Pro Shops (incl. Cabela's)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows a 'Developer 1' posting 2026-02-27 (closed); title suggests an entry track but no live equivalent found this cycle.",
+  "last_cycle_basis": "Tracker history shows a 'Developer 1' posting 2026-02-27 (closed); outside the Jul-Jan window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://basspro.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:basspro/wd1/careers",
-  "evidence": "Checked full Workday board (63 postings, --all). Software/engineer titles found (Engineer-Angular requires 4+ yrs, others Senior/Principal/Lead) all require years of experience; only intern/co-op programs are entry-level. No qualifying new-grad SWE postings.",
-  "confidence": "high"
+  "evidence": "Workday board (66 postings): Engineer - Angular, Senior/Principal/Lead software roles, IT Developer Intern Summer 2027, co-ops. No entry SWE; Developer 1 (2026-02-27) closed.",
+  "confidence": "medium"
 }

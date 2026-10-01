@@ -1,15 +1,15 @@
 {
   "company": "ClickHouse",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history matched 'clickhouse'; no first-party evidence of a prior-cycle new-grad posting found this pass.",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/clickhouse",
   "jobs_spec": "ashby:clickhouse",
-  "evidence": "Checked all 189 live Ashby postings: every Software/Full Stack/Backend/Core engineer role is Senior or Engineering Manager level; no 2027, graduate, entry-level, or 0-1 year language anywhere. No new-grad track live yet.",
-  "confidence": "high"
+  "evidence": "ashby:clickhouse --all (~190): US SWE roles need 5-6+ yrs or solid professional experience (Cloud SWE Observability, Full Stack Control Plane, Core C++); no entry-level or new-grad title. Earlier pass noted new-grad postings in past cycles, unconfirmed.",
+  "confidence": "medium"
 }

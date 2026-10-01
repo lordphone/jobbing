@@ -1,19 +1,25 @@
 {
   "company": "Ibotta",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [
-    {"title": "Associate Software Engineer", "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d/application", "location": "Denver, CO",
-     "opened": "2026-07-07", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d/application",
+      "location": "Denver, CO",
+      "opened": "2026-07-07",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "no"
+    }
   ],
   "last_cycle_opened": "2026-02-13",
-  "last_cycle_basis": "tracker history: Associate Software Engineer, Denver CO, first seen 2026-02-13 (Workday board era)",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver, Workday era, https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ibotta's Workday board (wd:ibotta/wd1/Ibotta) now returns 0 postings; company has moved to Ashby. Tracker history shows an 'Associate Software Engineer' posting opened 2026-07-07 (this cycle) that is no longer on the current 42-posting Ashby board (--all checked); only a 'Software Engineer Intern' and other internships remain, no active new-grad/associate SWE role.",
+  "evidence": "Ashby (46, --all) 2026-09-30: only SWE Intern, Data Engineering Intern, Data Engineer, Staff SWE and managers. Associate Software Engineer (opened 2026-07-07 per tracker) is gone from the board.",
   "confidence": "high"
 }

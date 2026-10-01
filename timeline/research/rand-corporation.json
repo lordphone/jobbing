@@ -1,15 +1,15 @@
 {
   "company": "RAND Corporation",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history checked",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://rand.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:rand/wd5/External_Career_Site",
-  "evidence": "Found Workday board via brute-force probe; only 2 total postings open (Research Lead, AI/Bio Research Project Manager), neither an entry-level SWE role. RAND is a research think tank, not a software engineering employer at scale.",
+  "evidence": "Workday API lists 3 postings (Research Lead AI Cyber Testing, Alternate FSO, AI/Bio Research Project Manager); none entry-level SWE. No clearance quote found, so not marked excluded.",
   "confidence": "medium"
 }

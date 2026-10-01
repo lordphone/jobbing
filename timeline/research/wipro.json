@@ -1,19 +1,36 @@
 {
   "company": "Wipro",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Junior Forward Deployed Engineer", "url": "https://careers.wipro.com/job/Junior-Forward-Deployed-Engineer/160017-en_US",
-     "location": "Plano, TX / Boston, MA / East Brunswick, NJ", "opened": "on or before 2026-04-10", "date_source": "page text 'Posting Start Date: 4/10/26'",
-     "grad_window": "recent graduate, 0-2 years experience (no explicit class-year language)", "live_verified": "browser"}
+    {
+      "title": "AI Developer (Entry Level)",
+      "url": "https://careers.wipro.com/job/AI-Developer-%28Entry-Level%29/159939-en_US",
+      "location": "Charlotte NC; Dallas; Jersey City NJ; Pennington NJ; St Louis",
+      "opened": "2026-04-10",
+      "date_source": "SuccessFactors API start date",
+      "deadline": null,
+      "grad_window": "Recent university graduate of a STEM Master's degree program",
+      "live_verified": "api"
+    },
+    {
+      "title": "Junior Forward Deployed Engineer",
+      "url": "https://careers.wipro.com/job/Junior-Forward-Deployed-Engineer/160017-en_US",
+      "location": "Plano TX; Boston; East Brunswick NJ (also Austin, Louisville)",
+      "opened": "2026-04-10",
+      "date_source": "SuccessFactors API start date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero Wipro entries in either tracker",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; jobs.py history has no Wipro entries",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.wipro.com/search/?q=software+engineer&locationsearch=United+States",
+  "jobs_page": "https://careers.wipro.com/search/?q=entry+level&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "careers.wipro.com (SuccessFactors board) loads and filters correctly in the browser pane. Searched 'software engineer' + United States (295 results) and found a live 'Junior Forward Deployed Engineer' posting (US, recent-grad qualified, no sponsorship exclusion stated). Wipro's Early Careers page (careers.wipro.com/content/Early-Careers) lists Elite/Turbo/STAR/WILP campus programs, all explicitly recruiting from Indian institutes, not the US.",
+  "evidence": "Wipro recruiting API (533 US jobs, 354 read) lists AI Developer (Entry Level) and Junior FDE, start 2026-04-10, no end date. Opened AI Developer page: Apply shown, requires recent STEM Master's grad, no citizenship/sponsorship text. Rolling, no class year.",
   "confidence": "medium"
 }

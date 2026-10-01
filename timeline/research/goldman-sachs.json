@@ -1,15 +1,19 @@
 {
   "company": "Goldman Sachs",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 | Americas | New York City Area | Engineering | New Analyst", "url": "https://higher.gs.com/roles/171569", "location": "New York, NY",
-     "opened": "2026-08-14", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"},
-    {"title": "2027 | Americas | Salt Lake City | Engineering | New Analyst", "url": "https://higher.gs.com/roles/171570", "location": "Salt Lake City, UT",
-     "opened": "2026-08-14", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "2027 | Americas | New York City Area | Engineering | New Analyst",
+      "url": "https://higher.gs.com/roles/171569",
+      "location": "New York, NY",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "final-year undergraduate and graduate students (page text)",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-08-01",
   "last_cycle_basis": "tracker history: '2026 - Americas - Salt Lake City - Engineering New Analyst' first seen 2025-08-01",
@@ -17,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "Browser-verified both NYC and Salt Lake City 2027 Engineering New Analyst postings are live with real Apply links (Oracle apply flow), contradicting tracker's 'closed' flag (stale, per skill note). Titled '2027' New Analyst full-time program, Engineering division.",
-  "confidence": "high"
+  "evidence": "Browser pane 2026-09-30: NYC 2027 Engineering New Analyst (171569) shows Apply link. SLC (171570) and Dallas (171568) 2027 pages show no Apply button, so closed. Sponsorship and deadline not stated; opened from tracker.",
+  "confidence": "medium"
 }

@@ -1,15 +1,26 @@
 {
   "company": "MetLife",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "unknown",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Platform Engineer",
+      "url": "https://www.metlifecareers.com/en_US/ml/JobDetail/Associate-Platform-Engineer/20618",
+      "location": "Cary, NC",
+      "opened": "2026-09-18",
+      "date_source": "page text",
+      "deadline": "at least 2026-10-08",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run",
+  "last_cycle_basis": "unknown; earlier entry-level JobDetail/16566 and /18191 are 404 with no dates",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Public board (metlifecareers.com, not the metlife.avature.net SSO redirect) reached and its filter UI operated directly (typed Keywords, selected Country=United States, set the real Career Level <select> to 'Early Career'), but results never changed from the unfiltered default (456 results, same Tokyo-only top page every time) -- the search/filter genuinely does not apply, matching the prior run's finding. Two entry-level postings surfaced by web search (Junior Software Engineer /JobDetail/18191, Software Development Engineer-Entry-Level /JobDetail/16566) both now 404 to an Error page, so they are gone, but their low job-ID numbers suggest they may predate this cycle rather than being 2027-specific; couldn't confirm either way.",
-  "confidence": "low"
+  "evidence": "Keyword path SearchJobs/platform%20engineer lists Associate Platform Engineer (Cary NC, grade 08T, bachelor's, Apply shown, posted 2026-09-18). Infrastructure/automation-leaning platform role, not pure SWE. Old Junior Software Platform Engineer 18579 now 404. Other junior SWE roles are India/Malaysia.",
+  "confidence": "medium"
 }

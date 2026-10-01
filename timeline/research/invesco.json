@@ -1,19 +1,34 @@
 {
   "company": "Invesco",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "ETF Quantitative Developer", "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2", "location": "Downers Grove, IL",
-     "opened": "on or before 2026-08-27", "date_source": "tracker first seen 2026-08-27 (workday postedOn is a repost bound of 'Posted 30 Days Ago')",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Engineer, SIP (Software Engineer, Strategy, Innovation & Planning)",
+      "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
+      "location": "Atlanta, GA / Houston, TX",
+      "opened": "2026-07-30",
+      "date_source": "tracker first seen 2026-07-30 (workday startDate 2026-07-31)",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "ETF Quantitative Developer",
+      "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2",
+      "location": "Downers Grove, IL",
+      "opened": "on or before 2026-08-27",
+      "date_source": "tracker first seen 2026-08-27 (earlier copy 2026-08-18)",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history has no new-grad SWE posting between 2025-07 and 2026-01; nearest is 'Early Career Analyst - Technology' 2026-02-25 (last cycle, outside window).",
+  "last_cycle_basis": "Tracker history has no new-grad SWE posting between 2025-07 and 2026-01; nearest is 'Early Career Analyst - Technology' 2026-02-25 (outside window).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://invesco.wd1.myworkdayjobs.com/IVZ",
   "jobs_spec": "wd:invesco/wd1/IVZ",
-  "evidence": "Confirmed live via Workday API search (total:13 for 'ETF Quantitative'), 0-3 yrs exp required, still posted. Borderline role (quant developer, not titled SWE) but codes/builds ETF systems.",
+  "evidence": "Re-read both postings via Workday API 2026-09-30, both canApply. SIP Software Engineer asks 0-2 yrs (AI apps); ETF Quant Developer asks 0-3 yrs (Python), not on board listing but API detail live. No deadline, sponsorship or citizenship lines. Rolling entry-level, no class year.",
   "confidence": "medium"
 }

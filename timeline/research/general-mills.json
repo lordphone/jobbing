@@ -1,19 +1,26 @@
 {
   "company": "General Mills",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Digital & Technology Associate - Campus Recruiting", "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732", "location": "Minneapolis, MN",
-     "opened": "on or before 2026-09-10", "date_source": "workday postedOn",
-     "grad_window": "Dec 2026 or Spring 2027", "live_verified": "browser"}
+    {
+      "title": "Digital & Technology Associate - Campus Recruiting",
+      "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732",
+      "location": "Minneapolis, MN",
+      "opened": "on or before 2026-09-10",
+      "date_source": "workday postedOn (startDate 2026-09-10)",
+      "deadline": null,
+      "grad_window": "Dec 2026 or Spring 2027 grad; start Jan or Summer 2027",
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "not found in tracker history (0 matches); no prior-cycle record",
-  "excluded_reason": null,
   "no_sponsorship": true,
+  "last_cycle_basis": "no tracker history; other Campus Recruiting roles (manufacturing/engineering, R&D) also on board",
   "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
   "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
-  "evidence": "Rotational D&T Associate posting (Data/Platform/ML Engineer tracks), grad date Dec 2026/Spring 2027, no sponsorship. Confirmed live in browser. Overturns prior 'no_program_found'.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-09-30: rotational D&T Associate (Technical Analyst, Data, Platform, ML Engineer roles), canApply true, no endDate, Minneapolis. Posting states 'will not sponsor applicants for this position for work visas'. Needs work authorization.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "last_cycle_opened": null
 }

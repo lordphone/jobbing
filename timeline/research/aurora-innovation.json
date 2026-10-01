@@ -1,15 +1,15 @@
 {
   "company": "Aurora Innovation",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-30",
-  "last_cycle_basis": "kept from previous research file",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer I' (Pittsburgh) first seen 2025-07-30, plus Software Engineer 1 postings 2025-10-13 and 2026-01-21",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://aurora.tech/careers",
-  "jobs_spec": null,
-  "evidence": "Careers page lists 18 Software Engineering openings; rolling 'Software Engineer I' postings continue to appear (e.g. 'Software Engineer I - Data Platform', 'Software Engineer I (Data Eng infra)') but none confirmed as a live, dated 2027-cycle posting this pass. No first-party ATS API found (custom site with embedded Greenhouse widget, board token not resolvable via standard jobs.py specs).",
-  "confidence": "low"
+  "jobs_spec": "ashby:aurora-operations-inc",
+  "evidence": "Ashby API (90 postings, --all): live SWE roles are II/Senior/Staff or unlabeled with heavy experience (Autonomy Controls asks 8+ yrs); no Software Engineer I or new grad live. Rolling SWE I history (Nov 2024-Jan 2026) suggests it reappears.",
+  "confidence": "medium"
 }

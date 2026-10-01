@@ -1,15 +1,15 @@
 {
   "company": "National Basketball Association (NBA)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-11-23",
-  "last_cycle_basis": "previous research pass noted an associate/entry-level tech program opened 2024-11-23 (NYC/Secaucus); not independently re-confirmed this run",
+  "last_cycle_basis": "Tracker: Associate DevOps Engineer (Secaucus) 2024-11-23, two cycles ago; 2025 window not confirmed, https://careers.nba.com/job/NBANBAUS11280EXTERNALENUS/Associate-DevOps-Engineer",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.nba.com/search-results",
-  "jobs_spec": null,
-  "evidence": "Phenom-powered board, no API. Searched 'engineer' (7 results) and 'new grad' (47 results, Technology=5, Early Career=2 but both are ex-player coaching apprentice roles). No entry-level SWE posting live now; history suggests these open in the fall.",
+  "jobs_spec": "wd:nba/wd108/nbacareers",
+  "evidence": "Phenom site backed by Workday (all 54 postings read in browser pane 2026-09-30): Full Stack SWE, Integrity (NY, 2026-09-25, closes 2026-10-30) needs production Python/TS and betting-market knowledge, not entry-level; Senior GenAI Engineer; no entry SWE. Entry tech roles opened in fall before.",
   "confidence": "medium"
 }

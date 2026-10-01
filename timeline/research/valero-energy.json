@@ -1,15 +1,15 @@
 {
   "company": "Valero Energy",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no jobs_spec/API for this Taleo board",
+  "last_cycle_basis": "jobs.py history: only Technical Support Associate 1 (2025-10-06, IT support) in window; Data Scientist 1 (2026-02-10) is outside it. No SWE new-grad found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://valero.taleo.net",
+  "jobs_page": "https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo board browsed directly (41 total openings): only 3 in 'Information Services' category, none titled software engineer/developer/new-grad. No entry-level SWE or university-hire posting found this cycle.",
+  "evidence": "Taleo board opened in browser 2026-09-30: all 12 live jobs listed (ethanol operators, process/control engineer, legal, Hosting Platform Engineer needing 5+ yrs, Technical Support Associate I). No entry-level SWE or university posting.",
   "confidence": "medium"
 }

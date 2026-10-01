@@ -1,19 +1,26 @@
 {
   "company": "Roku",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, Early Careers focused on AI and UI", "url": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714", "location": "San Jose, CA",
-     "opened": "2026-09-11", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer, Early Careers focused on AI and UI",
+      "url": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
+      "location": "San Jose, CA",
+      "opened": "2026-09-11",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "up to 4/6 years since finishing studying",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US-specific new-grad SWE posting found in tracker history; only UK postings seen (Software Engineer - Frontend, Cambridge, 2025-11-20)",
+  "last_cycle_basis": "no US new-grad SWE posting in tracker history; only UK roles",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roku",
   "jobs_spec": "gh:roku",
-  "evidence": "Live posting explicitly for 'Project Ahsoka', an early-career engineer program; requires 'up to 4/6 years of professional engineering experience since you finished studying', no visa sponsorship. No 2027-specific grad window stated.",
+  "evidence": "Re-read 2026-09-30 via page fetch and Greenhouse API: Project Ahsoka early-career SWE live with Apply button, no deadline; quote: not able to sponsor visas for this role. First published 2026-09-11.",
   "confidence": "medium"
 }

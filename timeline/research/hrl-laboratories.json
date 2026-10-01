@@ -1,18 +1,15 @@
 {
   "company": "HRL Laboratories",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [
-    {"title": "Machine Learning Engineer - Advanced AI and Cognitive Systems", "url": "https://jobs.lever.co/dodmg/f097cef6-6f81-4134-8e40-cecf740271e9", "location": "Calabasas, CA",
-     "opened": "2026-07-29", "date_source": "page text", "grad_window": null, "live_verified": "api"}
-  ],
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
+  "last_cycle_basis": "unknown; no tracker or board history found",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://www.hrl.com/careers/current-openings",
   "jobs_spec": "lever:dodmg",
-  "evidence": "Checked full Lever board (20 postings). No entry-level/new-grad title, but closest match (ML Engineer) states 'U.S. Citizenship with the ability to obtain and maintain a U.S. Government Security Clearance'. Only other SWE role is Senior.",
+  "evidence": "Lever board (19 postings): no new-grad title. ML Engineer - Advanced AI (2026-07-29) quotes 'U.S. Citizenship with the ability to obtain and maintain a U.S. Government Security Clearance'; Embedded Systems Engineer needs 7+ yrs and U.S. Citizen.",
   "confidence": "high"
 }

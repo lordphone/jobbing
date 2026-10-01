@@ -1,7 +1,7 @@
 {
   "company": "UPMC",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Keyword search on careers.upmc.com (redesigned site, works via /job-search-results/?keyword=). 'software engineer' returns 5 results, none an SWE role (Stationary Engineer, senior Application Delivery Engineer, Senior BI Developer). 'software developer' returns 40, mostly Systems Analyst (Epic/healthcare IT) at Associate/Intermediate/Senior/Expert levels, not a software-engineering track. 'engineer' returns 15, mostly facilities/HVAC. No 2027/new-grad SWE posting found.",
+  "evidence": "Browser check of careers.upmc.com: 'software' search (96) has Systems Programmer/Analyst I (neuroimaging research scripting, Python/R; not SWE) and Epic/systems analysts. No entry-level SWE.",
   "confidence": "medium"
 }

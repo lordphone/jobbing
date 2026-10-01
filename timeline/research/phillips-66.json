@@ -1,19 +1,26 @@
 {
   "company": "Phillips 66",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 University New Hire - Information Technology", "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
-     "location": "Houston, TX", "opened": "unknown", "date_source": "page text",
-     "grad_window": "2027 (per title)", "live_verified": "no"}
+    {
+      "title": "2027 University New Hire - Information Technology",
+      "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
+      "location": "Houston, TX or Bartlesville, OK",
+      "opened": "on or before 2026-09-28",
+      "date_source": "page text (no posting date shown); earlier check 2026-09-28 saw it live",
+      "deadline": null,
+      "grad_window": "Winter 2026 or Spring/Summer 2027 (enrolled Bachelor's/Master's)",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no jobs.py history match (no jobs_spec/API for this SuccessFactors board)",
+  "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://careers.phillips66.com",
   "jobs_spec": null,
-  "evidence": "SuccessFactors board (no API). Site search for 'software engineer' surfaced a live '2027 University New Hire - Information Technology' posting in Houston TX; could not open the posting itself to confirm live Apply button or full eligibility text this run.",
-  "confidence": "low"
+  "evidence": "Opened posting in browser pane 2026-09-30: Apply now present; IT new-hire program with job experiences incl. Software Engineering, Cloud, SRE, Data. Text says F-1, H-1, etc. or anyone needing sponsorship now or later is not eligible. No deadline stated.",
+  "confidence": "high"
 }

@@ -1,17 +1,26 @@
 {
   "company": "Parsons Corporation",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer TS", "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1", "location": "Centreville, VA", "opened": "on or before 2026-07-01", "date_source": "tracker first seen", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer TS",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
+      "location": "Centreville, VA",
+      "opened": "on or before 2026-07-01",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "tracker first-seen: Software Engineer I, San Antonio, TX",
-  "excluded_reason": "citizenship",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://parsons.wd5.myworkdayjobs.com/search",
   "jobs_spec": "wd:parsons/wd5/search",
-  "evidence": "Workday API. Live 'Software Engineer TS' posting: 'entry-level engineer with a Top Secret clearance...Active Top Secret or higher security clearance, which requires US citizenship.'",
-  "confidence": "high"
+  "evidence": "Workday API, 160 postings. Entry SWE roles (Software Engineer TS, Junior Software Developer Herndon, Associate Vulnerability Researcher Melbourne, Colorado Springs SWE) all need TS/SCI or 'Must be a US Citizen due to DoD contract'. No stated deadline.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

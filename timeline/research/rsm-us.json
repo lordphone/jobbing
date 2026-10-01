@@ -1,15 +1,15 @@
 {
   "company": "RSM US",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero RSM entries in either tracker",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no RSM entries in tracker history",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://rsm.wd1.myworkdayjobs.com/RSMCareers",
   "jobs_spec": "wd:rsm/wd1/RSMCareers",
-  "evidence": "Full board search for software/developer/engineer titles: only Manager/Senior/international (San Salvador, Hyderabad, Bengaluru) roles and one 'Junior Software Engineer' in San Salvador (not US). The previously-noted 'ServiceNow Developer Associate' (Calgary, Canada, also not US) no longer appears. No US entry-level SWE track found; most US associate roles remain tax/assurance/consulting.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30, 106 postings: many 2027 tax/assurance associates and interns; only tech-developer roles are Calgary ServiceNow Developer Associate (Canada), San Salvador Junior SWE, and a NY temporary manager Python role. No US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

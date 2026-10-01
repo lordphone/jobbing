@@ -1,15 +1,36 @@
 {
   "company": "Choice Hotels International",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer 1 - Guest & Loyalty Domain",
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22196",
+      "location": "Scottsdale, AZ",
+      "opened": "2026-08-28",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer 1, Mobile Apps - Kotlin exposure required",
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1--Mobile-Apps---Kotlin-exposure-required_R22195",
+      "location": "Scottsdale, AZ",
+      "opened": "2026-08-24",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "tracker_last_cycle field (lead, not first-party) 2025-08-15",
+  "last_cycle_basis": "Tracker first seen 2025-08-15: Software Engineer 1 (Scottsdale).",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://choicehotels.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:choicehotels/wd5/External",
-  "evidence": "Workday board has a 'Software Engineer 1' (Scottsdale) but it requires 1-2 years of Java/Spring experience and is not sponsorship-eligible, so it does not qualify as new-grad. No 0-1 yr SWE posting found; has an SE1-3 ladder so a track exists.",
+  "evidence": "Workday API lists two live Software Engineer 1 postings (Scottsdale), start dates Aug 2026, read via detail; both say not eligible for sponsorship. Not new-grad branded; entry-level title, open under relaxed years rule. No deadline.",
   "confidence": "medium"
 }

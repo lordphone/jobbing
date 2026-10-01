@@ -1,15 +1,15 @@
 {
   "company": "HelloFresh",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker history: 0 postings matched for HelloFresh",
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/hellofresh",
   "jobs_spec": "gh:hellofresh",
-  "evidence": "Checked full Greenhouse board (443 postings, --all): no US entry-level SWE/new-grad title. Only software-related US hit was a Director role. No tracker history either.",
-  "confidence": "medium"
+  "evidence": "gh:hellofresh, 435 postings: no US SWE; only junior roles are UK maintenance and German recipe developer. US engineer roles are automation/maintenance. No new-grad SWE.",
+  "confidence": "high"
 }

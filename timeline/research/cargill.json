@@ -1,15 +1,26 @@
 {
   "company": "Cargill",
-  "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2024-08-10",
-  "last_cycle_basis": "tracker: 'New Grad 2025: Associate Software Engineer', Atlanta GA, first seen 2024-08-10 (prior cycle, August posting pattern).",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer Associate - Technology Development Program 2027",
+      "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-associate-technology-development-program-2027-atlanta-ga/23251/99050313792",
+      "location": "Atlanta, GA",
+      "opened": "2026-09-17",
+      "date_source": "page text (Date posted 09/17/2026)",
+      "deadline": null,
+      "grad_window": "Dec 2025 - Summer 2026 (page text, conflicts with '2027' title)",
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_opened": "2024-08",
+  "last_cycle_basis": "tracker: 'New Grad 2025: Associate Software Engineer', Atlanta GA, first seen 2024-08-10 (nothing tracked in the 2025 cycle)",
+  "no_sponsorship": true,
   "jobs_page": "https://careers.cargill.com/en/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "Searched 'software engineer' (176 results) and 'new grad software' (300 fuzzy results) on the first-party board. Current Associate Software Engineer / entry-level SWE postings are all in Bengaluru, India; no US-based new-grad SWE posting live.",
-  "confidence": "medium"
+  "evidence": "Opened posting 2026-09-17, Apply Now live, title says 2027 but text says graduating Dec 2025-Summer 2026, start June 2026 (likely stale copy). Requires right to work not based on student visa or third-party sponsorship. Also Summer 2027 SWE intern. Cargill careers page, no deadline stated.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "excluded_reason": null
 }

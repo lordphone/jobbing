@@ -1,15 +1,26 @@
 {
   "company": "Yext",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Team Watson)",
+      "url": "https://job-boards.greenhouse.io/yext/jobs/8224109",
+      "location": "Washington, D.C. (Rosslyn, VA office)",
+      "opened": "2026-09-24",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-12-02",
   "last_cycle_basis": "tracker first seen; Software Engineer, Washington DC: https://job-boards.greenhouse.io/yext/jobs/7011931",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/yext",
   "jobs_spec": "gh:yext",
-  "evidence": "Checked full Greenhouse board: live 'Software Engineer' (Washington DC, first 2026-09-24) requires 1+ years professional experience, so doesn't qualify as new-grad. No qualifying posting live.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-09-30: plain 'Software Engineer' (not Senior), BA/BS, '1+ years professional experience'; level ambiguous but years alone don't disqualify. No deadline, no sponsorship or citizenship limits. Same title last cycle.",
+  "confidence": "medium"
 }

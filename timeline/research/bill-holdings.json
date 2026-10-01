@@ -1,15 +1,15 @@
 {
   "company": "BILL Holdings (Bill.com)",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found only non-SWE entry roles (Associate Risk/Fraud Data Scientist); no new-grad SWE posting found in any cycle",
+  "last_cycle_basis": "jobs.py history: only non-SWE Associate Risk/Fraud Data Scientist roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.bill.com/careers",
   "jobs_spec": "gh:billcom",
-  "evidence": "Greenhouse API: current SWE roles are Senior/Staff/Principal. 'Software Engineer II - Payments Platform' explicitly requires '3 years experience', not entry-level. No qualifying posting found.",
+  "evidence": "Greenhouse API 42 postings re-checked: SWE roles Senior/Staff; Software Engineer II (2025-06) not entry. Entry roles are analysts/data scientists.",
   "confidence": "high"
 }

@@ -1,15 +1,26 @@
 {
   "company": "CACI International",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer - Early Career - Cloud",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
+      "location": "Hanover, MD (2 locations)",
+      "opened": "on or before 2026-09-24",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-07-15",
-  "last_cycle_basis": "carried from prior research (tracker first-seen)",
+  "last_cycle_basis": "tracker first seen: Entry Level Software Engineer - GUI Development, Rochester NY",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://caci.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:caci/wd1/external",
-  "evidence": "Workday API. 'Software Engineer - Early Career - Cloud' (Hanover, MD) live 2026-09-24: 'Minimum Clearance Required to Start: Secret', 'Willing and able to obtain a DoD Top Secret Clearance'. Same pattern across CACI's entry-level SWE postings; company-wide defense/gov clearance requirement.",
+  "evidence": "Workday API 143 postings. Early Career Cloud SWE: 'Minimum Clearance Required to Start: Secret' and 'Willing and able to obtain a DoD Top Secret Clearance'. Other entry SWE are 2027 internships or cleared work.",
   "confidence": "high"
 }

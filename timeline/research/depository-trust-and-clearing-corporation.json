@@ -1,22 +1,36 @@
 {
   "company": "Depository Trust & Clearing Corporation (DTCC)",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Application Developer Analyst [2027 EDGE Program]", "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463", "location": "Jersey City, NJ",
-     "opened": "on or before 2026-08-25", "date_source": "page text (posted date)",
-     "grad_window": "expected graduation May 2027", "live_verified": "api"},
-    {"title": "Infrastructure Engineer [2027 EDGE Program]", "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214457", "location": "Jersey City, NJ",
-     "opened": "on or before 2026-08-25", "date_source": "page text (posted date)",
-     "grad_window": "expected graduation May 2027", "live_verified": "api"}
+    {
+      "title": "Application Developer Analyst [2027 EDGE Program]",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463",
+      "location": "Jersey City NJ / Tampa FL / Dallas TX",
+      "opened": "2026-08-25",
+      "date_source": "oracle posted date",
+      "grad_window": "Expected graduation May 2027; 18-month EDGE program",
+      "live_verified": "api",
+      "deadline": "2026-10-30"
+    },
+    {
+      "title": "Infrastructure Engineer [2027 EDGE Program]",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214457",
+      "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+      "opened": "2026-08-25",
+      "date_source": "oracle posted date",
+      "grad_window": "Expected graduation May 2027; 18-month EDGE program",
+      "live_verified": "api",
+      "deadline": "2026-10-30"
+    }
   ],
-  "last_cycle_opened": "2025-12-17",
-  "last_cycle_basis": "worklist tracker_last_cycle hint (2025-12-17)",
+  "last_cycle_opened": "2025-10-31",
+  "last_cycle_basis": "Tracker history: Cybersecurity Analyst - EDGE Program first seen 2025-10-31 (Software Engineer 2025-12-17).",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:ebxr.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Confirmed on DTCC's own Oracle Cloud board: Application Developer Analyst and Infrastructure Engineer [2027 EDGE Program] (18-month early-career program, expected grad May 2027), live with apply button. Requires permanent US work authorization, no sponsorship.",
+  "evidence": "Oracle API lists both 2027 EDGE postings live, end date 2026-10-30; details read. Requires 'Authorization to work permanently in the United States without current or future sponsorship'. Software Development Associate (4+ yrs) not entry.",
   "confidence": "high"
 }

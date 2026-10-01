@@ -1,15 +1,15 @@
 {
   "company": "Wayfair",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON, non-US) first seen 2025-10-02; US 'Software Engineer I - Early Careers' / 'iOS Software Engineer I - Early Careers' postings from 2024 cycle (opened 2024-06/07)",
+  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON, non-US) first seen 2025-10-02; US 'Software Engineer I - Early Careers' postings from 2024 cycle (opened 2024-06/07)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.wayfair.com/careers/jobs?selectedJobTypeIds=8%2C4",
   "jobs_spec": null,
-  "evidence": "wayfair.com blocks most automated access ('Access to this page has been denied', WebFetch 429) but one browser-pane load of the Early Talent filter succeeded: 5 US results, all Commercial/Operations/Talent Analyst, no SWE. WebSearch surfaced a 'Software Engineer I - Early Careers' listing description stating 'experienced graduates ... 1-3 years of experience' -- explicitly excluded by the 1+ years rule even if live, and its detail page could not be confirmed live (no jobs.py API match). No qualifying (0-1 yr, US) new-grad SWE posting found.",
+  "evidence": "Browser pane got 'Access to this page has been denied' (PerimeterX) and WebFetch HTTP 429 on wayfair.com/careers; not bypassed. A brief earlier page load showed 5 Early Talent results but no list rendered. Web result says early-career SWE I wants 1-3 years. Retry later.",
   "confidence": "low"
 }

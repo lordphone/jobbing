@@ -1,15 +1,15 @@
 {
   "company": "Fox Corporation",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-03",
-  "last_cycle_basis": "tracker first-seen date for Software Engineer I - Android, Sharonville OH",
+  "last_cycle_basis": "tracker first-seen: Software Engineer I - Android, Sharonville OH",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fox.wd1.myworkdayjobs.com/Domestic",
   "jobs_spec": "wd:fox/wd1/Domestic",
-  "evidence": "Tracker showed Machine Learning Engineer I (NYC) first seen 2026-07-12/07-21, this-cycle; jobs.py detail returns 'not found' (closed) and it's absent from current 71-posting board. No other entry-level SWE/ML postings live now.",
-  "confidence": "high"
+  "evidence": "Workday board re-read 2026-09-30 (87 postings): no entry SWE/ML. Earlier Machine Learning Engineer I (NYC, first seen 2026-07) is gone, so closed.",
+  "confidence": "medium"
 }

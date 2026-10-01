@@ -1,15 +1,15 @@
 {
   "company": "Zoom Communications",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker history: 'Software Engineer' Remote, first seen 2025-08-17",
+  "last_cycle_basis": "tracker first seen 'Software Engineer' Remote (Zoom Workday)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "jobs_spec": "wd:zoom/wd5/Zoom",
-  "evidence": "Workday board: 21 postings, 0 match filter. Tracker showed 2026-09-09/09-10 SWE postings (San Jose) but jobs.py detail returns 'not found' for both (confirmed gone from live board) -- this-cycle postings existed and closed.",
-  "confidence": "medium"
+  "evidence": "Workday API (22 postings): SDE roles read (R19559) need 2+ years and 'Immigration sponsorship is not available'. Tracker's 2026-09 San Jose SWE postings (R19357, R19646) are gone from the board, so closed; no entry-level SWE live.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

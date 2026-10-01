@@ -1,19 +1,26 @@
 {
   "company": "Whatnot",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, 2027 New Grad", "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930", "location": "Seattle, WA; San Francisco, CA; Los Angeles, CA; New York, NY",
-     "opened": "on or before 2026-08-31", "date_source": "tracker first seen",
-     "grad_window": "2027", "live_verified": "browser"}
+    {
+      "title": "Software Engineer, 2027 New Grad",
+      "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
+      "location": "New York, NY; Los Angeles, CA; San Francisco, CA; Seattle, WA (hybrid)",
+      "opened": "on or before 2026-08-31",
+      "date_source": "tracker first seen",
+      "grad_window": "graduate by Summer 2027",
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "worklist tracker_last_cycle (tracker first-seen for prior cycle); jobs.py history found no clean match in the 2025-07 to 2026-01 window",
+  "last_cycle_basis": "tracker first-seen for prior cycle (2024-09-02 also); no clean match in 2025-07..2026-01 history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whatnot",
   "jobs_spec": null,
-  "evidence": "Confirmed live on Whatnot's own Ashby board under Early Career > Engineering New Grads, listing 'Software Engineer, 2027 New Grad'. Clicked through to the posting URL matching the tracker lead exactly. jobs.py detail/board via ashby: spec failed (not found), so used browser + WebFetch.",
+  "evidence": "Opened Whatnot Ashby posting in browser 2026-09-30: 'Apply for this Job' button live, graduate by Summer 2027, no sponsorship/citizenship text, no deadline. Board list also shows SWE Intern Summer 2027; no other new-grad SWE.",
   "confidence": "high"
 }

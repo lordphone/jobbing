@@ -1,15 +1,36 @@
 {
   "company": "CGI",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "unknown",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Developer \u2013 Entry Level (Reno; req J0926-2371)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0926-2371&BRID=1336707&lang=1",
+      "location": "Reno, NV",
+      "opened": "2026-09 (req number J0926; exact day not read)",
+      "date_source": "req id month",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    },
+    {
+      "title": "Software Developer \u2013 Entry Level (Atlanta; req J0826-1365)",
+      "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1365&BRID=1326953&lang=1",
+      "location": "Atlanta, GA",
+      "opened": "2026-08 (req number J0826; exact day not read)",
+      "date_source": "req id month",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-03",
-  "last_cycle_basis": "worklist tracker_last_cycle (2025-03): 'New Grad: Software Developer' Atlanta, GA (req J0824-1617) and Lebanon, VA -- also found via WebSearch, an Atlanta cached posting whose stated 'Spring Application Period is from January 15, 2025, through April 4, 2025' (last cycle's window, now closed).",
+  "last_cycle_basis": "tracker first seen 2025-03-31: 'New Grad: Software Developer' Atlanta GA (J0824-1617) and Lebanon VA; earlier 2024-09-25 Entry Level Software Developer (Knoxville). Spring window Jan 15-Apr 4, 2025.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.cgi.com/us/en-us/careers/early-careers",
+  "jobs_page": "https://cgi.njoyn.com/corp/xweb/xweb.asp?page=joblisting&CLID=21001&categoryID=1319&kwr=CGIEarlyCareers",
   "jobs_spec": null,
-  "evidence": "cgi.njoyn.com (the real board) hit the Radware bot-protection captcha on every navigation attempt this pass, including clicking the 'Explore technical openings' link from cgi.com/us/en-us/careers/early-careers. The secondary mirror cgi.jobs returns '0 Jobs' for every query (software, software developer, entry level, blank) -- it appears defunct/stale; the one cached job page WebSearch surfaced (req J0824-1617, Atlanta, 'Software Developer -- Entry Level') is last cycle's listing with an expired Jan-Apr 2025 application window. Could not verify a live 2027-cycle US new-grad SWE posting.",
-  "confidence": "low"
+  "evidence": "Browser read the CGI early-careers listing (38 results): ~20 US 'Software Developer - Entry Level' / 'Technical Analyst - Entry Level' reqs (J0726-J0926) plus interns; Fairfax ones say 'Top Secret Clearance Required'. Posting pages hit Radware captcha (not bypassed), so none opened: unknown, not open.",
+  "confidence": "medium"
 }

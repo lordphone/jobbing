@@ -1,15 +1,15 @@
 {
   "company": "Etched",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad-labeled software posting found; startup hires generalist SWE roles requiring prior experience",
+  "last_cycle_basis": "no new-grad-labeled software posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/etched",
   "jobs_spec": "ashby:etched",
-  "evidence": "Ashby API (109 postings): software titles like 'Core Software Engineer' and 'Infrastructure Software Engineer' explicitly require '1-5 years of experience building and shipping software', not a 0-1yr new-grad track. Only interns (Chip Simulation, Firmware, RTL) target students. No entry-level/new-grad SWE program.",
+  "evidence": "Ashby API (109 postings) rechecked: software roles carry no entry label; Core Software Engineer wants 1-5 years. Only student roles are interns (incl. Core Engineering Intern 2026-09-15). No new-grad SWE program.",
   "confidence": "medium"
 }

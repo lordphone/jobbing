@@ -1,15 +1,15 @@
 {
   "company": "Dolby Laboratories",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found only a 2024-07-12 New Grad Software Engineer Intern posting (Fall 24), which is an internship, not full-time; nothing in the 2025-07 to 2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: only 2024-07-12 New Grad Software Engineer Intern (Fall 24), an internship; nothing 2025-07 to 2026-01",
   "jobs_page": "https://jobs.dolby.com/careers",
-  "jobs_spec": null,
-  "evidence": "Custom board (jobs.dolby.com/careers, no ATS API). Searched 'software engineer' (46 hits, all senior/staff US roles) and 'new grad' (0 direct results). Only entry-level listing found anywhere is a Software Engineering internship in Wroclaw, Poland.",
-  "confidence": "medium"
+  "jobs_spec": "eightfold:jobs.dolby.com/dolby.com",
+  "evidence": "Eightfold API (23 postings): US SWE roles are Staff/Sr Staff or 5+ yrs QA. 'Video Software Engineer' (Sunnyvale, 2026-08-12, C/C++, BS/MS, no level or years, $137-188k) is not labeled entry-level, so not counted. No early-career SWE posting.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

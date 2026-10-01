@@ -1,15 +1,15 @@
 {
   "company": "Cummins",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-11-03",
-  "last_cycle_basis": "tracker first-seen date for Software Engineer I, Indiana (jobs.py history / tracker_last_cycle)",
+  "last_cycle_basis": "tracker history: Software Engineer I (Indiana) first seen 2025-11-03",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Board scan (192 postings, keyword-filtered to 22) shows only China-based '2027 Early Career' engineering roles, no US software engineer new-grad posting. Tracker_lead URL (job 2434164) now resolves to an unrelated 'Software Engineer - ServiceNow' req, not a new-grad posting -- treated as stale/reused ID.",
+  "evidence": "Oracle board (214 postings, --all) has no US entry SWE: US roles are Summer 2027 interns/co-ops and mid/senior. Tracker lead Software Engineer - ServiceNow (req 2434164, Exempt Entry Level, master's, start Sept 2026, first seen 2026-08-09) is no longer on the live board (no posted dates, not listed), so treated as closed; it targeted a 2026 start.",
   "confidence": "medium"
 }

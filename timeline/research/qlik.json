@@ -8,8 +8,8 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careerhub.qlik.com/careers",
-  "jobs_spec": null,
-  "evidence": "No jobs.py spec found (guess found no match); careerhub.qlik.com returned only page configuration via WebFetch, not listings (JS-rendered SPA). Kept prior finding: R&D mostly Sweden/Canada/India.",
-  "confidence": "low",
-  "checked": "2026-09-27"
+  "jobs_spec": "eightfold:careerhub.qlik.com/qlik.com",
+  "evidence": "Eightfold API (careerhub.qlik.com, 32 jobs): US roles are sales, consulting, legal, marketing; R&D roles Israel/Brazil. No US engineering.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

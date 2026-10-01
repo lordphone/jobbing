@@ -1,11 +1,19 @@
 {
   "company": "Intuit",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer 1", "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720", "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
-     "opened": "unknown (evergreen general posting)", "date_source": "page text", "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer 1",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+      "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
+      "opened": "unknown (evergreen general posting)",
+      "date_source": "page text",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-10-17",
   "last_cycle_basis": "worklist tracker_last_cycle: 2025-10-17",
@@ -13,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "Browser-verified: live 'Software Engineer 1' posting, category 'Software Engineering, New College Grad', multi-location (MV/Atlanta/Charlotte/NYC/San Diego), requires <2 yrs industry experience. Appears evergreen (no specific grad-window or date). Summer 2027 SWE/mobile internships also live.",
+  "evidence": "Browser pane 2026-09-30: Software Engineer 1 (Job ID 14930, category New College Grad) shows Apply Now; <2 yrs experience, general evergreen posting, no posted date, no sponsorship text. Summer 2027 interns also live.",
   "confidence": "high"
 }

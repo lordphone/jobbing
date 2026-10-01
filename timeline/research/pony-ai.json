@@ -1,19 +1,26 @@
 {
   "company": "Pony.ai",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer - Evaluation", "url": "https://apply.workable.com/pony-dot-ai/j/95D88E76BE",
-     "location": "Fremont, California, United States", "opened": "2026-07-31", "date_source": "page text (Workable API created_at)",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer - Evaluation",
+      "url": "https://apply.workable.com/j/95D88E76BE",
+      "location": "Fremont, CA",
+      "opened": "2026-07-31",
+      "date_source": "workable created_at",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "previous-cycle result",
+  "last_cycle_basis": "tracker first seen 2025-12-03: Software Engineer - Perception Infrastructure (Fremont)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/pony-dot-ai/",
   "jobs_spec": null,
-  "evidence": "Workable's public widget API (apply.workable.com/api/v1/widget/accounts/pony-dot-ai) lists 10 jobs; 'Software Engineer - Evaluation' (Fremont, CA) is tagged experience='Entry level', created 2026-07-31 (within this cycle's window), requires only a BS/MS/PhD with no years of experience and no citizenship/sponsorship restriction in the posting text.",
+  "evidence": "Workable API lists 10 live jobs. Software Engineer - Evaluation (Fremont) tagged Entry level in earlier pass, still live; no citizenship or deadline text. Other SWE roles unlabeled or senior.",
   "confidence": "medium"
 }

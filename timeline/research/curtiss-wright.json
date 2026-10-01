@@ -1,17 +1,17 @@
 {
   "company": "Curtiss-Wright",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "excluded",
+  "checked": "2026-09-30",
+  "status": "open",
   "postings": [
-    {"title": "Associate Software Development Engineer", "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MA-Tewksbury-TCG/Associate-Software-Development-Engineer_JR12925-1", "location": "Tewksbury, MA", "opened": "on or before 2026-09-09", "date_source": "workday postedOn", "grad_window": null, "live_verified": "api"}
+    {"title": "Graduate Engineer", "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134", "location": "Frederick, MD", "opened": "2026-08-06", "date_source": "tracker first seen (Workday startDate 2026-08-07)", "deadline": null, "grad_window": null, "live_verified": "api"}
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting found in tracker history 2025-07 to 2026-01; only non-software Graduate Engineer roles seen",
-  "excluded_reason": "citizenship",
+  "last_cycle_opened": "2025-12-15",
+  "last_cycle_basis": "tracker first seen: Graduate Engineer, Frederick MD (same Nuclear simulation team)",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday API, 85 postings. Only entry-level SWE role (Tewksbury TCG) requires: 'Must be a US citizen and able to obtain and maintain a DOD Security clearance'.",
-  "confidence": "high"
+  "evidence": "Workday API, 86 postings. Graduate Engineer (Frederick): 0-2 years, develops/tests software for power-plant training simulators, canApply true; no citizenship or sponsorship line found. Other US software roles senior. Summerville Software Developer (mfg, level unclear) not counted.",
+  "confidence": "medium"
 }

@@ -1,22 +1,14 @@
-- Added Jerry (tier 3): 209 new-grad/entry postings in the trackers under its own name.
-- Added Truveta (tier 3): 12 tracker postings under its own name.
-- Added Citizen Health (tier 3): 28 tracker postings under its own name.
-- Added Western Alliance (tier 5): 11 tracker postings under its own name.
-- Added Quantcast (tier 6): 11 tracker postings under its own name.
-- Added Latitude AI (tier 8): 19 tracker postings; Ford's autonomy company hires under its own name.
-- Added Torch Technologies (tier 8): 14 tracker postings, defense engineering.
-- Added NewsBreak (tier 9): 11 tracker postings under its own name.
-- Added SMX (tier 10): 17 tracker postings, government IT services.
-- Added AMERICAN SYSTEMS (tier 10): 16 tracker postings, government IT services.
-- Added Uline (tier 11): 18 tracker postings.
-- Added American Electric Power (tier 11): 18 tracker postings.
-- Added DaVita (tier 11): 17 tracker postings.
-- Added Genuine Parts Company (tier 11): 17 tracker postings.
-- Added Auto-Owners Insurance (tier 11): 15 tracker postings.
-- Added Berkshire Hathaway Energy (tier 11): 18 tracker postings.
-- Added Xylem (tier 11): 11 tracker postings.
-- Added Wellmark (tier 11): 11 tracker postings.
-- Added BlueCross BlueShield of South Carolina (tier 11): 12 tracker postings.
-- Merged "Aquatic Capital" into "Aquatic Capital Management": the same firm listed twice in tier 4; deleted aquatic-capital.json.
-- Overrides only (no list change): tracker names "Ernst & Young", "Fidelity National Information Services", "Hewlett Packard (HP)", "United Parcel Service (UPS)", "Procter & Gamble" now map to EY, FIS, HP, UPS, P&G.
-- Skipped from the top 100: staffing/IT-contracting agencies (Artech, AG Technologies, TSMG, mthree, 360 IT Professionals, Jobsbridge, USM, DellFor, Sonsoft, Collabera, etc.), universities, non-US employers (Sainsbury's, Hastings Direct), data-annotation/localization vendors (Innodata, RWS, Welocalize, Welo Global), and civil-engineering firms whose postings are not software roles (WSP, AECOM, Kimley-Horn, Arcadis). No renames, merges or removals: last run's research showed no company posting under a new name or shutting down.
+- Added TransMarket Group (tier 4): Chicago prop-trading firm with Junior Software Engineer and Python Developer postings.
+- Added Axos Bank (tier 5): San Diego bank posting Product Engineer 1 and AI Engineer roles.
+- Added Cotiviti (tier 6): Associate Software Engineer and Data Scientist 1 postings, remote US.
+- Added WellSky (tier 6): Associate Software Engineer postings in Overland Park, KS.
+- Added Netsmart (tier 6): Software Engineer postings in Overland Park, KS and Bay Shore, NY.
+- Added Harris Computer (tier 6): Associate Software Engineer postings in the US.
+- Added Sev1Tech (tier 10): Entry Level Software Developer postings, government IT.
+- Added Datalab USA (tier 10): Entry Level SQL Developer and Programmer Analyst postings in MD and CO.
+- Added Mercury Insurance (tier 11): Software Engineering Graduate Development Program and Software Engineer 1 postings.
+- Renamed Clari to Salesloft (formerly Clari): last run found clari.com/careers redirects to Salesloft's careers page after the merger; deleted clari.json; override "clari".
+- Merged Highspot into Seismic: last run found highspot.com/careers redirects to seismic.com after the merger; deleted highspot.json; override "highspot".
+- Merged HashiCorp into IBM: last run found hashicorp.com/careers redirects to IBM careers; deleted hashicorp.json; override "hashicorp".
+- Overrides for tracker names of listed companies: Hewlett Packard → HP, CenturyLink → Lumen Technologies, Paramount Global → Paramount Skydance, Penn Interactive → PENN Entertainment, Boston Consulting Group → BCG X, PricewaterhouseCoopers (PwC) → PwC, Citigroup → Citi.
+- Skipped from the top 100: staffing/IT-contracting agencies (Artech, AG Technologies, TSMG, mthree, 360 IT Professionals, Jobsbridge, USM, Atria Group, etc.), universities and national labs posting postdocs, non-US employers (Sainsbury's, Sun Life's Canadian roles, Hastings Direct), AI-training vendors (Prolific, Innodata), companies with only senior or non-software roles (Clera, Collaborative Robotics, Xcel Energy, Nakupuna, Primetals, Cambridge Associates).

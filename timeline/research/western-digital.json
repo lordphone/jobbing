@@ -1,18 +1,26 @@
 {
   "company": "Western Digital",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer", "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897", "location": "San Jose, CA (+Colorado Springs, Irvine, Longmont, Fremont, Rochester)",
-     "opened": "2026-07-20", "date_source": "smartrecruiters releasedDate", "grad_window": "currently pursuing or recently completed BS/MS, 0-2+ years experience", "live_verified": "browser"}
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
+      "location": "San Jose, CA, United States",
+      "opened": "2026-07-20",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": "2026-10-20 (anticipated; may close sooner)",
+      "grad_window": "0-2+ yrs, BS/MS CS/SE/CE/EE; application deadline 10/20/26",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "jobs.py history: 'New College Grad Software Engineer - Software Engineering Development' San Jose CA, first seen 2025-08-15",
+  "last_cycle_basis": "tracker first seen: New College Grad Software Engineer - Software Engineering Development, San Jose CA, jobs.smartrecruiters.com/WesternDigital/744000076460273, 2025-08-15",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/WesternDigital",
   "jobs_spec": "sr:WesternDigital",
-  "evidence": "Confirmed the tracker_lead posting: live (apply deadline 10/20/26), BS/MS CS/SE/CE/EE, 0-2+ years, multiple US locations.",
+  "evidence": "SmartRecruiters API: early-career Software Engineer (San Jose etc.) released 2026-07-20, active, BS/MS recent grad, anticipated deadline 10/20/26. No sponsorship text. Apps SWE and Summer 2027 intern roles not counted.",
   "confidence": "high"
 }

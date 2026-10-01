@@ -1,15 +1,15 @@
 {
   "company": "Nasdaq",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-02-05",
-  "last_cycle_basis": "tracker history: 'Graduate Software Engineer' (Toronto, ON) first seen 2026-02-05 - no earlier SWE grad posting found in 2025-07..2026-01 window",
+  "last_cycle_basis": "tracker history: 'Graduate Software Engineer' (Toronto, ON) first seen 2026-02-05; no US new-grad SWE posting found in 2025-07..2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
   "jobs_spec": "wd:nasdaq/wd1/Global_External_Site",
-  "evidence": "Re-checked Workday board (--all, 38 postings): only Specialist/Senior/Lead SWE roles and a 2027 Summer Software Developer/Engineer Intern posting live; no full-time entry-level SWE posting for US currently.",
+  "evidence": "Workday board (--all, 41 postings) read 2026-09-30: US SWE roles are 'Software Engineer Specialist' (NYC) and 'Data Software Engineer' (Philadelphia), not entry-level, both no sponsorship; only a 2027 Summer SWE Intern. No FT entry-level SWE.",
   "confidence": "medium"
 }

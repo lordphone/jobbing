@@ -1,15 +1,15 @@
 {
   "company": "Nielsen",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found.",
+  "last_cycle_basis": "No tracker or first-party record found (tracker rows are NielsenIQ, a separate company, non-US/non-SWE).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.smartrecruiters.com/TheNielsenCompany",
   "jobs_spec": "sr:TheNielsenCompany",
-  "evidence": "Checked SmartRecruiters board. All software/engineer/developer postings are in India, Mexico, or senior-level; none in the US, none entry-level. No new-grad SWE track found.",
+  "evidence": "SmartRecruiters API 125 postings read with --all: software/data roles are India/Mexico or senior. Only US-remote engineer title, Forward Deployed Engineer - AI Solutions (Gracenote), opened in full is a pre-sales Product Solutions Architect role, not SWE.",
   "confidence": "high"
 }

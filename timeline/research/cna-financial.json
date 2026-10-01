@@ -1,15 +1,15 @@
 {
   "company": "CNA Financial",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'cna' shows only closed data-analyst roles between 2025-07 and 2026-01, no SWE new-grad posting",
+  "last_cycle_basis": "jobs.py history 'cna' shows only closed data-analyst roles between 2025-07 and 2026-01, no SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cna.wd1.myworkdayjobs.com/cna_Careers",
   "jobs_spec": "wd:cna/wd1/cna_Careers",
-  "evidence": "Workday board (41 postings) has Technology Internship Program tracks (Software/AI/Data Engineering) for summer interns, plus senior/principal engineer roles, but no entry-level full-time new-grad SWE track.",
-  "confidence": "medium"
+  "evidence": "Workday API --all (44): Technology Internship Program tracks (Software/AI/Data Eng) are internships; 2027 Claim Trainee non-SWE; engineer roles Senior/Principal. No entry-level FT SWE.",
+  "confidence": "high"
 }

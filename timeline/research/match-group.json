@@ -1,15 +1,15 @@
 {
   "company": "Match Group",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting found in tracker history for Jul 2025-Jan 2026; only Android Engineer II (2024) and AI Product Engineer, Vancouver Canada (2026-09-18, not US) seen",
+  "last_cycle_basis": "no US new-grad SWE in tracker history for 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/matchgroup",
   "jobs_spec": "lever:matchgroup",
-  "evidence": "Checked full Lever board (--all): all Engineer titles are II, III, Senior, or Staff level, no entry-level/new-grad SWE in the US.",
-  "confidence": "high"
+  "evidence": "Lever board (70 postings, --all): engineer titles are II/III/Senior/Staff or non-US (Seoul, Tokyo, Vancouver); no entry SWE this or last cycle. no_program_found.",
+  "confidence": "medium"
 }

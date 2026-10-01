@@ -1,15 +1,15 @@
 {
   "company": "ADT",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting found in tracker history (mostly sales/install/technician roles, plus an unrelated Data & Analytics associate role from a different ADT entity)",
+  "last_cycle_basis": "No new-grad SWE posting in tracker history for ADT (tracker name hits were Adtran/Cadent/other companies).",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle Cloud board: 35 postings, mostly sales/install technician roles. 'Full Stack Engineer - Sales and Service Platform' requires 3-5 years and 'Android Mobile Software Engineer' requires 3+ years -- both excluded by years-of-experience rule, not new-grad.",
-  "confidence": "high"
+  "evidence": "Oracle API 2026-09-30: software roles are iOS Mobile SWE (3+ yrs iOS, 5+ overall), Android Mobile SWE, Full Stack Engineering Lead, Cloud Network Engineers; all experienced. ADT postings say no employment-based sponsorship (incl. F-1 STEM OPT). No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

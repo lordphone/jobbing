@@ -1,22 +1,36 @@
 {
   "company": "Klaviyo",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I", "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003", "location": "Boston, MA",
-     "opened": "2026-09-12", "date_source": "greenhouse first_published",
-     "grad_window": "Dec 2026 or May/June 2027", "live_verified": "api"},
-    {"title": "AI Engineer I", "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003", "location": "Boston, MA",
-     "opened": "2026-09-23", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
+      "location": "Boston, MA",
+      "opened": "2026-09-12",
+      "date_source": "greenhouse first_published",
+      "grad_window": "Dec 2026 or May/June 2027",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "AI Engineer I",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003",
+      "location": "Boston, MA",
+      "opened": "2026-09-23",
+      "date_source": "greenhouse first_published",
+      "grad_window": "Dec 2026 or May/June 2027",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
-  "last_cycle_opened": "2025-10-08",
-  "last_cycle_basis": "tracker history: 'Software Engineer I' first seen 2025-10-08, Boston, MA",
+  "last_cycle_opened": "2025-10-05",
+  "last_cycle_basis": "tracker history: 'Machine Learning Engineer 1' first seen 2025-10-05 and 'Software Engineer I' 2025-10-08, klaviyocampus board",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/klaviyocampus",
   "jobs_spec": "gh:klaviyocampus",
-  "evidence": "gh:klaviyocampus board shows Software Engineer I (first_published 2026-09-12) and AI Engineer I (2026-09-23), both live; SWE I posting states 'Graduating in December 2026 or May/June 2027' and 'not eligible for immigration sponsorship'.",
+  "evidence": "gh:klaviyocampus board 2026-09-30 lists both roles live (Greenhouse API); detail read: SWE I 'not eligible for immigration sponsorship', graduating Dec 2026 or May/June 2027; no deadline stated.",
   "confidence": "high"
 }

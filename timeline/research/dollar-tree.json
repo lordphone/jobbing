@@ -1,15 +1,15 @@
 {
   "company": "Dollar Tree",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.dollartree.com/us/en/search-results",
-  "jobs_spec": null,
-  "evidence": "Own Phenom board (careers.dollartree.com) searched 'software engineer'; 42 results, all warehouse/retail store roles, no SWE or new-grad tech postings.",
-  "confidence": "medium"
+  "jobs_spec": "wd:dollartree/wd5/dollartreeus",
+  "evidence": "Workday search (software 46, graduate, new grad, entry level): tech roles are IT Application Dev Manager, Applied AI Lead Developer, Mobile App Developer (3+ yrs, no sponsorship), Network Engineer III, DC tech support. No entry SWE or new-grad track.",
+  "confidence": "high"
 }

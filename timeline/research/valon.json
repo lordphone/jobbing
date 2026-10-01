@@ -1,19 +1,26 @@
 {
   "company": "Valon",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer New Grad", "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324", "location": "New York",
-     "opened": "2026-09-01", "date_source": "ashby publishedAt",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324",
+      "location": "New York; San Francisco",
+      "opened": "2026-09-01",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-26",
-  "last_cycle_basis": "tracker history first-seen date for 'Software Engineer – New Grad' at https://job-boards.greenhouse.io/valon/jobs/4409152006",
+  "last_cycle_basis": "tracker history first-seen for 'Software Engineer – New Grad' (Greenhouse 4409152006)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Valon",
   "jobs_spec": "ashby:Valon",
-  "evidence": "Ashby API shows live 'Software Engineer New Grad' posting, publishedAt 2026-09-01. No citizenship/clearance/sponsorship text found in detail.",
+  "evidence": "Ashby API and detail: live Software Engineer New Grad (NYC), published 2026-09-01, 0-1 yr experience. No deadline, citizenship or sponsorship text.",
   "confidence": "high"
 }

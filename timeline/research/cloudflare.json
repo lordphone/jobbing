@@ -1,15 +1,15 @@
 {
   "company": "Cloudflare",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker lists 'System Engineer - Docs Platform' (Austin/Bengaluru) first seen 2025-08-27 as a lead, but it is not new-grad-titled and has since closed; no confirmed first-party new-grad SWE opening found for the 2026 cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": "2025-08-27",
+  "last_cycle_basis": "tracker lead only: 'System Engineer - Docs Platform' first seen 2025-08-27, not clearly new-grad; no confirmed new-grad SWE",
   "jobs_page": "https://job-boards.greenhouse.io/cloudflare",
   "jobs_spec": "gh:cloudflare",
-  "evidence": "Greenhouse board (394 postings, --all) has no new-grad/early-career/university titles; only generic roles (e.g. Associate General Counsel, not SWE). history regex found no 2025-07..2026-01 new-grad SWE posting.",
-  "confidence": "medium"
+  "evidence": "Full gh:cloudflare board (392, --all) 2026-09-30: only 'Software Engineer Intern (2027)' (Austin, 2026-09-16) and generic Software Engineer roles (e.g. 8212060, no entry-level marker, export-control text). No new-grad title.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

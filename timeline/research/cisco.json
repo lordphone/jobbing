@@ -1,20 +1,56 @@
 {
   "company": "Cisco",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer Embedded Systems I (Full Time) - United States", "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1", "location": "San Jose, CA (+2 other US locations)",
-     "opened": "on or before 2026-09-23", "date_source": "workday postedOn/startDate", "grad_window": null, "live_verified": "api"},
-    {"title": "Software Engineer Complier I (Full Time) - United States", "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313", "location": "Austin, TX",
-     "opened": "on or before 2026-09-22", "date_source": "workday postedOn/startDate", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer Full Stack / Backend II (Full-Time) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2026779",
+      "location": "RTP, North Carolina, US; Boulder, Colorado, US",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-03",
+      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer Embedded Systems I (Full Time) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1",
+      "location": "San Jose, California, US; Milpitas, California, US; RTP, North Carolina, US",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-07",
+      "grad_window": "Bachelor's with 0-1 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer II (Full Time) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boxborough-Massachusetts-US/Software-Engineer-II--Full-Time----United-States_2027364",
+      "location": "Boxborough, Massachusetts, US; Austin, Texas, US",
+      "opened": "2026-09-30",
+      "date_source": "workday postedOn (Posted Today)",
+      "deadline": "2026-10-09",
+      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer Compiler II (Full Time) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Compiler-II--Full-Time----United-States_2027249",
+      "location": "Austin, TX",
+      "opened": "2026-09-29",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-12",
+      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-20",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I' San Jose CA, first seen 2025-08-20, still active",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: Software Engineer I (San Jose, CA), jobs.cisco.com, 2025-08-20; more SWE 1 roles Nov-Dec 2025",
   "jobs_page": "https://cisco.wd5.myworkdayjobs.com/cisco_careers",
   "jobs_spec": "wd:cisco/wd5/cisco_careers",
-  "evidence": "Workday board (--all, 128 postings) has two live full-time level-I US SWE roles posted this week: Embedded Systems I (San Jose) and Complier I (Austin). Also a QA Engineer I (RTP) not counted as SWE.",
-  "confidence": "high"
+  "evidence": "Workday board (--all) plus CXS API: four live US level I/II full-time SWE roles, canApply true, each with a Workday endDate (deadline), Master's 0 yrs or Bachelor's, degree within 3 yrs or next 12 months. No citizenship bar. Compiler I and Sep-28 tracker lead are gone/reposted as Compiler II.",
+  "confidence": "high",
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

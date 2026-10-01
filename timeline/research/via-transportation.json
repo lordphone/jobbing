@@ -1,15 +1,15 @@
 {
   "company": "Via Transportation",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown: no history match run this pass; previous first-pass agent also found none",
+  "last_cycle_basis": "jobs.py history 2026-09-30: no Via new-grad SWE postings (only Data Science Associate NYC 2025-11-21, not SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/via",
   "jobs_spec": "gh:via",
-  "evidence": "Checked full Greenhouse board (168 postings, --all). Engineering roles present are all Senior/Staff/Lead/Manager level (Senior Backend Engineer, Staff ML Engineer, Engineering Manager, etc.); no new-grad, entry-level, or university-program SWE postings found.",
+  "evidence": "Greenhouse board (169, --all): US engineering roles are Senior/Staff/Manager; Forward Deployed Engineer AI Labs (NYC) asks 5+ yrs. Entry-level roles are non-engineering. No new-grad SWE.",
   "confidence": "high"
 }

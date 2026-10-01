@@ -1,15 +1,15 @@
 {
   "company": "Vail Resorts",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-21",
-  "last_cycle_basis": "tracker_lead from worklist entry (unverified via jobs.py history, which returned 0 postings)",
+  "last_cycle_basis": "tracker first seen: Software Engineer, Test & Infrastructure I, https://jobs.lever.co/vailsys/aac4a828-c88d-4bc1-bf94-324e7ba4ddc9",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/vailsys",
   "jobs_spec": "lever:vailsys",
-  "evidence": "Checked full Lever board. Only SWE postings are 'Software Engineer, Test & Infrastructure II/III'; no entry-level or new-grad-titled SWE role currently live.",
-  "confidence": "medium"
+  "evidence": "Lever board 4 postings: SWE Test & Infrastructure II (2026-01-08), III (2026-07-22), NOC Technician, TPM II. No level I or new-grad SWE live; II/III not entry-level. Last cycle SWE T&I I first seen 2025-08-21.",
+  "confidence": "high"
 }

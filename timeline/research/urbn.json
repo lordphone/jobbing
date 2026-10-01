@@ -1,7 +1,7 @@
 {
   "company": "URBN (Urban Outfitters, Anthropologie, Free People)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://homeoffice-na-urbn.icims.com/jobs/search?searchKeyword=software+engineer",
   "jobs_spec": null,
-  "evidence": "iCIMS still shows only nav shell for get_page_text/WebFetch, but individual job-detail URLs found via WebSearch DO render via browser-pane screenshot. 'URBN Software Engineer' (job 30756, Philadelphia, remote yes) requires 'At least 3-5 years of software development experience' -- excluded by the 1+ years rule. 'URBN Software Engineering Intern' (30602) is an internship, not counted. No entry-level/new-grad SWE posting found.",
-  "confidence": "medium"
+  "evidence": "iCIMS listing read 2026-09-30: URBN Software Engineer (3-5 yrs), Nuuly Services SWE (4+ yrs), iOS, Staff/Senior SWE, plus design/marketing interns. No entry SWE.",
+  "confidence": "high"
 }

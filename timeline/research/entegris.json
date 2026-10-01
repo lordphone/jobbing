@@ -1,15 +1,15 @@
 {
   "company": "Entegris",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "previous research file: Bedford MA new-grad SWE posting closed per Simplify",
+  "last_cycle_basis": "none found; tracker history shows no new-grad SWE in 2025-07 to 2026-01",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://entegris.wd1.myworkdayjobs.com/entegriscareers",
   "jobs_spec": "wd:entegris/wd1/entegriscareers",
-  "evidence": "Checked full Workday board (122 postings, --all): only US new-grad-type postings are Co-Ops and an 'Entegris Leadership Development Program - Engineering' (broad engineering rotational, not confirmed SWE-specific); the only literal 'New Graduates' req is in Japan. No open US new-grad SWE posting.",
+  "evidence": "Workday full board re-read 2026-09-30 (119, --all): US roles are Co-Ops and Leadership Development Program - Engineering/Supply Chain (not software; earlier note says 'Do not apply if you will need immigration sponsorship'). Tracker Junior AI Engineer, Bedford MA (first seen 2026-08-05) is gone from board, so closed.",
   "confidence": "medium"
 }

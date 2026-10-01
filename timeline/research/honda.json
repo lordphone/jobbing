@@ -1,22 +1,36 @@
 {
   "company": "Honda",
-  "tier": 8,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software & System Dev. Engineer", "url": "https://careers.honda.com/us/en/job/12510/Software-System-Dev-Engineer", "location": "Raymond, Ohio",
-     "opened": "2026-09-26", "date_source": "page text",
-     "grad_window": null, "live_verified": "browser"},
-    {"title": "Software & System Dev. Engineer", "url": "https://careers.honda.com/us/en/job/12379/Software-System-Dev-Engineer", "location": "Raymond, Ohio",
-     "opened": "2026-09-19", "date_source": "page text",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software & System Dev. Engineer",
+      "url": "https://careers.honda.com/us/en/job/12510/Software-System-Dev-Engineer",
+      "location": "Raymond, Ohio",
+      "opened": "2026-09-03",
+      "date_source": "phenom search listing postedDate",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Software & System Dev. Engineer",
+      "url": "https://careers.honda.com/us/en/job/12379/Software-System-Dev-Engineer",
+      "location": "Raymond, Ohio",
+      "opened": "2026-09-22",
+      "date_source": "phenom search listing postedDate",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-01-06",
-  "last_cycle_basis": "Tracker history: 'New Grad 2025: Engineering Development Program', Marysville OH, first seen 2025-01-06 (careers.honda.com/job/Marysville-Engineering-Development-Program...); different program title but similar entry-level track",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker history: New Grad 2025: Engineering Development Program, Marysville OH, first seen 2025-01-06 (careers.honda.com); different title, similar entry-level track",
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Two live 'Software & System Dev. Engineer' postings (Raymond, OH, infotainment/C.A.S.E. software), each with Apply Now, page schema datePosted 2026-09-26 and 2026-09-19. Qualifications: '4-yr degree ... 0-2 years of related experience is desired', no citizenship/clearance/sponsorship restriction stated. No explicit 2027 grad-window language, but first-published after 2026-07-01 qualifies as this cycle.",
-  "confidence": "medium"
+  "evidence": "Fetched Honda Phenom pages: both Raymond OH Software & System Dev. Engineer postings status Open, 0-2 / 0-3 yrs, 'college entry level', BS EE/CS; no citizenship/sponsorship text, no deadline. 2027 Engineering Development Program is manufacturing engineering, not SWE.",
+  "confidence": "medium",
+  "tier": 8,
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

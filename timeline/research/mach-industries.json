@@ -1,20 +1,36 @@
 {
   "company": "Mach Industries",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "May 2027 New Graduate Engineer, Software", "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009", "location": "Huntington Beach, CA",
-     "opened": "2026-09-10", "date_source": "greenhouse first_published", "grad_window": "graduating by summer 2027", "live_verified": "api"},
-    {"title": "December 2026 New Graduate Engineer, Software / GNC", "url": "https://job-boards.greenhouse.io/machindustries/jobs/4390274009", "location": "Huntington Beach, CA",
-     "opened": "2026-09-02", "date_source": "greenhouse first_published", "grad_window": "Dec 2026/Jan 2027 (last-cycle leftover)", "live_verified": "api"}
+    {
+      "title": "May 2027 New Graduate Engineer, Software",
+      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009",
+      "location": "Huntington Beach, CA",
+      "opened": "2026-09-10",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Graduating by summer 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "December 2026 New Graduate Engineer, Software / GNC",
+      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4390274009",
+      "location": "Huntington Beach, CA",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Jan 2027",
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "2024-11-08",
-  "last_cycle_basis": "prior research pass",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker 2024-11-08 'New Grad 2025: Software Engineer' is two cycles old; no posting found in the 2025-07 to 2026-01 window",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/machindustries",
   "jobs_spec": "gh:machindustries",
-  "evidence": "Live 2027-cycle 'New Graduate Engineer, Software' postings found, but each requires applicant be '(i) U.S. citizen or national, (ii) U.S. lawful permanent resident, (iii) Refugee...' per ITAR/EAR export control requirements.",
+  "evidence": "Two live new-grad software postings (Dec 2026 and May 2027 grads) but both quote ITAR: applicant must be a U.S. citizen or national, green card holder, refugee or asylee; no export-license sponsorship.",
   "confidence": "high"
 }

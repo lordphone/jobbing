@@ -1,15 +1,26 @@
 {
   "company": "Illinois Tool Works (ITW)",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (early career, North Star Imaging)",
+      "url": "https://itw.wd5.myworkdayjobs.com/External/job/Rogers---55374/Software-Engineer_JR8874-1",
+      "location": "Rogers, MN (tracker lists Albertville, MN)",
+      "opened": "2026-07-07",
+      "date_source": "workday startDate + tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "jobs.py history 'itw': no 2025-07..2026-01 SWE posting (only Calibration Technician 2026-06-12)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.itw.com/us/en",
-  "jobs_spec": null,
-  "evidence": "Tracker-listed 'Software Engineer' (Albertville MN, JR8874, first seen 2026-07-07) now redirects to the ITW homepage when opened directly -- posting is gone. A keyword search for 'Software Engineer' on the live board returns 199 unrelated engineering results (search doesn't filter well) with no match for JR8874 on page 1.",
+  "jobs_spec": "wd:itw/wd5/External",
+  "evidence": "Workday cxs API 2026-09-30: JR8874-1 'early career Software Engineer' (BS CS/SE, X-ray/CT software, $68-84k) live with canApply true, though absent from the board listing; no sponsorship or deadline text. Other ITW software roles are senior. Not a campus program.",
   "confidence": "medium"
 }

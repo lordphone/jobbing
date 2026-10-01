@@ -1,15 +1,26 @@
 {
   "company": "Linde plc",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Developer (Early Career 0-3 yrs)",
+      "url": "https://linde.csod.com/ux/ats/careersite/23/home/requisition/33617?c=linde&country=us",
+      "location": "Tonawanda, NY; Ankeny, IA",
+      "opened": "2026-09-30",
+      "date_source": "page text (Posted on 9/30/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_basis": "no tracker or board record of a software new-grad posting; LEAD and LTOP programs are engineering/sales only",
+  "jobs_page": "https://linde.csod.com/ux/ats/careersite/23/home?c=linde&country=us",
+  "jobs_spec": null,
+  "evidence": "Opened req33617 in browser 2026-09-30: Apply Now present, tagged Early Career (0-3 yrs), CS bachelor's, full-stack Python/JS, no years line, no sponsorship text. Unleveled title and not a new-grad program; also a Software Developer Intern. Other IT roles skipped.",
+  "confidence": "medium",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record; not found",
+  "checked": "2026-09-30",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://us.lindecareers.com/early-careers/lead",
-  "jobs_spec": null,
-  "evidence": "Found US early-career board and the 2027 LEAD graduate program (open now), but its tracks are Engineering, Quality, SH&E and Sales only - no software/IT track. No SWE new-grad posting found.",
-  "confidence": "medium"
+  "last_cycle_opened": null
 }

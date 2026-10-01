@@ -1,15 +1,15 @@
 {
   "company": "Baker Hughes",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history shows only sporadic SWE postings (Minden NV, Newcastle UK), not a clear 2025-07..2026-01 new-grad opening",
+  "last_cycle_basis": "unknown; tracker history shows only sporadic SWE postings (Manufacturing SWE Minden NV 2026-05-14, Newcastle UK 2026-06-13), not a clear 2025-07..2026-01 new-grad opening",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes",
   "jobs_spec": "wd:bakerhughes/wd5/BakerHughes",
-  "evidence": "Workday board: 2027 ASPIRE early-career track exists for Finance, Supply Chain and Sales in the US, but no Technology/Engineering ASPIRE track in the US. A this-cycle 'Software Engineer' posting (Minden, NV, first seen 2026-09-01) is now gone from the API (jobs.py detail returns not found) -> closed. Only Intern/Co-op Engineering & Technology roles remain for the US.",
+  "evidence": "Workday --all 2026-09-30: US ASPIRE 2027 tracks are Finance, Supply Chain, Sales only. This-cycle Minden NV 'Software Engineer' (first seen 2026-09-01) is gone (detail not found). US tech roles left are senior, field engineer, or Intern/Co-op. No deadline stated.",
   "confidence": "medium"
 }

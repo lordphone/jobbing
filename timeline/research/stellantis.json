@@ -1,15 +1,15 @@
 {
   "company": "Stellantis",
-  "tier": 8,
-  "checked": "2026-09-27",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker/first-party evidence found for last cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no tracker or first-party evidence found for last cycle",
   "jobs_page": "https://careers.stellantis.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "Job-search page returned 0 live results. Tech/nextgen page (careers.stellantis.com/nextgen) lists only Principal SWE (10+ yrs), Sr Manager BI (10+ yrs), AI/AD Sensor Sim Engineer (5+ yrs) - no entry-level SWE track. Fall 2027 postings are internship-only per web search.",
-  "confidence": "medium"
+  "evidence": "Read Stellantis job API (463 jobs, all pages). US entry tracks: 2027 interns (incl. Technical Software Intern), student programs, Graduate Program of Stellantis (Quality/Retail/GPSQ), CIE 2027 (ME/EE rotational). No entry-level SWE full-time or new-grad SWE role.",
+  "confidence": "high",
+  "tier": 8,
+  "checked": "2026-09-30",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

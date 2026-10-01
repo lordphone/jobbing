@@ -1,15 +1,15 @@
 {
   "company": "WM (Waste Management)",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting in tracker history (Analyst/Data Specialist/Trainee roles found, none SWE)",
+  "last_cycle_basis": "No new-grad SWE posting in tracker history (only Analyst 1 Customer Digital Engagement 2026-07-14 and Data Specialist 1).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers",
   "jobs_spec": "oracle:emcm.fa.us2.oraclecloud.com/WMCareers",
-  "evidence": "Oracle Cloud board: 132 postings, none are software/SDE/developer roles -- mostly Environmental Technician, CDL Driver, India-based Process Analyst, and Operations/Fleet Management Trainee programs. No SWE new-grad track found; ATS is reachable via API this pass (previous result said it could not be reached).",
-  "confidence": "medium"
+  "evidence": "Oracle API 2026-09-30, all 129 postings scanned: no software or data engineering roles at entry level; India process analysts, technicians, drivers, plant associates. No entry-level SWE track.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

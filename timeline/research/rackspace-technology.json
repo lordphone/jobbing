@@ -1,15 +1,15 @@
 {
   "company": "Rackspace Technology",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history checked",
+  "last_cycle_basis": "no dated source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://rackspace.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:rackspace/wd1/External",
-  "evidence": "Found Workday board (27 postings) via brute-force probe. All US roles are senior (Network Engineer IV, VP/Director Sales, Solutions Architect) or sales; no entry-level SWE or new-grad program found.",
-  "confidence": "medium"
+  "evidence": "Workday API, 26 postings read in full. US roles are sales, Network Engineer II/IV, architect, director, evangelist; only entry-level engineer titles (Cloud Engineer I, Network Engineer I) are India. No entry US SWE or new-grad program.",
+  "confidence": "high"
 }

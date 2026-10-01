@@ -1,16 +1,17 @@
 {
   "company": "Freddie Mac",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
-      "title": "Software Developer Analyst (Single Family Software Analyst)",
+      "title": "Single Family Software Development Analyst",
       "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
       "location": "McLean, VA",
       "opened": "2026-08-02",
-      "date_source": "tracker first seen / workday postedOn (Posted 30+ Days Ago)",
-      "grad_window": null,
+      "date_source": "tracker first seen (workday startDate 2026-08-24, Posted 30+ Days Ago)",
+      "deadline": "2026-10-16",
+      "grad_window": "Graduating Dec 2026 or May 2027; start Jan or Jun 2027",
       "live_verified": "api"
     }
   ],
@@ -20,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://freddiemac.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:freddiemac/wd5/External",
-  "evidence": "Re-confirmed via Workday API: 'Single Family Software Development Analyst' (JR17441) still live, title/URL match the worklist tracker_lead exactly; entry-level analyst title, McLean VA.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30: posting live (canApply true); text says 'accepting applications until 10/16/2026'; grad Dec 2026/May 2027 (college analyst cohort). No sponsorship or clearance line found. Other SWE roles are Senior; 2027 interns separate.",
+  "confidence": "high"
 }

@@ -116,9 +116,23 @@ def is_us(locs):
             return True
         if re.search(r'alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|wisconsin|wyoming', l, re.I):
             return True
-        if re.search(r'new york|san francisco|seattle|boston|chicago|austin|nyc|bay area|los angeles', l, re.I):
+        if re.search(r'new york|san francisco|seattle|boston|chicago|austin|nyc|bay area|los angeles|toronto|vancouver', l, re.I):
             return True
     return False
+
+
+AREAS = json.load(open(os.path.join(S, 'areas.json')))['areas']
+
+
+def areas_of(location):
+    """His target areas a posting location falls in (areas.json), e.g. ['Bay Area', 'Remote']."""
+    out = []
+    for part in re.split(r';|\s/\s|\bor\b', location or '', flags=re.I):
+        for a in AREAS:
+            if re.search(a['place'], part, re.I) and (not a.get('need') or re.search(a['need'], part, re.I)) \
+                    and not (a.get('not') and re.search(a['not'], part, re.I)):
+                out.append(a['area'])
+    return list(dict.fromkeys(out))
 
 
 def is_role(title):

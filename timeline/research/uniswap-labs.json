@@ -1,19 +1,26 @@
 {
   "company": "Uniswap Labs",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "leftover_2026",
   "postings": [
-    {"title": "Software Engineer - Early Career", "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012", "location": "New York",
-     "opened": "2026-08-12", "date_source": "ashby publishedAt",
-     "grad_window": "Dec 2024 - Sep 2026", "live_verified": "api"}
+    {
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+      "location": "New York, NY",
+      "opened": "2026-08-12",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Degree completed/completing Dec 2024 - Sep 2026",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows only this single posting (first seen 2026-08-12); no earlier (2025-07 to 2026-01) new-grad posting found",
+  "last_cycle_basis": "tracker history: only this posting (first seen 2026-08-12); it says 'hiring our first new-grad engineering cohort'",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/uniswap",
   "jobs_spec": "ashby:uniswap",
-  "evidence": "Ashby board's only early-career posting has grad window Dec 2024-Sep 2026 (a 2026 grad leftover, not 2027). No 2027 posting live. No citizenship/clearance/sponsorship restriction found.",
-  "confidence": "high"
+  "evidence": "Ashby API 2026-09-30: 'Software Engineer - Early Career' (NYC, first published 2026-08-12) wants degree completed or completing Dec 2024 to Sep 2026, so excludes 2027 grads. Company's first new-grad cohort; General Interest SWE posting is experienced-level.",
+  "confidence": "medium"
 }

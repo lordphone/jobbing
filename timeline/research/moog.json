@@ -1,15 +1,15 @@
 {
   "company": "Moog",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2025-08-09",
   "last_cycle_basis": "tracker first-seen; 'Associate Software Engineer', Torrance CA (flagged 'U.S. Citizenship')",
-  "excluded_reason": "us person / citizenship",
+  "excluded_reason": "us person",
   "no_sponsorship": false,
   "jobs_page": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site",
   "jobs_spec": "wd:moog/wd5/moog_external_career_site",
-  "evidence": "Workday board: no live 'Associate Software Engineer' this cycle; entry-adjacent 'Embedded Software Engineer' (Phoenix, AZ) posting quotes 'U.S. person (due to export controlled work)' requirement. 'Junior Embedded Software Engineer' posting is in Genova, Italy (non-US).",
+  "evidence": "Workday board (86 postings): no US entry-level SWE this cycle. Phoenix Embedded Software Engineer quotes 'U.S. person (due to export controlled work)'; Santa Barbara one needs 3 yrs and lists Security Clearance. Junior Embedded SWE is Genova, Italy; SWE interns only.",
   "confidence": "medium"
 }

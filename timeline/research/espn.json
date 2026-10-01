@@ -1,7 +1,7 @@
 {
   "company": "ESPN",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-15",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Checked Disney Workday board (filtered for software engineer/SWE/ESPN): current listings are all Software Engineer II and above, Senior, Lead, Principal, or Manager. No 'Software Engineer I' / entry-level posting live this cycle. Tracker history search for 'ESPN' returned 0 postings.",
-  "confidence": "medium"
+  "evidence": "wd:disney (110): US software roles are SWE II, Sr, Lead, Manager; no Software Engineer I live. Last cycle Disney SWE I first seen 2025-08-15 (tracker).",
+  "confidence": "high"
 }

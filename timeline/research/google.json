@@ -1,19 +1,26 @@
 {
   "company": "Google",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, Early Career, Campus", "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750", "location": "Mountain View, CA (+9 more US locations)",
-     "opened": "on or before 2026-08-07", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer, Early Career, Campus",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "location": "Mountain View, CA (+9 more US locations)",
+      "opened": "on or before 2026-08-07",
+      "date_source": "tracker first seen",
+      "deadline": "at least 2026-09-30",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-09-30",
-  "last_cycle_basis": "jobs.py history: 'New Grad 2026: Software Engineer' first seen 2025-09-30, https://www.google.com/about/careers/applications/jobs/results/79125737784648390",
+  "last_cycle_basis": "jobs.py history: 'New Grad 2026: Software Engineer' first seen 2025-09-30, https://www.google.com/about/careers/applications/jobs/results/79125737784648390 (PhD early career SWE roles from 2025-08-26)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
   "jobs_spec": null,
-  "evidence": "Re-verified live in browser pane: Apply button present, window open until at least Sept 30 2026, Bachelor's in CS or equivalent, no citizenship/clearance/sponsorship restriction in text. First seen 2026-08-07 per tracker/history.",
-  "confidence": "high"
+  "evidence": "Opened posting in browser 2026-09-30: Apply button, 'open until at least September 30, 2026', Bachelor's CS or equivalent, no citizenship/clearance/sponsorship text. Early-level search lists it first. Same as prior file.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

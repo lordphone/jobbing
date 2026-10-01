@@ -1,19 +1,25 @@
 {
   "company": "Handshake",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [
-    {"title": "Associate Software Engineer", "url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8", "location": "San Francisco, CA",
-     "opened": "on or before 2026-08-11", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
+      "location": "San Francisco, CA",
+      "opened": "on or before 2026-08-11",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "Tracker first-seen date for 'Fullstack Engineer I (TypeScript focused)', https://jobs.ashbyhq.com/handshake/cf0cac2a-75c7-4872-aa6e-0d78ed98301f",
+  "last_cycle_basis": "Tracker first-seen 'Fullstack Engineer I (TypeScript focused)', https://jobs.ashbyhq.com/handshake/cf0cac2a-75c7-4872-aa6e-0d78ed98301f",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/handshake",
   "jobs_spec": "ashby:handshake",
-  "evidence": "Ashby API, 72 live postings, none entry-level (all Senior/Staff/MTS). Tracker shows repeated Associate/SWE1 postings through Aug 2026, none live now; latest (2026-08-11) 404s via API.",
+  "evidence": "Ashby board (74): no live US entry-level SWE (FDE I and SWE II are India; FDE Enterprise AI SF wants 1-4+ yrs). Associate SWE (first seen 2026-08-11) still not on API, so closed.",
   "confidence": "medium"
 }

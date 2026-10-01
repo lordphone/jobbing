@@ -1,12 +1,49 @@
 {
   "company": "Fidelity Investments",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "April 2027 - Leap Software Engineer", "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870", "location": "Westlake, TX",
-     "opened": "on or before 2026-08-14", "date_source": "workday postedOn / tracker first seen 2026-08-13",
-     "grad_window": "April 2027 start (Leap Program)", "live_verified": "api"}
+    {
+      "title": "January 2027 - Leap Software Engineer",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859",
+      "location": "Westlake, TX; Boston, MA; Durham, NC; Merrimack, NH",
+      "opened": "2026-09-26",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Jan 11, 2027 start (Leap Program)",
+      "live_verified": "api"
+    },
+    {
+      "title": "April 2027 - Leap Software Engineer",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870",
+      "location": "Westlake, TX; Durham, NC; Merrimack, NH",
+      "opened": "2026-08-14",
+      "date_source": "workday startDate; tracker first seen 2026-08-13",
+      "deadline": null,
+      "grad_window": "April 2027 start (Leap Program)",
+      "live_verified": "api"
+    },
+    {
+      "title": "July 2027 - Leap Software Engineer",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/July-2027---Leap-Software-Engineer_2133877",
+      "location": "Westlake, TX; Durham, NC; Merrimack, NH",
+      "opened": "2026-08-14",
+      "date_source": "workday startDate; tracker first seen 2026-08-13",
+      "deadline": null,
+      "grad_window": "July 2027 start (Leap Program)",
+      "live_verified": "api"
+    },
+    {
+      "title": "October 2027 - Leap Software Engineer",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
+      "location": "Westlake, TX; Durham, NC; Merrimack, NH",
+      "opened": "2026-08-25",
+      "date_source": "workday startDate; tracker first seen 2026-08-20",
+      "deadline": null,
+      "grad_window": "October 2027 start (Leap Program)",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-17",
   "last_cycle_basis": "worklist tracker_last_cycle: 2025-12-17",
@@ -14,6 +51,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fmr.wd1.myworkdayjobs.com/targeted",
   "jobs_spec": "wd:fmr/wd1/targeted",
-  "evidence": "jobs.py detail confirms live 'April 2027 - Leap Software Engineer' posting, Fidelity Leap Program, no immigration sponsorship. Tracker lists 2 more matching postings (5 total per prior pass).",
+  "evidence": "Workday cxs search + detail 2026-09-30: four Leap Software Engineer postings (Jan, Apr, Jul, Oct 2027 starts) all canApply true; each states Fidelity will not provide immigration sponsorship. Leap Systems Analyst tracks also live (not counted).",
   "confidence": "high"
 }

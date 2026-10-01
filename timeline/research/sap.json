@@ -1,15 +1,15 @@
 {
   "company": "SAP",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-09-13",
-  "last_cycle_basis": "From earlier pass (SAP Academy for Product & Engineering opened for prior cycle around this date).",
+  "last_cycle_basis": "tracker first seen 'New Grad: Software Engineer' Palo Alto (jobs.sap.com); 2 cycles ago, no 2025-26 SWE grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.sap.com/search/?q=Academy+for+Product",
+  "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
   "jobs_spec": null,
-  "evidence": "Old careers.sap.com search for '\"Academy for Product\"' returns zero open positions. A previously found 'Full Stack Software Engineer: SAP Academy for Product & Engineering (2026 Grads)' posting (Palo Alto) is no longer live/found. No 2027-grad version live yet; US new-grad track is SAP Academy for Product & Engineering (Palo Alto/San Ramon), still not posted.",
-  "confidence": "medium"
+  "evidence": "Browser, careers.sap.com US: Software-Design filter (43) is Senior/Principal/data-science; 'graduate' search (39) is Academy for Customer Success (CSM/Solution Advisor), iXp interns and STAR student program (Spring/Summer 2027, not new grad). No SWE grad posting.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

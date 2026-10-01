@@ -1,15 +1,15 @@
 {
   "company": "CodeSignal",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker match, small company with no public new-grad history found.",
+  "last_cycle_basis": "unknown; no tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "No Greenhouse/Lever/Ashby/SmartRecruiters slug found; careers page links to a JS-rendered Gem board with no listing content reachable via fetch. ~125-employee company, consistent with prior finding of no entry-level roles.",
-  "confidence": "low"
+  "evidence": "Opened jobs.gem.com/codesignal in browser: 'Open positions (0)'. Nothing posted, so no entry-level SWE. Small company.",
+  "confidence": "medium"
 }

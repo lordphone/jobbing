@@ -1,15 +1,26 @@
 {
   "company": "Carrier Global",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2026-08-23",
-  "last_cycle_basis": "jobs.py history: 'Digital Technology Leadership Program' (Palm Beach Gardens, FL), first seen 2026-08-23",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Digital Technology Leadership Program",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
+      "location": "Palm Beach Gardens, FL, United States",
+      "opened": "2026-08-23",
+      "date_source": "tracker first seen (Workday repost startDate 2026-09-22)",
+      "deadline": "2026-10-16",
+      "grad_window": "2026 or 2027 graduate, June 2027 start",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no 2025-07..2026-01 new-grad SWE posting in jobs.py history; the DTLP first seen 2026-08-23 is this cycle",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:carrier/wd5/jobs",
-  "evidence": "Workday board: the 'Digital Technology Leadership Program' posting (Palm Beach Gardens FL) is confirmed gone from the API (jobs.py detail: not found). Current board has only a 'Validation Software Engineer' (Fort Wayne, IN, unclear experience level) and Associate Field Engineer (non-software) roles.",
+  "evidence": "Workday API 2026-09-30: DTLP 30216139 live (canApply true), 2-year rotation across data/AI, digital products, enterprise systems; must work without sponsorship. Deadline is Workday endDate 2026-10-16; page only says accepted 'at least 3 days' from 2026-09-22. IT rotation, not pure SWE.",
   "confidence": "medium"
 }

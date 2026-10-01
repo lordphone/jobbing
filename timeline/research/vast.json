@@ -1,20 +1,36 @@
 {
   "company": "Vast",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer II, Mission Software", "url": "https://boards.greenhouse.io/vast/jobs/4715944006", "location": "Long Beach, CA",
-     "opened": "2026-09-23", "date_source": "greenhouse first_published", "grad_window": null, "live_verified": "api"},
-    {"title": "Software Engineer II, Enterprise Applications", "url": "https://boards.greenhouse.io/vast/jobs/4709600006", "location": "Long Beach, CA",
-     "opened": "2026-09-01", "date_source": "greenhouse first_published", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer II, Mission Software",
+      "url": "https://boards.greenhouse.io/vast/jobs/4715944006",
+      "location": "Long Beach, CA",
+      "opened": "2026-09-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer II, Enterprise Applications",
+      "url": "https://boards.greenhouse.io/vast/jobs/4709600006",
+      "location": "Long Beach, CA",
+      "opened": "2026-09-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
+  "last_cycle_basis": "unknown; no tracker or board history found",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/vast",
   "jobs_spec": "gh:vast",
-  "evidence": "'Software Engineer II, Mission Software' (opened 2026-09-23, closest to entry level) states hire 'must either be a U.S. person as defined by 22 C.F.R....' (U.S. citizen, national, or LPR). All other SWE roles are Senior/Staff.",
+  "evidence": "Greenhouse board (203): no new-grad label; closest are Software Engineer II roles. Both say hire 'must either be a \"U.S. person\"' (citizens, LPRs, asylees/refugees). Other software roles senior.",
   "confidence": "high"
 }

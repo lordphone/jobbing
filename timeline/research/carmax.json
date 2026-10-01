@@ -1,15 +1,15 @@
 {
   "company": "CarMax",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history for CarMax shows only an 'Analyst Rotation Program - Summer 2027' (business track) and Strategy Analyst postings, no SWE new-grad track",
+  "last_cycle_basis": "unknown; no tracker history of a new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://carmax.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:carmax/wd1/External",
-  "evidence": "Full Workday board scan (--all): software/engineering titles are 'Engineer II' and up (Dallas Technology Hub, Richmond), which CarMax's job architecture uses for engineers with prior experience, not a 0-1yr new-grad level; no 'Engineer I' or 'New Grad'/'Early Talent - Technology' title found. Full JD text did not load via browser (JS-rendered, timed out).",
-  "confidence": "low"
+  "evidence": "Workday board (50, --all): engineering is Engineer II and up (Engineer II, Software); 'Analyst Rotation Program - Summer 2027' is business track. No Engineer I or new-grad SWE.",
+  "confidence": "high"
 }

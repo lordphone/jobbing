@@ -1,15 +1,15 @@
 {
   "company": "Quantlab Financial",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for Quantlab Financial",
+  "last_cycle_basis": "no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.quantlab.com/careers",
   "jobs_spec": null,
-  "evidence": "quantlab.com/careers and its Jobvite board (jobs.jobvite.com/quantlab/jobs, which redirects back to quantlab.com/careers?p=jobs) both return an S3 'AccessDenied' error via WebFetch and the browser pane. Indeed's Quantlab page returned 403. Built In's Quantlab jobs page (third-party) shows 'No jobs to discover at this time.' Could not reach a working first-party listing.",
+  "evidence": "quantlab.com/careers, ?p=jobs and jobvite board return S3 AccessDenied in browser pane and WebFetch; could not read first-party board. Web search shows only generic intern and Quantitative Developer listings.",
   "confidence": "low"
 }

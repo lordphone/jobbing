@@ -1,19 +1,25 @@
 {
   "company": "MuleSoft",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineering AMTS (College Grad)", "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1", "location": "6 Locations (incl. California - San Francisco)",
-     "opened": "on or before 2026-09-24", "date_source": "workday postedOn (\"Posted 3 Days Ago\" relative to 2026-09-27)",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
+      "location": "California - San Francisco; California - Palo Alto; Washington - Seattle; Indiana - Indianapolis; Washington - Bellevue; Texas - Dallas",
+      "opened": "on or before 2026-09-24",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No MuleSoft-specific tracker history found; Salesforce-wide AMTS college-grad program is the relevant pipeline.",
+  "last_cycle_opened": "2025-08-12",
+  "last_cycle_basis": "tracker first seen: Salesforce Software Engineering AMTS - New Grad, 2025-08-12 (earlier 2025-05-09 listing)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "MuleSoft hires under Salesforce; confirmed the Salesforce-wide 'Software Engineering AMTS (College Grad)' posting is live, first-party, and its description explicitly targets new graduates ('best and brightest college graduates').",
-  "confidence": "medium"
+  "evidence": "MuleSoft hires under Salesforce. Workday API (checked 2026-09-30) lists Software Engineering AMTS (College Grad), 6 US locations, canApply true, posted ~2026-09-24; Salesforce-wide, not MuleSoft-tagged. No deadline stated.",
+  "confidence": "high"
 }

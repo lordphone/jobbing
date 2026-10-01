@@ -1,15 +1,15 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2026-07-10",
-  "last_cycle_basis": "Tracker history: 'Software Engineer - Backend', Austin TX, first seen 2026-07-10 at boards.greenhouse.io/rdccareers/jobs/7800190003 (now 404/closed via jobs.py detail)",
+  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend, Austin TX (boards.greenhouse.io/rdccareers/jobs/7800190003), now closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "gh:rdccareers still returns 0 postings via API; job-boards.greenhouse.io/rdccareers redirects (302) to careers.realtor.com/job-search-results/, which WebFetch cannot reach ('unable to fetch') and the browser pane refuses for safety restrictions. WebSearch found only a stale/expired LinkedIn listing ('Software Engineer - New Grads', Santa Clara) with no verifiable current date. Could not confirm any live posting first-party.",
+  "evidence": "Still could not read board 2026-09-30: gh:rdccareers API returns 0, careers.realtor.com blocked for WebFetch and browser pane. Builtin shows Junior SWE (Austin) removed 2026-03-09; nothing this cycle seen. Retry later.",
   "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Molson Coors Beverage Company",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
+  "jobs_page": "https://careers.molsoncoors.com/us/en/search-results",
+  "jobs_spec": null,
+  "evidence": "Board API 2026-09-30 (178 postings) and posting opened in browser: IT Rotational Program Associate (Milwaukee, posted 2026-09-30, 2-yr program) is program-management coordination, not software. Software roles are Sr. Software Engineer Salesforce and Manager Software Engineering. No entry-level SWE.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-09-30",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.molsoncoors.com/us/en/search-results?keywords=software%20engineer",
-  "jobs_spec": null,
-  "evidence": "First-party board searched for 'software engineer' (22 results): only Sr./Manager-level IT roles, no entry-level or new-grad SWE posting.",
-  "confidence": "medium"
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

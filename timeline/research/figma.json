@@ -1,15 +1,15 @@
 {
   "company": "Figma",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-09-23",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer' (Does Not Offer sponsorship), San Francisco/New York; https://job-boards.greenhouse.io/figma/jobs/5616603004",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker first-seen for 'Software Engineer' SF/NY (sponsorship 'Does Not Offer') 2025-09-23; 'Junior Software Engineer' 2025-10-15; 2024 cycle opened 2024-08-19.",
   "jobs_page": "https://job-boards.greenhouse.io/figma",
   "jobs_spec": "gh:figma",
-  "evidence": "Greenhouse API (163 postings, --all): no 2027 new-grad/early-career SWE posting live. Only 'Early Career, Product Designer (2027)' (design, not eng) and SWE internships for 2027 are live. Regular 'Software Engineer -*' reqs are experienced-level (first_published mostly 2025-06 to 2026-08, no grad-window language).",
-  "confidence": "high"
+  "evidence": "gh:figma board (163, --all) checked 2026-09-30: 2027 interns (SWE, data) and 'Early Career, Product Designer (2027)' (design, not eng); no new-grad/early-career SWE yet. Last cycle opened late Sept.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

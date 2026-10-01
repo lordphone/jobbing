@@ -1,19 +1,36 @@
 {
   "company": "Susquehanna International Group (SIG)",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Quantitative Strategy Developer - New Grad", "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false", "location": "Bala Cynwyd (Philadelphia Area), PA",
-     "opened": "2026-08-19", "date_source": "tracker first seen",
-     "grad_window": "Intention to graduate and begin full-time employment by August 2027", "live_verified": "browser"}
+    {
+      "title": "Quantitative Strategy Developer - New Grad",
+      "url": "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
+      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "opened": "2026-08-19",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "begin full-time employment by August 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Trading System Engineer - New Grad",
+      "url": "https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job",
+      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "opened": "2026-08-21",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "new graduates, 2027 start",
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-08-26",
-  "last_cycle_basis": "tracker_last_cycle from earlier research",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history first seen 2025-08-26",
   "jobs_page": "https://careers-sig.icims.com",
   "jobs_spec": null,
-  "evidence": "Opened tracker-lead posting URL in browser pane; page shows Apply button, Experience Level: New Graduates, grad by August 2027. No API (iCIMS).",
-  "confidence": "high"
+  "evidence": "Browser pane on careers-sig.icims.com: New Graduates filter lists Quantitative Strategy Developer and Trading System Engineer (Software Engineering, Bala Cynwyd); posting 11321 read, Apply present, begin by Aug 2027. No deadline or sponsorship line seen.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

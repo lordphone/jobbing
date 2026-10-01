@@ -1,19 +1,26 @@
 {
   "company": "AllianceBernstein",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Software Development Associate", "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0019882", "location": "Nashville, TN",
-     "opened": "2026-09-15", "date_source": "workday startDate/postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Development Associate",
+      "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0019882",
+      "location": "Nashville, TN",
+      "opened": "2026-09-15",
+      "date_source": "workday startDate/postedOn (tracker first seen 2026-09-14)",
+      "grad_window": "Dec 2026 or May/June 2027",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-16",
-  "last_cycle_basis": "Tracker history: 'Software Development Associate' (Nashville, TN) first seen 2025-09-16, tagged 'Offers Sponsor' by tracker -- but this cycle's posting requires citizenship/PR, so may have changed.",
+  "last_cycle_basis": "Tracker history: 'Software Development Associate' (Nashville) first seen 2025-09-16, tagged offers sponsor then; this cycle requires citizenship/PR.",
   "excluded_reason": "citizenship / green card",
   "no_sponsorship": true,
   "jobs_page": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
   "jobs_spec": "wd:abglobal/wd1/abcampuscareers",
-  "evidence": "Workday API detail: 'Must be a U.S. Citizen or Permanent Resident (must be able to work in the U.S. ... without visa sponsorship now or in the future)'. Live 2-year rotational program, Nashville, posted 2026-09-15.",
+  "evidence": "Re-read 2026-09-30: live 2-year Software Development Associate program; posting says 'Citizen or Permanent Resident (must be able to work in the U.S. without visa sponsorship now or in the future)'. Excluded. No deadline stated.",
   "confidence": "high"
 }

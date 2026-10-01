@@ -1,15 +1,36 @@
 {
   "company": "Huron",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Data Platform Engineer (Associate)",
+      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Platform-Engineer--Associate-_JR-0015729",
+      "location": "Chicago, IL",
+      "opened": "2026-09-16",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Forward Deployed Engineer Associate (AI Capability Center)",
+      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
+      "location": "Chicago - 550 Van Buren; Toronto - 55 University Ave",
+      "opened": "2026-09-02",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history checked",
+  "last_cycle_basis": "Tracker history shows only Associate data roles (Data Scientist - Associate 2025-12-23); no dated new-grad SWE program found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://huron.wd1.myworkdayjobs.com/huroncareers",
   "jobs_spec": "wd:huron/wd1/huroncareers",
-  "evidence": "Workday board (92 postings) has US 'Associate'-titled engineering roles despite the title, both require experience: 'Data Platform Engineer (Associate)' requires \"3+ years of software engineering experience\" and 'Forward Deployed Engineer Associate (AI Capability Center)' requires \"3+ years building software or AI\". Only true SWE 'Associate' role (Associate Software Engineer) is based in Bangalore, India, not the US. No qualifying US new-grad SWE posting.",
-  "confidence": "high"
+  "evidence": "Workday API (92): two Associate-titled engineering roles live (canApply true), both text \"3+ years\" and experienced pay; no grad window or new-grad label, so borderline. Salesforce Omni Developer Associate requires US citizen (endDate 2026-10-09), excluded.",
+  "confidence": "low"
 }

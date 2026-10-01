@@ -1,15 +1,15 @@
 {
   "company": "Nationwide",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; jobs.py history not run (no matching entries surfaced in board scan for prior cycle)",
+  "last_cycle_opened": "2025-11-20",
+  "last_cycle_basis": "tracker first seen: Software Engineer, Columbus OH, nationwide.wd1.myworkdayjobs.com (also Entry Level Software Engineer - Java posted 2026-05-07, closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
   "jobs_spec": "wd:nationwide/wd1/Nationwide_Career",
-  "evidence": "Checked full Workday board (82 postings, --all): only Summer 2027 internships (Technology, Enterprise Risk Management, Economics) are live; no full-time new-grad SWE posting.",
+  "evidence": "Workday board (82, --all): only Summer 2027 tech/AI internships and Consultant/Manager software roles, not entry-level. No live entry-level SWE. Entry-level Java SWE from May 2026 closed.",
   "confidence": "medium"
 }

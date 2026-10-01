@@ -1,7 +1,7 @@
 {
   "company": "Williams-Sonoma, Inc.",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:ehac.fa.us6.oraclecloud.com/CX_1",
-  "evidence": "The careers.williams-sonomainc.com front door still SSL-fails via WebFetch and isn't browser-pane-allowed, but the actual applicant system is Oracle Cloud (found via a WebSearch hit for a Williams-Sonoma job on ehac.fa.us6.oraclecloud.com, site CX_1). jobs.py board with this new spec returned 121 live postings; all US 'Software Engineer' titles are Staff/Lead/Senior level (Merchandising, Logistics Microservices, Manufacturing, HCM), and India-based Lead/Staff roles otherwise. No entry-level or new-grad-track US SWE posting found; only '2027 ... Internship' postings exist (Merchandising/Design/Inventory Management), not software engineering.",
-  "confidence": "medium"
+  "evidence": "Oracle board (128 postings) 2026-09-30: Staff/Lead/Senior SWE (US and India) plus a 2025 research internship; no entry-level SWE.",
+  "confidence": "high"
 }

@@ -1,15 +1,26 @@
 {
   "company": "AutoZone",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Systems Engineer Associate",
+      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
+      "location": "Memphis, TN",
+      "opened": "2026-07-27",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2026-07-27",
   "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN, https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Confirmed prior finding: 'Systems Engineer Associate' (Memphis TN, entry-level SWE track, first seen 2026-07-27) is no longer on the board (checked --all); only Senior Software Engineer and an India-based IT Manager role remain. This-cycle posting existed and is now gone.",
+  "evidence": "Oracle board (83 postings) 2026-09-30: 'Systems Engineer Associate' (Memphis, first seen 2026-07-27) is gone. Live US Systems Engineer roles need 4-7+ years; only 2027 internships otherwise.",
   "confidence": "high"
 }

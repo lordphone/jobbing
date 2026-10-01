@@ -1,15 +1,15 @@
 {
   "company": "Inspire Brands",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.inspirebrands.com/early-careers",
+  "jobs_page": "https://careers.inspirebrands.com/jobs",
   "jobs_spec": null,
-  "evidence": "Checked own board's Early Careers page (Atlanta, GA HQ): only a summer internship program is described, and the only open early-career job listed is 'End User Support Analyst - Tech Bar', not a SWE/new-grad track.",
-  "confidence": "medium"
+  "evidence": "Inspire careers site returned Access Denied this run (Paradox); prior 2026-09-28 read retained: Paged through all 86 live jobs on the own board (Paradox). Tech roles: Senior SRE, Lead Data Engineer, Data Scientist, BI Report Developer Lead, tech operations analysts, End User Support Analyst. Early Careers page lists only summer internships. No entry-level SWE.",
+  "confidence": "low",
+  "checked": "2026-09-30"
 }

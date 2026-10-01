@@ -1,25 +1,26 @@
 {
   "company": "CVS Health",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Development Engineer", "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Software-Development-Engineer_R1038482", "location": "PA - Work from home",
-     "opened": "2026-09-25", "date_source": "workday postedOn (Posted 2 Days Ago, startDate 2026-09-25)",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Software Development Engineer", "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Work-from-home/Software-Development-Engineer_R1033584", "location": "NJ - Work from home",
-     "opened": "on or before 2026-09-25", "date_source": "workday postedOn (Posted 2 Days Ago)",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Software Development Engineer", "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/Software-Development-Engineer_R1024749-1", "location": "WI - Work from home",
-     "opened": "on or before 2026-09-25", "date_source": "workday postedOn (Posted 2 Days Ago)",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Development Engineer",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer_R1051951",
+      "location": "IL - Work from home",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "worklist tracker_last_cycle hint: 2025-09-02",
+  "last_cycle_opened": "2025-08-29",
+  "last_cycle_basis": "tracker history: Associate Software Development Engineer, Hartford CT, first seen 2025-08-29",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
   "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
-  "evidence": "Confirmed the tracker-lead 'Software Development Engineer' posting is live on the first-party board. Full description: 'Entry-level developer role...Ideal for recent graduates or early-career professionals', requires 'Bachelor's degree...1-5 years...internships, co-ops, or academic projects acceptable'. No citizenship/clearance/sponsorship restriction found. Two more identical postings (NJ, WI) also live.",
-  "confidence": "high"
+  "evidence": "Workday API: base-level SDE (IL) live, canApply true, 1-4 yrs, master's listed, endDate 2026-10-09; not labeled new grad. Earlier PA and WI SDE postings now 404 (gone); NJ SDE asks 3-5+ yrs so dropped. No citizenship/sponsorship text.",
+  "confidence": "medium"
 }

@@ -1,19 +1,26 @@
 {
   "company": "Palo Alto Networks",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer", "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506", "location": "Office - USA - CA - Headquarters",
-     "opened": "on or before 2026-01-24", "date_source": "workday startDate",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506",
+      "location": "Santa Clara, CA (HQ)",
+      "opened": "on or before 2026-01-24",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "bachelor's degree earned recently or within next 12 months",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-17",
-  "last_cycle_basis": "tracker_last_cycle field",
+  "last_cycle_basis": "tracker first seen (trackers.json)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
   "jobs_spec": "wd:paloaltonetworks/wd5/panwexternalcareers",
-  "evidence": "jobs.py detail confirms posting still live (startDate 2026-01-24); explicitly says 'we will not sponsor applicants for work visas for this position'. Default board filter misses it (only shows Associate Systems Engineer postings) but direct URL works.",
-  "confidence": "high"
+  "evidence": "Workday CXS read of JR-011506: canApply true, degree earned recently or within 12 months, 'we will not sponsor applicants for work visas'. Not shown in the default board listing (filter/pagination), so not browser-verified. No deadline stated.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

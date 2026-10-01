@@ -1,15 +1,15 @@
 {
   "company": "Qualtrics",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-18",
-  "last_cycle_basis": "tracker history: 'Software Engineer I' Seattle WA, first seen 2025-07-18",
+  "last_cycle_basis": "tracker first seen 'Software Engineer I' Seattle (qualtrics Greenhouse)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/qualtrics",
   "jobs_spec": "gh:qualtrics",
-  "evidence": "Greenhouse API: 46 postings, 0 match new-grad filter. Checked a last-cycle 'Software Engineer I - PAAS' Greenhouse job id (6922762) tracker showed active in 2025-07 -- API now returns 404, confirming it's closed. No live qualifying posting.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API (50 postings): US SWE/ML roles are Senior/Staff only. Last cycle's Software Engineer I roles (Seattle, Provo) are gone. No entry-level SWE live.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Fannie Mae",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-08-17",
-  "last_cycle_basis": "tracker: 'Analytics Associate - Analytics-Test' / 'Analytics & Modeling Associate' first seen 2026-08-17/2026-08-19 (non-SWE analyst track); no SWE-specific new-grad tracker hit found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No SWE new-grad tracker hit; tracker only shows non-SWE Analytics & Modeling program (2025-10-31, 2026-08-19).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers",
   "jobs_spec": "wd:fanniemae/wd1/FannieMaeCareers",
-  "evidence": "Re-checked Workday board (--all): still no entry-level SWE posting; only senior/lead SWE and a non-SWE Analytics & Modeling Program Associate role.",
+  "evidence": "Workday board (--all, 27 postings) 2026-09-30: Campus interns (Technology Program Intern, grad Spring 2028), Analytics & Modeling Program Associate (non-SWE), 'SF Technology Software Engineering Lead Associate' (not entry-level), Technical Integration Support Analyst. No entry-level SWE. Old SmartRecruiters board is stale.",
   "confidence": "medium"
 }

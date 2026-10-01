@@ -1,15 +1,15 @@
 {
   "company": "Charter Communications (Spectrum)",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-02-24",
-  "last_cycle_basis": "tracker first-seen date for Software Engineer I, Greenwood Village CO (jobs.py history)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker first seen 2025-02-24 and 2025-05-29 Software Engineer I (spring/summer 2025, outside the Jul 2025-Jan 2026 window)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.spectrum.com",
   "jobs_spec": null,
-  "evidence": "Company's real job board is jobs.spectrum.com (a custom site), not job-boards.greenhouse.io/spectrum which only lists 1 field-technician req and is unrelated. Searched jobs.spectrum.com for 'software engineer' and 'new grad software': only 2027 Summer Intern: Software Engineer postings found, no full-time entry-level SWE role live.",
+  "evidence": "jobs.spectrum.com (browser) searches 'software engineer', 'Software Engineer I', 'associate software', 'new graduate': only 2027 Summer Intern SWE roles and Principal/Lead/Manager full-time roles. No entry-level full-time SWE live. Last SWE I postings were spring 2025.",
   "confidence": "medium"
 }

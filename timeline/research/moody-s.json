@@ -1,15 +1,15 @@
 {
   "company": "Moody's",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history hit for Moody's new-grad SWE found (0 postings).",
+  "last_cycle_basis": "No tracker history hit. Early-careers page says the Technology Rotation Program (New York, 2 years, three 8-month rotations) exists and early-career roles start posting in September; no dated posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.moodys.com/en/search-jobs",
   "jobs_spec": null,
-  "evidence": "Re-checked careers.moodys.com: keyword 'software engineer' shows only Senior/Staff/Principal SWE roles (incl. NY) and international roles; filtering to 'Students & Early Careers' category for United States shows only Sales Rotation Associate and a Digital Workplace Project Management Summer Intern in the US, plus Costa Rica interns (incl. Software Engineer Intern). No live FT US new-grad SWE role found.",
-  "confidence": "medium"
+  "evidence": "careers.moodys.com 2026-09-30: Students & Early Careers category (first page only; filters/pagination would not apply) shows interns and Sales Rotation Associate, no US tech rotation posting; 'software engineer' search shows Senior/Staff/Principal US roles. Earlier-pass Charlotte SWE (2 yrs, master's) not reproduced.",
+  "confidence": "low"
 }

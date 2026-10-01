@@ -1,19 +1,46 @@
 {
   "company": "BAE Systems (US)",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "2027 Entry Level Software Engineer", "url": "https://jobs.baesystems.com/global/en/job/128861BR/2027-Entry-Level-Software-Engineer",
-     "location": "Fort Worth, Texas", "opened": "on or before 2026-08-31 (closed)", "date_source": "page text / web search",
-     "grad_window": "2027", "live_verified": "no"}
+    {
+      "title": "2027 Entry Level Software Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/128864BR/x",
+      "location": "San Diego, CA",
+      "opened": "2026-09-14",
+      "date_source": "page text (dateCreated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Entry Level Software Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/129314BR/x",
+      "location": "Hudson / Nashua / Merrimack, NH",
+      "opened": "2026-08-27",
+      "date_source": "page text (dateCreated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://jobs.baesystems.com/global/en/job/130128BR/Software-Engineer-I",
+      "location": "Hudson, New Hampshire",
+      "opened": "2026-09-18",
+      "date_source": "page text (postedDateTrack)",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "jobs.py history 'bae systems': 'Junior Software Engineer', Hill AFB, UT, first seen 2025-08-17",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "tracker first seen: Junior Software Engineer, Hill AFB UT (jobs.py history)",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "A 2027 Entry Level Software Engineer posting (Fort Worth) existed this cycle but is now filled/removed (confirmed live: 'This position has been filled'). A live entry-level posting on the same board, 'Full-stack Software Engineer I' (Nashua, NH), links to BAE's Security Clearance page stating 'Many of our positions require the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship.' Tracker history tags nearly all US entry-level SWE postings 'U.S. Citizensh[ip]'.",
-  "confidence": "medium"
+  "evidence": "BAE search data lists 2027 Entry Level SWE (San Diego) and Entry Level SWE (Hudson NH), clearance level Secret; page says 'Security Clearance... for which the U.S. Government requires U.S. Citizenship'. Hudson Software Engineer I is Top Secret, U.S. Person. Postings stay active until filled; no deadline.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Nebius Group",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no last-cycle US new-grad SWE posting found",
+  "last_cycle_basis": "only US Early Talent role seen: ML Solution Architect (Early Talent), remote US, first 2026-06-17; not SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nebius",
   "jobs_spec": "gh:nebius",
-  "evidence": "Greenhouse API: US software roles are all Senior/Staff/Lead. The only entry-level track, 'Software Engineer (Early Talent)', is Amsterdam-only, not US. No US new-grad SWE posting.",
+  "evidence": "Greenhouse API (377 postings) rechecked: Early Talent SWE/Frontend/SRE roles are Amsterdam/Prague only; the US Early Talent ML Solution Architect role (2026-06-17) is solutions, not SWE. US remote software roles are not entry-level.",
   "confidence": "medium"
 }

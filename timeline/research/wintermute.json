@@ -1,15 +1,15 @@
 {
   "company": "Wintermute",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker/history evidence found.",
+  "last_cycle_basis": "tracker: only graduate trader / quant researcher roles (London, 2025-10-31); no SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/wintermute-trading",
   "jobs_spec": "lever:wintermute-trading",
-  "evidence": "Lever API checked in full (20 postings, --all): 'Graduate Algorithmic Trader 2027' (NY, first seen 2026-09-01) is a trading role, not SWE. SWE-titled roles (Full Stack Engineer, Core Developer (Python), C++ Trading Platform Developer) carry no new-grad/entry-level or 2027 labeling.",
-  "confidence": "medium"
+  "evidence": "Lever board (20 postings): Graduate Algorithmic Trader 2027 (NY, 2026-09-01) is trading, not SWE. Engineering roles (Full Stack, Core Developer, C++) are London or experienced. No US entry-level SWE.",
+  "confidence": "high"
 }

@@ -1,20 +1,46 @@
 {
   "company": "RELX (LexisNexis, Elsevier)",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)", "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2", "location": "Alpharetta, GA",
-     "opened": "on or before 2026-08-31", "date_source": "workday postedOn (27 days ago)", "grad_window": "Dec 2026 - May 2027", "live_verified": "api"},
-    {"title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)", "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023", "location": "Boca Raton, FL",
-     "opened": "on or before 2026-08-31", "date_source": "workday postedOn (27 days ago)", "grad_window": "Dec 2026 - May 2027", "live_verified": "api"}
+    {
+      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
+      "location": "Alpharetta, GA",
+      "opened": "2026-08-30",
+      "date_source": "tracker first seen (workday postedOn 30 days ago)",
+      "deadline": null,
+      "grad_window": "Dec 2026 - May 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023",
+      "location": "Boca Raton, FL",
+      "opened": "2026-08-30",
+      "date_source": "tracker first seen (workday postedOn 30 days ago)",
+      "deadline": null,
+      "grad_window": "Dec 2026 - May 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer 1",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1",
+      "location": "Alpharetta, GA",
+      "opened": "2026-09-15",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-03",
-  "last_cycle_basis": "Prior research file / tracker (kept from previous result).",
+  "last_cycle_basis": "Prior research file / tracker (tracker_last_cycle 2025-09-03).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://relx.wd3.myworkdayjobs.com/relx",
   "jobs_spec": "wd:relx/wd3/relx",
-  "evidence": "Risk Solutions Technology Graduate Program - Software Engineer, live in Alpharetta GA and Boca Raton FL, requires grad date Dec 2026-May 2027 (2027 cycle). Two other 'January'/generic postings on the same board require grad date May-Dec 2026 (leftover_2026, not counted). Also live: 'Software Engineer 1' (Alpharetta) with no visible grad-window text.",
+  "evidence": "Workday API detail 2026-09-30: Tech Accelerate Graduate Program SWE (Alpharetta June, Boca Raton June) live, grad window Dec 2026-May 2027 (2027 program), no end date. Alpharetta January and 'Graduate Program' R118810 need May-Dec 2026 grads (leftover). Software Engineer 1 also live.",
   "confidence": "high"
 }

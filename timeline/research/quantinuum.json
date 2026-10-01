@@ -1,15 +1,15 @@
 {
   "company": "Quantinuum",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2025-08-01",
-  "last_cycle_basis": "SimplifyJobs tracker first seen: Software Engineer I, Broomfield CO, tagged U.S. Citizenship (https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570, now removed)",
+  "last_cycle_basis": "tracker first seen: Software Engineer I, Broomfield CO (jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570), now removed",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.eu.lever.co/quantinuum",
-  "jobs_spec": null,
-  "evidence": "Lever EU API (122 postings): no SWE I / new-grad SWE live this cycle, only Advanced/Lead software roles and interns. Embedded Software Engineer posting (US Broomfield) quotes: 'Due to Contractual requirements, must be a U.S. Person defined as, U.S. citizen permanent resident or green card holder...' -- same export-control bar applied to last cycle's SWE I.",
+  "jobs_spec": "levereu:quantinuum",
+  "evidence": "Lever EU (121) rechecked: no entry SWE live. Live Broomfield postings (Embedded Software Engineer 2026-09-03, Software-focused Systems Engineer) say \"must be a U.S. Person\"; last-year SWE I was tagged citizenship-required. No deadline (rolling).",
   "confidence": "medium"
 }

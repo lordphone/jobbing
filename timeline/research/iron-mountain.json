@@ -1,15 +1,15 @@
 {
   "company": "Iron Mountain",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2025-12-10",
-  "last_cycle_basis": "tracker first-seen: 'Data Scientist', Texas/Remote in USA",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker history: 'Data Scientist' Remote USA 2025-12-10 (not entry-labelled); no new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs",
   "jobs_spec": "wd:ironmountain/wd5/iron-mountain-jobs",
-  "evidence": "Workday API: 79 postings, mostly warehouse/facilities/sales; only 'Systems Engineer' roles found (Royersford PA, Jessup MD), not marked entry-level or new-grad. No qualifying SWE new-grad posting.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30, all 76 postings: US roles are warehouse/facilities/solution architect; 'Jr. Software Engineer' is Mexico-based. Tracker 'Machine Learning Associate' (FL/MA, first seen 2026-09-22) is gone from the board and its level could not be verified.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

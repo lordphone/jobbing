@@ -46,3 +46,16 @@ note: source paste was cut off after "transmitting real-time data to"; Jetson is
 approved:
 - default: **Wisconsin Autonomous:** Integrated wheel-speed encoders on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
 - encoders: **Wisconsin Autonomous:** Integrated wheel-speed encoders with voltage-to-frequency converters and streamed real-time data to the onboard NVIDIA Jetson.
+
+## pj-codingplans
+
+tags: llm, fullstack
+facts:
+- codingplans: website informing the public which LLM coding/token plans are trustworthy and worth the money
+- bought plans out of pocket from companies including Z.AI, MiniMax, and Kimi
+- task-specific tests: KV cache, long context, needle-in-a-haystack
+- results show which providers nerfed caching or heavily quantized their models (cost-saving measures against users' interests)
+- motivation: understand token cost without subsidization; keep providers in check as plans get more expensive
+note: dates, stack, and URL not given yet.
+approved:
+- default: **codingplans:** Building a website that rates LLM coding/token plans; bought plans from Z.AI, MiniMax, and Kimi and tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized their models.

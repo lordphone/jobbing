@@ -1,15 +1,15 @@
 {
   "company": "Armis",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "checked": "2026-09-30",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker match found for Armis.",
+  "last_cycle_basis": "unknown; no tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.armis.com/armis-careers/",
   "jobs_spec": null,
-  "evidence": "Armis was acquired by ServiceNow in 2026. ServiceNow's Early Careers page makes no mention of Armis, and no Armis-specific first-party board or new-grad posting was found. Armis's own careers page has no separate job listing content reachable via fetch.",
+  "evidence": "armis.com careers returns 403; Greenhouse armissecurity board is empty and SmartRecruiters shows 2 old Israel roles; Armis postings now appear on ServiceNow careers, which I could not filter. Web search found no early-career SWE. Retry via ServiceNow.",
   "confidence": "low"
 }

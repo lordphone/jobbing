@@ -1,15 +1,15 @@
 {
   "company": "Kearney",
-  "tier": 10,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "no tracker or dated source found for a Kearney new-grad SWE posting",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker or dated source for a Kearney new-grad SWE posting (tracker saw a Full Stack Developer 2026-07-28, now gone, not labeled new grad)",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://kearney.recsolu.com/job_boards/1",
   "jobs_spec": null,
-  "evidence": "Careers page links to a Yello/recsolu board (not Taleo as previously listed), 192 results browsed; all consulting/business-analyst titles (Associate, Business Analyst, Manager). No software engineer/developer posting found; a prior-cycle 'Full Stack Developer' (Boston/DC/Arlington) was not labeled new-grad and is now closed.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-09-30: board shows 189 results; newest 25 (past ~week) are consulting associates/managers, Kinaxis Activate roles, no SWE. Earlier full scroll of 188 found only consulting roles plus senior Activate Full Stack Developer and PERL Junior Engineer (non-SWE). Keyword search would not apply, so full list not re-read.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

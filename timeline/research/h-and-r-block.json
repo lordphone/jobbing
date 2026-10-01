@@ -1,15 +1,15 @@
 {
   "company": "H&R Block",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-03",
-  "last_cycle_basis": "Carried from prior pass: Simplify tracker 'Associate Software Engineer, Accelerate Program' posted around March 2026 last cycle",
+  "last_cycle_opened": "2026-03-12",
+  "last_cycle_basis": "Tracker first seen: 'Associate Software Engineer, Accelerate Program' Kansas City MO (Offers Sponsor), https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job; posted in spring, after the usual Jul-Jan window.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://employees-hrblock.icims.com",
+  "jobs_page": "https://careers-hrblock.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS board (careers-hrblock.icims.com) renders job listings via JS inside an iframe; browser pane and curl fetches of the search page did not surface job rows for 'software engineer'/'developer'/'Accelerate' keywords this pass. Carrying forward prior finding that the Accelerate new-grad SWE program posts in spring (March) and nothing is currently live for 2027; not independently reverified.",
-  "confidence": "low"
+  "evidence": "careers-hrblock.icims.com searches (software, developer, engineer, data, accelerate, graduate) 2026-09-30: only intern roles (Software Engineering Intern, Machine Learning Intern, all '- S' summer) and non-SWE roles. Accelerate associate SWE program posted in March last cycle.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

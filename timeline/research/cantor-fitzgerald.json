@@ -1,17 +1,26 @@
 {
   "company": "Cantor Fitzgerald",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "closed",
+  "checked": "2026-09-30",
+  "status": "open",
   "postings": [
-    {"title": "Associate Machine Learning Engineer", "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/248975", "location": "NYC", "opened": "on or before 2026-06-17", "date_source": "tracker first seen", "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Machine Learning (Machine Learning Engineer, Cantor Fitzgerald Technology Markets)",
+      "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/249829",
+      "location": "New York, NY",
+      "opened": "2026-09-02",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07..2026-01 tracker posting found; nearest history entry is 2026-06-17.",
+  "last_cycle_basis": "No 2025-07..2026-01 tracker posting found; nearest is Associate Machine Learning Engineer, 2026-06-17.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs",
   "jobs_spec": "oracle:hdow.fa.us6.oraclecloud.com/CX_1003",
-  "evidence": "Checked full Oracle Cloud board (28 postings): the 'Associate Machine Learning Engineer' tracker lead (first seen 2026-06-17) is no longer live. Remaining 'Software Engineer' postings require 2-4 years experience, not entry-level.",
+  "evidence": "Oracle API (31 postings): 'Machine Learning' (ML Engineer, New York, posted 2026-09-02, Bachelor's, production-like experience, no years required, no end date) is listed live. Earlier Associate ML Engineer (2026-06-17) is gone. Software Engineer roles need 2-4 yrs. Sponsorship unstated; 2027 IB analyst roles are not SWE.",
   "confidence": "medium"
 }

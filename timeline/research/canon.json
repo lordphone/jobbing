@@ -1,15 +1,15 @@
 {
   "company": "Canon (Canon U.S.A.)",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - not checked (no jobs.py spec, iCIMS board doesn't expose history)",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://external-canoncareers.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS board search UI didn't render live results via fetch tools; web search found candidate postings (Software Engineer, Generative AI & Data Associate Engineer) but both returned HTTP 410 Gone (closed/removed). No live qualifying entry-level SWE posting found; only intern roles (Software Imaging Intern, QA Automation Intern) appear active.",
+  "evidence": "iCIMS keyword searches ('software engineer', 'developer', 'engineer') return only semiconductor field service, one trainer role and a tech support engineer; prior full read of 232 US postings found no software titles. No tracker history.",
   "confidence": "medium"
 }

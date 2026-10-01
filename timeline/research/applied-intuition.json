@@ -1,24 +1,66 @@
 {
   "company": "Applied Intuition",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer - New Grad (December 2026)", "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694", "location": "Sunnyvale, CA / Ann Arbor, MI",
-     "opened": "2026-08-14", "date_source": "tracker first seen",
-     "grad_window": "graduating December 2026 or by Summer 2027", "live_verified": "api"},
-    {"title": "Research Engineer - New Grad (2027)", "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39", "location": "Sunnyvale, CA",
-     "opened": "2026-08-14", "date_source": "tracker first seen",
-     "grad_window": "2027", "live_verified": "api"},
-    {"title": "Forward Deployed Engineer - New Grad (December 2026)", "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943", "location": "Sunnyvale, CA",
-     "opened": "2026-09-02", "date_source": "jobs.py board postedOn", "grad_window": "December 2026", "live_verified": "api"}
+    {
+      "title": "Software Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+      "location": "Sunnyvale; Ann Arbor",
+      "opened": "2026-08-14",
+      "date_source": "ashby publishedAt",
+      "grad_window": "graduating December 2026 or by Summer 2027",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Software Integration Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-08-14",
+      "date_source": "ashby publishedAt",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Research Engineer - New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-08-14",
+      "date_source": "ashby publishedAt",
+      "grad_window": "graduating by December 2026 or Summer 2027",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Forward Deployed Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-09-02",
+      "date_source": "ashby publishedAt",
+      "grad_window": "December 2026",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Cybersecurity Software Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-09-02",
+      "date_source": "ashby publishedAt",
+      "grad_window": "by December 2026",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-08-12",
-  "last_cycle_basis": "jobs.py history: first new-grad SWE posting (Software Engineer - New Grad) active 2025-08-12, https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer - New Grad' active 2025-08-12, https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/applied",
   "jobs_spec": "ashby:applied",
-  "evidence": "Confirmed via ashby API: Software Engineer - New Grad (Dec 2026) live, published 2026-08-14, grad window Dec 2026-Summer 2027. Multiple other new-grad SWE-track postings also live.",
+  "evidence": "ashby:applied board 2026-09-30 (313 postings) still lists all 5 SWE-type New Grad postings (Sunnyvale, published Aug-Sep 2026); detail read for 4: grad window Dec 2026 or by Summer 2027, no citizenship/sponsorship/deadline line. Also other New Grad titles (embedded, test, mechanical) not counted.",
   "confidence": "high"
 }

@@ -1,15 +1,25 @@
 {
   "company": "Light & Wonder",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683",
+      "location": "Las Vegas, NV; Reno, NV",
+      "opened": "2026-08-18",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-09-15",
   "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer' | Reno, NV;Las Vegas, NV, first seen 2025-09-15",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
   "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
-  "evidence": "Tracker shows a this-cycle 'Associate Software Engineer' (Las Vegas, NV; Reno, NV) first seen 2026-08-18, but it is not on the live board today (45 reqs checked, --all): only Associate Software QA Engineer (US) and India/other-country associate SWE roles remain.",
-  "confidence": "medium"
+  "evidence": "wd:lnw (46): Associate Software Engineer (Las Vegas/Reno, 2026-08-18) gone, so closed. Only US entry-like is Associate Software QA Engineer (QA, not counted); associate devs in Pune/Sofia.",
+  "confidence": "high"
 }

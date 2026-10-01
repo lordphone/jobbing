@@ -1,15 +1,17 @@
 {
   "company": "Humana",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {"title": "Junior Software Engineer Cloud Cost Optimization", "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization", "location": "Louisville, KY; Boston; Nashville", "opened": "2026-07-12", "date_source": "tracker first seen", "deadline": null, "grad_window": null, "live_verified": "no"}
+  ],
   "last_cycle_opened": "2025-10-10",
-  "last_cycle_basis": "tracker first-seen dates for Software Engineer 1 - Cybersecurity Identity / XIAM Software Engineer (jobs.py history)",
+  "last_cycle_basis": "tracker first-seen: Software Engineer 1 - Cybersecurity Identity, 2025-10-10",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
   "jobs_spec": "wd:humana/wd5/humana_external_career_site",
-  "evidence": "Tracker lead 'Data Engineer - Platform Innovation and Engineering' (R-423155) is on the live board, posted 2026-09-25, full time, but its posting only lists 'Recent college graduate (0-2 yrs)' as a preferred (not required) qualification alongside cloud/AI-tool experience -- it reads as a general data engineer req, not a dedicated new-grad SWE program. No other qualifying entry-level SWE posting found.",
+  "evidence": "Workday board (54, --all): no junior/entry SWE live. Tracker-seen junior roles (Junior SWE Cloud Cost Optimization 07-12, SFDC/BPM Junior Developer 07-20, Data Engineer R-423155) are gone. Live 'Software Engineer' reqs ask 2+ yrs Salesforce; not entry-level.",
   "confidence": "medium"
 }

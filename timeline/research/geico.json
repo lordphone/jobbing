@@ -1,15 +1,15 @@
 {
   "company": "GEICO",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-08-10",
-  "last_cycle_basis": "tracker first-seen: 'New Grad: Technology Development Program' (Chevy Chase, MD), 2024-08-10 - tracker has no more recent (2025) TDP posting recorded",
+  "last_cycle_basis": "tracker first-seen: 'New Grad: Technology Development Program' (Chevy Chase, MD), 2024-08-10 (two cycles ago); no 2025 TDP posting in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://geico.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:geico/wd1/External",
-  "evidence": "Current Workday board (--all) has only Senior/Staff Software Engineer roles, no Technology Development Program or entry-level SWE posting. Tracker history's only TDP entry is from 2024-08-10; no 2025 or 2026 TDP posting found in tracker or on the live board.",
+  "evidence": "Workday API keyword searches (software, developer, engineer, data, graduate, TDP): no TDP or Software Engineer I live. Engineer II .Net (2+ yrs, Feb 2026) is not entry; Business Applications Developer is SQL/BI-oriented (1+ yrs, no sponsorship), not counted.",
   "confidence": "medium"
 }

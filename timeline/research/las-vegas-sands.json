@@ -1,15 +1,15 @@
 {
   "company": "Las Vegas Sands",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-20",
-  "last_cycle_basis": "tracker_last_cycle from worklist (not independently re-confirmed this run)",
+  "last_cycle_basis": "tracker first seen: Associate Software Engineer, Dallas https://sands.wd1.myworkdayjobs.com/referral_sands_careers/job/Dallas-Texas/Software-Engineer_R25_0337",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://sands.wd1.myworkdayjobs.com/sands_careers",
   "jobs_spec": "wd:sands/wd1/sands_careers",
-  "evidence": "Corrected jobs_spec: worklist's wd:sands/wd1/referral_sands_careers is a referral-only site with 1 posting; the real public board is wd:sands/wd1/sands_careers (8 postings). All SWE roles there are Sr/Lead/Principal. No entry-level SWE posting live now.",
-  "confidence": "medium"
+  "evidence": "Workday API --all 2026-09-30, 9 postings: software roles all Sr/Lead/Principal; referral board has only an IT intern. Associate Software Engineer (Dallas) opened 2025-09-20 last cycle, none live now.",
+  "confidence": "high"
 }

@@ -1,19 +1,46 @@
 {
   "company": "ServiceNow",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer", "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366", "location": "AMS - North America and Canada",
-     "opened": "2026-09-14", "date_source": "smartrecruiters releasedDate",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer (Early Career, AI Control Tower)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151949130",
+      "location": "Santa Clara, CA",
+      "opened": "2026-09-25",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (Early Career)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
+      "location": "West Palm Beach, FL",
+      "opened": "2026-09-14",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000107369741",
+      "location": "Mountain View, CA",
+      "opened": "2026-02-04",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-07-30",
-  "last_cycle_basis": "tracker_last_cycle field",
+  "last_cycle_basis": "tracker first seen (timeline/data/trackers.json); prior new-grad SWE Santa Clara posted 2025-01-08 and Associate SWE Waltham 2025-11-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/ServiceNow",
   "jobs_spec": "sr:ServiceNow",
-  "evidence": "Re-verified via jobs.py detail: posting still live, releasedDate 2026-09-14, 0-2+ years Java/JS, qualifies as new-grad SWE.",
-  "confidence": "high"
+  "evidence": "SR API fetched: Santa Clara SWE (Global Emerging Talent, Early Career, 2-5 yrs Java) and West Palm Beach SWE (Early Career, 0-2+ yrs) live; Moveworks Associate SWE still listed. No citizenship/sponsorship/deadline line. Other 2026-09-30 SWE needs 3 yrs, excluded.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

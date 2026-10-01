@@ -1,19 +1,15 @@
 {
   "company": "Peloton",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [
-    {"title": "Software Engineer 1", "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7733271", "location": "New York, NY",
-     "opened": "on or before 2026-03-26", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
-  ],
+  "checked": "2026-09-30",
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history for Peloton only shows one SWE 1 posting (2026-03-26), no earlier-cycle date found",
+  "last_cycle_basis": "unknown; only SWE 1 (NYC) seen was first posted 2026-03-26, outside the Jul 2025-Jan 2026 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/peloton",
   "jobs_spec": "gh:peloton",
-  "evidence": "Greenhouse board (54 postings, --all): no Software Engineer 1/entry-level/new-grad title live. Tracker shows a 'Software Engineer 1' NYC posting first seen 2026-03-26 that is no longer on the current board, so it opened and has since closed this cycle.",
+  "evidence": "Greenhouse board (--all): no SWE 1 or entry title live; US SWE titles are III/Senior. Tracker's SWE 1 (NYC, 2026-03-26) is gone. No 2027 new-grad posting yet.",
   "confidence": "medium"
 }

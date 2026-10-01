@@ -1,15 +1,15 @@
 {
   "company": "Jerry",
   "tier": 3,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Old listings (Peerlist, TechJobsCalifornia) reference a 'New Graduate Software Engineer (Palo Alto)' / 'Software Engineer I' role but these are not currently live on the first-party board; date unknown.",
+  "last_cycle_opened": "2025-07-04",
+  "last_cycle_basis": "jobs.py history: rolling 'Software Engineer I' reqs (SF and Toronto) first seen 2025-07-04, reposted through 2025.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Jerry.ai",
   "jobs_spec": "ashby:Jerry.ai",
-  "evidence": "Found first-party Ashby board (44 postings). Only engineering role is 'AI Product Engineer' (Sept 2026), level unclear, not labeled new-grad. No open entry-level SWE program this cycle.",
-  "confidence": "medium"
+  "evidence": "Ashby API (43 postings) rechecked: no software engineering roles live (sales, BizOps, Associate Data Scientist, leadership programs). Last cycle had Software Engineer I reqs, so a track exists but nothing open.",
+  "confidence": "high"
 }

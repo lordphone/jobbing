@@ -1,426 +1,7090 @@
 {
-  "approval": "rerun the 105 unknowns with the new-grad-research workflow and observe the behavior.",
-  "worklist": "/Users/lordphone/Documents/jobbing/timeline/data/worklist.json",
-  "companies": [
-    [
-      "Contextual AI",
-      0
-    ],
-    [
-      "Brevan Howard",
-      1
-    ],
-    [
-      "Elliott Investment Management",
-      2
-    ],
-    [
-      "Quantlab Financial",
-      3
-    ],
-    [
-      "PEAK6",
-      4
-    ],
-    [
-      "Verition Fund Management",
-      5
-    ],
-    [
-      "KKR",
-      6
-    ],
-    [
-      "Teradata",
-      7
-    ],
-    [
-      "Paycom",
-      8
-    ],
-    [
-      "Infor",
-      9
-    ],
-    [
-      "Paychex",
-      10
-    ],
-    [
-      "UKG",
-      11
-    ],
-    [
-      "Boomi",
-      12
-    ],
-    [
-      "NinjaOne",
-      13
-    ],
-    [
-      "Hexagon",
-      14
-    ],
-    [
-      "RealPage",
-      15
-    ],
-    [
-      "Groq",
-      16
-    ],
-    [
-      "Magic Leap",
-      17
-    ],
-    [
-      "Avnet",
-      18
-    ],
-    [
-      "NIO",
-      19
-    ],
-    [
-      "SRI International",
-      20
-    ],
-    [
-      "Honda",
-      21
-    ],
-    [
-      "QuantumScape",
-      22
-    ],
-    [
-      "Karman Space & Defense",
-      23
-    ],
-    [
-      "Wayfair",
-      24
-    ],
-    [
-      "Cond\u00e9 Nast",
-      25
-    ],
-    [
-      "Realtor.com (Move, Inc., News Corp)",
-      26
-    ],
-    [
-      "Williams-Sonoma, Inc.",
-      27
-    ],
-    [
-      "URBN (Urban Outfitters, Anthropologie, Free People)",
-      28
-    ],
-    [
-      "REI",
-      29
-    ],
-    [
-      "Warby Parker",
-      30
-    ],
-    [
-      "Quizlet",
-      31
-    ],
-    [
-      "ZeniMax Media / Bethesda (Microsoft)",
-      32
-    ],
-    [
-      "Vivid Seats",
-      33
-    ],
-    [
-      "News Corp",
-      34
-    ],
-    [
-      "The Washington Post",
-      35
-    ],
-    [
-      "Lime",
-      36
-    ],
-    [
-      "Lululemon",
-      37
-    ],
-    [
-      "Ulta Beauty",
-      38
-    ],
-    [
-      "ETS (Educational Testing Service)",
-      39
-    ],
-    [
-      "The Weather Company",
-      40
-    ],
-    [
-      "Newegg",
-      41
-    ],
-    [
-      "GameStop",
-      42
-    ],
-    [
-      "Edmunds",
-      43
-    ],
-    [
-      "L'Or\u00e9al USA",
-      44
-    ],
-    [
-      "Ralph Lauren",
-      45
-    ],
-    [
-      "Victoria's Secret & Co.",
-      46
-    ],
-    [
-      "PetSmart",
-      47
-    ],
-    [
-      "National Hockey League (NHL)",
-      48
-    ],
-    [
-      "PGA TOUR",
-      49
-    ],
-    [
-      "The Associated Press (AP)",
-      50
-    ],
-    [
-      "USA TODAY Co. (formerly Gannett)",
-      51
-    ],
-    [
-      "NPR",
-      52
-    ],
-    [
-      "DreamWorks Animation",
-      53
-    ],
-    [
-      "Magnite",
-      54
-    ],
-    [
-      "DoubleVerify",
-      55
-    ],
-    [
-      "Playtika",
-      56
-    ],
-    [
-      "Amadeus (US)",
-      57
-    ],
-    [
-      "EY",
-      58
-    ],
-    [
-      "McKinsey",
-      59
-    ],
-    [
-      "Bain",
-      60
-    ],
-    [
-      "Infosys",
-      61
-    ],
-    [
-      "Cognizant",
-      62
-    ],
-    [
-      "Publicis Groupe (incl. Publicis Sapient)",
-      63
-    ],
-    [
-      "Atos",
-      64
-    ],
-    [
-      "Jacobs Solutions",
-      65
-    ],
-    [
-      "Wipro",
-      66
-    ],
-    [
-      "ZS Associates",
-      67
-    ],
-    [
-      "West Monroe",
-      68
-    ],
-    [
-      "HCLTech",
-      69
-    ],
-    [
-      "Tech Mahindra",
-      70
-    ],
-    [
-      "Publicis Sapient",
-      71
-    ],
-    [
-      "CGI",
-      72
-    ],
-    [
-      "NTT DATA",
-      73
-    ],
-    [
-      "Tata Consultancy Services (TCS)",
-      74
-    ],
-    [
-      "Persistent Systems",
-      75
-    ],
-    [
-      "Globant",
-      76
-    ],
-    [
-      "World Wide Technology (WWT)",
-      77
-    ],
-    [
-      "Insight Enterprises",
-      78
-    ],
-    [
-      "Delta",
-      79
-    ],
-    [
-      "Liberty Mutual",
-      80
-    ],
-    [
-      "Siemens",
-      81
-    ],
-    [
-      "Eli Lilly and Company",
-      82
-    ],
-    [
-      "Optimum Communications (formerly Altice USA)",
-      83
-    ],
-    [
-      "MetLife",
-      84
-    ],
-    [
-      "New York Life Insurance Company",
-      85
-    ],
-    [
-      "NextEra Energy",
-      86
-    ],
-    [
-      "Ross Stores",
-      87
-    ],
-    [
-      "Takeda Pharmaceutical",
-      88
-    ],
-    [
-      "Zurich Insurance Group (Zurich North America)",
-      89
-    ],
-    [
-      "Koch Inc. (Koch Industries)",
-      90
-    ],
-    [
-      "Alaska Airlines (Alaska Air Group)",
-      91
-    ],
-    [
-      "CBRE Group",
-      92
-    ],
-    [
-      "IHG Hotels & Resorts",
-      93
-    ],
-    [
-      "Tractor Supply Company",
-      94
-    ],
-    [
-      "Boehringer Ingelheim",
-      95
-    ],
-    [
-      "Allianz (Allianz Life / Allianz Global Investors US)",
-      96
-    ],
-    [
-      "Ascension",
-      97
-    ],
-    [
-      "NYU Langone Health",
-      98
-    ],
-    [
-      "BASF",
-      99
-    ],
-    [
-      "Colgate-Palmolive",
-      100
-    ],
-    [
-      "Exelon",
-      101
-    ],
-    [
-      "Siemens Healthineers",
-      102
-    ],
-    [
-      "UPMC",
-      103
-    ],
-    [
-      "Guardant Health",
-      104
-    ]
+ "approval": "\"alright - do a full run\" (the full search on all companies, including looking for each posting's deadline)",
+ "worklist": "/Users/lordphone/Documents/jobbing/timeline/data/worklist.json",
+ "companies": [
+  [
+   "Google",
+   0
+  ],
+  [
+   "Meta",
+   1
+  ],
+  [
+   "Apple",
+   2
+  ],
+  [
+   "Amazon/AWS",
+   3
+  ],
+  [
+   "Netflix",
+   4
+  ],
+  [
+   "Microsoft",
+   5
+  ],
+  [
+   "LinkedIn",
+   6
+  ],
+  [
+   "Nvidia",
+   7
+  ],
+  [
+   "Tesla",
+   8
+  ],
+  [
+   "Oracle",
+   9
+  ],
+  [
+   "Salesforce",
+   10
+  ],
+  [
+   "Adobe",
+   11
+  ],
+  [
+   "IBM",
+   12
+  ],
+  [
+   "Uber",
+   13
+  ],
+  [
+   "Airbnb",
+   14
+  ],
+  [
+   "ByteDance / TikTok",
+   15
+  ],
+  [
+   "Snap",
+   16
+  ],
+  [
+   "Pinterest",
+   17
+  ],
+  [
+   "X",
+   18
+  ],
+  [
+   "GitHub",
+   19
+  ],
+  [
+   "Tencent",
+   20
+  ],
+  [
+   "Alibaba Group",
+   21
+  ],
+  [
+   "OpenAI",
+   22
+  ],
+  [
+   "Anthropic",
+   23
+  ],
+  [
+   "SpaceXAI (xAI)",
+   24
+  ],
+  [
+   "Scale AI",
+   25
+  ],
+  [
+   "Perplexity",
+   26
+  ],
+  [
+   "Cursor",
+   27
+  ],
+  [
+   "Cognition",
+   28
+  ],
+  [
+   "Harvey",
+   29
+  ],
+  [
+   "Glean",
+   30
+  ],
+  [
+   "ElevenLabs",
+   31
+  ],
+  [
+   "Sierra",
+   32
+  ],
+  [
+   "Replit",
+   33
+  ],
+  [
+   "Decagon",
+   34
+  ],
+  [
+   "Together AI",
+   35
+  ],
+  [
+   "Mercor",
+   36
+  ],
+  [
+   "C3.ai",
+   37
+  ],
+  [
+   "Hugging Face",
+   38
+  ],
+  [
+   "Figure",
+   39
+  ],
+  [
+   "Runway",
+   40
+  ],
+  [
+   "Character.AI",
+   41
+  ],
+  [
+   "Cohere",
+   42
+  ],
+  [
+   "Fireworks AI",
+   43
+  ],
+  [
+   "Safe Superintelligence (SSI)",
+   44
+  ],
+  [
+   "Thinking Machines Lab",
+   45
+  ],
+  [
+   "Mistral AI",
+   46
+  ],
+  [
+   "Physical Intelligence",
+   47
+  ],
+  [
+   "Reflection AI",
+   48
+  ],
+  [
+   "Baseten",
+   49
+  ],
+  [
+   "Modal",
+   50
+  ],
+  [
+   "fal",
+   51
+  ],
+  [
+   "Luma AI",
+   52
+  ],
+  [
+   "Poolside",
+   53
+  ],
+  [
+   "Inflection AI",
+   54
+  ],
+  [
+   "Snorkel AI",
+   55
+  ],
+  [
+   "Abridge",
+   56
+  ],
+  [
+   "OpenEvidence",
+   57
+  ],
+  [
+   "Hippocratic AI",
+   58
+  ],
+  [
+   "Lovable",
+   59
+  ],
+  [
+   "Gamma",
+   60
+  ],
+  [
+   "Clay",
+   61
+  ],
+  [
+   "Tempus AI",
+   62
+  ],
+  [
+   "SandboxAQ",
+   63
+  ],
+  [
+   "Midjourney",
+   64
+  ],
+  [
+   "Synthesia",
+   65
+  ],
+  [
+   "HeyGen",
+   66
+  ],
+  [
+   "Suno",
+   67
+  ],
+  [
+   "Black Forest Labs",
+   68
+  ],
+  [
+   "Skild AI",
+   69
+  ],
+  [
+   "World Labs",
+   70
+  ],
+  [
+   "Surge AI",
+   71
+  ],
+  [
+   "Writer",
+   72
+  ],
+  [
+   "LangChain",
+   73
+  ],
+  [
+   "Pinecone",
+   74
+  ],
+  [
+   "Anyscale",
+   75
+  ],
+  [
+   "AssemblyAI",
+   76
+  ],
+  [
+   "Pika",
+   77
+  ],
+  [
+   "StackBlitz (Bolt.new)",
+   78
+  ],
+  [
+   "DeepL",
+   79
+  ],
+  [
+   "Genspark",
+   80
+  ],
+  [
+   "Jasper",
+   81
+  ],
+  [
+   "Descript",
+   82
+  ],
+  [
+   "Deepgram",
+   83
+  ],
+  [
+   "1X Technologies",
+   84
+  ],
+  [
+   "Agility Robotics",
+   85
+  ],
+  [
+   "Ai2 (Allen Institute for AI)",
+   86
+  ],
+  [
+   "Otter.ai",
+   87
+  ],
+  [
+   "Speechify",
+   88
+  ],
+  [
+   "Warp",
+   89
+  ],
+  [
+   "Isomorphic Labs",
+   90
+  ],
+  [
+   "Stability AI",
+   91
+  ],
+  [
+   "Augment Code",
+   92
+  ],
+  [
+   "Lightning AI",
+   93
+  ],
+  [
+   "OpenRouter",
+   94
+  ],
+  [
+   "Turing",
+   95
+  ],
+  [
+   "Labelbox",
+   96
+  ],
+  [
+   "LlamaIndex",
+   97
+  ],
+  [
+   "You.com",
+   98
+  ],
+  [
+   "Fireflies.ai",
+   99
+  ],
+  [
+   "Chan Zuckerberg Initiative (CZI)",
+   100
+  ],
+  [
+   "Project Prometheus",
+   101
+  ],
+  [
+   "EvenUp",
+   102
+  ],
+  [
+   "EliseAI",
+   103
+  ],
+  [
+   "Exa",
+   104
+  ],
+  [
+   "Liquid AI",
+   105
+  ],
+  [
+   "Hebbia",
+   106
+  ],
+  [
+   "Weaviate",
+   107
+  ],
+  [
+   "Cresta",
+   108
+  ],
+  [
+   "Captions",
+   109
+  ],
+  [
+   "Speak",
+   110
+  ],
+  [
+   "Legora",
+   111
+  ],
+  [
+   "Eightfold AI",
+   112
+  ],
+  [
+   "PathAI",
+   113
+  ],
+  [
+   "Hume AI",
+   114
+  ],
+  [
+   "Invisible Technologies",
+   115
+  ],
+  [
+   "Arize AI",
+   116
+  ],
+  [
+   "Domino Data Lab",
+   117
+  ],
+  [
+   "PolyAI",
+   118
+  ],
+  [
+   "Distyl AI",
+   119
+  ],
+  [
+   "Insitro",
+   120
+  ],
+  [
+   "Xaira Therapeutics",
+   121
+  ],
+  [
+   "Generate Biomedicines",
+   122
+  ],
+  [
+   "Lila Sciences",
+   123
+  ],
+  [
+   "Runpod",
+   124
+  ],
+  [
+   "Ambience Healthcare",
+   125
+  ],
+  [
+   "Recursion Pharmaceuticals",
+   126
+  ],
+  [
+   "Magic (magic.dev)",
+   127
+  ],
+  [
+   "Imbue",
+   128
+  ],
+  [
+   "Factory AI",
+   129
+  ],
+  [
+   "Cartesia",
+   130
+  ],
+  [
+   "Sesame",
+   131
+  ],
+  [
+   "Ideogram",
+   132
+  ],
+  [
+   "Contextual AI",
+   133
+  ],
+  [
+   "Essential AI",
+   134
+  ],
+  [
+   "Periodic Labs",
+   135
+  ],
+  [
+   "AI21 Labs",
+   136
+  ],
+  [
+   "Uniphore",
+   137
+  ],
+  [
+   "Stripe",
+   138
+  ],
+  [
+   "Databricks",
+   139
+  ],
+  [
+   "Snowflake",
+   140
+  ],
+  [
+   "Ramp",
+   141
+  ],
+  [
+   "Plaid",
+   142
+  ],
+  [
+   "Chime",
+   143
+  ],
+  [
+   "Robinhood",
+   144
+  ],
+  [
+   "Coinbase",
+   145
+  ],
+  [
+   "Rippling",
+   146
+  ],
+  [
+   "Figma",
+   147
+  ],
+  [
+   "Notion",
+   148
+  ],
+  [
+   "Reddit",
+   149
+  ],
+  [
+   "DoorDash",
+   150
+  ],
+  [
+   "Instacart",
+   151
+  ],
+  [
+   "Lyft",
+   152
+  ],
+  [
+   "Roblox",
+   153
+  ],
+  [
+   "Duolingo",
+   154
+  ],
+  [
+   "Dropbox",
+   155
+  ],
+  [
+   "Box",
+   156
+  ],
+  [
+   "Asana",
+   157
+  ],
+  [
+   "Superhuman (Grammarly)",
+   158
+  ],
+  [
+   "Vercel",
+   159
+  ],
+  [
+   "Datadog",
+   160
+  ],
+  [
+   "Cloudflare",
+   161
+  ],
+  [
+   "MongoDB",
+   162
+  ],
+  [
+   "Atlassian",
+   163
+  ],
+  [
+   "Shopify",
+   164
+  ],
+  [
+   "Affirm",
+   165
+  ],
+  [
+   "SoFi",
+   166
+  ],
+  [
+   "Samsara",
+   167
+  ],
+  [
+   "Verkada",
+   168
+  ],
+  [
+   "Gusto",
+   169
+  ],
+  [
+   "Applied Intuition",
+   170
+  ],
+  [
+   "CoreWeave",
+   171
+  ],
+  [
+   "Toast",
+   172
+  ],
+  [
+   "Navan",
+   173
+  ],
+  [
+   "Whatnot",
+   174
+  ],
+  [
+   "Flexport",
+   175
+  ],
+  [
+   "Circle",
+   176
+  ],
+  [
+   "StubHub",
+   177
+  ],
+  [
+   "The Trade Desk",
+   178
+  ],
+  [
+   "Klaviyo",
+   179
+  ],
+  [
+   "Ripple",
+   180
+  ],
+  [
+   "Remitly",
+   181
+  ],
+  [
+   "AppLovin",
+   182
+  ],
+  [
+   "Confluent",
+   183
+  ],
+  [
+   "Brex",
+   184
+  ],
+  [
+   "Airtable",
+   185
+  ],
+  [
+   "Retool",
+   186
+  ],
+  [
+   "Discord",
+   187
+  ],
+  [
+   "Canva",
+   188
+  ],
+  [
+   "Block",
+   189
+  ],
+  [
+   "Squarespace",
+   190
+  ],
+  [
+   "GoDaddy",
+   191
+  ],
+  [
+   "Deel",
+   192
+  ],
+  [
+   "ClickHouse",
+   193
+  ],
+  [
+   "Faire",
+   194
+  ],
+  [
+   "Oura",
+   195
+  ],
+  [
+   "Supabase",
+   196
+  ],
+  [
+   "Neuralink",
+   197
+  ],
+  [
+   "Polymarket",
+   198
+  ],
+  [
+   "Kalshi",
+   199
+  ],
+  [
+   "Chainalysis",
+   200
+  ],
+  [
+   "Flock Safety",
+   201
+  ],
+  [
+   "Automattic",
+   202
+  ],
+  [
+   "Carta",
+   203
+  ],
+  [
+   "Ro",
+   204
+  ],
+  [
+   "Benchling",
+   205
+  ],
+  [
+   "Postman",
+   206
+  ],
+  [
+   "Fivetran",
+   207
+  ],
+  [
+   "Cockroach Labs",
+   208
+  ],
+  [
+   "Lyra Health",
+   209
+  ],
+  [
+   "Checkr",
+   210
+  ],
+  [
+   "Zapier",
+   211
+  ],
+  [
+   "ClickUp",
+   212
+  ],
+  [
+   "Webflow",
+   213
+  ],
+  [
+   "Handshake",
+   214
+  ],
+  [
+   "MoonPay",
+   215
+  ],
+  [
+   "Calendly",
+   216
+  ],
+  [
+   "Kraken (Payward)",
+   217
+  ],
+  [
+   "Motive (formerly KeepTruckin)",
+   218
+  ],
+  [
+   "Framer",
+   219
+  ],
+  [
+   "OpenSea",
+   220
+  ],
+  [
+   "Consensys",
+   221
+  ],
+  [
+   "Helion",
+   222
+  ],
+  [
+   "Hinge Health",
+   223
+  ],
+  [
+   "Miro",
+   224
+  ],
+  [
+   "Intercom",
+   225
+  ],
+  [
+   "n8n",
+   226
+  ],
+  [
+   "Patreon",
+   227
+  ],
+  [
+   "Compass",
+   228
+  ],
+  [
+   "ID.me",
+   229
+  ],
+  [
+   "CLEAR (Clear Secure)",
+   230
+  ],
+  [
+   "Chainlink Labs",
+   231
+  ],
+  [
+   "Uniswap Labs",
+   232
+  ],
+  [
+   "Acorns",
+   233
+  ],
+  [
+   "Strava",
+   234
+  ],
+  [
+   "Solana Labs",
+   235
+  ],
+  [
+   "Tools for Humanity (World)",
+   236
+  ],
+  [
+   "AngelList",
+   237
+  ],
+  [
+   "Opendoor",
+   238
+  ],
+  [
+   "Lemonade",
+   239
+  ],
+  [
+   "Flatiron Health",
+   240
+  ],
+  [
+   "Zocdoc",
+   241
+  ],
+  [
+   "Public.com",
+   242
+  ],
+  [
+   "Crypto.com",
+   243
+  ],
+  [
+   "BitGo",
+   244
+  ],
+  [
+   "Docker, Inc.",
+   245
+  ],
+  [
+   "Netlify",
+   246
+  ],
+  [
+   "Linear",
+   247
+  ],
+  [
+   "Tailscale",
+   248
+  ],
+  [
+   "Commonwealth Fusion Systems",
+   249
+  ],
+  [
+   "Verily",
+   250
+  ],
+  [
+   "Weights & Biases",
+   251
+  ],
+  [
+   "Tipalti",
+   252
+  ],
+  [
+   "Fireblocks",
+   253
+  ],
+  [
+   "FalconX",
+   254
+  ],
+  [
+   "Commure",
+   255
+  ],
+  [
+   "Metropolis",
+   256
+  ],
+  [
+   "Dataminr",
+   257
+  ],
+  [
+   "Tekion",
+   258
+  ],
+  [
+   "Innovaccer",
+   259
+  ],
+  [
+   "Airwallex",
+   260
+  ],
+  [
+   "Carbon Health",
+   261
+  ],
+  [
+   "Alchemy",
+   262
+  ],
+  [
+   "Omada Health",
+   263
+  ],
+  [
+   "Via Transportation",
+   264
+  ],
+  [
+   "Clio",
+   265
+  ],
+  [
+   "Apptronik",
+   266
+  ],
+  [
+   "Monzo",
+   267
+  ],
+  [
+   "Rokt",
+   268
+  ],
+  [
+   "Eight Sleep",
+   269
+  ],
+  [
+   "Maven Clinic",
+   270
+  ],
+  [
+   "Grow Therapy",
+   271
+  ],
+  [
+   "Garner Health",
+   272
+  ],
+  [
+   "Clipboard Health",
+   273
+  ],
+  [
+   "Traba",
+   274
+  ],
+  [
+   "DailyPay",
+   275
+  ],
+  [
+   "Persona",
+   276
+  ],
+  [
+   "Sardine",
+   277
+  ],
+  [
+   "SentiLink",
+   278
+  ],
+  [
+   "SingleStore",
+   279
+  ],
+  [
+   "Sigma Computing",
+   280
+  ],
+  [
+   "Olo",
+   281
+  ],
+  [
+   "Zip",
+   282
+  ],
+  [
+   "Hudl",
+   283
+  ],
+  [
+   "Base Power",
+   284
+  ],
+  [
+   "Fervo Energy",
+   285
+  ],
+  [
+   "EquipmentShare",
+   286
+  ],
+  [
+   "Gecko Robotics",
+   287
+  ],
+  [
+   "LayerZero Labs",
+   288
+  ],
+  [
+   "TRM Labs",
+   289
+  ],
+  [
+   "Valon",
+   290
+  ],
+  [
+   "Alpaca",
+   291
+  ],
+  [
+   "Imprint",
+   292
+  ],
+  [
+   "Illumio",
+   293
+  ],
+  [
+   "Coalition",
+   294
+  ],
+  [
+   "Clear Street",
+   295
+  ],
+  [
+   "Spring Health",
+   296
+  ],
+  [
+   "Included Health",
+   297
+  ],
+  [
+   "Root Insurance",
+   298
+  ],
+  [
+   "Hippo",
+   299
+  ],
+  [
+   "Next Insurance",
+   300
+  ],
+  [
+   "Ethos",
+   301
+  ],
+  [
+   "Clover Health",
+   302
+  ],
+  [
+   "Doximity",
+   303
+  ],
+  [
+   "Headway",
+   304
+  ],
+  [
+   "Color Health",
+   305
+  ],
+  [
+   "Better (Better.com)",
+   306
+  ],
+  [
+   "Yugabyte",
+   307
+  ],
+  [
+   "Airbyte",
+   308
+  ],
+  [
+   "Hex",
+   309
+  ],
+  [
+   "Egnyte",
+   310
+  ],
+  [
+   "project44",
+   311
+  ],
+  [
+   "Jerry",
+   312
+  ],
+  [
+   "Truveta",
+   313
+  ],
+  [
+   "Citizen Health",
+   314
+  ],
+  [
+   "Jane Street",
+   315
+  ],
+  [
+   "Citadel",
+   316
+  ],
+  [
+   "Citadel Securities",
+   317
+  ],
+  [
+   "Two Sigma",
+   318
+  ],
+  [
+   "Hudson River Trading",
+   319
+  ],
+  [
+   "Jump Trading",
+   320
+  ],
+  [
+   "D.E. Shaw",
+   321
+  ],
+  [
+   "Optiver",
+   322
+  ],
+  [
+   "IMC Trading",
+   323
+  ],
+  [
+   "Susquehanna International Group (SIG)",
+   324
+  ],
+  [
+   "Five Rings",
+   325
+  ],
+  [
+   "Tower Research Capital",
+   326
+  ],
+  [
+   "Akuna Capital",
+   327
+  ],
+  [
+   "DRW",
+   328
+  ],
+  [
+   "Virtu Financial",
+   329
+  ],
+  [
+   "Point72",
+   330
+  ],
+  [
+   "Millennium",
+   331
+  ],
+  [
+   "Bridgewater",
+   332
+  ],
+  [
+   "AQR",
+   333
+  ],
+  [
+   "Chicago Trading Company (CTC)",
+   334
+  ],
+  [
+   "Balyasny Asset Management",
+   335
+  ],
+  [
+   "Old Mission Capital",
+   336
+  ],
+  [
+   "Renaissance Technologies",
+   337
+  ],
+  [
+   "WorldQuant",
+   338
+  ],
+  [
+   "Squarepoint Capital",
+   339
+  ],
+  [
+   "Schonfeld Strategic Advisors",
+   340
+  ],
+  [
+   "XTX Markets",
+   341
+  ],
+  [
+   "Flow Traders",
+   342
+  ],
+  [
+   "Man Group",
+   343
+  ],
+  [
+   "Marshall Wace",
+   344
+  ],
+  [
+   "Qube Research & Technologies (QRT)",
+   345
+  ],
+  [
+   "Brevan Howard",
+   346
+  ],
+  [
+   "Elliott Investment Management",
+   347
+  ],
+  [
+   "Tudor Investment Corporation",
+   348
+  ],
+  [
+   "Quantlab Financial",
+   349
+  ],
+  [
+   "The Voleon Group",
+   350
+  ],
+  [
+   "PEAK6",
+   351
+  ],
+  [
+   "G-Research",
+   352
+  ],
+  [
+   "Radix Trading",
+   353
+  ],
+  [
+   "PDT Partners",
+   354
+  ],
+  [
+   "Headlands Technologies",
+   355
+  ],
+  [
+   "Hyannis Port Research (HPR)",
+   356
+  ],
+  [
+   "Belvedere Trading",
+   357
+  ],
+  [
+   "Wolverine Trading",
+   358
+  ],
+  [
+   "Geneva Trading",
+   359
+  ],
+  [
+   "Engineers Gate",
+   360
+  ],
+  [
+   "Walleye Capital",
+   361
+  ],
+  [
+   "Verition Fund Management",
+   362
+  ],
+  [
+   "Jain Global",
+   363
+  ],
+  [
+   "Trexquant",
+   364
+  ],
+  [
+   "Voloridge",
+   365
+  ],
+  [
+   "Teza Technologies",
+   366
+  ],
+  [
+   "DV Trading",
+   367
+  ],
+  [
+   "Maven Securities",
+   368
+  ],
+  [
+   "Aquatic Capital Management",
+   369
+  ],
+  [
+   "StoneX Group",
+   370
+  ],
+  [
+   "Wintermute",
+   371
+  ],
+  [
+   "GTS",
+   372
+  ],
+  [
+   "TGS Management",
+   373
+  ],
+  [
+   "Vatic Labs",
+   374
+  ],
+  [
+   "Arrowstreet Capital",
+   375
+  ],
+  [
+   "ExodusPoint",
+   376
+  ],
+  [
+   "Graham Capital Management",
+   377
+  ],
+  [
+   "Group One Trading",
+   378
+  ],
+  [
+   "Simplex Trading",
+   379
+  ],
+  [
+   "XR Trading",
+   380
+  ],
+  [
+   "Magnetar Capital",
+   381
+  ],
+  [
+   "TransMarket Group",
+   382
+  ],
+  [
+   "JPMorgan Chase",
+   383
+  ],
+  [
+   "Goldman Sachs",
+   384
+  ],
+  [
+   "Morgan Stanley",
+   385
+  ],
+  [
+   "Bank of America",
+   386
+  ],
+  [
+   "Citi",
+   387
+  ],
+  [
+   "Wells Fargo",
+   388
+  ],
+  [
+   "Capital One",
+   389
+  ],
+  [
+   "American Express",
+   390
+  ],
+  [
+   "BlackRock",
+   391
+  ],
+  [
+   "Fidelity Investments",
+   392
+  ],
+  [
+   "Charles Schwab",
+   393
+  ],
+  [
+   "Vanguard",
+   394
+  ],
+  [
+   "Visa",
+   395
+  ],
+  [
+   "Mastercard",
+   396
+  ],
+  [
+   "PayPal",
+   397
+  ],
+  [
+   "Intuit",
+   398
+  ],
+  [
+   "Bloomberg",
+   399
+  ],
+  [
+   "Nasdaq",
+   400
+  ],
+  [
+   "Intercontinental Exchange (ICE)",
+   401
+  ],
+  [
+   "S&P Global",
+   402
+  ],
+  [
+   "Moody's",
+   403
+  ],
+  [
+   "State Street",
+   404
+  ],
+  [
+   "BNY",
+   405
+  ],
+  [
+   "Barclays",
+   406
+  ],
+  [
+   "Deutsche Bank",
+   407
+  ],
+  [
+   "UBS",
+   408
+  ],
+  [
+   "Fiserv",
+   409
+  ],
+  [
+   "FIS",
+   410
+  ],
+  [
+   "Global Payments / Worldpay",
+   411
+  ],
+  [
+   "Truist",
+   412
+  ],
+  [
+   "U.S. Bank",
+   413
+  ],
+  [
+   "FactSet",
+   414
+  ],
+  [
+   "CME Group",
+   415
+  ],
+  [
+   "HSBC",
+   416
+  ],
+  [
+   "Fannie Mae",
+   417
+  ],
+  [
+   "Freddie Mac",
+   418
+  ],
+  [
+   "TIAA",
+   419
+  ],
+  [
+   "PNC Financial Services",
+   420
+  ],
+  [
+   "Principal Financial Group",
+   421
+  ],
+  [
+   "Synchrony Financial",
+   422
+  ],
+  [
+   "Ally Financial",
+   423
+  ],
+  [
+   "Fifth Third Bank",
+   424
+  ],
+  [
+   "Edward Jones",
+   425
+  ],
+  [
+   "Raymond James Financial",
+   426
+  ],
+  [
+   "LPL Financial",
+   427
+  ],
+  [
+   "Bilt",
+   428
+  ],
+  [
+   "AlphaSense",
+   429
+  ],
+  [
+   "iCapital",
+   430
+  ],
+  [
+   "Addepar",
+   431
+  ],
+  [
+   "Checkout.com",
+   432
+  ],
+  [
+   "Revolut",
+   433
+  ],
+  [
+   "Mercury",
+   434
+  ],
+  [
+   "Greenlight Financial Technology",
+   435
+  ],
+  [
+   "Klarna",
+   436
+  ],
+  [
+   "eToro",
+   437
+  ],
+  [
+   "Wealthfront",
+   438
+  ],
+  [
+   "Gemini (Gemini Space Station, Inc.)",
+   439
+  ],
+  [
+   "Galaxy Digital",
+   440
+  ],
+  [
+   "Wise",
+   441
+  ],
+  [
+   "Upstart",
+   442
+  ],
+  [
+   "Citizens (Citizens Financial Group)",
+   443
+  ],
+  [
+   "KeyBank (KeyCorp)",
+   444
+  ],
+  [
+   "M&T Bank",
+   445
+  ],
+  [
+   "Huntington Bank (Huntington Bancshares)",
+   446
+  ],
+  [
+   "Regions Financial (Regions Bank)",
+   447
+  ],
+  [
+   "Northern Trust",
+   448
+  ],
+  [
+   "TD Bank (TD Bank Group)",
+   449
+  ],
+  [
+   "RBC (Royal Bank of Canada)",
+   450
+  ],
+  [
+   "BMO (Bank of Montreal)",
+   451
+  ],
+  [
+   "CIBC",
+   452
+  ],
+  [
+   "MUFG",
+   453
+  ],
+  [
+   "Mizuho Financial Group",
+   454
+  ],
+  [
+   "Santander (Santander US)",
+   455
+  ],
+  [
+   "BBVA",
+   456
+  ],
+  [
+   "ING",
+   457
+  ],
+  [
+   "Jefferies",
+   458
+  ],
+  [
+   "Stifel Financial",
+   459
+  ],
+  [
+   "Houlihan Lokey",
+   460
+  ],
+  [
+   "Ameriprise Financial",
+   461
+  ],
+  [
+   "T. Rowe Price",
+   462
+  ],
+  [
+   "Franklin Templeton",
+   463
+  ],
+  [
+   "Invesco",
+   464
+  ],
+  [
+   "PIMCO",
+   465
+  ],
+  [
+   "Wellington Management",
+   466
+  ],
+  [
+   "Dimensional Fund Advisors",
+   467
+  ],
+  [
+   "Neuberger Berman",
+   468
+  ],
+  [
+   "AllianceBernstein",
+   469
+  ],
+  [
+   "Blackstone",
+   470
+  ],
+  [
+   "Apollo Global Management",
+   471
+  ],
+  [
+   "Ares Management",
+   472
+  ],
+  [
+   "Brookfield Corporation / Brookfield Asset Management",
+   473
+  ],
+  [
+   "Bain Capital",
+   474
+  ],
+  [
+   "General Atlantic",
+   475
+  ],
+  [
+   "Vista Equity Partners",
+   476
+  ],
+  [
+   "Equifax",
+   477
+  ],
+  [
+   "Experian",
+   478
+  ],
+  [
+   "TransUnion",
+   479
+  ],
+  [
+   "Morningstar",
+   480
+  ],
+  [
+   "Dun & Bradstreet",
+   481
+  ],
+  [
+   "Verisk",
+   482
+  ],
+  [
+   "LSEG (London Stock Exchange Group)",
+   483
+  ],
+  [
+   "Tradeweb Markets",
+   484
+  ],
+  [
+   "Cboe Global Markets",
+   485
+  ],
+  [
+   "Depository Trust & Clearing Corporation (DTCC)",
+   486
+  ],
+  [
+   "FINRA",
+   487
+  ],
+  [
+   "Federal Reserve System",
+   488
+  ],
+  [
+   "Interactive Brokers",
+   489
+  ],
+  [
+   "Broadridge Financial Solutions",
+   490
+  ],
+  [
+   "Western Union",
+   491
+  ],
+  [
+   "Early Warning Services (Zelle)",
+   492
+  ],
+  [
+   "LendingClub",
+   493
+  ],
+  [
+   "OneMain Financial",
+   494
+  ],
+  [
+   "Rocket Companies",
+   495
+  ],
+  [
+   "Sallie Mae (SLM Corporation)",
+   496
+  ],
+  [
+   "Navy Federal Credit Union",
+   497
+  ],
+  [
+   "NCR Voyix",
+   498
+  ],
+  [
+   "OKX",
+   499
+  ],
+  [
+   "Credit Karma",
+   500
+  ],
+  [
+   "Marqeta",
+   501
+  ],
+  [
+   "Adyen",
+   502
+  ],
+  [
+   "Betterment",
+   503
+  ],
+  [
+   "NerdWallet",
+   504
+  ],
+  [
+   "MSCI",
+   505
+  ],
+  [
+   "PitchBook (Morningstar)",
+   506
+  ],
+  [
+   "FICO",
+   507
+  ],
+  [
+   "Macquarie Group",
+   508
+  ],
+  [
+   "Nomura",
+   509
+  ],
+  [
+   "BNP Paribas",
+   510
+  ],
+  [
+   "Capital Group",
+   511
+  ],
+  [
+   "Nu Holdings (Nubank)",
+   512
+  ],
+  [
+   "Payoneer",
+   513
+  ],
+  [
+   "Webull",
+   514
+  ],
+  [
+   "Jack Henry & Associates",
+   515
+  ],
+  [
+   "KKR",
+   516
+  ],
+  [
+   "IEX Group",
+   517
+  ],
+  [
+   "Lazard",
+   518
+  ],
+  [
+   "Evercore",
+   519
+  ],
+  [
+   "Empower",
+   520
+  ],
+  [
+   "Shift4",
+   521
+  ],
+  [
+   "MoneyGram",
+   522
+  ],
+  [
+   "LendingTree",
+   523
+  ],
+  [
+   "Prosper Marketplace",
+   524
+  ],
+  [
+   "MoneyLion (Gen Digital)",
+   525
+  ],
+  [
+   "The Carlyle Group",
+   526
+  ],
+  [
+   "TPG Inc.",
+   527
+  ],
+  [
+   "First Citizens BancShares (Silicon Valley Bank, a division of First Citizens Bank)",
+   528
+  ],
+  [
+   "Scotiabank (Bank of Nova Scotia)",
+   529
+  ],
+  [
+   "Cantor Fitzgerald",
+   530
+  ],
+  [
+   "Anchorage Digital",
+   531
+  ],
+  [
+   "Paxos",
+   532
+  ],
+  [
+   "Upgrade",
+   533
+  ],
+  [
+   "Bullish",
+   534
+  ],
+  [
+   "Figure Technology Solutions",
+   535
+  ],
+  [
+   "Miami International Holdings (MIAX)",
+   536
+  ],
+  [
+   "MarketAxess",
+   537
+  ],
+  [
+   "Options Clearing Corporation (OCC)",
+   538
+  ],
+  [
+   "Apex Fintech Solutions",
+   539
+  ],
+  [
+   "SS&C Technologies",
+   540
+  ],
+  [
+   "Clearwater Analytics",
+   541
+  ],
+  [
+   "Q2",
+   542
+  ],
+  [
+   "nCino",
+   543
+  ],
+  [
+   "Corpay",
+   544
+  ],
+  [
+   "WEX",
+   545
+  ],
+  [
+   "Pennymac",
+   546
+  ],
+  [
+   "United Wholesale Mortgage",
+   547
+  ],
+  [
+   "Bread Financial",
+   548
+  ],
+  [
+   "Envestnet",
+   549
+  ],
+  [
+   "SEI Investments",
+   550
+  ],
+  [
+   "ACI Worldwide",
+   551
+  ],
+  [
+   "Finastra",
+   552
+  ],
+  [
+   "Flywire",
+   553
+  ],
+  [
+   "Blend",
+   554
+  ],
+  [
+   "Dave",
+   555
+  ],
+  [
+   "Varo Bank",
+   556
+  ],
+  [
+   "EarnIn",
+   557
+  ],
+  [
+   "Western Alliance",
+   558
+  ],
+  [
+   "Prelim",
+   559
+  ],
+  [
+   "Global Lending Services",
+   560
+  ],
+  [
+   "Axos Bank",
+   561
+  ],
+  [
+   "SAP",
+   562
+  ],
+  [
+   "ServiceNow",
+   563
+  ],
+  [
+   "Workday",
+   564
+  ],
+  [
+   "Autodesk",
+   565
+  ],
+  [
+   "Docusign",
+   566
+  ],
+  [
+   "Palo Alto Networks",
+   567
+  ],
+  [
+   "CrowdStrike",
+   568
+  ],
+  [
+   "Zscaler",
+   569
+  ],
+  [
+   "Okta",
+   570
+  ],
+  [
+   "Twilio",
+   571
+  ],
+  [
+   "Zoom Communications",
+   572
+  ],
+  [
+   "HubSpot",
+   573
+  ],
+  [
+   "Epic Systems",
+   574
+  ],
+  [
+   "Veeva",
+   575
+  ],
+  [
+   "Qualtrics",
+   576
+  ],
+  [
+   "Fortinet",
+   577
+  ],
+  [
+   "Rubrik",
+   578
+  ],
+  [
+   "Palantir",
+   579
+  ],
+  [
+   "ADP",
+   580
+  ],
+  [
+   "DataRobot",
+   581
+  ],
+  [
+   "Netskope",
+   582
+  ],
+  [
+   "Snyk",
+   583
+  ],
+  [
+   "Gong",
+   584
+  ],
+  [
+   "1Password",
+   585
+  ],
+  [
+   "Grafana Labs",
+   586
+  ],
+  [
+   "Workato",
+   587
+  ],
+  [
+   "OneTrust",
+   588
+  ],
+  [
+   "Abnormal AI",
+   589
+  ],
+  [
+   "Arctic Wolf",
+   590
+  ],
+  [
+   "ThoughtSpot",
+   591
+  ],
+  [
+   "Vanta",
+   592
+  ],
+  [
+   "Cohesity",
+   593
+  ],
+  [
+   "Harness",
+   594
+  ],
+  [
+   "LaunchDarkly",
+   595
+  ],
+  [
+   "Lattice",
+   596
+  ],
+  [
+   "Sentry",
+   597
+  ],
+  [
+   "Sourcegraph",
+   598
+  ],
+  [
+   "Temporal Technologies",
+   599
+  ],
+  [
+   "Algolia",
+   600
+  ],
+  [
+   "Dialpad",
+   601
+  ],
+  [
+   "Neo4j",
+   602
+  ],
+  [
+   "Redis",
+   603
+  ],
+  [
+   "Celonis",
+   604
+  ],
+  [
+   "SailPoint",
+   605
+  ],
+  [
+   "ServiceTitan",
+   606
+  ],
+  [
+   "dbt Labs",
+   607
+  ],
+  [
+   "Kong",
+   608
+  ],
+  [
+   "Cloudinary",
+   609
+  ],
+  [
+   "BrowserStack",
+   610
+  ],
+  [
+   "Automation Anywhere",
+   611
+  ],
+  [
+   "Zoho",
+   612
+  ],
+  [
+   "PlanetScale",
+   613
+  ],
+  [
+   "Amplitude",
+   614
+  ],
+  [
+   "Mixpanel",
+   615
+  ],
+  [
+   "CircleCI",
+   616
+  ],
+  [
+   "ngrok",
+   617
+  ],
+  [
+   "Greenhouse",
+   618
+  ],
+  [
+   "BILL Holdings (Bill.com)",
+   619
+  ],
+  [
+   "Proofpoint",
+   620
+  ],
+  [
+   "Gen Digital",
+   621
+  ],
+  [
+   "McAfee",
+   622
+  ],
+  [
+   "Trend Micro",
+   623
+  ],
+  [
+   "Sophos",
+   624
+  ],
+  [
+   "Veeam Software",
+   625
+  ],
+  [
+   "Commvault",
+   626
+  ],
+  [
+   "Appian",
+   627
+  ],
+  [
+   "Pegasystems",
+   628
+  ],
+  [
+   "PTC",
+   629
+  ],
+  [
+   "Anaplan",
+   630
+  ],
+  [
+   "UiPath",
+   631
+  ],
+  [
+   "Tyler Technologies",
+   632
+  ],
+  [
+   "Manhattan Associates",
+   633
+  ],
+  [
+   "Blue Yonder (Panasonic subsidiary)",
+   634
+  ],
+  [
+   "Epicor",
+   635
+  ],
+  [
+   "SAS Institute",
+   636
+  ],
+  [
+   "Esri",
+   637
+  ],
+  [
+   "Jamf",
+   638
+  ],
+  [
+   "Ivanti",
+   639
+  ],
+  [
+   "Workiva",
+   640
+  ],
+  [
+   "Guidewire Software",
+   641
+  ],
+  [
+   "Procore Technologies",
+   642
+  ],
+  [
+   "Smartsheet",
+   643
+  ],
+  [
+   "PagerDuty",
+   644
+  ],
+  [
+   "RingCentral",
+   645
+  ],
+  [
+   "Progress Software",
+   646
+  ],
+  [
+   "Alteryx",
+   647
+  ],
+  [
+   "Cloudera",
+   648
+  ],
+  [
+   "Red Hat",
+   649
+  ],
+  [
+   "Canonical",
+   650
+  ],
+  [
+   "GitLab",
+   651
+  ],
+  [
+   "athenahealth",
+   652
+  ],
+  [
+   "Thomson Reuters",
+   653
+  ],
+  [
+   "RELX (LexisNexis, Elsevier)",
+   654
+  ],
+  [
+   "Wolters Kluwer",
+   655
+  ],
+  [
+   "PowerSchool",
+   656
+  ],
+  [
+   "Elastic",
+   657
+  ],
+  [
+   "New Relic",
+   658
+  ],
+  [
+   "Strategy (formerly MicroStrategy)",
+   659
+  ],
+  [
+   "Zendesk",
+   660
+  ],
+  [
+   "Freshworks",
+   661
+  ],
+  [
+   "ZoomInfo",
+   662
+  ],
+  [
+   "monday.com",
+   663
+  ],
+  [
+   "Braze",
+   664
+  ],
+  [
+   "Sprout Social",
+   665
+  ],
+  [
+   "Avalara",
+   666
+  ],
+  [
+   "SentinelOne",
+   667
+  ],
+  [
+   "Check Point Software Technologies",
+   668
+  ],
+  [
+   "Expensify",
+   669
+  ],
+  [
+   "Instructure (Canvas)",
+   670
+  ],
+  [
+   "Wix.com",
+   671
+  ],
+  [
+   "JetBrains",
+   672
+  ],
+  [
+   "Dynatrace",
+   673
+  ],
+  [
+   "Couchbase",
+   674
+  ],
+  [
+   "Teradata",
+   675
+  ],
+  [
+   "Qlik",
+   676
+  ],
+  [
+   "Tenable",
+   677
+  ],
+  [
+   "Rapid7",
+   678
+  ],
+  [
+   "Qualys",
+   679
+  ],
+  [
+   "Varonis",
+   680
+  ],
+  [
+   "Citrix (Cloud Software Group)",
+   681
+  ],
+  [
+   "SolarWinds",
+   682
+  ],
+  [
+   "OpenText",
+   683
+  ],
+  [
+   "Medallia",
+   684
+  ],
+  [
+   "Genesys",
+   685
+  ],
+  [
+   "Coupa Software",
+   686
+  ],
+  [
+   "Dayforce",
+   687
+  ],
+  [
+   "Paycom",
+   688
+  ],
+  [
+   "Paylocity",
+   689
+  ],
+  [
+   "Infor",
+   690
+  ],
+  [
+   "Dassault Syst\u00e8mes",
+   691
+  ],
+  [
+   "Paychex",
+   692
+  ],
+  [
+   "UKG",
+   693
+  ],
+  [
+   "TriNet",
+   694
+  ],
+  [
+   "SurveyMonkey",
+   695
+  ],
+  [
+   "Commerce.com (formerly BigCommerce)",
+   696
+  ],
+  [
+   "Optimizely",
+   697
+  ],
+  [
+   "Boomi",
+   698
+  ],
+  [
+   "SUSE",
+   699
+  ],
+  [
+   "Apollo.io",
+   700
+  ],
+  [
+   "MathWorks",
+   701
+  ],
+  [
+   "Wolfram Research",
+   702
+  ],
+  [
+   "Stack Overflow",
+   703
+  ],
+  [
+   "HackerRank",
+   704
+  ],
+  [
+   "CodeSignal",
+   705
+  ],
+  [
+   "Render",
+   706
+  ],
+  [
+   "LastPass",
+   707
+  ],
+  [
+   "Bitwarden",
+   708
+  ],
+  [
+   "Barracuda Networks",
+   709
+  ],
+  [
+   "Slack",
+   710
+  ],
+  [
+   "Splunk",
+   711
+  ],
+  [
+   "VMware",
+   712
+  ],
+  [
+   "Informatica",
+   713
+  ],
+  [
+   "Tableau",
+   714
+  ],
+  [
+   "Wiz",
+   715
+  ],
+  [
+   "CyberArk",
+   716
+  ],
+  [
+   "Armis",
+   717
+  ],
+  [
+   "Twilio Segment",
+   718
+  ],
+  [
+   "Chronosphere",
+   719
+  ],
+  [
+   "Mailchimp",
+   720
+  ],
+  [
+   "MuleSoft",
+   721
+  ],
+  [
+   "Semrush",
+   722
+  ],
+  [
+   "Cyera",
+   723
+  ],
+  [
+   "Tanium",
+   724
+  ],
+  [
+   "Attentive",
+   725
+  ],
+  [
+   "Island",
+   726
+  ],
+  [
+   "Dataiku",
+   727
+  ],
+  [
+   "Chainguard",
+   728
+  ],
+  [
+   "Cribl",
+   729
+  ],
+  [
+   "Starburst",
+   730
+  ],
+  [
+   "Ironclad",
+   731
+  ],
+  [
+   "Contentful",
+   732
+  ],
+  [
+   "WorkOS",
+   733
+  ],
+  [
+   "Drata",
+   734
+  ],
+  [
+   "Druva",
+   735
+  ],
+  [
+   "Kaseya",
+   736
+  ],
+  [
+   "NinjaOne",
+   737
+  ],
+  [
+   "Talkdesk",
+   738
+  ],
+  [
+   "OneStream",
+   739
+  ],
+  [
+   "Waystar",
+   740
+  ],
+  [
+   "Cato Networks",
+   741
+  ],
+  [
+   "Axonius",
+   742
+  ],
+  [
+   "Collibra",
+   743
+  ],
+  [
+   "Pendo",
+   744
+  ],
+  [
+   "AppsFlyer",
+   745
+  ],
+  [
+   "Outreach",
+   746
+  ],
+  [
+   "Salesloft (formerly Clari)",
+   747
+  ],
+  [
+   "Komodo Health",
+   748
+  ],
+  [
+   "Darktrace",
+   749
+  ],
+  [
+   "Ping Identity",
+   750
+  ],
+  [
+   "KnowBe4",
+   751
+  ],
+  [
+   "Mimecast",
+   752
+  ],
+  [
+   "DigiCert",
+   753
+  ],
+  [
+   "Entrust",
+   754
+  ],
+  [
+   "ReliaQuest",
+   755
+  ],
+  [
+   "InterSystems",
+   756
+  ],
+  [
+   "Bandwidth",
+   757
+  ],
+  [
+   "Bentley Systems",
+   758
+  ],
+  [
+   "Hexagon",
+   759
+  ],
+  [
+   "AVEVA",
+   760
+  ],
+  [
+   "AspenTech",
+   761
+  ],
+  [
+   "PointClickCare",
+   762
+  ],
+  [
+   "Clarivate",
+   763
+  ],
+  [
+   "Everlaw",
+   764
+  ],
+  [
+   "Diligent",
+   765
+  ],
+  [
+   "OpenGov",
+   766
+  ],
+  [
+   "Perforce",
+   767
+  ],
+  [
+   "Yext",
+   768
+  ],
+  [
+   "BlackLine",
+   769
+  ],
+  [
+   "AppFolio",
+   770
+  ],
+  [
+   "Yardi",
+   771
+  ],
+  [
+   "RealPage",
+   772
+  ],
+  [
+   "JFrog",
+   773
+  ],
+  [
+   "Sumo Logic",
+   774
+  ],
+  [
+   "Sprinklr",
+   775
+  ],
+  [
+   "Five9",
+   776
+  ],
+  [
+   "NICE",
+   777
+  ],
+  [
+   "Zuora",
+   778
+  ],
+  [
+   "Justworks",
+   779
+  ],
+  [
+   "Icertis",
+   780
+  ],
+  [
+   "Seismic",
+   781
+  ],
+  [
+   "Gainsight",
+   782
+  ],
+  [
+   "Agora",
+   783
+  ],
+  [
+   "Keeper Security",
+   784
+  ],
+  [
+   "Huntress",
+   785
+  ],
+  [
+   "Orca Security",
+   786
+  ],
+  [
+   "Sysdig",
+   787
+  ],
+  [
+   "Veracode",
+   788
+  ],
+  [
+   "Checkmarx",
+   789
+  ],
+  [
+   "BeyondTrust",
+   790
+  ],
+  [
+   "Socure",
+   791
+  ],
+  [
+   "Sift",
+   792
+  ],
+  [
+   "Forter",
+   793
+  ],
+  [
+   "Quantcast",
+   794
+  ],
+  [
+   "minware",
+   795
+  ],
+  [
+   "DAT Freight & Analytics",
+   796
+  ],
+  [
+   "Cotiviti",
+   797
+  ],
+  [
+   "WellSky",
+   798
+  ],
+  [
+   "Netsmart",
+   799
+  ],
+  [
+   "Harris Computer",
+   800
+  ],
+  [
+   "Intel",
+   801
+  ],
+  [
+   "AMD",
+   802
+  ],
+  [
+   "Qualcomm",
+   803
+  ],
+  [
+   "Broadcom",
+   804
+  ],
+  [
+   "Texas Instruments",
+   805
+  ],
+  [
+   "Micron",
+   806
+  ],
+  [
+   "Applied Materials",
+   807
+  ],
+  [
+   "Lam Research",
+   808
+  ],
+  [
+   "KLA",
+   809
+  ],
+  [
+   "Arm",
+   810
+  ],
+  [
+   "Marvell",
+   811
+  ],
+  [
+   "Synopsys",
+   812
+  ],
+  [
+   "Cadence",
+   813
+  ],
+  [
+   "Cisco",
+   814
+  ],
+  [
+   "Arista",
+   815
+  ],
+  [
+   "HP",
+   816
+  ],
+  [
+   "HPE",
+   817
+  ],
+  [
+   "Dell",
+   818
+  ],
+  [
+   "NetApp",
+   819
+  ],
+  [
+   "Pure Storage",
+   820
+  ],
+  [
+   "Nutanix",
+   821
+  ],
+  [
+   "Samsung Semiconductor",
+   822
+  ],
+  [
+   "Western Digital",
+   823
+  ],
+  [
+   "Sandisk",
+   824
+  ],
+  [
+   "Seagate",
+   825
+  ],
+  [
+   "Cerebras",
+   826
+  ],
+  [
+   "Supermicro",
+   827
+  ],
+  [
+   "Analog Devices",
+   828
+  ],
+  [
+   "Keysight",
+   829
+  ],
+  [
+   "Akamai",
+   830
+  ],
+  [
+   "Equinix",
+   831
+  ],
+  [
+   "Garmin",
+   832
+  ],
+  [
+   "Samsung Research America",
+   833
+  ],
+  [
+   "Lenovo",
+   834
+  ],
+  [
+   "Motorola Solutions",
+   835
+  ],
+  [
+   "Corning",
+   836
+  ],
+  [
+   "SambaNova Systems",
+   837
+  ],
+  [
+   "Lambda",
+   838
+  ],
+  [
+   "Crusoe",
+   839
+  ],
+  [
+   "PsiQuantum",
+   840
+  ],
+  [
+   "Lightmatter",
+   841
+  ],
+  [
+   "Vultr",
+   842
+  ],
+  [
+   "Tenstorrent",
+   843
+  ],
+  [
+   "SiFive",
+   844
+  ],
+  [
+   "Formlabs",
+   845
+  ],
+  [
+   "Astera Labs",
+   846
+  ],
+  [
+   "SK hynix",
+   847
+  ],
+  [
+   "Quantinuum",
+   848
+  ],
+  [
+   "Altera",
+   849
+  ],
+  [
+   "ASML",
+   850
+  ],
+  [
+   "Ciena",
+   851
+  ],
+  [
+   "F5",
+   852
+  ],
+  [
+   "Fastly",
+   853
+  ],
+  [
+   "GlobalFoundries",
+   854
+  ],
+  [
+   "IonQ",
+   855
+  ],
+  [
+   "D-Wave Quantum",
+   856
+  ],
+  [
+   "Lumentum",
+   857
+  ],
+  [
+   "Etched",
+   858
+  ],
+  [
+   "Nebius Group",
+   859
+  ],
+  [
+   "DigitalOcean",
+   860
+  ],
+  [
+   "Microchip Technology",
+   861
+  ],
+  [
+   "NXP Semiconductors",
+   862
+  ],
+  [
+   "onsemi",
+   863
+  ],
+  [
+   "Renesas Electronics",
+   864
+  ],
+  [
+   "Tokyo Electron",
+   865
+  ],
+  [
+   "Zebra Technologies",
+   866
+  ],
+  [
+   "Nokia",
+   867
+  ],
+  [
+   "LG Electronics",
+   868
+  ],
+  [
+   "Canon (Canon U.S.A.)",
+   869
+  ],
+  [
+   "Panasonic",
+   870
+  ],
+  [
+   "Hitachi (incl. Hitachi Vantara, GlobalLogic)",
+   871
+  ],
+  [
+   "Foxconn (Hon Hai Technology Group)",
+   872
+  ],
+  [
+   "Jabil",
+   873
+  ],
+  [
+   "Digital Realty",
+   874
+  ],
+  [
+   "Vertiv",
+   875
+  ],
+  [
+   "Boston Dynamics",
+   876
+  ],
+  [
+   "TSMC",
+   877
+  ],
+  [
+   "Groq",
+   878
+  ],
+  [
+   "Ericsson",
+   879
+  ],
+  [
+   "Sony (Sony Electronics / Sony Corporation of America)",
+   880
+  ],
+  [
+   "Logitech",
+   881
+  ],
+  [
+   "Extreme Networks",
+   882
+  ],
+  [
+   "Ubiquiti",
+   883
+  ],
+  [
+   "Infineon Technologies",
+   884
+  ],
+  [
+   "STMicroelectronics",
+   885
+  ],
+  [
+   "Skyworks Solutions",
+   886
+  ],
+  [
+   "Lattice Semiconductor",
+   887
+  ],
+  [
+   "Wolfspeed",
+   888
+  ],
+  [
+   "Credo Technology Group",
+   889
+  ],
+  [
+   "Kioxia",
+   890
+  ],
+  [
+   "Teradyne",
+   891
+  ],
+  [
+   "Amphenol",
+   892
+  ],
+  [
+   "TE Connectivity",
+   893
+  ],
+  [
+   "Ampere Computing",
+   894
+  ],
+  [
+   "Dolby Laboratories",
+   895
+  ],
+  [
+   "Enphase Energy",
+   896
+  ],
+  [
+   "MediaTek",
+   897
+  ],
+  [
+   "Synaptics",
+   898
+  ],
+  [
+   "Netgear",
+   899
+  ],
+  [
+   "TP-Link",
+   900
+  ],
+  [
+   "Corsair Gaming",
+   901
+  ],
+  [
+   "Razer",
+   902
+  ],
+  [
+   "Magic Leap",
+   903
+  ],
+  [
+   "Xerox",
+   904
+  ],
+  [
+   "iRobot",
+   905
+  ],
+  [
+   "ZT Systems",
+   906
+  ],
+  [
+   "Juniper Networks",
+   907
+  ],
+  [
+   "Ansys",
+   908
+  ],
+  [
+   "VAST Data",
+   909
+  ],
+  [
+   "Ayar Labs",
+   910
+  ],
+  [
+   "d-Matrix",
+   911
+  ],
+  [
+   "Ambarella",
+   912
+  ],
+  [
+   "Axcelis Technologies",
+   913
+  ],
+  [
+   "Cirrus Logic",
+   914
+  ],
+  [
+   "CommScope",
+   915
+  ],
+  [
+   "Coherent",
+   916
+  ],
+  [
+   "Entegris",
+   917
+  ],
+  [
+   "FormFactor",
+   918
+  ],
+  [
+   "QuEra Computing",
+   919
+  ],
+  [
+   "Infleqtion",
+   920
+  ],
+  [
+   "MatX",
+   921
+  ],
+  [
+   "Graphcore",
+   922
+  ],
+  [
+   "MKS Instruments",
+   923
+  ],
+  [
+   "Monolithic Power Systems",
+   924
+  ],
+  [
+   "Onto Innovation",
+   925
+  ],
+  [
+   "Qorvo",
+   926
+  ],
+  [
+   "Rambus",
+   927
+  ],
+  [
+   "Semtech",
+   928
+  ],
+  [
+   "Silicon Labs",
+   929
+  ],
+  [
+   "Allegro MicroSystems",
+   930
+  ],
+  [
+   "Tektronix",
+   931
+  ],
+  [
+   "Viavi Solutions",
+   932
+  ],
+  [
+   "Flex",
+   933
+  ],
+  [
+   "Arlo Technologies",
+   934
+  ],
+  [
+   "CyrusOne",
+   935
+  ],
+  [
+   "QTS Data Centers",
+   936
+  ],
+  [
+   "Vantage Data Centers",
+   937
+  ],
+  [
+   "TD Synnex",
+   938
+  ],
+  [
+   "Arrow Electronics",
+   939
+  ],
+  [
+   "Avnet",
+   940
+  ],
+  [
+   "Teledyne",
+   941
+  ],
+  [
+   "Trimble",
+   942
+  ],
+  [
+   "Itron",
+   943
+  ],
+  [
+   "Schweitzer Engineering Laboratories",
+   944
+  ],
+  [
+   "Markforged",
+   945
+  ],
+  [
+   "Symbotic",
+   946
+  ],
+  [
+   "10x Genomics",
+   947
+  ],
+  [
+   "Backblaze",
+   948
+  ],
+  [
+   "Cognex",
+   949
+  ],
+  [
+   "Rigetti Computing",
+   950
+  ],
+  [
+   "Waymo",
+   951
+  ],
+  [
+   "Zoox",
+   952
+  ],
+  [
+   "Aurora Innovation",
+   953
+  ],
+  [
+   "Nuro",
+   954
+  ],
+  [
+   "Rivian",
+   955
+  ],
+  [
+   "GM",
+   956
+  ],
+  [
+   "Ford",
+   957
+  ],
+  [
+   "SpaceX",
+   958
+  ],
+  [
+   "Blue Origin",
+   959
+  ],
+  [
+   "Anduril",
+   960
+  ],
+  [
+   "Boeing",
+   961
+  ],
+  [
+   "Lockheed Martin",
+   962
+  ],
+  [
+   "Northrop Grumman",
+   963
+  ],
+  [
+   "RTX",
+   964
+  ],
+  [
+   "General Dynamics",
+   965
+  ],
+  [
+   "Honeywell Aerospace",
+   966
+  ],
+  [
+   "GE Aerospace",
+   967
+  ],
+  [
+   "L3Harris",
+   968
+  ],
+  [
+   "Toyota",
+   969
+  ],
+  [
+   "BAE Systems (US)",
+   970
+  ],
+  [
+   "Lucid",
+   971
+  ],
+  [
+   "Textron",
+   972
+  ],
+  [
+   "Zipline",
+   973
+  ],
+  [
+   "Redwood Materials",
+   974
+  ],
+  [
+   "Skydio",
+   975
+  ],
+  [
+   "Relativity Space",
+   976
+  ],
+  [
+   "Shield AI",
+   977
+  ],
+  [
+   "Firefly Aerospace",
+   978
+  ],
+  [
+   "The Boring Company",
+   979
+  ],
+  [
+   "Wayve",
+   980
+  ],
+  [
+   "Pony.ai",
+   981
+  ],
+  [
+   "BigBear.ai",
+   982
+  ],
+  [
+   "Axon Enterprise",
+   983
+  ],
+  [
+   "Aptiv",
+   984
+  ],
+  [
+   "Motional",
+   985
+  ],
+  [
+   "Kodiak AI",
+   986
+  ],
+  [
+   "Scout Motors",
+   987
+  ],
+  [
+   "NIO",
+   988
+  ],
+  [
+   "XPENG",
+   989
+  ],
+  [
+   "Faraday Future Intelligent Electric",
+   990
+  ],
+  [
+   "Hyundai Motor Group",
+   991
+  ],
+  [
+   "Nissan",
+   992
+  ],
+  [
+   "Subaru",
+   993
+  ],
+  [
+   "DENSO",
+   994
+  ],
+  [
+   "Magna International",
+   995
+  ],
+  [
+   "BorgWarner",
+   996
+  ],
+  [
+   "HARMAN",
+   997
+  ],
+  [
+   "PACCAR",
+   998
+  ],
+  [
+   "Daimler Truck",
+   999
+  ],
+  [
+   "Oshkosh Corporation",
+   1000
+  ],
+  [
+   "Polaris Inc.",
+   1001
+  ],
+  [
+   "HII",
+   1002
+  ],
+  [
+   "Leonardo DRS",
+   1003
+  ],
+  [
+   "Thales",
+   1004
+  ],
+  [
+   "Airbus",
+   1005
+  ],
+  [
+   "Saab",
+   1006
+  ],
+  [
+   "Rolls-Royce (aerospace; Rolls-Royce North America)",
+   1007
+  ],
+  [
+   "Curtiss-Wright",
+   1008
+  ],
+  [
+   "AeroVironment (AV)",
+   1009
+  ],
+  [
+   "United Launch Alliance (ULA)",
+   1010
+  ],
+  [
+   "Rocket Lab",
+   1011
+  ],
+  [
+   "Boom Supersonic",
+   1012
+  ],
+  [
+   "Archer Aviation",
+   1013
+  ],
+  [
+   "Planet Labs PBC (Planet)",
+   1014
+  ],
+  [
+   "Vantor (formerly Maxar Intelligence)",
+   1015
+  ],
+  [
+   "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
+   1016
+  ],
+  [
+   "NASA Jet Propulsion Laboratory (JPL)",
+   1017
+  ],
+  [
+   "Lawrence Livermore National Laboratory (LLNL)",
+   1018
+  ],
+  [
+   "SRI International",
+   1019
+  ],
+  [
+   "Parsons Corporation",
+   1020
+  ],
+  [
+   "Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)",
+   1021
+  ],
+  [
+   "NASA",
+   1022
+  ],
+  [
+   "Joby Aviation",
+   1023
+  ],
+  [
+   "Mercedes-Benz Research & Development North America",
+   1024
+  ],
+  [
+   "BMW Group",
+   1025
+  ],
+  [
+   "Volkswagen Group of America",
+   1026
+  ],
+  [
+   "Honda",
+   1027
+  ],
+  [
+   "Stellantis",
+   1028
+  ],
+  [
+   "Axiom Space",
+   1029
+  ],
+  [
+   "General Atomics",
+   1030
+  ],
+  [
+   "MITRE",
+   1031
+  ],
+  [
+   "MIT Lincoln Laboratory",
+   1032
+  ],
+  [
+   "Sandia National Laboratories",
+   1033
+  ],
+  [
+   "Wing",
+   1034
+  ],
+  [
+   "Mobileye",
+   1035
+  ],
+  [
+   "ChargePoint",
+   1036
+  ],
+  [
+   "EVgo",
+   1037
+  ],
+  [
+   "Electrify America",
+   1038
+  ],
+  [
+   "QuantumScape",
+   1039
+  ],
+  [
+   "Iridium Communications",
+   1040
+  ],
+  [
+   "Virgin Galactic",
+   1041
+  ],
+  [
+   "Intuitive Machines",
+   1042
+  ],
+  [
+   "Kratos Defense & Security Solutions",
+   1043
+  ],
+  [
+   "National Security Agency (NSA)",
+   1044
+  ],
+  [
+   "The Goodyear Tire & Rubber Company",
+   1045
+  ],
+  [
+   "Los Alamos National Laboratory (LANL)",
+   1046
+  ],
+  [
+   "Oak Ridge National Laboratory (ORNL)",
+   1047
+  ],
+  [
+   "Spirit AeroSystems",
+   1048
+  ],
+  [
+   "Saronic Technologies",
+   1049
+  ],
+  [
+   "Impulse Space",
+   1050
+  ],
+  [
+   "K2 Space",
+   1051
+  ],
+  [
+   "WeRide",
+   1052
+  ],
+  [
+   "Voyager Technologies",
+   1053
+  ],
+  [
+   "Karman Space & Defense",
+   1054
+  ],
+  [
+   "Vannevar Labs",
+   1055
+  ],
+  [
+   "Torc Robotics",
+   1056
+  ],
+  [
+   "May Mobility",
+   1057
+  ],
+  [
+   "Waabi",
+   1058
+  ],
+  [
+   "PlusAI",
+   1059
+  ],
+  [
+   "Stack AV",
+   1060
+  ],
+  [
+   "Avride",
+   1061
+  ],
+  [
+   "Slate Auto",
+   1062
+  ],
+  [
+   "Howmet Aerospace",
+   1063
+  ],
+  [
+   "Moog",
+   1064
+  ],
+  [
+   "Stoke Space",
+   1065
+  ],
+  [
+   "Sierra Nevada Corporation",
+   1066
+  ],
+  [
+   "Astranis",
+   1067
+  ],
+  [
+   "Varda Space",
+   1068
+  ],
+  [
+   "Hermeus",
+   1069
+  ],
+  [
+   "Wisk",
+   1070
+  ],
+  [
+   "Hadrian",
+   1071
+  ],
+  [
+   "Mach Industries",
+   1072
+  ],
+  [
+   "CHAOS Industries",
+   1073
+  ],
+  [
+   "True Anomaly",
+   1074
+  ],
+  [
+   "The Aerospace Corporation",
+   1075
+  ],
+  [
+   "Draper",
+   1076
+  ],
+  [
+   "HRL Laboratories",
+   1077
+  ],
+  [
+   "Battelle",
+   1078
+  ],
+  [
+   "Gatik",
+   1079
+  ],
+  [
+   "Epirus",
+   1080
+  ],
+  [
+   "Serve Robotics",
+   1081
+  ],
+  [
+   "Ouster",
+   1082
+  ],
+  [
+   "Vast",
+   1083
+  ],
+  [
+   "Beta Technologies",
+   1084
+  ],
+  [
+   "Divergent Technologies",
+   1085
+  ],
+  [
+   "Castelion",
+   1086
+  ],
+  [
+   "Ursa Major",
+   1087
+  ],
+  [
+   "Apex Space",
+   1088
+  ],
+  [
+   "SLAC National Accelerator Laboratory",
+   1089
+  ],
+  [
+   "Latitude AI",
+   1090
+  ],
+  [
+   "Torch Technologies",
+   1091
+  ],
+  [
+   "Wyetech",
+   1092
+  ],
+  [
+   "Captivation",
+   1093
+  ],
+  [
+   "Markon",
+   1094
+  ],
+  [
+   "Nominal",
+   1095
+  ],
+  [
+   "Technology Service Corporation (TSC)",
+   1096
+  ],
+  [
+   "Walmart Global Tech",
+   1097
+  ],
+  [
+   "Target",
+   1098
+  ],
+  [
+   "Home Depot",
+   1099
+  ],
+  [
+   "Lowe's",
+   1100
+  ],
+  [
+   "Nike",
+   1101
+  ],
+  [
+   "Disney",
+   1102
+  ],
+  [
+   "Paramount Skydance",
+   1103
+  ],
+  [
+   "Spotify",
+   1104
+  ],
+  [
+   "Electronic Arts",
+   1105
+  ],
+  [
+   "Take-Two Interactive",
+   1106
+  ],
+  [
+   "Epic Games",
+   1107
+  ],
+  [
+   "Unity Technologies",
+   1108
+  ],
+  [
+   "Sony Interactive Entertainment (PlayStation)",
+   1109
+  ],
+  [
+   "Expedia Group",
+   1110
+  ],
+  [
+   "Booking Holdings",
+   1111
+  ],
+  [
+   "eBay",
+   1112
+  ],
+  [
+   "Etsy",
+   1113
+  ],
+  [
+   "Twitch",
+   1114
+  ],
+  [
+   "DraftKings",
+   1115
+  ],
+  [
+   "Fox Corporation",
+   1116
+  ],
+  [
+   "The New York Times",
+   1117
+  ],
+  [
+   "NBCUniversal",
+   1118
+  ],
+  [
+   "Roku",
+   1119
+  ],
+  [
+   "Nordstrom",
+   1120
+  ],
+  [
+   "Chewy",
+   1121
+  ],
+  [
+   "Match Group",
+   1122
+  ],
+  [
+   "Marriott International",
+   1123
+  ],
+  [
+   "Starbucks",
+   1124
+  ],
+  [
+   "Fanatics",
+   1125
+  ],
+  [
+   "Yahoo",
+   1126
+  ],
+  [
+   "Yelp",
+   1127
+  ],
+  [
+   "Warner Bros. Discovery",
+   1128
+  ],
+  [
+   "Riot Games",
+   1129
+  ],
+  [
+   "Zillow",
+   1130
+  ],
+  [
+   "Costco",
+   1131
+  ],
+  [
+   "Nintendo",
+   1132
+  ],
+  [
+   "Wayfair",
+   1133
+  ],
+  [
+   "Activision Blizzard",
+   1134
+  ],
+  [
+   "Hulu",
+   1135
+  ],
+  [
+   "Hilton",
+   1136
+  ],
+  [
+   "Peloton",
+   1137
+  ],
+  [
+   "SeatGeek",
+   1138
+  ],
+  [
+   "Nextdoor",
+   1139
+  ],
+  [
+   "Albertsons Companies",
+   1140
+  ],
+  [
+   "Publix Super Markets",
+   1141
+  ],
+  [
+   "The TJX Companies",
+   1142
+  ],
+  [
+   "Best Buy",
+   1143
+  ],
+  [
+   "Macy's, Inc.",
+   1144
+  ],
+  [
+   "Gap Inc.",
+   1145
+  ],
+  [
+   "Kohl's",
+   1146
+  ],
+  [
+   "CarMax",
+   1147
+  ],
+  [
+   "Carvana",
+   1148
+  ],
+  [
+   "Dollar General",
+   1149
+  ],
+  [
+   "Live Nation Entertainment (Ticketmaster)",
+   1150
+  ],
+  [
+   "Quince",
+   1151
+  ],
+  [
+   "Niantic Spatial",
+   1152
+  ],
+  [
+   "Gopuff",
+   1153
+  ],
+  [
+   "Hopper",
+   1154
+  ],
+  [
+   "Houzz",
+   1155
+  ],
+  [
+   "StockX",
+   1156
+  ],
+  [
+   "GOAT Group",
+   1157
+  ],
+  [
+   "Noom",
+   1158
+  ],
+  [
+   "WHOOP",
+   1159
+  ],
+  [
+   "Thumbtack",
+   1160
+  ],
+  [
+   "Calm",
+   1161
+  ],
+  [
+   "Wonder",
+   1162
+  ],
+  [
+   "Ibotta",
+   1163
+  ],
+  [
+   "Coursera",
+   1164
+  ],
+  [
+   "Quora",
+   1165
+  ],
+  [
+   "Redfin (Rocket Companies)",
+   1166
+  ],
+  [
+   "Turo",
+   1167
+  ],
+  [
+   "Rover",
+   1168
+  ],
+  [
+   "Poshmark (Naver)",
+   1169
+  ],
+  [
+   "IXL Learning",
+   1170
+  ],
+  [
+   "PrizePicks",
+   1171
+  ],
+  [
+   "Underdog (Underdog Fantasy)",
+   1172
+  ],
+  [
+   "CoStar Group",
+   1173
+  ],
+  [
+   "Sonos",
+   1174
+  ],
+  [
+   "Bose",
+   1175
+  ],
+  [
+   "Dyson",
+   1176
+  ],
+  [
+   "SharkNinja",
+   1177
+  ],
+  [
+   "Rockstar Games",
+   1178
+  ],
+  [
+   "Ubisoft",
+   1179
+  ],
+  [
+   "Scopely",
+   1180
+  ],
+  [
+   "Bumble",
+   1181
+  ],
+  [
+   "Crunchyroll",
+   1182
+  ],
+  [
+   "Tubi",
+   1183
+  ],
+  [
+   "SiriusXM",
+   1184
+  ],
+  [
+   "iHeartMedia",
+   1185
+  ],
+  [
+   "Warner Music Group",
+   1186
+  ],
+  [
+   "Universal Music Group",
+   1187
+  ],
+  [
+   "Sony Music Entertainment",
+   1188
+  ],
+  [
+   "Sony Pictures Entertainment",
+   1189
+  ],
+  [
+   "Cond\u00e9 Nast",
+   1190
+  ],
+  [
+   "Hearst",
+   1191
+  ],
+  [
+   "Dow Jones",
+   1192
+  ],
+  [
+   "Financial Times",
+   1193
+  ],
+  [
+   "Forbes",
+   1194
+  ],
+  [
+   "Axios",
+   1195
+  ],
+  [
+   "TelevisaUnivision",
+   1196
+  ],
+  [
+   "TKO Group Holdings (WWE / UFC)",
+   1197
+  ],
+  [
+   "National Basketball Association (NBA)",
+   1198
+  ],
+  [
+   "Major League Baseball (MLB)",
+   1199
+  ],
+  [
+   "NASCAR",
+   1200
+  ],
+  [
+   "Formula 1 (Liberty Media)",
+   1201
+  ],
+  [
+   "Sphere Entertainment Co.",
+   1202
+  ],
+  [
+   "MSG Entertainment (Madison Square Garden Entertainment)",
+   1203
+  ],
+  [
+   "Caesars Entertainment",
+   1204
+  ],
+  [
+   "MGM Resorts International",
+   1205
+  ],
+  [
+   "Las Vegas Sands",
+   1206
+  ],
+  [
+   "FanDuel (Flutter Entertainment)",
+   1207
+  ],
+  [
+   "BetMGM",
+   1208
+  ],
+  [
+   "bet365",
+   1209
+  ],
+  [
+   "Hard Rock Digital (Hard Rock Bet)",
+   1210
+  ],
+  [
+   "PENN Entertainment",
+   1211
+  ],
+  [
+   "Tripadvisor",
+   1212
+  ],
+  [
+   "Groupon",
+   1213
+  ],
+  [
+   "Realtor.com (Move, Inc., News Corp)",
+   1214
+  ],
+  [
+   "CarGurus",
+   1215
+  ],
+  [
+   "Ancestry (Blackstone-owned)",
+   1216
+  ],
+  [
+   "23andMe (owned by TTAM Research Institute since 2025)",
+   1217
+  ],
+  [
+   "WebMD (Internet Brands)",
+   1218
+  ],
+  [
+   "Mozilla",
+   1219
+  ],
+  [
+   "JD.com",
+   1220
+  ],
+  [
+   "Rakuten",
+   1221
+  ],
+  [
+   "DiDi Global",
+   1222
+  ],
+  [
+   "Depop",
+   1223
+  ],
+  [
+   "H-E-B",
+   1224
+  ],
+  [
+   "Meijer",
+   1225
+  ],
+  [
+   "Wawa",
+   1226
+  ],
+  [
+   "7-Eleven, Inc.",
+   1227
+  ],
+  [
+   "Staples",
+   1228
+  ],
+  [
+   "AutoZone",
+   1229
+  ],
+  [
+   "O'Reilly Automotive",
+   1230
+  ],
+  [
+   "BJ's Wholesale Club",
+   1231
+  ],
+  [
+   "Williams-Sonoma, Inc.",
+   1232
+  ],
+  [
+   "RH (Restoration Hardware)",
+   1233
+  ],
+  [
+   "URBN (Urban Outfitters, Anthropologie, Free People)",
+   1234
+  ],
+  [
+   "J.Crew Group",
+   1235
+  ],
+  [
+   "PVH Corp.",
+   1236
+  ],
+  [
+   "VF Corporation",
+   1237
+  ],
+  [
+   "Skechers",
+   1238
+  ],
+  [
+   "Columbia Sportswear",
+   1239
+  ],
+  [
+   "L.L.Bean",
+   1240
+  ],
+  [
+   "Abercrombie & Fitch Co.",
+   1241
+  ],
+  [
+   "Foot Locker (part of Dick's Sporting Goods)",
+   1242
+  ],
+  [
+   "Bass Pro Shops (incl. Cabela's)",
+   1243
+  ],
+  [
+   "Academy Sports + Outdoors",
+   1244
+  ],
+  [
+   "Chick-fil-A",
+   1245
+  ],
+  [
+   "Chipotle Mexican Grill",
+   1246
+  ],
+  [
+   "Domino's Pizza",
+   1247
+  ],
+  [
+   "Papa John's International",
+   1248
+  ],
+  [
+   "Dutch Bros Coffee",
+   1249
+  ],
+  [
+   "Wingstop",
+   1250
+  ],
+  [
+   "Hasbro (incl. Wizards of the Coast)",
+   1251
+  ],
+  [
+   "Mattel",
+   1252
+  ],
+  [
+   "The LEGO Group",
+   1253
+  ],
+  [
+   "Royal Caribbean Group",
+   1254
+  ],
+  [
+   "Four Seasons Hotels and Resorts",
+   1255
+  ],
+  [
+   "Choice Hotels International",
+   1256
+  ],
+  [
+   "Accor",
+   1257
+  ],
+  [
+   "Life Time Group Holdings",
+   1258
+  ],
+  [
+   "Topgolf",
+   1259
+  ],
+  [
+   "Nielsen",
+   1260
+  ],
+  [
+   "Omnicom Group (merged with IPG in 2025)",
+   1261
+  ],
+  [
+   "WPP",
+   1262
+  ],
+  [
+   "DIRECTV",
+   1263
+  ],
+  [
+   "Coupang",
+   1264
+  ],
+  [
+   "Indeed",
+   1265
+  ],
+  [
+   "Udemy",
+   1266
+  ],
+  [
+   "Eventbrite",
+   1267
+  ],
+  [
+   "Hims & Hers Health",
+   1268
+  ],
+  [
+   "Sephora (LVMH)",
+   1269
+  ],
+  [
+   "REI",
+   1270
+  ],
+  [
+   "Tapestry (Coach, Kate Spade)",
+   1271
+  ],
+  [
+   "Warby Parker",
+   1272
+  ],
+  [
+   "Grubhub (owned by Wonder)",
+   1273
+  ],
+  [
+   "OfferUp",
+   1274
+  ],
+  [
+   "Vimeo (owned by Bending Spoons)",
+   1275
+  ],
+  [
+   "Chegg",
+   1276
+  ],
+  [
+   "Quizlet",
+   1277
+  ],
+  [
+   "Getty Images Holdings",
+   1278
+  ],
+  [
+   "Shutterstock (merging with Getty Images)",
+   1279
+  ],
+  [
+   "Valve",
+   1280
+  ],
+  [
+   "Bungie",
+   1281
+  ],
+  [
+   "Wizards of the Coast",
+   1282
+  ],
+  [
+   "The Pok\u00e9mon Company International",
+   1283
+  ],
+  [
+   "Taboola",
+   1284
+  ],
+  [
+   "Teladoc Health",
+   1285
+  ],
+  [
+   "GoodRx",
+   1286
+  ],
+  [
+   "Headspace",
+   1287
+  ],
+  [
+   "Khan Academy",
+   1288
+  ],
+  [
+   "Brilliant.org",
+   1289
+  ],
+  [
+   "Angi",
+   1290
+  ],
+  [
+   "Zynga (Take-Two Interactive)",
+   1291
+  ],
+  [
+   "ZeniMax Media / Bethesda (Microsoft)",
+   1292
+  ],
+  [
+   "NetEase Games",
+   1293
+  ],
+  [
+   "HoYoverse",
+   1294
+  ],
+  [
+   "Chess.com",
+   1295
+  ],
+  [
+   "Pixar Animation Studios",
+   1296
+  ],
+  [
+   "Lucasfilm / Industrial Light & Magic",
+   1297
+  ],
+  [
+   "Fubo",
+   1298
+  ],
+  [
+   "Audible",
+   1299
+  ],
+  [
+   "Vivid Seats",
+   1300
+  ],
+  [
+   "Substack",
+   1301
+  ],
+  [
+   "Medium",
+   1302
+  ],
+  [
+   "Wikimedia Foundation",
+   1303
+  ],
+  [
+   "Scribd, Inc.",
+   1304
+  ],
+  [
+   "News Corp",
+   1305
+  ],
+  [
+   "The Washington Post",
+   1306
+  ],
+  [
+   "AMC Networks",
+   1307
+  ],
+  [
+   "Grindr",
+   1308
+  ],
+  [
+   "Life360",
+   1309
+  ],
+  [
+   "GoPro",
+   1310
+  ],
+  [
+   "Lime",
+   1311
+  ],
+  [
+   "Temu (PDD Holdings)",
+   1312
+  ],
+  [
+   "Shein",
+   1313
+  ],
+  [
+   "Mercari",
+   1314
+  ],
+  [
+   "ThredUp",
+   1315
+  ],
+  [
+   "The RealReal",
+   1316
+  ],
+  [
+   "Stitch Fix",
+   1317
+  ],
+  [
+   "Lululemon",
+   1318
+  ],
+  [
+   "Ulta Beauty",
+   1319
+  ],
+  [
+   "Dick's Sporting Goods",
+   1320
+  ],
+  [
+   "Levi Strauss & Co.",
+   1321
+  ],
+  [
+   "Upwork",
+   1322
+  ],
+  [
+   "Fiverr",
+   1323
+  ],
+  [
+   "Taskrabbit (IKEA-owned)",
+   1324
+  ],
+  [
+   "Care.com (IAC)",
+   1325
+  ],
+  [
+   "Sabre Corporation",
+   1326
+  ],
+  [
+   "ZipRecruiter",
+   1327
+  ],
+  [
+   "Pluralsight",
+   1328
+  ],
+  [
+   "Codecademy (Skillsoft)",
+   1329
+  ],
+  [
+   "Turnitin",
+   1330
+  ],
+  [
+   "2U (edX)",
+   1331
+  ],
+  [
+   "College Board",
+   1332
+  ],
+  [
+   "ETS (Educational Testing Service)",
+   1333
+  ],
+  [
+   "SimpliSafe",
+   1334
+  ],
+  [
+   "Wyze Labs",
+   1335
+  ],
+  [
+   "NFL (National Football League)",
+   1336
+  ],
+  [
+   "Brave Software",
+   1337
+  ],
+  [
+   "DuckDuckGo",
+   1338
+  ],
+  [
+   "SoundCloud",
+   1339
+  ],
+  [
+   "Plex",
+   1340
+  ],
+  [
+   "Vizio (Walmart)",
+   1341
+  ],
+  [
+   "The Weather Company",
+   1342
+  ],
+  [
+   "Vox Media",
+   1343
+  ],
+  [
+   "BuzzFeed",
+   1344
+  ],
+  [
+   "AOL",
+   1345
+  ],
+  [
+   "Rumble",
+   1346
+  ],
+  [
+   "Newegg",
+   1347
+  ],
+  [
+   "GameStop",
+   1348
+  ],
+  [
+   "Adidas",
+   1349
+  ],
+  [
+   "Under Armour",
+   1350
+  ],
+  [
+   "New Balance",
+   1351
+  ],
+  [
+   "American Eagle Outfitters",
+   1352
+  ],
+  [
+   "Rent the Runway",
+   1353
+  ],
+  [
+   "Petco",
+   1354
+  ],
+  [
+   "The Farmer's Dog",
+   1355
+  ],
+  [
+   "JCPenney (Catalyst Brands)",
+   1356
+  ],
+  [
+   "Saks Global",
+   1357
+  ],
+  [
+   "The ODP Corporation (Office Depot)",
+   1358
+  ],
+  [
+   "Carnival Corporation",
+   1359
+  ],
+  [
+   "Norwegian Cruise Line Holdings",
+   1360
+  ],
+  [
+   "Wyndham Hotels & Resorts",
+   1361
+  ],
+  [
+   "Vail Resorts",
+   1362
+  ],
+  [
+   "Hertz",
+   1363
+  ],
+  [
+   "Cars.com (Cars Commerce)",
+   1364
+  ],
+  [
+   "Edmunds",
+   1365
+  ],
+  [
+   "Grab",
+   1366
+  ],
+  [
+   "Sweetgreen",
+   1367
+  ],
+  [
+   "L'Or\u00e9al USA",
+   1368
+  ],
+  [
+   "Ralph Lauren",
+   1369
+  ],
+  [
+   "Victoria's Secret & Co.",
+   1370
+  ],
+  [
+   "Bath & Body Works",
+   1371
+  ],
+  [
+   "PetSmart",
+   1372
+  ],
+  [
+   "IKEA (Ingka Group, US)",
+   1373
+  ],
+  [
+   "HelloFresh",
+   1374
+  ],
+  [
+   "Wynn Resorts",
+   1375
+  ],
+  [
+   "National Hockey League (NHL)",
+   1376
+  ],
+  [
+   "PGA TOUR",
+   1377
+  ],
+  [
+   "The Associated Press (AP)",
+   1378
+  ],
+  [
+   "USA TODAY Co. (formerly Gannett)",
+   1379
+  ],
+  [
+   "Lionsgate Studios",
+   1380
+  ],
+  [
+   "NPR",
+   1381
+  ],
+  [
+   "Tinder",
+   1382
+  ],
+  [
+   "DreamWorks Animation",
+   1383
+  ],
+  [
+   "Priceline",
+   1384
+  ],
+  [
+   "KAYAK",
+   1385
+  ],
+  [
+   "OpenTable",
+   1386
+  ],
+  [
+   "Agoda",
+   1387
+  ],
+  [
+   "Ring",
+   1388
+  ],
+  [
+   "IMDb",
+   1389
+  ],
+  [
+   "ESPN",
+   1390
+  ],
+  [
+   "MNTN",
+   1391
+  ],
+  [
+   "Liftoff",
+   1392
+  ],
+  [
+   "Jam City",
+   1393
+  ],
+  [
+   "Nexstar Media",
+   1394
+  ],
+  [
+   "Light & Wonder",
+   1395
+  ],
+  [
+   "Sportradar",
+   1396
+  ],
+  [
+   "Skyscanner",
+   1397
+  ],
+  [
+   "Arc'teryx",
+   1398
+  ],
+  [
+   "Magnite",
+   1399
+  ],
+  [
+   "Criteo",
+   1400
+  ],
+  [
+   "LiveRamp",
+   1401
+  ],
+  [
+   "StackAdapt",
+   1402
+  ],
+  [
+   "Red Ventures",
+   1403
+  ],
+  [
+   "Epsilon",
+   1404
+  ],
+  [
+   "Genius Sports",
+   1405
+  ],
+  [
+   "DoubleVerify",
+   1406
+  ],
+  [
+   "Integral Ad Science",
+   1407
+  ],
+  [
+   "Zeta Global",
+   1408
+  ],
+  [
+   "Playtika",
+   1409
+  ],
+  [
+   "Amadeus (US)",
+   1410
+  ],
+  [
+   "NewsBreak",
+   1411
+  ],
+  [
+   "Accenture",
+   1412
+  ],
+  [
+   "Deloitte",
+   1413
+  ],
+  [
+   "PwC",
+   1414
+  ],
+  [
+   "EY",
+   1415
+  ],
+  [
+   "KPMG",
+   1416
+  ],
+  [
+   "McKinsey",
+   1417
+  ],
+  [
+   "BCG X",
+   1418
+  ],
+  [
+   "Bain",
+   1419
+  ],
+  [
+   "Booz Allen Hamilton",
+   1420
+  ],
+  [
+   "Capgemini",
+   1421
+  ],
+  [
+   "Infosys",
+   1422
+  ],
+  [
+   "Leidos",
+   1423
+  ],
+  [
+   "Guidehouse",
+   1424
+  ],
+  [
+   "Cognizant",
+   1425
+  ],
+  [
+   "CDW",
+   1426
+  ],
+  [
+   "DXC Technology",
+   1427
+  ],
+  [
+   "Ingram Micro",
+   1428
+  ],
+  [
+   "Publicis Groupe (incl. Publicis Sapient)",
+   1429
+  ],
+  [
+   "Grant Thornton",
+   1430
+  ],
+  [
+   "RSM US",
+   1431
+  ],
+  [
+   "Baker Tilly",
+   1432
+  ],
+  [
+   "Crowe",
+   1433
+  ],
+  [
+   "Protiviti (Robert Half subsidiary)",
+   1434
+  ],
+  [
+   "Kearney",
+   1435
+  ],
+  [
+   "AlixPartners",
+   1436
+  ],
+  [
+   "FTI Consulting",
+   1437
+  ],
+  [
+   "Gartner",
+   1438
+  ],
+  [
+   "Thoughtworks",
+   1439
+  ],
+  [
+   "Kyndryl",
+   1440
+  ],
+  [
+   "Unisys",
+   1441
+  ],
+  [
+   "Atos",
+   1442
+  ],
+  [
+   "CACI International",
+   1443
+  ],
+  [
+   "KBR",
+   1444
+  ],
+  [
+   "Jacobs Solutions",
+   1445
+  ],
+  [
+   "WTW (Willis Towers Watson)",
+   1446
+  ],
+  [
+   "Wipro",
+   1447
+  ],
+  [
+   "ZS Associates",
+   1448
+  ],
+  [
+   "Slalom",
+   1449
+  ],
+  [
+   "West Monroe",
+   1450
+  ],
+  [
+   "EPAM Systems",
+   1451
+  ],
+  [
+   "HCLTech",
+   1452
+  ],
+  [
+   "Tech Mahindra",
+   1453
+  ],
+  [
+   "Publicis Sapient",
+   1454
+  ],
+  [
+   "Oliver Wyman",
+   1455
+  ],
+  [
+   "SAIC (Science Applications International Corp.)",
+   1456
+  ],
+  [
+   "CGI",
+   1457
+  ],
+  [
+   "Rackspace Technology",
+   1458
+  ],
+  [
+   "NTT DATA",
+   1459
+  ],
+  [
+   "Genpact",
+   1460
+  ],
+  [
+   "TEKsystems (Allegis Group)",
+   1461
+  ],
+  [
+   "RAND Corporation",
+   1462
+  ],
+  [
+   "Robert Half",
+   1463
+  ],
+  [
+   "General Dynamics Information Technology (GDIT)",
+   1464
+  ],
+  [
+   "Tata Consultancy Services (TCS)",
+   1465
+  ],
+  [
+   "Peraton",
+   1466
+  ],
+  [
+   "Huron",
+   1467
+  ],
+  [
+   "Ankura",
+   1468
+  ],
+  [
+   "Capco",
+   1469
+  ],
+  [
+   "EXL",
+   1470
+  ],
+  [
+   "Persistent Systems",
+   1471
+  ],
+  [
+   "Hexaware",
+   1472
+  ],
+  [
+   "Synechron",
+   1473
+  ],
+  [
+   "Conduent",
+   1474
+  ],
+  [
+   "ManTech",
+   1475
+  ],
+  [
+   "ICF",
+   1476
+  ],
+  [
+   "Noblis",
+   1477
+  ],
+  [
+   "Amentum",
+   1478
+  ],
+  [
+   "V2X",
+   1479
+  ],
+  [
+   "LTIMindtree",
+   1480
+  ],
+  [
+   "Virtusa",
+   1481
+  ],
+  [
+   "Globant",
+   1482
+  ],
+  [
+   "Perficient",
+   1483
+  ],
+  [
+   "World Wide Technology (WWT)",
+   1484
+  ],
+  [
+   "Insight Enterprises",
+   1485
+  ],
+  [
+   "Mphasis",
+   1486
+  ],
+  [
+   "Concentrix",
+   1487
+  ],
+  [
+   "L.E.K. Consulting",
+   1488
+  ],
+  [
+   "SMX",
+   1489
+  ],
+  [
+   "AMERICAN SYSTEMS",
+   1490
+  ],
+  [
+   "Prosidian Consulting",
+   1491
+  ],
+  [
+   "Analytic Partners",
+   1492
+  ],
+  [
+   "Sev1Tech",
+   1493
+  ],
+  [
+   "Datalab USA",
+   1494
+  ],
+  [
+   "Verizon",
+   1495
+  ],
+  [
+   "AT&T",
+   1496
+  ],
+  [
+   "T-Mobile",
+   1497
+  ],
+  [
+   "Comcast",
+   1498
+  ],
+  [
+   "Optum (UnitedHealth Group)",
+   1499
+  ],
+  [
+   "CVS Health",
+   1500
+  ],
+  [
+   "Johnson & Johnson",
+   1501
+  ],
+  [
+   "FedEx",
+   1502
+  ],
+  [
+   "Delta",
+   1503
+  ],
+  [
+   "United Airlines",
+   1504
+  ],
+  [
+   "State Farm",
+   1505
+  ],
+  [
+   "Progressive",
+   1506
+  ],
+  [
+   "Liberty Mutual",
+   1507
+  ],
+  [
+   "USAA",
+   1508
+  ],
+  [
+   "GEICO",
+   1509
+  ],
+  [
+   "John Deere",
+   1510
+  ],
+  [
+   "Caterpillar",
+   1511
+  ],
+  [
+   "P&G",
+   1512
+  ],
+  [
+   "ExxonMobil",
+   1513
+  ],
+  [
+   "Travelers",
+   1514
+  ],
+  [
+   "Cox",
+   1515
+  ],
+  [
+   "McDonald's",
+   1516
+  ],
+  [
+   "Cummins",
+   1517
+  ],
+  [
+   "Boston Scientific",
+   1518
+  ],
+  [
+   "Intuitive Surgical",
+   1519
+  ],
+  [
+   "Honeywell Technologies",
+   1520
+  ],
+  [
+   "Southwest Airlines",
+   1521
+  ],
+  [
+   "UPS",
+   1522
+  ],
+  [
+   "Humana",
+   1523
+  ],
+  [
+   "Allstate",
+   1524
+  ],
+  [
+   "Chevron",
+   1525
+  ],
+  [
+   "American Airlines",
+   1526
+  ],
+  [
+   "Nationwide",
+   1527
+  ],
+  [
+   "Elevance Health",
+   1528
+  ],
+  [
+   "Cigna",
+   1529
+  ],
+  [
+   "Kaiser Permanente",
+   1530
+  ],
+  [
+   "Charter Communications (Spectrum)",
+   1531
+  ],
+  [
+   "Walgreens",
+   1532
+  ],
+  [
+   "Kroger",
+   1533
+  ],
+  [
+   "Siemens",
+   1534
+  ],
+  [
+   "McKesson",
+   1535
+  ],
+  [
+   "Cardinal Health",
+   1536
+  ],
+  [
+   "Cencora",
+   1537
+  ],
+  [
+   "Centene",
+   1538
+  ],
+  [
+   "HCA Healthcare",
+   1539
+  ],
+  [
+   "PepsiCo",
+   1540
+  ],
+  [
+   "The Coca-Cola Company",
+   1541
+  ],
+  [
+   "Pfizer",
+   1542
+  ],
+  [
+   "Merck & Co. (MSD)",
+   1543
+  ],
+  [
+   "Eli Lilly and Company",
+   1544
+  ],
+  [
+   "AbbVie",
+   1545
+  ],
+  [
+   "Bristol Myers Squibb",
+   1546
+  ],
+  [
+   "Amgen",
+   1547
+  ],
+  [
+   "Gilead Sciences",
+   1548
+  ],
+  [
+   "Thermo Fisher Scientific",
+   1549
+  ],
+  [
+   "Abbott Laboratories",
+   1550
+  ],
+  [
+   "Medtronic",
+   1551
+  ],
+  [
+   "Stryker",
+   1552
+  ],
+  [
+   "GE Vernova",
+   1553
+  ],
+  [
+   "GE HealthCare",
+   1554
+  ],
+  [
+   "Johnson Controls",
+   1555
+  ],
+  [
+   "Emerson Electric",
+   1556
+  ],
+  [
+   "3M",
+   1557
+  ],
+  [
+   "Union Pacific",
+   1558
+  ],
+  [
+   "Lumen Technologies",
+   1559
+  ],
+  [
+   "Optimum Communications (formerly Altice USA)",
+   1560
+  ],
+  [
+   "Sysco",
+   1561
+  ],
+  [
+   "MetLife",
+   1562
+  ],
+  [
+   "Prudential Financial",
+   1563
+  ],
+  [
+   "New York Life Insurance Company",
+   1564
+  ],
+  [
+   "AIG (American International Group)",
+   1565
+  ],
+  [
+   "Northwestern Mutual",
+   1566
+  ],
+  [
+   "MassMutual",
+   1567
+  ],
+  [
+   "The Hartford",
+   1568
+  ],
+  [
+   "Aflac",
+   1569
+  ],
+  [
+   "Marsh McLennan",
+   1570
+  ],
+  [
+   "Aon plc",
+   1571
+  ],
+  [
+   "NextEra Energy",
+   1572
+  ],
+  [
+   "Duke Energy",
+   1573
+  ],
+  [
+   "Medline Industries",
+   1574
+  ],
+  [
+   "Kenvue",
+   1575
+  ],
+  [
+   "Oscar Health",
+   1576
+  ],
+  [
+   "Ross Stores",
+   1577
+  ],
+  [
+   "Avis Budget Group",
+   1578
+  ],
+  [
+   "Enterprise Mobility (formerly Enterprise Holdings)",
+   1579
+  ],
+  [
+   "U-Haul (U-Haul Holding Company)",
+   1580
+  ],
+  [
+   "AstraZeneca",
+   1581
+  ],
+  [
+   "Genentech",
+   1582
+  ],
+  [
+   "Roche",
+   1583
+  ],
+  [
+   "GSK",
+   1584
+  ],
+  [
+   "Moderna",
+   1585
+  ],
+  [
+   "Novartis",
+   1586
+  ],
+  [
+   "Regeneron",
+   1587
+  ],
+  [
+   "Sanofi",
+   1588
+  ],
+  [
+   "Takeda Pharmaceutical",
+   1589
+  ],
+  [
+   "Illumina",
+   1590
+  ],
+  [
+   "Danaher",
+   1591
+  ],
+  [
+   "Agilent Technologies",
+   1592
+  ],
+  [
+   "BD (Becton, Dickinson and Company)",
+   1593
+  ],
+  [
+   "Baxter International",
+   1594
+  ],
+  [
+   "Dexcom",
+   1595
+  ],
+  [
+   "Insulet",
+   1596
+  ],
+  [
+   "Edwards Lifesciences",
+   1597
+  ],
+  [
+   "Philips (Royal Philips)",
+   1598
+  ],
+  [
+   "Hologic",
+   1599
+  ],
+  [
+   "ResMed",
+   1600
+  ],
+  [
+   "Zimmer Biomet",
+   1601
+  ],
+  [
+   "IQVIA",
+   1602
+  ],
+  [
+   "Labcorp",
+   1603
+  ],
+  [
+   "Molina Healthcare",
+   1604
+  ],
+  [
+   "Blue Shield of California",
+   1605
+  ],
+  [
+   "Highmark Health",
+   1606
+  ],
+  [
+   "Cleveland Clinic",
+   1607
+  ],
+  [
+   "Mass General Brigham",
+   1608
+  ],
+  [
+   "Northwell Health",
+   1609
+  ],
+  [
+   "Chubb",
+   1610
+  ],
+  [
+   "Farmers Insurance (Farmers Group, Zurich Insurance Group)",
+   1611
+  ],
+  [
+   "American Family Insurance",
+   1612
+  ],
+  [
+   "Lincoln Financial",
+   1613
+  ],
+  [
+   "Pacific Life",
+   1614
+  ],
+  [
+   "Voya Financial",
+   1615
+  ],
+  [
+   "Guardian Life Insurance Company of America",
+   1616
+  ],
+  [
+   "Markel Group",
+   1617
+  ],
+  [
+   "CNA Financial",
+   1618
+  ],
+  [
+   "Zurich Insurance Group (Zurich North America)",
+   1619
+  ],
+  [
+   "Shell plc (Shell USA)",
+   1620
+  ],
+  [
+   "bp",
+   1621
+  ],
+  [
+   "Phillips 66",
+   1622
+  ],
+  [
+   "Marathon Petroleum",
+   1623
+  ],
+  [
+   "Valero Energy",
+   1624
+  ],
+  [
+   "Halliburton",
+   1625
+  ],
+  [
+   "Baker Hughes",
+   1626
+  ],
+  [
+   "Southern Company",
+   1627
+  ],
+  [
+   "Pacific Gas and Electric Company (PG&E)",
+   1628
+  ],
+  [
+   "Edison International (Southern California Edison)",
+   1629
+  ],
+  [
+   "Constellation Energy",
+   1630
+  ],
+  [
+   "Dominion Energy",
+   1631
+  ],
+  [
+   "ABB",
+   1632
+  ],
+  [
+   "Rockwell Automation",
+   1633
+  ],
+  [
+   "Eaton Corporation",
+   1634
+  ],
+  [
+   "Carrier Global",
+   1635
+  ],
+  [
+   "Trane Technologies",
+   1636
+  ],
+  [
+   "Otis Worldwide",
+   1637
+  ],
+  [
+   "Illinois Tool Works (ITW)",
+   1638
+  ],
+  [
+   "Stanley Black & Decker",
+   1639
+  ],
+  [
+   "Milwaukee Tool (Techtronic Industries)",
+   1640
+  ],
+  [
+   "GE Appliances (a Haier company)",
+   1641
+  ],
+  [
+   "Wabtec (Westinghouse Air Brake Technologies)",
+   1642
+  ],
+  [
+   "Dow Inc.",
+   1643
+  ],
+  [
+   "Corteva Agriscience",
+   1644
+  ],
+  [
+   "Ecolab",
+   1645
+  ],
+  [
+   "Sherwin-Williams",
+   1646
+  ],
+  [
+   "PPG Industries",
+   1647
+  ],
+  [
+   "Nucor",
+   1648
+  ],
+  [
+   "Koch Inc. (Koch Industries)",
+   1649
+  ],
+  [
+   "Mars, Incorporated",
+   1650
+  ],
+  [
+   "Mondelez International",
+   1651
+  ],
+  [
+   "The Kraft Heinz Company",
+   1652
+  ],
+  [
+   "The Hershey Company",
+   1653
+  ],
+  [
+   "Unilever",
+   1654
+  ],
+  [
+   "Nestl\u00e9",
+   1655
+  ],
+  [
+   "The Clorox Company",
+   1656
+  ],
+  [
+   "Tyson Foods",
+   1657
+  ],
+  [
+   "Anheuser-Busch (AB InBev)",
+   1658
+  ],
+  [
+   "W.W. Grainger (Grainger)",
+   1659
+  ],
+  [
+   "CSX Corporation",
+   1660
+  ],
+  [
+   "Norfolk Southern",
+   1661
+  ],
+  [
+   "A.P. Moller-Maersk",
+   1662
+  ],
+  [
+   "XPO, Inc.",
+   1663
+  ],
+  [
+   "C.H. Robinson",
+   1664
+  ],
+  [
+   "Ryder System",
+   1665
+  ],
+  [
+   "JetBlue Airways",
+   1666
+  ],
+  [
+   "WM (Waste Management)",
+   1667
+  ],
+  [
+   "EchoStar (DISH, Boost Mobile, Sling)",
+   1668
+  ],
+  [
+   "Iron Mountain",
+   1669
+  ],
+  [
+   "JLL (Jones Lang LaSalle)",
+   1670
+  ],
+  [
+   "Cushman & Wakefield",
+   1671
+  ],
+  [
+   "Lennar",
+   1672
+  ],
+  [
+   "H&R Block",
+   1673
+  ],
+  [
+   "ADT",
+   1674
+  ],
+  [
+   "Cintas",
+   1675
+  ],
+  [
+   "Argonne National Laboratory",
+   1676
+  ],
+  [
+   "Lawrence Berkeley National Laboratory (Berkeley Lab)",
+   1677
+  ],
+  [
+   "Pacific Northwest National Laboratory (PNNL)",
+   1678
+  ],
+  [
+   "Zoetis",
+   1679
+  ],
+  [
+   "Novo Nordisk",
+   1680
+  ],
+  [
+   "Schneider Electric",
+   1681
+  ],
+  [
+   "Alaska Airlines (Alaska Air Group)",
+   1682
+  ],
+  [
+   "Pearson",
+   1683
+  ],
+  [
+   "McGraw Hill",
+   1684
+  ],
+  [
+   "CBRE Group",
+   1685
+  ],
+  [
+   "Yum! Brands",
+   1686
+  ],
+  [
+   "Hyatt Hotels Corporation",
+   1687
+  ],
+  [
+   "IHG Hotels & Resorts",
+   1688
+  ],
+  [
+   "Viasat",
+   1689
+  ],
+  [
+   "AST SpaceMobile",
+   1690
+  ],
+  [
+   "Parker Hannifin",
+   1691
+  ],
+  [
+   "Whirlpool Corporation",
+   1692
+  ],
+  [
+   "Sunrun",
+   1693
+  ],
+  [
+   "ConocoPhillips",
+   1694
+  ],
+  [
+   "SLB",
+   1695
+  ],
+  [
+   "Dollar Tree",
+   1696
+  ],
+  [
+   "Tractor Supply Company",
+   1697
+  ],
+  [
+   "Inspire Brands",
+   1698
+  ],
+  [
+   "Restaurant Brands International",
+   1699
+  ],
+  [
+   "Wendy's",
+   1700
+  ],
+  [
+   "Darden Restaurants",
+   1701
+  ],
+  [
+   "Ahold Delhaize USA",
+   1702
+  ],
+  [
+   "The Est\u00e9e Lauder Companies",
+   1703
+  ],
+  [
+   "United States Postal Service (USPS)",
+   1704
+  ],
+  [
+   "J.B. Hunt Transport Services",
+   1705
+  ],
+  [
+   "DHL (DHL Group, US)",
+   1706
+  ],
+  [
+   "Amtrak",
+   1707
+  ],
+  [
+   "Mayo Clinic",
+   1708
+  ],
+  [
+   "Biogen",
+   1709
+  ],
+  [
+   "Vertex Pharmaceuticals",
+   1710
+  ],
+  [
+   "Bayer",
+   1711
+  ],
+  [
+   "Boehringer Ingelheim",
+   1712
+  ],
+  [
+   "Ginkgo Bioworks",
+   1713
+  ],
+  [
+   "Arthur J. Gallagher & Co.",
+   1714
+  ],
+  [
+   "Allianz (Allianz Life / Allianz Global Investors US)",
+   1715
+  ],
+  [
+   "Mutual of Omaha",
+   1716
+  ],
+  [
+   "John Hancock (Manulife)",
+   1717
+  ],
+  [
+   "Transamerica (Aegon)",
+   1718
+  ],
+  [
+   "Unum Group",
+   1719
+  ],
+  [
+   "Erie Insurance Group (Erie Indemnity)",
+   1720
+  ],
+  [
+   "Stanford Health Care",
+   1721
+  ],
+  [
+   "Ascension",
+   1722
+  ],
+  [
+   "Cedars-Sinai",
+   1723
+  ],
+  [
+   "Mount Sinai Health System",
+   1724
+  ],
+  [
+   "NYU Langone Health",
+   1725
+  ],
+  [
+   "Memorial Sloan Kettering Cancer Center",
+   1726
+  ],
+  [
+   "Quest Diagnostics",
+   1727
+  ],
+  [
+   "Align Technology",
+   1728
+  ],
+  [
+   "DuPont de Nemours",
+   1729
+  ],
+  [
+   "BASF",
+   1730
+  ],
+  [
+   "Linde plc",
+   1731
+  ],
+  [
+   "Cargill",
+   1732
+  ],
+  [
+   "ADM (Archer Daniels Midland)",
+   1733
+  ],
+  [
+   "CNH (CNH Industrial)",
+   1734
+  ],
+  [
+   "General Mills",
+   1735
+  ],
+  [
+   "Keurig Dr Pepper",
+   1736
+  ],
+  [
+   "Colgate-Palmolive",
+   1737
+  ],
+  [
+   "Kimberly-Clark",
+   1738
+  ],
+  [
+   "Molson Coors Beverage Company",
+   1739
+  ],
+  [
+   "Constellation Brands",
+   1740
+  ],
+  [
+   "BNSF Railway",
+   1741
+  ],
+  [
+   "Exelon",
+   1742
+  ],
+  [
+   "Consolidated Edison (Con Edison)",
+   1743
+  ],
+  [
+   "Aramark",
+   1744
+  ],
+  [
+   "Siemens Healthineers",
+   1745
+  ],
+  [
+   "Health Care Service Corporation (HCSC)",
+   1746
+  ],
+  [
+   "Intermountain Health",
+   1747
+  ],
+  [
+   "Providence",
+   1748
+  ],
+  [
+   "Sutter Health",
+   1749
+  ],
+  [
+   "UPMC",
+   1750
+  ],
+  [
+   "Guardant Health",
+   1751
+  ],
+  [
+   "Natera",
+   1752
+  ],
+  [
+   "Broad Institute",
+   1753
+  ],
+  [
+   "TerraPower",
+   1754
+  ],
+  [
+   "Oklo",
+   1755
+  ],
+  [
+   "TAE Technologies",
+   1756
+  ],
+  [
+   "CommonSpirit Health",
+   1757
+  ],
+  [
+   "Uline",
+   1758
+  ],
+  [
+   "American Electric Power",
+   1759
+  ],
+  [
+   "DaVita",
+   1760
+  ],
+  [
+   "Genuine Parts Company",
+   1761
+  ],
+  [
+   "Auto-Owners Insurance",
+   1762
+  ],
+  [
+   "Berkshire Hathaway Energy",
+   1763
+  ],
+  [
+   "Xylem",
+   1764
+  ],
+  [
+   "Wellmark",
+   1765
+  ],
+  [
+   "BlueCross BlueShield of South Carolina",
+   1766
+  ],
+  [
+   "World Kinect",
+   1767
+  ],
+  [
+   "Acuity Inc.",
+   1768
+  ],
+  [
+   "AAA Club Alliance",
+   1769
+  ],
+  [
+   "Mercury Insurance",
+   1770
   ]
+ ]
 }

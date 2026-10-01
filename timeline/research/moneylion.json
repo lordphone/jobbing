@@ -1,18 +1,36 @@
 {
   "company": "MoneyLion (Gen Digital)",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [
-    {"title": "Machine Learning Engineer 1", "url": "https://jobs.ashbyhq.com/gen-digital/04d8f8b7-135c-4b93-8dbb-f47b9ddb51ea/application", "location": "Mountain View, CA", "opened": "2026-06-26", "date_source": "tracker first seen", "grad_window": null, "live_verified": "no"},
-    {"title": "AI & Machine Learning Engineer 1", "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application", "location": "Mountain View, CA", "opened": "2026-07-08", "date_source": "tracker first seen", "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Machine Learning Engineer 1",
+      "url": "https://jobs.ashbyhq.com/gen-digital/04d8f8b7-135c-4b93-8dbb-f47b9ddb51ea/application",
+      "location": "Mountain View, CA",
+      "opened": "2026-06-26",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    },
+    {
+      "title": "AI & Machine Learning Engineer 1",
+      "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application",
+      "location": "Mountain View, CA",
+      "opened": "2026-07-08",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only two entry-level ('...Engineer 1') postings, both from 2026-06/07, no 2025-07..2026-01 window posting.",
+  "last_cycle_basis": "Tracker history shows only two '...Engineer 1' postings, both 2026-06/07; none in the 2025-07..2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gen-digital",
   "jobs_spec": "ashby:gen-digital",
-  "evidence": "Full 126-posting Ashby board (parent Gen Digital) checked: no live entry-level SWE/ML postings, all Senior/Lead/Principal. Tracker shows two 'Engineer 1' postings (Jun/Jul 2026) that are no longer on the live board, so closed.",
+  "evidence": "Ashby gen-digital (122) checked: US engineering roles are Senior/Lead/Principal; only entry roles are Czechia/Malaysia interns. Tracker ML Engineer 1 (Mountain View, 2026-06-26 and 2026-07-08) postings are gone from the board, so closed.",
   "confidence": "medium"
 }

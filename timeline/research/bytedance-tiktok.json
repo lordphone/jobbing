@@ -1,25 +1,26 @@
 {
   "company": "ByteDance / TikTok",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
     {
       "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
       "url": "https://lifeattiktok.com/search/7663032057264244997",
       "location": "Seattle",
-      "opened": "on or before 2026-07-17",
+      "opened": "2026-07-16",
       "date_source": "tracker first seen",
-      "grad_window": "2027 Start (completing or recently completed BS+ in CS)",
-      "live_verified": "browser"
+      "grad_window": "2027 Start",
+      "live_verified": "browser",
+      "deadline": null
     }
   ],
-  "last_cycle_opened": "2025-07-30",
-  "last_cycle_basis": "tracker_last_cycle from worklist.json (GitHub new-grad tracker first-seen date)",
+  "last_cycle_opened": "2025-06-16",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer Graduate - Applied Machine Learning' San Jose first seen 2025-06-16 (jobs.bytedance.com); 'New Grad 2026: Backend Engineer Graduate, Risk and Response' Seattle 2025-07-30 on lifeattiktok.com",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lifeattiktok.com",
   "jobs_spec": null,
-  "evidence": "Re-verified live on lifeattiktok.com (first-party): active Apply button, title reads '2027 Start', Seattle location, no citizenship/clearance/sponsorship restriction stated.",
-  "confidence": "high"
+  "evidence": "Reopened posting on lifeattiktok.com 2026-09-30: 'Apply to this job' present, title '2027 Start', rolling review, Seattle; no citizenship/clearance/sponsorship text, no deadline. Tracker lists 172 more TikTok/ByteDance roles.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

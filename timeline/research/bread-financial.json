@@ -1,15 +1,15 @@
 {
   "company": "Bread Financial",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2024-09-08",
-  "last_cycle_basis": "Tracker first-seen date from earlier pass; not reconfirmed this run.",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker: New Grad Software Engineer 2024-09-08 (two cycles ago); nothing 2025-07 to 2026-01.",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us",
   "jobs_spec": "wd:alliancedata/wd5/breadfinancial_us",
-  "evidence": "Workday API: only 2 postings live, 'Senior Agentic AI Software Engineer' (senior) and a 'Rotational Program Associate - Automation & Reporting Analyst' (non-SWE, analyst track). No entry-level new-grad SWE posting.",
-  "confidence": "medium"
+  "evidence": "Workday API, 2 postings: Rotational Program Associate (Deposit Ops automation/reporting analyst track, not SWE) and Senior Associate Software Engineer (3-5 yrs, not entry). Postings say no sponsorship, no F-1. Last new-grad SWE (Engineer I) 2024-09.",
+  "confidence": "high"
 }

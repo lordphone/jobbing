@@ -75,7 +75,7 @@ rows = []
 for c in companies:
     cid = c['id']
     o, boards, a = p0.get(c['name'], EMPTY), p1.get(c['name'], []), agent.get(c['name'])
-    r = {'Company': c['name'], 'Tier': c['tier'], 'Status': 'unknown', 'Role': '', 'Link': '', 'Opened': '',
+    r = {'Company': c['name'], 'Tier': c['tier'], 'Status': 'unknown', 'Role': '', 'Link': '', 'Opened': '', 'Deadline': '', 'Areas': '',
          'Last year opened': '', 'Expected open': '', 'Applied': applied.get(cid, ''), 'Sponsorship': '', 'Notes': '',
          'Confidence': '', 'Source': '', 'Job board': '', 'Tracker lead': ''}
     notes = []
@@ -164,12 +164,15 @@ for c in companies:
         st = {'no_program_found': 'no_program', 'leftover_2026': 'not_yet'}.get(rs['status'], rs['status'])
         posts = rs.get('postings') or []
         live = [p for p in posts if rs['status'] == 'open']
+        live.sort(key=lambda p: not areas_of(p.get('location')))  # show a posting in his areas first
         p = live[0] if live else None
+        r['Areas'] = ', '.join(dict.fromkeys(a for q in live for a in areas_of(q.get('location'))))
         notes = [n for n in notes if not n.startswith('research overrode') and n != 'research doubts this is a new-grad role']
         if rs['status'] == 'leftover_2026':
             notes.append('only 2026-cycle leftover postings live')
         notes.append(rs.get('evidence') or '')
         r.update(Status=st, Role=p['title'] if p else '', Link=p['url'] if p else '', Opened=p.get('opened', '') if p else '',
+                 Deadline=(p.get('deadline') or '') if p else '',
                  Source=f"first-party check {rs.get('checked', '')}", Confidence=rs.get('confidence', ''))
         if len(live) > 1:
             notes.append(f'{len(live)} live postings')
@@ -231,6 +234,16 @@ live = [r for r in rows if r['Status'] != 'excluded']
 apply_now = sorted([r for r in live if r['Status'] == 'open' and not r['Applied']],
                    key=lambda r: (r['Tier'], r['Opened'] or '9999'))
 applied_rows = [r for r in rows if r['Applied']]
+# stated deadlines first, soonest first; "at least" dates are lower bounds and sort by that date
+asap = sorted([r for r in apply_now if parse_date(r['Deadline'])], key=lambda r: parse_date(r['Deadline']))
+mine = lambda rs: [r for r in rs if r['Areas']]
+others = lambda rs: [r for r in rs if not r['Areas']]
+for r in asap:
+    d = parse_date(r['Deadline'])
+    if d >= TODAY:
+        r['Days left'] = str((d - TODAY).days)
+    else:
+        r['Days left'] = 'no end date known' if 'at least' in r['Deadline'] else 'passed — check it is still live'
 soon = [r for r in live if r['Status'] in ('not_yet', 'unknown', 'closed') and not r['Applied'] and r['Expected open']
         and (r['Expected open'].startswith('overdue') or r['Expected open'][:10] <= REFERRAL_HORIZON.isoformat())]
 soon.sort(key=lambda r: (r['Tier'], exp_key(r)))
@@ -241,7 +254,8 @@ exc = [r for r in rows if r['Status'] == 'excluded']
 
 L = [f'# 2027 New-Grad Timeline', '',
      f'Checked {TODAY.isoformat()}. {len(rows)} companies in `COMPANY_LIST.md`. Full data: `status.csv`.', '',
-     f'- **Apply now:** {len(apply_now)} open, not yet applied',
+     f'- **Apply now:** {len(apply_now)} open, not yet applied: {len(mine(apply_now))} in your areas, '
+     f'{len(others(apply_now))} elsewhere ({len(asap)} with a stated deadline)',
      f'- **Referrals / cold messages now:** {len(soon)} expected to open by {REFERRAL_HORIZON.isoformat()} or overdue vs last year',
      f'- **Tracker leads to confirm:** {len(leads)} listed by a GitHub tracker, company board not checked yet',
      f'- **Later / unknown timing:** {len(later)}',
@@ -263,9 +277,21 @@ def table(rs, cols):
     return out
 
 
-L += ['## Already applied', ''] + table(applied_rows, ['Company', 'Tier', 'Applied', 'Status', 'Role']) + ['']
-L += ['## 1. Apply now', '', 'Open now, by tier, oldest posting first.', '']
-L += table(apply_now, ['Company', 'Tier', 'Role', 'Opened', 'Confidence', 'Sponsorship', 'Notes']) + ['']
+L += ['## Already applied', ''] + table(applied_rows, ['Company', 'Tier', 'Applied', 'Status', 'Role', 'Deadline']) + ['']
+L += ['## Apply ASAP: stated deadlines', '',
+      'Open, not yet applied, and the posting states a deadline. Soonest first. Most postings state none, '
+      'so a missing entry is not a sign of time to spare.', '']
+L += ['### In your areas', ''] + table(mine(asap), ['Company', 'Tier', 'Role', 'Areas', 'Deadline', 'Days left', 'Opened',
+                                                    'Sponsorship']) + ['']
+L += ['### Elsewhere', ''] + table(others(asap), ['Company', 'Tier', 'Role', 'Deadline', 'Days left', 'Opened',
+                                                 'Sponsorship']) + ['']
+L += ['## 1. Apply now', '',
+      'Open now, by tier, oldest posting first. "Your areas" are set in `.agents/skills/new-grad-timeline/scripts/areas.json`; '
+      'every company is still researched, and the rest are listed under Elsewhere.', '']
+L += ['### In your areas', ''] + table(mine(apply_now), ['Company', 'Tier', 'Role', 'Areas', 'Opened', 'Deadline',
+                                                        'Confidence', 'Sponsorship', 'Notes']) + ['']
+L += ['### Elsewhere', ''] + table(others(apply_now), ['Company', 'Tier', 'Role', 'Opened', 'Deadline', 'Confidence',
+                                                      'Sponsorship', 'Notes']) + ['']
 L += ['## Tracker leads: confirm on the company site', '',
       'A GitHub tracker lists these as open, but no one has checked the company\'s own board yet.', '']
 L += table(leads, ['Company', 'Tier', 'Role', 'Opened', 'Notes']) + ['']

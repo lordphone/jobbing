@@ -1,15 +1,26 @@
 {
   "company": "Slack",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows 'Software Engineer 1/I' Slack postings on 2026-02-03, 2026-04-22, 2026-06-03, all now closed; none fall in the 2025-07..2026-01 last-cycle window used for this cycle's comparison.",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
+      "location": "California - San Francisco; California - Palo Alto; Washington - Seattle; Indiana - Indianapolis; Washington - Bellevue; Texas - Dallas",
+      "opened": "on or before 2026-09-24",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-08-12",
+  "last_cycle_basis": "Salesforce Software Engineering AMTS New Grad, tracker first seen 2025-08-12 (jobs.py history); Slack SE I posted 2026-06-03.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/Slack",
   "jobs_spec": "wd:salesforce/wd12/Slack",
-  "evidence": "Checked full Slack Workday board (8 postings): all Senior/Staff/Manager level. New-grad route is Salesforce Futureforce (see the Salesforce-wide AMTS College Grad posting); nothing Slack-specific and entry-level is live now.",
+  "evidence": "Slack posts under Salesforce. Slack board (10) has only SE II, Senior, Staff, Manager roles. Salesforce-wide Software Engineering AMTS (College Grad) JR355250 live via API (canApply true, startDate 2026-09-24), US. Not Slack-specific.",
   "confidence": "medium"
 }

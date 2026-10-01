@@ -1,7 +1,7 @@
 {
   "company": "Magnite",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-03",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": "wd:osv-rubicon/wd5/MagniteCareers",
-  "evidence": "Workday board reachable this run (jobs.py's own wd: spec call timed out, but the browser pane reached it directly). Searching 'engineer' gives 15 current postings; the only titled 'Engineer II' (Boston/NYC, Demand Tech) requires 2+ years experience. No current 'Engineer I' / entry-level posting exists (last cycle's entry-level 'Engineer I' NYC and Belfast postings are all closed). Magnite has an entry-level 'Engineer I' track (used last cycle), so this is not_yet rather than no_program_found.",
+  "evidence": "Browser pane board (32 jobs, page 1 read): Engineer II (Boston/NYC, 2+ yrs, $130-145k, posted ~13 days ago), Senior Engineer, Rust Engineer Belfast; no Engineer 1 or new-grad title. API 422; page 2 unread.",
   "confidence": "medium"
 }

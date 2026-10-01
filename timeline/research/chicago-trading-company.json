@@ -1,18 +1,26 @@
 {
   "company": "Chicago Trading Company (CTC)",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Associate Engineer - 2027 Start", "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005", "location": "Chicago, IL; New York, NY",
-     "opened": "2026-08-03", "date_source": "greenhouse board listing", "grad_window": "2027", "live_verified": "api"}
+    {
+      "title": "Associate Engineer - 2027 Start",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
+      "location": "Chicago, IL; New York, NY",
+      "opened": "2026-08-03",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "graduate between Dec 2026 – Jun 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-18",
-  "last_cycle_basis": "tracker_last_cycle from earlier research",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history: Associate C++ Engineer (Chicago) first seen 2025-12-18",
   "jobs_page": "https://job-boards.greenhouse.io/chicagotradingcampus",
   "jobs_spec": "gh:chicagotradingcampus",
-  "evidence": "gh:chicagotradingcampus board --all (8 postings): Associate Engineer 2027 Start is live (Chicago/NYC), first_published 2026-08-03. SWE internship Summer 2027 also live.",
-  "confidence": "high"
+  "evidence": "gh:chicagotradingcampus board (8): Associate Engineer - 2027 Start, Chicago/NYC, first_published 2026-08-03, grad Dec 2026–Jun 2027, live via API detail. No deadline stated.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

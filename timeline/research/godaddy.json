@@ -1,15 +1,15 @@
 {
   "company": "GoDaddy",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: 0 postings found for GoDaddy. A Workday listing 'NEW COLLEGE GRAD - SOFTWARE ENGINEER' (R000347, Kirkland) surfaced via web search but the API confirms it is closed/not found; open date unknown.",
+  "last_cycle_basis": "no dated history found; old Workday new-college-grad SWE req closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.godaddy/emergingtalent",
   "jobs_spec": "gh:godaddy",
-  "evidence": "Greenhouse board (38 postings, --all) has no new-grad/entry-level SWE roles, only senior/staff/director/manager. Emerging Talent (early-career) page lists no current SWE openings, only a job-alert signup; a past Workday new-college-grad SWE req is now closed.",
+  "evidence": "gh:godaddy --all (38): US SWE roles Senior/Staff/Director; 'Software Development Engineer - AI Services' needs 5+ yrs. Emerging Talent page mentions New College Grad hires but lists no open roles or 2027 dates.",
   "confidence": "medium"
 }

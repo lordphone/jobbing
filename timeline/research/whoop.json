@@ -1,19 +1,26 @@
 {
   "company": "WHOOP",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [
-    {"title": "Software Engineer I - WHOOP Pace Setters", "url": "https://jobs.ashbyhq.com/whoop/8aadc0e4-42a3-4ac2-b4a3-b584bb154ed3", "location": "Boston, MA",
-     "opened": null, "date_source": "page text (isListed: false)",
-     "grad_window": "exceptional graduating college seniors (Pace Setters new-grad program)", "live_verified": "no"}
+    {
+      "title": "Software Engineer I - WHOOP Pace Setters",
+      "url": "https://jobs.ashbyhq.com/whoop/8aadc0e4-42a3-4ac2-b4a3-b584bb154ed3",
+      "location": "Boston, MA",
+      "opened": "2026-09-08",
+      "date_source": "ashby publishedDate (isListed false)",
+      "deadline": null,
+      "grad_window": "undergraduate senior, expected graduation Spring 2027",
+      "live_verified": "no"
+    }
   ],
-  "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker_last_cycle from worklist (2025-10-30)",
+  "last_cycle_opened": "2024-08-22",
+  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Boston (2024 cycle; tracker also shows SWE/Android I roles Oct 2025 - Jan 2026)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whoop",
   "jobs_spec": "ashby:whoop",
-  "evidence": "Ashby board (159 postings, --all): current 'Software Engineer I (Backend)' and 'Android Engineer I' postings are explicitly for immediate hire, not new grads, and their text points candidates graduating Winter 2026/Spring 2027 to a separate 'WHOOP Pace Setters' new-grad posting (id 8aadc0e4). That posting's page confirms it is the new-grad program (\"exceptional graduating college seniors\") but is currently isListed:false, i.e. not live/not accepting applications yet.",
+  "evidence": "Ashby board (152): SWE I (Backend) and Android Engineer I say immediate hire and send Winter 2026/Spring 2027 grads to 'SWE I - WHOOP Pace Setters' (published 2026-09-08). Its API shows isListed false, undergrad senior Spring 2027; apply status unverified, so not counted open.",
   "confidence": "medium"
 }

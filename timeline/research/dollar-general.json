@@ -1,15 +1,15 @@
 {
   "company": "Dollar General",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no SWE new-grad program found in tracker history",
+  "last_cycle_basis": "unknown; no tracker history of a new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ibxwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:ibxwjb.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "careers.dollargeneral.com is iCIMS-fronted and blocked automated access, but its own careers page names the real ATS: ibxwjb.fa.ocs.oraclecloud.com. Full Oracle board scan (--all, filtered software/engineer): every title is Sr/Lead/Principal Software or Quality Engineer in Goodlettsville, TN; no entry-level/new-grad SWE posting.",
-  "confidence": "medium"
+  "evidence": "Oracle board (135, --all): maintenance technicians, store/distribution roles and Sr Quality Engineer; no entry-level SWE or new-grad program.",
+  "confidence": "high"
 }

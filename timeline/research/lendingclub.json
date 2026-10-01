@@ -1,15 +1,15 @@
 {
   "company": "LendingClub",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "not found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Nothing found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lendingclub.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:lendingclub/wd1/external",
-  "evidence": "Workday API board has only 5 postings total, only one engineering role (Principal Information Systems Engineer). No new-grad SWE program or entry-level SWE posting.",
+  "evidence": "Workday API --all: about 5 postings, none engineering entry-level; only analyst roles. No new-grad SWE program seen this cycle or last.",
   "confidence": "high"
 }

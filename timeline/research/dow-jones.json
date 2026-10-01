@@ -1,15 +1,15 @@
 {
   "company": "Dow Jones",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting between 2025-07 and 2026-01 in tracker history. Closest match is 'Software Engineer 1 - AI & ML Foundation Technology' (NYC), opened 2026-05-20, off-window and now closed.",
+  "last_cycle_basis": "No new-grad SWE 2025-07 to 2026-01 in tracker; nearest Software Engineer 1 - AI & ML Foundation Technology (NYC) 2026-05-20, off-window, closed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career",
   "jobs_spec": "wd:dowjones/wd1/Dow_Jones_Career",
-  "evidence": "Workday API, all 64 postings checked (--all). Current SWE roles are Senior/Staff/Lead (mostly Barcelona), plus a NYC 'Software Engineer II, Search' which is not an entry-level (0-1yr) title. Also a Summer 2027 SWE internship (not new-grad).",
+  "evidence": "Workday --all 2026-09-30: NYC Software Engineer II, Search (2026-09-14; ~2-4 yrs, mid-level); other SWE Senior/Staff/Lead. Summer 2027 SWE internship only (not counted). No entry-level SWE.",
   "confidence": "medium"
 }

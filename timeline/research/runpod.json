@@ -1,19 +1,26 @@
 {
   "company": "Runpod",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer (Full-Stack)", "url": "https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5", "location": "Remote - USA",
-     "opened": "2026-08-03", "date_source": "ashby publishedAt",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer (Full-Stack)",
+      "url": "https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5",
+      "location": "Remote - USA",
+      "opened": "2026-08-03",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-07-18",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer - Full-Stack', Remote in USA (https://job-boards.greenhouse.io/runpod/jobs/4785681008)",
+  "last_cycle_basis": "tracker first-seen for 'Software Engineer - Full-Stack' https://job-boards.greenhouse.io/runpod/jobs/4785681008",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ashbyhq.com/runpod",
   "jobs_spec": "ashby:runpod",
-  "evidence": "Ashby board has one qualifying posting: 'Software Engineer (Full-Stack)', entry-friendly (some experience, coursework/projects OK, no years-of-experience gate). No 2027 grad-window text; dated 2026-08-03 so counts this cycle. Not sponsoring visas.",
-  "confidence": "high"
+  "evidence": "Ashby API lists Software Engineer (Full-Stack), Remote USA, published 2026-08-03: works alongside experienced engineers, some experience OK, coursework/projects preferred, no years gate. Cannot sponsor visas. Not class-year labeled.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Activision Blizzard",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-18",
-  "last_cycle_basis": "Tracker first-seen date for last cycle's Central Technology rotational-engineer posting (from prior research pass); careers.activisionblizzard.com/early-careers-jobs now shows no such live posting this cycle.",
+  "last_cycle_basis": "Tracker first-seen date for last cycle's Central Technology rotational-engineer posting; careers.activisionblizzard.com shows no such live posting this cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.activisionblizzard.com/early-careers-jobs",
   "jobs_spec": null,
-  "evidence": "wd:activision/wd1/External still returns HTTP 500 (board unreachable via API). Browser pane read of careers.activisionblizzard.com/early-careers-jobs (9 results): all are Summer 2027 internships (SWE, Tech Art, InfoSec, IT, Analytics) or a Shanghai co-op; no full-time new-grad/rotational SWE posting for 2027 yet.",
+  "evidence": "Phenom widget API on careers.activisionblizzard.com: 'engineer' 3 hits (Principal, Senior Expert, Senior); 'rotational', 'graduate', 'new grad' 0. Only 2027 Summer Internships (incl. SWE) posted. No full-time new-grad or rotational SWE yet.",
   "confidence": "medium"
 }

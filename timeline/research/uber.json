@@ -1,19 +1,15 @@
 {
   "company": "Uber",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "closed",
-  "postings": [
-    {"title": "Software Engineer I", "url": "https://jobs.uber.com/en/jobs/160017/", "location": "Seattle, WA",
-     "opened": "on or before 2026-07-09", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
-  ],
-  "last_cycle_opened": "2025-12-18",
-  "last_cycle_basis": "tracker first-seen of job 152427 (\"Graduate Software Engineer 1\", later listed as \"Graduate 2026 Software Engineer 1 - US\"), Seattle/SF/NYC/Sunnyvale",
+  "postings": [],
+  "last_cycle_opened": "2025-08-12",
+  "last_cycle_basis": "jobs.py history: 'Graduate 2025 Software Engineer I, US' San Francisco first seen 2025-08-12, https://www.uber.com/global/en/careers/list/147250/",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
   "jobs_spec": null,
-  "evidence": "Re-checked jobs.uber.com search for 'university graduate' (54 results across pages): all shown listings marked 'Job removed'. Tracker-lead posting 160017 not live. No live new-grad SWE posting found.",
-  "confidence": "medium"
+  "evidence": "jobs.uber.com listing pages in browser show 'Job removed' for every result and no live new-grad SWE found; tracker lead 'Software Engineer I' (first seen 2026-07-09, job 160017) returns 404. A this-cycle posting existed and is gone. Board search is weak, so medium.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

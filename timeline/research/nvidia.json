@@ -1,15 +1,26 @@
 {
   "company": "Nvidia",
   "tier": 1,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
+      "location": "Santa Clara CA; Austin TX; Redmond WA; remote OR/WA",
+      "opened": "on or before 2026-09-29",
+      "date_source": "workday postedOn (Posted Yesterday); tracker first seen 2026-09-28",
+      "deadline": "at least 2026-10-03",
+      "grad_window": "none stated (Bachelor's or Master's CS); title says New College Grad 2026",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-10-16",
   "last_cycle_basis": "tracker first-seen date for 'New Grad 2026: AI and ML Infra Software Engineer, GPU Clusters'",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
   "jobs_spec": "wd:nvidia/wd5/NVIDIAExternalCareerSite",
-  "evidence": "Re-ran full Workday board (165 postings, --all). No live US 2027 new-grad Software/Backend/Full-stack Engineer posting; only a China-based '2027 New College Graduate' listing (non-US) and 2026 leftovers (hardware/ASIC-focused New College Grad roles).",
-  "confidence": "high"
+  "evidence": "Opened DGX Cloud New College Grad posting in browser: Apply present, 'accepted at least until October 3, 2026', no citizenship/clearance text. Title says 2026 but posted Sep 29 2026 (rolling, no class year), so counted open. US 2027 grad SWE posts otherwise hardware; July 2026 SWE new-grad posts (Dynamo-Triton, GPU Clusters etc.) now closed.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

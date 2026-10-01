@@ -1,15 +1,15 @@
 {
   "company": "HubSpot",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-08",
-  "last_cycle_basis": "tracker history: 'Software Engineer' Cambridge MA/Remote, first seen 2025-09-08 (RippleMatch listing, does not offer sponsorship)",
+  "last_cycle_basis": "tracker first seen 'Software Engineer' Cambridge MA/Remote (RippleMatch listing)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.hubspot.com/careers/jobs?department=engineering&office=north-america",
-  "jobs_spec": null,
-  "evidence": "HubSpot's own careers site filters don't apply via URL; its Emerging Talent 'Explore Roles' link goes to a RippleMatch company page listing only 2 jobs, both Co-op (Toronto/Cambridge), no full-time new-grad SWE role live.",
-  "confidence": "medium"
+  "jobs_spec": "gh:hubspotjobs",
+  "evidence": "Greenhouse API (hubspotjobs, 123 postings): engineering roles are VP/Manager/Lead; no entry-level or new-grad SWE in the US. Emerging Talent page lists co-ops only (prior check).",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

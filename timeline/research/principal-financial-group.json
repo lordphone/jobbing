@@ -1,15 +1,15 @@
 {
   "company": "Principal Financial Group",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "previous_result noted an August posting that is now inactive; no confirmed first-party date found this check.",
+  "last_cycle_basis": "unknown; tracker shows ad hoc 'Software Engineer 1 / 2 - Salesforce focused' first seen 2026-08-20 (Des Moines), now closed; no dated new-grad track found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.principal.com",
+  "jobs_page": "https://careers.principal.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Searched careers.principal.com (keyword 'software engineer', Des Moines): only 'Software Engineer Internship - Des Moines, IA (Summer 2027)' (posted 09/14/2026, intern) is live for entry-level; all other SWE listings are Experienced/Sr/III requiring years of experience. No FT new-grad Software Engineer I posting live.",
+  "evidence": "careers.principal.com API 2026-09-30: only Summer 2027 SWE/data internships for students; FT SWE roles are II/III (2+ yrs) with 'not considering applicants that need immigration sponsorship'. Aug 'SWE 1/2' posting gone. Program-less.",
   "confidence": "medium"
 }

@@ -1,15 +1,26 @@
 {
   "company": "DIRECTV",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Product Development Engineer I",
+      "url": "https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD-22516-Gateway-Center-Dr/Product-Development-Engineer-I_R260226",
+      "location": "Clarksburg, MD (hybrid)",
+      "opened": "2026-09-10",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-18",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-09",
-  "last_cycle_basis": "tracker_last_cycle field (lead, not first-party) 2025-08-09",
+  "last_cycle_basis": "Tracker first seen 2025-08-09: IT Software Engineer 1 (El Segundo / remote), now closed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://directv.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:directv/wd1/careers",
-  "evidence": "Checked full Workday board (--all). 'Product Development Engineer I' requires 2-3 years experience (not new grad). Other software engineer postings are Principal-level. No 0-1 yr SWE posting found.",
+  "evidence": "Workday cxs API: Product Development Engineer I live (canApply true), startDate 2026-09-10, endDate 2026-10-18. Builds cloud services and APIs; 'early-to-mid career', asks 2-3 yrs, bachelor's CS. Open under relaxed years rule; no sponsorship or clearance text. Other SWE roles are Principal.",
   "confidence": "medium"
 }

@@ -1,15 +1,18 @@
 {
   "company": "Rolls-Royce (aerospace; Rolls-Royce North America)",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not checked this run",
+  "postings": [
+    {"title": "Junior Machine Learning Engineering", "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142", "location": "Indianapolis, IN", "opened": "2026-09-15", "date_source": "workday startDate", "deadline": null, "grad_window": "Dec 2026 - Jun 2027", "live_verified": "api"},
+    {"title": "Engineering and Technology Graduate Program", "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Engineering-and-Technology-Graduate-Program_JR6157064-1", "location": "Indianapolis, IN", "opened": "2026-09-24", "date_source": "workday startDate", "deadline": "2026-10-05", "grad_window": "Dec 2026 or May 2027", "live_verified": "api"}
+  ],
+  "last_cycle_opened": "2026-01-04",
+  "last_cycle_basis": "tracker first seen: Launch into Control System Configuration Management, Indianapolis (Workday Intern_Graduate)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate",
   "jobs_spec": "wd:rollsroyce/wd3/Intern_Graduate",
-  "evidence": "Full Workday board read (62 postings). The tracker-lead posting (Junior Machine Learning Engineering, Indianapolis, JR6160142, first seen 2026-09-15) is live: requires graduation Dec 2026-June 2027, and 'Work authorization eligibility: To be considered, you must also be a U.S. Citizen.' Confirms previous excluded result; rest of the board is intl internships/co-ops.",
+  "evidence": "Workday API, 62 postings. Both Indianapolis postings say 'To be considered, you must also be a U.S. Citizen'. Graduate program closing date October 5th, 2026.",
   "confidence": "high"
 }

@@ -1,17 +1,36 @@
 {
   "company": "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems", "url": "https://careers.jhuapl.edu/jobs/59654", "location": "Laurel, MD", "opened": "on or before 2026-08-13", "date_source": "tracker first seen", "grad_window": "2027", "live_verified": "browser"}
+    {
+      "title": "2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems",
+      "url": "https://studentcareers-jhuapl.icims.com/jobs/59653/login",
+      "location": "Laurel, MD",
+      "opened": "2026-09-08",
+      "date_source": "careers site create_date",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems",
+      "url": "https://careers.jhuapl.edu/jobs/59654",
+      "location": "Laurel, MD",
+      "opened": "2026-08-25",
+      "date_source": "careers site create_date",
+      "grad_window": "2027",
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting found in tracker history between 2025-07 and 2026-01",
-  "excluded_reason": "citizenship",
+  "last_cycle_opened": "2025-09-04",
+  "last_cycle_basis": "careers site create_date of '2026 PhD Graduate - Algorithm Researcher - AI/ML' (req 57698); 2026 Data/Computer Scientist 57706 on 2025-09-11",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.jhuapl.edu",
   "jobs_spec": null,
-  "evidence": "Opened live posting in browser: requires Interim Secret then Top Secret clearance; 'Eligibility requirements include U.S. citizenship.' All APL new-grad tracks require the same.",
-  "confidence": "high"
+  "evidence": "Opened 2027 PhD Graduate SWE/ML posting 59654 in browser: 'able to obtain an Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Rolling basis, no deadline. Many 2027 Graduate SWE/ML roles (Jul-Sep 2026), all cleared.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

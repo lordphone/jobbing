@@ -1,7 +1,6 @@
 {
   "company": "AMERICAN SYSTEMS",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2026-01-06",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Browsed full current job listing (icims, page 1 of 5, ~50 roles): every Software & Systems Development posting lists a required clearance (Secret, Top Secret, or Top Secret/SCI); one listing explicitly states 'U.S. Citizenship Required for the purposes of obtaining/holding a U.S. security clearance.' Federal government contractor; no unrestricted entry-level SWE track found.",
-  "confidence": "high"
+  "evidence": "iCIMS search read by fetch: live SWE roles are Journeyman/Senior/Staff or 1-3+ yrs C/C++ avionics and state 'Active DoD Secret security clearance' (postings 2026-4974, 2026-4977). Earlier browse: 'U.S. Citizenship Required for the purposes of obtaining/holding a U.S. security clearance.' No entry-level SWE live.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

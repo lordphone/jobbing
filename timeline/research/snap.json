@@ -1,15 +1,15 @@
 {
   "company": "Snap",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2024-09-26",
-  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' and 'Software Engineer - New Grad Engineer - Full Stack', Seattle, WA, first seen 2024-09-26",
+  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' Seattle first seen 2024-09-26 (no clear 2025-26 opening found)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
   "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Re-ran full Workday board (32 postings, --all): no entry-level (Level 3/4 non-ML) SWE roles remain; tracker's iOS/Full Stack Level 4-5 roles present require years of post-grad experience, not new-grad eligible.",
-  "confidence": "high"
+  "evidence": "Ran Workday board (35 postings, --all): no Level 3 / entry SWE live; only L4+ (mid-level). Tracker history shows 'Software Engineer - Backend - Level 3' (L3 = entry) first seen 2026-07-23, now gone, so closed.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

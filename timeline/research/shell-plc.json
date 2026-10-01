@@ -1,19 +1,26 @@
 {
   "company": "Shell plc (Shell USA)",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Shell Graduate Program 2027 - United States", "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Graduate-Program-2027---United-States_R205157-1", "location": "Houston, San Diego, Deer Park, Geismar, New Orleans, Norco, Monaca, Sewaren, Galena Park (TX/LA/CA/PA/NJ)",
-     "opened": "on or before 2026-09-02", "date_source": "workday postedOn",
-     "grad_window": "final year of study or <3 years experience; posting text also mentions Feb/Aug 2026 start months, conflicting with the 2027 title", "live_verified": "api"}
+    {
+      "title": "Shell Graduate Program 2027 - United States",
+      "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Graduate-Program-2027---United-States_R205157-1",
+      "location": "Houston, San Diego, Deer Park, Geismar, New Orleans, Norco, Monaca, Sewaren, Galena Park (TX/LA/CA/PA/NJ)",
+      "opened": "2026-09-02",
+      "date_source": "workday startDate (postedOn shows 28 days ago)",
+      "deadline": "2027-02-01",
+      "grad_window": "final year of study or <3 years experience; text also mentions Feb/Aug 2026 start months, conflicting with the 2027 title",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "on or before 2026-06-13",
-  "last_cycle_basis": "jobs.py history 'shell': Shell Graduate Programme 2026 - UK (Trading and Supply) posted, first seen 2026-06-13; US 2026 program timing assumed similar",
+  "last_cycle_basis": "jobs.py history 'shell': Shell Graduate Programme 2026 - UK (Trading and Supply) first seen 2026-06-13; US 2026 timing assumed similar",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Single US posting covers all functions incl. Information Digital Technologies (software). Title says 2027 but body text says Feb/Aug 2026 start; flagged the conflict. Also requires US citizenship/permanent residency/valid work auth.",
+  "evidence": "Workday API/detail 2026-09-30: US Graduate Program 2027 live, covers all functions incl. Information Digital Technologies; no SWE-specific req. Deadline is the Workday endDate (2027-02-01), not stated on page. UK IDT grad posting is not US.",
   "confidence": "medium"
 }

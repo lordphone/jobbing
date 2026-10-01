@@ -1,15 +1,15 @@
 {
   "company": "Elevance Health",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no entry-level SWE posting or last-cycle record found",
+  "last_cycle_basis": "tracker: Engineer 1, Atlanta, first seen 2026-02-17 (closed); no last-cycle (Jul 2025-Jan 2026) record",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.elevancehealth.com/jobs",
   "jobs_spec": "wd:elevancehealth/wd1/ELV-ET",
-  "evidence": "wd:elevancehealth/wd1/ELV-ET Workday site now returns '0 JOBS FOUND - no job openings at this time' (site may be stale/deprecated). Checked the company's real careers site (careers.elevancehealth.com), keyword search 'software engineer': 14 results, all Distinguished/Senior/Lead engineer roles. No entry-level SWE or new-grad program found.",
+  "evidence": "careers.elevancehealth.com keyword search (works via ?keyword=; 252 jobs): software/developer/engineer hits are Senior/Lead/Distinguished only; 2027 hits are non-SWE summer interns and an infosec co-op. Workday ELV-ET has 1 posting. No entry-level SWE live.",
   "confidence": "medium"
 }

@@ -1,15 +1,36 @@
 {
   "company": "New York Life Insurance Company",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate - Full-Stack AI Engineer",
+      "url": "https://careers.newyorklife.com/careers/job/44173452",
+      "location": "New York, NY",
+      "opened": "2026-08-26",
+      "date_source": "eightfold api t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate - Full Stack Developer",
+      "url": "https://careers.newyorklife.com/careers/job/42989249",
+      "location": "New York, NY",
+      "opened": "2026-07-07",
+      "date_source": "eightfold api t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker hits (jobs.py history); an 'Associate- Software Engineer' Built In listing was removed 2026-02-27 but required Docker/Kubernetes/CI-CD experience, not an 0-1yr entry-level posting",
+  "last_cycle_basis": "no tracker hits (jobs.py history); an 'Associate- Software Engineer' Built In listing removed 2026-02-27 required Docker/Kubernetes/CI-CD experience, not clearly entry-level",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.newyorklife.com/careers",
   "jobs_spec": null,
-  "evidence": "Found the real first-party board: careers.newyorklife.com (Eightfold; corporate careers.newyorklife.com/careers/corporate page has no working link, but the Eightfold board works directly). Keyword search here genuinely filters (result counts changed per query: 19/31/37). Searched 'software engineer new grad', '2027 technology development program', and 'associate software engineer' -- every hit was Corporate VP / Senior Associate level (Tech Data AI Ventures), no 0-1yr entry-level SWE title. Only 2027 entry-level tech item found is a Summer Internship (Software Engineer Intern, TDAV org), not a full-time new-grad program.",
+  "evidence": "Eightfold apply API on own board: Associate - Full Stack Developer (created 2026-07-07, 1+ yrs) and Associate - Full-Stack AI Engineer (created 2026-08-26, 1-3 yrs), both NYC, live. No sponsorship text seen, no deadline stated. Associate-level, not class-year tagged.",
   "confidence": "medium"
 }

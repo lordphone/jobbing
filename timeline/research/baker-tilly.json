@@ -1,15 +1,15 @@
 {
   "company": "Baker Tilly",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-07-04",
-  "last_cycle_basis": "tracker first-seen for Associate Data Engineer (Frisco TX etc.), which is data engineering not core SWE; https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581",
+  "last_cycle_basis": "tracker first seen: Associate Data Engineer (Frisco TX), data engineering not core SWE",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers",
   "jobs_spec": "wd:bakertilly/wd5/BTCareers",
-  "evidence": "Workday API, 90 postings, --all. Only tech-adjacent entry role is Associate Data Engineer (live, posted ~2026-07-04); no title reader would call SWE/backend/full-stack/ML. No new-grad SWE track found.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30, 90 postings, --all: no US entry SWE; Associate Data Engineer (tracker lead) no longer on board. Only 2027 interns, audit/tax associates; Bangalore test-automation associate is non-US.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

@@ -1,15 +1,15 @@
 {
   "company": "Renaissance Technologies",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-06",
-  "last_cycle_basis": "tracker_last_cycle from earlier research",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker_last_cycle 2026-01-06 (from earlier research; not re-confirmed)",
   "jobs_page": "https://www.rentec.com/Careers.action?jobs=true",
   "jobs_spec": null,
-  "evidence": "Corrected wrong worklist jobs_spec (gh:renaissancelearning-nam is a different company, Renaissance Learning). Real board rentec.com/Careers.action lists Data/Financial/Real-Time/Research Programmer roles requiring 'a degree' with no years-of-experience floor, but none labeled new-grad or dated as 2027-cycle.",
-  "confidence": "medium"
+  "evidence": "Browser pane rentec.com/Careers.action (13 roles): Data, Real-Time Trading, Financial Infrastructure, Research Infrastructure Programmer are evergreen, ask for a degree and no years floor, but none is labeled new-grad or entry-level, no dates, no grad year. Judged not_yet; possible fit for grads.",
+  "confidence": "low",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

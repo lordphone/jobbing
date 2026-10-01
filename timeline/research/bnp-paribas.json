@@ -1,15 +1,26 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 - Full Time Assistant Vice President - Corporate Functions, Analytics Lab (Machine Learning Engineer)",
+      "url": "https://group.bnpparibas/en/careers/job-offer/2027-full-time-assistant-vice-president-corporate-functions-analytics-lab-machine-learning-engineer",
+      "location": "Jersey City, NJ",
+      "opened": "on or before 2026-08-17",
+      "date_source": "page text (last update 17.08.2026)",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Jun 2027 (Master's)",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
+  "last_cycle_basis": "unknown; not found in tracker history. Prior file noted a Montreal 'IT Analyst - Graduate' (Dec 2025-Jun 2026 window), not US.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "Checked the 'IT Analyst - Graduate' posting directly: it is a Montreal, Canada role (not US), grad window Dec 2025-June 2026 (last cycle), and already filled. WebSearch shows 2027 Full Time Analyst postings for Global Banking/Strategy in the US, but none for Technology; full-time US tech hires appear to come via internship conversion.",
-  "confidence": "medium"
+  "evidence": "Searched group.bnpparibas job offers for 2027 full time; opened the Jersey City Graduate Programme ML Engineer posting: Apply button, Master's, grad Dec 2026-Jun 2027, base $150k, no citizenship/sponsorship text. 2027 Technology summer analyst internship not counted.",
+  "confidence": "high"
 }

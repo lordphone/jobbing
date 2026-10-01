@@ -1,15 +1,15 @@
 {
   "company": "CIBC",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-03-23",
-  "last_cycle_basis": "prior apprentice posting 2026-03-23 (no sponsorship)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none in 2025-07 to 2026-01; earlier Software Engineer I and apprentice roles (Chicago) posted Mar-Apr 2026",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://cibc.wd3.myworkdayjobs.com/search",
   "jobs_spec": "wd:cibc/wd3/search",
-  "evidence": "Workday board (Chicago, US): only '2027 Summer Intern - Software Engineering' and '2027 Spring Term Software Engineer Co-op' are live for the 2027 cycle. No full-time Software Engineer I / new-grad posting currently open.",
-  "confidence": "medium"
+  "evidence": "Workday (100): US SWE roles are Sr Manager/Lead; Chicago 2027 Summer Intern - Software Engineering is an internship; US 2027 Analyst I programs are banking. Earlier Software Engineer I (Chicago, 2026-04) is closed; searching 'Software Engineer I' finds none.",
+  "confidence": "high"
 }

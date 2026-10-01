@@ -1,15 +1,15 @@
 {
   "company": "AQR",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting found in tracker history",
   "jobs_page": "https://careers.aqr.com",
   "jobs_spec": "gh:aqr",
-  "evidence": "gh:aqr board --all (51 postings) has 2027 Engineering Summer Analyst (internship only, Greenwich CT); US full-time Engineering roles are Associate/VP level, no entry-level new-grad SWE track in the US (engineering associate roles are Bengaluru).",
-  "confidence": "medium"
+  "evidence": "gh:aqr board --all (53): US engineering roles are experienced (RPM Engineering Associate asks 3-5 yrs, specialized engineer 3+, VP roles). Only entry-level tech is 2027 Engineering Summer Analyst (internship). No new-grad SWE role yet.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

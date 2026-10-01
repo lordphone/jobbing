@@ -1,15 +1,15 @@
 {
   "company": "L'Oréal USA",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.loreal.com/en_US/content/USGradOpp",
   "jobs_spec": null,
-  "evidence": "L'Oreal USA has a full-time IT Management Trainee Program (careers.loreal.com/en_US/content/USGradOpp), but the page says 'almost all Management Trainees have had a previous experience with L'Oreal' via the Summer Internship pathway (internship applications open in September). Could not confirm whether a direct new-grad application/posting is open now: the job-search portal is Cloudflare-protected in the browser pane (stuck on 'Just a moment...' challenge) and WebFetch's keyword/location query params on the SuccessFactors-style search did not filter results (999+ generic results returned regardless of query).",
-  "confidence": "low"
+  "evidence": "Fetched careers.loreal.com USGradOpp: IT Management Trainee Program exists but entry is via the Summer Internship (internship, not counted; rolling Aug 15-Sep 30, grads Dec 2026-Jul 2027). No direct new-grad SWE posting found; job search not opened.",
+  "confidence": "medium"
 }

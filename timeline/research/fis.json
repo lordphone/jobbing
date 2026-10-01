@@ -1,15 +1,26 @@
 {
   "company": "FIS",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineering Early Talent Pipeline (FIS University Program, #FISU2027)",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
+      "location": "US FL JAX 347; US GA ATL 201 STE 900; US WI MKE 4900",
+      "opened": "2026-09-10",
+      "date_source": "tracker first seen (workday startDate 2026-09-11; reposted 2026-09-29)",
+      "deadline": null,
+      "grad_window": "2027 FIS University Program, two-year FT program starting 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-10-23",
-  "last_cycle_basis": "tracker: 'Entry Level Technical Systems Analyst - Cloud background required', Jacksonville FL, first seen 2025-10-23 (closest entry-level tech role; no dedicated new-grad SWE tracker hit)",
+  "last_cycle_basis": "tracker: 'Entry Level Technical Systems Analyst', Jacksonville FL, first seen 2025-10-23 (closest entry-level tech role)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://fis.wd5.myworkdayjobs.com/searchjobs",
   "jobs_spec": "wd:fis/wd5/searchjobs",
-  "evidence": "Re-checked Workday board (--all): still only Software Engineer II/Senior/Mainframe roles requiring years of experience; no FT new-grad 'Software Engineer I' live.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30: FIS University Program 'Software Engineering Early Talent Pipeline' (#FISU2027) live; 'Current and future sponsorship are not available'. No end date given. Mainframe SWE I Milwaukee from earlier pass no longer on board. Data Analytics & AI track not SWE.",
+  "confidence": "high"
 }

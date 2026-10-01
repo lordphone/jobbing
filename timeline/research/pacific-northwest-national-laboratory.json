@@ -1,19 +1,26 @@
 {
   "company": "Pacific Northwest National Laboratory (PNNL)",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Early Career Software Engineer", "url": "https://careers.pnnl.gov/jobs/12171", "location": "Richland, WA",
-     "opened": "on or before 2026-09-24", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Early Career Software Engineer",
+      "url": "https://careers.pnnl.gov/jobs/12171",
+      "location": "Richland, WA",
+      "opened": "2026-09-24",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-07",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
-  "excluded_reason": "citizenship / clearance",
+  "last_cycle_basis": "Tracker history shows only postdoc postings (2026-08); no earlier new-grad SWE found.",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.pnnl.gov",
   "jobs_spec": null,
-  "evidence": "Live posting requires 'U.S. Citizenship' and ability to obtain/maintain a federal security clearance: \"Requirements: U.S. Citizenship ... eligibility requirements for access to classified matter\".",
-  "confidence": "high"
+  "evidence": "Opened posting 12171 in browser 2026-09-30: Apply present; Requirements list 'U.S. Citizenship' and 'ability to obtain and maintain a federal security clearance'. Page shows an unlabeled 10/07/2026 4:00PM PST date beside the job fields, likely the closing date.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

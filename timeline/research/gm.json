@@ -1,22 +1,76 @@
 {
   "company": "GM",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers", "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418", "location": "Austin, TX",
-     "opened": "on or before 2026-09-16", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Software Engineer, AV Frameworks – Early Career", "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943", "location": "Sunnyvale, CA",
-     "opened": "on or before 2026-09-09", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
+      "location": "Austin, TX; Warren, MI",
+      "opened": "on or before 2026-09-16",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, AV Frameworks \u2013 Early Career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, AV Data Collection - Early Career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-09-30",
+      "date_source": "workday postedOn",
+      "deadline": "2026-10-09",
+      "grad_window": "completed degree within past 9 months or completing before joining",
+      "live_verified": "api"
+    },
+    {
+      "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn",
+      "deadline": "2026-10-09",
+      "grad_window": "completed degree within past 12 months",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, AV Launch \u2013 Early Career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/oftware-Engineer--AV-Launch---Early-Career_JR-202619888",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn",
+      "deadline": "2026-10-09",
+      "grad_window": "graduation Dec 2025 - Aug 2026 (likely leftover for a 2027 grad)",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer AV HIL Platform and Services (Early Career)",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-09-23",
+      "date_source": "workday postedOn",
+      "deadline": "2026-10-30",
+      "grad_window": "degree completed by June 2026 (leftover)",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-27",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer – Early Career - Software Development'",
+  "last_cycle_basis": "tracker first-seen date for 'Software Engineer \u2013 Early Career - Software Development'",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
   "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
-  "evidence": "Workday board has several live Early Career SWE postings from Sept 2026 (this cycle). One explicitly states 'GM does not provide immigration-related sponsorship for this role.' A separate AV HIL posting requires 'degree by June 2026' (2026-grad leftover, kept separately).",
+  "evidence": "Workday API (145 postings), each posting opened via detail: Early Career SWE roles from Sept 2026 live. Data SWE roles state 'GM does not provide immigration-related sponsorship'. AV Launch and AV HIL grad windows end mid-2026; AV Frameworks, AV Data Collection, ML Systems, Data SWE fit a 2027 grad. Deadlines from API endDate.",
   "confidence": "high"
 }

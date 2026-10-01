@@ -1,15 +1,34 @@
 {
   "company": "Auto-Owners Insurance",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Math Major Software Developer (COBOL, no prior programming experience required)",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008",
+      "location": "Lansing, MI",
+      "opened": "on or before 2026-09-28",
+      "date_source": "workday postedOn (Posted Today; tracker first seen 2025-12-17, reposted)",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer_R_1017",
+      "location": "Lansing, MI",
+      "opened": "on or before 2026-09-28",
+      "date_source": "workday postedOn (Posted Today; tracker first seen 2025-11-01, reposted)",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first-seen date for 'Software Developer' (East Lansing, MI); 'Math Major Software Developer' also recurred 2025-12-17",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://aoins.wd5.myworkdayjobs.com/AutoOwners",
   "jobs_spec": "wd:aoins/wd5/AutoOwners",
-  "evidence": "Live Workday board has an entry-level 'Business Intelligence Developer' req (data/reporting focus, math/stats degree, not SWE) but no 'Software Developer' or 'Math Major Software Developer' posting live. No qualifying SWE role open this cycle yet.",
-  "confidence": "medium"
+  "evidence": "Workday API (70 postings) and CXS detail re-read 2026-09-30: Math Major Software Developer (COBOL, no programming experience needed) and Software Developer both canApply true, no end date, rolling repost. Posting: 'ability to work in the U.S. without current or future sponsorship is a requirement'.",
+  "confidence": "high"
 }

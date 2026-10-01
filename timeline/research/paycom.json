@@ -1,15 +1,15 @@
 {
   "company": "Paycom",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for Paycom",
+  "last_cycle_basis": "No tracker history found for Paycom.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.paycomjobs.com/job-search/",
   "jobs_spec": null,
-  "evidence": "Ran real searches on paycomjobs.com/job-search (location autocomplete + category filter, not just URL params). Oklahoma City, OK: 7 jobs total, category breakdown IT (2: IT Security Administrator - Entry, Datacenter Administrator), Internship (1, Client Success Manager), Sales (4) -- no 'Development' category jobs at all. Grapevine, TX: 7 jobs total, Facilities/HR/Sales only, also 0 Development jobs. No software developer/engineer posting found at either main office.",
-  "confidence": "medium"
+  "evidence": "Called paycomjobs.com admin-ajax get_all_jobs (109 postings, all read, 2026-09-30): mostly Sales, plus recruiters, IT Security Admin, Datacenter Admin (Oklahoma City), ops. Zero developer/engineer postings.",
+  "confidence": "high"
 }

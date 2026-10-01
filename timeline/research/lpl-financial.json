@@ -1,18 +1,39 @@
 {
   "company": "LPL Financial",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "New Grad 2027 - Software Engineer", "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475", "location": "Fort Mill/Charlotte",
-     "opened": "on or before 2026-08-18", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "New Grad 2027 - Data Engineer", "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1", "location": "Fort Mill/Charlotte",
-     "opened": "on or before 2026-08-27", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "New Grad 2027 - Platform Engineer", "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1", "location": "Fort Mill/Charlotte",
-     "opened": "on or before 2026-08-27", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "New Grad 2027 - Software Engineer",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
+      "location": "Fort Mill/Charlotte",
+      "opened": "2026-08-09",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "New Grad 2027 - Data Engineer",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
+      "location": "Fort Mill/Charlotte",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn (Posted 30+ Days Ago)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "New Grad 2027 - Platform Engineer",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1",
+      "location": "Fort Mill/Charlotte",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn (Posted 30+ Days Ago)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'New Grad 2026 - Technology - Software Development' first seen 2025-09-11",
@@ -20,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://lplfinancial.wd1.myworkdayjobs.com/university",
   "jobs_spec": "wd:lplfinancial/wd1/university",
-  "evidence": "Workday 'university' site board lists multiple live New Grad 2027 postings including Software Engineer, Data Engineer, Platform Engineer, Cybersecurity Analyst. detail on Software Engineer posting confirms live and quotes: 'unable to consider candidates who require sponsorship now or in the future.'",
+  "evidence": "Workday API 2026-09-30: New Grad 2027 Software, Data and Platform Engineer live (canApply true). Text: priority application date Sept 21 (passed; rolling, no close date); 'unable to consider candidates who require sponsorship'. Same as prior file.",
   "confidence": "high"
 }

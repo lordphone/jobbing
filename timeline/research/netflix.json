@@ -1,7 +1,6 @@
 {
   "company": "Netflix",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-05",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://explore.jobs.netflix.net/careers",
   "jobs_spec": null,
-  "evidence": "Re-searched explore.jobs.netflix.net for 'new grad' in the US (browser): 'did not match any results', 10 related roles shown are all senior/staff/manager. No 2027 new-grad SWE posting live. Last cycle opened Dec 2025.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-09-30: explore.jobs.netflix.net US search 'new grad' matched nothing; related results are only level 5/6 and manager roles. Last cycle's New Grad SWE appeared 2025-12-05 (small cohort).",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

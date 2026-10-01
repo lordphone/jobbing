@@ -1,15 +1,26 @@
 {
   "company": "SLB",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Early Careers - Digital Technology",
+      "url": "https://careers.slb.com/jobdescription.aspx?id=EF18828-en_US",
+      "location": "Houston, TX",
+      "opened": "2026-08-10",
+      "date_source": "board search index jobposteddate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history for SLB/Schlumberger.",
+  "last_cycle_basis": "unknown; no tracker history for SLB/Schlumberger",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.slb.com/early-careers",
+  "jobs_page": "https://careers.slb.com/job-listing",
   "jobs_spec": null,
-  "evidence": "Confirmed an Early Careers 'Graduates' program with a Technology track (digital/engineering/manufacturing), but it is an interest-registration pipeline (\"send us your details... we'll hold onto them\"), not a live requisition; the vacancy search page (careers.slb.com/search-results) 404s in this session so a live 2027 SWE posting could not be confirmed. Only a general 'C#/.NET Software Engineer' (experience level unknown) was seen on the homepage.",
-  "confidence": "low"
+  "evidence": "SLB's own job-search index (Coveo, US filter, 226 jobs) lists live 'Early Careers - Digital Technology' (Houston, posted 2026-08-10) hiring graduates as Back End/Front End/Full Stack SWE, ML, AI, QA engineers. Pipeline-style req; no citizenship/sponsorship line, no deadline, no class year.",
+  "confidence": "medium"
 }

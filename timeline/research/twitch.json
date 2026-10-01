@@ -1,15 +1,36 @@
 {
   "company": "Twitch",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I, Discovery",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+      "location": "San Francisco, CA",
+      "opened": "2026-07-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I, Payments",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
+      "location": "San Francisco, CA",
+      "opened": "2026-08-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-07-28",
-  "last_cycle_basis": "tracker first-seen date for Software Development Engineer I - Frontend & Mobile, SF",
+  "last_cycle_basis": "tracker first-seen: Software Development Engineer I - Frontend & Mobile, SF",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/twitch",
   "jobs_spec": "gh:twitch",
-  "evidence": "3 open 'Software Engineer I' postings (Payments, Discovery, Memberships) all require '1+ years as a software engineer' in the posting text, so they don't count as new-grad per skill rules.",
+  "evidence": "Greenhouse API 2026-09-30: two live Software Engineer I postings (SF) published 2026-07-14 and 2026-08-14; ask 1+ years, bachelor CS; no deadline, citizenship or sponsorship bar found.",
   "confidence": "high"
 }

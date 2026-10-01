@@ -1,15 +1,15 @@
 {
   "company": "Verizon",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
+  "last_cycle_basis": "no new-grad SWE entry in tracker history for 2025-07 to 2026-01; unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
   "jobs_spec": "wd:verizon/wd12/verizon-careers",
-  "evidence": "Full board (81 postings, --all) has no live US 2027 new-grad SWE posting; 'Graduate' program postings found (Network Engineer, QA Tester) are all in Limerick, Ireland, not the US. All US software/AI roles found are Senior/Principal/Distinguished level.",
-  "confidence": "medium"
+  "evidence": "Workday API searches (software engineer, engineer I, early career, new grad, developer, data scientist, ML): US software roles are Senior/Principal; only entry items are Graduate roles in Limerick, a Junior Data Security Engineer (Alpharetta, security not SWE) and Summer 2027 internships. No US new-grad SWE live.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

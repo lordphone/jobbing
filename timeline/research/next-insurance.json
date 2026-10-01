@@ -1,15 +1,15 @@
 {
   "company": "Next Insurance",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No history match found via tracker search; no first-party evidence of a US new-grad cycle.",
+  "last_cycle_basis": "No US new-grad posting in tracker history; only the UpNEXT graduate program (Kfar Saba, Israel).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nextinsurance66",
   "jobs_spec": "gh:nextinsurance66",
-  "evidence": "Checked full Greenhouse board (32 postings). Only 'Graduate' program (UpNEXT) is in Kfar Saba, Israel, not US. All US (Boston/Palo Alto) SWE roles are senior (7+ yrs). No US entry-level SWE.",
+  "evidence": "Greenhouse API (31 postings) rechecked 2026-09-30. Only new-grad roles are two UpNEXT Graduate SWE postings (published 2026-08-27) in Kfar Saba, Israel; no US entry-level SWE.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Gartner",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-28",
-  "last_cycle_basis": "carried from prior research: tracker/Simplify entry for a 2026-cycle posting",
+  "last_cycle_basis": "tracker: Data Analyst - Graduates, Stamford/Irving (analyst, not SWE); Data Analyst 2026 grads also seen 2025-09-14",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://gartner.wd5.myworkdayjobs.com/EXT",
   "jobs_spec": "wd:gartner/wd5/EXT",
-  "evidence": "Workday API, --all. US grad-track postings are Sales, Account Manager, Client Success, and 'Associate Data Scientist - Spring 2027 Master's level graduates' (requires Master's, data science not SWE). All Software Engineer titles in US/Gurgaon/Barcelona are senior/director level. No new-grad SWE.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-09-30, 89 postings, --all: US 2027 grad postings are sales, client success, Data Analyst and Associate Data Scientist (Spring 2027 Master's; data science, not SWE; deadline Oct 9 per posting). Software engineer titles senior only.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

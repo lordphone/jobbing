@@ -1,19 +1,36 @@
 {
   "company": "General Dynamics",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer 1", "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1", "location": "Annapolis Junction, MD",
-     "opened": "on or before 2026-08-26", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer \u2013 Entry Level",
+      "url": "https://careers-gdms.icims.com/jobs/74471/job",
+      "location": "Manassas, VA",
+      "opened": "2026-08-21",
+      "date_source": "page text (Posted Date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer 1",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
+      "location": "Annapolis Junction, MD",
+      "opened": "on or before 2026-08-29",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
-  "last_cycle_opened": "2025-09-10",
-  "last_cycle_basis": "tracker first-seen date, kept from previous research file",
+  "last_cycle_opened": "2025-08-15",
+  "last_cycle_basis": "tracker first seen: GDMS 'Entry Level Software Engineer' Pittsburgh PA (careers-gdms.icims.com/jobs/67621)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:gdit/wd5/External_Career_Site",
-  "evidence": "'Software Engineer 1' posting: 'Clearance Level Must Currently Possess: Top Secret SCI + Polygraph ... US Citizenship Required: Yes'. All other SWE roles on board are TS/SCI-cleared or senior. Only 2027 postings on the board are internships.",
-  "confidence": "high"
+  "evidence": "GDMS iCIMS posting 74471 (Manassas, posted 2026-08-21) has Apply button; text: 'citizenship is required', Secret clearance obtainable. GDIT Workday entry SWE postings require TS/SCI w/ poly and citizenship. No deadline stated.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

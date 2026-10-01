@@ -1,15 +1,15 @@
 {
   "company": "HARMAN",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker history: 0 postings found for Harman (from previous file; not re-checked this run)",
+  "last_cycle_basis": "tracker history shows no Harman postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://harman.wd3.myworkdayjobs.com/harman",
   "jobs_spec": "wd:harman/wd3/harman",
-  "evidence": "Full Workday board re-read (112 postings). US SWE-related postings remain senior/principal level (Novi MI, Richardson TX, Stamford CT). Entry-level tracks that exist are outside the US: 'Associate Engineer - AI/ML with Python' (Bangalore) and 'Duales Studium' dual-study programs (Karlsbad, Germany). No US new-grad SWE track found. Confirms previous no_program_found result.",
-  "confidence": "medium"
+  "evidence": "Workday API (111 postings). US software roles (Novi MI) are principal/architect; entry-level Associate Engineer roles are India. No US new-grad SWE.",
+  "confidence": "high"
 }

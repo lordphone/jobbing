@@ -1,15 +1,15 @@
 {
   "company": "Best Buy",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "checked": "2026-09-30",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker/history evidence found for Best Buy US new-grad SWE",
+  "last_cycle_basis": "unknown; no tracker evidence for Best Buy US new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bestbuy.com/bby",
   "jobs_spec": null,
-  "evidence": "jobs.bestbuy.com is Best Buy's own custom board (not Workday; wd:bestbuycanada/wd3/BestBuyCA_Career from the prior pass is the Canada board, a different company entity). Searched jobs.bestbuy.com US-wide for 'software engineer': zero results returned. No corporate tech/SWE new-grad program found on the US board.",
-  "confidence": "medium"
+  "evidence": "jobs.bestbuy.com search never rendered in browser pane (stuck loading, pane shared); WebFetch showed no listings; web search found only SWE II (5 yrs) and internships. Could not read the US board; retry.",
+  "confidence": "low"
 }

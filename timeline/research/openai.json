@@ -1,19 +1,26 @@
 {
   "company": "OpenAI",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, Applied Emerging Talent (2027)", "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511", "location": "San Francisco",
-     "opened": "2026-09-14", "date_source": "ashby publishedAt",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer, Applied Emerging Talent (2027)",
+      "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+      "location": "San Francisco",
+      "opened": "2026-09-14",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-18",
-  "last_cycle_basis": "jobs.py history: 2025-09-18 first-seen posting for Software Engineer, Applied Emerging Talent (offers sponsorship), closed by next cycle",
+  "last_cycle_basis": "jobs.py history: Software Engineer, Applied Emerging Talent first seen 2025-09-18 (offers sponsorship)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/openai",
   "jobs_spec": "ashby:openai",
-  "evidence": "ashby board + detail confirm live 2027 Applied Emerging Talent SWE posting, 0-1 yrs exp, no citizenship/clearance restriction found; history shows last cycle offered sponsorship.",
+  "evidence": "Ashby API (832 postings) lists the 2027 Applied Emerging Talent SWE role, published 2026-09-14; detail shows 0-1 years, no citizenship, clearance or deadline line.",
   "confidence": "high"
 }

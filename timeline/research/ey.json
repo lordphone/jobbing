@@ -1,15 +1,26 @@
 {
   "company": "EY",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "USA - Tax - Tax Technology and Transformation (TTT) - Data Engineering - Analyst",
+      "url": "https://eyglobal.yello.co/jobs/NLIPdsEt-CcUjetuNNeYlQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "location": "Chicago, IL; New York, NY",
+      "opened": "on or before 2026-09-14",
+      "date_source": "tracker first seen 2026-09-14",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q",
   "jobs_spec": null,
-  "evidence": "Reached EY's own Yello early-careers board and filtered to United States (91 open US postings, mostly Assurance/Tax/Technology Risk Analyst and Intern roles). Keyword searches for 'software engineer' and 'developer' within the US filter both return 0 results. EY's US entry-level tech-adjacent track is Technology Consulting/Technology Risk Analyst (audit/advisory-flavored), not a software-engineer-titled program, so no qualifying new-grad SWE posting found.",
-  "confidence": "medium"
+  "evidence": "Opened Yello req 1744553 (Tax TTT Data Engineering Analyst, Chicago/NY): Apply live, ETL/pipelines/SQL/Python, 'Immigration sponsorship may be available', no deadline stated. Searched US early-careers board: no software-titled roles. Borderline data-engineering role.",
+  "confidence": "low"
 }

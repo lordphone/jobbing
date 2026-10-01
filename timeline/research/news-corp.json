@@ -1,7 +1,7 @@
 {
   "company": "News Corp",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://dowjones.wd1.myworkdayjobs.com/News_Corp_Careers",
   "jobs_spec": "wd:dowjones/wd1/News_Corp_Careers",
-  "evidence": "newscorp.com still blocked/unreachable, but found the real board: it is Workday, tenant 'dowjones', site 'News_Corp_Careers' (this is the shared News Corp / Dow Jones corporate board). jobs.py board with this spec, plus a broader 'software engineer'/'new york'/'united states' query, returned only ~13 total postings: all Bangalore senior engineer/analyst roles, NYC VP/Director/editorial roles, or Dallas broadcast production roles. No software engineer or new-grad-track posting of any kind, US or otherwise. Subsidiaries (WSJ, NY Post, HarperCollins) hire on separate boards not checked here.",
+  "evidence": "Workday API 2026-09-30: 3 postings, all Bangalore senior roles. No US SWE or new-grad track. Subsidiaries (WSJ, NY Post, HarperCollins) hire on separate boards, not checked.",
   "confidence": "medium"
 }

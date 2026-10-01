@@ -1,12 +1,19 @@
 {
   "company": "Analog Devices",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Associate Embedded Software Engineer", "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131", "location": "US, MA, Wilmington",
-     "opened": "on or before 2026-09-15", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
+      "location": "US, MA, Wilmington; US, CA, San Jose, Rio Robles; US, NC, Durham",
+      "opened": "on or before 2026-09-15",
+      "date_source": "workday postedOn",
+      "grad_window": "Job Req Type: Graduate Job",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-12-23",
   "last_cycle_basis": "tracker first-seen for Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), closed by this run's history check",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:analogdevices/wd1/External",
-  "evidence": "Workday API: 'Associate Embedded Software Engineer' (Job Req Type: Graduate Job), Wilmington MA, posted on/before 2026-09-15, live. Associate ML Engineer wants 2-5 yrs, excluded.",
-  "confidence": "high"
+  "evidence": "Workday API detail: 'Associate Embedded Software Engineer' (Wilmington MA, 3 locations), 'Graduate Job', posted ~15 days ago (start 2026-09-15), live, no end date. Export-licence note for non-US persons is a review, not a bar. FY27 grad SWE roles are Ireland/UK. Embedded focus, so medium.",
+  "confidence": "medium"
 }

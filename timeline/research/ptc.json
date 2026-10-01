@@ -1,15 +1,26 @@
 {
   "company": "PTC",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Enterprise Integration Engineer",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Associate-Enterprise-Integration-Engineer_JR112677",
+      "location": "Boston, MA, USA",
+      "opened": "on or before 2026-09-02",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-11-04",
   "last_cycle_basis": "Tracker history: 'Associate Software Engineer', Portland ME, first seen 2025-11-04 (matches previous tracker_last_cycle).",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://ptc.wd1.myworkdayjobs.com/ptc",
   "jobs_spec": "wd:ptc/wd1/ptc",
-  "evidence": "Workday board (49 postings, --all) has no live US Associate/Junior Software Engineer role now. History shows this-cycle leftovers (Junior Software Engineer, Foster City CA 2026-05-07; Associate Software Engineer, Remote USA 2026-05-27) both closed already.",
+  "evidence": "Workday API: Associate Enterprise Integration Engineer Boston live (canApply true, start 2026-09-02); builds integrations/data pipelines in Java/Python/Boomi, borderline software role; no sponsorship. Cloud Services Ops Associate Engineer is ops and needs clearance.",
   "confidence": "medium"
 }

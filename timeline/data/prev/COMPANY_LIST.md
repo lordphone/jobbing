@@ -1,6 +1,6 @@
 # Company List
 
-1733 companies.
+1764 companies.
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
@@ -148,7 +148,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - AI21 Labs
 - Uniphore
 
-## 3. Late-stage / unicorns (175)
+## 3. Late-stage / unicorns (178)
 
 - Stripe
 - Databricks
@@ -325,8 +325,11 @@ A company owned by another company gets its own entry if it hires under its own 
 - Highspot
 - Egnyte
 - project44
+- Jerry
+- Truveta
+- Citizen Health
 
-## 4. Quant / trading (68)
+## 4. Quant / trading (67)
 
 - Jane Street
 - Citadel
@@ -390,14 +393,13 @@ A company owned by another company gets its own entry if it hires under its own 
 - Vatic Labs
 - Arrowstreet Capital
 - ExodusPoint
-- Aquatic Capital
 - Graham Capital Management
 - Group One Trading
 - Simplex Trading
 - XR Trading
 - Magnetar Capital
 
-## 5. Banks, payments & financial data (175)
+## 5. Banks, payments & financial data (178)
 
 - JPMorgan Chase
 - Goldman Sachs
@@ -574,8 +576,11 @@ A company owned by another company gets its own entry if it hires under its own 
 - Dave
 - Varo Bank
 - EarnIn
+- Western Alliance
+- Prelim
+- Global Lending Services
 
-## 6. Enterprise software & security (233)
+## 6. Enterprise software & security (236)
 
 - SAP
 - ServiceNow
@@ -661,7 +666,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Smartsheet
 - PagerDuty
 - RingCentral
-- Domo
+- Progress Software
 - Alteryx
 - Cloudera
 - Red Hat
@@ -810,6 +815,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - Socure
 - Sift
 - Forter
+- Quantcast
+- minware
+- DAT Freight & Analytics
 
 ## 7. Chips, hardware & infrastructure (150)
 
@@ -964,7 +972,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Cognex
 - Rigetti Computing
 
-## 8. Auto, aerospace & defense (139)
+## 8. Auto, aerospace & defense (146)
 
 - Waymo
 - Zoox
@@ -1105,6 +1113,13 @@ A company owned by another company gets its own entry if it hires under its own 
 - Ursa Major
 - Apex Space
 - SLAC National Accelerator Laboratory
+- Latitude AI
+- Torch Technologies
+- Wyetech
+- Captivation
+- Markon
+- Nominal
+- Technology Service Corporation (TSC)
 
 ## 9. Consumer, media, gaming & retail tech (315)
 
@@ -1347,7 +1362,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - ETS (Educational Testing Service)
 - SimpliSafe
 - Wyze Labs
-- Zappos (Amazon)
 - NFL (National Football League)
 - Brave Software
 - DuckDuckGo
@@ -1423,8 +1437,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - Zeta Global
 - Playtika
 - Amadeus (US)
+- NewsBreak
 
-## 10. Consulting & IT services (77)
+## 10. Consulting & IT services (81)
 
 - Accenture
 - Deloitte
@@ -1503,8 +1518,12 @@ A company owned by another company gets its own entry if it hires under its own 
 - Mphasis
 - Concentrix
 - L.E.K. Consulting
+- SMX
+- AMERICAN SYSTEMS
+- Prosidian Consulting
+- Analytic Partners
 
-## 11. Traditional companies with large tech orgs (263)
+## 11. Traditional companies with large tech orgs (275)
 
 - Verizon
 - AT&T
@@ -1769,3 +1788,15 @@ A company owned by another company gets its own entry if it hires under its own 
 - Oklo
 - TAE Technologies
 - CommonSpirit Health
+- Uline
+- American Electric Power
+- DaVita
+- Genuine Parts Company
+- Auto-Owners Insurance
+- Berkshire Hathaway Energy
+- Xylem
+- Wellmark
+- BlueCross BlueShield of South Carolina
+- World Kinect
+- Acuity Inc.
+- AAA Club Alliance

@@ -1,15 +1,15 @@
 {
   "company": "LG Electronics",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history checked; none found on current board",
+  "last_cycle_basis": "tracker history shows no SWE new-grad (only bilingual IT associate 2025-10)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lgelectronics",
   "jobs_spec": "gh:lgelectronics",
-  "evidence": "Greenhouse board, 139 postings reviewed (--all). Only 'Backend/ML Engineer' looked relevant but requires 3-7 yrs experience. No qualifying entry-level SWE posting.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (136 postings): only software role is Backend/ML Engineer (Santa Clara, 2026-08-18), 3-7 yrs, senior-level. Entry-titled roles (Validation Engineer I contractor, etc.) are not software.",
+  "confidence": "medium"
 }

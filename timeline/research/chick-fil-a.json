@@ -1,15 +1,15 @@
 {
   "company": "Chick-fil-A",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows a 'Digital Fellow' posting 2026-08-17 (closed), not a standard SWE new-grad title.",
+  "last_cycle_opened": "2026-08-17",
+  "last_cycle_basis": "Tracker first seen 2026-08-17 for Digital Fellow (2-yr rotational, software engineering or analyst tracks); posting 20298 now 404 (prior run).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.chick-fil-a.com/corporate/jobs",
   "jobs_spec": null,
-  "evidence": "iCIMS board not machine-readable; searched keyword filters, board still shows same 35 total postings as prior check (2026-09-24), none SWE/tech entry-level. Early-talent page previously confirmed internship/co-op only.",
+  "evidence": "iCIMS board in browser: 'software' gives 15 results (Sr Lead roles, Summer 2027 interns); 'fellow' and 'associate' return 0. Digital Fellow (req 20298, tracker 2026-08-17) is gone, so a this-cycle posting closed. Class year unconfirmed.",
   "confidence": "medium"
 }

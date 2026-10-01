@@ -1,15 +1,26 @@
 {
   "company": "Omnicom Group (merged with IPG in 2025)",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Credera Technology Solutions Analyst",
+      "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713",
+      "location": "Addison, TX; Denver; Atlanta; New York; Houston; Chicago",
+      "opened": "2026-08-31",
+      "date_source": "tracker first seen (workday startDate 2026-09-01)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found.",
+  "last_cycle_basis": "No tracker or first-party record found for last cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://interpublic.wd5.myworkdayjobs.com/omc",
   "jobs_spec": "wd:interpublic/wd5/omc",
-  "evidence": "Checked full Workday board (--all). Only 'Credera Experience Design Analyst (Design Engineering)' (Addison, TX) is entry-level and US-based, but it's design, not SWE. All actual software/data engineer roles are senior or UK-based. No SWE new-grad posting.",
+  "evidence": "Workday cxs API: Credera Technology Solutions Analyst, canApply true, entry-level, bachelor's CS, $80-85k, duties include SDLC as engineer or analyst, building apps and pipelines; US work authorization only, no stated deadline. Consulting-flavored, so medium. Design Engineering Analyst is front-end but design-track; dropped.",
   "confidence": "medium"
 }

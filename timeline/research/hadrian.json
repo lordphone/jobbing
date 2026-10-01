@@ -1,15 +1,15 @@
 {
   "company": "Hadrian",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "excluded",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
-  "excluded_reason": "itar / us person",
+  "last_cycle_opened": "2026-06-18",
+  "last_cycle_basis": "tracker first-seen: 'Fullstack Software Engineer New Grad' (LA), Ashby, now closed",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/hadrian-automation",
   "jobs_spec": "ashby:hadrian-automation",
-  "evidence": "Checked full Ashby board (147 postings). 'All Levels: Backend Software Engineer' posting (which would include new grads) states: 'you must be a U.S. citizen or national, lawful permanent resident, protected individual...' per ITAR.",
-  "confidence": "high"
+  "evidence": "Ashby board: new-grad Fullstack SWE posted 2026-06-18 is closed; live SWE roles are 'All Levels' or experienced; SWE Intern only. ITAR text: citizen/LPR 'or eligible to obtain the required authorizations' from State Dept.",
+  "confidence": "medium"
 }

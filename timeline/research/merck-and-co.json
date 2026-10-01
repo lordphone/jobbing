@@ -1,15 +1,26 @@
 {
   "company": "Merck & Co. (MSD)",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Future Talent Program - IT Emerging Talent Rotational (ETR) Program (Hybrid)",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Super-Week---IT-Emerging-Talent-Rotational--ETR--Program--Hybrid-_R404472-1",
+      "location": "USA - New Jersey - Rahway; USA - Pennsylvania - North Wales (Upper Gwynedd); USA - Pennsylvania - West Point",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-09",
+      "grad_window": "start July 2027; requires 1 prior tech internship",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no qualifying US new-grad SWE posting found in tracker history 2025-07 to 2026-01; closest earlier match was Junior Data Engineer (San Jose) 2024-10-25, prior cycle",
+  "last_cycle_basis": "tracker first seen 2024-10-25 Junior Data Engineer (two cycles ago); no 2025 record",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://msd.wd5.myworkdayjobs.com/searchjobs",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Checked full Workday board (--all) and history. Live 2027 Future Talent Program - IT Emerging Talent Rotational (ETR) Program is general IT (accepts HS diploma + 2yr experience, no_sponsorship), not a SWE-specific track. Software Engineer titles on the live board are India/Ireland only; the one US 'Software Engineer - AI Development' posting (Aug 2026) is now closed.",
-  "confidence": "medium"
+  "evidence": "Read posting via Workday CXS API: live, entry-level 2-yr IT rotational (software development among rotations), 'No Visa Sponsorship', Workday endDate 2026-10-09. Posted 8 days ago. Same status as before, deadline added.",
+  "confidence": "high"
 }

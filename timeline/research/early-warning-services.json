@@ -1,15 +1,26 @@
 {
   "company": "Early Warning Services (Zelle)",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2025-11-21",
-  "last_cycle_basis": "worklist tracker_last_cycle hint (2025-11-21)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "checked": "2026-09-30",
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Software Engineer - Java, Paze",
+      "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
+      "location": "Scottsdale AZ / San Francisco / Chicago",
+      "opened": "2026-09-28",
+      "date_source": "tracker first seen (Workday startDate 2026-09-29)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker: Software Development Engineer 1 - RPA first seen 2026-03-30 (closed); Java SWE was contract. No confirmed Jul 2025-Jan 2026 new-grad SWE.",
+  "excluded_reason": "citizenship",
+  "no_sponsorship": true,
   "jobs_page": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers",
   "jobs_spec": "wd:earlywarning/wd5/earlywarningcareers",
-  "evidence": "Workday API board (--all) shows only Staff/Sr Staff/Principal engineering roles. No entry-level or new-grad SWE posting.",
+  "evidence": "Workday API: entry-level Software Engineer - Java, Paze live (no previous experience required) but posting says 'Must US Citizen or US National' and no visa sponsorship. Other roles senior.",
   "confidence": "high"
 }

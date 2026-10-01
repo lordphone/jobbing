@@ -1,15 +1,15 @@
 {
   "company": "Flex",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board evidence found",
+  "last_cycle_basis": "Tracker 2025-11-20 Flex entries belong to getflex.com fintech, not Flex Ltd; not counted",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://flextronics.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:flextronics/wd1/Careers",
-  "evidence": "Corrected jobs_spec: previous 'gh:flex' points to getflex.com (a rent-payment fintech), not Flex Ltd (electronics manufacturer). Checked real Flex Ltd Workday board: US early-career postings are all mechanical/quality/robotics/automation co-ops, no SWE new-grad or co-op role found.",
-  "confidence": "medium"
+  "evidence": "Flextronics Workday (143, --all): US early-career roles are Spring 2027 co-ops (mechanical, automation, quality) and non-SWE junior roles; Associate Software Engineer postings are India only. Tracker 'flex' hits are getflex.com, a different company.",
+  "confidence": "high"
 }

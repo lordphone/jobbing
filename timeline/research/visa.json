@@ -1,7 +1,7 @@
 {
   "company": "Visa",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://visa.wd5.myworkdayjobs.com/Visa",
   "jobs_spec": "wd:visa/wd5/Visa",
-  "evidence": "Tracker showed 'Software Engineer (New College Grad) - 2027' postings for Austin/Bellevue/Foster City first seen 2026-09-16; current Workday board scan no longer lists them, and browser-verified the Austin posting URL now returns 'The page you are looking for doesn't exist.' A this-cycle posting existed and closed within ~11 days.",
+  "evidence": "Workday cxs search 'new college grad' returns 0, '2027' returns only PhD interns and a finance role. Tracker's 2027 SWE New College Grad postings (Austin/Bellevue/Foster City, first seen 2026-09-16) are gone; prior check saw Austin page 404. Board (--all) has only experienced US SWE.",
   "confidence": "high"
 }

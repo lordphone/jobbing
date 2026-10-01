@@ -1,15 +1,15 @@
 {
   "company": "Target",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "unknown; no tracker history for new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://target.wd5.myworkdayjobs.com/targetcareers",
   "jobs_spec": "wd:target/wd5/targetcareers",
-  "evidence": "Checked Workday board with 'software' and new-grad/2027 filters. No software engineer postings at all showed up (only store/ops/merchandising internships and ETL roles); no new-grad SWE track live.",
+  "evidence": "Workday board (113) read in full: US engineer roles are Senior/Lead/Principal; India roles; Summer 2027 non-SWE internships. A web search showed a Minneapolis entry-level 'Engineer' listing from Aug 2026, but it is not on the board now.",
   "confidence": "medium"
 }

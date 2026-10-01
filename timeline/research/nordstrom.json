@@ -1,15 +1,15 @@
 {
   "company": "Nordstrom",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
-  "last_cycle_basis": "tracker first-seen date for Engineer 1, Full Stack, Store POS+ Team, Seattle WA",
+  "last_cycle_basis": "tracker first-seen: Engineer 1, Full Stack, Store POS+ Team, Seattle WA",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
   "jobs_spec": "wd:nordstrom/wd501/nordstrom_careers",
-  "evidence": "This-cycle 'Engineer 1, AI Agentic Solutions' (tracker first-seen 2026-07-30) is no longer on the board (only a Senior Engineer 2 version remains); full board check (--all) shows only Senior/Principal 'Engineer 2'/'Sr.' titles, no Engineer 1 postings live now.",
-  "confidence": "high"
+  "evidence": "Workday board (60 postings, --all): only Engineer 2/Senior titles; no Engineer 1 live. This-cycle 'Engineer 1, AI Agentic Solutions' (tracker first seen 2026-07-30) is gone, so closed. Same as prior file.",
+  "confidence": "medium"
 }

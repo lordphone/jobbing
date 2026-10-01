@@ -1,15 +1,15 @@
 {
   "company": "DuPont de Nemours",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://dupont.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:dupont/wd5/jobs",
-  "evidence": "Checked full board (51 postings, --all). 2027 entry-level programs are for Engineering (chemical/mechanical/electrical) and Supply Chain only; no software-engineering track. Confirms prior no_program_found.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-09-30 (49 postings, --all): '2027 Full-time - Engineering Opportunities' is an operations-leadership engineering program (no sponsorship), not software; supply chain, co-op and intern postings. Only digital role is Digital Innovation Operations Manager. No SWE track.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

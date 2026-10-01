@@ -1,15 +1,26 @@
 {
   "company": "MITRE",
-  "tier": 8,
-  "checked": "2026-09-27",
-  "status": "excluded",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (early-career, full stack)",
+      "url": "https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Software-Engineer_R117614-1",
+      "location": "McLean, VA; Bedford, MA",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate (postedOn Posted 6 Days Ago)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
-  "excluded_reason": "clearance",
-  "no_sponsorship": true,
+  "last_cycle_basis": "unknown; no tracker history",
   "jobs_page": "https://careers.mitre.org/us/en",
-  "jobs_spec": null,
-  "evidence": "FFRDC doing national-security work. Careers site: MITRE will not sponsor work authorization, and clearance-eligible roles need US citizenship/PR. No general-population SWE track found. Re-confirmed via web search; no contradicting evidence.",
-  "confidence": "medium"
+  "jobs_spec": "wd:mitre/wd5/MITRE",
+  "evidence": "Workday CXS posting R117614 opened directly: posted true, canApply true, early-career 0-2 yrs, clearance 'None', no citizenship line, no deadline. Board listing endpoint returned 0 this run (could not enumerate). Sibling Associate Embedded SWE (R115627, SECRET) noted last run, not re-verified.",
+  "confidence": "medium",
+  "tier": 8,
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

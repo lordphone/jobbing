@@ -1,0 +1,58 @@
+% Together AI — Software Engineer, New Grad (2027)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Large Language Model Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Algorithms, Computer Architecture
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's production Python FastAPI / MongoDB backend from its first commit to 89 endpoints on AWS EKS, with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest CI gate; authored 344 PRs (340 merged).
+  \item Shipped an LLM news-alert pipeline as a Kubernetes CronJob (ingest $\to$ embed $\to$ LLM-score $\to$ dedupe $\to$ push, $\sim$1{,}200 LLM calls/day); calibrated on 4{,}100+ shadow decisions, cutting filler alerts 34\% $\to$ 4\%.
+  \item Replaced a 25--30 request client fan-out with one backend call and a shared catalog cache 78$\times$ smaller than the per-user key, sized for a 512\,MiB pod; cut the home-load copy from 9.0\,ms to 0.89\,ms with shallow copies.
+  \item Built deterministic entity resolution that matches real logged search queries to a 206-entity catalog at 0.4\,ms (0\% $\to$ 100\% P@1), then shipped LLM agentic search on top: hybrid retrieval fused with RRF, a bounded tool loop ($\le$3 hops), SSE streaming, and server-resolved citations.
+  \item Traced another team's 65\% LLM failure rate via Langfuse to an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways); root-caused a 5-day silent Kubernetes CronJob outage, fixed with paired deadlines.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, 1{,}119 peak daily active users); shipped Firebase auth and a 72-event Amplitude analytics catalog behind a server-side event allowlist.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git workflows and testing.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked with recruiters so scoring categories matched real hiring, and iterated AI scoring and UI from user-testing sessions; demoed the product and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Go, C, TypeScript, SQL, Swift, JavaScript, Java, HTML, CSS \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD, Linux \\[1pt]
+  \textbf{ML \& LLMs} & PyTorch, CUDA, LangChain, RAG, hybrid retrieval, bge embeddings, Langfuse \\[1pt]
+  \textbf{Frameworks \& Data} & FastAPI, React, Next.js, PostgreSQL, MongoDB, MySQL, Supabase, SwiftUI, Firebase \\[1pt]
+  \textbf{Practices} & Git, REST APIs, Unit Testing, pytest, TDD, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 20-frame (1s) video; built a data pipeline over 33 hours of Comma2k19 and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+\end{itemize}
+
+\end{document}

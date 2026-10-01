@@ -1,15 +1,15 @@
 {
   "company": "Shield AI",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker entry found",
+  "last_cycle_opened": "2025-07-10",
+  "last_cycle_basis": "tracker first seen: Software Engineer I - Hardware Test, Dallas (https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/shieldai",
   "jobs_spec": "lever:shieldai",
-  "evidence": "Checked all 586 live Lever postings (--all) for Software Engineer titles. Every SWE listing is Senior/Staff/Manager level, or a Summer 2027 internship; no entry-level or new-grad-labeled SWE posting. Shield AI is a defense/autonomy contractor whose US engineering roles have previously required US-person/clearance eligibility, but no live entry role exists to confirm that this cycle.",
-  "confidence": "medium"
+  "evidence": "Lever --all (584 postings): 'Engineer I' roles are electrical/PCB/quality/RF/electromechanical, not software; SWE roles (Mission Systems, Perception, Safety-Critical, GCS) unleveled or senior; only Summer 2027 interns/co-ops. Some postings cite clearance ('U.S. citizenship may be required').",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

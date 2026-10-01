@@ -1,7 +1,7 @@
 {
   "company": "Zurich Insurance Group (Zurich North America)",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.careers.zurich.com/search/?q=&locationsearch=US",
   "jobs_spec": null,
-  "evidence": "zurichna.com/careers loaded fine this run (no Incapsula challenge) and links to the real board at careers.zurich.com, which does filter (result counts and titles changed per query). Searched 'software engineer', 'technology development program', and 'IT graduate' restricted to US: every hit across all three queries was Risk Engineering, Sales, Claims, Underwriting or the 'Market Facing Underwriting Trainee - Summer 2027' program -- no Information Technology / software engineer entry-level track. Zurich's own Early Career page lists only Internships, Training programs and Apprenticeships generically, none IT-specific.",
+  "evidence": "WebFetch careers.zurich.com US search 'software' (2026-09-30): risk engineering, claims, underwriting, actuarial, paralegal, IT senior manager; no entry-level IT/SWE or graduate track. UK Software Engineer Associate is non-US.",
   "confidence": "medium"
 }

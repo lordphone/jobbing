@@ -1,15 +1,15 @@
 {
   "company": "Bain",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "unknown",
-  "last_cycle_basis": null,
+  "last_cycle_basis": "No tracker or first-party evidence found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.bain.com/careers/find-a-role/",
+  "jobs_page": "https://careers.bain.com/jobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "bain.com/careers/find-a-role blocked by a Cloudflare 'Performing security verification' challenge in the browser pane (waited 6s, did not clear). WebSearch found Bain's Technology & Engineering / NextGen Software Solutions team and a Students page but no dated 2027 US posting. jobs.py history matched only Bain Capital (separate company) postings, not Bain & Company.",
-  "confidence": "low"
+  "evidence": "careers.bain.com fetched: US engineering roles are AI/ML Engineer (2+ yrs, Atlanta/Austin/Chicago/Dallas/Houston) and mid-level Full Stack (2-5 yrs); associate/graduate engineering roles are New Delhi only. No US new-grad track.",
+  "confidence": "medium"
 }

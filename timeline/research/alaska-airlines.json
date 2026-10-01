@@ -1,15 +1,15 @@
 {
   "company": "Alaska Airlines (Alaska Air Group)",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run",
+  "last_cycle_basis": "Not found; only a Software Engineer intern role seen in earlier search",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.alaskaair.com/jobs/",
   "jobs_spec": null,
-  "evidence": "The job-category landing page (careers.alaskaair.com/job-category/software-technology/jobs/) still loads its listing widget with 0 results as before, but the actual working search is at careers.alaskaair.com/jobs/?q=<query>. 'Software Engineer' returned 21 US postings, all Senior/Principal/Lead level (Senior Cloud Software Engineer, Principal Data Engineer, etc.); 'Software Engineer I' and 'early career technology' returned no matching postings. No new-grad or entry-level (0-1yr) SWE track found.",
+  "evidence": "Live careers.alaskaair.com job sitemap (~69 jobs, today): tech roles are Principal Data Engineer, Senior Cloud Software Engineer, senior/principal architects and directors; rest are flight, ramp, customer service. No entry-level SWE. Listing page is JS-only, so sitemap used.",
   "confidence": "medium"
 }

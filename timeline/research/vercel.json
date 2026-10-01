@@ -1,15 +1,15 @@
 {
   "company": "Vercel",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker's only Vercel entry, 'Software Engineer, CDN Content' (first seen 2026-07-07), requires 2+ years experience and is not a new-grad role; no other new-grad SWE posting found in tracker history for 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker's only Vercel entry (SWE CDN Content, 2026-07-07) is a 2+ yr role; no new-grad posting found in 2025-07 to 2026-01.",
   "jobs_page": "https://job-boards.greenhouse.io/vercel",
   "jobs_spec": "gh:vercel",
-  "evidence": "Greenhouse API lists all 88 open roles. All Software Engineer titles are standard/senior (require 2+ yrs); only entry-level-adjacent postings are Summer/Winter '27 internships, not new-grad full-time. No 'new grad', 'early career', or 0-1 yr posting found.",
-  "confidence": "high"
+  "evidence": "gh:vercel board (91, --all) checked 2026-09-30: no new-grad or entry-level SWE titles; engineering roles are experienced, security, FDE or solutions. No interns either.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

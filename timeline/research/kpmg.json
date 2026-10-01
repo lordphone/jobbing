@@ -1,15 +1,26 @@
 {
   "company": "KPMG",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate, Software Engineer (Tax, M&A Tax GenAI tools)",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135722",
+      "location": "Atlanta, GA; Denver, CO; Montvale, NJ; Orlando, FL",
+      "opened": "on or before 2026-09-28",
+      "date_source": "page text (no posted date; rolling)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": "unknown",
   "last_cycle_basis": "jobs.py history (SimplifyJobs/vanshb03 trackers) has zero KPMG entries at all",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.kpmguscareers.com/job-search",
   "jobs_spec": null,
-  "evidence": "Checked kpmguscareers.com job search with 'software engineer' and 'technology associate' keywords (882 total US postings); visible results are experienced-hire, federal cyber advisory, or unrelated practice-area roles. No entry-level SWE/developer or 'Lighthouse' technology associate posting for 2027 grads found. No tracker history either.",
-  "confidence": "medium"
+  "evidence": "WebFetch of job 135722: Associate, Software Engineer (Tax GenAI tools), Apply present, career level Experienced, asks 1+ yr recent experience, no deadline ('apply expeditiously'), no sponsorship text. Borderline level; not opened in browser pane.",
+  "confidence": "low"
 }

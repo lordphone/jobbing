@@ -1,15 +1,15 @@
 {
   "company": "Glean",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-03",
-  "last_cycle_basis": "tracker_last_cycle from worklist (GitHub new-grad tracker first-seen date)",
+  "last_cycle_basis": "jobs.py history: New Grad: Software Engineer, Palo Alto, first seen 2024-09-01; tracker last cycle 2025-09-03",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/gleanwork",
   "jobs_spec": "gh:gleanwork",
-  "evidence": "Checked full Greenhouse board (130 postings, --all). No 2027 new-grad/entry-level SWE posting; all Software Engineer roles are standard (no grad-year/program title). A 'Technical Recruiter, Early Talent' req (2026-09-11) suggests a program exists but nothing open yet.",
-  "confidence": "high"
+  "evidence": "Greenhouse board (133 postings): no 2027 new-grad SWE role. 'Technical Recruiter, Early Talent' (2026-09-11) suggests a program is coming; Glean posted new-grad SWE in prior cycles.",
+  "confidence": "medium"
 }

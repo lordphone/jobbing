@@ -1,15 +1,15 @@
 {
   "company": "Gatik",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
+  "last_cycle_basis": "unknown; no tracker or board history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.gatik.ai/careers",
   "jobs_spec": "gh:gatikaiinc",
-  "evidence": "Checked full Greenhouse board (gh:gatikaiinc). All SWE roles are Senior/Staff except 'Embedded Software Engineer, Drive-By-Wire' (requires 2+ years experience, excluded by experience) and 'Machine Learning Engineer' (open-level but MS/PhD per prior pass). No qualifying new-grad SWE track.",
-  "confidence": "medium"
+  "evidence": "Greenhouse board (67 postings, all read): software roles are Senior/Staff, Machine Learning Engineer (production ML, level senior-leaning), and Embedded SWE (2+ yrs). No entry-level or new-grad SWE, no interns.",
+  "confidence": "high"
 }

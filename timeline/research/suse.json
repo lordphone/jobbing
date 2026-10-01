@@ -1,7 +1,7 @@
 {
   "company": "SUSE",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://suse.wd3.myworkdayjobs.com/Jobsatsuse",
   "jobs_spec": "wd:suse/wd3/Jobsatsuse",
-  "evidence": "All 7 current postings checked via Workday API: none are US-based, none are SWE (sales, customer success, cert engineering, EMEA/Taiwan). SUSE's 'Engineering Trainee Program' page (suse.com/universities/trainee-engineer) exists but has no active US SWE requisition on the live board.",
+  "evidence": "Workday wd:suse/wd3/Jobsatsuse, 5 postings all read (2026-09-30): only US role is Account Executive; engineering is Italy/EU/Taiwan. suse.com/universities/trainee-engineer exists but no active US SWE requisition.",
   "confidence": "high"
 }

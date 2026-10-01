@@ -1,15 +1,26 @@
 {
   "company": "Indeed",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=177a2f345faeafd5&q=software%20engineer",
+      "location": "Austin, TX",
+      "opened": "on or before 2026-09-30",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found.",
+  "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/indeed",
-  "jobs_spec": "gh:indeed",
-  "evidence": "Greenhouse board (gh:indeed) confirmed via both jobs.py and browser: 'There are no current openings.' No postings of any kind, let alone new-grad SWE.",
+  "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
+  "jobs_spec": null,
+  "evidence": "gh:indeed is empty; real board is Indeed's own company jobs page (browser). Software Engineer I, Austin TX, bachelor's CS required, AWS/Java/Kotlin/React, no years, no sponsorship text, no class year (rolling). Prior run said no_program from empty gh board. No posted date or deadline shown.",
   "confidence": "medium"
 }

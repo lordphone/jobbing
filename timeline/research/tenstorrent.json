@@ -1,12 +1,29 @@
 {
   "company": "Tenstorrent",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, TT-Distributed", "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007", "location": "Austin, TX; Santa Clara, CA; Toronto, ON",
-     "opened": "2025-04-20", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer, TT-Distributed",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+      "opened": "2025-04-20",
+      "date_source": "greenhouse first_published (evergreen; updated 2026-09-24)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Software Engineer, TT-Fabric",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4645584007",
+      "location": "Austin, TX; Santa Clara, CA; Toronto, ON",
+      "opened": "2025-03-15",
+      "date_source": "greenhouse first_published (evergreen; updated 2026-09-24)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-08-27",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer, AI Tools' (Austin/Santa Clara/Toronto)",
@@ -14,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/tenstorrent",
   "jobs_spec": "gh:tenstorrent",
-  "evidence": "Browser: posting explicitly says 'We welcome candidates at various experience levels... offers will align with that level' - no minimum years stated, live. Has a conditional export-control clause (offer 'may be contingent' on citizenship/PR for some cases), not an absolute bar, so not marked excluded.",
+  "evidence": "Greenhouse API rechecked 2026-09-30: TT-Distributed and TT-Fabric SWE postings (US) say contributors of all seniorities, levels set at interview, no years floor; evergreen, not labeled new grad. Export-control clause may make offer contingent on citizenship/PR or license.",
   "confidence": "medium"
 }

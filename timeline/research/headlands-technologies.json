@@ -1,19 +1,26 @@
 {
   "company": "Headlands Technologies",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "C++ Software Developer - New Grad", "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009", "location": "Amsterdam; Chicago",
-     "opened": "2026-09-16", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "C++ Software Developer - New Grad",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
+      "location": "Amsterdam; Chicago; London; New York City; Remote - APAC; Remote - Europe; Remote - US; Singapore",
+      "opened": "2026-09-16",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no tracker data available; previous_result notes a 'Research Developer New Grad' posted 2026-07-05 that has since closed",
+  "last_cycle_basis": "unknown; tracker shows Quantitative Researcher New Grad 2026-07-05 (not SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/headlandstechnologiesllc",
   "jobs_spec": "gh:headlandstechnologiesllc",
-  "evidence": "Live posting 'C++ Software Developer - New Grad' (Amsterdam/Chicago), first_published 2026-09-16, no citizenship/sponsorship restrictions found. Also has 'Quantitative Researcher - New Grad'.",
+  "evidence": "gh board (8 postings): C++ Software Developer - New Grad (Chicago), live via API, no sponsorship or citizenship text, no deadline. Quantitative Researcher - New Grad is not SWE.",
   "confidence": "high"
 }

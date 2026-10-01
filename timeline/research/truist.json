@@ -1,15 +1,26 @@
 {
   "company": "Truist",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Analyst-Program---Technology--Data--and-Operations-Track_R0118056",
+      "location": "Charlotte, NC / Atlanta, GA",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-02",
+      "grad_window": "Degree with graduation Dec 2025 - May 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-07-18",
-  "last_cycle_basis": "tracker_last_cycle from worklist entry",
+  "last_cycle_basis": "tracker history: 'Testing Software Engineer I' Charlotte first seen 2025-07-18 (SWE I postings continued Oct 2025-Feb 2026)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://truist.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:truist/wd1/Careers",
-  "evidence": "Re-checked Workday board: still only Senior/Lead SWE roles and non-tech CSBB Analyst Program live; the 2027 Truist Analyst Program - Technology track and Associate Software Engineer postings remain gone from the live board.",
+  "evidence": "Workday API 2026-09-30: 2027 Analyst Program TD&O track live (rotational tech: software delivery, AI engineering etc., not pure SWE). Deadline is Workday endDate 2026-10-02. Says Truist will not sponsor (H-1B, OPT etc.). Other SWE postings are mid/senior.",
   "confidence": "medium"
 }

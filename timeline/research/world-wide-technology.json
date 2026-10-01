@@ -1,15 +1,15 @@
 {
   "company": "World Wide Technology (WWT)",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero WWT/World Wide Technology entries",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; WWT Associate Academy / ACSE early-career page shows only a waitlist",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "WWT's early-in-career track is the Associate Academy / Associate Consulting Systems Engineer (ACSE) program (wwt.com/community/acse/about): a 12-month pre-sales/technical-consultant program, explicitly sales-engineering, not software engineering, and excluded by the skill's 'what counts' rule; its page shows only a waitlist ('Get on the list here'), no open requisition. The ADP-hosted job board (myjobs.adp.com/wwtexternalcareersite) returns the same unfiltered ~335 US listings regardless of keyword searched (UI keyword box and q= URL param both ignored); a manual scan of the top ~20 by-recency listings found only experienced/clearance-required roles (Sr. Systems Engineer, Senior Project Manager, Cyber Security Sales Specialist), no entry-level SWE title.",
-  "confidence": "low"
+  "evidence": "Read the ADP MyJobs public requisitions API (664 listings, orgoid from career-site config). US developer/engineer roles all need 3-5+ years (Developer, Engineer - Application Development, Data Engineer, Full Stack) and several bar visa sponsorship or need citizenship/Secret. Only entry items are 2027 internships. No new-grad SWE.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

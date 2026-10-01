@@ -1,15 +1,26 @@
 {
   "company": "Jain Global",
   "tier": 4,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Developer (Equity Arbitrage)",
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Developer_JR100255",
+      "location": "New York, NY",
+      "opened": "2026-02-03",
+      "date_source": "tracker first seen (Workday startDate 2026-09-02 is a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker/history evidence found for a US new-grad SWE posting.",
+  "last_cycle_basis": "unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite",
   "jobs_spec": "wd:jainglobal/wd5/ExternalSite",
-  "evidence": "Workday board checked in full (14 postings, --all): Senior Core Developer, Core Platform Developer, Treasury Technology Developer, plain 'Developer' (NY). Checked the 'Developer' posting: no grad-window/experience-floor text surfaced, but no new-grad or 2027 labeling anywhere on the board and no campus/early-career program found.",
+  "evidence": "Workday API (14 postings) and detail read: Developer (Equity Arbitrage, New York) asks 0-3 yrs, Python, bachelor's; live, reposted 2026-09-02, first seen by tracker 2026-02-03. Entry-level by years/title, no class year. Others senior or non-US. Judgement call.",
   "confidence": "medium"
 }

@@ -1,8 +1,8 @@
 {
   "company": "IMDb",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No IMDb-specific new-grad SWE tracker history found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs",
   "jobs_spec": "amazon:",
-  "evidence": "Checked amazon.jobs early-career filtered list (162 postings) and searched for 'IMDb': no IMDb-specific SDE listing. New grads for IMDb would join via Amazon's general SDE I / Early Career pipeline; Amazon's general Early Career SDE posting (Cambridge MA) is currently open.",
+  "evidence": "amazon.jobs search IMDb (4 hits): only Sr SDE Prime Video Advertising and India SDE II/Data Engineer; no IMDb entry SDE. New grads use Amazon general SDE Early Career.",
   "confidence": "medium"
 }

@@ -1,22 +1,36 @@
 {
   "company": "SimpliSafe",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I - Device Control", "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515", "location": "Boston, MA",
-     "opened": "2026-07-07", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Software Engineer I - User Systems", "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181", "location": "Boston, MA",
-     "opened": "2026-08-03", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer I - Device Control",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+      "location": "Boston, MA",
+      "opened": "2026-07-07",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I - User Systems",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
+      "location": "Boston, MA",
+      "opened": "2026-08-03",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "No 2025-07 to 2026-01 posting found; earlier Software Engineer I first seen 2024-06-21 (https://boards.greenhouse.io/simplisafe/jobs/6019248).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/simplisafe",
   "jobs_spec": "gh:simplisafe",
-  "evidence": "Greenhouse API: two live Software Engineer I postings (entry-level title), Boston MA, no citizenship/clearance/sponsorship exclusion language in listing pages.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API lists Software Engineer I - Device Control (2026-07-07) and - User Systems (2026-08-03), Boston; Device Control page returns 200. Bachelor's 'completed or expected soon'; no citizenship/sponsorship exclusion or deadline stated.",
+  "confidence": "high"
 }

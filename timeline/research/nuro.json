@@ -1,12 +1,19 @@
 {
   "company": "Nuro",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "leftover_2026",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [
-    {"title": "Software Engineer, AI Platform - New Grad", "url": "https://job-boards.greenhouse.io/nuro/jobs/7351066", "location": "Mountain View, CA",
-     "opened": "2025-10-22", "date_source": "greenhouse first_published",
-     "grad_window": "graduating before December 2026", "live_verified": "api"}
+    {
+      "title": "Software Engineer, AI Platform - New Grad",
+      "url": "https://job-boards.greenhouse.io/nuro/jobs/7351066",
+      "location": "Mountain View, CA (HQ)",
+      "opened": "2025-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "graduating before December 2026 (last-cycle leftover)",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-07-14",
   "last_cycle_basis": "tracker first-seen date for 'New Grad: Software Engineer, Routing'",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nuro",
   "jobs_spec": "gh:nuro",
-  "evidence": "Only live new-grad posting requires graduating before Dec 2026 (per posting text) = last-cycle leftover. Several 2026-dated 'Software Engineer New Grad - Performance' postings (a likely 2027-cycle candidate) are all closed now.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (108 postings): prior 'Performance Tooling New Grad' (8227399, first published 2026-09-23) now 404 / gone, so closed. Only live new grad is AI Platform (grads before Dec 2026), a leftover. Other SWE roles senior or unlabeled.",
+  "confidence": "medium"
 }

@@ -1,12 +1,19 @@
 {
   "company": "Abbott Laboratories",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I", "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Software-Engineer-I_31162389-1", "location": "La Jolla, CA",
-     "opened": "2026-09-25", "date_source": "workday postedOn (Posted 2 Days Ago) + tracker first seen 2026-09-24",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer I",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Software-Engineer-I_31162389-1",
+      "location": "La Jolla, CA",
+      "opened": "2026-09-24",
+      "date_source": "tracker first seen (workday startDate 2026-09-25)",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-02",
   "last_cycle_basis": "tracker history: Software Engineer 1 - Digital Health Engineering (Pacoima/Sylmar, CA) first seen 2025-10-02",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
   "jobs_spec": "wd:abbott/wd5/abbottcareers",
-  "evidence": "Confirmed Software Engineer I (La Jolla) live via jobs.py detail on the company's own board. Posting requires 'Authorization to work in the United States without sponsorship', so no_sponsorship=true.",
+  "evidence": "Read La Jolla posting via CXS API: live, bachelor's in CS/DS/etc., 'authorization to work in the US without sponsorship', Workday endDate 2026-10-02. Other SWE roles (Irving embedded 3+ yrs, Sunnyvale II) not entry. Same status, deadline added.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "The Kraft Heinz Company",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No SimplifyJobs/vanshb03 tracker entries for 'Kraft Heinz' found in any cycle",
+  "last_cycle_basis": "No tracker history for Kraft Heinz",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.kraftheinz.com/careers",
-  "jobs_spec": null,
-  "evidence": "Located Kraft Heinz's job board (previously unreachable). Searched 'software engineer': 20 results, all Senior/Staff/Manager-level engineering roles (Staff Computer Vision Engineer, Full-Stack Engineering Manager, Senior/Staff Data Engineer); no entry-level SWE or new-grad program found.",
+  "jobs_spec": "eightfold:jobs.kraftheinz.com/kraftheinz.com",
+  "evidence": "Eightfold API (48 postings, --all) 2026-09-30: 2027 US programs are HR Trainee plus Finance, Operations, Manufacturing, Marketing, R&D, Sales internships. IT roles are Manager/Director level. No SWE trainee.",
   "confidence": "medium"
 }

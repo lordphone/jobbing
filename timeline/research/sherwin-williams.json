@@ -1,15 +1,15 @@
 {
   "company": "Sherwin-Williams",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No SimplifyJobs/vanshb03 tracker entry for a 2025-07..2026-01 SWE posting found",
+  "last_cycle_basis": "No tracker SWE posting between 2025-07 and 2026-01; only Data Management Analyst 2026-03-10 and R&D programs",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
   "jobs_spec": "oracle:ejhp.fa.us6.oraclecloud.com/CX_2",
-  "evidence": "Tracker shows 'Associate Full Stack Application Developer - Industrial Automation' (Cleveland OH) first seen 2026-09-03, this cycle; jobs.py detail confirms it's gone from the API (404-equivalent) and it's absent from the current live board listing, which now shows only Senior developer roles.",
+  "evidence": "Oracle board (218 postings) 2026-09-30: 'Associate Full Stack Application Developer - Industrial Automation' (Cleveland, first seen 2026-09-03) is gone (detail not found). Live: 2027 co-ops/interns only, no entry SWE.",
   "confidence": "high"
 }

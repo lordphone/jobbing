@@ -1,15 +1,26 @@
 {
   "company": "NextEra Energy",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "unknown",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Rotational Assignment - Ignite Digital",
+      "url": "https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Rotational-Assignment-Ignite-Digital-FL-33410/1429707900/",
+      "location": "Palm Beach Gardens, FL",
+      "opened": "2026-09-14",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": "new or recent grads within two years of a bachelor's or master's",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-09-22",
-  "last_cycle_basis": "tracker first-seen date (jobs.py history) for 'Software Development Engineer 1 - New Product Engineering', St Paul MN",
+  "last_cycle_basis": "tracker first seen: 'Software Development Engineer 1 - New Product Engineering', St Paul MN 2025-09-22; Ignite starts Feb and Aug each year",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.nexteraenergy.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Board (Phenom-based) URL-path keyword search (/search-jobs/<query>/47690/1) does not filter: returns the same unfiltered 311-result, all-departments list every time (confirmed again this run, matching the prior finding). Could not isolate software engineer / new-grad postings from the noise this run.",
-  "confidence": "low"
+  "evidence": "Paginated board (startrow) found 'Rotational Assignment - Ignite Digital' (Palm Beach Gardens, posted Sep 14 2026, Apply now shown): 2-year IT rotation incl. app development, for grads within two years of a CS-related degree. IT rotation, not pure SWE. No deadline stated.",
+  "confidence": "medium"
 }

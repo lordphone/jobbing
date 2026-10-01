@@ -1,15 +1,15 @@
 {
   "company": "SMX",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2025-11-21",
   "last_cycle_basis": "tracker/board history: 'Junior Cloud Engineer' first seen 2025-11-21, Huntsville, AL",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://www.smxtech.com/careers/",
   "jobs_spec": "gh:smxtech",
-  "evidence": "Full Greenhouse board (145 postings, --all): the two live entry-level SWE roles this cycle both require clearance — 'Junior Software Engineer' (Huntsville, AL, first_published 2026-08-06): 'Clearance Required: Secret'; 'Front End Web Applications Developer (Junior)' (US-remote, first_published 2026-09-21): 'requires a Public Trust clearance.'",
-  "confidence": "high"
+  "evidence": "Greenhouse API, posting text read: Junior Software Engineer (Huntsville, 2026-08-06) 'Clearance Required: Secret'; Front End Web Applications Developer (Junior) x2 (US-remote, 2026-09-21/23) 'requires a Public Trust clearance'; Junior Data Engineer 'Active Secret Clearance'. SMX does not sponsor.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

@@ -1,12 +1,29 @@
 {
   "company": "Anduril",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "2027 Early Career Software Engineer", "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007", "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
-     "opened": "2026-06-11", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "2027 Early Career Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007",
+      "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
+      "opened": "2026-06-11",
+      "date_source": "greenhouse first_published",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "2027 Early Career Flight Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+      "location": "Costa Mesa, CA",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-08-12",
   "last_cycle_basis": "tracker first-seen date, kept from previous research file",
@@ -14,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/andurilindustries",
   "jobs_spec": "gh:andurilindustries",
-  "evidence": "2027 Early Career Software Engineer posting live since 2026-06-11. Anduril postings state 'Must be a U.S. Person' per ITAR/EAR, consistent with prior research.",
+  "evidence": "Greenhouse API (2397 jobs): 2027 Early Career SWE (2026-06-11) and Flight SWE (2026-09-02) live; posting text: 'Must be a U.S. Person due to required access to U.S. export-controlled information'; clearance may be required. No deadline stated.",
   "confidence": "high"
 }

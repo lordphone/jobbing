@@ -1,15 +1,15 @@
 {
   "company": "Aquatic Capital Management",
   "tier": 4,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2024-09-06",
-  "last_cycle_basis": "previous-pass finding, kept from worklist entry",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker: New Grad SWE first seen 2024-09-08 and Software Engineer - Early Career 2026-04-01 (closed); neither in the 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
   "jobs_spec": "gh:aquaticcapitalmanagement",
-  "evidence": "Greenhouse API (7 postings): the only SWE-titled role, 'Software Engineer, Production Platform' (first_published 2026-09-22), requires '4+ years of professional software development experience' and its posting explicitly tells undergrad/PhD grads to apply to 'early career' roles instead. 'Quantitative Researcher, Early Career' is QR, not SWE. No qualifying new-grad SWE posting.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (7 postings): only full-time SWE role is Production Platform (4+ yrs, experienced). SWE intern Summer 2027 is intern; QR Early Career is not SWE. SWE Early Career track posted 2026-04-01 is gone; nothing live now.",
+  "confidence": "medium"
 }

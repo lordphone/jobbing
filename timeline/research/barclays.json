@@ -1,19 +1,15 @@
 {
   "company": "Barclays",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "open",
-  "postings": [
-    {"title": "2027 Technology Developer Graduate Program", "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244", "location": "Whippany, NJ",
-     "opened": "on or before 2026-09-03", "date_source": "tracker first seen (workday postedOn showed 'Posted 16 Days Ago' = 2026-09-11, tracker saw it earlier)",
-     "grad_window": "recent or soon-to-be graduate", "live_verified": "api"}
-  ],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker_last_cycle from worklist entry",
+  "last_cycle_basis": "tracker history: 'Technology Analyst Graduate Program' / 'Technology Developer Rotational Graduate Program 2026', Parsippany/Whippany NJ, first seen 2025-11-01",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
   "jobs_spec": "wd:barclays/wd3/External_Career_Site_Barclays",
-  "evidence": "Re-confirmed via Workday detail: posting still live (postedOn now 'Posted 16 Days Ago'), text reads 'Barclays will not offer or consider offering sponsorship for work visas... now or in the future, unless such individuals are enrolled in or graduate with a degree in a field of study that the U.S. government has designated as a STEM field.'",
-  "confidence": "high"
+  "evidence": "Tracker saw US 2027 Technology Developer Graduate Program (Hanover NJ / Wilmington DE, first seen 2026-09-03) now closed; Workday API 2026-09-30 doesn't find JR-0000123244. Live board has only UK 2027 tech grad programs. Prior file quoted no visa sponsorship.",
+  "confidence": "medium"
 }

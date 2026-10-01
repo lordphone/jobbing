@@ -1,12 +1,19 @@
 {
   "company": "Crusoe",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I, Network", "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed", "location": "San Francisco, CA; Sunnyvale, CA",
-     "opened": "on or before 2026-08-19", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer I, Network",
+      "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "opened": "2026-08-19",
+      "date_source": "tracker first seen (Ashby publishedAt now 2026-09-16, likely repost)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-12-12",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer - New College Graduate 2026' (SF)",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Crusoe",
   "jobs_spec": "ashby:Crusoe",
-  "evidence": "Browser: 'Software Engineer I, Network' targets early-career engineers with ~1 year experience/internships/school projects, no citizenship or sponsorship restriction mentioned, live Apply page.",
+  "evidence": "Ashby API (live, isListed): 'Software Engineer I, Network' (SF/Sunnyvale), early-career, bachelor's required, no citizenship or sponsorship restriction, no deadline. Kept earlier tracker first-seen date. SE 1 Storage closed; SE II roles are mid-level.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "DigiCert",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": "2026-05-21",
-  "last_cycle_basis": "tracker history: Software Engineer Associate, Lehi UT, first seen 2026-05-21 (closed)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker: no new-grad SWE 2025-07 to 2026-01; Junior SWE first seen 2024-12-20, Software Engineer Associate Lehi UT 2026-05-21",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/digicert",
   "jobs_spec": "gh:digicert",
-  "evidence": "Checked Greenhouse API (60 postings): no live entry-level US SWE posting. Tracker history shows an 'Associate Backend Engineer' (Sunnyvale, CA), first seen 2026-07-21, this-cycle, but it is no longer on the live board (closed).",
-  "confidence": "high"
+  "evidence": "Greenhouse API (58 postings): no live entry-level US SWE; only Senior/Principal SWE. Associate Backend Engineer Sunnyvale (2026-07-21) and Software Engineer Associate Lehi (2026-05-21) gone per tracker.",
+  "confidence": "medium"
 }

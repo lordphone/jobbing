@@ -1,15 +1,15 @@
 {
   "company": "West Monroe",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero West Monroe entries",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no dated source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.westmonroe.com/careers/job-search-students",
-  "jobs_spec": null,
-  "evidence": "westmonroe.com/careers/job-search(-technologists/-students) pages load in the browser pane but the actual job-listing widget never renders text or an 'Explore Opportunities' click target (screenshot after scroll-to is blank); read_page shows only nav chrome, no job list nor iframe. WebSearch found live '2027 [Practice] Consulting Intern' postings (summer 2027 internship, requires no sponsorship) across ~9 offices, but no full-time new-grad title (Technology Consultant / Business Technology Analyst) surfaced. Could not confirm full-time entry-level SWE status either way.",
-  "confidence": "low"
+  "jobs_spec": "gh:westmonroe5",
+  "evidence": "Students board gh:westmonroe5 (67 postings) is all 2027 consulting interns incl. Platforms & Technology interns (first 2026-08-28); no full-time entry role. Experienced board gh:westmonroe4 (119): Software Engineer (AI Assets Foundry) needs 2+ yrs, Data Engineer 1-4 yrs, others senior; not entry-labelled.",
+  "confidence": "medium"
 }

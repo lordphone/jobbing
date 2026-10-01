@@ -1,15 +1,15 @@
 {
   "company": "HCA Healthcare",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead and no dated public source found for a past new-grad SWE opening",
+  "last_cycle_basis": "none found; tracker history shows only unrelated HCA-named healthcare roles and GE Healthcare SWE 1",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcahealthcare.com/search/jobs?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Board located: Phenom-based site at careers.hcahealthcare.com/search/jobs (no jobs.py spec; use ?q= querystring, %20-encoded). Searched software engineer / entry level / new grad; only Senior/Staff/Consulting-level IT roles found, no entry-level SWE track.",
+  "evidence": "Phenom board (browser): 'software engineer' (217), 'application developer I', 'new graduate technology', 'early career technology program': only Senior/Staff/Consulting engineers, Technical Analyst I, an unlevelled Application Developer; new-grad hits are nursing. No SWE I or new-grad tech program.",
   "confidence": "medium"
 }

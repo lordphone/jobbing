@@ -1,15 +1,15 @@
 {
   "company": "PetSmart",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.petsmart.com/jobs",
   "jobs_spec": null,
-  "evidence": "The careers-petsmart.icims.com board is a static shell (no results render), but careers.petsmart.com/jobs is a separate, working search (iCIMS-backed) that returns real results. Searching 'engineer' returns 4 postings (Lead Network Engineer, Senior Industrial Engineer, Solutions Architect - Costa Rica, Senior Automation Developer - UiPath), all senior/lead level, Phoenix AZ Home Office. No entry-level/new-grad SWE posting found.",
-  "confidence": "medium"
+  "evidence": "Browser keyword search on careers.petsmart.com: 'engineer' gives 4 (Lead Network Engineer, Senior Industrial Engineer, Solutions Architect Costa Rica, Senior Automation Developer UiPath); 'developer' none. No entry-level SWE or tech new-grad posting.",
+  "confidence": "high"
 }

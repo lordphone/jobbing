@@ -1,15 +1,15 @@
 {
   "company": "Ripple",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "history search for 'ripple' only matched postings under greenhouse org 'ripplematchinterns' (RippleMatch, a separate recruiting platform), not Ripple's own board; no genuine Ripple entry-level history found",
+  "last_cycle_basis": "only RippleMatch-hosted 'Entry Level Software Engineer' 2025-03-11, outside the 2025-07..2026-01 window; no Ripple-board history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ripple",
   "jobs_spec": "gh:ripple",
-  "evidence": "Checked full gh:ripple board (122 postings, --all). No entry-level/new-grad/university/associate SWE roles; all software roles are Senior/Staff/Manager level or 'Software Engineer II' (not entry).",
-  "confidence": "high"
+  "evidence": "gh:ripple --all (128): software roles are Senior/Staff/Manager or Software Engineer II (SF, Toronto); no entry-level or new-grad posting. 2025 entry-level SWE posts were on RippleMatch board.",
+  "confidence": "medium"
 }

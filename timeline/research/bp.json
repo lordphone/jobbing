@@ -1,15 +1,15 @@
 {
   "company": "bp",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found no US new-grad SWE posting in 2025-07 to 2026-01 window",
+  "last_cycle_basis": "jobs.py history 'bp': US graduate postings Jun-Aug 2026 are trading/shipping and subsurface engineering only; no SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers",
   "jobs_spec": "wd:bpinternational/wd3/bpEarlyCareers",
-  "evidence": "Workday early-careers board checked with --all: US graduate/intern postings are all petroleum/reservoir/mechanical/chemical engineering. Graduate Technology-Software Eng roles exist only in Malaysia, none in the US.",
+  "evidence": "Workday early-careers board --all 2026-09-30: US graduate roles are Supply/Trading/Shipping (Analytics track closes 2026-10-02, not SWE), Seismic Imaging Technology, process engineering. Graduate Technology-Software Eng exists only in Malaysia.",
   "confidence": "medium"
 }

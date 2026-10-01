@@ -1,15 +1,56 @@
 {
   "company": "Virtusa",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Engineer (Software Developer, Generative AI) CREQ254231",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate%20Engineer&country=United%20States",
+      "location": "New York, NY",
+      "opened": "2026-09-19",
+      "date_source": "phenom search API postedDate",
+      "deadline": null,
+      "grad_window": "'recent graduates or early-career', 0-2 years",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate (Agentic AI Engineer) P-104407",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate&country=United%20States",
+      "location": "Piscataway, NJ",
+      "opened": "2026-09-22",
+      "date_source": "phenom search API postedDate",
+      "deadline": null,
+      "grad_window": "'recent graduates or early-career', 0-2 years",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate (Agentic AI Engineer) P-104367",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate&country=United%20States",
+      "location": "Dallas, TX",
+      "opened": "2026-09-22",
+      "date_source": "phenom search API postedDate",
+      "deadline": null,
+      "grad_window": "'recent graduates or early-career', 0-2 years",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Engineer (Data Engineer) P-103578",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate%20Engineer&country=United%20States",
+      "location": "New York, NY",
+      "opened": "2026-09-10",
+      "date_source": "phenom search API postedDate",
+      "deadline": null,
+      "grad_window": "'recent graduates or early-career', 0-2 years",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
+  "last_cycle_basis": "Not found in tracker history.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.virtusa.com/careers/job-search/global/en",
   "jobs_spec": null,
-  "evidence": "Checked global job search (6162 results, first pages sorted by relevance): all Software Engineer / Lead Software Engineer / Architect listings visible are experienced-level; no new-grad, associate, or entry-level SWE track surfaced for the US.",
-  "confidence": "medium"
+  "evidence": "Queried the job-search page's own Phenom widgets API filtered to United States (all titles scanned; most are Lead/Senior/Architect). Four entry-level Associate / Associate Engineer listings (experience 0-2 years, 'recent graduates or early-career'). Detail pages redirected, so posting text, deadline and sponsorship unread.",
+  "confidence": "low",
+  "checked": "2026-09-30"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Petco",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no last-cycle new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "No last-cycle new-grad SWE posting in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://petco.wd504.myworkdayjobs.com/External",
   "jobs_spec": "wd:petco/wd504/External",
-  "evidence": "Checked full Workday board for software/engineer/program/university/2027 titles. Only tech roles are Director-level (Software Engineering POS, Technical Program Management, Infrastructure Architecture) and one Industrial Engineer; no entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Workday search 2026-09-30 for software/engineer/graduate: only Senior/Lead/Director software roles, IT QA Engineer, Industrial Engineer; interns are accounting only. No entry-level SWE. Earlier file said not_yet; nothing shows a new-grad track.",
+  "confidence": "high"
 }

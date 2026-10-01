@@ -1,15 +1,15 @@
 {
   "company": "McGraw Hill",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history for McGraw Hill.",
+  "last_cycle_basis": "No tracker history for McGraw Hill",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.mheducation.com/jobs",
   "jobs_spec": null,
-  "evidence": "Checked live iCIMS board with 'software engineer' keyword (67 total US/global results, Technology category): only Sr Software Engineer / Sr Data Engineer / senior IT roles. No new-grad or entry-level SWE track found.",
-  "confidence": "medium"
+  "evidence": "Jibe API (careers.mheducation.com/api/jobs), all 57 postings read: US software roles are Sr Software Engineer, Manager, Director, Lead; Software Engineer II only in Mexico/Canada. No entry-level US SWE.",
+  "confidence": "high"
 }

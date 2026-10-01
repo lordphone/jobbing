@@ -1,15 +1,15 @@
 {
   "company": "Thumbtack",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'thumbtack': only 1 hit (Software Engineer - AI/ML Infrastructure, no grad level indicated), no new-grad SWE posting in the 2025-07 to 2026-01 window",
+  "last_cycle_basis": "unknown; no tracker history of a new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/thumbtack",
   "jobs_spec": "ashby:thumbtack",
-  "evidence": "Checked full Ashby board (--all), all engineering roles are Senior/Staff/Manager level (Site Reliability, AI/ML Infra, Design Systems, etc). No entry-level or new-grad SWE roles found.",
+  "evidence": "Ashby API (54, --all) rechecked 2026-09-30: engineering roles are Senior/Staff/Manager or AI/ML Infra and Full-Stack Engineer, AI Platform (2026-09-18, not entry-level); no new-grad track.",
   "confidence": "high"
 }

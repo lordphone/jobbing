@@ -1,15 +1,15 @@
 {
   "company": "JLL (Jones Lang LaSalle)",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting in tracker history; roles seen are Research/Data/Sustainability Analyst",
+  "last_cycle_basis": "Tracker history shows only analyst/data roles (Research Analyst, Space Data Analyst, Systems Integration Consultant); no entry-level SWE found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jll.wd1.myworkdayjobs.com/jllcareers",
   "jobs_spec": "wd:jll/wd1/jllcareers",
-  "evidence": "Workday API: 132 postings. One 'Forward Deployed Engineer' (Chandler, AZ) found but requires 3+ years experience and does not sponsor -- excluded per years-of-experience rule, not new-grad. No other SWE entry-level posting.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30: only software roles are two San Francisco Forward Deployed Engineer postings (senior-style: AI agents, architecture lead; no visa sponsorship; end date 2026-12-25), not entry-level. Graduate/internship programs are business or non-US.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

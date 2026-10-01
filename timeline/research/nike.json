@@ -1,15 +1,15 @@
 {
   "company": "Nike",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "2025-09-17, tracker first-seen date (unchanged from prior research)",
+  "last_cycle_opened": "2025-09-17",
+  "last_cycle_basis": "tracker first seen: Software Engineer I - Innovation, Beaverton OR (nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nike.wd1.myworkdayjobs.com/nke",
   "jobs_spec": "wd:nike/wd1/nke",
-  "evidence": "Checked Workday board. All software engineer postings are Senior/Lead/Principal/Manager/Director, or Software Engineer I/II/III based in Karnataka, India (ITC). No US entry-level new-grad SWE posting live.",
-  "confidence": "medium"
+  "evidence": "Workday board (91 postings, --all) re-read 2026-09-30: US roles are internships, Principal/Manager SWE; SWE I/II postings are India (ITC). Last cycle SWE I Innovation roles posted Sep-Dec 2025, none live now.",
+  "confidence": "high"
 }

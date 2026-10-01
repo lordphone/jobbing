@@ -1,15 +1,15 @@
 {
   "company": "Levi Strauss & Co.",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No reliable tracker match (name regex matched unrelated companies Elevi/Univision/Filevine/EagleView); no first-party evidence of a past new-grad SWE cycle.",
+  "last_cycle_basis": "Tracker name matches were unrelated companies (Elevi, Univision, Filevine); no first-party evidence of a past new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://levistraussandco.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:levistraussandco/wd5/External",
-  "evidence": "Found first-party Workday board (tenant levistraussandco). 42 postings; engineering roles are all Lead/Senior/Staff/Principal (e.g. 'Lead Software Engineer', 'Engineering Lead', 'Senior Engineer - Developer Velocity'). No entry-level/new-grad SWE titles.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30: 43 postings, none entry-level SWE (engineering roles Lead/Senior/Staff, mostly outside US). No tracker history matches Levi's.",
+  "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "CBRE Group",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run",
+  "last_cycle_basis": "No tracker history; graduate programs listed are sales/brokerage/capital markets",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.cbre.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Board live (999+ results) but both the ?keywords= URL param and the on-page search form (typed into the Keywords box, pressed Enter after accepting the cookie banner) fail to filter or even navigate to a results page -- confirmed again this run, matching the prior finding. Could not isolate software engineer / new-grad postings.",
+  "evidence": "CBRE board returned empty this run; search surfaced a US Software Engineer (Dallas, published 2026-03-20, .NET/React/AWS, no sponsorship) of unverified level; prior 2026-09-28 read retained: Browser search 'software engineer' (162 results): US roles are GWS building-systems Software Engineer (5-8 yrs), Analyst (2-5 yrs), Director, Principal. Grad programs are sales/finance. No entry-level SWE.",
   "confidence": "low"
 }

@@ -1,15 +1,26 @@
 {
   "company": "MIT Lincoln Laboratory",
-  "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
   "excluded_reason": "citizenship",
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no tracker history",
+  "postings": [
+    {
+      "title": "AI/ML Engineer - Assistant Staff",
+      "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Assistant-Staff-MA-02420/1433079500/",
+      "location": "Lexington, MA",
+      "opened": "2026-09-23",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "jobs_page": "https://careers.ll.mit.edu/",
   "jobs_spec": null,
-  "evidence": "careers.ll.mit.edu Software Engineer/Developer postings require US citizenship and ability to obtain/maintain DoD Secret clearance (FFRDC, national security work). Recent Graduate hiring range $100,200-$120,000 confirms new-grad track exists but is citizenship-gated.",
-  "confidence": "medium"
+  "evidence": "Opened AI/ML Engineer - Assistant Staff (posted 9/23) and Cybersecurity Researcher (Early Career): both say 'U.S. citizenship is required' and need a DoD Secret clearance. Apply button shown, no deadline. Excluded.",
+  "confidence": "high",
+  "tier": 8,
+  "checked": "2026-09-30",
+  "no_sponsorship": false
 }

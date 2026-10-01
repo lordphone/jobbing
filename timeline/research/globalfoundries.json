@@ -1,15 +1,26 @@
 {
   "company": "GlobalFoundries",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE-specific posting found in tracker or board history",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI/ML Analytics Engineer (2027 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
+      "location": "Malta, NY",
+      "opened": "on or before 2026-09-28",
+      "date_source": "workday postedOn (Posted 2 Days Ago; startDate 2026-09-28)",
+      "deadline": null,
+      "grad_window": "graduating with Bachelor's or Master's (2027 NCG)",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2026-08-18",
+  "last_cycle_basis": "tracker first seen: AI/ML Software Engineer New Grad (2026 NCG) Austin/Santa Clara/Richardson 2026-08-18; also 2025-08-17 Manufacturing Software Engineer Essex Junction",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://globalfoundries.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:globalfoundries/wd1/External",
-  "evidence": "Workday API: many 'New College Graduate' reqs, all EE/process/hardware/manufacturing tracks. 'Talent Accelerator Program (2027 NCG)' wants EE/Business/Data Analytics degrees, and the 2026 NCG 'Biz App and Data Engineer' role wants EE/data-science degrees -- neither is a SWE track. No software-engineer-labeled new-grad posting found.",
+  "evidence": "Workday API + CXS: 2027 NCG AI/ML Analytics Engineer (Malta NY, canApply true) live; ML/predictive modeling for fab, CS degrees accepted, no citizenship lines. Borderline ML-vs-analytics role. Fab Automation (hw+sw) also live. No deadline stated.",
   "confidence": "medium"
 }

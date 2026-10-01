@@ -1,0 +1,58 @@
+% Whatnot — Software Engineer, 2027 New Grad
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Mobile Computing Laboratory, Software Engineering, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Primary author of SportsBreak's Python FastAPI / MongoDB backend, from its first commit to 89 endpoints on AWS EKS with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest gate; authored 344 PRs (340 merged).
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, 1{,}119 peak daily active users); got it onto the App Store through three trademark rejections by cutting the hero World Cup feature, and shipped guest-first Firebase auth and a 72-event Amplitude analytics catalog.
+  \item Built a live segment-broadcast push tool used during the World Cup; notifications beat other sports apps and arrived a minute before FOX broadcast the goal; also shipped ActivityKit Live Activities for live scores.
+  \item Built server-driven UI over 27 widget types so new catalog surfaces ship without an App Store release, and shipped a personalized LLM morning digest that reached 5{,}026 users ($\sim$81\% of the user base).
+  \item Replaced a 25--30 request client fan-out with one backend call and a shared catalog cache 78$\times$ smaller than the per-user key, sized for a 512\,MiB pod.
+  \item Migrated nine third-party integrations server-side so the iOS binary ships zero third-party API credentials; rolled back a keyless ESPN proxy after 2.5 hours since it only added latency and a health dependency.
+  \item Root-caused a 5-day silent CronJob outage and fixed it with paired deadlines; on sister app DramaBreak, shipped Stripe web checkout with signature-verified, idempotent webhook fulfillment.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git and testing.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Ran fast iterations with clients and recruiters on AI scoring and UI from user-testing sessions; demoed the product and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, Swift, Go, JavaScript, SQL, Java, C, HTML, CSS \\[1pt]
+  \textbf{Frameworks \& Data} & FastAPI, React, Next.js, SwiftUI, MongoDB, PostgreSQL, Firebase, Supabase \\[1pt]
+  \textbf{Cloud \& Platform} & AWS, Kubernetes (EKS), Docker, Helm, GCP, GitHub~Actions, CI/CD, Linux, Bash \\[1pt]
+  \textbf{ML \& LLMs} & PyTorch, LangChain, RAG, hybrid retrieval, bge embeddings, Langfuse \\[1pt]
+  \textbf{Testing \& Practices} & REST APIs, Unit Testing, pytest, TDD, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

@@ -1,15 +1,26 @@
 {
   "company": "Wise",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2026-07-17",
-  "last_cycle_basis": "tracker first-seen date 2026-07-17",
+  "postings": [
+    {
+      "title": "Graduate Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
+      "location": "Austin, TX",
+      "opened": "2026-09-22",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": "graduating 2026 or 2027",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no 2025 posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst (this cycle)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/Wise",
   "jobs_spec": "sr:Wise",
-  "evidence": "SmartRecruiters board (415 postings, --all), grep for grad/university/entry-level terms: no matches. Previous run found a since-1-week-old Austin, TX new-grad posting already inactive; still not live now.",
-  "confidence": "medium"
+  "evidence": "Austin 'Graduate Software Engineer' released 2026-09-22 (grads 2026/27, no sponsorship) but SmartRecruiters API says active=false and it is absent from the 415-posting live board; no other US entry-level SWE.",
+  "confidence": "high"
 }

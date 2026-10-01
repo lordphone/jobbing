@@ -7,9 +7,9 @@
   "last_cycle_basis": "No tracker history found for Avalara new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.avalara.com/early-careers",
+  "jobs_page": "https://careers.avalara.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Checked Avalara's Early Careers page: lists the ACE Program (GTM/compliance track) and internships (Engineering internships exist in India and US) but no full-time new-grad SWE program. No jobs.py board spec found (guess found no match).",
-  "confidence": "medium",
-  "checked": "2026-09-27"
+  "evidence": "careers.avalara.com JSON API (149 jobs, all paged): US engineering is Senior/Staff/Lead/Director; only entry-level US roles are SDR/ADR. No entry SWE.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

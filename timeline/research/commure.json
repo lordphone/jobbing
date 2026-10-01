@@ -1,7 +1,7 @@
 {
   "company": "Commure",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
@@ -10,7 +10,18 @@
       "location": "Mountain View, CA; Los Angeles, CA",
       "opened": "on or before 2026-09-11",
       "date_source": "tracker first seen (2026-09-11)",
-      "grad_window": "graduating recently or within the upcoming academic year (2027)",
+      "grad_window": "graduating recently or within the upcoming academic year (2027 cohort)",
+      "live_verified": "browser",
+      "deadline": null
+    },
+    {
+      "title": "Software Engineer, Scribe AI",
+      "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465",
+      "location": "Mountain View, CA",
+      "opened": "2026-09-23",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
       "live_verified": "browser"
     }
   ],
@@ -20,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Commure",
   "jobs_spec": "ashby:Commure",
-  "evidence": "Ashby API shows this posting as not found/closed, and it is absent from the public board listing, but opening its direct URL in the browser shows a full, working application form (education-year dropdown includes 2027, asks about internship stacks and US sponsorship) with no 'closed' banner. Verified live myself.",
-  "confidence": "medium"
+  "evidence": "Opened both in browser with Apply button: Early Career 2027 (grad recently/within upcoming academic year; not on public API list) and Scribe AI SWE (1-4 yrs, 'strong new grads encouraged', listed on API 2026-09-23). No deadline stated.",
+  "confidence": "high"
 }

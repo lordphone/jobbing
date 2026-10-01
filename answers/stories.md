@@ -51,3 +51,27 @@ Live Activity push-to-start that had never worked, behind HTTP 200.
 - How did you verify the fix — real device? — GAP
 - Why raise on the sender instead of just adding the field? — GAP
 - Context: shipped ActivityKit Live Activities plus a shared ScoreboardKit widget; removed ~380 lines of bespoke scoreboards.
+
+---
+
+## retired-detector
+
+Deleted my own breaking-news detector after 19 hours of production data.
+
+- inventory: `nb-retired-detector`, `nb-llm-pipeline`
+- types: failure / mistake, data-driven decision, story that represents you, lesson learned
+- used with: (company not recorded, 2026-09-30)
+
+**STAR**
+- S: NewsBreak, SportsBreak breaking-news push alerts. First detector used corroboration (how many publishers covered a story).
+- T: Decide whether it was good enough to send real alerts; ran it in production shadow first.
+- A: 19 hours of shadow data: pipeline latency 1.8 min p50, but 901 min (15 h) p50 from a story's first article; 20 of 26 would-be alerts >6 h old; most-corroborated item (5 publishers) was UFC card filler. Deleted the detector, the 1,003-line calibration harness, and tests 2 days 1 hour after writing them (net −882 lines). Kept corroboration as offline ground truth.
+- R: Rebuilt as per-article LLM scoring on arrival, gated on a percentile of the topic's rolling 7-day distribution; 11 days of shadow review, then live. Filler 34% → 4% by count, 29% → 3% device-weighted.
+- Lesson: attach to the problem, not the code; get ideas in front of real data early.
+
+**Likely follow-ups**
+- Why did corroboration seem like a good idea at first? — GAP
+- Why shadow mode instead of a small live rollout? — GAP
+- How did you define "filler" when grading? — context: hand-graded alerts; filler and real events both scored 89–90, which led to the categorical gate
+- Did anyone push back on deleting it? — GAP
+- Context: 35 fires = 21 distinct stories; 12 UFC vs 1 NFL.

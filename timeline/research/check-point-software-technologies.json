@@ -7,9 +7,9 @@
   "last_cycle_basis": "No tracker history found for Check Point new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.checkpoint.com/",
+  "jobs_page": "https://careers.checkpoint.com/index.php?m=cpcareers&a=search",
   "jobs_spec": null,
-  "evidence": "No first-party job-board spec found (guess found no match); careers.checkpoint.com blocked WebFetch (403) this run. Kept prior finding: R&D is based in Israel, US roles are sales/engineering-support, not entry-level SWE.",
-  "confidence": "low",
-  "checked": "2026-09-27"
+  "evidence": "Read all 398 jobs (pages via start= param) in browser: US roles are sales, solutions/security engineers, services, legal; R&D developers are Israel/elsewhere. No US entry SWE.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

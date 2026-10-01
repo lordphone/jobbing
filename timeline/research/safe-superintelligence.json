@@ -1,15 +1,15 @@
 {
   "company": "Safe Superintelligence (SSI)",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'Safe Superintelligence' returned 0 postings; no tracker evidence found for a prior cycle.",
+  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ssi",
   "jobs_spec": "ashby:ssi",
-  "evidence": "Re-checked 2026-09-27: jobs.py API still returns no board/empty list for ashby:ssi. Prior run verified 'Open Positions (0)' in browser; no structured new-grad track.",
-  "confidence": "high"
+  "evidence": "ssi.inc has only a generic Apply link to an Ashby posting that the API cannot find; ashby:ssi board returns nothing. No structured new-grad track or listed roles seen.",
+  "confidence": "low"
 }

@@ -1,7 +1,7 @@
 {
   "company": "NPR",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nationalpublicradioinc",
   "jobs_spec": "gh:nationalpublicradioinc",
-  "evidence": "Found NPR's Greenhouse board (confirmed genuine: postings include 'Correspondent, Justice Department'). 21 postings reviewed; the two SWE-track roles are 'Manager, Mobile Software Engineering' and 'Senior Mobile Software Architect', both senior. Two law externships (for-credit, not SWE) are the only entry-adjacent roles. No entry-level SWE posting found.",
+  "evidence": "gh:nationalpublicradioinc --all (21): Manager Mobile SWE, Lead Data Scientist AI Labs, legal externships; no entry-level SWE. Unchanged.",
   "confidence": "high"
 }

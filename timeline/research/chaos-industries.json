@@ -1,19 +1,15 @@
 {
   "company": "CHAOS Industries",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "excluded",
-  "postings": [
-    {"title": "Applied AI Engineer", "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5237013007", "location": "San Francisco, CA",
-     "opened": "2026-09-14", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
-  ],
+  "checked": "2026-09-30",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "unknown; no tracker or board history found",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chaosindustries",
   "jobs_spec": "gh:chaosindustries",
-  "evidence": "Checked full Greenhouse board (28 SWE-adjacent postings). Entry-level-looking 'Applied AI Engineer' (SF, opened 2026-09-14) states 'Minimum Requirements: US Citizen or Permanent Resident'. All other SWE roles are Senior/Principal/Mid-Career.",
-  "confidence": "high"
+  "evidence": "Greenhouse board (~40 software-ish postings): none entry-level (Senior/Staff/Principal; Applied AI needs 2+ yrs; Mid-Career SWE). Backend Software Engineer quotes 'Must be a U.S. Person (U.S. citizen or permanent resident)'.",
+  "confidence": "medium"
 }

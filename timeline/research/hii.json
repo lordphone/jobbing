@@ -1,15 +1,15 @@
 {
   "company": "HII",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2026-01-08",
-  "last_cycle_basis": "worklist tracker_last_cycle note (kept from prior pass)",
+  "last_cycle_basis": "tracker last-cycle note (kept from prior pass)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.huntingtoningalls.com",
   "jobs_spec": null,
-  "evidence": "Newport News Shipbuilding board (406+ US postings). No 'ENGINEER SOFTWARE 1/2' (entry) exists, only level 3+; but the entry-level engineering track it does run states directly: 'US Citizenship Required for this Position: Yes' (ENGINEER STRUCTURAL 1, req 49393, Bachelor's + 0 years). All NNS entry engineering roles carry this requirement, so any future entry-level SWE opening here would too.",
+  "evidence": "Crawled all 388 listings on the SuccessFactors site: only software role is ENGINEER SOFTWARE 3 (3-5 yrs) and IT/computer interns/co-ops. Both software postings say 'US Citizenship Required for this Position: Yes'. No entry-level SWE.",
   "confidence": "high"
 }

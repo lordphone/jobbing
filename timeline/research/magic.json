@@ -1,15 +1,15 @@
 {
   "company": "Magic (magic.dev)",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No reliable first-party history found for magic.dev specifically; a regex history search for 'Magic' matched an unrelated company (jobs.ashbyhq.com/magical) and was discarded.",
+  "last_cycle_basis": "no reliable history for magic.dev (matches were Magical, discarded)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/magic.dev",
   "jobs_spec": "ashby:magic.dev",
-  "evidence": "worklist's gh:magic spec/jobs_page point to an unrelated crypto/payments company on Greenhouse, not magic.dev. Found magic.dev's real board on Ashby (8 open postings, --all): Research Engineer, several Member of Technical Staff roles, Head of IT. None are labeled new grad / entry-level; all read as experienced/staff roles. No entry-level SWE track found.",
-  "confidence": "medium"
+  "evidence": "Ashby magic.dev (7 postings, --all): Research Engineer and Member of Technical Staff roles, none entry-level or new grad. Tracker 'Magic' history is the unrelated Magical company.",
+  "confidence": "high"
 }

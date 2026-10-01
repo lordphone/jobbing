@@ -1,15 +1,26 @@
 {
   "company": "EvenUp",
   "tier": 2,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (New Grad), AI Entities",
+      "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5",
+      "location": "San Francisco (hybrid); Toronto",
+      "opened": "on or before 2026-09-30",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-07-14",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer \u2013 New Graduate' (San Francisco, CA; Toronto, ON), https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d/application",
+  "last_cycle_basis": "Tracker first seen 'Software Engineer – New Graduate' (SF/Toronto) https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d; also Early Career ML Engineer 2025-06/07.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/evenup",
   "jobs_spec": null,
-  "evidence": "Ashby posting-api 404s for this org; read full live board (41 postings) in browser. Engineering has 8 roles, none labeled new grad. 'Software Engineer, New Products' description requires '5-10+ years of experience'. This cycle's two new-grad postings (Apr 2026) are closed.",
+  "evidence": "Ashby public board read via GraphQL (43 postings) and posting opened in browser (Apply for this Job shown). New Grad SWE, SF hybrid; no class year, years ask or sponsorship line, no deadline. Earlier Apr 2026 new-grad postings are gone.",
   "confidence": "high"
 }

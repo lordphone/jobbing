@@ -1,19 +1,26 @@
 {
   "company": "Relativity Space",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Full Stack Software Engineer I", "url": "https://boards.greenhouse.io/relativity/jobs/8834005002",
-     "location": "Long Beach, California", "opened": "2026-09-22", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Full Stack Software Engineer I",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8834005002",
+      "location": "Long Beach, California",
+      "opened": "2026-09-22",
+      "date_source": "greenhouse first_published",
+      "grad_window": "degree complete and available to start within 30-60 days of applying",
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "previous-cycle result (Simplify tracker: 'GNC Simulation Engineer 1', Long Beach)",
+  "last_cycle_basis": "tracker first seen: 'GNC Simulation Engineer 1', Long Beach (https://boards.greenhouse.io/relativity/jobs/8236930002)",
   "excluded_reason": "us person / itar",
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/relativity",
   "jobs_spec": "gh:relativity",
-  "evidence": "Opened 'Full Stack Software Engineer I' posting (entry-level, requires only 1+ yrs incl. internships). Application form states the hire 'will have access to information and items controlled by the International Traffic in Arms Regulation (ITAR), and, therefore, must either be a \"U.S. person\"... or otherwise eligible for a federally issued export control license.'",
-  "confidence": "high"
+  "evidence": "Re-opened Full Stack SWE I (first published 2026-09-22, Apply present, rolling 'actively hiring for immediate openings'); page: hire 'must either be a U.S. person' per ITAR or otherwise eligible for an export license; 'OPT, CPT, H-4 ... do NOT qualify'. No deadline.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

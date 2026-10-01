@@ -1,15 +1,15 @@
 {
   "company": "Persistent Systems",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero Persistent entries",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history has no Persistent entries.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.persistent.com/jobslist",
   "jobs_spec": null,
-  "evidence": "Found Persistent Systems' real board (careers.persistent.com/jobslist -- the worklist's icims URL is a different company, Persistent Systems LLC/Secure MANET Solutions). Filtered to United States: 24 openings, almost all senior (Architect, Principal Architect, Engineering Lead, SME, Solution Architect). One ambiguous title, 'Programmer (Dev) - United States' (Charlotte), had no visible experience level; the SPA's job-detail links only open via a blocked new tab so its requirements couldn't be read this pass. No explicit new-grad/entry-level SWE title found among the US listings.",
+  "evidence": "Job list at careers.persistent.com/jobslist loads by script; not readable this run (no API found, browser pane unreliable). Carried over earlier US-filtered read: 24 openings, nearly all senior/architect. Early-careers page shows no US roles or dates.",
   "confidence": "low"
 }

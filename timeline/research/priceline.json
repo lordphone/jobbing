@@ -1,7 +1,7 @@
 {
   "company": "Priceline",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://priceline.wd1.myworkdayjobs.com/Priceline",
   "jobs_spec": "wd:priceline/wd1/Priceline",
-  "evidence": "Checked Workday board (34 postings): 'Associate Software Engineer' (Mumbai) and 'Associate Software Developer' (Toronto) exist but neither is US-located, so nothing qualifies this cycle.",
-  "confidence": "medium"
+  "evidence": "wd:priceline/wd1 (33): only Associate Software Engineer (Mumbai) and Associate Java Developer (Toronto); no US entry SWE. Unchanged.",
+  "confidence": "high"
 }

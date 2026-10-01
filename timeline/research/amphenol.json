@@ -1,15 +1,15 @@
 {
   "company": "Amphenol",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker or company-level history found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found",
   "jobs_page": "https://amphenol.com/careers",
   "jobs_spec": null,
-  "evidence": "No Greenhouse/Lever/Ashby/SmartRecruiters slug guessed. Amphenol is decentralized across ~150 subsidiaries, each with its own careers site (e.g. amphenol-aerospace, amphenol-industrial, amphenol-cs); web search found no new-grad SWE program at corporate or subsidiary level.",
-  "confidence": "low"
+  "evidence": "amphenol.com/careers returns 403 to WebFetch/curl; it lists ~150 decentralized business units. Read one division board (amphenol-tcs.acquiretm.com, 99 of 339 jobs listed): no entry SWE, only firmware manager, PLM/AI enablement, hardware. No corporate SWE new-grad program found.",
+  "confidence": "low",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,15 +1,26 @@
 {
   "company": "ZS Associates",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero ZS entries in either tracker",
+  "checked": "2026-09-30",
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Business Technology Solutions Associate",
+      "url": "https://jobs.zs.com/jobs/67648",
+      "location": "Princeton, NJ",
+      "opened": "2026-09-22",
+      "date_source": "jobs.zs.com API create_date",
+      "deadline": null,
+      "grad_window": "degree completed, start full-time employment in 2026",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no dated source found",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://jobs.zs.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.zs.com's keyword search works reliably. 'associate software engineer' -> 1 US result (Senior Software Engineer, Zaidyn -- experienced, not entry); exact phrase '\"Associate Software Engineer\"' -> 0 results anywhere. 'campus' -> 24 results, all North-America listings are university-student INTERNSHIPS (Advisory Consultant Intern, AI Strategy Consultant Intern, Business Technology Solutions Consultant Intern, etc.), not full-time new-grad roles. No live full-time US entry-level SWE posting found.",
+  "evidence": "jobs.zs.com JSON API, 159 US postings. Only entry tech-track role: BTS Associate (SQL/Python dev), 'available to start full-time employment in 2026', 'not eligible for visa sponsorship'. 2027 items are interns only. Software Development category is senior/lead.",
   "confidence": "medium"
 }

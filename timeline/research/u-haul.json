@@ -1,15 +1,15 @@
 {
   "company": "U-Haul (U-Haul Holding Company)",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no tracker history entries found for U-Haul",
+  "last_cycle_basis": "Tracker history shows ETL Developer/BI Analyst/App Support in 2026, none new-grad SWE",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs",
   "jobs_spec": "wd:uhaul/wd1/UhaulJobs",
-  "evidence": "Workday board shows Senior Software Developer, Software Development Test Engineer, and QA Automation Engineer (all Phoenix). Detail page for the Test Engineer role shows no grad-window or years-of-experience language and no '2027'/new-grad framing, so not counted as a new-grad posting.",
-  "confidence": "medium"
+  "evidence": "Workday board (48 postings, --all): only Senior Software Developer and Software Development Test Engineer (Phoenix), no grad window. Tracker history empty. No entry-level SWE or new-grad program.",
+  "confidence": "high"
 }

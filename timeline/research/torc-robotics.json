@@ -1,22 +1,36 @@
 {
   "company": "Torc Robotics",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, I - Data Engineering", "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002", "location": "Ann Arbor, MI; Blacksburg, VA",
-     "opened": "2026-09-03", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "ML Engineer, I - MLOps Framework", "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002", "location": "Remote - US",
-     "opened": "2026-08-25", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "ML Engineer, I - MLOps Framework",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002",
+      "location": "Remote - US",
+      "opened": "2026-08-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, I - Data Engineering",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002",
+      "location": "Ann Arbor, MI, Blacksburg, VA",
+      "opened": "2026-09-03",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-03",
-  "last_cycle_basis": "tracker first-seen; 'Machine Learning Engineer I - App Engine - CUDA', Ann Arbor MI",
+  "last_cycle_basis": "tracker first-seen; 'Machine Learning Engineer I - App Engine - Cuda', Ann Arbor MI",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/torcrobotics",
   "jobs_spec": "gh:torcrobotics",
-  "evidence": "Greenhouse API: both 'level I' postings live, no citizenship/clearance/sponsorship language found. 'ML Engineer, I' quotes 0-3+ years experience (qualifies). No graduation-window text found in either.",
+  "evidence": "Greenhouse API: two level-I postings live and readable via detail. ML Engineer I quotes 0-3+ yrs; no citizenship, clearance or sponsorship text; no grad window or deadline. Software Engineer I - Metrics for Release (2026-03) no longer listed.",
   "confidence": "high"
 }

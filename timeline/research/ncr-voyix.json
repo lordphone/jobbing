@@ -1,19 +1,26 @@
 {
   "company": "NCR Voyix",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "leftover_2026",
+  "checked": "2026-09-30",
+  "status": "open",
   "postings": [
-    {"title": "SW Engineer I", "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595", "location": "Atlanta, GA",
-     "opened": "on or before 2026-06-26", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "SW Engineer I",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
+      "location": "Atlanta, GA",
+      "opened": "on or before 2026-06-26",
+      "date_source": "workday startDate; 'Posted 30+ Days Ago'",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-11-04",
-  "last_cycle_basis": "worklist tracker_last_cycle hint (2025-11-04)",
+  "last_cycle_basis": "Tracker history: Software Engineer I, Atlanta, first seen 2025-11-04.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ncr.wd1.myworkdayjobs.com/ext_us",
   "jobs_spec": "wd:ncr/wd1/ext_us",
-  "evidence": "Workday board still shows 'SW Engineer I' (Atlanta), first posted 2026-06-26, before the 2027-cycle window (on/after 2026-07-01), so still treated as a 2026-cycle leftover. All other SWE roles are II/III/Principal/Senior.",
-  "confidence": "high"
+  "evidence": "Workday API: SW Engineer I live (canApply), bachelor's in CS, no years or class year, posted 2026-06-26. Prior file called it leftover_2026 on date alone; evergreen-style entry role, so open. Other roles II/III+.",
+  "confidence": "medium"
 }

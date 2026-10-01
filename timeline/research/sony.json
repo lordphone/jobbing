@@ -1,15 +1,36 @@
 {
   "company": "Sony (Sony Electronics / Sony Corporation of America)",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no 2025-07 to 2026-01 qualifying US entry-level SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004",
+      "location": "San Mateo, CA",
+      "opened": "2026-07-16",
+      "date_source": "greenhouse first_published (from 2026-09-28 check)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I SDK",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004",
+      "location": "San Mateo, CA",
+      "opened": "2026-08-10",
+      "date_source": "greenhouse first_published (from 2026-09-28 check)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2026-01-24",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1, San Mateo CA (SIE greenhouse 5727775004); earlier SWE I San Diego 2025-04-11",
   "jobs_page": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers",
   "jobs_spec": "wd:sonyglobal/wd1/SonyGlobalCareers",
-  "evidence": "Sony Global Workday board (--all) has no US entry SWE now (only senior/manager/director). Checked related Sony Interactive Entertainment Greenhouse board (gh:sonyinteractiveentertainmentglobal): 'Software Engineer I' (San Mateo, CA, first_published 2026-07-16) requires 2-5+ years experience, not entry-level. No qualifying 0-1 yr new-grad posting found.",
-  "confidence": "medium"
+  "evidence": "Sony Global Workday (38) has no US entry SWE. SIE Greenhouse (gh:sonyinteractiveentertainmentglobal, 205 jobs) no longer lists the two Software Engineer I postings (API 404, were live 9/28); only II/Senior/Staff remain. Rolling SWE I postings recur.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

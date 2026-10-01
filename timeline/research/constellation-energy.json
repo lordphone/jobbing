@@ -1,15 +1,15 @@
 {
   "company": "Constellation Energy",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": "2026-08-27",
-  "last_cycle_basis": "jobs.py history: 'Associate Software Engineer - AI' (multi-site incl. KY/WI/TX), first seen 2026-08-27; a second posting (Baltimore, MD) first seen 2026-09-04",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no 2025-07..2026-01 new-grad SWE posting in jobs.py history; the Associate Software Engineer - AI / Associate Data Scientist - AI postings (Aug-Sep 2026) are this cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.constellationenergy.com",
+  "jobs_page": "https://jobs.constellationenergy.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Two 'Associate Software Engineer - AI' postings (multi-site 2026-08-27, Baltimore 2026-09-04) were previously confirmed 404/closed. iCIMS board doesn't render via WebFetch to re-verify a new posting; no evidence of a new opening this run, so status kept as closed per prior finding.",
-  "confidence": "low"
+  "evidence": "iCIMS site API 2026-09-30, all 302 jobs: 'Associate Software Engineer - AI' (138264 first seen 2026-08-27, 138781 2026-09-04), Associate AI Solutions Specialist and Associate Data Scientist - AI all return 404 / absent. Only Sr Data Engineer, AI and interns remain. No deadline stated.",
+  "confidence": "high"
 }

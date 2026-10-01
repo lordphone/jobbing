@@ -1,18 +1,46 @@
 {
   "company": "Cigna",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Technology Development Program (TECDP) - Software Engineering Track - Start Date: July 12, 2027", "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470", "location": "NJ-Morris Plains (+1 more)", "opened": "on or before 2026-09-09", "date_source": "workday postedOn (Posted 18 Days Ago)", "grad_window": "start date July 12, 2027", "live_verified": "api"},
-    {"title": "Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027", "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track---Start-Date--July-12--2027_26010467", "location": "Bloomfield, CT (+2 more)", "opened": "on or before 2026-09-09", "date_source": "workday postedOn", "grad_window": "start date July 12, 2027", "live_verified": "api"}
+    {
+      "title": "Technology Development Program (TECDP) - Software Engineering Track - Start Date: July 12, 2027",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470",
+      "location": "NJ, Morris Plains, 115 Tabor Rd; MN, Bloomington, 6625 West 78th St STE 100",
+      "opened": "2026-08-12",
+      "date_source": "tracker first seen 2026-08-12 (earlier req, closed and reposted); current req workday startDate 2026-09-09",
+      "grad_window": "start date July 12, 2027",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Technology Development Program (TECDP) - Artificial Intelligence Track - Start Date: July 12, 2027",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Artificial-Intelligence-Track---Start-Date--July-12--2027_26010465",
+      "location": "Bloomfield, CT; NJ, Morris Plains, 115 Tabor Rd; TX, Austin, 11501 Alterra Pkwy STE 500; St. Louis, MO",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn (19 days ago)",
+      "grad_window": "start date July 12, 2027",
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track---Start-Date--July-12--2027_26010467",
+      "location": "Bloomfield, CT; Morris Plains, NJ; St. Louis, MO",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn (19 days ago)",
+      "grad_window": "start date July 12, 2027",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
-  "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "tracker first-seen date for Software Engineer Program - Software Engineering Track (jobs.py history / tracker_last_cycle)",
+  "last_cycle_opened": "2025-09-04",
+  "last_cycle_basis": "tracker first seen: TECDP Artificial Intelligence / Infrastructure & Cloud tracks, cigna.wd5.myworkdayjobs.com/cignacareers",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
   "jobs_spec": "wd:cigna/wd5/cignacareers",
-  "evidence": "Live Workday posting: TECDP Software Engineering Track, start date July 12 2027, matches tracker_lead exactly. Confirmed on the company's own board.",
+  "evidence": "Workday board (100): 2027 TECDP tracks (Software Engineering, AI, Data & Analytics, Cyber) live, start July 12 2027. Quote: 'do not now, or in the future, require visa sponsorship'. No end date stated. Aug 2026 reqs closed and reposted 9/9.",
   "confidence": "high"
 }

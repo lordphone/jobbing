@@ -1,25 +1,26 @@
 {
   "company": "ZipRecruiter",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer New Grad - Multiple Teams",
+      "title": "Software Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
       "location": "Santa Monica, CA",
       "opened": "2026-09-24",
       "date_source": "greenhouse first_published",
-      "grad_window": null,
+      "deadline": null,
+      "grad_window": "Expected 2027 graduation, or graduated Spring 2025 - Fall 2026",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker/history first seen: 'Software Engineer – New Grad - Multiple Teams' | Santa Monica, CA | https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
+  "last_cycle_basis": "tracker first seen 'Software Engineer - New Grad - Multiple Teams' https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ziprecruiter",
   "jobs_spec": "gh:ziprecruiter",
-  "evidence": "Greenhouse API confirms a live 'Software Engineer New Grad - Multiple Teams' posting, first published 2026-09-24, matching the tracker lead. Same role/track as last cycle (opened 2025-10-02).",
+  "evidence": "Greenhouse API lists Software Engineer - New Grad (first_published 2026-09-24), page returns 200. Eligibility: expected 2027 grad or recent grad (Spring 2025-Fall 2026). No citizenship/sponsorship exclusion, no deadline stated.",
   "confidence": "high"
 }

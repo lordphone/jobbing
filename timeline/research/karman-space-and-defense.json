@@ -1,15 +1,15 @@
 {
   "company": "Karman Space & Defense",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Karman (jobs.py history 'Karman' returns 0 postings).",
+  "last_cycle_basis": "No tracker history found for Karman.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://karman-sd.com/job-openings/",
   "jobs_spec": null,
-  "evidence": "No jobs.py spec found (guess turned up no Greenhouse/Lever/Ashby/Workday board). karman-sd.com/job-openings/ still renders no job listings in the browser pane (only nav chrome; a BugHerd widget iframe, no ATS iframe). careers/ page has no eligibility/citizenship quote and no job list either. WebSearch found no SWE postings, only general career-page mentions. Defense/space hardware contractor, so ITAR exclusion is plausible but unconfirmed.",
-  "confidence": "low"
+  "evidence": "Embedded ADP WorkforceNow widget read via public API: 236 openings, all manufacturing, machining, systems or business roles; no software engineer or new-grad SWE titles.",
+  "confidence": "medium"
 }

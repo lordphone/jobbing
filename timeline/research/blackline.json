@@ -1,7 +1,7 @@
 {
   "company": "BlackLine",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.blackline.com/careers-home/",
   "jobs_spec": "wd:blackline/wd108/blacklinecareers",
-  "evidence": "Found board via browser (careers.blackline.com -> Workday tenant blackline/wd108/blacklinecareers, 110 postings). Checked full list: only Senior/Staff/Manager SWE roles, US locations (LA, Pleasanton) are all Senior/Staff. No entry-level SWE anywhere, no new-grad history.",
+  "evidence": "Workday API (32 postings, full list, 2026-09-30): SWE roles are Krakow, Bengaluru, Mexico City, or Staff I in Los Angeles / Senior in Pleasanton. No US entry-level SWE; no tracker history.",
   "confidence": "medium"
 }

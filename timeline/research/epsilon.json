@@ -1,15 +1,26 @@
 {
   "company": "Epsilon",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Entry level, Data Practice)",
+      "url": "https://careers.publicisgroupe.com/jobs/166907",
+      "location": "Westminster, Colorado (hybrid)",
+      "opened": "2026-09-09",
+      "date_source": "page text (Publicis careers posted date)",
+      "deadline": "2026-11-09",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-08-22",
   "last_cycle_basis": "tracker first-seen: 'New Grad 2025: Associate, Software Engineer' | Irving, TX, first seen 2025-08-22",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicisgroupe.com/jobs?brand=Epsilon",
   "jobs_spec": null,
-  "evidence": "Searched the Publicis Groupe careers board (browser pane, keyword 'Epsilon engineer', 109 results) for an Epsilon 'Associate, Software Engineer' or 'New Grad' SWE posting: none found this cycle. Only Lead/Staff/Principal engineering and non-eng Epsilon roles are open.",
-  "confidence": "medium"
+  "evidence": "Opened req 166907 in browser: Entry level, 1-3 yrs, Apply button live, posted 9/9/2026, states anticipated application deadline 11/9/2026; no citizenship or sponsorship limits. Last-cycle Associate SWE reqs not listed now.",
+  "confidence": "high"
 }

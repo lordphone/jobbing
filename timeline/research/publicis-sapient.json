@@ -1,15 +1,26 @@
 {
   "company": "Publicis Sapient",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history for 'Sapient' has zero US SWE tracker entries",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Java Application Support Engineer (Entry Level)",
+      "url": "https://careers.publicissapient.com/job-details/2026-174321-java-application-support-engineer-boston",
+      "location": "Boston, MA",
+      "opened": "2026-09-18",
+      "date_source": "site Solr API releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no dated source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicissapient.com/job-search",
   "jobs_spec": null,
-  "evidence": "careers.publicissapient.com/job-search loads correctly in the browser pane; read all 102 US listings across 6 pages (20 per page): only senior/principal/manager/architect/consultant titles and one 'Software Engineer Intern (Class of 2028)' internship. No live full-time Junior Associate Technology / Associate Software Engineer posting found. The site's own Early Career page (careers.publicissapient.com/early-career) confirms a full-time Early Careers Program exists for final-year students but shows no dated 2027 opening.",
+  "evidence": "Site Solr API (401 jobs, 107 US): Entry Level engineering role is Java Application Support Engineer (Java/SQL production support, Boston, Technology and Engineering team, no citizenship/sponsorship text): borderline SWE. Class of 2028 SWE intern only; no 2027 new-grad SWE.",
   "confidence": "medium"
 }

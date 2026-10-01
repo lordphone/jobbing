@@ -1,15 +1,15 @@
 {
   "company": "Marvell",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-05",
-  "last_cycle_basis": "jobs.py history: 'AI Engineer' Santa Clara CA, first seen 2026-01-05, https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Engineer_2503867-1",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: AI Engineer (Santa Clara, CA), marvell.wd1.myworkdayjobs.com/MarvellCareers2, 2026-01-05",
   "jobs_page": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
   "jobs_spec": "wd:marvell/wd1/MarvellCareers",
-  "evidence": "Checked full Workday board (--all). All software-titled roles are 2027 interns or senior/staff/principal engineers. No 0-1yr new-grad SWE posting found.",
-  "confidence": "medium"
+  "evidence": "Both Workday sites (MarvellCareers, MarvellCareers2) with --all: US software titles are Summer 2027 interns; Madrid/Hyderabad roles; live Early Career role is Accelerated Computing Solutions Analyst, not SWE. No US new-grad SWE live.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

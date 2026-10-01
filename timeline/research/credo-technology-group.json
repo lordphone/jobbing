@@ -1,15 +1,15 @@
 {
   "company": "Credo Technology Group",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings for Credo",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://credosemi.com/about-credo/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page runs on HiBob (credo.careers.hibob.com). Only software-adjacent role found is Software Field Application Engineer requiring a Master's + 1-3 yrs exp; no 0-1 yr SWE/new-grad postings.",
-  "confidence": "medium"
+  "evidence": "HiBob API credo.careers.hibob.com (43 postings): only US SWE role is 'Software Engineer' (San Jose, posted 2026-09-04, internal AI automation, 2+ yrs required, 2-5 yrs preferred, no entry label) so not entry-level. Others senior/staff/hardware.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

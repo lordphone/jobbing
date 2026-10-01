@@ -1,15 +1,26 @@
 {
   "company": "H-E-B",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Software Engineer 1 - Multiple Teams",
+      "url": "https://careers.heb.com/jobs/231773",
+      "location": "San Antonio, TX",
+      "opened": "2026-08-21",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "H-E-B Digital reposts a 'Software Engineer I' role periodically (per prior research); no dated first-seen record found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.heb.com/digital",
   "jobs_spec": null,
-  "evidence": "iCIMS-based board (no API); WebFetch can't render the JS job list. Prior 2026-09-24 research searched 'software engineer' (17 results, all Senior/Staff/Manager) and 'new grad' (0 results); that cycle's SWE 1 posting is now 404. No contradicting evidence found this pass.",
-  "confidence": "medium"
+  "evidence": "Jibe API (careers.heb.com/api/jobs) 2026-09-30: only Senior/Staff/Manager SWE roles. Tracker 'Software Engineer 1 - Multiple Teams' (req 231773, San Antonio, first seen 2026-08-21) now returns 404.",
+  "confidence": "high"
 }

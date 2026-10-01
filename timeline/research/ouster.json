@@ -1,15 +1,15 @@
 {
   "company": "Ouster",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker lead, board history not searched",
+  "last_cycle_basis": "unknown; no tracker or board history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ouster.applytojob.com/apply",
   "jobs_spec": null,
-  "evidence": "Found job board (ApplyToJob, not a supported jobs.py spec). Only Senior/Staff-level software/embedded/FPGA roles listed plus one non-engineering entry-level role (Associate Customer Success Engineer). No entry-level or new-grad SWE posting.",
+  "evidence": "ApplyToJob board read via WebFetch (25 postings): software roles are Senior/Staff Embedded, Staff SWE in Test, Software Engineer - Test Systems & Automation (mid-level). Only entry role is Associate Customer Success Engineer, not SWE.",
   "confidence": "medium"
 }

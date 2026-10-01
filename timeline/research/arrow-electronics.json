@@ -1,15 +1,15 @@
 {
   "company": "Arrow Electronics",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board evidence found",
+  "last_cycle_basis": "jobs.py history: only Apprentice - Cloud Infrastructure, Bangalore (2025-10-14), not US",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://arrow.wd1.myworkdayjobs.com/ac",
   "jobs_spec": "wd:arrow/wd1/ac",
-  "evidence": "Checked full Workday board (--all). All US software/engineering postings found are senior/experienced level; entry SWE titles seen are non-US (Egypt, India). No US entry-level SWE program found.",
+  "evidence": "Workday (100, --all): US software roles are senior (Senior Software Test Engineer Plano); entry SWE-type roles are non-US (Egypt, India apprentice). No US entry-level SWE.",
   "confidence": "high"
 }

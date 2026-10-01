@@ -1,15 +1,36 @@
 {
   "company": "USAA",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I - Cloud",
+      "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I---Cloud_R0120157",
+      "location": "San Antonio, TX",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I - Claims",
+      "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/Software-Engineer-I_R0120181",
+      "location": "Phoenix, AZ",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-27",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineer Entry Level' (Plano, TX), 2025-08-27",
+  "last_cycle_basis": "tracker history: 'Software Engineer Entry Level' (Plano, TX) first seen 2025-08-27; older early-careers SWE postings Nov 2024-Feb 2025",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
   "jobs_spec": "wd:usaa/wd1/USAAJOBSWD",
-  "evidence": "Live 'Software Engineer I' postings (Cloud, Claims) both require 'Bachelor's degree; OR 4 years of relevant education/experience' plus '2-4 years of software development experience' - not new-grad roles despite the 'I' title; both say 'USAA does not provide visa sponsorship'. The actual new-grad title at USAA is 'Software Engineer Entry Level', last seen this cycle-window in tracker history on 2025-08-27 (last cycle) with none live now. Correcting worklist's stale 'open' hint, which reflected the non-entry-level Software Engineer I postings.",
-  "confidence": "high"
+  "evidence": "Workday API: two live Software Engineer I postings (canApply true), both ask bachelor's + about 2 yrs, not labeled new grad; I-level title counts under years rule. Both state 'USAA does not provide visa sponsorship'. No deadline stated. No entry-level-titled posting.",
+  "confidence": "medium"
 }

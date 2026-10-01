@@ -1,15 +1,26 @@
 {
   "company": "Hippocratic AI",
   "tier": 2,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Forward Deployment Engineer (Residency Program)",
+      "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e",
+      "location": "Menlo Park, CA",
+      "opened": "2026-09-19",
+      "date_source": "ashby publishedAt",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'Hippocratic' found only one non-SWE posting (Deployment Strategist, 2026-06-02); no new-grad SWE posting found in tracker history for 2025-07 to 2026-01.",
+  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Hippocratic%20AI",
   "jobs_spec": "ashby:Hippocratic%20AI",
-  "evidence": "Re-checked 2026-09-27: keyword re-filter matches only non-SWE 'Associate Chief Nursing/Medical Officer' titles. Still no new-grad/0-1yr SWE roles on the board.",
-  "confidence": "high"
+  "evidence": "Ashby API and posting text read 2026-09-30: FDE Residency (6mo Resident, 6mo Associate FDE), Menlo Park/Palo Alto onsite, published 2026-09-19; asks 2+ yrs but entry track. Forward-deployed engineering, not pure SWE. No sponsorship language.",
+  "confidence": "medium"
 }

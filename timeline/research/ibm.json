@@ -1,25 +1,76 @@
 {
   "company": "IBM",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
     {
       "title": "Entry Level Software Developer 2027",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Entry-Level-Software-Developer-2027/129784",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129784",
       "location": "Poughkeepsie, NY; Durham, NC",
       "opened": "2026-08-19",
-      "date_source": "page text",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry Level Cloud Developer - Chicago, IL - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131212",
+      "location": "Chicago, IL",
+      "opened": "2026-09-03",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry level Backend Developer - San Jose, CA - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131805",
+      "location": "San Jose, CA",
+      "opened": "2026-09-03",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry Level Back End Developer - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130872",
+      "location": "Poughkeepsie, NY",
+      "opened": "2026-09-14",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry-Level Software Developer 2027 - Lowell",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133928",
+      "location": "Lowell, MA",
+      "opened": "2026-09-28",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry Level Software Developer 2027 - Durham",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133630",
+      "location": "Durham, NC",
+      "opened": "2026-09-28",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "tracker first-seen date for 'Software Developer' (Sandy Springs, GA; Poughkeepsie, NY; Lowell, MA), https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
+  "last_cycle_basis": "tracker first-seen 'Software Developer' (Sandy Springs, GA; Poughkeepsie, NY; Lowell, MA), https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.ibm.com",
   "jobs_spec": null,
-  "evidence": "Re-verified live via browser pane: posting page loads with full description, early-career software developer role across back-end/front-end/full-stack. Prior run's quote confirms 'IBM will not be providing visa sponsorship for this position now or in the future.'",
-  "confidence": "high"
+  "evidence": "Browser 2026-09-30: careers.ibm.com lists six US 2027 entry-level software/cloud/backend roles; each page shows Apply now and a posted date. 129784 says 'will not be providing visa sponsorship' (other pages lack that line); 21-day posting note has lapsed, no fixed deadline.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

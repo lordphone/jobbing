@@ -1,7 +1,6 @@
 {
   "company": "The Boring Company",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.boringcompany.com/careers",
   "jobs_spec": null,
-  "evidence": "Read the full first-party careers listing (custom site, no API, ~115 open roles). ENGINEERING > Software Engineering has 5 unleveled roles (Automation Controls Software Engineer, Embedded Perception Engineer, Embedded Software Engineer, Full Stack Web Developer, Tunnel RF Instrumentation Engineer) with no grad-window or new-grad framing. Only entry-level items are Summer/Winter 2027 internships and a year-long Mechanical Engineering internship; no full-time new-grad SWE posting.",
-  "confidence": "high"
+  "evidence": "First-party careers page (opened in browser) lists software roles: Automation Controls SWE, Embedded Perception, Embedded SWE (Bastrop), Full Stack Web Developer (Las Vegas) - all unleveled, none new-grad labeled. No full-time new-grad SWE or 2027 grad posting; no intern list seen this run.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

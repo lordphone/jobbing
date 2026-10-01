@@ -1,18 +1,26 @@
 {
   "company": "Guidehouse",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Junior Data Scientist", "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Junior-Data-Scientist_44323", "location": "Arlington, VA",
-     "opened": "on or before 2026-09-21", "date_source": "workday postedOn", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Palantir Foundry Engineer I",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Palantir-Foundry-Engineer-I_42897",
+      "location": "San Antonio TX + 4",
+      "opened": "on or before 2026-09-21",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-08",
-  "last_cycle_basis": "tracker_last_cycle from prior worklist entry",
+  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA, US citizenship tagged)",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
   "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:guidehouse/wd1/external",
-  "evidence": "Reviewed full board (~40+ software/data/junior titles). Only entry-level ('Junior') role close to SWE/AI is 'Junior Data Scientist' (Arlington VA), which requires 'Ability to Obtain Public Trust' clearance. All other software/full-stack developer postings are Lead/Senior level (McLean, San Antonio); no qualifying non-clearance commercial new-grad SWE role found.",
-  "confidence": "medium"
+  "evidence": "Workday API --all: only entry SWE-ish role, Foundry Engineer I (data eng), says 'Ability to obtain and maintain a Public Trust or higher federal security clearance'. Campus 2027 roles are consulting analyst/intern only. AI Software Engineer is not entry-level.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

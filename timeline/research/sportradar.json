@@ -1,7 +1,7 @@
 {
   "company": "Sportradar",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/sportradar",
   "jobs_spec": "sr:sportradar",
-  "evidence": "The gh:sportradar spec in sources.csv is stale (only 2 London reqs). Correct board is sr:sportradar (SmartRecruiters, 79 reqs, --all): all Software Engineer titles are Senior/Mid or based in Europe/Uruguay; no US entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "sr:sportradar --all (89): SWE roles Senior/Mid in Europe/Uruguay; US only Engineering Manager (NY, Minneapolis) and non-engineering. No US entry SWE. Unchanged.",
+  "confidence": "high"
 }

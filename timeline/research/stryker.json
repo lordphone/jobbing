@@ -1,12 +1,19 @@
 {
   "company": "Stryker",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Design Engineer - Software, RISE", "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Software--RISE_R571062", "location": "Portage, Michigan",
-     "opened": "2026-09-01", "date_source": "workday postedOn (Posted 26 Days Ago) + tracker first seen 2026-08-31",
-     "grad_window": "December 2026 or Spring 2027 graduation", "live_verified": "api"}
+    {
+      "title": "Design Engineer - Software, RISE",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Software--RISE_R571062",
+      "location": "Portage, MI",
+      "opened": "2026-08-31",
+      "date_source": "tracker first seen (workday startDate 2026-09-01)",
+      "deadline": null,
+      "grad_window": "December 2026 or Spring 2027 graduation",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no qualifying new-grad SWE posting found in tracker history 2025-07 to 2026-01",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
   "jobs_spec": "wd:stryker/wd1/StrykerCareers",
-  "evidence": "Confirmed live via jobs.py detail on company board. RISE rotational program for new grads, requires Dec 2026/Spring 2027 graduation date, 'will not require employment-based sponsorship now or in the future'. Software Development Engineer (Fort Wayne, 2026-08-17) also this-cycle but closed.",
+  "evidence": "Read RISE Software posting via CXS API: live, B.S./M.S. software/CS, Dec 2026 or spring 2027 grads only, no sponsorship now or future, no stated deadline. Other software roles are 2027 interns or Cork, Ireland grad program. Same as before.",
   "confidence": "high"
 }

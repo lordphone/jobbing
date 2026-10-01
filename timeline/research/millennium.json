@@ -1,15 +1,15 @@
 {
   "company": "Millennium",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no dated last-cycle full-time SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://campusjobs.mlp.com/careers",
+  "last_cycle_basis": "unknown; no dated last-cycle full-time new-grad SWE posting found",
+  "jobs_page": "https://career.mlp.com/careers?domain=mlp.com",
   "jobs_spec": null,
-  "evidence": "campusjobs.mlp.com/careers (56 open jobs, browser) shows only 2027 internships (Quant Researcher, Quant Developer, Applied AI Engineer); no full-time new-grad SWE posting found. LEaD Miami program needs 2+ yrs experience.",
-  "confidence": "medium"
+  "evidence": "Browser: campusjobs.mlp.com (56 jobs) is all 2027 interns/off-cycle; career.mlp.com US software list (39) is experienced roles plus LEaD Miami program (posted 2026-01-14, asks 2-5 yrs, not entry-labeled). No new-grad SWE.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

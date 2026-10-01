@@ -1,15 +1,15 @@
 {
   "company": "Intuitive Machines",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "excluded",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
-  "excluded_reason": "us person / itar",
+  "last_cycle_basis": "unknown; no tracker history",
+  "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.intuitivemachines.com/careers",
+  "jobs_page": "https://www.intuitivemachines.com/discover/careers",
   "jobs_spec": null,
-  "evidence": "Space/lunar lander company under ITAR export control. Web search confirms engineering postings (e.g. Orbit Determination and Navigation Engineer II/III) list US citizenship as a requirement; no entry-level SWE-specific posting found this cycle.",
-  "confidence": "low"
+  "evidence": "ADP board (94 reqs) plus Lanteris Workday: software roles are Flight SWE, Nebula SWEs, Comm/Nav leads, Data Engineer, Simulations Developer; none entry-level. Prior run quotes \"U.S. citizenship is required for this position\" (Data Engineer).",
+  "confidence": "high"
 }

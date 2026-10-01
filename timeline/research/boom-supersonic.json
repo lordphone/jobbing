@@ -1,17 +1,26 @@
 {
   "company": "Boom Supersonic",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer (Early Career, Exceptional Talent)", "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc", "location": "Centennial, CO", "opened": "on or before 2026-08-16", "date_source": "tracker first seen", "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Software Engineer (Early Career, Exceptional Talent)",
+      "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
+      "location": "Centennial, CO",
+      "opened": "2026-08-14",
+      "date_source": "page text (Rippling createdOn)",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Denver, CO",
-  "excluded_reason": "green card",
+  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Denver, CO (Boom Greenhouse)",
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://ats.rippling.com/boom-supersonic/jobs",
   "jobs_spec": null,
-  "evidence": "WebFetch of live Rippling posting: 'Applicant must be a U.S. citizen, lawful permanent resident... or eligible to obtain the required authorizations from the U.S. Department of State'; export-controlled, 100% onsite.",
-  "confidence": "medium"
+  "evidence": "Rippling board: Software Engineer (Early Career, Exceptional Talent), Centennial CO, created 2026-08-14, live. ITAR section: applicant must be a U.S. citizen, lawful permanent resident or otherwise authorized. On-site; no deadline stated.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

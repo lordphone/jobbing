@@ -1,15 +1,15 @@
 {
   "company": "Amplitude",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-23",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I, Growth Platform' first published 2025-10-23 (closed); also 'Software Engineer 1 - Data Warehouse' 2025-12-01",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer I, Growth Platform' first seen 2025-10-23; 'Software Engineer 1 - Data Warehouse' 2025-12-01 (both Greenhouse, closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/amplitude",
-  "jobs_spec": "gh:amplitude",
-  "evidence": "Greenhouse API: all current SWE postings are Senior/Staff/Principal level. No Software Engineer I / entry-level posting currently live this cycle. Has an entry-level track (Software Engineer I) that opened last cycle in Oct 2025.",
+  "jobs_page": "https://jobs.ashbyhq.com/amplitude",
+  "jobs_spec": "ashby:amplitude",
+  "evidence": "Ashby API 36 postings re-checked: all engineering Senior/Staff/Principal. Software Engineer I track opened last cycle (Oct 2025); none live now.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "American Airlines",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; program page says 'Applications open in September' but gives no specific date",
+  "last_cycle_basis": "company page destinationaa.com/campus says ADEPT/internship 'Applications open in September'; no dated posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "Found first-party board (jobs.aa.com) and campus program page (destinationaa.com/campus, IT ADEPT: a 2-year rotational program 'for aspiring software developers', Phoenix AZ / DFW TX, 'Applications open in September'). Used the site's real keyword search (q= param): 'ADEPT' returns 0 results, so no live req yet despite the program page's September claim.",
-  "confidence": "medium"
+  "evidence": "jobs.aa.com (browser): 109 US results, keyword filter ignored; pages sampled show no ADEPT/entry SWE. Earlier Associate Developer, IT Applications reqs 86863/87507 return 'not available'. Company says ADEPT opens in September; nothing live.",
+  "confidence": "low"
 }

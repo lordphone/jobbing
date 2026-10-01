@@ -1,15 +1,15 @@
 {
   "company": "Rippling",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "on or before 2025-08-13",
-  "last_cycle_basis": "tracker first-seen date for 'New Grad 2025: Software Engineer', New York, NY; https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12 (title suggests 2025-grad cycle; no cleaner full-time new-grad tracker entry found for the 2026 cycle)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": "2025-08-13",
+  "last_cycle_basis": "Tracker first-seen (on or before) for 'New Grad 2025: Software Engineer', New York, ats.rippling.com.",
   "jobs_page": "https://ats.rippling.com/rippling/jobs",
   "jobs_spec": null,
-  "evidence": "Rippling's own ATS board (ats.rippling.com, 628 open roles) and web search show only Software Engineer Intern postings for Summer/Winter 2027 (Full Stack, Backend Focused); no live full-time 'New Grad' or '2027 grad' SWE posting found. Confirms first-pass agent's finding. Browser pane was contended by other concurrent sessions, limiting live verification of the full board list beyond page 1 + search results.",
-  "confidence": "medium"
+  "evidence": "Rippling ATS API (642 jobs) checked 2026-09-30: only Summer/Winter 2027 SWE and ML interns and experienced/Software Engineer II roles; no new-grad SWE. Last year opened mid-Aug, so late.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

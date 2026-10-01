@@ -1,15 +1,15 @@
 {
   "company": "Klarna",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no first-party history available (custom board, not in tracker regex list)",
+  "last_cycle_basis": "unknown; no first-party or tracker date found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.deel.com/klarna",
   "jobs_spec": null,
-  "evidence": "Klarna's careers page routes to jobs.deel.com/klarna (Deel ATS, no API). Browser check of engineering listings: all titles are Senior/Lead (e.g. Lead Engineer, Senior ML Engineer, Senior Offensive Security Engineer); no entry-level or graduate SWE role visible.",
+  "evidence": "Klarna Deel board (browser, 99 roles) 2026-09-30: engineering roles in Stockholm, London, Milan, Warsaw. US roles (NY, Columbus, Portland) are non-engineering except CISO/solutions engineer. No US entry-level SWE.",
   "confidence": "medium"
 }

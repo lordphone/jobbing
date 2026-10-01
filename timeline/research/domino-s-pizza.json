@@ -1,19 +1,26 @@
 {
   "company": "Domino's Pizza",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Technology Rotation Program", "url": "https://jobs.smartrecruiters.com/Dominos/744000146020360-technology-rotation-program-", "location": "Ann Arbor, MI",
-     "opened": "2026-08-27", "date_source": "SmartRecruiters releasedDate (via API)",
-     "grad_window": "Winter 2027 - Spring 2027", "live_verified": "api"}
+    {
+      "title": "Technology Rotation Program",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000145812178",
+      "location": "Ann Arbor, MI",
+      "opened": "2026-08-27",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": "Winter '27 and Spring '27 graduates",
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "Not found in tracker history for 2025-07 to 2026-01 window; prior run marked unknown.",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Not found in tracker history for 2025-07 to 2026-01; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Dominos",
   "jobs_spec": "sr:Dominos",
-  "evidence": "SmartRecruiters board search via jobs.py --all only returns first ~1100 of 24,797 total postings (Domino's has thousands of store-level reqs), so the corporate posting wasn't in that slice. Queried the SmartRecruiters API directly for posting id 744000145812178: active=true, experienceLevel=entry_level, released 2026-08-27. Posting text: two-year Technology Rotation Program in Ann Arbor for Winter/Spring '27 CS/Engineering grads, min 3.0 GPA. Prior run had found and then marked this closed after --all missed it in a re-check; it is in fact still live per the API record.",
+  "evidence": "SmartRecruiters API: Technology Rotation Program (744000145812178, plus duplicate 744000145997269) active, released 2026-08-27; posting page shows an 'I'm interested' button. Two-year software development program for Winter/Spring '27 grads, Ann Arbor. No deadline or sponsorship line.",
   "confidence": "high"
 }

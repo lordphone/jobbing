@@ -1,12 +1,19 @@
 {
   "company": "Everlaw",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer I", "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006", "location": "Oakland, California, United States",
-     "opened": "2026-08-31", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
+      "location": "Oakland, California, United States",
+      "opened": "2026-08-31",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-22",
   "last_cycle_basis": "tracker first seen; Software Engineer - Early Career, Oakland CA: https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/everlaw",
   "jobs_spec": "gh:everlaw",
-  "evidence": "Greenhouse API: Software Engineer I, Oakland, first_published 2026-08-31, live. Posting asks for class assignments/personal projects/internships (0-1 yrs); states 'not sponsoring U.S. employment visas'.",
+  "evidence": "Greenhouse API 2026-09-30: Software Engineer I, Oakland, first_published 2026-08-31, live, no stated deadline. Posting says Everlaw is not sponsoring U.S. employment visas for this role.",
   "confidence": "high"
 }

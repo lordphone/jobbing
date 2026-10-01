@@ -1,15 +1,15 @@
 {
   "company": "HCLTech",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero HCLTech/HCL Tech entries",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcltech.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Found HCLTech's real board (careers.hcltech.com, a Phenom site; the worklist's hcltech.com/careers link 404s). The keyword search is fuzzy/OR-only (quoted exact phrases like \"Associate Software Engineer\" return thousands of unrelated matches) so a clean negative check isn't possible. The GEM early-career program is explicitly business-management, not SWE. India-only 'Campus-Trainee'/'Campus-Beginner' postings found; no equivalent US new-grad SWE title surfaced among the ~600 US 'software engineer' keyword hits skimmed.",
-  "confidence": "low"
+  "evidence": "HCLTech SuccessFactors recruiting API, ~264 US postings surfaced via keyword sweeps (entry, junior, graduate, developer, etc.). No entry-level SWE titles; 'Early Career Associate' is non-tech, Developer/Engineer reqs are generic or support. Campus programs are India-only.",
+  "confidence": "medium"
 }

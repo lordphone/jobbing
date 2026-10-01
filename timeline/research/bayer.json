@@ -1,15 +1,15 @@
 {
   "company": "Bayer",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://talent.bayer.com/careers?domain=bayer.com",
   "jobs_spec": null,
-  "evidence": "Checked own board (talent.bayer.com, 56 results for 'software engineer'): only US tech role at entry level is 'Software Development Engineer Co-Op' (Indianola, PA); all other US software roles are Staff/Senior. No full-time new-grad SWE posting found.",
+  "evidence": "talent.bayer.com JSON API 2026-09-30 (US, software/developer/AI/graduate queries): software roles are Staff/Senior (Chicago); entry tech are Software Development and Radiology Software co-ops, IT/Data Science co-ops. Rotational Development Program is supply chain. No full-time new-grad SWE.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Chainguard",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for Chainguard",
+  "last_cycle_basis": "unknown; no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chainguard",
   "jobs_spec": "gh:chainguard",
-  "evidence": "Checked full Greenhouse board: all engineering postings are Senior/Staff level; no entry-level or new-grad SWE roles.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (83 postings): only Software Engineer (Repositories) US-remote posted 2026-09-28, mid-level, not an entry-level track; other engineering senior. Only a stale general internship application.",
+  "confidence": "medium"
 }

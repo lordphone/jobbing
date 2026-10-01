@@ -1,7 +1,7 @@
 {
   "company": "The Washington Post",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers",
   "jobs_spec": "wd:washpost/wd5/washingtonpostcareers",
-  "evidence": "washingtonpost.com/company/careers still blocked, but the correct Workday spec (tenant washpost, wd5, site washingtonpostcareers) was found via WebSearch. jobs.py board with broad queries (software engineer, engineer I, entry level, new grad) returned all current openings: only 'Software Engineer II'+/Staff/Senior titles in engineering, plus 'Newsroom Summer Internship Program 2027' (journalism roles: Reporters, Designer, Data Journalist, etc, not software engineering). No entry-level or new-grad SWE track exists on the board.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30: 15 postings; only engineering roles are Staff Software Engineer iOS and a Senior ML scientist. 2027 internships are newsroom, not software. No entry-level SWE.",
+  "confidence": "high"
 }

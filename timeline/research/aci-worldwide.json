@@ -1,15 +1,15 @@
 {
   "company": "ACI Worldwide",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-05",
-  "last_cycle_basis": "Simplify tracker: 'Software Engineer' (Omaha/Norcross) entry listing, per earlier pass.",
+  "last_cycle_basis": "Simplify tracker 'Software Engineer' Omaha/Norcross (earlier pass); outside 2025-07 to 2026-01 window",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ebwg.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle Cloud API: 64+ postings. US 'Software Engineer' listings (Norcross, GA) checked in detail require 5+ years experience despite the plain title; all others are Sr/Principal or non-US. Only 'Technology Internships' seen for entry-level US roles, none live now.",
-  "confidence": "medium"
+  "evidence": "Oracle API 2026-09-30, 65 postings: US 'Software Engineer' (Norcross 2026-07-23) is really a Senior role, 5+ yrs COBOL; other US SWE Senior/Principal; Technology Internships (Norcross) not counted. No visa sponsorship. No entry-level US SWE.",
+  "confidence": "high"
 }

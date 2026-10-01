@@ -1,19 +1,15 @@
 {
   "company": "Chainlink Labs",
   "tier": 3,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [
-    {"title": "Software Engineer 1", "url": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true", "location": "Las Vegas, NV; Tampa, FL; Remote in UK; Remote",
-     "opened": "on or before 2026-07-27", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
-  ],
+  "checked": "2026-09-30",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history for 'chainlink' shows only one posting ever (Software Engineer 1, first seen 2026-07-27, this cycle); no posting found in the 2025-07 to 2026-01 last-cycle window",
+  "last_cycle_basis": "tracker history: only 'Software Engineer 1' first seen 2026-07-27 (level-1, not labeled new grad); nothing in 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/chainlink-labs",
   "jobs_spec": "ashby:chainlink-labs",
-  "evidence": "ashby:chainlink-labs API spec returned nothing; read full live board in browser pane (24 postings, all depts). 8 Engineering roles are Senior/Manager or non-US (Brazil/Argentina/Mexico/Colombia) except the Software Engineer 1 posting, which is gone from the live board -> closed.",
-  "confidence": "high"
+  "evidence": "Ashby API 404; read live board in browser 2026-09-30 (24 roles): Senior/manager engineers; 'Software Engineer, Data Feeds/Growth' are Brazil/LatAm only. Earlier 'Software Engineer 1' req is now titled Senior SWE CCIP, never explicitly new-grad. Previous file said closed.",
+  "confidence": "medium"
 }

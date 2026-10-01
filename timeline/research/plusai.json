@@ -1,19 +1,46 @@
 {
   "company": "PlusAI",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer (SE / Sr SE), Fullstack", "url": "https://jobs.lever.co/plus-2/8f5bccee-4cf5-435a-9673-16e546686050", "location": "Santa Clara, CA",
-     "opened": "on or before 2026-08-10", "date_source": "tracker/lever posting date",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer (SE / Sr SE), Applied ML & Data Mining",
+      "url": "https://jobs.lever.co/plus-2/5d79e816-4153-4790-83bc-50c23a0369fe",
+      "location": "Santa Clara, CA",
+      "opened": "2026-07-31",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (SE / Sr SE), Data Infrastructure",
+      "url": "https://jobs.lever.co/plus-2/0d204642-df47-462c-a41e-392eda5bcb6c",
+      "location": "Santa Clara, CA",
+      "opened": "2026-07-31",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (SE / Sr SE), Data & ML Platform",
+      "url": "https://jobs.lever.co/plus-2/06265629-0c0b-44fd-8077-79c163962eff",
+      "location": "Santa Clara, CA",
+      "opened": "2026-07-31",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad-titled SWE tracker history found (only Senior postings in tracker history).",
+  "last_cycle_basis": "No new-grad-titled SWE tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/plus-2",
   "jobs_spec": "lever:plus-2",
-  "evidence": "Lever board: 'SE / Sr SE' level postings (Fullstack, Data & ML Platform, Data Infrastructure, Applied ML & Data Mining) list no years-of-experience minimum, just 'BS/MS/PhD in CS or equivalent practical experience', no citizenship/clearance language - qualifies as entry-level accessible. No dedicated new-grad title, so confidence is medium.",
-  "confidence": "medium"
+  "evidence": "Lever: three live SE / Sr SE postings, \"open to candidates at either the Software Engineer or Senior Software Engineer level\"; Applied ML asks BS/MS/PhD, no years, no citizenship text. No dedicated new-grad title, so borderline.",
+  "confidence": "low"
 }

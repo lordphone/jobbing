@@ -1,15 +1,26 @@
 {
   "company": "Lenovo",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Platform Engineer (PC Agentic Applications) - Global Future Leaders Program (2027)",
+      "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Platform-Engineer-PC-Agentic-Applications-Global-Future-Leaders-Program-2027/81474",
+      "location": "Morrisville, NC",
+      "opened": "2026-09-08",
+      "date_source": "page text",
+      "grad_window": "currently completing or recently completed degree; onboarding Spring/Summer 2027",
+      "live_verified": "browser",
+      "deadline": "2026-10-23"
+    }
+  ],
   "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "carried from prior research file",
+  "last_cycle_basis": "tracker first-seen: Model Development Engineer - Global Future Leaders Program 2026 (Morrisville, NC); also Software Engineer - AI Productization (Chicago) 2025-10-30, now 404",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lenovo.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Site search box on jobs.lenovo.com does not filter (returns same 999+ generic results regardless of keyword); web search for 'Global Future Leaders 2027' turns up only Strategy/Analyst/Product Manager tracks (AI Business Solutions Architect, Pricing Analyst, AI Solution Analyst), no SWE track this cycle.",
+  "evidence": "Fetched posting page 2026-09-30: AI Platform Engineer, 2027 Global Future Leaders, Morrisville NC, posted 2026-09-08, Apply present, states deadline Oct 23 2026, recent-grad degree. Other GFL 2027 roles are AI analyst/architect; other US SWE roles not entry-labeled.",
   "confidence": "medium"
 }

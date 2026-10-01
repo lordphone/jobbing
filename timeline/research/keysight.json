@@ -1,19 +1,26 @@
 {
   "company": "Keysight",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer, Measurement Applications", "url": "https://jobs.keysight.com/jobs/54139?icims=1", "location": "Colorado Springs, CO",
-     "opened": "2026-09-02", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer, Measurement Applications",
+      "url": "https://jobs.keysight.com/jobs/54139?icims=1",
+      "location": "Colorado Springs, CO",
+      "opened": "2026-09-02",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-03-09",
   "last_cycle_basis": "tracker: 'R&D Software Engineer' Santa Rosa/Everett, first seen 2025-03-09",
-  "excluded_reason": "citizenship",
+  "excluded_reason": "citizenship / green card",
   "no_sponsorship": true,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Browser: posting for 'upcoming or recent graduate' SWE role says 'Visa Sponsorship is not available' and 'Candidates need to be a U.S. citizen, lawful permanent resident... or protected individual under 8 U.S.C. 1324b(a)(3)' due to export controls.",
+  "evidence": "Re-opened in browser 2026-09-30: live Apply, 'Upcoming or recent graduate' SWE, Colorado Springs. Quote: 'Visa Sponsorship is not available for this position' and 'Candidates need to be a U.S. citizen, lawful permanent resident of the U.S., protected individual'. Other US SWE hits not entry-level.",
   "confidence": "high"
 }

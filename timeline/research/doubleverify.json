@@ -1,7 +1,7 @@
 {
   "company": "DoubleVerify",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doubleverify",
   "jobs_spec": "gh:doubleverify",
-  "evidence": "Confirmed via direct browser visit to job-boards.greenhouse.io/doubleverify: page explicitly states 'There are no current openings' company-wide (not just for new grads). The careers page's embedded jobs widget (doubleverify.com/en/company/careers#jobs) also shows nothing. No open roles of any kind currently, so no SWE new-grad posting.",
+  "evidence": "Greenhouse board API returns 0 jobs; page says 'There are no current openings.' No SWE new-grad posting; no tracker history. Status unchanged.",
   "confidence": "high"
 }

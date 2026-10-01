@@ -1,12 +1,19 @@
 {
   "company": "Chubb",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Technology Associate - June 2027 (TAP program)", "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864", "location": "Philadelphia, PA",
-     "opened": "2026-09-18", "date_source": "page text (posted timestamp)",
-     "grad_window": "June 2027 start", "live_verified": "api"}
+    {
+      "title": "Technology Associate - June 2027 (TAP: Software Engineering, Data Engineering or Cybersecurity track)",
+      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864",
+      "location": "Philadelphia, PA, United States; Jersey City, NJ, United States",
+      "opened": "2026-09-18",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": "June 2027 start",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-26",
   "last_cycle_basis": "tracker first-seen date: Technology Associate, Philadelphia PA / NYC",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001",
-  "evidence": "Oracle Cloud API. 'Technology Associate - June 2027' (TAP program, software/data/cyber tracks) is live, posted 2026-09-18. Posting states no visa sponsorship now or in the future.",
+  "evidence": "Oracle API read: TAP posting live since 2026-09-18, software engineer track, entry-level; 'Sponsorship, now or in the future, is not available'. No end date or deadline stated.",
   "confidence": "high"
 }

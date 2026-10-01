@@ -1,15 +1,15 @@
 {
   "company": "MoneyGram",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history returned 0 postings).",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dayforcehcm.com/moneygram/candidateportal",
   "jobs_spec": null,
-  "evidence": "Searched Dayforce board for 'engineer' directly (9 results): all are Senior (10+ yrs), mid-level (2-5 yrs, e.g. Java Engineer - Pricing), or non-US (Germany, India). No entry-level/new-grad SWE posting. No tracker history.",
+  "evidence": "Browser on Dayforce board (own tab), keyword 'engineer' plus full list (~24): US roles are Sr/Director, security architect, audit; engineering roles are Senior Full Stack (Germany), Senior Software Engineer: Backend, Solutions Engineer. No entry-level SWE.",
   "confidence": "medium"
 }

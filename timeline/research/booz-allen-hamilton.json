@@ -1,18 +1,36 @@
 {
   "company": "Booz Allen Hamilton",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "University - Full-Stack Developer", "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330", "location": "Huntsville, AL",
-     "opened": "on or before 2026-08-31", "date_source": "workday postedOn", "grad_window": "Fall 2027", "live_verified": "api"}
+    {
+      "title": "University - Full-Stack Developer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330",
+      "location": "Huntsville, AL",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn",
+      "deadline": "2026-11-29",
+      "grad_window": "degree by Fall 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "University - Data Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Data-Engineer_R0248336",
+      "location": "Huntsville, AL",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn",
+      "deadline": "2026-11-29",
+      "grad_window": "degree by Winter 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-11",
-  "last_cycle_basis": "tracker_last_cycle from prior worklist entry (Software Developer posting first seen 2025-09-11)",
+  "last_cycle_basis": "tracker first seen 2025-09-11 (Software Developer, McLean)",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
   "jobs_page": "https://bah.wd1.myworkdayjobs.com/bah_jobs",
   "jobs_spec": "wd:bah/wd1/bah_jobs",
-  "evidence": "Detail page for 'University - Full-Stack Developer' (Huntsville AL, grad by Fall 2027) explicitly requires 'Ability to obtain a Top Secret clearance.' Other University-track SWE postings (Data Engineer, Summer Games Developer Intern) are at the same clearance-required defense sites; no non-clearance commercial new-grad SWE track found.",
-  "confidence": "high"
+  "evidence": "Workday API: University Full-Stack Developer and Data Engineer both say 'Ability to obtain a Top Secret clearance'; junior SWE roles (C++, Albuquerque) also require clearance. Workday endDate 2026-11-29.",
+  "confidence": "high",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

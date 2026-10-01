@@ -1,15 +1,15 @@
 {
   "company": "TerraPower",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "excluded",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": null,
-  "excluded_reason": "us person / itar",
+  "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.terrapower.com/careers/",
-  "jobs_spec": null,
-  "evidence": "Careers page has no visible board/ATS link (JS widget, not readable); could not find a specific quote this run. TerraPower is a nuclear reactor developer subject to 10 CFR 810 export controls, and prior research found most technical roles require U.S. person status. Kept prior excluded finding unchanged.",
-  "confidence": "low"
+  "jobs_page": "https://job-boards.greenhouse.io/terrapowerllc",
+  "jobs_spec": "gh:terrapowerllc",
+  "evidence": "Fresh Greenhouse pull (94): IT managers, IT Systems Engineer, IT support; no entry-level SWE. No quotable citizenship text found, so not marked excluded.",
+  "confidence": "medium"
 }

@@ -1,19 +1,26 @@
 {
   "company": "Ciena",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "WaveLogic Software Developer - New Grad", "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608", "location": "Atlanta, GA",
-     "opened": "on or before 2026-08-31", "date_source": "workday postedOn (26 days ago)",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "WaveLogic Software Developer - New Grad",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608",
+      "location": "Atlanta, GA",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-09-11",
-  "last_cycle_basis": "tracker first seen: PON Software Engineer - New Grad, Mansfield MA",
+  "last_cycle_basis": "tracker first seen: PON Software Engineer - New Grad, Mansfield MA (ciena.wd5.myworkdayjobs.com/Careers); Atlanta 'New Grad 2026: Software Developer' 2025-10-14",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ciena.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:ciena/wd5/Careers",
-  "evidence": "Workday API: 'WaveLogic Software Developer - New Grad' (Atlanta, GA) is live with an Apply button; no citizenship/clearance/sponsorship language on the posting. Most other New Grad SWE reqs are Ottawa, Canada (not US).",
+  "evidence": "Workday API + CXS rechecked 2026-09-30: WaveLogic Software Developer - New Grad (Atlanta, startDate 2026-09-01, canApply true) live; embedded modem software, BS ECE; no citizenship/sponsorship lines, no deadline stated. Other new-grad SWE reqs are Ottawa.",
   "confidence": "high"
 }

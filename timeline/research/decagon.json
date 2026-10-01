@@ -1,19 +1,26 @@
 {
   "company": "Decagon",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Member of Technical Staff - New Grad (2027 Start)", "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f", "location": "San Francisco",
-     "opened": "2026-08-18", "date_source": "ashby publishedAt",
-     "grad_window": "Dec 2026 - Jul 2027", "live_verified": "api"}
+    {
+      "title": "Member of Technical Staff - New Grad (2027 Start)",
+      "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f",
+      "location": "San Francisco; New York City",
+      "opened": "2026-08-18",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Jul 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-05",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineer - New Grad' at https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
+  "last_cycle_basis": "jobs.py history: Software Engineer - New Grad first seen 2025-09-05 (does not offer sponsorship per tracker)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/decagon",
   "jobs_spec": "ashby:decagon",
-  "evidence": "ashby detail shows live 2027 MTS New Grad posting, grad window Dec 2026-Jul 2027, publishedAt 2026-08-18.",
+  "evidence": "Ashby API lists live MTS New Grad (2027 Start), published 2026-08-18, grad window Dec 2026-Jul 2027. Last cycle's tracker tag said no sponsorship; not stated in this posting.",
   "confidence": "high"
 }

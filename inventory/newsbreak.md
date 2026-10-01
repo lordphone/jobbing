@@ -16,6 +16,7 @@
 - dates: May 11, 2026 -- August 14, 2026
 - location: Mountain View, CA (in-office)
 - primary: SportsBreak iOS + `sportsbreak-service`
+- SportsBreak App Store link: https://apps.apple.com/app/id6762649287 — on every resume, hyperlink the name "SportsBreak" in the iOS / SwiftUI bullet to this page (`\href{https://apps.apple.com/app/id6762649287}{SportsBreak}`); name the app there rather than "a consumer sports app"
 - secondary: DramaBreak (iOS + `aigc-service`), `nbot-curator-server`, newsletter tool
 - stack: Python 3.12, FastAPI, MongoDB/Motor, Pydantic, Swift/SwiftUI, Firebase, APNs, Amplitude, AppLovin MAX, Kubernetes/EKS, Helm, Jenkins, Docker, GitHub Actions, Langfuse, RAG
 - grew the app with the team
@@ -136,6 +137,7 @@ facts:
 - analytics catalog: ~50 custom events at first ship; 72 names; 76 queryable in Amplitude by Aug 2026
 - 74 typed emit methods, server-side allowlist
 - binary with zero third-party API keys (after proxy migration)
+- App Store listing: https://apps.apple.com/app/id6762649287
 - the app reached peak DAU 1,119 (2026-08-10) and 5,999 installs by 2026-08-11 (Amplitude)
 - grew the app with the team
 - no iOS test target and no CI

@@ -1,15 +1,15 @@
 {
   "company": "Shutterstock (merging with Getty Images)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or public record found for a Shutterstock new-grad SWE cycle",
+  "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://shutterstock.wd1.myworkdayjobs.com/shutterstockcareers",
   "jobs_spec": "wd:shutterstock/wd1/shutterstockcareers",
-  "evidence": "jobs.py API returned 0; checked in browser pane: 9 openings total, only one engineering role (Senior Site Reliability Engineer - GIPHY, senior level). No entry-level SWE roles during Getty merger.",
+  "evidence": "Workday cxs API (tenant shutterstock, 7 postings): only engineering role is Senior SRE - GIPHY; rest finance, sales, product. No entry SWE.",
   "confidence": "medium"
 }

@@ -1,19 +1,26 @@
 {
   "company": "Liberty Mutual",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 TechStart Full-Time Program", "url": "https://searchjobs.libertymutualgroup.com/careers?query=techstart&pid=618519062757&domain=libertymutual.com&sort_by=relevance", "location": "Portsmouth, NH; Boston, MA; +2 more",
-     "opened": "on or before 2026-09-27", "date_source": "page text",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "2027 TechStart Full-Time Program",
+      "url": "https://searchjobs.libertymutualgroup.com/careers/job/618519062757",
+      "location": "Portsmouth, NH; Boston, MA; Plano, TX; Indianapolis, IN",
+      "opened": "2026-08-11",
+      "date_source": "eightfold api t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run",
+  "last_cycle_basis": "not found; trackers have no history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://searchjobs.libertymutualgroup.com/careers",
   "jobs_spec": null,
-  "evidence": "Board is Eightfold; keyword search silently ignores the query param unless domain=libertymutual.com (not libertymutualgroup.com) is also passed. With that fix, found and opened the live 2027 TechStart Full-Time Program posting (ID 2026-77144), Apply Now button live.",
+  "evidence": "Eightfold apply API (domain=libertymutual.com) still lists 2027 TechStart Full-Time Program, software engineering, 0-2 yrs, bachelor's in CS or completing, created 2026-08-11, no deadline stated. 'Fully authorized to work in the U.S. without restrictions'; no explicit sponsorship sentence.",
   "confidence": "high"
 }

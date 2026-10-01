@@ -1,15 +1,15 @@
 {
   "company": "ABB",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "closed",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-10-18",
-  "last_cycle_basis": "jobs.py history (abb.wd3 postings only): 'R&D Early Career Program (US)' first seen 2025-10-18",
+  "last_cycle_basis": "jobs.py history (abb.wd3 postings only): 'R&D Early Career Program' (Bloomfield CT and 4 other sites) first seen 2025-10-18; general engineering rotation, not software",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://abb.wd3.myworkdayjobs.com/external_career_page",
   "jobs_spec": "wd:abb/wd3/external_career_page",
-  "evidence": "Workday board: current US software-titled postings are 'R&D Software Engineer' (Bartlesville OK) and 'Senior Software Development Engineer' (New Berlin WI), both requiring permanent US work authorization and not entry-level; only non-software 'Associate' titles (Mechanical Design, Project, Field Application Engineer) are junior. The 'R&D Early Career Program (US)' from last cycle is confirmed closed via jobs.py detail (not found).",
+  "evidence": "Workday 2026-09-30: R&D Early Career Program (US) 2027 Cohort (posted 2026-09-24, Workday end 2026-10-23) is an engineering-degree rotation, not SWE. US 'R&D Software Engineer' (Bartlesville OK, 2026-09-23) is embedded C/C++ firmware with permanent work auth required, so not counted.",
   "confidence": "medium"
 }

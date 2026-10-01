@@ -1,19 +1,26 @@
 {
   "company": "Jane Street",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer", "url": "https://www.janestreet.com/join-jane-street/position/8594541002/", "location": "New York",
-     "opened": "on or before 2026-07-06", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer (Full-Time: New Grad)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8594541002/",
+      "location": "New York",
+      "opened": "2026-07-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-07-10",
-  "last_cycle_basis": "jobs.py history tracker first-seen date for prior cycle's equivalent full-time SWE posting.",
+  "last_cycle_basis": "jobs.py history tracker first-seen for prior cycle's full-time SWE posting.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.janestreet.com/join-jane-street/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "Confirmed live in browser pane: posting has Apply button, no years-of-experience requirement ('little to no practical experience' expected), open to all backgrounds - qualifies as new-grad eligible. First-party company site.",
+  "evidence": "2026-09-30: Students and New Grads list (New York) shows Software Engineer, Full-Time: New Grad, accepting applications; posting page has Apply, no experience required, no deadline or citizenship text. First published 2026-07-06 per Greenhouse API.",
   "confidence": "high"
 }

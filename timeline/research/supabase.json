@@ -1,15 +1,15 @@
 {
   "company": "Supabase",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history search for 'Supabase' returned 0 postings",
+  "last_cycle_basis": "no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/supabase",
   "jobs_spec": "ashby:supabase",
-  "evidence": "Checked Ashby board (56 postings, filtered and --all with grad/entry/intern keyword grep): no entry-level or new-grad SWE postings. Remote-first, experienced-hire company.",
-  "confidence": "high"
+  "evidence": "ashby:supabase --all (49): remote experienced-hire roles (Software Engineer - Auth/Branching, Postgres, Platform, Support); no entry-level or new-grad posting, no tracker history.",
+  "confidence": "medium"
 }

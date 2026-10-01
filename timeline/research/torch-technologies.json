@@ -1,15 +1,26 @@
 {
   "company": "Torch Technologies",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Junior-Level Modeling & Simulation Software Engineer",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Level-Modeling---Simulation-Software-Engineer_R1581",
+      "location": "Huntsville, AL",
+      "opened": "on or before 2026-08-20",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "tracker history shows entry-level SWE postings only from Aug 2026",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://starfish.wd501.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:starfish/wd501/Careers",
-  "evidence": "Checked Workday board. Closest entry-level SWE posting, 'Junior-Level Modeling & Simulation Software Engineer', requires 'U.S. Citizenship' and 'ability to obtain and maintain a Secret Clearance'.",
+  "evidence": "Live Workday junior SWE posting says 'Job Requirements: U.S. Citizenship' and 'Ability to obtain and maintain a Secret Clearance'. Tracker's Systems Engineer/Analyst lead is not SWE.",
   "confidence": "high"
 }

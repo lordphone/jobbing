@@ -1,19 +1,26 @@
 {
   "company": "SeatGeek",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer - New Grad", "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548", "location": "New York, NY",
-     "opened": "on or before 2026-09-23", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer - New Grad",
+      "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+      "location": "New York, NY",
+      "opened": "2026-09-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Spring/Summer 2027 graduates",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-11-18",
-  "last_cycle_basis": "tracker_last_cycle from prior run",
+  "last_cycle_basis": "tracker first seen: Software Engineer - New Grad (NYC), https://seatgeek.com/jobs/7406634?gh_jid=7406634",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/seatgeek",
   "jobs_spec": "gh:seatgeek",
-  "evidence": "Greenhouse board (--all) shows 'Software Engineer - New Grad', New York, first seen 2026-09-23, alongside a separate SWE internship posting. Opened directly in browser pane: page title confirms 'Software Engineer - New Grad at SeatGeek' is live, not closed/redirected.",
+  "evidence": "Greenhouse API posting fetched: first_published 2026-09-23, seeks spring/summer 2027 graduates, experience not required; page title confirmed in browser. No sponsorship, citizenship or deadline line. Internship posting separate.",
   "confidence": "high"
 }

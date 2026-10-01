@@ -1,19 +1,26 @@
 {
   "company": "Fortinet",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Software Development Engineer (GUI)", "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399", "location": "Sunnyvale, CA",
-     "opened": "2026-09-17", "date_source": "oracle cloud posted",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Development Engineer (GUI)",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-09-17",
+      "date_source": "oracle cloud posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "2024-10-15",
-  "last_cycle_basis": "tracker_last_cycle field",
+  "last_cycle_opened": "2026-02-11",
+  "last_cycle_basis": "tracker first seen 'Applied AI Engineer - PhD New Graduate' Sunnyvale (Feb 2026); earlier 'New Grad Jobs 2025' 2025-08-01 (Ottawa); older SDE 2024-10-15",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:edel.fa.us2.oraclecloud.com/CX_2001",
-  "evidence": "Re-confirmed live via jobs.py detail: posted 2026-09-17, entry-level (internship/coursework ok), requires work authorization without sponsorship.",
-  "confidence": "high"
+  "evidence": "Oracle API + detail: SDE (GUI) live, posted 2026-09-17, entry level (internship/coursework ok), 'without sponsorship' line, no end date. 'New Grads 2026 (US)' posting (2026-07-02) is last-cycle labeled, not counted.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

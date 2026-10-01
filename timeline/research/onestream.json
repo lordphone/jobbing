@@ -1,15 +1,15 @@
 {
   "company": "OneStream",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "checked": "2026-09-30",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for OneStream",
+  "last_cycle_basis": "unknown; no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://recruiting.ultipro.com/ONE1018ONSO/JobBoard/1955ffa6-bda6-4c95-8412-2c731d693ab2/",
   "jobs_spec": null,
-  "evidence": "Greenhouse board (gh:onestream) now returns 0 postings; company moved to UltiPro (JS-only, no API). Found a 'Software Engineer I' Remote-USA posting via Built In requiring 2-4 years experience, no sponsorship, and already removed as of 2026-08-05 -- not an entry-level/new-grad role.",
-  "confidence": "medium"
+  "evidence": "UltiPro board in browser shows 'upgrading our Careers page, visit new site 10/1/2026' and 0 opportunities, so board unreadable this run; retry after 10/1. Earlier Software Engineer I (no sponsorship) seen via third parties, removed by 2026-08-05.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Schneider Electric",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history for Schneider Electric.",
+  "last_cycle_basis": "No tracker history for Schneider Electric",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.se.com/united-states",
   "jobs_spec": null,
-  "evidence": "Checked live board with 'software engineer', 'university graduate program' and 'early career' keyword searches (39/307 US results): only a Software Engineer Intern (internship, excluded) and experienced/senior SWE roles (Engineer II+); an Electrical Technician Development Program exists but no SWE new-grad track.",
+  "evidence": "Jibe API (se.jibeapply.com/api/jobs, all 732 jobs paged): US 2027 programs are sales, electrical technician and supply chain. SWE roles are Senior SWE, Full Stack Analytics (3-5+ yrs), Software Test Engineer, intern; 'Engineer II, Software' postings are building-automation programming. No entry SWE.",
   "confidence": "medium"
 }

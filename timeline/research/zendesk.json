@@ -1,7 +1,7 @@
 {
   "company": "Zendesk",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://zendesk.wd1.myworkdayjobs.com/zendesk",
   "jobs_spec": "wd:zendesk/wd1/zendesk",
-  "evidence": "Found Zendesk's Workday board (previously untracked, no jobs_spec) via careers.zendesk.com links. Checked full board (--all): only entry-level req is 'Software Engineer II / Senior Software Engineer - General Consideration' in Krakow, Poland; no US entry-level SWE role. Also has an 'Early careers' page but no live US SWE posting under it.",
-  "confidence": "high"
+  "evidence": "Workday board (13, --all) re-read 2026-09-30: no US entry-level SWE; US roles senior/staff, finance, legal; entry engineering only Krakow. Glassdoor new-grad hits unconfirmed. Status unchanged from prior file.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Mphasis",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; not found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.mphasis.com/home/hot-jobs/category/campus-programs.html",
+  "jobs_page": "https://mphasis.ripplehire.com/candidate/?token=ty4DfyWddnOrtpclQeia&source=CAREERSITE#list/geo=USA",
   "jobs_spec": null,
-  "evidence": "Mphasis Campus Programs page explicitly lists only 'T School Hiring' and 'B School Hiring' for Tier 1/2 Indian engineering/business schools; no US new-grad SWE program. Careers site's 'Americas' location filter has no dedicated entry-level track.",
-  "confidence": "high"
+  "evidence": "Campus Programs page lists only India T School / B School hiring plus an internship. US jobs are on RippleHire (86 listed); opened the list, but only the first 10 loaded (all 5-14 yrs: Test Lead, Module Lead, Technical Lead, Principal Infra Eng, Sr Full Stack Developer). Rest not seen.",
+  "confidence": "low",
+  "checked": "2026-09-30"
 }

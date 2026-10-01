@@ -1,15 +1,15 @@
 {
   "company": "CDW",
-  "tier": 10,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-04-13",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I - Backend' and 'Software Engineer I - Frontend' (Illinois) both active 2026-04-13 (outside standard Jul-Jan window; CDW appears to post entry SWE roles in spring)",
+  "last_cycle_basis": "jobs.py history: Software Engineer 1 Backend/Frontend (Illinois) first seen 2026-04-13; CDW seems to post entry SWE in spring",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://cdw.wd5.myworkdayjobs.com/careers",
   "jobs_spec": "wd:cdw/wd5/careers",
-  "evidence": "Full Workday board reviewed; all software/engineer postings are Senior/Principal level or infrastructure support roles. No entry-level Software Engineer I posting currently live. Last cycle's equivalent roles (Software Engineer I Backend/Frontend, IL) opened April 2026, so a 2027 posting may not appear until spring.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30, 40 postings, --all: no US entry-level SWE live (senior/principal engineers, UK roles, recruiter). Last cycle's Software Engineer 1 roles opened April 2026.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

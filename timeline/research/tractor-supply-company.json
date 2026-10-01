@@ -1,15 +1,15 @@
 {
   "company": "Tractor Supply Company",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "closed",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run (no tracker hits)",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.tractorsupply.careers/",
   "jobs_spec": null,
-  "evidence": "Found the real working board: tractorsupply.careers (tsc.wd12.myworkdayjobs.com is a different company, tractorsupply.careers itself does NOT redirect to Halliburton when reached directly and its on-page keyword search does filter, e.g. 6760 -> 802 results). The known 'Trainee, IT Development Program' posting (Brentwood, TN) now shows 'Sorry, this position has been filled.' Searching the live board found only an 'IT Intern | Summer 2027' (internship, Early Career dept) and a non-tech '2027 Supply Chain Development Program Trainee' -- no live full-time IT/SWE new-grad trainee posting.",
+  "evidence": "Live SuccessFactors board searched (IT, software, developer, engineer, trainee, graduate): IT Intern Summer 2027, 2027 Supply Chain Development Trainee, Sr/Lead Developers, managers. Earlier read noted an IT rotational trainee program on Early Career page, but no live IT/SWE new-grad posting.",
   "confidence": "medium"
 }

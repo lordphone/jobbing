@@ -1,15 +1,15 @@
 {
   "company": "Grab",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no last-cycle new-grad SWE posting found",
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://grab.careers",
   "jobs_spec": null,
-  "evidence": "Checked grab.careers job board (444 total postings). The location filter does not even list the United States as an option; all engineering roles are in APAC (India, Malaysia, Singapore, Vietnam, Indonesia, China). No US SWE roles exist to be entry-level or otherwise.",
-  "confidence": "medium"
+  "evidence": "Browser: grab.careers lists 439 jobs; location filter offers only Asia and Romania (no US option); engineering roles are Singapore/India/SEA. GRIT Trainee is regional. No US SWE roles.",
+  "confidence": "high"
 }

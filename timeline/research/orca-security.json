@@ -1,15 +1,15 @@
 {
   "company": "Orca Security",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2024-10-01",
-  "last_cycle_basis": "prior first-pass finding: 2024 cycle first posting 2024-10-01 (US-remote Software Engineer, Frontend); tracker history query for 'orca' now only matches unrelated companies (Solana Orca, TailorCare)",
+  "last_cycle_basis": "prior first-pass finding: 2024 cycle first posting 2024-10-01 (US-remote Software Engineer, Frontend); tracker_last_cycle 2024-10-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/orcasecurity",
   "jobs_spec": "gh:orcasecurity",
-  "evidence": "Checked full Greenhouse board (11 postings, --all): no US entry-level SWE. Engineering roles are Senior/Manager and Israel-based (Tel Aviv R&D).",
-  "confidence": "medium"
+  "evidence": "Greenhouse board (11 postings, --all): engineering is Senior SWE and team manager in Tel Aviv; US roles non-SWE. No US entry-level SWE. Last cycle opening kept from earlier finding.",
+  "confidence": "high"
 }

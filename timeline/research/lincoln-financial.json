@@ -1,15 +1,26 @@
 {
   "company": "Lincoln Financial",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Data Engineer, AI Data Products",
+      "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/",
+      "location": "Radnor, PA (also Charlotte NC, Fort Wayne IN, Greensboro NC)",
+      "opened": "2026-09-25",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history found",
+  "last_cycle_basis": "tracker shows Associate Application Development / Application Development ETP postings 2026-03-12 and 2026-05-12 (both closed), outside the Jul-Jan window; no fall 2025 date found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
   "jobs_spec": null,
-  "evidence": "Checked the dedicated 'Entry Level Positions' page (9 results: facilities, claims, admin, customer service, sales, IT service rep) - no SWE role. Searched 'software engineer' on main board too; no qualifying entry-level SWE track found.",
-  "confidence": "medium"
+  "evidence": "WebFetch (no browser): posting live with Apply button, 1-3 yrs, Python/FastAPI, bachelor's; data-engineering focus, borderline SWE. No sponsorship statement, no deadline. Board search shows only Sr Assoc Software Engineer otherwise.",
+  "confidence": "low"
 }

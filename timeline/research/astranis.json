@@ -1,15 +1,36 @@
 {
   "company": "Astranis",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Flight Software Associate (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006",
+      "location": "San Francisco",
+      "opened": "2026-09-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer, Network Software Associate (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
+      "location": "San Francisco",
+      "opened": "2026-09-24",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-12-22",
-  "last_cycle_basis": "tracker first-seen; 'Software Developer, Network Software Associate' (same series, flagged 'U.S. Citizenship' in tracker)",
-  "excluded_reason": "citizenship / green card / refugee-asylee status",
+  "last_cycle_basis": "tracker first-seen (2025-12-22 cycle); earlier 2024-06 Associate Program",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/astranis/jobs",
   "jobs_spec": "gh:astranis",
-  "evidence": "Greenhouse board: 'Software Developer, Network Software Associate (Summer 2027)' is this cycle's new-grad-track posting; quotes 'U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required' (ITAR). All other Software Engineer postings are Senior or Vehicle/Hardware Test (experienced).",
+  "evidence": "Greenhouse: new-grad 'Associate' SWE postings (Flight Software, Network Software; Summer/Winter 2027) posted 2026-09-22/24, but each says 'U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required' (export regs). No sponsorship path.",
   "confidence": "high"
 }

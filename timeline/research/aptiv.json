@@ -1,7 +1,7 @@
 {
   "company": "Aptiv",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers",
   "jobs_spec": "wd:aptiv/wd5/aptiv_careers",
-  "evidence": "Checked all 108 live Workday postings (--all). US software/engineering openings (Radar Signal Processing Engineer, RTOS Development Engineer, Cloud Platform Senior Engineer) are all Senior-level; entry-level/new-grad software roles that exist (Member of Technical Staff, Software Architect) are in India. No qualifying US new-grad SWE posting.",
-  "confidence": "medium"
+  "evidence": "Workday API (109 postings, all read). US roles are interns, senior/manager or architect; only Associate Cloud Engineer postings are in Kanata, Canada. No US new-grad SWE.",
+  "confidence": "high"
 }

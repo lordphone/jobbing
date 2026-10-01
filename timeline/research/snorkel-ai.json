@@ -1,15 +1,15 @@
 {
   "company": "Snorkel AI",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-01-07",
-  "last_cycle_basis": "Prior first-pass result recorded first posting 2025-01-07; role title 'Software Engineer - Recent University Graduate' (grad within 18 months, prior SWE internship required) confirmed via web search (simplify.jobs listing) but is not present on the company's current Greenhouse board.",
+  "last_cycle_basis": "tracker: 'Software Engineer - Recent University Graduate' first seen 2025-01-07 (Greenhouse 5059862004)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/snorkelai",
   "jobs_spec": "gh:snorkelai",
-  "evidence": "Re-checked 2026-09-27: Greenhouse board re-filtered for new-grad/university/entry/early-career keywords, zero matches this cycle. Known 'Recent University Graduate' track from last cycle still not reopened.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API: no new-grad SWE live (only ops/fellow-program roles). Last new-grad posting 'Recent University Graduate' first seen 2025-01-07; none tracked for 2025-26 cycle.",
+  "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Tapestry (Coach, Kate Spade)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found.",
+  "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://tapestry.wd108.myworkdayjobs.com/tapestry_careers",
   "jobs_spec": "wd:tapestry/wd108/tapestry_careers",
-  "evidence": "Found Workday board (wd:tapestry/wd108/tapestry_careers, 2000 postings) via jobs.py workday brute-force. Checked --all for software/engineer/developer/analyst: US NY roles are Infrastructure Platform Engineer, Client Platform Engineer, Data Engineer, Director-level -- none labeled entry-level or 'Software Engineer I/associate'. No new-grad SWE track found.",
+  "evidence": "Workday API (47 postings, --all): US tech roles are Infrastructure/Client Platform Engineer, Data Engineer, Director-level; Developer roles are in Cambodia/Vietnam. No entry SWE.",
   "confidence": "medium"
 }

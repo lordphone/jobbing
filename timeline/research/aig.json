@@ -1,12 +1,29 @@
 {
   "company": "AIG (American International Group)",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "2027 Early Careers: Analyst, Gen AI Engineering", "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744", "location": "Atlanta, GA, United States",
-     "opened": "on or before 2026-09-18", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "2027 Early Careers: Analyst, Gen AI Engineering",
+      "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744",
+      "location": "Atlanta, GA",
+      "opened": "on or before 2026-09-18",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-31",
+      "grad_window": "within one year of degree",
+      "live_verified": "api"
+    },
+    {
+      "title": "2027 Early Careers: Analyst, Technology",
+      "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640",
+      "location": "Charlotte, NC; Houston, TX",
+      "opened": "on or before 2026-09-18",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-31",
+      "grad_window": "within one year of degree",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-01",
   "last_cycle_basis": "tracker history: 'Early Career Analyst - Gen AI Technology - Software Engineering', Atlanta GA, first seen 2025-10-01",
@@ -14,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aig.wd1.myworkdayjobs.com/early_careers",
   "jobs_spec": "wd:aig/wd1/early_careers",
-  "evidence": "Confirmed live on AIG's own early_careers Workday board (found via jobs.py, not just tracker): 2027 Gen AI Engineering Analyst, Atlanta GA, posted ~2026-09-18. Description: 'Early Careers programs...within one year of completing their degree'. Overturns prior not_yet.",
+  "evidence": "Workday early_careers board lists 2027 Early Careers Analyst Gen AI Engineering (Atlanta) and Analyst Technology (Charlotte/Houston); details fetched, endDate 2026-10-31, within one year of degree. Tech Analyst track assumed software-leaning.",
   "confidence": "high"
 }

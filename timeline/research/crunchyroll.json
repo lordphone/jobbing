@@ -1,15 +1,15 @@
 {
   "company": "Crunchyroll",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-29",
-  "last_cycle_basis": "prior worklist tracker lead: Software Engineer 1 - Lrx Core (SF), 2026-01-29 (off-cycle, tracker no longer returns this via regex search)",
+  "last_cycle_basis": "prior worklist tracker lead: Software Engineer 1 - Lrx Core (SF), 2026-01-29 (off-cycle; no longer in tracker search)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/crunchyroll",
   "jobs_spec": "gh:crunchyroll",
-  "evidence": "Greenhouse API, all SWE titles checked (--all): all US postings are Senior/Staff/II/III level; only 'Software Engineer'/'I' roles are in Hyderabad and Mexico City, not US. No qualifying US entry-level posting open.",
+  "evidence": "Greenhouse --all (73 postings) 2026-09-30: US SWE roles are II/III or senior (SWE II Android SF opened 2026-09-29, mid-level); only SWE I is Mexico City. Last cycle SWE 1 posted off-cycle (Jan 2026).",
   "confidence": "medium"
 }

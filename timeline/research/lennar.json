@@ -1,15 +1,26 @@
 {
   "company": "Lennar",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_000",
+      "location": "Miami, FL; Irving, TX",
+      "opened": "2026-08-11",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "tracker first-seen: 'Future Builders Recent College Grad Program - Software Engineering', Bentonville AR / Miami FL / Dallas TX",
+  "last_cycle_basis": "tracker first-seen: 'Future Builders Recent College Grad Program - Software Engineering' (Bentonville/Miami/Dallas) 2025-09-04; another RCG Software Engineer posting 2026-05-20",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs",
   "jobs_spec": "wd:lennar/wd1/Lennar_Jobs",
-  "evidence": "Workday API: 64 postings, no live new-grad SWE role today (only Sr/Lead/Staff Software Engineer, and 'Security Engineer I' which requires 2-3 years so does not qualify). Tracker shows 'Software Engineer 1' postings first seen 2026-08-11 and 2026-08-12 (this cycle), both now closed/not on live board.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-09-30 (full list and 'Software Engineer' search): only Sr Software Engineer, Software Engineer II (2-5 yrs), Lead Data Engineer, Security Engineer I. Tracker 'Software Engineer 1' postings (2026-08-11/12) are gone from the board, as is the RCG program.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

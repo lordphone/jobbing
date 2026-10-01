@@ -1,15 +1,15 @@
 {
   "company": "Reddit",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-08-05",
-  "last_cycle_basis": "tracker first-seen, New Grad: Software Engineer, https://app.ripplematch.com/v2/public/job/340fb9c1",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker (RippleMatch): 'New Grad: Software Engineer' SF/Chicago/LA first seen 2025-08-05.",
   "jobs_page": "https://job-boards.greenhouse.io/reddit",
   "jobs_spec": "gh:reddit",
-  "evidence": "Checked all 150 live Greenhouse postings (--all); none are entry-level/new-grad SWE, all Senior/Staff/Manager/Director or 1+ yr roles. No new-grad track live yet.",
-  "confidence": "high"
+  "evidence": "gh:reddit board (145, --all) checked 2026-09-30: no new-grad/entry-level SWE titles; SWE roles generic or senior. Last year opened Aug 5, no track live yet.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

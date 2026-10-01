@@ -1,19 +1,26 @@
 {
   "company": "Noom",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Agentic Engineer (New Grad)", "url": "https://www.noom.com/careers/job-listings/?gh_jid=8114573", "location": "Princeton, NJ",
-     "opened": "2026-09-18", "date_source": "greenhouse first_published",
-     "grad_window": "Bachelor's degree in CS/SWE or related, or expected within 6 months", "live_verified": "api"}
+    {
+      "title": "Agentic Engineer (New Grad)",
+      "url": "https://www.noom.com/careers/job-listings/?gh_jid=8114573",
+      "location": "Princeton, NJ",
+      "opened": "2026-08-18",
+      "date_source": "tracker first seen (earlier reposts); greenhouse first_published 2026-09-18",
+      "deadline": null,
+      "grad_window": "Bachelor's degree or expected within 6 months",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-06-30",
-  "last_cycle_basis": "tracker history: Software Engineer - New Grad, Princeton NJ, first seen 2025-06-30",
+  "last_cycle_basis": "tracker first-seen: Software Engineer - New Grad, Princeton NJ, https://www.noom.com/careers/job-listings/?gh_jid=6955637",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.noom.com/careers/job-listings/",
   "jobs_spec": "gh:noomgrowth",
-  "evidence": "Found Greenhouse board slug 'noomgrowth' embedded in noom.com careers page (site blocks curl/WebFetch without a browser UA, worked with a spoofed UA). Confirmed live posting 'Agentic Engineer (New Grad)' via Greenhouse API, first_published 2026-09-18, requires CS/SWE bachelor's degree or expected within 6 months, no citizenship/clearance/sponsorship restriction in text.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (noomgrowth) lists live 'Agentic Engineer (New Grad)', Princeton NJ, first_published 2026-09-18; bachelor's CS/SWE or expected within 6 months; no sponsorship/citizenship lines; no deadline. Page fetch 403 and pane didn't render. Earlier reposts from 2026-08-18.",
+  "confidence": "medium"
 }

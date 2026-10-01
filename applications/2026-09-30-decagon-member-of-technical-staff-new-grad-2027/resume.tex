@@ -1,0 +1,60 @@
+% Decagon — Member of Technical Staff, New Grad (2027 Start)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Large Language Model Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Large Language Models in Practice, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built agentic LLM search on one SSE endpoint: turn 1 is deterministic RAG over hybrid retrieval fused with RRF; follow-ups run a bounded tool-use agent ($\le$3 hops, 5 tools, 45\,s); server-resolved citations so the model cannot author a URL; entity resolution took real logged queries from 0\% to 100\% P@1.
+  \item Shipped a personalized LLM alert pipeline (embed $\to$ LLM-score $\to$ LLM same-story judge $\to$ APNs) as a Kubernetes CronJob; calibrated it in production shadow and shipped live, cutting filler 34\% $\to$ 4\%.
+  \item Debugged failures across the stack: a 65\% failure rate in another team's async LLM workers, traced via Langfuse to an unbounded reasoning loop (p95 1{,}197 vs.\ 16{,}384-token runaways); a 5-day silent CronJob outage (ImagePullBackOff + Forbid concurrency); and a DNS $\to$ TLS $\to$ admission-policy chain blocking iOS clients.
+  \item Built the async FastAPI / MongoDB (Motor) backend with AI coding agents from its first commit to 89 endpoints on AWS EKS, with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest CI gate; re-keyed an agent-written per-user cache to a shared one, 78$\times$ smaller, as pod memory neared 512\,MiB.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and authored 344 PRs (340 merged) across five repos; the app's LLM morning digest reached 5{,}026 users.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git workflows and testing.
+  \item Designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked with recruiters so AI scoring categories matched real hiring, and iterated scoring and UI from user-testing sessions; demoed the product and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, SQL, Go, Java, Swift, C, HTML, CSS \\[1pt]
+  \textbf{Frameworks \& Data} & FastAPI, Pydantic, Motor / async MongoDB, React, Next.js, PostgreSQL, Supabase \\[1pt]
+  \textbf{AI \& LLMs} & RAG, hybrid retrieval, LangChain, Langfuse, bge embeddings, DeepSeek / DeepInfra \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, Grafana, Linux \\[1pt]
+  \textbf{Practices} & pytest, ruff, pyright, Unit Testing, REST APIs, Git, Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI with streaming inference.
+\end{itemize}
+
+\end{document}

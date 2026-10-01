@@ -1,18 +1,26 @@
 {
   "company": "Capgemini",
-  "tier": 10,
-  "checked": "2026-09-27",
-  "status": "closed",
+  "status": "open",
   "postings": [
-    {"title": "Frontend Developer - Mobile", "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors", "location": "Dallas, TX",
-     "opened": "on or before 2026-08-06", "date_source": "tracker first seen", "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Junior Frontend Developer",
+      "url": "https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-Frontend-Developer-GA-30301/1435951433/",
+      "location": "Atlanta, GA",
+      "opened": "2026-09-10",
+      "date_source": "listing date on careers site (carried from earlier check)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-12-12",
-  "last_cycle_basis": "jobs.py history: 'Full Stack AI Engineer' New York NY active 2025-12-12",
+  "last_cycle_basis": "jobs.py history: 'Full Stack AI Engineer' New York NY first seen 2025-12-12",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.capgemini.com",
   "jobs_spec": null,
-  "evidence": "Junior Data Engineer/Junior Data Scientist (Atlanta & NYC, Aug 2) and Mobile Frontend Developer (Dallas, Aug 6) all opened this cycle per tracker; confirmed the Dallas posting now reads 'Sorry, this position has been filled.' careers.capgemini.com domain intermittently blocked the browser pane, so used WebFetch. No currently-open qualifying posting found.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-09-30: Junior Frontend Developer (Atlanta) still shows Apply now; 0-2 yrs incl. internships; no sponsorship/clearance text. Tracker lead Associate Data Engineer (PA, posted 2026-09-29) is data engineering, not counted.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "tier": 10,
+  "no_sponsorship": false
 }

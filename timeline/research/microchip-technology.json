@@ -1,15 +1,26 @@
 {
   "company": "Microchip Technology",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "excluded",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer I-Software Development",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3962-26",
+      "location": "Houston, TX",
+      "opened": "2026-09-18",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-10-17",
   "last_cycle_basis": "tracker first seen: Engineer I - Software (FPGA Place and Route), San Jose CA",
-  "excluded_reason": "us person / itar",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://microchiphr.wd5.myworkdayjobs.com/external",
   "jobs_spec": "wd:microchiphr/wd5/external",
-  "evidence": "Workday API: the only 0-2.5yr 'Engineer I - Software' role (Santa Rosa, CA) quotes 'Candidates are required to provide proof of either US citizenship, Permanent US residency or classification as a protected individual' (export control). The other live US 'Engineer I' (Houston) requires 2+ years experience, so it's not a new-grad role.",
+  "evidence": "Workday CXS: Houston 'Engineer I-Software Development' (BS CS/CE, 2+ yrs C++) still live, canApply true, no end date, no citizenship line. Santa Rosa 'Engineer I - Software' requires proof of US citizenship/PR (export control), so excluded.",
   "confidence": "medium"
 }

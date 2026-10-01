@@ -1,0 +1,59 @@
+% Disney Entertainment & ESPN Technology — Product Software Engineer I (10157015)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Machine Learning, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Algorithms, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Sole SwiftUI engineer on \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (peak DAU 1{,}119; $\sim$6{,}000 installs); instrumented the client with a 72-event Amplitude analytics catalog behind 74 typed emit methods and a server-side event allowlist.
+  \item Designed and shipped a personalized LLM data pipeline as a Kubernetes CronJob (ingest $\to$ embed $\to$ LLM-score $\to$ select $\to$ dedupe $\to$ push, $\sim$1{,}200 LLM calls/day), gating each article against its topic's rolling 7-day score percentile and logging a decision row per item.
+  \item Evaluated the pipeline on 4{,}100+ production shadow decisions and hand-graded alerts before going live; cut filler 34\% $\to$ 4\% by count and held the 2/day cap over 11{,}745 user-days with zero violations.
+  \item Shipped agentic LLM search with RAG over hybrid retrieval (full-text + bge-embedding vector search fused with RRF) and server-resolved citations; took real logged queries from 0\% to 100\% P@1.
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints on AWS EKS (Docker, Helm), with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest gate.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline via Langfuse traces (an unbounded reasoning loop hitting a 16{,}384-token ceiling), and a 5-day silent CronJob outage fixed with paired job and scheduler deadlines.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; designed database schemas and REST APIs for LangChain LLM resume parsing, suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer (React, Next.js, Supabase, PostgreSQL); owned authentication, session state, and database interactions.
+  \item Worked with recruiters so AI scoring categories matched real hiring and iterated scoring and UI from user-testing sessions; demoed the product and obtained contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs; built an adaptive probabilistic safety certificate with PhD researchers that outperformed Adaptive MPC in simulation.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, SQL, Java, Go, TypeScript, JavaScript, Swift, C \\[1pt]
+  \textbf{Data \& ML} & PyTorch, NumPy, RAG, bge embeddings, LangChain, MongoDB, PostgreSQL, MySQL \\[1pt]
+  \textbf{Ops \& Cloud} & Langfuse, Amplitude, Grafana, Kubernetes (EKS), Docker, Helm, AWS, GCP, CI/CD \\[1pt]
+  \textbf{APIs \& Practices} & FastAPI, REST APIs, Pydantic, pytest, Unit Testing, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 20-frame (1s) video; built a data pipeline over 33 hours of Comma2k19 and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

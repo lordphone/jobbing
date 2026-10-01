@@ -1,15 +1,26 @@
 {
   "company": "Disney",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "2025-08-16, tracker first-seen date (unchanged from prior research)",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Product Software Engineer I",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-I_10157015-2",
+      "location": "New York, NY; Seattle, WA; San Francisco, CA",
+      "opened": "2026-09-29",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-02",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-08-15",
+  "last_cycle_basis": "tracker first seen: Software Engineer I, Seattle WA (disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
-  "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Checked Workday board. Numerous Spring 2027 internships but no full-time new-grad SWE program; all US software engineer postings are Senior/Lead/Manager/II or non-entry level.",
-  "confidence": "medium"
+  "jobs_spec": "wd:disney/wd5/disneycareerdc",
+  "evidence": "Workday disneycareerdc site (separate from disneycareer): Product Software Engineer I live, canApply true, startDate 2026-09-29, endDate 2026-10-02 (stated deadline). 1-2 yrs asked; no sponsorship/citizenship line. Many SWE 1 roles Jul-Aug 2026 already closed on the main board.",
+  "confidence": "high"
 }

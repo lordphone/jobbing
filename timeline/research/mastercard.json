@@ -1,12 +1,29 @@
 {
   "company": "Mastercard",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Site Reliability Engineer I, Launch Program 2027 - St. Louis, MO, US", "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642", "location": "O'Fallon, MO",
-     "opened": "2026-09-24", "date_source": "workday postedOn",
-     "grad_window": "anticipated graduation Dec 2026 - Jun 2027", "live_verified": "api"}
+    {
+      "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+      "location": "O'Fallon MO; Arlington VA; Salt Lake City UT",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-02",
+      "grad_window": "graduating Dec 2026 \u2013 Jun 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Site Reliability Engineer I, Launch Program 2027 - St. Louis, MO, US",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+      "location": "O'Fallon, MO",
+      "opened": "2026-09-24",
+      "date_source": "workday postedOn",
+      "grad_window": "anticipated graduation Dec 2026 - Jun 2027",
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-11-12",
   "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, campusapplyonly Workday site) first seen 2025-11-12",
@@ -14,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://mastercard.wd1.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mastercard/wd1/Campus",
-  "evidence": "CORRECTION: a third Workday site, 'Campus' (distinct from CorporateCareers and campusapplyonly checked previously), hosts current Launch Program postings. jobs.py detail confirms live 'Site Reliability Engineer I, Launch Program 2027' (O'Fallon, MO), Dec 2026-Jun 2027 grad window, no sponsorship. A parallel 'Software Engineer, Launch Program 2027' exists for Toronto/Vancouver (Canada, not counted) and a US SWE Launch Program variant (Salt Lake City/O'Fallon/Harrisburg) posted 2026-08-23 has since closed.",
-  "confidence": "medium"
+  "evidence": "Campus Workday site 2026-09-30: US Software Engineer Launch Program 2027 posted today, canApply true, endDate 2026-10-02; SRE I Launch Program 2027 also live. Both grad Dec 2026-Jun 2027, no work-auth sponsorship (F1/CPT/OPT not eligible).",
+  "confidence": "high"
 }

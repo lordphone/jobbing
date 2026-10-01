@@ -1,15 +1,15 @@
 {
   "company": "Autodesk",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker history: 'New Grad 2025: Software Engineer' San Francisco, CA, first seen 2025-08-07",
+  "last_cycle_basis": "tracker first seen 'New Grad 2025: Software Engineer' San Francisco (autodesk.wd1.myworkdayjobs.com)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://autodesk.wd1.myworkdayjobs.com/Ext",
   "jobs_spec": "wd:autodesk/wd1/Ext",
-  "evidence": "Workday API: only new-grad-labeled posting is 'Graduate Software Engineer' in Oslo, Norway (not US). No US new-grad SWE posting live this cycle; history shows Toronto/Canada roles opening Jan-May, none in US.",
-  "confidence": "medium"
+  "evidence": "Workday API (102 postings): only graduate SWE is Oslo, Norway; US/Canada entries are interns; US SWE roles are experienced (Maya Software Developer etc.). Last cycle SF new grad opened 2025-08; no 2027 posting yet.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

@@ -1,6 +1,7 @@
 {
   "company": "Citrix (Cloud Software Group)",
   "tier": 6,
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.cloud.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Checked Cloud Software Group's job search page: 52 total postings, mostly sales/strategy; the only technical role was a Senior GRC Technical Engineer (senior, not engineering-track). No entry-level or new-grad SWE positions under Citrix or Cloud Software Group.",
-  "confidence": "medium",
-  "checked": "2026-09-27"
+  "evidence": "Fetched all 2 result pages of careers.cloud.com/jobs/search in browser (53 postings, 2026-09-30): account strategists, sales, GRC engineer, data scientists, semiconductor applications engineer. No entry-level or new-grad SWE.",
+  "confidence": "medium"
 }

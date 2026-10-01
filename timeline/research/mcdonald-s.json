@@ -1,15 +1,15 @@
 {
   "company": "McDonald's",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
-  "last_cycle_basis": "tracker first-seen date for Software Engineer I, iOS, Chicago IL (jobs.py history)",
+  "last_cycle_basis": "tracker first-seen: Software Engineer I, iOS (Chicago), 2025-09-11; wave of SE I postings Sep-Dec 2025",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.mcdonalds.com",
   "jobs_spec": null,
-  "evidence": "SuccessFactors board search is keyword-blind (returns unfiltered results), so checked posting URLs directly. Full Stack Engineer I (req filed Jan 2026, part of the same Sep-Nov 2025 wave of Software Engineer I postings) now shows 'this position has been filled.' No Software Engineer I / entry-level SWE posting currently live.",
+  "evidence": "jobs.mcdonalds.com in browser (SuccessFactors; '<query> AND Chicago' searches): live Chicago engineering roles are Software Engineer III, Cloud/Data/Network Engineer III, Sr/Director/Manager. No Software Engineer I or entry-level SWE posting live yet; last year they posted many SE I roles from mid-Sep.",
   "confidence": "medium"
 }

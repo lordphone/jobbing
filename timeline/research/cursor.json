@@ -1,19 +1,26 @@
 {
   "company": "Cursor",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, New Grad 2027", "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b", "location": "San Francisco",
-     "opened": "2026-09-08", "date_source": "ashby publishedAt",
-     "grad_window": "Spring 2027", "live_verified": "api"}
+    {
+      "title": "Software Engineer, New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "location": "San Francisco; New York",
+      "opened": "2026-09-08",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Spring 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "GitHub tracker history for 'cursor|anysphere' has no entries in 2025-07 to 2026-01; only this cycle's posting (first seen 2026-09-09).",
+  "last_cycle_basis": "GitHub tracker history has no Cursor/Anysphere entry 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/cursor",
   "jobs_spec": "ashby:cursor",
-  "evidence": "Ashby board (126 postings) has 'Software Engineer, New Grad 2027' opened 2026-09-08, targeting Spring 2027 CS grads, SF/NYC. Live per API.",
+  "evidence": "Ashby board (132 postings) lists live 'Software Engineer, New Grad 2027' (SF), published 2026-09-08, for Spring 2027 graduates. No citizenship or deadline line.",
   "confidence": "high"
 }

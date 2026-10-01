@@ -1,15 +1,15 @@
 {
   "company": "Stanford Health Care",
-  "tier": 11,
-  "checked": "2026-09-27",
   "status": "no_program_found",
+  "jobs_page": "https://careers.stanfordhealthcare.org/us/en/search-results",
+  "jobs_spec": null,
+  "evidence": "Career-site API 2026-09-30 (331 postings, all scanned): software/data roles are Lead/Senior/Sr Manager, or Clinical Systems Analyst and DevOps needing 2-3+ yrs. No new-grad or entry-level SWE program or posting.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-09-30",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record; not found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.stanfordhealthcare.org/us/en/search-results?keywords=software%20engineer",
-  "jobs_spec": null,
-  "evidence": "Searched IT job board (126 IT postings, 'software engineer' and 'software engineer I' keywords). All results are Sr./mid-level (Sr. Software Engineer, DevOps Engineer, IT Analyst); no entry-level or new-grad SWE posting.",
-  "confidence": "medium"
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
 }

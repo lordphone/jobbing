@@ -1,15 +1,26 @@
 {
   "company": "Pennymac",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Digital Technology Organization Rotational Engineer",
+      "url": "https://careers.pennymac.com/jobs/40358",
+      "location": "Carrollton, TX; Cary, NC",
+      "opened": "2026-08-31",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Jan and June 2027 cohorts",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Unknown; no dated record found this run.",
+  "last_cycle_basis": "No dated last-cycle record; TRE reopens Spring 2027 per careers page.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.pennymac.com/students-graduates",
-  "jobs_spec": null,
-  "evidence": "Careers page: 'Tech Rotational Engineering Program' listed among student/grad tracks, but page states 'We are not currently accepting applications' for that track (PCU rotational analyst cohort for Summer 2027 is live, but is finance/business-analytics, not SWE).",
+  "jobs_spec": "icims (no API)",
+  "evidence": "Students page still links DTO Rotational Engineer (Jan/June 2027 cohorts), but jobs/40358 and Rotational Analyst 40324 return 404 in browser on 2026-09-30, so the posting is gone. TRE closed until Spring 2027. Only other tech posting: Full Stack Developer (.NET), 3+ yrs.",
   "confidence": "medium"
 }

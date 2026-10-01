@@ -1,19 +1,26 @@
 {
   "company": "Cencora",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "AI Enablement Engineer", "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/AI-Enablement-Engineer_R266644-1", "location": "Remote/Philadelphia, PA",
-     "opened": "2026-09-17", "date_source": "workday postedOn (Posted 10 Days Ago from 2026-09-27) + tracker first seen 2026-09-16",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "AI Enablement Engineer",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/AI-Enablement-Engineer_R266644-1",
+      "location": "Remote / Philadelphia, PA; Conshohocken, PA",
+      "opened": "2026-09-16",
+      "date_source": "tracker first seen; workday startDate 2026-09-17",
+      "deadline": "2026-10-03",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": "2026-05-12",
-  "last_cycle_basis": "tracker history: Automation Developer I (Farmers Branch, TX) first seen 2026-05-12; closed since",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker: Automation Developer 1 first seen 2026-05-12 (outside last-cycle window); no earlier record",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myhrabc.wd5.myworkdayjobs.com/Global",
   "jobs_spec": "wd:myhrabc/wd5/Global",
-  "evidence": "Confirmed AI Enablement Engineer live on company's own Workday board, not just tracker. Asks <2 years experience (broader than the usual 0-1yr new-grad ask); no explicit 2027 grad window found on the posting, opened after 2026-07-01 cutoff.",
-  "confidence": "medium"
+  "evidence": "Workday board (124, --all): AI Enablement Engineer live (canApply true, endDate 2026-10-03, requires <2 yrs experience) but duties are KPI/dashboard analytics, borderline SWE; other US software roles are interns. No sponsorship statement read.",
+  "confidence": "low"
 }

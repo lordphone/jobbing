@@ -1,7 +1,7 @@
 {
   "company": "Boehringer Ingelheim",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.boehringer-ingelheim.com",
   "jobs_spec": null,
-  "evidence": "Board search DOES filter when used via the on-page Keyword box (unlike the ?k= URL param): 'software engineer' -> 137 results (was 514 unfiltered), 'graduate program 2027' -> 307. Only US SWE-adjacent hit is 'Software Engineer AI' (Ridgefield, CT, Job ID 33178), still live/Apply Now, states 'unable to sponsor... must be authorized to work in the U.S. without employer sponsorship currently and in the future' (no_sponsorship), but the posting states no explicit years-of-experience or grad-year requirement, so it's not clearly a 0-1yr new-grad role. 'Graduate program 2027' search surfaced only Co-Ops and Summer Interns (Co-Op IT Engineer, Design Intern, etc.), no full-time new-grad SWE track.",
-  "confidence": "medium"
+  "evidence": "Own SuccessFactors board is JS-rendered (not readable by fetch). 2026-09-30 web search found only Ridgefield CT IT co-ops and interns; prior run saw multi-tier Software Engineer AI (Senior/Principal, no sponsorship), not clearly entry-level. Not re-opened.",
+  "confidence": "low"
 }

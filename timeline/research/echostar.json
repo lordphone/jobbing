@@ -1,15 +1,15 @@
 {
   "company": "EchoStar (DISH, Boost Mobile, Sling)",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-01-31",
-  "last_cycle_basis": "tracker first-seen: 'Entry Level Software Engineer', San Diego, CA",
+  "last_cycle_basis": "tracker first-seen: 'Entry Level Software Engineer', San Diego, CA (earlier: Software Test Engineer I 2024-11-15); nothing seen in the 2025-07..2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.echostar.com/jobs?categories=Software%20Engineering%20%2F%20Development",
   "jobs_spec": null,
-  "evidence": "Found the site's job API (jobs.echostar.com/api/jobs) via network trace: 19 postings in the Software Engineering / Development category, all Level II/III, Senior, Staff, or Principal -- none entry-level. Company has an 'Entry Level Software Engineer' program historically but it posts late (last cycle opened 2025-01-31, similar to the 2024-11-15 'Software Test Engineer I'); nothing live yet for 2027.",
-  "confidence": "medium"
+  "evidence": "jobs.echostar.com API 2026-09-30, all 575 postings scanned: software roles are Senior/Staff/Principal/II-III; 'UICC Engineer I' and 'Device Certification Engineer I' are wireless test/certification, not SWE. Prior entry SWE posted Nov-Jan, so nothing yet for 2027.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

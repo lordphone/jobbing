@@ -1,15 +1,15 @@
 {
   "company": "National Hockey League (NHL)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
   "jobs_spec": null,
-  "evidence": "TeamWork Online board is reachable this run (previous 403 did not recur). Reviewed all current NHL League Office (NYC) postings: Manager Business Development-Sponsorship, Analyst Growth Strategy-YouTube (Entry Level), Producer NHL.com International (Entry Level), Producer-Seasonal NHL.com. None are software/engineering roles. A 'Full Stack Software Developer' and 'Data Engineer' exist but are Detroit Red Wings club postings (Manager level), not NHL League Office, and not entry-level.",
+  "evidence": "Browser: TeamWork NHL board (league office plus clubs) shows marketing, production, legal, merchandise and club roles; only tech title seen was a Buffalo Sabres cybersecurity intern. No NHL entry-level SWE. Earlier check found only Detroit Red Wings manager-level developer roles.",
   "confidence": "medium"
 }

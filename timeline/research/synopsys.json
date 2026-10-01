@@ -1,15 +1,15 @@
 {
   "company": "Synopsys",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in 2025-07..2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in the 2025-07..2026-01 window",
   "jobs_page": "https://careers.synopsys.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Checked careers.synopsys.com/early-careers (interns/co-ops only, no new-grad program listed) and search-jobs for 'new college graduate software' in US; results are staff/senior/principal roles or unrelated. No qualifying new-grad SWE posting found.",
-  "confidence": "low"
+  "evidence": "careers.synopsys.com US-filtered searches via WebFetch (new college graduate, graduate, 2027, entry level, R&D Engineering): US results are Sr/Staff/Principal, applications or hardware; entry-titled R&D Engineer roles are Taiwan/India. No US new-grad SWE live. Search text is model-summarized.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,15 +1,15 @@
 {
   "company": "UPS",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; jobs.py history shows only intern/internal roles (Product Analyst-Gen AI Automation, Applications Development Associate) with no clear entry-level SWE new-grad track",
+  "last_cycle_opened": "2025-11-25",
+  "last_cycle_basis": "tracker first-seen: Software Development Engineer 1 - Salesforce (Georgia / Parsippany NJ), 2025-11-25; earlier SDE I 2025-03-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://hcmportal.wd5.myworkdayjobs.com/Search",
   "jobs_spec": "wd:hcmportal/wd5/Search",
-  "evidence": "Checked full Workday board (142 postings, --all): no US entry-level Software Engineer / SDE new-grad posting; only 2027 summer internships and senior/lead engineering roles.",
+  "evidence": "Workday board (128 postings, --all): US software roles are only Summer 2027 Technology/InfoSec internships; entry-level developer roles are India TDC. No US entry-level SWE live.",
   "confidence": "medium"
 }

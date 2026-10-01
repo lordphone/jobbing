@@ -1,12 +1,19 @@
 {
   "company": "Amgen",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "open",
+  "checked": "2026-09-30",
+  "status": "closed",
   "postings": [
-    {"title": "Associate AI Engineer, OI&A", "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988", "location": "Thousand Oaks, CA",
-     "opened": "2026-09-22", "date_source": "tracker first seen 2026-09-22, workday postedOn Posted 4 Days Ago",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Associate AI Engineer, OI&A",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
+      "location": "Thousand Oaks, CA",
+      "opened": "2026-09-22",
+      "date_source": "prior research file (workday)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
   ],
   "last_cycle_opened": "2025-08-08",
   "last_cycle_basis": "tracker history: Junior Software Engineer (Thousand Oaks, CA; Tampa, FL) first seen 2025-08-08",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://amgen.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:amgen/wd1/careers",
-  "evidence": "Confirmed Associate AI Engineer live via jobs.py detail (own Workday board, not just tracker). Requires bachelor's degree or diploma+2yr experience; posting text references redacting graduation dates, consistent with early-career hiring.",
-  "confidence": "high"
+  "evidence": "Previous file said open; changed to closed. The Associate AI Engineer OI&A posting no longer resolves via CXS and is absent from Workday searches (OI&A, Associate AI, AI engineer). Remaining US tech roles are 2027 grad/undergrad interns or 30+ day non-entry.",
+  "confidence": "medium"
 }

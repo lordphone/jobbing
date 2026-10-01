@@ -1,15 +1,15 @@
 {
   "company": "Cockroach Labs",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'cockroach' shows only a 2024-08-07 new-grad posting (too old to be last cycle) and a 2026-06-11 Member of Technical Staff (Disaster Recovery, not entry-level); nothing between 2025-07 and 2026-01",
+  "last_cycle_basis": "History shows only 2024-08-07 new-grad posting; nothing between 2025-07 and 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cockroachlabs",
   "jobs_spec": "gh:cockroachlabs",
-  "evidence": "gh:cockroachlabs board (--all, 19 postings) has no engineering roles at all this cycle, entry-level or otherwise; all listed roles are sales/marketing/ops/senior MTS. No new-grad track found.",
+  "evidence": "Greenhouse board (19 postings, --all): no engineering roles this cycle. Tracker shows a 2024-08 Toronto new-grad posting (too old) and a 2026-06 MTS role (not entry).",
   "confidence": "high"
 }

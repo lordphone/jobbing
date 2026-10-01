@@ -1,22 +1,26 @@
 {
   "company": "Viasat",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "closed",
+  "checked": "2026-09-30",
+  "status": "excluded",
   "postings": [
-    {"title": "Software Engineer, Broadband Networks", "url": "https://careers.viasat.com/jobs/4993", "location": "Carlsbad, CA",
-     "opened": "2025-12-12", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"},
-    {"title": "Software Engineer - Automation", "url": "https://careers.viasat.com/jobs/6330", "location": "Carlsbad, CA",
-     "opened": "2026-09-02", "date_source": "tracker first seen",
-     "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Embedded Software Engineer, Early Career",
+      "url": "https://careers.viasat.com/jobs/6723",
+      "location": "Carlsbad, CA; Tempe, AZ; Marlborough, MA",
+      "opened": "2026-08-19",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-06-07",
   "last_cycle_basis": "tracker: 'Full Stack Software Engineer, Early Career' first seen 2025-06-07 (https://careers.viasat.com/jobs/4457).",
-  "excluded_reason": null,
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
-  "jobs_page": "https://careers.viasat.com",
+  "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Both this-cycle Carlsbad SWE postings (Broadband Networks, Software Engineer - Automation) 404 on their job URLs, i.e. closed. Data Engineer - Early Career is London, not US. Live board itself did not fully render for a fresh keyword search this session (iCIMS, no API).",
-  "confidence": "medium"
+  "evidence": "Jibe API (203 jobs): only US early-career SWE is 6723, which says 'This position requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Sibling 6722 now 404 (closed). Other US SWE roles senior.",
+  "confidence": "high"
 }

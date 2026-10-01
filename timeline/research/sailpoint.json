@@ -1,15 +1,26 @@
 {
   "company": "SailPoint",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Security Software Engineer",
+      "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-Texas-USA/Associate-Security-Software-Engineer_R013786",
+      "location": "Remote (Texas, USA) / United States",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found no new-grad SWE postings in prior cycles, only a Business Intelligence Analyst role",
+  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint",
   "jobs_spec": "wd:sailpoint/wd1/SailPoint",
-  "evidence": "Workday API: 26 postings. 'Associate Security Software Engineer' (Remote TX, posted 2026-09-09) requires '2-4 years of experience' per detail page, not entry-level. No other qualifying role found.",
-  "confidence": "high"
+  "evidence": "Opened in browser 2026-09-30: 'Associate Security Software Engineer' live with Apply, Remote TX/US, posted ~2026-09-09, no deadline or sponsorship statement. Asks 2-4 years but Associate title is entry-level; no class-year window, so medium.",
+  "confidence": "medium"
 }

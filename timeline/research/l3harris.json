@@ -1,15 +1,36 @@
 {
   "company": "L3Harris",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate, Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Plano-Associate%2C-Software-Engineer-TX-75074/1427668800/",
+      "location": "Plano, TX",
+      "opened": "on or before 2026-09-28",
+      "date_source": "page text (no date shown)",
+      "grad_window": "pursuing degree or completed Bachelor's within last 12 months",
+      "live_verified": "browser",
+      "deadline": null
+    },
+    {
+      "title": "Associate, Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate%2C-Software-Engineering-IN-46818/1422832500/",
+      "location": "Fort Wayne, IN",
+      "opened": "on or before 2026-09-28",
+      "date_source": "page text (no date shown)",
+      "grad_window": "pursuing degree or completed Bachelor's within last 12 months",
+      "live_verified": "browser",
+      "deadline": null
+    }
+  ],
   "last_cycle_opened": "2025-11-23",
-  "last_cycle_basis": "jobs.py history 'l3harris': 'Assoc – Software Engineer - Waco - TX', first seen 2025-11-23",
+  "last_cycle_basis": "tracker first seen: Assoc - Software Engineer, Waco TX (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.l3harris.com",
   "jobs_spec": null,
-  "evidence": "Tracker history shows 8+ 'Associate Software Engineer/Engineering' postings opened this cycle (Jul-Sep 2026, e.g. Herndon, Clifton, Colorado Springs, Greenville x3). Opened the tracker lead posting and the most recent Greenville one (2026-09-16): both return 'Sorry, this position has been filled.' No Associate SWE posting is currently live; currently-active postings on the board are Data Architect, Business Intelligence Analyst, Image Processing Engineer, and Technical Training — none software engineering.",
-  "confidence": "medium"
+  "evidence": "Re-opened Plano and Fort Wayne Associate SWE postings: Apply now present, no posting date, no citizenship/clearance/sponsorship text, no deadline. Eligibility: pursuing a degree or completed Bachelor's within last 12 months. Earlier July postings (Herndon) filled.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

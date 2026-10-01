@@ -1,15 +1,15 @@
 {
   "company": "FINRA",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "tracker mention (vanshb03: Software Engineer, Woodbridge NJ, ~Mar) but no confirmed first-party date found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker history: Software Engineer, Woodbridge NJ, first seen 2026-03-25 (not last-cycle window, experience level unverified).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://finra.wd1.myworkdayjobs.com/FINRA",
   "jobs_spec": "wd:finra/wd1/FINRA",
-  "evidence": "Workday API board (--all) shows only Senior/Principal/Staff/Lead/Associate Director engineering roles, no entry-level SWE. FINRA has a recent-grad programs page but no open SWE-track posting on the board currently.",
-  "confidence": "medium"
+  "evidence": "Workday API --all, 25 postings: only Senior/Principal/Staff/Lead engineering and CAT Helpline analysts. Tracker's Software Engineer postings (Mar, May 2026) are gone.",
+  "confidence": "high"
 }

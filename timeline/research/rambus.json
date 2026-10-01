@@ -1,15 +1,15 @@
 {
   "company": "Rambus",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2025-09-26",
-  "last_cycle_basis": "previous research file: tracker_last_cycle 2025-09-26 (Verification/Digital Design Engineer - New College)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: Digital Design Engineer, Westlake Village CA, 2025-11-20 (hardware, not SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-rambus.icims.com",
   "jobs_spec": null,
-  "evidence": "jobs.py history shows only a 'Digital Design Engineer' new-college posting (Westlake Village, CA, first seen 2025-11-20) - hardware/chip design, not SWE. No SWE new-grad track found this or last cycle.",
+  "evidence": "iCIMS board read via WebFetch (86 jobs, pages 0-3): no entry-level SWE; only SMTS Software Development and Senior Power Platform developer. Entry roles are chip design/verification/applications. Last cycle tracker entry was Digital Design Engineer.",
   "confidence": "medium"
 }

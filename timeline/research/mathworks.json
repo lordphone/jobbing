@@ -1,19 +1,26 @@
 {
   "company": "MathWorks",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Multiple Openings - Engineering Development Group - U.S.", "url": "https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s", "location": "Natick, MA, US",
-     "opened": "on or before 2026-09-27", "date_source": "page text",
-     "grad_window": "rolling; BS/MS/PhD in Engineering or CS", "live_verified": "browser"}
+    {
+      "title": "Multiple Openings - Engineering Development Group - U.S. (EDG New Career Program)",
+      "url": "https://www.mathworks.com/company/jobs/opportunities/16217",
+      "location": "Natick, MA",
+      "opened": "2026-09-01",
+      "date_source": "page text (JSON-LD datePosted)",
+      "deadline": "2027-09-30",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Rolling EDG requisition, reposted periodically per prior pass; no distinct cycle-open date identified.",
+  "last_cycle_basis": "Rolling EDG requisition; no tracker history and no distinct last-cycle open date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.mathworks.com/company/jobs",
   "jobs_spec": null,
-  "evidence": "Confirmed 'Multiple Openings - Engineering Development Group - U.S.' (Natick, MA) is live with active Apply button. EDG is a rotational dev-projects + customer-support program for BS/MS/PhD grads, not a pure SWE title, consistent with prior pass. No graduation-year or citizenship restriction found.",
+  "evidence": "Opened req 16217 in browser: live, JSON-LD datePosted 2026-09-01, validThrough 2027-09-30 (structured-data end date, not a stated deadline). BS/MS/PhD dev-projects plus customer-support rotation into software dev; not a pure SWE title. No citizenship line.",
   "confidence": "medium"
 }

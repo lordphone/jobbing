@@ -1,15 +1,15 @@
 {
   "company": "Infineon Technologies",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "not_yet",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown - not found; no tracker history",
   "jobs_page": "https://jobs.infineon.com/careers",
-  "jobs_spec": null,
-  "evidence": "jobs.infineon.com US software engineer search (39 results, 2 pages reviewed): all SWE/firmware roles are Staff/Senior/Principal with 5+ yrs. US 'Graduate' titled roles found are Validation Engineer and Product Marketing Engineer, not software engineering. No qualifying entry-level SWE posting.",
-  "confidence": "medium"
+  "jobs_spec": "eightfold:jobs.infineon.com/infineon.com",
+  "evidence": "Eightfold API (39): many US 'Graduate' postings are analog/IC design, validation, test, process, marketing, application engineering, none software. US software/firmware roles are Staff/Principal. Was not_yet; no software grad track evident, so no_program_found.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

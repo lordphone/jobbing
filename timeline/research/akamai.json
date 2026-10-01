@@ -1,15 +1,15 @@
 {
   "company": "Akamai",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no tracker lead and no dated new-grad SWE posting found this session",
+  "last_cycle_opened": "2025-07-14",
+  "last_cycle_basis": "tracker first-seen: Software Engineer I (Remote in USA), Akamai Oracle HCM job 897; jobs.py history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.akamai.com/en/sites/CX_1",
-  "jobs_spec": null,
-  "evidence": "Browser: searched 'software engineer new grad' on jobs.akamai.com (61 results) - all Senior/Senior II/Principal Software Engineer or SRE roles, none entry-level or new-grad titled.",
+  "jobs_spec": "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
+  "evidence": "Oracle HCM API re-read: US software roles are Senior/Principal; only 'Software Engineer II' (posted 2026-09-25, no end date) is mid-level, not labeled entry or new grad, so not counted. No Software Engineer I or grad role live.",
   "confidence": "medium"
 }

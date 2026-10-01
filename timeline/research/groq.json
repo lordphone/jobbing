@@ -1,15 +1,15 @@
 {
   "company": "Groq",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows a 2024-09-03 posting (2 cycles old); nothing between 2025-07 and 2026-01",
+  "last_cycle_basis": "tracker first seen 2024-09-03 (before last-cycle window); nothing in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/groq",
   "jobs_spec": null,
-  "evidence": "groq.com/careers-at-groq no longer resolves to a careers page (redirects to the homepage with no careers link in the nav). Its Gem-hosted board (jobs.gem.com/groq) shows 'Open positions (0)'. Context: per Dec 2025 reporting (TechCrunch, Motley Fool, Axios), Nvidia struck a ~$20B non-exclusive licensing deal for Groq's tech and hired ~90% of Groq's staff including the founder/CEO; Groq continues as a much smaller independent company running its cloud business, consistent with zero open reqs.",
+  "evidence": "jobs.gem.com/groq and Gem API list no open positions; groq.com/careers shows no listings; old Greenhouse board 404. Nvidia licensing/talent deal (Dec 2025) per earlier check. Tracker New Grad SWE first seen 2024-09-03.",
   "confidence": "medium"
 }

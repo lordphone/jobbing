@@ -1,15 +1,15 @@
 {
   "company": "Skyworks Solutions",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown - not found; no tracker history",
   "jobs_page": "https://careers.skyworksinc.com",
   "jobs_spec": null,
-  "evidence": "careers.skyworksinc.com search for 'software engineer' in United States (145 results, first page reviewed): only Summer/Winter 2027 internships and co-ops (Austin, Cedar Rapids, Hillsboro, Newbury Park, Woburn). No full-time entry-level SWE posting; India board has Software Engineer 2/Sr/Staff roles but not US.",
-  "confidence": "medium"
+  "evidence": "Skyworks careers XML feed (338 jobs, read 2026-09-30): US software/data/AI entries are all 2027 interns/co-ops or Sr. Data Scientist; no full-time entry-level SWE yet. Recent-grad page exists but lists none.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

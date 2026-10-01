@@ -1,15 +1,15 @@
 {
   "company": "Tektronix",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board evidence found",
+  "last_cycle_basis": "jobs.py history: Software Security Engineer (Entry-Level) Beaverton/Solon 2026-05-13, closed, outside cycle window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ralliant.eightfold.ai/careers?location=United%20States",
-  "jobs_spec": null,
-  "evidence": "Tektronix now posts under Ralliant Corporation (spun off from Fortive), Eightfold board. Searched 'software engineer' and 'new grad software'; all US software roles found are senior/experienced (6+ years) at Qualitrol, none at Tektronix itself, and no entry-level SWE track.",
+  "jobs_spec": "eightfold:ralliant.eightfold.ai/ralliant.com",
+  "evidence": "Ralliant Eightfold API (43 postings): no entry-level software role live; earlier check found only 6+ yr SWE, Sr Firmware, Principal Platform. Closed 2026-05 'Software Security Engineer (Entry-Level)' listed a U.S. citizenship flag.",
   "confidence": "medium"
 }

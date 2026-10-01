@@ -1,15 +1,26 @@
 {
   "company": "AT&T",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AT&T Technology Development Program (Software Engineer / Data Science Engineer / Business Analytics Engineer / Network Engineer tracks)",
+      "url": "https://att.wd1.myworkdayjobs.com/attcollege/job/Dallas-Texas/AT-T-Technology-Development-Program_R-121905-1",
+      "location": "Dallas, Texas; Middletown, New Jersey; Bothell, Washington; Atlanta, Georgia",
+      "opened": "2026-09-20",
+      "date_source": "tracker first seen (workday startDate 2026-09-21, postedOn 9 days ago)",
+      "deadline": "2026-11-14",
+      "grad_window": "degree completed before start; start full-time by July 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2024-10-18",
-  "last_cycle_basis": "tracker first-seen: 'New Grad 2025: Technology Development Program' (Atlanta, GA), 2024-10-18",
+  "last_cycle_basis": "tracker history: 'New Grad 2025: Technology Development Program' first seen 2024-10-18 (no 2025-26 TDP entry found)",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://att.wd1.myworkdayjobs.com/ATTGeneral",
-  "jobs_spec": "wd:att/wd1/ATTGeneral",
-  "evidence": "Checked Workday board (--all): no new-grad/TDP/early-career SWE postings, only senior/government roles. Tracker history shows only last cycle's 2025 TDP posting.",
+  "no_sponsorship": true,
+  "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
+  "jobs_spec": "wd:att/wd1/attcollege",
+  "evidence": "attcollege Workday API lists the TDP (canApply true, Software Engineer track, endDate 2026-11-14). Text: 'will not hire any applicants ... who require employer sponsorship'. Read via API.",
   "confidence": "high"
 }

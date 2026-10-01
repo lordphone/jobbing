@@ -1,15 +1,15 @@
 {
   "company": "eToro",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US postings historically",
+  "last_cycle_basis": "unknown; no first-party or tracker date found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.etoro.com/about/careers/",
   "jobs_spec": null,
-  "evidence": "eToro's own careers site (21 total global postings): New York, United States has exactly 1 open role, 'Senior Accountant (Finance)' - no engineering roles at all in the US. Engineering (Senior DevOps, Senior Software Developer) only in Limassol, Cyprus.",
-  "confidence": "high"
+  "evidence": "eToro careers (browser, 21 roles) 2026-09-30: engineering roles in Cyprus/Israel; only US posting is Senior Accountant. No US SWE roles.",
+  "confidence": "medium"
 }

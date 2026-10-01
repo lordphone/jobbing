@@ -1,15 +1,26 @@
 {
   "company": "TIAA",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Early Talent Rotational Program: Technology",
+      "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Technology_R260900410",
+      "location": "Charlotte, NC / Dallas, TX",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate/postedOn (first read Posted Today 2026-09-28; API startDate now 2026-09-29)",
+      "deadline": null,
+      "grad_window": "Bachelor's; start Jan 2027 or Jul 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker: 'Early Talent Rotational Program: Technology', Charlotte/Dallas/NY, first seen 2025-09-15 for the 2026 cycle",
+  "last_cycle_basis": "tracker: 'Early Talent Rotational Program: Technology' first seen 2025-09-15 (Charlotte/Dallas/NY)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://tiaa.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:tiaa/wd1/Search",
-  "evidence": "Re-checked Workday board (--all): still no US Early Talent Rotational Program: Technology or entry-level SWE posting live; only a UK Nuveen rotational analyst role and senior/associate non-entry SWE roles.",
+  "evidence": "Workday API 2026-09-30: Technical Rotational Associate (2-year rotation, Analyst or Engineer track, tech-broad), canApply true, no experience required, bachelor's, start Jan/Jul 2027. No deadline. Earlier pass noted a no-sponsorship line; I did not find one in this read.",
   "confidence": "medium"
 }

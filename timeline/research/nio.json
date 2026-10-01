@@ -1,15 +1,15 @@
 {
   "company": "NIO",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker's one clean NIO US match is 'Staff AI Researcher' (San Jose, CA), first seen 2026-04-18, now closed; not a new-grad SWE posting.",
+  "last_cycle_basis": "Tracker's one clean NIO US match is 'Staff AI Researcher' (San Jose), first seen 2026-04-18, closed; not new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nio.wd3.myworkdayjobs.com/NIO_Careers",
   "jobs_spec": "wd:nio/wd3/NIO_Careers",
-  "evidence": "nio.wd3.myworkdayjobs.com/NIO_Careers redirects straight to community.workday.com/maintenance-page ('Workday is currently unavailable... service interruption'), same as the prior check. The board itself, not just the API, is down; could not verify any current US postings.",
+  "evidence": "Workday board API returns HTTP 422 (still unreachable, 2026-09-30). Web search shows only senior San Jose roles (OS/kernel, AI infra); no new-grad SWE track found. Retry later.",
   "confidence": "low"
 }

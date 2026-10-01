@@ -1,12 +1,19 @@
 {
   "company": "GE HealthCare",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Edison Engineering Development Program", "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1", "location": "Waukesha, WI (2 locations)",
-     "opened": "2026-09-09", "date_source": "workday postedOn (Posted 18 Days Ago)",
-     "grad_window": "Bachelor's degree completed by July 2027", "live_verified": "api"}
+    {
+      "title": "Edison Engineering Development Program",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
+      "location": "Waukesha; Aurora",
+      "opened": "2026-09-09",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Bachelor's degree completed by July 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-11-25",
   "last_cycle_basis": "tracker history: Software Engineer 1 - MIM Platform (Orange, OH) first seen 2025-11-25",
@@ -14,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
   "jobs_spec": "wd:gehc/wd5/GEHC_ExternalSite",
-  "evidence": "Confirmed live via jobs.py detail: rotational program for recent grads (bachelor's by July 2027), eligible majors include Computer Science, 'will not sponsor individuals for employment visas, now or in the future'. Software Engineer 1 postings (Orange, OH) recurred through the cycle but are currently closed.",
+  "evidence": "Read EEDP via CXS API: live, entry-level rotational, CS eligible with software-focused track, bachelor's by July 2027, no sponsorship now or future. Other US software roles are II/Senior. Same status.",
   "confidence": "high"
 }

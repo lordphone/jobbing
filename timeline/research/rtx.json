@@ -1,19 +1,46 @@
 {
   "company": "RTX",
   "tier": 8,
-  "checked": "2026-09-27",
   "status": "excluded",
   "postings": [
-    {"title": "Software Engineer I, CDS (Onsite - Security Clearance)", "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720", "location": "Aguadilla, PR",
-     "opened": "on or before 2026-09-24", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
+      "location": "Cedar Rapids, IA",
+      "opened": "2026-09-29",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081",
+      "location": "Cedar Rapids, IA",
+      "opened": "2026-09-28",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    },
+    {
+      "title": "Research Software Engineer I - Onsite",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
+      "location": "Cambridge, MA",
+      "opened": "2026-09-28",
+      "date_source": "workday postedOn",
+      "grad_window": null,
+      "live_verified": "api",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2025-07-25",
-  "last_cycle_basis": "tracker first-seen date, kept from previous research file",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "tracker first seen (jobs.py history / worklist tracker_last_cycle)",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway",
   "jobs_spec": "wd:globalhr/wd5/rec_rtx_ext_gateway",
-  "evidence": "Entry-level 'Software Engineer I' posting explicitly labeled 'Onsite - Security Clearance'. Most other SWE roles are Senior/Principal or defense-cleared. Matches prior finding that entry SWE roles need US citizenship/clearance.",
-  "confidence": "high"
+  "evidence": "Workday API (142 postings): Software Engineer I and Research SWE I postings live (Cedar Rapids, Cambridge). Posting text: 'U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance'; Secret clearance. No deadline stated (endDate None).",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

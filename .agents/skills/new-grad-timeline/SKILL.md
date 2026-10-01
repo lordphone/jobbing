@@ -2,7 +2,7 @@
 name: new-grad-timeline
 description: >-
   Researches one company's 2027 new-grad software / backend / full-stack / ML / AI engineer
-  hiring in the US: is the role open now, when it opened, when it opened last cycle, and
+  hiring in the US (plus Toronto and Vancouver): is the role open now, when it opened, when it opened last cycle, and
   whether it needs citizenship / green card / clearance or won't sponsor. Finds the posting on
   the company's own job board and records where the job list lives. Use for any company in
   timeline/COMPANY_LIST.md, when refreshing timeline/status.csv, or when he asks "is X hiring
@@ -36,7 +36,7 @@ Files:
 - **Role:** software, SDE, backend, full-stack, front-end, platform, ML, AI or forward-deployed engineer. Also named programs whose track is software engineering (e.g. Technology Development Program, Engineering Analyst, AMTS, "Software Engineer I", "Associate Software Engineer").
 - **Years of experience don't disqualify an entry-level role.** A "1+", "2+" or "3+ years" ask on an entry-level posting is usually not enforced, and he applies with a master's. Judge the level by the title and posting (entry-level, I, Associate, Junior), not the years line.
 - **Not counted:** internships, co-ops, and senior / staff / lead or other clearly non-entry-level roles. Also returning-intern-only roles, and hardware / electrical / firmware / test / sales-engineer roles.
-- **Location:** the US, including US-remote.
+- **Location:** anywhere in the US, including US-remote, plus Toronto and Vancouver (Canada). Research every company regardless of city; his preferred areas (`scripts/areas.json`) only decide what `SUMMARY.md` lists first.
 - **This cycle** means he can apply to it now as a 2027 grad. Clues: "2027" in the title, a graduation window that includes 2027 (e.g. "Graduating Dec 2026 – Aug 2027"), a 2027 start date, or a first-published date on or after 2026-07-01. These are clues, not requirements: a live posting open to recent or upcoming grads with no class year (evergreen or rolling, like Epic or Infosys) counts too, whenever it was first published.
   - "2026" in the title, or a grad window ending in 2026, means a **last-cycle leftover**. Record it, but not as open.
 - **Excluded:** requires US citizenship, a green card / permanent residency, a security clearance, or "U.S. person" / ITAR eligibility. Mark it `excluded`. This applies to most defense, space and national-lab roles.
@@ -62,19 +62,22 @@ Files:
    - Custom sites: Amazon (`amazon:`), Google (careers.google.com), Apple (jobs.apple.com), Microsoft (apply.careers.microsoft.com), Meta (metacareers.com), Netflix (explore.jobs.netflix.net) and Tesla. Use the browser pane; it renders JavaScript and got through sites that blocked plain requests (Citadel, Tesla).
    - Subsidiaries often post under the parent. MuleSoft and Slack post under Salesforce, Juniper under HPE (`wd:hpe/wd5/Jobsathpe`), Hulu under Disney (`wd:disney/wd5/disneycareer`), Splunk under Cisco, W&B under CoreWeave, and Electrify America under Volkswagen Group. Check the parent before concluding "no program".
    - Only use web search if none of that works: `"<company>" new grad software engineer 2027`, `"<company>" university graduate software engineer`, `site:<careers-domain> graduate`.
-3. **Read the posting.** Run `python3 scripts/jobs.py detail <url>`. It prints the dates plus every citizenship, clearance, sponsorship, graduation-window and years-of-experience line. For sites without an API, open the posting in the browser pane.
+3. **Read the posting.** Run `python3 scripts/jobs.py detail <url>`. It prints the dates, every location the job board lists (`locations:`), location sentences from the text (`@`), plus every citizenship, clearance, sponsorship, graduation-window and years-of-experience line. For sites without an API, open the posting in the browser pane.
+   - **Location: list every real place.** Write each city with its state or country, separated by `; `, e.g. `San Francisco, CA; Seattle, WA; Remote (US)`. Never write `+2`, `6 Locations`, `multiple` or `3 US locations`; board listings cut these short, so take them from `detail` or the posting page. If the text names cities the API doesn't ("San Francisco or Seattle"), include them. Only if the posting itself names no city, write what it says and add `(no city listed)`, e.g. `United States (no city listed)`.
    - **Live means** the posting page shows an Apply button, not "no longer accepting" or a redirect to search. Tracker "active" flags go stale (L3Harris was filled while trackers showed it open).
-   - **Closed means** `history` shows a this-cycle posting but it's missing from the live board or `detail` can't find it. This caught AutoZone, Marriott, Domino's, Hulu, Redfin and H-E-B, whose 2027 postings opened in Jul–Aug and have since closed.
+   - **Closed means** a this-cycle posting existed (from `history` or the previous file) and you opened its posting page and saw it gone: "job not found", "no longer accepting applications", a redirect to search, or no Apply button. This caught AutoZone, Marriott, Domino's, Hulu, Redfin and H-E-B, whose 2027 postings opened in Jul–Aug and have since closed.
+   - **A failed lookup is not closed.** `detail` saying `LOOKUP FAILED` (network error, timeout, rate limit, blocked) tells you nothing; retry, then open the page. `NOT ON THE BOARD` means the board answered without it; it may be unlisted (Commure's live new-grad posting was missing from its Ashby list), so open the page before calling it closed. If you can't open the page either, the status is `unknown`, not `closed`.
    - **Excluded needs a quote.** Quote the eligibility sentence from a posting, or from the company's official careers or eligibility page (e.g. "requires DOE Q clearance", "U.S. Person per ITAR"). A company looking like a defense firm isn't evidence. If you can't quote it, use the status you actually found and write the suspicion in `evidence`.
 4. **Date it.**
    - Greenhouse: use `first_published`, not `updated_at`.
    - Workday: `postedOn` is the latest *repost*. "Posted 30+ Days Ago" is only a bound, so write "on or before YYYY-MM-DD".
    - If the tracker history has an earlier first-seen date for the same posting, use that.
+   - **Deadline.** Record it only if the posting or the company's careers page states one ("apply by", "applications close", "deadline"), or the API gives an end date (Oracle `ends=`, Workday `endDate=`; `jobs.py detail` prints both plus any deadline sentence). "Open until at least Sept 30" is a lower bound, so write "at least YYYY-MM-DD". No stated deadline → `null`. Never guess one from past cycles.
 5. **Last cycle.** Run `python3 scripts/jobs.py history '<regex for company name>'`. It gives tracker first-seen dates across past cycles. Last cycle's opening is the first new-grad SWE posting between 2025-07 and 2026-01. If that's empty, use the company's university-recruiting page ("applications open in August") or a dated Reddit / Blind / LinkedIn post.
    - Some companies post in spring (Airbnb and Airtable post Feb–Apr). Record that.
    - If you find nothing, say unknown. Don't guess.
 6. **Decide status.**
-   - `open`: a live, this-cycle, US, qualifying posting that you opened yourself in this run. If you couldn't read the posting or the board, the status is `unknown`, not `open`.
+   - `open`: a live, this-cycle, US / Toronto / Vancouver, qualifying posting that you opened yourself in this run. If you couldn't read the posting or the board, the status is `unknown`, not `open`.
    - `not_yet`: has a new-grad track, nothing live yet.
    - `closed`: a this-cycle posting existed and is gone.
    - `leftover_2026`: only last-cycle postings are live.
@@ -84,8 +87,8 @@ Files:
 7. **Compare with the previous file. Do this only after steps 1–6.** Research fresh first, without reading the old `timeline/research/<slug>.json`. Then read it, if it exists, and compare:
    - **Old posting missing from your findings:** check its URL with `jobs.py detail <url>`, or in the browser pane if there's no API.
      - Still live and it qualifies → add it back.
-     - Gone, and it was a this-cycle posting → that's `closed` (unless another posting is open).
-   - **Same posting found both times:** keep the earlier `opened` date.
+     - Gone (seen on the posting page, per **Closed means** above), and it was a this-cycle posting → that's `closed` (unless another posting is open). A failed lookup alone is not gone.
+   - **Same posting found both times:** keep the earlier `opened` date, and keep the old `deadline` if you didn't find one.
    - **Old `last_cycle_opened` or `excluded_reason` you didn't find this time:** keep it, unless your research contradicts it.
    - **The comparison raises a question:** keep investigating (open more pages, fetch more) until you can reach a real conclusion.
    - **Then rewrite the file** with your final result: everything from the old file that is still true, plus what you found. If the status differs from the old file, say why in `evidence`.
@@ -101,8 +104,9 @@ Write `timeline/research/<company-slug>.json`. Use lowercase with hyphens for th
   "checked": "YYYY-MM-DD",
   "status": "open | not_yet | closed | leftover_2026 | no_program_found | excluded | unknown",
   "postings": [
-    {"title": "...", "url": "first-party posting URL", "location": "...",
+    {"title": "...", "url": "first-party posting URL", "location": "every city with state/country, '; '-separated",
      "opened": "YYYY-MM-DD or 'on or before YYYY-MM-DD'", "date_source": "greenhouse first_published | workday postedOn | tracker first seen | page text",
+     "deadline": "YYYY-MM-DD, 'at least YYYY-MM-DD', or null if none is stated",
      "grad_window": "e.g. Dec 2026 – Aug 2027, or null", "live_verified": "api | browser | no"}
   ],
   "last_cycle_opened": "YYYY-MM-DD, YYYY-MM or null",

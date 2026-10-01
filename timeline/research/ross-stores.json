@@ -1,15 +1,15 @@
 {
   "company": "Ross Stores",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-07-20",
-  "last_cycle_basis": "tracker_last_cycle (from worklist entry)",
+  "last_cycle_basis": "tracker_last_cycle 2026-07-20 (Engineer 1, Dublin CA); Engineer II/III also exist",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.rossstores.com/",
   "jobs_spec": null,
-  "evidence": "rossstores.taleo.net (old jobs_page) still shows 'Career Section Unavailable'. Found the real working board at jobs.rossstores.com. The Dublin CA 'Engineer I' posting (requisition 26006490, posted ~Jul 2026) now shows 'Job No Longer Available'. Tried filtering the live board to Career Area = Information Technology; the Career Area select and keyword param do not filter (same 7124-total unfiltered result every time), so could not confirm whether a replacement posting is live. Treating as closed since the only known this-cycle posting is confirmed gone.",
-  "confidence": "medium"
+  "evidence": "Dublin CA 'Engineer 1' (tracker first seen 2026-07-20) requisition is 404 on jobs.rossstores.com; search shows only Engineer II/III. Board is JS-rendered and keyword filters do not apply, so a replacement posting cannot be fully ruled out.",
+  "confidence": "low"
 }

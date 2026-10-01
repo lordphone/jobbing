@@ -1,15 +1,15 @@
 {
   "company": "LTIMindtree",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
+  "last_cycle_basis": "unknown; campus hiring (Graduate Engineer Trainee) is India-based; a US intern program (DTAPi) exists but is an internship",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.ltm.com/careers",
+  "jobs_page": "https://ltimindtree.ripplehire.com/candidate/?token=nP1GISU2A024qt3otg3V&lang=en&source=CAREERSITE#list/geo=Canada%2CUnited%20States",
   "jobs_spec": null,
-  "evidence": "Company rebranded careers site to ltm.com/careers; lists US, Canada, Europe, India regions but the US careers link routes to an internal RippleHire SSO login (no public listing reachable). No separate new-grad/campus SWE program found; IT-services consulting model matches prior finding of India-centric entry hiring.",
-  "confidence": "low"
+  "evidence": "ltm.com/careers US link goes to RippleHire; loaded all 536 US+Canada listings in browser. Nearly all need 5+ years. Only entry-range item is Engineer - Cloud & Infra Management (0-2 yrs, Frisco TX), infrastructure not SWE. No new-grad SWE.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

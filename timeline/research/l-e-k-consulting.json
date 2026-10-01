@@ -1,7 +1,6 @@
 {
   "company": "L.E.K. Consulting",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.lek.com/careers",
   "jobs_spec": null,
-  "evidence": "lek.com/careers describes new-grad hiring for strategy consulting (Business Analyst) roles only, in the Americas (Brazil and US); no software engineering track exists.",
-  "confidence": "high"
+  "evidence": "lek.com/careers 'Roles at L.E.K.' page lists only consulting tracks (Summer Associate, Associate, Senior Associate, Associate Consultant, PhD Analyst). Vacancy board lek.tal.net sits behind a human-verification check, not bypassed, so listings unread. No SWE track.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

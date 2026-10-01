@@ -1,15 +1,26 @@
 {
   "company": "SAIC (Science Applications International Corp.)",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer Associate",
+      "url": "https://jobs.saic.com/jobs/18250451-software-engineer-associate",
+      "location": "Pensacola, FL",
+      "opened": "2026-09-16",
+      "date_source": "page text (Date Posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.saic.com/search/jobs",
   "jobs_spec": null,
-  "evidence": "SAIC's own board (jobs.saic.com) lists a 'CLEARANCE REQUIRED' filter facet and its listings are dominated by cleared defense/intel roles (Systems Engineer at Scott AFB, Mission Engineer at Chantilly, SailPoint Engineer for DC). Only entry-adjacent role seen was 'Data Scientist Intern'. SAIC is a defense/government IT contractor; per company site, nearly all SWE roles require an active clearance.",
-  "confidence": "medium"
+  "evidence": "Browser search: 21 'software engineer associate' results. Posting 18250451 (Sep 16, 2026): 'Must have a Secret security clearance'; page says 'accepts applications on an ongoing basis and there is no deadline'. Earlier check: Junior Modeling Sim SWE 'Top Secret', Cyber Engineer Associate TS/SCI.",
+  "confidence": "high"
 }

@@ -1,15 +1,26 @@
 {
   "company": "Siemens",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "unknown",
-  "postings": [],
-  "last_cycle_opened": "2024-10-28",
-  "last_cycle_basis": "tracker first-seen date (jobs.py history) for 'New Grad 2025: Software Engineer', Wilsonville OR",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Mobility Development Program- Mobility",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519744",
+      "location": "Homestead, PA (rotations Pittsburgh PA, Lexington NC, New York NY)",
+      "opened": "2026-08-25",
+      "date_source": "page text (Posted since)",
+      "grad_window": "bachelor's graduating May 2026 - May 2027; starts June/July 2027",
+      "live_verified": "api",
+      "deadline": null
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker first seen 2024-10-28 New Grad 2025: Software Engineer, Wilsonville OR (two cycles ago); no Jul 2025-Jan 2026 record",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.siemens.com",
+  "no_sponsorship": true,
+  "jobs_page": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "jobs.siemens.com's entire externaljobs section (including JobDetail permalinks that WebSearch still indexes, e.g. /JobDetail/507682 and /JobDetail/512944) now serves a Careers-Marketplace 'no longer active, migrated' page or an Error page for every URL tried. Could not find the successor portal's own search-capable URL (siemens.com/en-us/company/jobs/early-career-programs/ links to program pages that are JS-driven with no working deep link found this session). Siemens Digital Industries Software (jobs.sw.siemens.com) and Siemens Energy (jobs.siemens-energy.com) are separate boards, not checked this run.",
-  "confidence": "low"
+  "evidence": "Fetched MDP 519744 page 2026-09-30 (still listed, posted since 25-Aug-2026; no end date, only 'minimum of five days'); 2-yr rail engineering rotation open to CS/SWE majors, borderline SWE. 'without need for current or future employer-sponsored work authorization'. Other US SWE reqs are mid-level or 3+ yrs.",
+  "confidence": "medium"
 }

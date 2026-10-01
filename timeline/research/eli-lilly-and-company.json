@@ -1,15 +1,15 @@
 {
   "company": "Eli Lilly and Company",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-01-19",
-  "last_cycle_basis": "tracker first-seen date (jobs.py history) for 'Engineer - MES System', Indianapolis IN (nearest SWE-adjacent tracker hit; not confirmed as the new-grad SWE track)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker: Engineer - MES System 2026-01-19 (not SWE); Lilly ELITE+ technology intern-to-full-time program exists (per web search), no dated last-cycle opening",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://lilly.wd5.myworkdayjobs.com/LLY",
-  "jobs_spec": "wd:lilly/wd5/LLY",
-  "evidence": "Workday itself is down site-wide: both jobs.py board and the live board redirect to community.workday.com/maintenance-page ('Workday is currently unavailable... service interruption'). Confirmed this is a broad Workday outage, not Lilly-specific, by checking another wd tenant (Takeda) which shows the identical maintenance page. Could not verify live board this run.",
+  "jobs_page": "https://careers.lilly.com/us/en/search-results",
+  "jobs_spec": "wd:lilly/wd115/LLY",
+  "evidence": "Workday LLY works on wd115 (wd5 gave 422). Keyword searches: only MES/facilities/systems engineers and senior AI/software roles, no entry SWE. ELITE+ intern-to-FT program not listed yet (intern-type, not counted). Jobs page search is JS-driven.",
   "confidence": "low"
 }

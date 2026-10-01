@@ -1,15 +1,15 @@
 {
   "company": "Avnet",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows only a 'Software Developer' req (Tempe/Phoenix, AZ), first seen 2026-06-01 and now closed; not labeled as a new-grad/entry program.",
+  "last_cycle_basis": "jobs.py history: only Software Developer Tempe 2026-06-01 (closed), not entry-labeled; nothing in 2025-07..2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://avnet.wd1.myworkdayjobs.com/en-US/External",
   "jobs_spec": "wd:avnet/wd1/External",
-  "evidence": "The Workday board loads and shows 'Search for Jobs' with the right tenant, but its jobs API (wday/cxs/avnet/External/jobs) returned HTTP 502 on every attempt (direct fetch in the browser pane, 3 retries with 1s gaps, both with and without a search term), so the page falls back to a false '0 JOBS FOUND'. Could not verify current openings; the board itself is down.",
-  "confidence": "low"
+  "evidence": "Workday API re-read 2026-09-30 (47 postings, --all): only US software role is AI Software Engineer (Tempe), not entry-level (prior check: asks ~8+ years). No new-grad SWE track.",
+  "confidence": "medium"
 }

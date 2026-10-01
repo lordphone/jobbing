@@ -1,15 +1,15 @@
 {
   "company": "Whirlpool Corporation",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history for Whirlpool.",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.whirlpool.com/careers",
-  "jobs_spec": null,
-  "evidence": "Checked live board (Phenom platform) with 'software engineer' keyword: 42 results, all Senior/Lead/Manager level (Pune, Benton Harbor MI, Brazil). No entry-level or new-grad SWE track found.",
-  "confidence": "medium"
+  "jobs_spec": "eightfold:jobs.whirlpool.com/whirlpool.com",
+  "evidence": "Eightfold API (44 postings) read. Early-career tracks: Manufacturing Controls LDP, supply chain LDP, sales development, intern programs; 'Associate, Engineering' is mechanical. Only SWE is Senior Embedded Software Engineer. No entry-level SWE.",
+  "confidence": "high"
 }

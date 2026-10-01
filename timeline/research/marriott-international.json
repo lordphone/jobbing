@@ -1,25 +1,15 @@
 {
   "company": "Marriott International",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "open",
-  "postings": [
-    {
-      "title": "FLEX Associate Software Engineer - CDP",
-      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
-      "location": "Bethesda, MD",
-      "opened": "on or before 2026-07-10",
-      "date_source": "tracker first seen",
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-11-05",
-  "last_cycle_basis": "tracker first-seen date for 'Associate Software Engineer - Platform Engineering', Bethesda MD (closed): https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
+  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer - Platform Engineering', Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Rechecked all 3 postings from prior file: 'FLEX Associate Software Engineer - CDP' (26085377) is still live in browser (Apply Now button, requires '0-3 years of relevant experience... including internships or academic projects'); the other two Associate SWE Android/iOS postings (26099780, 26099783) now return 'not found' via API (closed). Prior file's 'closed' status is corrected to 'open' since the CDP posting was missed.",
-  "confidence": "high"
+  "evidence": "Oracle board (--all): none of the Jul-Aug 2026 Associate SWE postings (26085377, 26099780, 26099783) remain. Only live US SWE are FLEX temp roles (Full Stack 6+ yrs, SDET 2+ yrs) and senior titles; not entry-level. Closed.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Kroger",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; jobs.py history found no matching postings for 'Kroger'",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.krogerfamilycareers.com/en/sites/CX_2001",
-  "jobs_spec": "oracle:www.krogerfamilycareers.com/CX_2001",
-  "evidence": "Found the real first-party board (Kroger Family Careers, Oracle Cloud, site CX_2001; jobs.py's oracle spec against this host returned no response, so used the browser). Searched keyword 'Engineer' filtered to Technology & Digital (4 results) and 'software engineer' (65 results): all senior/architect/manufacturing-maintenance roles, no entry-level SWE or new-grad program. 84.51 (Kroger's data-science subsidiary) is separate and not checked here.",
+  "jobs_spec": "oracle:eluq.fa.us2.oraclecloud.com/CX_2001",
+  "evidence": "Oracle board eluq.fa.us2.oraclecloud.com/CX_2001 (202 postings, --all): stores, logistics, maintenance, supply-chain interns; no SWE or new-grad tech role. Kroger's Software Engineer Development Program (2026 cohort) sits on 84.51's Greenhouse, separate; no 2027 cohort found.",
   "confidence": "medium"
 }

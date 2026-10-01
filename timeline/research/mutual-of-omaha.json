@@ -1,15 +1,26 @@
 {
   "company": "Mutual of Omaha",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Full Stack Engineer I/II (Java, APIs, AWS)",
+      "url": "https://www.mutualofomaha.com/careers/jobs/detail/505205",
+      "location": "Remote (US / Puerto Rico)",
+      "opened": "2026-09-09",
+      "date_source": "page text (date beside close date)",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker record; not found",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://www.mutualofomaha.com/careers/jobs/search",
   "jobs_spec": null,
-  "evidence": "Found first-party job board (PageUp) and an Information Technology early-career/internship track (app development, data security, business analysis), but 'software engineer' search shows only one Senior Software Engineer posting. No open entry-level/new-grad SWE role.",
-  "confidence": "medium"
+  "evidence": "Read all 7 pages (91 jobs) 2026-09-30. Only entry-titled SWE: Full Stack Engineer I/II (also 505210), closes Oct 9, but asks 3+ yrs and says no sponsorship ever; no grad program (IT intern only). Borderline level, so low confidence.",
+  "confidence": "low",
+  "checked": "2026-09-30"
 }

@@ -1,15 +1,26 @@
 {
   "company": "Wells Fargo",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2025-10-29",
-  "last_cycle_basis": "tracker history: 'Technology Analyst Development Program - Software Engineer' (London) first seen 2025-10-29",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineering Associate \u2013 CIB Operations Technology (CODE Program)",
+      "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941",
+      "location": "Charlotte, NC; Iselin, NJ",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-03",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2026-01-14",
+  "last_cycle_basis": "tracker history: Engineering Associate (CODE-style) postings first seen 2026-01-14 (Chandler/Irving); Technology Analyst Development Program (London only) 2025-10-29",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs",
   "jobs_spec": "wd:wf/wd1/WellsFargoJobs",
-  "evidence": "Checked Workday board (--all): 2027 Technology Summer Internship (Software Engineering) is live, but no full-time Technology Analyst Development Program SWE posting yet; only Senior/Lead (experienced) Software Engineer roles otherwise.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-09-30: Engineering Associate \u2013 CIB Operations Technology, early-career CODE program, Java, canApply true, posted 9/30, endDate 2026-10-03, not eligible for visa sponsorship. 2027 Tech internship also live; TADP full-time not seen.",
+  "confidence": "medium"
 }

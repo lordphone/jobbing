@@ -1,0 +1,60 @@
+% Jacobs — Forward Deployed Engineer (Palantir Foundry & Custom Development) (#45696)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Large Language Model Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Large Language Models in Practice, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Primary engineer on a small team's app: sole SwiftUI engineer on \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and author of 83\% of backend commits; authored 344 pull requests across five repositories (340 merged).
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints on AWS EKS (Docker, Helm, Jenkins), with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest CI gate.
+  \item Migrated nine third-party integrations (sports data, YouTube, SerpApi, LLM and embedding APIs, push) server-side so the iOS binary ships zero third-party API credentials.
+  \item Shipped LLM features end to end: agentic search with hybrid retrieval and server-resolved citations, and a news-alert pipeline (embed $\to$ LLM-score $\to$ LLM dedupe $\to$ push) that cut filler 34\% $\to$ 4\%.
+  \item Supported live systems: diagnosed a 5-day silent CronJob outage and fixed it with paired job and scheduler deadlines; traced a 65\% failure rate in another team's LLM pipeline to an unbounded reasoning loop.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; designed database schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Managed project execution by breaking down user stories, leading PR reviews, and mentoring interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer (React, Next.js, Supabase, PostgreSQL); owned authentication, session state, and database interactions.
+  \item Worked closely with recruiters and clients: matched AI scoring categories to real hiring, iterated scoring and UI from user-testing sessions, demoed the product, and obtained contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs; built an adaptive probabilistic safety certificate with PhD researchers that outperformed Adaptive MPC in simulation.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, JavaScript, TypeScript, SQL, Java, Go, Swift, HTML, CSS \\[1pt]
+  \textbf{Web \& APIs} & React, Next.js, FastAPI, REST APIs, Pydantic, Express, Tailwind CSS, Supabase, Firebase \\[1pt]
+  \textbf{Data \& AI} & PostgreSQL, MongoDB, MySQL, LangChain, RAG, hybrid retrieval, Langfuse, PyTorch \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD, Linux \\[1pt]
+  \textbf{Practices} & Git, Agile/Scrum, Jira, pytest, Unit Testing, TDD \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 20-frame (1s) video; built a data pipeline over 33 hours of Comma2k19 and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

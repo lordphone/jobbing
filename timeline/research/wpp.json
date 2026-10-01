@@ -1,15 +1,15 @@
 {
   "company": "WPP",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found.",
+  "last_cycle_basis": "No US new-grad SWE record found; tracker rows are UK entry-level data roles.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/wpp",
   "jobs_spec": "gh:wpp",
-  "evidence": "Checked full Greenhouse board. All software/engineer/developer postings are in India, UK, Poland, Denmark, Mexico, or Japan; none in the US. No US SWE roles, entry-level or otherwise.",
+  "evidence": "Greenhouse API (212 postings, --all): all software/data engineer roles, incl. Junior Data Engineer (Copenhagen) and Junior FDE (London), are in UK, Denmark, Poland, India or Mexico. None in the US.",
   "confidence": "high"
 }

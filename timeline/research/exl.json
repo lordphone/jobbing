@@ -1,19 +1,36 @@
 {
   "company": "EXL",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Junior Developer", "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785", "location": "United States (city unspecified)",
-     "opened": "2026-06-16", "date_source": "page text",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Junior Developer",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+      "location": "United States (remote)",
+      "opened": "2026-06-16",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Data Engineer",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370",
+      "location": "Jersey City, NJ",
+      "opened": "2026-09-18",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history for 'EXL' shows US analyst/data-science postings opening throughout 2025-11 to 2026-06, but no prior-cycle 'Junior Developer'/SWE-specific posting found.",
+  "last_cycle_basis": "Tracker history for EXL shows US analyst/data-science postings 2025-11 to 2026-06; no prior-cycle Junior Developer/SWE posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
   "jobs_spec": "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/CX_2",
-  "evidence": "Oracle Cloud board (210 postings, mostly India) has a live 'Junior Developer' US req, page text: \"This is an entry-level role ideal for recent college graduates who are eager to build a career in application development and production support.\" No 2027-specific grad window stated. Also has 'Data Engineer' (Jersey City) but that is not entry-level.",
+  "evidence": "Oracle board (208): Junior Developer, remote US, $45-55k: \"entry-level role ideal for recent college graduates\"; Data Engineer (Jersey City): \"0–2 years of experience or recent graduate\". Both in API, no class year, deadline, citizenship text.",
   "confidence": "medium"
 }

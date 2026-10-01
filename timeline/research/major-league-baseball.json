@@ -1,15 +1,15 @@
 {
   "company": "Major League Baseball (MLB)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-11-18",
-  "last_cycle_basis": "tracker_last_cycle from worklist (not independently re-confirmed this run)",
+  "last_cycle_opened": "2025-12-18",
+  "last_cycle_basis": "Tracker: Associate Software Engineer - Baseball Enterprise (Boulder) 2025-12-18, https://www.mlb.com/careers/opportunities?gh_jid=7476593; earlier 2024-09-11 New Grad Associate SWE (NYC).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.mlb.com/careers/opportunities",
   "jobs_spec": "gh:majorleaguebaseball",
-  "evidence": "Corrected jobs_spec: the league office's actual Greenhouse board is gh:majorleaguebaseball (gh:philliesbaseballoperations in worklist is the Phillies club board, a different entity). Checked full board (31 postings, --all); both 'Software Engineer' postings (NY and Boulder) require '3+ years of professional software engineering experience'. No entry-level SWE track live now.",
-  "confidence": "medium"
+  "evidence": "Greenhouse --all (30 postings) 2026-09-30: both Software Engineer postings (NY 2026-08-13, Boulder 2026-07-20) are iOS and require 3+ years; Senior Android roles. No entry-level SWE live; last cycle's Associate SWE opened December.",
+  "confidence": "high"
 }

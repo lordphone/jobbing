@@ -1,15 +1,15 @@
 {
   "company": "Baseten",
   "tier": 2,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only 'Other'-category (not new-grad) SWE listings, e.g. 'Software Engineer - Core Product' first seen 2025-10-30 and 'Software Engineer - Model Performance Tooling' first seen 2026-01-06; neither is labeled new grad.",
+  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/baseten",
   "jobs_spec": "ashby:baseten",
-  "evidence": "Re-checked 2026-09-27: Ashby board re-filtered for new-grad/university/entry/early-career keywords, zero matches. 'Software Engineer'/'AI Engineer' titles still 4-5+ years experience roles; no new-grad SWE track.",
+  "evidence": "Ashby API (~102 postings): SWE titles are unlabeled experienced roles; only Base Labs Fellowship (research fellowship for experienced engineers/PhDs), not a new-grad SWE role.",
   "confidence": "high"
 }

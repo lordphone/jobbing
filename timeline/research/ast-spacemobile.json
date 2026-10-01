@@ -1,15 +1,26 @@
 {
   "company": "AST SpaceMobile",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "excluded",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "ATE Associate Software Engineer",
+      "url": "https://ast-science.com/company/careers/?gh_jid=4708549005",
+      "location": "Midland, TX",
+      "opened": "2026-06-24",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
-  "excluded_reason": "citizenship / green card",
+  "last_cycle_basis": "unknown; no tracker history for AST SpaceMobile",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ast-science.com/company/careers/",
   "jobs_spec": "gh:astspacemobile",
-  "evidence": "Checked full live Greenhouse board (231 postings). Closest match, 'ATE Associate Software Engineer' (Midland, TX), requires 'U.S. Citizen, Permanent Resident (Green Card holder), or valid work authorization' and a minimum of 1 year experience (not new-grad); all other SWE roles are senior/mid-level or non-US.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (233 postings): ATE Associate SWE live; says 'Must be a U.S. Citizen, Permanent Resident (Green Card holder), or possess valid U.S. work authorization' (not exclusionary); bachelor's, min 1 yr exp, no class year (rolling). Junior Tulip Platform Engineer says 'Must be a U.S. Citizen or Permanent Resident' (excluded).",
+  "confidence": "medium"
 }

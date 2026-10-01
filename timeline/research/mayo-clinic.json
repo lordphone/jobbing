@@ -1,15 +1,26 @@
 {
   "company": "Mayo Clinic",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate AI/ML Engineer",
+      "url": "https://jobs.mayoclinic.org/job/rochester/associate-ai-ml-engineer/33647/100348969504",
+      "location": "Rochester, MN (on-site)",
+      "opened": "2026-09-08",
+      "date_source": "page text",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": "2026-10-08"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.mayoclinic.org/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "Checked own Phenom board (49 results for 'software engineer', Rochester MN HQ). Nearly all are Sr/Principal/Lead level. Only 'Associate AI/ML Engineer' looked entry-level, but could not open the posting to confirm a 2027 grad window or SWE (vs data science) classification; no explicit new-grad SWE program found.",
-  "confidence": "low"
+  "evidence": "Opened posting 2026-09-30 in browser: Associate AI/ML Engineer, Rochester MN, posted 2026-09-08, Job Expiration Date 2026-10-08, Apply Now shown, bachelor's required, no sponsorship text, no class year. Other Mayo SWE roles senior/lead.",
+  "confidence": "medium"
 }

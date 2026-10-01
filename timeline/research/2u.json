@@ -1,15 +1,15 @@
 {
   "company": "2U (edX)",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no first-party evidence of a new-grad SWE program.",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/2u",
   "jobs_spec": "gh:2u",
-  "evidence": "Greenhouse API: only 1 posting company-wide, not an entry-level SWE role. Consistent with prior note that the company restructured after bankruptcy with minimal hiring.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-09-30: 2 postings, no SWE roles. Company restructured after bankruptcy.",
+  "confidence": "high"
 }

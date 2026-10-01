@@ -1,19 +1,36 @@
 {
   "company": "Infleqtion",
   "tier": 7,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Quantum Software Engineer - Compiler & Control Systems", "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply", "location": "Chicago, IL",
-     "opened": "on or before 2026-08-24", "date_source": "tracker first seen 2026-08-24",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Quantum Software Engineer - Compiler & Control Systems",
+      "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/",
+      "location": "Chicago, IL",
+      "opened": "2026-08-24",
+      "date_source": "workable published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Quantum Software Engineer (Compiler)",
+      "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/",
+      "location": "Chicago, IL",
+      "opened": "2026-08-24",
+      "date_source": "workable published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-09",
-  "last_cycle_basis": "tracker history: 'Quantum Software Engineer' posting first seen 2025-12-09",
+  "last_cycle_basis": "tracker history: Quantum Software Engineer, Chicago, first seen 2025-12-09",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/coldquanta/",
   "jobs_spec": null,
-  "evidence": "Posting (open to entry-level) states: 'may require access to information protected under U.S. export control laws...any offer for employment may be conditioned on authorization to receive software or technology controlled under these U.S. export control laws and regulations without sponsorship for an export license.' Treated as ITAR/export-control eligibility requirement.",
+  "evidence": "Workable API (65 postings): Chicago Quantum Software Engineer postings (2026-08-24) are open to entry-level and senior, but say offer may be conditioned on export-control authorization 'without sponsorship for an export license'. Treated as US-person eligibility.",
   "confidence": "medium"
 }

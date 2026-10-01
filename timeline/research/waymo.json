@@ -1,12 +1,19 @@
 {
   "company": "Waymo",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "leftover_2026",
   "postings": [
-    {"title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)", "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508", "location": "Mountain View, CA; San Francisco, CA",
-     "opened": "2025-12-22", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "opened": "2025-12-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-12-22",
   "last_cycle_basis": "Greenhouse first_published date for the PhD New Grad MLE posting, still live",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/waymo",
   "jobs_spec": "gh:waymo",
-  "evidence": "Full 100+ posting board checked: all other current postings are 2027 Summer Intern (not full-time new grad) or Senior/Staff SWE roles. Only new-grad-labeled full-time role is last cycle's PhD MLE posting, no BS/MS SWE new-grad role for 2027.",
+  "evidence": "Greenhouse API (358 postings): only new-grad-labeled role is the Dec 2025 PhD MLE (page still shows Apply; body asks 5+ yrs ML, so not a true new-grad role). Other early roles are 2027 Summer Interns. No BS/MS SWE new grad live.",
   "confidence": "high"
 }

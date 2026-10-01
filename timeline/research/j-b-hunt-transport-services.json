@@ -1,15 +1,15 @@
 {
   "company": "J.B. Hunt Transport Services",
   "tier": 11,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://jbhunt.wd501.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:jbhunt/wd501/Careers",
-  "evidence": "Checked full Workday board: only 'Application Development Internship, Summer 2027' and 'Logistics Engineering Internship, Summer 2027' are live; no Engineering Development Program or full-time entry-level Software Engineer I posting found this cycle.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-09-30 (60 postings): only software role at entry level is 'Application Development Internship, Summer 2027'; rest are ops internships, Manager Trainee, senior/III engineers. No entry SWE yet.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

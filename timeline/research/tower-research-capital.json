@@ -1,15 +1,15 @@
 {
   "company": "Tower Research Capital",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-01-06",
-  "last_cycle_basis": "tracker_last_cycle from earlier research; US grad SWE postings came in January two cycles ago",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no US new-grad SWE posting Jul 2025–Jan 2026 in tracker history; earlier US SWE new-grad postings 2025-01-06 (Software Engineer I, Charleston) and 2025-06-11 (New York); Montreal new-grad 2025-05",
   "jobs_page": "https://job-boards.greenhouse.io/towerresearchcapital",
   "jobs_spec": "gh:towerresearchcapital",
-  "evidence": "gh:towerresearchcapital board --all (91 postings) has no US new-grad/entry-level SWE. Only new-grad SWE posting is Montreal (New Grad C++ Software Developer, gh_jid=8126667), not US.",
-  "confidence": "high"
+  "evidence": "gh:towerresearchcapital board --all (88): only new-grad SWE is Montreal (gh_jid=8126667, non-US). US 2027 roles are Quant Trader/Researcher and interns; US SWE new-grad postings came in Jan/Jun 2025. Matches prior file.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

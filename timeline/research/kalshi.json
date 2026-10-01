@@ -1,15 +1,15 @@
 {
   "company": "Kalshi",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker history shows no new-grad SWE posting for Kalshi; only a closed Surveillance Analyst role (2024-06-27)",
+  "last_cycle_basis": "no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/kalshi",
   "jobs_spec": "gh:kalshi",
-  "evidence": "Checked all 28 live postings on Greenhouse board, including all 5 'Software Engineer' titles. 'Software Engineer, Product' explicitly requires 'Bachelor's degree ... with 4+ years of hands-on software development'; others share the same senior-bar framing. No entry-level or new-grad SWE track found.",
-  "confidence": "high"
+  "evidence": "gh:kalshi --all (28): SWE roles unlabeled but require 3+, 4+ or 5+ yrs (Growth, Trading Platform, Frontend); Trading Systems Engineer not entry-level. No new-grad posting.",
+  "confidence": "medium"
 }

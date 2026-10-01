@@ -1,15 +1,26 @@
 {
   "company": "Spirit AeroSystems",
   "tier": 8,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": "2026-08-26",
-  "last_cycle_basis": "tracker first-seen; https://careers.spiritaero.com/jobs/17337?icims=1 (Software Engineer, Wichita KS, now closed)",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Entry-Level Software Engineer",
+      "url": "https://careers.spiritaero.com/jobs/17433",
+      "location": "Wichita, KS",
+      "opened": "on or before 2026-09-04",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker shows 'Software Engineer' Wichita first seen 2026-08-26 (this cycle, now closed); no earlier-cycle posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.spiritaero.com",
   "jobs_spec": null,
-  "evidence": "Opened tracker-lead posting 'Entry-Level Software Engineer' (Wichita, first seen 2026-09-04) in browser: requires 1+ yrs experience, disqualifying it despite the title. No citizenship/clearance language found in the posting text, unlike the prior ITAR assumption.",
+  "evidence": "Opened posting in browser pane 2026-09-30: live with Apply button, Entry-Level, Wichita KS, Bachelor ABET + 1+ yr software experience (not disqualifying), union position, no citizenship/ITAR/clearance text, no deadline or grad window. Unchanged from prior run.",
   "confidence": "medium"
 }

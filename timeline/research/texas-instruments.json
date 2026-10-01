@@ -1,15 +1,26 @@
 {
   "company": "Texas Instruments",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Career Accelerator Program - Data Engineer",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
+      "location": "Richardson, TX",
+      "opened": "2026-09-15",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": "new college graduates (12-month TMG Development program)",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history for 'texas instruments' has no new-grad SWE posting between 2025-07 and 2026-01; earliest entry is 2026-04-13",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history has no new-grad SWE posting between 2025-07 and 2026-01; earliest 2026-04-13",
   "jobs_page": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:edbz.fa.us2.oraclecloud.com/CX",
-  "evidence": "Tracker shows several 2027-cycle Career Accelerator/Software Engineer/SDE postings (Dallas, US) first seen Jun-Sep 2026, but jobs.py detail can't find them now (404, closed). Only remaining live posting is 'Career Accelerator Program - Data Engineer' (Richardson, TX), which is not a software-engineering title and requires ECL/GTC export-control clearance.",
-  "confidence": "medium"
+  "evidence": "Oracle board (--all) plus requisition API: only live US new-grad software-type role is Data Engineer CAP (builds data software; BS EE/CE, GPA 3.0), no sponsorship/citizenship text, no end date. Borderline title (data, not SWE). Earlier SWE/SDE CAP postings (Jun, Sep 2026) are gone.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,15 +1,15 @@
 {
   "company": "Varo Bank",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party record found.",
+  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.kula.ai/varo-money",
   "jobs_spec": null,
-  "evidence": "Company job board (kula.ai): board has shrunk to essentially 1-6 total openings; only listed opening is FP&A Analyst. No Technology/engineering roles, entry-level or otherwise, are currently posted.",
-  "confidence": "low"
+  "evidence": "Kula board API (read in browser pane) 2026-09-30 lists 6 postings: Lead PM Lending, SRE (Contractor), CISO, FP&A Analyst, Security Engineer, Head of Credit Strategy. No entry-level SWE.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Boomi",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for Boomi",
+  "last_cycle_basis": "No tracker history found for Boomi.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://boomi.com/company/careers",
-  "jobs_spec": null,
-  "evidence": "boomi.com/company/careers rendered its full board directly this run (no separate ATS needed): 27 open positions total, all shown on one page. Every single one is Sales, Sales Development, or Marketing -- zero Engineering/Development postings company-wide right now, so no new-grad SWE track exists to check.",
+  "jobs_spec": "gh:boomilp",
+  "evidence": "Greenhouse gh:boomilp (board embedded on boomi.com/company/careers), 27 postings all read 2026-09-30: all Sales / Pre-Sales Solutions Engineer / Account roles. Zero engineering or entry-level SWE postings.",
   "confidence": "high"
 }

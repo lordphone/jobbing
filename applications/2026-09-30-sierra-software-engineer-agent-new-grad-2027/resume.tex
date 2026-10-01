@@ -1,0 +1,60 @@
+% Sierra — Software Engineer, Agent (New Grad 2027)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Distributed Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Software Engineering, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped agentic LLM search: turn 1 is deterministic RAG over hybrid retrieval fused with RRF; follow-ups run a bounded tool-use agent ($\le$3 hops, 5 tools); server-resolved citations so the model cannot author a URL.
+  \item Built an eval harness on real logged queries: entity resolution took P@1 from 0\% to 100\% at 0.4\,ms after measurements ruled out embeddings; a manual grounding spot-check surfaced 23 answer problems.
+  \item Shipped a personalized LLM alert pipeline (embed $\to$ LLM-score $\to$ LLM same-story judge $\to$ push); hand-grading showed filler and real events both scored $\sim$90, so added a categorical gate; calibrated in production shadow on 4{,}100+ decisions and shipped live, cutting filler 34\% $\to$ 4\%.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline via Langfuse traces as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways); sized a token cap that cuts 0\% of successes.
+  \item Built the FastAPI / MongoDB backend from its first commit to 89 endpoints on AWS EKS with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest CI gate and 344 PRs (340 merged); sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs), whose LLM digest reached 5{,}026 users.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+  \item Led an 8-intern team to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git workflows and testing.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked with recruiters so AI scoring matched real hiring; demoed the product to clients, ran fast iterations on their feedback, and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{AI \& LLMs} & RAG, hybrid retrieval, LangChain, Langfuse, bge embeddings, DeepSeek / DeepInfra \\[1pt]
+  \textbf{Languages} & Python, TypeScript, Go, JavaScript, SQL, Swift, Java, C, HTML, CSS \\[1pt]
+  \textbf{Frameworks \& Data} & React, Next.js, FastAPI, Pydantic, PostgreSQL, MongoDB, Supabase, Firebase, SwiftUI \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Practices} & pytest, Unit Testing, REST APIs, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Rating LLM coding plans bought from Z.AI, MiniMax, and Kimi; tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

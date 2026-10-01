@@ -1,15 +1,36 @@
 {
   "company": "NTT DATA",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior Developer",
+      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
+      "location": "Arlington VA (remote)",
+      "opened": "2026-08-31",
+      "date_source": "page text (earlier req Aug 31; current req 388418 shows Sep 29 repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Junior Contact Center Developer",
+      "url": "https://careers-inc.nttdata.com/job/McKinney-Junior-Contact-Center-Developer-TX-75069/1427942900/",
+      "location": "McKinney, TX",
+      "opened": "2026-09-09",
+      "date_source": "page text Date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker first-seen: 'Digital Technology Engineer' and 'Digital Technology Senior Analyst - Pathways Campus Hires' (Charlotte, NC / Nashville, TN), reposted 2025-10-30 -- both titles now return zero results",
+  "last_cycle_basis": "tracker first seen: Digital Technology Engineer and Digital Technology Senior Analyst - Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "careers-inc.nttdata.com's keyword search works reliably. Exact-phrase searches for 'Digital Technology Engineer', 'Digital Technology Senior Analyst', and 'Pathways' return zero or unrelated results -- last cycle's Charlotte/Nashville campus-hire track is gone. The dedicated Recent-Graduate-and-Entry-Level-Jobs page lists only 1 US opening, a non-SWE 'Customer Service Associate' (Wichita, KS). NTT DATA's 'Campus to Career' program (Jan/June cohorts) exists but has no current open SWE requisition.",
+  "evidence": "Keyword sweeps of the NTT DATA US board; opened both Junior Developer pages (Apply now shown). Junior Developer asks 3 yrs Python and 'Ability to obtain/maintain a Public Trust Clearance' (not a citizenship quote). Junior Contact Center Developer no eligibility text. Charlotte campus track gone.",
   "confidence": "medium"
 }

@@ -1,15 +1,26 @@
 {
   "company": "First Citizens BancShares (Silicon Valley Bank, a division of First Citizens Bank)",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Data Engineer I - Data Platform",
+      "url": "https://external-firstcitizens.icims.com/jobs/34606/login",
+      "location": "Remote (hire in NC, AZ, FL, TX); Raleigh NC",
+      "opened": "2026-09-28",
+      "date_source": "jibe board API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found (jobs.py history returned 0 postings).",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.firstcitizens.com/early-careers",
+  "jobs_page": "https://jobs.firstcitizens.com/jobs",
   "jobs_spec": null,
-  "evidence": "iCIMS board, no API. Checked careers site and early-careers page: only Analyst/Associate Development Programs (commercial banking, credit risk, loan portfolio) including an 'SVB Associate Development Program', no software engineering track.",
+  "evidence": "Jibe API (jobs.firstcitizens.com board, 408 jobs): Data Engineer I - Data Platform (remote NC/AZ/FL/TX, posted 2026-09-28, Bachelor's + 1 yr, applyable) is live. Data-engineering, not strictly SWE; Software Engineer II needs 4 yrs. Early programs are banking; 2027 tech interns only.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Trexquant",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-09",
-  "last_cycle_basis": "tracker_last_cycle from worklist",
+  "last_cycle_basis": "tracker: Software Engineer - Early Career (Stamford) first seen 2025-09-09; https://apply.workable.com/trexquant/j/11DC4EA360/apply",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/trexquant/",
   "jobs_spec": null,
-  "evidence": "Prior 'Software Engineer - Early Career (USA)' listing (Stamford, CT) was removed Oct 2025 (last cycle). Workable board would not render current postings via WebFetch (JS/dynamic); search found no live 2027 SWE-Early-Career listing, only stale aggregator copies. Company has a QR Early Career track confirmed by an earlier pass.",
-  "confidence": "low"
+  "evidence": "Workable API (all postings) read: only US early-career role is Quantitative Researcher - Early Career (2026-07-13, not SWE). Software roles (Quant Dev, C++ Trading, Python Engineer 3+ yrs, DevOps 2+ yrs) are experienced. SWE Early Career not live yet.",
+  "confidence": "high"
 }

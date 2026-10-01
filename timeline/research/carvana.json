@@ -1,19 +1,26 @@
 {
   "company": "Carvana",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer", "url": "https://www.carvana.com/careers/apply?gh_jid=8120638", "location": "Carmel, IN",
-     "opened": "on or before 2026-08-10", "date_source": "greenhouse first_published",
-     "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8120638",
+      "location": "Carmel, IN",
+      "opened": "2026-08-10",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2026-01-09",
-  "last_cycle_basis": "tracker_last_cycle from prior run (Data Engineer - Production Analytics posting)",
+  "last_cycle_basis": "tracker first-seen: Data Engineer - Production Analytics, Tempe AZ (not clearly new grad), https://www.carvana.com/careers/apply?gh_jid=7507650",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/carvana",
   "jobs_spec": "gh:carvana",
-  "evidence": "Board (--all) has no title labeled 'new grad'/'entry level' for SWE, but 'Software Engineer' (Carmel, IN, first seen 2026-08-10, on-site) requires only a Bachelor's degree with no years-of-experience line - opened this cycle (after 2026-07-01) with no 2026 grad window, so it qualifies per the 'no explicit YOE ask' rule. Confirmed live in browser. Confidence is medium since it isn't explicitly labeled a new-grad role.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API (1815 jobs) lists live 'Software Engineer' (Carmel IN, first_published 2026-08-10, visa sponsorship eligible); needs CS bachelor's and 2+ yrs C#/.NET, no level or new-grad label, so level ambiguous. Associate ServiceNow Engineer (Tempe) is IT. Kept prior open.",
+  "confidence": "low"
 }

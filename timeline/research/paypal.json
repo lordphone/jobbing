@@ -1,15 +1,26 @@
 {
   "company": "PayPal",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer - Recent Graduate (Req R0137237)",
+      "url": "https://paypal.eightfold.ai/careers/job/274921995088",
+      "location": "San Jose CA; Austin TX; Chicago IL",
+      "opened": "2026-09-04",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-08-16",
   "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' first seen 2025-08-16 (San Jose/Chicago/Omaha/Scottsdale, via paypal.eightfold.ai)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://paypal.wd1.myworkdayjobs.com/jobs",
+  "jobs_page": "https://paypal.eightfold.ai/careers",
   "jobs_spec": "wd:paypal/wd1/jobs",
-  "evidence": "Tracker history shows 'Software Engineer New Grad' posting first seen 2026-09-04 (Austin/San Jose/Chicago) already closed. Current Workday board (--all, 46 postings) has no 'grad'/'recent' keyword match; only Sr Manager/experienced SWE roles.",
+  "evidence": "Browser pane 2026-09-30: the 2026-09-04 Software Engineer - Recent Graduate posting shows 'No longer accepting applications'. Workday search for new grad, 2027, university finds no US entry SWE; only Sr/Staff.",
   "confidence": "medium"
 }

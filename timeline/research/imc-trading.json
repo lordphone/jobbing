@@ -1,19 +1,26 @@
 {
   "company": "IMC Trading",
-  "tier": 4,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Graduate Software Engineer", "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101", "location": "Chicago, United States",
-     "opened": "2026-07-01", "date_source": "greenhouse first_published",
-     "grad_window": "graduating between September 2026 – July 2027", "live_verified": "api"}
+    {
+      "title": "Graduate Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
+      "opened": "2026-07-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "graduating between September 2026 – July 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker_last_cycle from earlier research",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history: Graduate Software Engineer (Chicago) first seen 2025-10-30",
   "jobs_page": "https://job-boards.greenhouse.io/imc",
   "jobs_spec": "gh:imc",
-  "evidence": "gh:imc board --all (175 postings) shows Graduate Software Engineer, Chicago, first_published 2026-07-01, grad window Sep 2026-Jul 2027, live via API.",
-  "confidence": "high"
+  "evidence": "gh:imc board --all: Graduate Software Engineer Chicago first_published 2026-07-01, updated 2026-09-30, live via API detail, grad window Sep 2026–Jul 2027. Amsterdam/Aarhus 2027 roles are non-US. No deadline.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-09-30",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

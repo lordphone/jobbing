@@ -1,15 +1,15 @@
 {
   "company": "project44",
   "tier": 3,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker evidence of a new-grad SWE track.",
+  "last_cycle_basis": "No tracker history of new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/project44",
   "jobs_spec": "gh:project44",
-  "evidence": "jobs.py board gh:project44 --all lists 32 postings; all US engineering roles are Senior/Staff (Chicago); other Software Engineer roles are entry-level but based in Bangalore/Krakow, not US. No US entry-level SWE.",
+  "evidence": "Greenhouse API (36 postings) rechecked. US engineering roles (Chicago) are Senior; entry-ish 'Software Engineer 2' and 'Software Engineer - Backend' are Bangalore only. No US new-grad track.",
   "confidence": "high"
 }

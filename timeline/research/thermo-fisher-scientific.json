@@ -1,15 +1,15 @@
 {
   "company": "Thermo Fisher Scientific",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no qualifying new-grad SWE posting found in tracker history 2025-07 to 2026-01; closest was Associate Application Administrator 1 (Middleton, WI, 2025-11-10), not a SWE title",
+  "last_cycle_basis": "no qualifying new-grad SWE posting in tracker history 2025-07 to 2026-01; closest was Associate Application Administrator 1 (Middleton, WI, 2025-11-10), not SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
   "jobs_spec": "wd:thermofisher/wd5/ThermoFisherCareers",
-  "evidence": "Checked full Workday board (--all). Only engineering roles in the US are field-service/QA/manufacturing (II/III levels) or engineering co-ops (internships, excluded). No US new-grad SWE posting found.",
-  "confidence": "high"
+  "evidence": "Workday keyword searches: US tech roles are Forward Deployed Engineer (Raleigh), Data Systems Engineer (3+ yrs), Engineer II/III validation; 2027 items are HR/general management programs and summer associates. No entry SWE. Kept not_yet.",
+  "confidence": "medium"
 }

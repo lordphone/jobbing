@@ -1,15 +1,15 @@
 {
   "company": "Docusign",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-22",
-  "last_cycle_basis": "tracker history: 'Software Engineer' Seattle, WA, first seen 2025-10-22 (icims.com/jobs/27628)",
+  "last_cycle_basis": "tracker first seen 'Software Engineer' Seattle (uscareers-docusign.icims.com)",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.docusign.com/students",
+  "no_sponsorship": true,
+  "jobs_page": "https://careers.docusign.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "University & New Grad page: full-time early-career roles post 'ongoing'. Careers job search (JS app, iCIMS-backed) does not accept URL search/team filters; unfiltered listing (261 results) shows no new-grad-labeled SWE posting on page 1.",
-  "confidence": "low"
+  "evidence": "Jibe JSON (careers.docusign.com/api/jobs, 263 jobs): all 11 US 'Software Engineer' postings (Seattle, SF) ask 3+ or 5+ years, most say no visa sponsorship; none early-career or new-grad. Students page says recent-grad roles post ongoing; none live.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

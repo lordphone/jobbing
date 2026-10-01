@@ -1,15 +1,15 @@
 {
   "company": "Prosper Marketplace",
   "tier": 5,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history returned 0 postings).",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/prosper",
   "jobs_spec": "lever:prosper",
-  "evidence": "Checked full Lever board (12 postings): only senior/manager/director roles, one 'Sr. Software Engineer'. No entry-level SWE or new-grad program.",
+  "evidence": "Lever board (14) checked with --all: one Sr. Software Engineer (SF), credit-risk analysts and data scientist. No entry-level SWE this cycle; no tracker history.",
   "confidence": "high"
 }

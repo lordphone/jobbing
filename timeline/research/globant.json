@@ -1,15 +1,15 @@
 {
   "company": "Globant",
   "tier": 10,
-  "checked": "2026-09-27",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "jobs.py history has zero Globant entries",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Not found in tracker history.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://career.globant.com/?country=US",
   "jobs_spec": null,
-  "evidence": "www.globant.com/careers is blank/empty in the browser pane, but the real board is career.globant.com (works fine). Filtered to United States: all 13 current US listings are senior/lead/VP/architect-level (API Integration Lead, GCP IAM Lead, VP of Technology, Enterprise/Solution Architect, Oracle Business Systems Analyst, etc.). No junior/entry-level/new-grad SWE title present.",
-  "confidence": "medium"
+  "evidence": "Opened career.globant.com filtered to US and expanded the full list (~15 roles): IT Project Manager, Solution/Enterprise Architect, Integration/IAM Leads, VPs, Business Systems Analysts, plus AI QA Engineer, C# Full Stack Developer and Machine Learning (AI/ML Engineer, prototyping LLMs; not labeled entry). No junior or new-grad SWE title.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

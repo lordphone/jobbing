@@ -1,7 +1,6 @@
 {
   "company": "Oracle",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-07",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:eeho.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Re-ran full board via API (183 postings, --all). No 'Undergrad'/'new grad'/2027-grad SWE titles live. Last cycle opened 2025-08-07 per tracker history.",
-  "confidence": "high"
+  "evidence": "Oracle HCM REST keyword search 'Undergrad' and 'New Grad' return 0 on CX_1; oracle: board (175, --all) has no entry-level US SWE titles. Tracker Aug-Sep 2026 'Software Engineer 1' Nashville postings are gone. Undergrad titles opened Aug 2025 last cycle.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

@@ -1,25 +1,86 @@
 {
   "company": "CoStar Group",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Homes.com - Associate Android Engineer", "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Irvine-US/Homescom---Associate-Android-Engineer_R39719", "location": "Irvine, CA",
-     "opened": "on or before 2026-09-10", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Matterport - Software Engineer I", "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503", "location": "Irvine, CA",
-     "opened": "on or before 2026-08-07", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"},
-    {"title": "Software Engineer I- CoStar Suite- Arlington, VA", "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484", "location": "Arlington, VA",
-     "opened": "on or before 2026-09-10", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Associate Software Engineer - Arlington, VA",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668",
+      "location": "Arlington, VA",
+      "opened": "on or before 2026-09-14",
+      "date_source": "workday postedOn/startDate",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Jun 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - Richmond, VA",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667",
+      "location": "Richmond, VA",
+      "opened": "on or before 2026-09-14",
+      "date_source": "workday postedOn/startDate",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Jun 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - Irvine, CA",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
+      "location": "Irvine, CA",
+      "opened": "on or before 2026-09-16",
+      "date_source": "workday postedOn/startDate",
+      "deadline": "2026-10-16",
+      "grad_window": "Dec 2026 - Jun 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - San Diego, CA",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674",
+      "location": "San Diego, CA",
+      "opened": "on or before 2026-09-16",
+      "date_source": "workday postedOn/startDate",
+      "deadline": "2026-10-16",
+      "grad_window": "Dec 2026 - Jun 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Homes.com - Associate Android Engineer",
+      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Irvine-US/Homescom---Associate-Android-Engineer_R39719",
+      "location": "Irvine, CA",
+      "opened": "on or before 2026-09-10",
+      "date_source": "workday postedOn/startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Matterport - Software Engineer I",
+      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503",
+      "location": "Irvine, CA",
+      "opened": "on or before 2026-08-07",
+      "date_source": "workday postedOn/startDate",
+      "deadline": "2026-12-31",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I- CoStar Suite- Arlington, VA",
+      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484",
+      "location": "Arlington, VA",
+      "opened": "on or before 2026-09-10",
+      "date_source": "workday postedOn/startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-10",
   "last_cycle_basis": "tracker first seen, Associate Software Engineer, Sunnyvale CA",
   "excluded_reason": null,
   "no_sponsorship": true,
-  "jobs_page": "https://costar.wd1.myworkdayjobs.com/CoStarCareers",
+  "jobs_page": "https://costar.wd1.myworkdayjobs.com/Costar_Campus",
   "jobs_spec": "wd:costar/wd1/CoStarCareers",
-  "evidence": "Workday API: 3 live entry-level SWE/Associate postings (Software Engineer I, Associate Android Engineer). Matterport and Arlington postings say CoStar won't sponsor visas.",
+  "evidence": "Workday campus board: 4 live Associate Software Engineer postings for Dec 2026-Jun 2027 grads; main board has SWE I and Associate Android. Irvine/San Diego endDate 2026-10-16. Postings say no visa sponsorship. All opened via API detail.",
   "confidence": "high"
 }

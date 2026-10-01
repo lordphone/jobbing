@@ -1,25 +1,46 @@
 {
   "company": "Veeva",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "open",
   "postings": [
-    {"title": "Associate Software Engineer - 2027 Start Dates", "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6", "location": "California - Pleasanton",
-     "opened": "2025-08-20", "date_source": "lever createdAt",
-     "grad_window": "2027 start", "live_verified": "api"},
-    {"title": "Associate Software Engineer - 2027 Start Dates", "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd", "location": "Massachusetts - Boston",
-     "opened": "2025-08-20", "date_source": "lever createdAt",
-     "grad_window": "2027 start", "live_verified": "api"},
-    {"title": "Associate Software Engineer - 2027 Start Dates", "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9", "location": "Ohio - Columbus",
-     "opened": "2025-08-20", "date_source": "lever createdAt",
-     "grad_window": "2027 start", "live_verified": "api"}
+    {
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
+      "location": "Pleasanton, CA",
+      "opened": "2025-08-20",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": "2027 start (recent university graduates, Engineering Development Program)",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "location": "Boston, MA",
+      "opened": "2025-08-20",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": "2027 start",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9",
+      "location": "Columbus, OH",
+      "opened": "2025-08-20",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": "2027 start",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-10-18",
-  "last_cycle_basis": "tracker_last_cycle field",
+  "last_cycle_basis": "tracker first seen (trackers.json)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.lever.co/veeva",
   "jobs_spec": "lever:veeva",
-  "evidence": "Confirmed live: 'hiring recent university graduates to grow the next generation of Software Engineers through our Engineering Development Program'; quote: 'Veeva does not provide sponsorship for employment visa status'.",
-  "confidence": "high"
+  "evidence": "Lever API: 3 live US 'Associate Software Engineer - 2027 Start Dates' postings (Engineering Development Program, recent grads). 'Veeva does not provide sponsorship for employment visa status'. Lever createdAt is 2025-08-20 (title says 2027). No deadline stated.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

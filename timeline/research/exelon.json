@@ -1,15 +1,15 @@
 {
   "company": "Exelon",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SimplifyJobs/vanshb03 trackers: 0 postings found for Exelon",
+  "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
   "jobs_spec": null,
-  "evidence": "Keyword search 'software engineer' on careers.exeloncorp.com (iCIMS) returned 16 results, all electrical/substation/distribution engineering, none software. Information Technology category has only 2 postings, both senior (Sr. Services Analyst, Principal Systems Engineer). Internship page only lists a general summer internship, no full-time new-grad SWE track.",
+  "evidence": "Exelon careers API (113 jobs): Data Engineer 1 (2026-09-28, BI/ETL, 2-4 yrs, expires 2026-10-04) judged not SWE; Associate Engineer - New Graduate is utility engineering; 2027 IT/CS internship only. No SWE new-grad.",
   "confidence": "medium"
 }

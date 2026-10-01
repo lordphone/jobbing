@@ -1,19 +1,56 @@
 {
   "company": "Boeing",
   "tier": 8,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "excluded",
   "postings": [
-    {"title": "Associate Software Engineer", "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1", "location": "Omaha, NE",
-     "opened": "on or before 2026-08-20", "date_source": "workday postedOn",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1",
+      "location": "Hazelwood, MO",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-31",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254-1",
+      "location": "Huntsville, AL",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer - Developers",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1",
+      "location": "Oklahoma City, OK",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-08",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
+      "location": "Omaha, NE",
+      "opened": "on or before 2026-08-31",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-07-02",
   "last_cycle_basis": "tracker first-seen date, kept from previous research file",
-  "excluded_reason": "us person / itar",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
   "jobs_spec": "wd:boeing/wd1/EXTERNAL_CAREERS",
-  "evidence": "Associate Software Engineer (Omaha) posting: 'Export Control Requirement ... a \"U.S. Person\" as defined by 22 CFR ... National, lawful permanent resident, refugee, or asylee' plus active Secret Clearance requirement. Matches prior finding.",
+  "evidence": "Workday API (148 postings): many US Associate SWE postings. Each opened requires clearance or U.S. Person: 'Secret Security Clearance (U.S. Citizenship Required)', 'a U.S. Person as defined by 22 CFR'; Hazelwood also 'will not sponsor'. Deadlines are Workday endDate values.",
   "confidence": "high"
 }

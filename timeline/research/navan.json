@@ -1,15 +1,15 @@
 {
   "company": "Navan",
-  "tier": 3,
-  "checked": "2026-09-27",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2026-04-03",
-  "last_cycle_basis": "Tracker history (gh:tripactions) shows 'New College Grad Software Engineer - Backend', Palo Alto, CA, first seen 2026-04-03 - https://navan.com/careers/openings?gh_jid=7777949. Irregular timing: prior cycles opened in July (2024), this one in April.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history (gh:tripactions): 'New College Grad Software Engineer - Backend' Palo Alto first seen 2026-04-03; July in 2024",
   "jobs_page": "https://job-boards.greenhouse.io/tripactions",
   "jobs_spec": "gh:tripactions",
-  "evidence": "Checked full gh:tripactions board (current listing) for new-grad/university/entry-level SWE titles: none live. All current Software Engineer postings are Senior, Staff, or Sr. level, none entry-level and none in the US at entry level. Has a new-grad track (per history) but nothing open this cycle yet.",
-  "confidence": "medium"
+  "evidence": "Full gh:tripactions board (213, --all) 2026-09-30: only Berlin/India SWE and US Sr. roles; no US entry-level. Has new-grad track with irregular timing; nothing live.",
+  "confidence": "high",
+  "tier": 3,
+  "checked": "2026-09-30",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

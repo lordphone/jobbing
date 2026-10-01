@@ -1,15 +1,36 @@
 {
   "company": "P&G",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
+      "location": "Cincinnati, OH",
+      "opened": "on or before 2026-08-24",
+      "date_source": "workday startDate (reposted 2026-09-30); earlier check",
+      "deadline": null,
+      "grad_window": "Spring or Summer 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Data & AI Engineering (2027 Grads)",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913",
+      "location": "Cincinnati, OH",
+      "opened": "2026-08-16",
+      "date_source": "tracker first seen 2026-08-16 (workday startDate now 2026-09-30)",
+      "deadline": null,
+      "grad_window": "Spring or Summer 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - not found in this run",
+  "last_cycle_basis": "not found; tracker has only UK/non-entry US postings",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://pg.wd5.myworkdayjobs.com/1000",
   "jobs_spec": "wd:pg/wd5/1000",
-  "evidence": "Checked Workday board (--all) for software engineer / developer / data scientist / data engineer / analyst titles. Found only R&D Engineer co-ops (excluded, internships), a 'Data Scientist (Entry-Level)' in Panama (not US), and Senior/Manager-level Data Engineer roles in the US. No US entry-level SWE or IT new-grad program found.",
-  "confidence": "medium"
+  "evidence": "Workday API: live 2027 Grads postings (IT Engineering Software/Platform/Network; Data & AI Engineering), canApply true, job segmentation Entry Level, graduating Spring/Summer 2027, 'Immigration Sponsorship is not available'. No deadline stated. Data Science (Master's) 2027 also live, not SWE.",
+  "confidence": "high"
 }

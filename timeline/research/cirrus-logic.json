@@ -1,15 +1,26 @@
 {
   "company": "Cirrus Logic",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Applications Engineer",
+      "url": "https://jobs.eu.lever.co/cirrus/39e72f1c-e12b-4395-8f42-7e23b4928e98",
+      "location": "Austin, TX",
+      "opened": "2026-09-14",
+      "date_source": "lever board date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found",
+  "last_cycle_basis": "none found; no tracker history for software roles",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.cirrus.com/careers/students",
-  "jobs_spec": null,
-  "evidence": "Company's Students/New Careers page (which includes a Software Engineering track) shows 'Please check back later for open opportunities' - no featured openings live right now. Fall SWE co-op exists per prior research; new-grad roles historically skew hardware/test.",
-  "confidence": "medium"
+  "no_sponsorship": true,
+  "jobs_page": "https://www.cirrus.com/careers/jobs",
+  "jobs_spec": "levereu:cirrus",
+  "evidence": "Lever EU API 2026-09-30 (115 postings): AI Applications Engineer, Austin: no seniority in title, 1+ yrs software experience, level not stated entry; 'unable to sponsor' and export-license note. NCG roles are validation/product/test; Software Tools Engineer needs 6+ yrs; Junior Embedded SW Test is test.",
+  "confidence": "low"
 }

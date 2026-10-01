@@ -1,15 +1,36 @@
 {
   "company": "SAS Institute",
   "tier": 6,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "C Software Developer (Emerging Careers)",
+      "url": "https://globalcareers-sas.icims.com/jobs/42286/c-software-developer-(emerging-careers)/job",
+      "location": "Cary, NC (hybrid)",
+      "opened": "2026-08-03",
+      "date_source": "page text (iCIMS datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Developer (Emerging Careers)",
+      "url": "https://globalcareers-sas.icims.com/jobs/42297/software-developer-(emerging-careers)/job",
+      "location": "Cary, NC (hybrid)",
+      "opened": "2026-09-29",
+      "date_source": "page text (iCIMS datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history found. SAS's own early-career page describes a rolling/seasonal hiring process rather than a fixed cycle date.",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.sas.com/en_us/careers/students-and-graduates/sas-academy.html",
+  "no_sponsorship": true,
+  "jobs_page": "https://globalcareers-sas.icims.com/jobs/search?ss=1&searchCategory=95184",
   "jobs_spec": null,
-  "evidence": "No ATS spec (custom site). SAS's early-career/'Technical Enablement Academy' page lists Software Developers as an entry-level technical track but shows no live application window now, only a 'Talent Community' signup; internships open ~Sep-Oct per third-party sources.",
-  "confidence": "low"
+  "evidence": "iCIMS pages fetched, Apply Now present: two Emerging Careers SWE roles in Cary NC (2026-08-03, 2026-09-29); both ask a bachelor's plus ~2 years and no sponsorship. Associate Software Developer is Glasgow UK. No deadline stated.",
+  "confidence": "medium"
 }

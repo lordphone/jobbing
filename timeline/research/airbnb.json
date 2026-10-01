@@ -1,15 +1,15 @@
 {
   "company": "Airbnb",
   "tier": 1,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-04-28",
-  "last_cycle_basis": "jobs.py history on Airbnb's own Greenhouse board: 'iOS Software Engineer – New Grad' first seen 2026-04-28 (https://careers.airbnb.com/positions/7859317?gh_jid=7859317); Airbnb posts new-grad roles in spring, not fall",
+  "last_cycle_basis": "jobs.py history on Airbnb's own Greenhouse board: 'iOS Software Engineer \u2013 New Grad' first seen 2026-04-28 (https://careers.airbnb.com/positions/7859317?gh_jid=7859317); 'Software Engineer New Grad' 2026-04-30; Airbnb posts new-grad roles in spring",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/airbnb",
   "jobs_spec": "gh:airbnb",
-  "evidence": "Re-ran full Airbnb Greenhouse board (gh:airbnb, --all); none are new-grad/university/2027-track SWE roles. History confirms last cycle opened spring (Apr 2026), consistent with Airbnb's known spring posting pattern.",
-  "confidence": "high"
+  "evidence": "Ran gh:airbnb --all (158 postings): only non-US 'Early Career Software Engineer, Quality Engineering' (Sao Paulo). No US new-grad SWE live; Airbnb opened new grad roles in Apr 2025 and Apr 2026; expect ~Apr 2027.",
+  "confidence": "high",
+  "checked": "2026-09-30"
 }

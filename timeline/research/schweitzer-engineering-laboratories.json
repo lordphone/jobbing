@@ -1,18 +1,15 @@
 {
   "company": "Schweitzer Engineering Laboratories",
   "tier": 7,
-  "checked": "2026-09-27",
-  "status": "open",
-  "postings": [
-    {"title": "Software Engineer - Full Stack TypeScript/React/C#", "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer---Full-Stack-TypeScript-React-C-_2026-23008", "location": "Boise, ID",
-     "opened": "on or before 2026-09-09", "date_source": "workday postedOn", "grad_window": null, "live_verified": "api"}
-  ],
+  "checked": "2026-09-30",
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-04-06",
-  "last_cycle_basis": "jobs.py history: 'Associate Software Engineer' (Moscow, ID / Pullman WA area) first seen 2026-04-06, with repeats 2026-05-15 and 2026-07-06 (AI/ML variant)",
+  "last_cycle_basis": "jobs.py history: rolling 'Associate Software Engineer' (Moscow ID/Pullman WA) first seen 2026-04-06, repeats 2026-05-15 and 2026-07-06 (AI/ML); outside Jul-Jan window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://selinc.wd1.myworkdayjobs.com/SEL",
   "jobs_spec": "wd:selinc/wd1/SEL",
-  "evidence": "No 'Associate Software Engineer' currently live, but a generic 'Software Engineer - Full Stack' req (Boise ID, posted 2026-09-09) has no years-of-experience or grad-window language found. SEL posts Associate SWE roles rolling per prior note; last live Associate SWE closed. Also live: Associate Firmware Engineer (Boise).",
-  "confidence": "low"
+  "evidence": "Workday API (105 postings): no Associate Software Engineer live. Open 'Software Engineer' roles (Boise, Pullman) list 'Typically 2+ years', Engineer level, not entry-labeled; one says 'US Citizenship Required'. SEL posts Associate SWE on a rolling basis.",
+  "confidence": "medium"
 }

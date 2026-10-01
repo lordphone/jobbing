@@ -1,15 +1,26 @@
 {
   "company": "Jacobs Solutions",
   "tier": 10,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Forward Deployed Engineer (Palantir Foundry & Custom Development) (FDE I)",
+      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Forward-Deployed-Engineer-Palantir-Foundry-Custom-Development/45696",
+      "location": "Dallas, TX (also Austin, Seattle, SF, Chicago, Atlanta, NYC, Fort Lauderdale, Moon Township); hybrid",
+      "opened": "2026-09-22",
+      "date_source": "page text ('Job posted on September 22, 2026')",
+      "deadline": "at least 2026-09-25",
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineer, Entry' (Kennedy Space Center, FL) posted 2025-08-07; 'Software Engineer' (Hudson, NH) posted 2025-02-18 -- both now gone (job id 37359, the Glassdoor/WebSearch-surfaced 'Entry-Level Software Engineer' listing, returns careers.jacobs.com's Error page)",
+  "last_cycle_basis": "tracker first seen: Software Engineer, Entry (Kennedy Space Center) https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.jacobs.com/en_US/careers/EarlyCareers",
+  "jobs_page": "https://careers.jacobs.com/en_US/careers/SearchJobs/",
   "jobs_spec": null,
-  "evidence": "careers.jacobs.com's main keyword search box (both /SearchJobs and /EarlyCareers) does not accept free-typed keywords via URL param or Enter key -- it needs an autocomplete pick and results stayed on the unfiltered newest-postings list (mostly Saudi/UAE data-centre roles) each time. The Graduate Development Program pages found by WebSearch are for KSA/UAE, not the US. Confirmed the one 2027-cycle US posting WebSearch surfaced (job 37359, 'Entry-Level Software Engineer', Nashua NH) is closed (Error page). No live US new-grad SWE posting found.",
-  "confidence": "low"
+  "evidence": "Opened job page in browser: FDE I, Apply shown, open to Entry/Intermediate/Associate, 0-5 yrs, no citizenship/clearance text; 'open for at least 3 days'. Nashua Entry Level SWE and Herndon roles are defense (citizenship/clearance per prior check).",
+  "confidence": "high"
 }

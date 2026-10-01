@@ -1,15 +1,26 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2026-02",
-  "last_cycle_basis": "worklist tracker_last_cycle: 2026-02 (Simplify tracker: 'Software Engineer 1' Jacksonville)",
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Full Stack Developer (Full Stack Developer I, ICE Mortgage Technology)",
+      "url": "https://careers-ice.icims.com/jobs/13402/associate-full-stack-developer/job",
+      "location": "Jacksonville, FL",
+      "opened": "2026-08-12",
+      "date_source": "iCIMS postedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
+  "last_cycle_opened": "2026-02-24",
+  "last_cycle_basis": "tracker history: 'Software Engineer 1' Jacksonville FL first seen 2026-02-24 (careers-ice.icims.com/jobs/12331)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "Re-checked careers-ice.icims.com in browser (search 'engineer 1' / 'engineer'): the icims job-listing widget did not render a readable results list this pass (page render issue), but no 'Engineer 1' / entry-level SWE requisition was visible; consistent with prior pass finding only Senior/Lead/Principal roles live. ICE posts entry-level 'Engineer 1' reqs on a rolling basis; none confirmed open right now.",
-  "confidence": "low"
+  "evidence": "iCIMS search 2026-09-30: Associate Full Stack Developer (Jacksonville, 'Developer I', React/Java, asks 1+ yrs) posted 2026-08-12, Apply button live, no deadline or sponsorship line seen. Rolling entry-level, no class year. Junior SDET (Atlanta, posted 2026-09-30) is a test role, not counted. Engineer 1 (13435) is gone.",
+  "confidence": "medium"
 }

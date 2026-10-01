@@ -1,15 +1,26 @@
 {
   "company": "Bristol Myers Squibb",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Technology Rotational Development Program Associate",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605859",
+      "location": "Princeton, NJ",
+      "opened": "2026-08-30",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no qualifying new-grad SWE posting found in tracker history 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms",
   "jobs_spec": "wd:bristolmyerssquibb/wd5/bms",
-  "evidence": "Checked full Workday board (--all) and history. Junior AI Engineer (San Diego, 2026-05-23), Associate Engineer - Analytical AI (Princeton, 2026-06-16), and Technology Rotational Development Program Associate (Princeton, 2026-08-30) all posted off-cycle and are now closed. All currently-live Software/AI Engineer roles are in Hyderabad, India, not US.",
-  "confidence": "high"
+  "evidence": "Previous file said not_yet; changed to closed: Technology Rotational Development Program Associate first seen 2026-08-30 (after Jul 1) is absent from the live board. Live now: Engineer, Analytical AI (2+ yrs), Software Engineer AI Enablement Seattle (2+ yrs), lab IT associate (not SWE).",
+  "confidence": "medium"
 }

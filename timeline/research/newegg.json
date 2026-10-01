@@ -1,15 +1,15 @@
 {
   "company": "Newegg",
   "tier": 9,
-  "checked": "2026-09-27",
-  "status": "unknown",
+  "checked": "2026-09-30",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history \"newegg\" returned 0 tracker postings",
+  "last_cycle_basis": "unknown; 2026-06-02 generic Early Career Talent Program (class of 2026, temp-to-hire), not SWE-specific",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "Careers page links to an ADP RecruitingCenter board. Both the landing page and the direct job-listing URL (myjobs.adp.com/newegg/cx/job-listing) render only the ADP privacy-statement footer text, not a job list, to both WebFetch and the browser pane (JS-rendered SPA that doesn't hydrate for our tools). No Greenhouse/Lever/Ashby/SmartRecruiters slug found via guess.",
-  "confidence": "low"
+  "evidence": "ADP API 2026-09-30: 91 postings, no SWE at new-grad level. Business System Developer (Ontario CA, posted 2025-09-08) asks proven experience. Early Career Talent Program (#1765, posted 2026-06-02) is generic, grads by Dec 2026, hourly 3-month temp-to-hire, not SWE-specific.",
+  "confidence": "medium"
 }

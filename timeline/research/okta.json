@@ -1,15 +1,15 @@
 {
   "company": "Okta",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker history: 'Software Engineer I' Toronto, Canada, first seen 2025-08-17",
+  "last_cycle_basis": "tracker first seen 'Software Engineer I' Toronto (Canada); US SF new-grad SWE roles Mar 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/okta",
   "jobs_spec": "gh:okta",
-  "evidence": "Greenhouse API: only live new-grad-labeled roles are 'Associate Solutions Engineer' (Dublin/Bengaluru, not SWE) and 'Developer Support Associate (New Grad)' (Chicago, support not SWE). No qualifying SWE posting live.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (358 postings): US SWE roles are Software Engineer II (SF needs 3-5+ yrs, senior IC); no new-grad SWE live. Only new-grad-labeled roles are solutions/support outside the US. Last cycle new-grad SWE roles were Toronto.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

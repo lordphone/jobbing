@@ -1,15 +1,26 @@
 {
   "company": "Shift4",
   "tier": 5,
-  "checked": "2026-09-27",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Software Engineer (Software Engineer I, SkyTab)",
+      "url": "https://shift4payments.wd108.myworkdayjobs.com/Shift4_External_CareerSite/job/Atlanta-GA-Office/Software-Engineer---SkyTab_JR0000468-1",
+      "location": "Atlanta GA / Tampa FL / Center Valley PA",
+      "opened": "2026-09-28",
+      "date_source": "workday postedOn (Posted Today, earlier run)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; not found in tracker history",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://www.shift4.com/careers",
   "jobs_spec": "wd:shift4payments/wd108/Shift4_External_CareerSite",
-  "evidence": "Careers widget's own 'Product' category filter (their only engineering-adjacent category) shows just 1 US posting: 'Design System Lead - Product & Engineering' (senior). jobs.py board (19 postings, all non-US except HR/Commercial/Sales) links into the same Workday tenant, confirming no facet miss. No entry-level SWE track found.",
+  "evidence": "Workday API (tenant is mostly Europe/retail; 24 postings) no longer lists the Software Engineer I (SkyTab) posting first seen 2026-09-28 (JR0000468-1); its page in the browser says the page does not exist. Posted and gone within 2 days. Earlier file said sponsorship not available.",
   "confidence": "medium"
 }

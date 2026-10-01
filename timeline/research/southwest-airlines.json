@@ -1,15 +1,17 @@
 {
   "company": "Southwest Airlines",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "closed",
+  "postings": [
+    {"title": "Associate Software Engineer - Direct College Hire", "url": "https://swa.wd1.myworkdayjobs.com/external", "location": "Dallas, TX", "opened": "2026-09-21", "date_source": "tracker first seen", "deadline": null, "grad_window": null, "live_verified": "no"}
+  ],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker first-seen dates for Associate Software Engineer / Associate Data Engineer - Direct College Hire, Dallas TX (jobs.py history)",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer / Associate Data Engineer - Direct College Hire, Dallas TX, 2025-09-25",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://swa.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:swa/wd1/external",
-  "evidence": "Checked full Workday board (31 postings, --all): no Associate Software Engineer / Data Engineer Direct College Hire posting live. Last cycle's postings (Sep 2025) show as closed in history.",
-  "confidence": "high"
+  "evidence": "Workday board (32 postings, --all; cxs 'Direct College Hire' search): tracker shows Associate SWE - Direct College Hire first seen 2026-09-21 (plus Associate SWE 07-22), now gone; only mid-level 'Software Engineer - Ops Suite' (intermediate experience) live. Postings state 'no current or future work authorization sponsorship'.",
+  "confidence": "medium"
 }

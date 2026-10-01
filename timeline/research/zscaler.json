@@ -1,15 +1,15 @@
 {
   "company": "Zscaler",
   "tier": 6,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-07-02",
-  "last_cycle_basis": "tracker history: 'Software Development Engineer' San Jose, CA, first seen 2026-07-02, now closed",
+  "last_cycle_basis": "tracker first seen 'Software Development Engineer' San Jose (now closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/zscaler",
   "jobs_spec": "gh:zscaler",
-  "evidence": "Greenhouse API: 380 postings, 0 match new-grad filter. Prior 2027-cycle SDE posting (San Jose) closed. No live qualifying posting.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API (366 postings): no new-grad or entry-level SWE in the US; only AI DevOps, Production and Threat Response Engineer roles. Prior San Jose SDE (tracker 2026-07-02) is gone.",
+  "confidence": "medium",
+  "checked": "2026-09-30"
 }

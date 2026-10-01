@@ -1,11 +1,19 @@
 {
   "company": "BCG X",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "closed",
   "postings": [
-    {"title": "Forward Deployed AI Engineer - Campus", "url": "https://careers.bcg.com/global/en/job/59067", "location": "Boston, MA; Seattle, WA; Washington, DC; SF; +more",
-     "opened": "on or before 2026-08-19", "date_source": "tracker first seen", "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Forward Deployed AI Engineer - Campus",
+      "url": "https://careers.bcg.com/global/en/job/59067",
+      "location": "Boston, MA; Seattle, WA; Washington, DC; SF; +more",
+      "opened": "on or before 2026-08-19",
+      "date_source": "tracker first seen",
+      "grad_window": null,
+      "live_verified": "no",
+      "deadline": null
+    }
   ],
   "last_cycle_opened": "2024-08-06",
   "last_cycle_basis": "jobs.py history: 'New Grad 2025: AI Software Engineer - Campus - United States - BCG X' active/closed 2024-08-06",
@@ -13,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.bcg.com/global/en/search-results",
   "jobs_spec": null,
-  "evidence": "Opened the campus FDE posting (job/59067, first seen 2026-08-19) directly: page reads 'the job you are trying to apply for has been filled.' A companion 'Forward Deployed AI Scientist - Campus' (job/59068) closed the same day. Current search for 'software engineer' surfaces only an experienced-hire 'Forward Deployed AI Engineer' routed through experiencedtalent.bcg.com, not a campus/new-grad req.",
-  "confidence": "high"
+  "evidence": "Campus Forward Deployed AI Engineer job/59067 returns HTTP 410 Gone; a search summary cites a 2026-09-17 close (secondary source, unconfirmed). Other BCG X new-grad req checked is Tokyo, filled. No live US campus eng req found.",
+  "confidence": "medium"
 }

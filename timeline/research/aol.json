@@ -1,7 +1,7 @@
 {
   "company": "AOL",
   "tier": 9,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bendingspoons.com/",
   "jobs_spec": null,
-  "evidence": "AOL has been owned by Bending Spoons since 2025; aol.com/careers is just a news-portal page, not a corporate careers site. Bending Spoons' own board (jobs.bendingspoons.com) is a general company-wide listing, no AOL-specific or US new-grad SWE posting identified.",
-  "confidence": "low"
+  "evidence": "AOL is owned by Bending Spoons; aol.com has no separate careers board. jobs.bendingspoons.com (fetched 2026-09-30) shows no open jobs for the filter; its graduate SWE roles are Milan/London/Madrid/Warsaw or non-US remote. No US AOL posting.",
+  "confidence": "medium"
 }

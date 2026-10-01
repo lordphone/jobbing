@@ -1,15 +1,15 @@
 {
   "company": "Tata Consultancy Services (TCS)",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "unknown",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "Lordphone's own tracker shows a 'Full Stack Engineer' TCS posting seen 2026-09-24 (Job Id 427336, New York, but posted for 6-8 yrs experience -- not entry-level)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Not found in first-party sources; tracker history has 0 entries.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.tcs.com/careers/united-states",
   "jobs_spec": null,
-  "evidence": "gh:tcs (worklist's spec) is confirmed wrong -- a UK nursing-agency Greenhouse board. tcs.com/careers/united-states is a near-empty landing page whose 'Apply now' points to ibegin.tcs.com, which no longer resolves (DNS failure via WebFetch and browser). The current domain ibegin.tcsapps.com returned 'access-denied' when opened directly. TCS's US hiring (Assistant System Engineer / 'Ninja' track) appears to run mainly through India campus recruiting (TCS NQT/NextStep portal), and no working US-facing job-search page was found this pass.",
+  "evidence": "No first-party US job list reached: tcs.com/careers/united-states returns 403 to fetch; ibegin.tcs.com does not resolve. Search shows only third-party listings (Handshake, Rice) of entry-level TCS US Software Engineer roles, not proof. Retry in browser.",
   "confidence": "low"
 }

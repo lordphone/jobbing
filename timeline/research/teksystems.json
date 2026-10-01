@@ -1,15 +1,15 @@
 {
   "company": "TEKsystems (Allegis Group)",
   "tier": 10,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no board or tracker history located",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": null,
+  "jobs_page": "https://careers-teksystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "TEKsystems is an IT staffing firm; jobs.py guess found no Greenhouse/Lever/Ashby/SmartRecruiters board matching the company, and no Workday tenant was found by brute force in this pass. Its internal entry-level roles are recruiter/sales, not SWE; client-placed contractor roles aside, no direct-hire new-grad SWE program is evident.",
-  "confidence": "low"
+  "evidence": "This run could not render the iCIMS list (landing page only; browser pane unreliable). Carried over 2026-09-28 read: 129 postings, all recruiter, sales or business support, no SWE. Search shows only Technology Apprentice roles.",
+  "confidence": "medium"
 }

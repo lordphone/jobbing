@@ -1,15 +1,26 @@
 {
   "company": "Boston Scientific",
   "tier": 11,
-  "checked": "2026-09-27",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-09-30",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813660387",
+      "location": "Maple Grove, MN",
+      "opened": "2026-09-25",
+      "date_source": "eightfold api t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker first-seen dates for Software Engineer I - Engineering - Development, Roseville MN (jobs.py history)",
+  "last_cycle_basis": "tracker first-seen: Software Engineer I - Engineering - Development (Roseville, MN), 2025-08-07; SDE 1 Cambridge 2025-09-15",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://bostonscientific.eightfold.ai",
   "jobs_spec": "eightfold:bostonscientific.eightfold.ai/bostonscientific",
-  "evidence": "Live board query returns no Software Engineer/Development postings at all. Opened the two most recent tracker-listed SWE I postings (Roseville MN req 612822, Waltham MA req 613461) in the browser: both show 'No longer accepting applications.' Both also required prior BSC intern/co-op experience and no-sponsorship, so even open they'd be narrow. No qualifying live posting this cycle.",
-  "confidence": "high"
+  "evidence": "Eightfold apply API (domain=bostonscientific.com): Software Engineer I (Maple Grove MN) live, created 2026-09-25, bachelor's in CS/EE, no years line seen, 'will not offer sponsorship'. No deadline stated. Also 2027-era SDE co-ops and R&D SWE intern (excluded); senior SWE roles ignored. Earlier SWE 1 (2026-09-02) closed.",
+  "confidence": "medium"
 }

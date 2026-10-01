@@ -1,15 +1,15 @@
 {
   "company": "Nucor",
   "tier": 11,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-03-04",
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker: 'Software Developer 1' Decatur/Arthur IL, first seen 2026-03-04/09 (closed)",
+  "last_cycle_opened": "2026-03",
+  "last_cycle_basis": "Tracker: 'Software Developer 1' Decatur/Arthur IL first seen 2026-03-04/09 (spring, outside 2025-07..2026-01 window; closed)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://jobs.nucor.com",
   "jobs_spec": null,
-  "evidence": "Searched jobs.nucor.com for 'software developer': no 'Software Developer I'/entry-level role live. 'Full Stack Software Engineer' (Nucor Buildings Group, Portland TN) requires 3+ years experience, no sponsorship, and US citizens/permanent residents only.",
-  "confidence": "high"
+  "evidence": "jobs.nucor.com (WebFetch search): only Full Stack Software Engineer (Portland TN, Kirby, 3+ yrs, not entry-level; no sponsorship, citizens/permanent residents only), team lead, manager roles. Entry SWE roles appear ad hoc at mills.",
+  "confidence": "medium"
 }

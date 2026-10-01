@@ -1,7 +1,7 @@
 {
   "company": "DV Trading",
   "tier": 4,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
@@ -10,16 +10,17 @@
       "location": "New York",
       "opened": "2026-08-10",
       "date_source": "greenhouse first_published",
-      "grad_window": "Summer 2027",
+      "deadline": null,
+      "grad_window": "Expected to graduate by Summer 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-01",
-  "last_cycle_basis": "tracker_last_cycle from worklist",
+  "last_cycle_basis": "tracker: 2026 Graduate Software Developer - DV Commodities (NYC, London) first seen 2025-08-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/dvtrading",
   "jobs_spec": "gh:dvtrading",
-  "evidence": "Greenhouse API + detail: '2027 Graduate Software Engineer (DV Commodities)', NY, first_published 2026-08-10. Posting text: 'Expected to graduate ... by Summer 2027', C++/Python.",
+  "evidence": "Greenhouse API (73 postings) and detail read: 2027 Graduate Software Engineer (DV Commodities), New York, grad by Summer 2027, live, first published 2026-08-10. No deadline stated. Other SWE items are interns or experienced.",
   "confidence": "high"
 }

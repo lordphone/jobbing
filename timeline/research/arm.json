@@ -1,15 +1,15 @@
 {
   "company": "Arm",
   "tier": 7,
-  "checked": "2026-09-27",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "jobs.py history: 'New Grad 2025: Software Applications Engineer' Austin TX, first seen 2025-09-07, https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: New Grad 2025: Software Applications Engineer, Austin TX, first seen 2025-09-07, careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
   "jobs_page": "https://careers.arm.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Checked careers.arm.com/graduates and search-jobs filtered to Graduate + United States. Related/US graduate roles shown are hardware (Theorem Proving Engineer, RTL Design Engineer, GPU/hardware roles in Norway/India). No US SWE new-grad posting live.",
-  "confidence": "medium"
+  "evidence": "careers.arm.com US-filtered searches via WebFetch (graduate: 1 hardware role; software: 68, pages 1-2 all staff/senior/principal; early career; intern). Graduate and intern SWE roles are Trondheim, Galway, Bengaluru only. No US new-grad SWE live. Pages 3-5 of software not read.",
+  "confidence": "medium",
+  "checked": "2026-09-30",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

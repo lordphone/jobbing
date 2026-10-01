@@ -1,12 +1,19 @@
 {
   "company": "AspenTech",
   "tier": 6,
-  "checked": "2026-09-27",
+  "checked": "2026-09-30",
   "status": "open",
   "postings": [
-    {"title": "Software Developer 1 - Asset Performance Management", "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395", "location": "Bedford, MA",
-     "opened": "on or before 2026-09-17", "date_source": "workday postedOn (Posted 10 Days Ago) / tracker first seen 2026-09-16",
-     "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Developer (Software Developer I, Asset Performance Management)",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395",
+      "location": "Bedford, MA",
+      "opened": "on or before 2026-09-17",
+      "date_source": "workday startDate 2026-09-17 / tracker first seen 2026-09-16",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "tracker history: Associate Software Developer, Wayzata MN, first seen 2025-11-03",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aspentech.wd5.myworkdayjobs.com/aspentech",
   "jobs_spec": "wd:aspentech/wd5/aspentech",
-  "evidence": "Workday API confirms live 'Software Developer' (posting titled Software Developer 1 - Asset Performance Management in tracker), Bedford MA, posted ~2026-09-17, matching tracker lead exactly. No exclusion language found via API.",
+  "evidence": "Workday job API 2026-09-30: live, canApply true, no end date. Text: 'Software Developer I', early-career, BS, 0-2 years incl. internships/projects; no citizenship or sponsorship language. Summer 2027 interns also posted.",
   "confidence": "high"
 }
