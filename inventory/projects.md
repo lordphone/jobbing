@@ -59,3 +59,12 @@ facts:
 note: dates, stack, and URL not given yet.
 approved:
 - default: **codingplans:** Building a website that rates LLM coding/token plans; bought plans from Z.AI, MiniMax, and Kimi and tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized their models.
+
+## pj-badminton-courts
+
+tags: llm, personal
+facts:
+- personal tool built with AI coding tools
+- he hosts a group of CMU badminton players every weekend
+- manages everybody's usernames and passwords so the group can guarantee it has courts to play on
+note: for written answers; not printed on resumes yet. Stack and dates not given.

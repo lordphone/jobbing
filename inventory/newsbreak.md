@@ -18,6 +18,7 @@
 - primary: SportsBreak iOS + `sportsbreak-service`
 - SportsBreak App Store link: https://apps.apple.com/app/id6762649287 — on every resume, hyperlink the name "SportsBreak" in the iOS / SwiftUI bullet to this page (`\href{https://apps.apple.com/app/id6762649287}{SportsBreak}`); name the app there rather than "a consumer sports app"
 - secondary: DramaBreak (iOS + `aigc-service`), `nbot-curator-server`, newsletter tool
+- DramaBreak App Store link: https://apps.apple.com/app/id6758861738 — when a resume names DramaBreak, hyperlink the name to this page (`\href{https://apps.apple.com/app/id6758861738}{DramaBreak}`)
 - stack: Python 3.12, FastAPI, MongoDB/Motor, Pydantic, Swift/SwiftUI, Firebase, APNs, Amplitude, AppLovin MAX, Kubernetes/EKS, Helm, Jenkins, Docker, GitHub Actions, Langfuse, RAG
 - grew the app with the team
 
@@ -139,10 +140,11 @@ facts:
 - binary with zero third-party API keys (after proxy migration)
 - App Store listing: https://apps.apple.com/app/id6762649287
 - the app reached peak DAU 1,119 (2026-08-10) and 5,999 installs by 2026-08-11 (Amplitude)
+- 1.4K App Store ratings as of 2026-10-01 (public listing; after the internship ended)
 - grew the app with the team
 - no iOS test target and no CI
 approved:
-- default: Sole SwiftUI engineer for a consumer sports app (peak DAU 1,119; ~6,000 installs by 2026-08-11); shipped Firebase auth, a 72-event analytics catalog, and a binary with zero third-party API keys.
+- default: Sole SwiftUI engineer for SportsBreak (1.4K App Store ratings; peak DAU 1,119); shipped Firebase auth, a 72-event analytics catalog, and a binary with zero third-party API keys.
 - scale: Shipped a 43,695-line SwiftUI app (233 views, 196 previews) to the App Store; iOS has no test target — 196 previews and a device/simulator protocol were the substitutes.
 
 ## nb-server-driven-ui
@@ -349,6 +351,7 @@ facts:
 - black screen after rewarded ads: AVPlayer resource contention
 - notification-driven rewarded-ad preload removed ~10 s cold-auction wait
 - native feed ads stayed on MSP after the MAX migration
+- ran an A/B test: showed users different menu options and read click-through rate in Amplitude on DramaBreak (winner, lift, and sample size not recorded)
 approved:
 - default: On DramaBreak, migrated ads to AppLovin MAX and diagnosed a post-rewarded-ad black screen as AVPlayer resource contention in a mature two-repo codebase.
 

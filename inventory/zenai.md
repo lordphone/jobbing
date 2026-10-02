@@ -52,9 +52,12 @@ facts:
 - drove client engagement and company growth via those demos and contracts
 - fast iterations with clients
 - eventually obtained mid-sized companies who would use the application
+- 3 companies (200–500 employees each) signed contracts before the pivot
+- the tech was ready for those clients when they signed
 - the company pivoted in the end
 approved:
 - default: Drove client engagement and company growth by demoing the product and obtaining contracts.
 - midsize: Ran fast client iterations and obtained mid-sized companies as users of the mock-interview app; the company later pivoted.
+- contracts: Demoed the product and iterated with clients until three 200–500-person companies signed contracts.
 
 You can put this in the same bullet as other ZenAI facts if the sentence stays true: growth is from demos, contracts, and client iteration — not from user-testing alone.

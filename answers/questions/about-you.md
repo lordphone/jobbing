@@ -42,3 +42,18 @@ As models evolve, so do the payment plans for them. Now every company that makes
 
 As AI plans get more expensive by the day (OpenAI dropped a $500 plan yesterday), I think someone has to keep them in check, so that we understand the token cost without subsidization and people don't get skunked on what they paid for.
 ```
+
+---
+
+## Two-sentence highlight (experience + highlights + status)
+
+- question: 2 sentences on your strongest points: X experience at X company in X domain, other highlights/requirements, work-authorization status.
+- company: Disney (Product Software Engineer I, 10157015)
+- date: 2026-10-01
+- facts: nb-swiftui-app, nb-fastapi-backend, nb-eks-standup, Langfuse 65% failure diagnosis (inventory/newsbreak.md); education.md
+- voice: third person
+- status: inventory/profile.md (work authorization)
+
+```text
+Lordphone is a CMU master's student in Software Engineering (4.0 GPA, graduating May 2027) with three software internships, most recently at NewsBreak, where he was the main backend engineer and only iOS engineer on a sports app that reached about 6,000 installs. He built its Python/FastAPI backend from the first commit and ran it on Kubernetes, set up the app's 72-event analytics tracking, and as a Canadian citizen on an F-1 visa he can work in the U.S. on either OPT or TN.
+```

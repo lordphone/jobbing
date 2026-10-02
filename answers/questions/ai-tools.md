@@ -39,3 +39,22 @@ The real cause was that iOS silently drops a start push with no aps.alert field,
 
 Now when an AI tells me it has found the bug, I treat that as a hypothesis, not an answer. I ask what evidence would prove it wrong, and I check that before I change any code.
 ```
+
+---
+
+## How you use AI day to day
+
+- question: How do you use AI in your day-to-day work? What are some of the underappreciated benefits and/or pain points of your favorite AI tools?
+- company: Perplexity (Member of Technical Staff (New Grad) - CMU 2026-2027)
+- date: 2026-10-01
+- story: `pj-badminton-courts` (inventory/projects.md); profile.md personal
+
+```text
+I use Claude Code heavily alongside other AI coding tools for school and personal projects. I enjoy building with these tools a lot, although they can be painful sometimes.
+
+As a technical person, I think one of the most underappreciated benefits is how easily you can spin up something personal that solves your specific pain point. You can build tools that make your day-to-day life easier.
+
+I host a group of CMU badminton players every weekend, and one of my favorite tools I've built with AI lets me manage everyone's usernames and passwords so we can guarantee we have courts to play on.
+
+However, the downside is that you really have to dig into the quirks of large language models. For example, they can get tunnel vision if they latch onto one piece of evidence instead of stepping back to look at the big picture. They also tend to overengineer with unnecessary guards, which adds tech debt and more things you need to keep track of.
+```

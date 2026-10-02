@@ -29,3 +29,16 @@ This summer I shipped an LLM search agent and a personalized news-alert pipeline
 
 Sierra's agents also talk to the customers of companies like SoFi and Sutter Health, where a confident wrong answer costs real trust. That raises the bar on reliability in a way I find exciting. And I like that Agent Engineers work directly with customers. At ZenAI I demoed our product to clients and iterated on their feedback until we won contracts, and I'd love to pair that with production agent work.
 ```
+
+---
+
+## Perplexity
+
+- question: What are the most interesting aspects of Perplexity that you're excited to work on?
+- company: Perplexity (Member of Technical Staff (New Grad) - CMU 2026-2027)
+- date: 2026-10-01
+- story: profile.md personal (uses Perplexity instead of Googling)
+
+```text
+Perplexity changed a habit that is very hard to break for me: Googling. I think that is a very hard feat, and I'd love to improve the experience that made my life better. I think the pipeline's latency is the number one thing to optimize in this age of short attention spans, and that's what I would love to work on the most.
+```

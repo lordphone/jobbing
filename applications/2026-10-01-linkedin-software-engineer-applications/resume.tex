@@ -1,0 +1,62 @@
+% LinkedIn — Software Engineer - Applications (Mountain View, CA)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Large Language Model Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Operating Systems, Software Engineering
+
+\section{Work Experience}
+\role{NewsBreak}{Backend Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's FastAPI / async MongoDB backend from its first commit to 89 REST endpoints and 26 collections, with $\sim$1{,}450 offline unit tests behind a ruff / pyright / pytest CI gate; authored 344 PRs.
+  \item Stood up production Kubernetes (AWS EKS, Helm, Jenkins) on day 3 with 7 CronJobs; fixed a 5-day silent CronJob outage (ImagePullBackOff + Forbid concurrency) with paired job and scheduler deadlines.
+  \item Redesigned a cache that could not hit (13.2\,MB keyed per user) into a shared 10.9\,MB catalog cache, 78$\times$ smaller and sized for a 512\,MiB pod; replaced a 25--30 request client fan-out with one backend call.
+  \item Designed an agentic search API: one SSE endpoint, deterministic RAG on turn 1 and a bounded tool-calling agent ($\le$3 hops, 5 tools) after; hybrid retrieval (Mongo text + vector, RRF) degrades to surviving legs.
+  \item Designed an async ingest $\to$ embed $\to$ LLM-score $\to$ dedupe $\to$ push pipeline ($\sim$1{,}200 LLM calls/day); calibrated on 4{,}100+ shadow decisions, it cut filler 34\% $\to$ 4\% and held its 2/day cap over 11{,}745 user-days.
+  \item Traced another team's 65\% LLM failure rate via Langfuse telemetry to an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways); a binomial model predicted 49--66\% failure vs.\ 65\% observed.
+  \item Sole SwiftUI engineer; shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store ($\sim$6{,}000 installs, 1{,}119 peak daily active users); wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs, and onboarded the second engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed the schemas and REST APIs for LangChain resume parsing.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
+  \item Demoed the product and iterated with clients until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, JavaScript, TypeScript, Go, C, SQL, Swift, Bash \\[1pt]
+  \textbf{Backend \& Data} & REST APIs, SSE, FastAPI, asyncio, MongoDB, PostgreSQL, MySQL, Redis Streams \\[1pt]
+  \textbf{Cloud \& Infra} & Docker, Kubernetes (EKS), Helm, AWS, GCP, Jenkins, GitHub~Actions, CI/CD, Langfuse \\[1pt]
+  \textbf{AI \& Frameworks} & LLM tool calling / agents, RAG, hybrid retrieval, LangChain, React, Next.js, SwiftUI \\[1pt]
+  \textbf{Practices} & Unit Testing, pytest, TDD, Git, Agile/Scrum, Claude Code / AI coding tools \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}

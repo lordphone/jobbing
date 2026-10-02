@@ -1,0 +1,62 @@
+% BNY — 2027 BNY Analyst Program - Engineering (Developer), New York
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{New York, NY}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Software Refactoring, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Algorithms, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints with $\sim$1{,}450 fully offline tests; added a ruff / pyright / pytest GitHub Actions gate after tests sat red on \texttt{main}.
+  \item Stood up the service on production AWS EKS (Docker, Helm, Jenkins) on day 3 and migrated nine third-party integrations server-side so the iOS binary ships zero third-party API credentials.
+  \item Wrote tests for an AI-agent-written catalog cache, then redesigned it when pod memory neared its 512\,MiB limit: 13.2\,MB keyed per user (zero hit rate) $\to$ 10.9\,MB shared, 78$\times$ smaller.
+  \item Spot-checked two closed security tickets against the code, found the fixes absent, and reopened them with evidence; wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs.
+  \item Designed an LLM news-alert pipeline that scores each article on arrival and fires only above its topic's rolling 7-day percentile; calibrated on 4{,}100+ shadow decisions, it cut filler 34\% $\to$ 4\%.
+  \item Sole SwiftUI engineer; shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store ($\sim$6{,}000 installs, 1{,}119 peak daily active users).
+  \item Traced another team's 65\% LLM failure rate via Langfuse traces to an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) and sized a 2{,}048-token cap against it.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; led PR reviews and mentored interns on Git workflows and testing protocols.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; iterated with clients and won contracts with mid-sized companies.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers for stochastic systems; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+  \item Implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models) and mapped natural-language instructions to formal safety specs with multi-turn LLMs.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, JavaScript, TypeScript, CSS, HTML, SQL, Go, Swift, C, Bash \\[1pt]
+  \textbf{Practices} & Git, CI/CD, GitHub~Actions, Unit Testing, pytest, TDD, REST APIs, Agile/Scrum, Jira \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, Linux, Grafana, Langfuse \\[1pt]
+  \textbf{Frameworks} & FastAPI, Pydantic, React, Next.js, SwiftUI, LangChain, Supabase \\[1pt]
+  \textbf{Data \& ML} & MongoDB, PostgreSQL, MySQL, PyTorch, CUDA, RAG \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 20-frame (1s) video; built a data pipeline over 33 hours of Comma2k19 and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+\end{itemize}
+
+\end{document}
