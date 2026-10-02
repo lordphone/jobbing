@@ -1,7 +1,7 @@
 {
   "company": "Pennymac",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -11,8 +11,8 @@
       "opened": "2026-08-31",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Jan and June 2027 cohorts",
-      "live_verified": "browser"
+      "grad_window": "January and June 2027 cohorts",
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -20,7 +20,7 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.pennymac.com/students-graduates",
-  "jobs_spec": "icims (no API)",
-  "evidence": "Students page still links DTO Rotational Engineer (Jan/June 2027 cohorts), but jobs/40358 and Rotational Analyst 40324 return 404 in browser on 2026-09-30, so the posting is gone. TRE closed until Spring 2027. Only other tech posting: Full Stack Developer (.NET), 3+ yrs.",
+  "jobs_spec": null,
+  "evidence": "careers.pennymac.com/students-graduates still describes DTO Rotational Engineer (Jan/Jun 2027 cohorts) but jobs/40358 and Rotational Analyst 40324 return HTTP 404 on 2026-10-01; posting gone. Only other tech post: Full Stack Developer (.NET), 3+ yrs. iCIMS no API.",
   "confidence": "medium"
 }

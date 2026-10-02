@@ -1,7 +1,7 @@
 {
   "company": "Neuralink",
   "tier": 3,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer - Simulation",
@@ -22,7 +22,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-24",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/neuralink",
   "jobs_spec": "gh:neuralink",
-  "evidence": "Opened both postings in browser (Apply present, posted 2026-09-25). Unlabeled SWE titles, but each says 'hiring engineers at all levels, both junior and senior'; bachelor's required, no class year, no deadline. Level is not entry-labeled, so medium confidence. Robotics Engineer (same date, same note) not counted.",
+  "evidence": "gh:neuralink API: SWE-HIL and SWE-Simulation first published 2026-09-25, updated 09-29, both say 'hiring engineers at all levels, both junior and senior'; bachelor's required. Unlabeled level and HIL is test-oriented, so medium.",
   "confidence": "medium"
 }

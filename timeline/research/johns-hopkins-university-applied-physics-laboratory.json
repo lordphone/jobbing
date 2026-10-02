@@ -1,6 +1,7 @@
 {
   "company": "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
   "tier": 8,
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -9,9 +10,9 @@
       "location": "Laurel, MD",
       "opened": "2026-09-08",
       "date_source": "careers site create_date",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "no"
     },
     {
       "title": "2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems",
@@ -19,9 +20,9 @@
       "location": "Laurel, MD",
       "opened": "2026-08-25",
       "date_source": "careers site create_date",
+      "deadline": null,
       "grad_window": "2027",
-      "live_verified": "browser",
-      "deadline": null
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-09-04",
@@ -30,7 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.jhuapl.edu",
   "jobs_spec": null,
-  "evidence": "Opened 2027 PhD Graduate SWE/ML posting 59654 in browser: 'able to obtain an Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Rolling basis, no deadline. Many 2027 Graduate SWE/ML roles (Jul-Sep 2026), all cleared.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run: iCIMS body unreadable via WebFetch (nav only). Carried forward prior browser read of 59654: 'able to obtain an Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Many 2027 grad SWE/ML roles, all cleared. Not re-verified live.",
+  "confidence": "medium"
 }

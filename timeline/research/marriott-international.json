@@ -1,15 +1,15 @@
 {
   "company": "Marriott International",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-11-05",
-  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer - Platform Engineering', Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (--all): none of the Jul-Aug 2026 Associate SWE postings (26085377, 26099780, 26099783) remain. Only live US SWE are FLEX temp roles (Full Stack 6+ yrs, SDET 2+ yrs) and senior titles; not entry-level. Closed.",
-  "confidence": "medium"
+  "evidence": "Oracle board --all (262) 2026-10-01: this-cycle Associate SWE roles (26085377 FLEX CDP, 26099780 Android, 26099783 iOS; Jul-Aug 2026) not listed; 2 return NOT ON THE BOARD, 1 returns empty stub. Posting pages unreadable (no browser in cloud run), so closed unconfirmed. Live US SWE only senior/FLEX.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Upstart",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first-seen 2025-10-30 (Machine Learning Engineer, closed)",
+  "last_cycle_basis": "tracker first-seen 2025-10-30 (Machine Learning Engineer, closed; not clearly entry-level)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/upstart",
   "jobs_spec": "gh:upstart",
-  "evidence": "Greenhouse board (88 postings, --all): engineer titles are Senior/Principal/II or plain SWE (experienced); no new-grad program or entry-level SWE this cycle.",
-  "confidence": "high"
+  "evidence": "Greenhouse API all 88 postings: engineer titles are plain Software Engineer, II, Senior or Principal; no new-grad program, no entry-level title, no 2027 role. Earlier file said not_yet; no new-grad track evidenced.",
+  "confidence": "medium"
 }

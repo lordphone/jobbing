@@ -1,15 +1,26 @@
 {
   "company": "Jamf",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004",
+      "location": "Remote (US)",
+      "opened": "2026-09-30",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-10-03",
   "last_cycle_basis": "Tracker history: 'Software Engineer I', Eau Claire WI / Minneapolis MN, first seen 2025-10-03 (matches previous tracker_last_cycle).",
-  "excluded_reason": null,
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/jamf",
   "jobs_spec": "gh:jamf",
-  "evidence": "Greenhouse board (22 postings, --all): no US entry SWE; SWE roles are Poland/Europe. This-cycle Software Engineer 1 (Eau Claire/Austin/Minneapolis, 2026-06-16) is gone, so not_yet.",
+  "evidence": "Greenhouse API 2026-10-01: Software Engineer I US Remote (first published 2026-09-30) states 'can only be performed by a U.S. citizen located physically in the U.S.' so excluded. Other SWE roles are Poland/Czechia. Previous file said not_yet; new posting found.",
   "confidence": "high"
 }

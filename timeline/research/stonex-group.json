@@ -1,15 +1,15 @@
 {
   "company": "StoneX Group",
   "tier": 4,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "no tracker SWE history; only Birmingham ops/data junior roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-stonex.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS listing read in browser (first 50 of the board): only Software Engineer (C# .Net, experienced) and Principal Engineer (.NET+AI). Entry-level roles are ops/data in Birmingham AL, not SWE.",
-  "confidence": "medium"
+  "evidence": "iCIMS listing (first ~50 postings, read via in_iframe fetch) shows only Software Engineer (C# .Net), Senior QA Engineer, Principal Engineer, Technical Business Analyst, interns in non-SWE areas. No entry-level SWE role seen; board may have more pages; no browser in cloud run.",
+  "confidence": "low"
 }

@@ -1,7 +1,7 @@
 {
   "company": "ExxonMobil",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-31",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.exxonmobil.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "jobs.exxonmobil.com (browser/fetch): US early-career items are generic 'STEM Early Career Full-Time Opportunities' (Spring TX; lists Computer Science and Data Science among majors, no SWE role), plus trading, PhD and internship pools. No software/IT entry-level posting found.",
+  "evidence": "jobs.exxonmobil.com search (curl, 6 queries): US early-career is generic 'STEM Early Career Full-Time Opportunities' (Spring TX, Sep 30; lists Computer Science, no SWE role). 2026USH Trading Desk Full Stack Developer has no entry-level signal. No software/IT entry-level posting. Same as prior.",
   "confidence": "medium"
 }

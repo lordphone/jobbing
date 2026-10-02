@@ -1,47 +1,47 @@
 {
   "company": "Garmin",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer 1 - Connect IQ Applications",
       "url": "https://careers.garmin.com/jobs/18475?icims=1",
       "location": "Olathe, KS",
-      "opened": "on or before 2026-08-01",
-      "date_source": "tracker first seen",
+      "opened": "2026-04-28",
+      "date_source": "page JSON-LD datePosted",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     },
     {
-      "title": "Software Engineer 1 - Android",
+      "title": "Software Engineer 1 (Android)",
       "url": "https://careers.garmin.com/jobs/16587?icims=1",
       "location": "Yarmouth, ME",
-      "opened": "on or before 2026-09-08",
-      "date_source": "tracker first seen",
+      "opened": "2026-09-08",
+      "date_source": "page JSON-LD datePosted",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     },
     {
       "title": "Software Engineer 1 - Aviation Backend Web",
       "url": "https://careers.garmin.com/jobs/19142?icims=1",
       "location": "Olathe, KS",
-      "opened": "on or before 2026-08-26",
-      "date_source": "tracker first seen",
+      "opened": "2026-08-28",
+      "date_source": "page JSON-LD datePosted",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     },
     {
       "title": "Software Engineer 1",
       "url": "https://careers.garmin.com/jobs/19695?icims=1",
       "location": "Olathe, KS",
-      "opened": "on or before 2026-09-28",
-      "date_source": "page text (live listing, no date); tracker first seen 2026-08-01 for similar SE 1 reqs",
+      "opened": "2026-08-24",
+      "date_source": "page JSON-LD datePosted",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -51,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.garmin.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-09-30: careers.garmin.com search lists Software Engineer 1 (Olathe KS; Yarmouth ME Android) and Embedded SE 1 (Cary NC, Chandler AZ) with APPLY NOW; opened SE 1 (19695), Apply present, BS required, no sponsorship or citizenship limit. No deadline stated.",
-  "confidence": "high"
+  "evidence": "No browser in cloud run. Fetched 4 SE 1 posting pages 2026-10-01 via HTTP: pages served with JSON-LD datePosted (Apr-Sep 2026), BS required, no citizenship limit; Apply button not confirmable. Previous browser check 2026-09-30 saw Apply.",
+  "confidence": "medium"
 }

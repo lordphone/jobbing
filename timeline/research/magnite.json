@@ -1,8 +1,8 @@
 {
   "company": "Magnite",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "jobs.py history \"magnite\": 'Engineer 1 - Automation and Custom Applications' (NYC) first seen active 2025-11-03; also entry-level 'Backend Engineer - Entry Level' and 'Engineer - Entry Level RUST Developer' postings in Belfast UK from Oct-Dec 2025, all now closed",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": "wd:osv-rubicon/wd5/MagniteCareers",
-  "evidence": "Browser pane board (32 jobs, page 1 read): Engineer II (Boston/NYC, 2+ yrs, $130-145k, posted ~13 days ago), Senior Engineer, Rust Engineer Belfast; no Engineer 1 or new-grad title. API 422; page 2 unread.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: Workday cxs API returns HTTP 422 for list and posting; board page JS-only; search index stale. Prior 2026-09-30 browser read (page 1 only) saw no Engineer 1. Retry in browser.",
+  "confidence": "low"
 }

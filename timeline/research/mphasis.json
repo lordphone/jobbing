@@ -1,15 +1,15 @@
 {
   "company": "Mphasis",
-  "tier": 10,
-  "status": "no_program_found",
-  "postings": [],
+  "status": "unknown",
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; campus hiring (Associate Software Engineer) is India-based",
   "jobs_page": "https://mphasis.ripplehire.com/candidate/?token=ty4DfyWddnOrtpclQeia&source=CAREERSITE#list/geo=USA",
   "jobs_spec": null,
-  "evidence": "Campus Programs page lists only India T School / B School hiring plus an internship. US jobs are on RippleHire (86 listed); opened the list, but only the first 10 loaded (all 5-14 yrs: Test Lead, Module Lead, Technical Lead, Principal Infra Eng, Sr Full Stack Developer). Rest not seen.",
+  "evidence": "RippleHire US list is JavaScript-rendered; WebFetch/curl show no listings (no browser in cloud run). Prior 2026-09-30 browser read: 86 US listings, no entry-level SWE; campus page lists only India programs. Retry in browser.",
   "confidence": "low",
-  "checked": "2026-09-30"
+  "tier": 10,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

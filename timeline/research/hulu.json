@@ -1,15 +1,26 @@
 {
   "company": "Hulu",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Product Software Engineer I",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
+      "location": "New York, NY; Seattle, WA; San Francisco, CA",
+      "opened": "2026-08-17",
+      "date_source": "page text (Date Posted)",
+      "deadline": "2026-10-05",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first-seen for Software Engineer I, Seattle WA at https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Hulu posts under Disney. Disney Workday (--all): no Software Engineer I / Associate SWE live; only Software Engineer II and Senior+. Tracker's Jul-Aug 2026 SWE 1 / Associate SWE postings (e.g. 10158076, 10157526) are gone from API, so closed.",
+  "evidence": "Hulu posts under Disney. Workday API detail opened: 'Product Software Engineer I' (Disney Entertainment & ESPN Technology, Product team covering Disney+/Hulu/ESPN+), Date Posted 2026-08-17, endDate 2026-10-05, bachelor's, 1-2 yrs preferred. Replaces earlier closed result.",
   "confidence": "medium"
 }

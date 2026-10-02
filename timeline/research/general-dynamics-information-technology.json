@@ -1,15 +1,26 @@
 {
   "company": "General Dynamics Information Technology (GDIT)",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": "2025-05",
-  "last_cycle_basis": "Tracker history: Junior Front End Developer (Annapolis Junction) first seen 2025-05-15; entry-level SWE roles 2025-08 to 2025-11, mostly citizenship-gated.",
+  "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
+      "location": "Annapolis Junction, MD",
+      "opened": "on or before 2026-09-01",
+      "date_source": "workday postedOn (30+ days)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-10",
+  "last_cycle_basis": "tracker first seen 2025-10-07: Software Developer Associate - TS/SCI w/Poly (Annapolis Junction MD); also 2025-11-08 Software Engineer I",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
   "jobs_spec": "wd:gdit/wd5/external_career_site",
-  "evidence": "Workday board (157): entry-titled SWE roles need clearance. Software Engineer 1: \"Active TS/SCI w/ Polygraph required\", \"US Citizenship Required: Yes\". Junior DS Engineer: \"Active Secret Level Clearance required\". Junior Software Developer title says TS/SCI with Poly required.",
-  "confidence": "high"
+  "evidence": "Workday API (158): entry-titled SWE roles need clearance. Software Engineer 1: 'Active TS/SCI w/ Polygraph required', 'US Citizenship Required: Yes'. Junior DS Engineer (Travel, remote): 'Secret', 'US Citizenship Required: Yes'.",
+  "confidence": "high",
+  "checked": "2026-10-01",
+  "tier": 10
 }

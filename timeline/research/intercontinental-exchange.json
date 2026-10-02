@@ -1,18 +1,18 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Full Stack Developer (Full Stack Developer I, ICE Mortgage Technology)",
-      "url": "https://careers-ice.icims.com/jobs/13402/associate-full-stack-developer/job",
+      "title": "Associate Full Stack Developer",
+      "url": "https://careers-ice.icims.com/jobs/13433/associate-full-stack-developer/job",
       "location": "Jacksonville, FL",
-      "opened": "2026-08-12",
-      "date_source": "iCIMS postedDate",
+      "opened": "on or before 2026-10-01",
+      "date_source": "page text (no posted date shown)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2026-02-24",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS search 2026-09-30: Associate Full Stack Developer (Jacksonville, 'Developer I', React/Java, asks 1+ yrs) posted 2026-08-12, Apply button live, no deadline or sponsorship line seen. Rolling entry-level, no class year. Junior SDET (Atlanta, posted 2026-09-30) is a test role, not counted. Engineer 1 (13435) is gone.",
-  "confidence": "medium"
+  "evidence": "iCIMS via WebFetch 2026-10-01 (no browser in cloud run): Associate Full Stack Developer 13433 Jacksonville, asks 1+ yrs, Apply active, no sponsorship line. Prior posting 13402 now 410 Gone. Pages 1-4 of 5 scanned; no Engineer 1. Needs browser recheck.",
+  "confidence": "low"
 }

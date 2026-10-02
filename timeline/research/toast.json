@@ -1,15 +1,15 @@
 {
   "company": "Toast",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only Canada 'Software Engineer 1' (Feb-Jul 2026); none in US in window",
+  "last_cycle_basis": "tracker shows only Canada 'Software Engineer 1' (Feb-Jul 2026, incl. Toronto 2026-07-11, closed); none in US in window",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/toast",
   "jobs_spec": "gh:toast",
-  "evidence": "Full gh:toast board (342, --all) 2026-09-30: no US entry-level SWE; only Canada/Dublin SWE II and intern roles. Early-career page lists co-ops/internships only (prior check).",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:toast full board (333, --all) 2026-10-01: no US entry-level SWE; only Canada/Dublin SWE II and Dublin intern. Earlier Canada SWE 1 postings gone. Early-career page lists co-ops/internships only (prior check).",
+  "confidence": "medium"
 }

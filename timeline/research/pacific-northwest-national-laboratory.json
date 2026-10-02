@@ -1,6 +1,7 @@
 {
   "company": "Pacific Northwest National Laboratory (PNNL)",
   "tier": 11,
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -8,10 +9,10 @@
       "url": "https://careers.pnnl.gov/jobs/12171",
       "location": "Richland, WA",
       "opened": "2026-09-24",
-      "date_source": "tracker first seen",
+      "date_source": "page text (JobPosting datePosted)",
       "deadline": "2026-10-07",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -20,7 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.pnnl.gov",
   "jobs_spec": null,
-  "evidence": "Opened posting 12171 in browser 2026-09-30: Apply present; Requirements list 'U.S. Citizenship' and 'ability to obtain and maintain a federal security clearance'. Page shows an unlabeled 10/07/2026 4:00PM PST date beside the job fields, likely the closing date.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Read posting 12171 2026-10-01 (directApply, validThrough 2026-10-07): 'Requirements: U.S. Citizenship' and 'requires the ability to obtain and maintain a federal security clearance'. Excluded.",
+  "confidence": "high"
 }

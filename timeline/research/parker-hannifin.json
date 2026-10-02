@@ -1,7 +1,7 @@
 {
   "company": "Parker Hannifin",
   "tier": 11,
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://parkercareers.ttcportals.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Parker board behind Cloudflare challenge this run; prior 2026-09-28 read retained: Browsed live board (316 'software' hits, first 3 pages read): SWE roles are Sr/Engineer III embedded or manager. Borderline: 'Digital & IT Analyst' (Ravenna OH, 2026-09-16, full-stack manufacturing IT) asks 2+ yrs and demonstrated MES/SCADA experience, so treated as mid-level, not new-grad.",
+  "evidence": "Parker board (ttcportals) returns 403 to curl and WebFetch (Cloudflare); no browser in cloud run. Earlier browser read (2026-09-28, 316 'software' hits) found only Sr/Engineer III embedded or manager roles, no new-grad SWE; unverified today.",
   "confidence": "low",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

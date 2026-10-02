@@ -1,8 +1,8 @@
 {
   "company": "Edward Jones",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no first-party dated new-grad SWE posting found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.edwardjones.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "Own careers site (browser) 2026-09-30: 'Students & Recent Grads' filter shows 7 jobs: rotational development, leadership program, internships. None software engineering. HQ SWE roles are Engineer III/IV.",
-  "confidence": "medium"
+  "evidence": "Careers site not readable in cloud run (no browser in cloud run; WebFetch returned truncated page). Web search shows Rotational Development Program and internships only. Prior browser check 2026-09-30: 7 student/recent-grad jobs, none SWE.",
+  "confidence": "low"
 }

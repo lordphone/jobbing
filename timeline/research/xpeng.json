@@ -1,13 +1,12 @@
 {
   "company": "XPENG",
   "tier": 8,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "2027 Campus Recruiting General Intelligence Center Full-Time Position",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680015002",
-      "location": "Santa Clara, CA; SV Office",
+      "location": "Santa Clara, CA",
       "opened": "2026-08-04",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -17,7 +16,7 @@
     {
       "title": "2027 Campus Recruiting Robotics Center Full-Time Position",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680040002",
-      "location": "Santa Clara, CA; SV Office",
+      "location": "Santa Clara, CA",
       "opened": "2026-08-04",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -31,6 +30,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xpengmotors",
   "jobs_spec": "gh:xpengmotors",
-  "evidence": "Greenhouse API lists 2027 Campus Recruiting General Intelligence Center and Robotics Center full-time roles (Santa Clara), AI/ML/SWE; pages load (HTTP 200). No deadline or citizenship text found.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-01: both 2027 Campus Recruiting full-time postings listed, pages HTTP 200. GI Center hires AI/ML, AI infra and Software Engineering; Robotics Center AI/ML and motion control. No deadline or citizenship text.",
+  "confidence": "high",
+  "checked": "2026-10-01"
 }

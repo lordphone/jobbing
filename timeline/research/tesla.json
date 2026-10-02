@@ -1,7 +1,7 @@
 {
   "company": "Tesla",
   "tier": 1,
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Applied Reinforcement Learning Engineer, Whole Body Controls, Optimus",
@@ -10,7 +10,7 @@
       "opened": "on or before 2026-07-06",
       "date_source": "tracker first seen",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -20,7 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.tesla.com/careers/search/?site=US",
   "jobs_spec": null,
-  "evidence": "Reopened posting in browser 2026-09-30: Apply link present; 'We hire at all levels, including recent graduates'. Controls/robotics RL role, not a labeled new-grad program. Tesla careers API (5,303 US listings) shows no new-grad/university SWE titles; only plain untiered SWE roles. No citizenship text.",
+  "evidence": "No browser in cloud run: tesla.com careers and its API return 403 to WebFetch. Prior browser run 2026-09-30 opened this RL role (Apply link, hires recent grads) but it is not a labeled new-grad program; not re-verified.",
   "confidence": "low",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

@@ -1,7 +1,5 @@
 {
   "company": "Two Sigma",
-  "tier": 4,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
@@ -12,7 +10,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "page fetch (WebFetch; apply available)"
     },
     {
       "title": "Software Engineering Full-Time Campus Hire (NYC)",
@@ -22,15 +20,17 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "page fetch (WebFetch; apply available)"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No prior-cycle SWE campus posting in tracker history (only a 2024-09 quant researcher new grad).",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.twosigma.com",
   "jobs_spec": null,
-  "evidence": "Opened both postings in browser 2026-09-30: Experience Level Early Careers, Apply present, students hired into general SWE role, no citizenship language, no deadline.",
-  "confidence": "high"
+  "evidence": "2026-10-01 WebFetch of both postings: Early Careers campus hire, apply link live, bachelor's/master's/PhD, no citizenship or sponsorship text, no deadline.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

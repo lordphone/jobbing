@@ -1,17 +1,26 @@
 {
   "company": "Curtiss-Wright",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
-    {"title": "Graduate Engineer", "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134", "location": "Frederick, MD", "opened": "2026-08-06", "date_source": "tracker first seen (Workday startDate 2026-08-07)", "deadline": null, "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Graduate Engineer",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
+      "location": "Frederick, MD",
+      "opened": "2026-08-07",
+      "date_source": "workday startDate (tracker first seen 2026-08-07)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-12-15",
-  "last_cycle_basis": "tracker first seen: Graduate Engineer, Frederick MD (same Nuclear simulation team)",
+  "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday API, 86 postings. Graduate Engineer (Frederick): 0-2 years, develops/tests software for power-plant training simulators, canApply true; no citizenship or sponsorship line found. Other US software roles senior. Summerville Software Developer (mfg, level unclear) not counted.",
+  "evidence": "Workday API (86, --all): Graduate Engineer, Frederick MD (0-2 yrs; develop/test/debug software and hardware for nuclear simulators) listed live; no citizenship, clearance or sponsorship line found in text. Other US software roles are senior/principal.",
   "confidence": "medium"
 }

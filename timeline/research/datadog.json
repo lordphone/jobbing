@@ -1,15 +1,15 @@
 {
   "company": "Datadog",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2024-09-03",
-  "last_cycle_basis": "tracker history: 'New Grad 2025: Software Engineer' first seen 2024-09-03; no 2025-07..2026-01 new-grad SWE posting tracked",
+  "last_cycle_basis": "tracker history: 'New Grad 2025: Software Engineer' (NYC/Boston) first seen 2024-09-03; no 2025-07..2026-01 new-grad SWE posting tracked",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/datadog",
   "jobs_spec": "gh:datadog",
-  "evidence": "Full gh:datadog board (436, --all) 2026-09-30: only SWE interns (2027 start) and non-entry roles; no new-grad/early-career SWE. Fall posting pattern in 2024 (Sep). Web search found no new-grad 2027 posting.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:datadog full board (442, --all) 2026-10-01: only SWE interns (Boston/NYC Summer, Madrid, Paris) and non-entry roles; no new-grad SWE. 2024 fall pattern (Sep) suggests posting may come soon.",
+  "confidence": "medium"
 }

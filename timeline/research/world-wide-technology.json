@@ -1,15 +1,15 @@
 {
   "company": "World Wide Technology (WWT)",
-  "tier": 10,
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; WWT Associate Academy / ACSE early-career page shows only a waitlist",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no tracker history, no dated early-career SWE posting found",
   "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "Read the ADP MyJobs public requisitions API (664 listings, orgoid from career-site config). US developer/engineer roles all need 3-5+ years (Developer, Engineer - Application Development, Data Engineer, Full Stack) and several bar visa sponsorship or need citizenship/Secret. Only entry items are 2027 internships. No new-grad SWE.",
+  "evidence": "Read ADP MyJobs public requisitions API (677 listings, all titles scanned; 5 developer postings opened). SWE roles need 3-5+ yrs, clearance or no visa sponsorship. Only 2027 internships (Technology & Analytics Intern etc.), which do not count. No entry-level SWE.",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "tier": 10,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

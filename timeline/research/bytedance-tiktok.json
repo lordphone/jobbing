@@ -10,7 +10,7 @@
       "opened": "2026-07-16",
       "date_source": "tracker first seen",
       "grad_window": "2027 Start",
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     }
   ],
@@ -20,7 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://lifeattiktok.com",
   "jobs_spec": null,
-  "evidence": "Reopened posting on lifeattiktok.com 2026-09-30: 'Apply to this job' present, title '2027 Start', rolling review, Seattle; no citizenship/clearance/sponsorship text, no deadline. Tracker lists 172 more TikTok/ByteDance roles.",
+  "evidence": "WebFetch of lifeattiktok.com posting 2026-10-01: renders '2027 Start' title, Seattle, 'Apply to this job' present, rolling review, no citizenship/sponsorship text, no deadline. Tracker lists ~170 more roles. Same as prior.",
   "confidence": "high",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

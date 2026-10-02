@@ -1,7 +1,7 @@
 {
   "company": "Edwards Lifesciences",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.edwards.com/careers/jobsearch",
   "jobs_spec": null,
-  "evidence": "Edwards board in browser: 'software' gives 5 senior/manager/quality roles; 'data' gives analyst/senior roles; 'graduate' gives 2027 Ireland/multi-location engineering programmes. No US entry SWE found.",
-  "confidence": "medium"
+  "evidence": "Cloud run, no browser: WebFetch of jobsearch page shows no listings; search shows only 2027 engineering co-op/internship/Ireland graduate programme. Kept 2026-09-30 browser finding: no US entry SWE. Board not re-read (no browser in cloud run).",
+  "confidence": "low"
 }

@@ -1,27 +1,37 @@
 {
   "company": "Nutanix",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer \u2013 Master's New Grad / Bachelor's + 2\u20133 Years Experience",
+      "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW",
+      "location": "Vancouver, BC, Canada",
+      "opened": "on or before 2026-10-01",
+      "date_source": "page text (no date shown)",
+      "deadline": null,
+      "grad_window": "Master's graduating by Dec 2026; start immediately or by Jan 2027",
+      "live_verified": "api"
+    },
     {
       "title": "Member of Technical Staff 1- Core Data Path",
       "url": "https://jobs.jobvite.com/nutanix/job/oQ6MAfw2",
       "location": "San Jose, CA",
-      "opened": "on or before 2026-09-28",
+      "opened": "on or before 2026-10-01",
       "date_source": "page text (no date shown)",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     },
     {
       "title": "Software Engineer 1 - OS Internals",
       "url": "https://jobs.jobvite.com/nutanix/job/oUpOAfwr",
       "location": "San Jose, CA",
-      "opened": "on or before 2026-09-28",
+      "opened": "on or before 2026-10-01",
       "date_source": "page text (no date shown)",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     }
   ],
@@ -31,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.jobvite.com/nutanix/search?c=Engineering",
   "jobs_spec": null,
-  "evidence": "Jobvite Engineering list plus both posting pages (WebFetch): MTS 1 Core Data Path and SWE 1 OS Internals, San Jose, Apply present, BS/MS, no visa sponsorship. Deadline is '40 days from posting' with no posting date, so null. Not labeled new grad.",
+  "evidence": "Jobvite pages re-fetched via WebFetch 2026-10-01: Vancouver Master's New Grad SWE (Dec 2026 grad), San Jose MTS 1 and SWE 1 all show Apply. US roles say no visa sponsorship. Deadline '40 days from posting', no date, so null.",
   "confidence": "medium"
 }

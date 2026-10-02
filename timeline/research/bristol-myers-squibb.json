@@ -1,8 +1,8 @@
 {
   "company": "Bristol Myers Squibb",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Technology Rotational Development Program Associate",
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms",
   "jobs_spec": "wd:bristolmyerssquibb/wd5/bms",
-  "evidence": "Previous file said not_yet; changed to closed: Technology Rotational Development Program Associate first seen 2026-08-30 (after Jul 1) is absent from the live board. Live now: Engineer, Analytical AI (2+ yrs), Software Engineer AI Enablement Seattle (2+ yrs), lab IT associate (not SWE).",
-  "confidence": "medium"
+  "evidence": "Technology Rotational Development Program Associate (first seen 2026-08-30) is absent from Workday list and searches, likely closed, but posting page unreadable (CXS 403 vs 404 for bogus id; no browser in cloud run). Live US: lab IT Associate Engineer (not SWE), 2027 MBA/interns. Prior file said closed.",
+  "confidence": "low"
 }

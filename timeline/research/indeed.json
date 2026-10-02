@@ -1,18 +1,18 @@
 {
   "company": "Indeed",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer I",
       "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=177a2f345faeafd5&q=software%20engineer",
       "location": "Austin, TX",
       "opened": "on or before 2026-09-30",
-      "date_source": "page text (no posted date shown)",
+      "date_source": "page text (earlier run, not re-verified)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
   "jobs_spec": null,
-  "evidence": "gh:indeed is empty; real board is Indeed's own company jobs page (browser). Software Engineer I, Austin TX, bachelor's CS required, AWS/Java/Kotlin/React, no years, no sponsorship text, no class year (rolling). Prior run said no_program from empty gh board. No posted date or deadline shown.",
-  "confidence": "medium"
+  "evidence": "No API (gh:indeed empty); company jobs page returned 403 to WebFetch, no browser in cloud run. Earlier run (2026-09-30, browser) saw Software Engineer I, Austin TX, rolling; not re-verified now. One web search found nothing new.",
+  "confidence": "low"
 }

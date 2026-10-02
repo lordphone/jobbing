@@ -1,8 +1,7 @@
 {
   "company": "Contextual AI",
   "tier": 2,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no history found",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "evidence": "contextual.ai/careers 'Open roles' section shows no listings and no ATS link (browser+fetch); no Greenhouse/Lever/Ashby slug found. Third-party listing shows only mid/senior ML Engineer. Board unreadable, low confidence.",
-  "confidence": "low"
+  "evidence": "WebFetch of contextual.ai/careers shows no listings and no ATS link; no Greenhouse/Lever/Ashby board found. Page may render jobs via JavaScript; no browser in cloud run, so board unread. Earlier browser check also saw none.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

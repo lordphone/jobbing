@@ -1,8 +1,8 @@
 {
   "company": "Noom",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "closed",
   "postings": [
     {
       "title": "Agentic Engineer (New Grad)",
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (earlier reposts); greenhouse first_published 2026-09-18",
       "deadline": null,
       "grad_window": "Bachelor's degree or expected within 6 months",
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-06-30",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.noom.com/careers/job-listings/",
   "jobs_spec": "gh:noomgrowth",
-  "evidence": "Greenhouse API (noomgrowth) lists live 'Agentic Engineer (New Grad)', Princeton NJ, first_published 2026-09-18; bachelor's CS/SWE or expected within 6 months; no sponsorship/citizenship lines; no deadline. Page fetch 403 and pane didn't render. Earlier reposts from 2026-08-18.",
+  "evidence": "Greenhouse board (noomgrowth, 10) now lists only a Staff SWE; all three 'Agentic Engineer New Grad' postings (first seen 2026-08-18, 08-27, 09-18) return 404 from the Greenhouse API. Earlier file said open; now gone. Page itself 403 (no browser).",
   "confidence": "medium"
 }

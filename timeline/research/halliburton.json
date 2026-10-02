@@ -1,7 +1,7 @@
 {
   "company": "Halliburton",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "on or before 2026-05-19",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.halliburton.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-09-30, all 60 results for 'software engineer' in US: US software roles are senior/principal Landmark; Associate Software Engineer only in Abingdon UK; 'Intern & Entry Level Graduates' postings are AZ/AE (non-US). Nothing live for US 2027.",
+  "evidence": "WebFetch jobs.halliburton.com 'software engineer' 2026-10-01 (page 1 of 61): US software roles are Senior/Principal Landmark; Associate Software Engineer only Abingdon UK. 2026-09-30 browser check found no US 2027 entry roles. No browser in cloud run.",
   "confidence": "medium"
 }

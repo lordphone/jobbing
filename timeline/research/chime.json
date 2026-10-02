@@ -1,15 +1,15 @@
 {
   "company": "Chime",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "Tracker: 'Product Security Engineer - New Grad' (SF) first seen 2025-08-15; no SWE-titled new-grad seen last cycle. 2024 cycle had SWE new-grad from 2024-08-08.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chime",
   "jobs_spec": "gh:chime",
-  "evidence": "gh:chime board (64, --all) checked 2026-09-30: no new-grad titles. SWE postings generic; Growth one asks 2+ yrs. No new-grad track live yet.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:chime (63, --all) 2026-10-01: no new-grad titles; SWE postings generic. No new-grad track live yet.",
+  "confidence": "high"
 }

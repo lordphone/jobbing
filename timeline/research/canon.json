@@ -1,7 +1,7 @@
 {
   "company": "Canon (Canon U.S.A.)",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://external-canoncareers.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS keyword searches ('software engineer', 'developer', 'engineer') return only semiconductor field service, one trainer role and a tech support engineer; prior full read of 232 US postings found no software titles. No tracker history.",
+  "evidence": "iCIMS searches via WebFetch (software, engineer) 2026-10-01 return only semiconductor field service and a tech support role; earlier full read found no software titles. iCIMS needs a browser (none in cloud run), so medium.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "HSBC",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
   "jobs_spec": null,
-  "evidence": "Loaded all 72 results on find-a-programme in browser 2026-09-30: only US entry is Markets Sales and Trading Graduate (New York, closes 2026-10-04), not SWE. No US technology graduate programme. HSBC US hiring of SWE new grads not evident.",
+  "evidence": "Prior browser pass loaded all results: only US entry Markets Sales & Trading grad (not SWE). WebFetch 2026-10-01 first 20 of 114 results agrees (US: Global Payments Solutions grad, NY). No US technology graduate programme seen.",
   "confidence": "medium"
 }

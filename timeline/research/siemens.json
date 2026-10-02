@@ -1,7 +1,7 @@
 {
   "company": "Siemens",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519744",
       "location": "Homestead, PA (rotations Pittsburgh PA, Lexington NC, New York NY)",
       "opened": "2026-08-25",
-      "date_source": "page text (Posted since)",
+      "date_source": "page text (Posted since 25-Aug-2026)",
       "grad_window": "bachelor's graduating May 2026 - May 2027; starts June/July 2027",
-      "live_verified": "api",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Fetched MDP 519744 page 2026-09-30 (still listed, posted since 25-Aug-2026; no end date, only 'minimum of five days'); 2-yr rail engineering rotation open to CS/SWE majors, borderline SWE. 'without need for current or future employer-sponsored work authorization'. Other US SWE reqs are mid-level or 3+ yrs.",
-  "confidence": "medium"
+  "evidence": "No browser in cloud run: curl of MDP 519744 page 2026-10-01 still serves full posting (Early Professional, posted since 25-Aug-2026, grads May 2026-May 2027, no sponsorship); Apply button not confirmable. Rail-engineering rotation, borderline SWE. Other US SWE reqs mid-level/3+ yrs.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "The Trade Desk",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2026-04-10",
   "last_cycle_basis": "tracker history: 'Software Engineer 1' Irvine first seen 2026-04-10; 2024 cycle 'New Grad 2025: Software Engineer' 2024-08-14; no 2025-07..2026-01 posting",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/thetradedesk",
   "jobs_spec": "gh:thetradedesk",
-  "evidence": "Full gh:thetradedesk board (94, --all) 2026-09-30: only SWE II and Sr roles; no SWE I. Tracker's 'Software Engineer 1' Bellevue (2026-07-27) no longer on board, so closed.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:thetradedesk full board (93, --all) 2026-10-01: only SWE II and senior roles; no SWE I. Tracker's 'Software Engineer 1' Bellevue (2026-07-27, 5196864007) redirects to board with error=true, so closed. Postings are ad hoc, not a fall cycle.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Globant",
-  "tier": 10,
-  "status": "no_program_found",
-  "postings": [],
+  "status": "unknown",
   "last_cycle_opened": null,
-  "last_cycle_basis": "Not found in tracker history.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; entry engineering hiring is mainly Latin America/India",
   "jobs_page": "https://career.globant.com/?country=US",
   "jobs_spec": null,
-  "evidence": "Opened career.globant.com filtered to US and expanded the full list (~15 roles): IT Project Manager, Solution/Enterprise Architect, Integration/IAM Leads, VPs, Business Systems Analysts, plus AI QA Engineer, C# Full Stack Developer and Machine Learning (AI/ML Engineer, prototyping LLMs; not labeled entry). No junior or new-grad SWE title.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "career.globant.com is client-rendered; WebFetch and curl show no listings, no guessable API (no browser in cloud run). Prior 2026-09-30 browser read of ~15 US roles: no junior/new-grad SWE title (full-stack C#, AI/ML not entry-labeled). Retry in browser.",
+  "confidence": "low",
+  "tier": 10,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

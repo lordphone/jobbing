@@ -1,15 +1,26 @@
 {
   "company": "ESPN",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Product Software Engineer I",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
+      "location": "New York, NY; Seattle, WA; San Francisco, CA",
+      "opened": "2026-08-17",
+      "date_source": "page text (Date Posted; Workday postedOn shows repost 2026-09-30)",
+      "deadline": "2026-10-05",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "Tracker: Disney 'Software Engineer I' postings first seen 2025-08-15 (per previous research pass)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "wd:disney (110): US software roles are SWE II, Sr, Lead, Manager; no Software Engineer I live. Last cycle Disney SWE I first seen 2025-08-15 (tracker).",
-  "confidence": "high"
+  "evidence": "Workday cxs API: Product Software Engineer I (Disney Entertainment & ESPN Technology, streaming frontend incl. ESPN+), canApply true, endDate 2026-10-05, prefers 1-2 yrs. Not ESPN-branded; org-wide. Replaces prior not_yet.",
+  "confidence": "medium"
 }

@@ -1,8 +1,7 @@
 {
   "company": "Amtrak",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.amtrak.com/search-jobs?k=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Own board newest 25 of 134 postings read 2026-09-30 (keyword filter ignored): Principal Software Engineer (Java) plus Fall/Spring 2027 Software Engineering and IT interns. Students page lists internships and co-ops only. No new-grad SWE track.",
-  "confidence": "medium"
+  "evidence": "No browser in cloud run: board ignores keyword and page params; only newest 25 of ~134 postings readable by fetch (Principal Software Engineer Java, Fall/Spring 2027 SWE and IT interns, no entry SWE). Prior run (browser) found no new-grad track; could not confirm fully.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

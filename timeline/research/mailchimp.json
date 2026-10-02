@@ -1,15 +1,26 @@
 {
   "company": "Mailchimp",
   "tier": 6,
-  "checked": "2026-09-30",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+      "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
+      "opened": "unknown (evergreen general posting)",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "tracker first seen: Intuit Software Engineer 1 (Mountain View), https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/85076586336 (Intuit-wide, not Mailchimp-specific)",
+  "last_cycle_basis": "tracker first seen: Intuit Software Engineer 1 (Mountain View) 2025-08-15, Intuit-wide.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "Mailchimp posts on Intuit's board; Intuit search listed 2 Mailchimp-tagged jobs (Manager/Principal level earlier) and a company-wide Software Engineer 1 (not opened, not Mailchimp-specific). No Mailchimp entry-level posting verified.",
+  "evidence": "Mailchimp posts on Intuit's board. WebFetch: Mailchimp-tagged search shows only senior roles; Intuit 'Software Engineer 1' (New College Grad, <2 yrs, evergreen, Apply button) live in 5 US cities. Company-wide, not Mailchimp-tagged.",
   "confidence": "medium"
 }

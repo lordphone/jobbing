@@ -1,8 +1,8 @@
 {
   "company": "American Airlines",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "company page destinationaa.com/campus says ADEPT/internship 'Applications open in September'; no dated posting found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "jobs.aa.com (browser): 109 US results, keyword filter ignored; pages sampled show no ADEPT/entry SWE. Earlier Associate Developer, IT Applications reqs 86863/87507 return 'not available'. Company says ADEPT opens in September; nothing live.",
+  "evidence": "No browser in cloud run: jobs.aa.com returns 403 to WebFetch. destinationaa.com/campus says IT ADEPT (Phoenix AZ, Fort Worth TX) applications open in September, rolling. 2026-09-30 browser check saw no ADEPT/entry SWE; not re-verifiable here.",
   "confidence": "low"
 }

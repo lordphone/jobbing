@@ -17,10 +17,10 @@
   "last_cycle_basis": "unknown; no tracker history",
   "jobs_page": "https://careers.mitre.org/us/en",
   "jobs_spec": "wd:mitre/wd5/MITRE",
-  "evidence": "Workday CXS posting R117614 opened directly: posted true, canApply true, early-career 0-2 yrs, clearance 'None', no citizenship line, no deadline. Board listing endpoint returned 0 this run (could not enumerate). Sibling Associate Embedded SWE (R115627, SECRET) noted last run, not re-verified.",
+  "evidence": "Workday board listing returns 0 (can't enumerate; careers.mitre.org page JS-only, no browser in cloud run). Reopened R117614 via jobs.py detail: still posted, startDate 2026-09-24, early-career, clearance None, no citizenship line. Status kept open.",
   "confidence": "medium",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "no_sponsorship": false,
   "excluded_reason": null
 }

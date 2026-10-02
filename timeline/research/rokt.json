@@ -1,15 +1,15 @@
 {
   "company": "Rokt",
   "tier": 3,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2026-04-16",
-  "last_cycle_basis": "Tracker first-seen date for Junior Software Engineer (NYC) on Rokt Workable board (apply.workable.com/rokt/j/783A754DDB), first seen 2026-04-16, now closed; off-cycle spring hiring",
+  "last_cycle_basis": "Tracker first-seen for Junior Software Engineer (NYC) on Rokt Workable (apply.workable.com/rokt/j/783A754DDB), 2026-04-16, closed; off-cycle spring hiring",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/rokt/",
   "jobs_spec": null,
-  "evidence": "Rokt Workable widget API (15 postings) checked 2026-09-30: none are engineering (sales, customer success, ops). Last-cycle Junior Software Engineer (NYC, 2026-04-16) is gone. No live entry SWE role.",
-  "confidence": "medium"
+  "evidence": "Workable board unreadable in cloud run (no browser in cloud run; Workable API returned 429/non-JSON, WebFetch returned no listings). Earlier pass saw 15 non-engineering postings; Junior SWE (NYC, 2026-04-16) gone. Retry in browser.",
+  "confidence": "low"
 }

@@ -1,7 +1,7 @@
 {
   "company": "H-E-B",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.heb.com/digital",
   "jobs_spec": null,
-  "evidence": "Jibe API (careers.heb.com/api/jobs) 2026-09-30: only Senior/Staff/Manager SWE roles. Tracker 'Software Engineer 1 - Multiple Teams' (req 231773, San Antonio, first seen 2026-08-21) now returns 404.",
+  "evidence": "Jibe API 2026-10-01 (13 results): only Senior/Staff/Manager SWE. Tracker 'Software Engineer 1 - Multiple Teams' (231773, first seen 2026-08-21) page returns 404 now, so closed.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Markon",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Jr. Software Engineer",
@@ -22,7 +22,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-10",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-markon.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS board read in browser: Junior/Jr. SWE postings say 'An Active TS/SCI with a FS Polygraph is required to be considered' / 'Active TS/SCI with Polygraph required'. Software Engineer 1 needs 7+ years.",
+  "evidence": "iCIMS board re-read via fetch 2026-10-01: Junior SWE postings (8694, 8637) say 'An Active TS/SCI with a FS Polygraph is required to be considered' / 'Active TS/SCI with Polygraph required'. SWE 1 needs 7+ years.",
   "confidence": "high"
 }

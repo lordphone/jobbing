@@ -1,27 +1,27 @@
 {
   "company": "Citizens (Citizens Financial Group)",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer | Enterprise Technology & Security Development Program",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
-      "location": "Plano TX / Johnston RI / Phoenix AZ",
+      "location": "United States (no city listed)",
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027",
-      "live_verified": "browser"
+      "grad_window": "Spring 2027 graduation",
+      "live_verified": "api"
     },
     {
       "title": "Data Engineer | Enterprise Technology & Security Development Program",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
-      "location": "Plano TX / Johnston RI / Phoenix AZ",
+      "location": "United States (no city listed)",
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027",
+      "grad_window": "Spring 2027 graduation",
       "live_verified": "api"
     }
   ],
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Opened both ETS Development Program postings (Software Engineer, Data Engineer) in browser/Oracle API: live, Spring 2027 grad, start 2027-06-28. Not in search list; permanent work authorization required, no sponsorship. No deadline stated.",
-  "confidence": "high"
+  "evidence": "Both ETS Development Program requisitions return full detail from the Oracle API (ApplyWhenNotPostedFlag true) but are absent from the 16-job search list: unlisted, apply by direct link. Spring 2027 grad; permanent work authorization required, no sponsorship. Apply button not seen (no browser).",
+  "confidence": "medium"
 }

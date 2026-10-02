@@ -1,7 +1,6 @@
 {
   "company": "Morningstar",
   "tier": 5,
-  "checked": "2026-09-30",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-01",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://morningstar.wd5.myworkdayjobs.com/Americas",
   "jobs_spec": "wd:morningstar/wd5/Americas",
-  "evidence": "Workday API --all, 11 postings: all SWE roles Senior/Lead/Principal. Development Program (Chicago) and Associate SWE roles seen in tracker are gone. Has entry track, nothing live now.",
-  "confidence": "high"
+  "evidence": "Workday API --all, 11 postings: SWE roles are Senior/Lead/Principal only. Tracker's Associate SWE and Development Program postings are gone. Has entry track, nothing live now.",
+  "confidence": "high",
+  "checked": "2026-10-01"
 }

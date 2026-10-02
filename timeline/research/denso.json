@@ -1,26 +1,15 @@
 {
   "company": "DENSO",
   "tier": 8,
-  "checked": "2026-09-30",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Developer 1",
-      "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25340",
-      "location": "Maryville, TN",
-      "opened": "2026-09-16",
-      "date_source": "oracle ExternalPostedStartDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-01",
+  "status": "unknown",
+  "postings": [],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker first seen 2025-09-25: Data Scientist 1, Southfield MI; earlier Software Developer 1 Battle Creek 2026-07-13 now closed",
+  "last_cycle_basis": "tracker first seen 2025-09-25: Data Scientist 1, Southfield MI; Software Developer 1 Battle Creek 2026-07-13 (https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
   "jobs_spec": "oracle:hcwt.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle API (60 postings): Software Developer 1 (Maryville TN, IoT apps, C#/.NET/Angular) live, posted 2026-09-16, level 1 but wants strong experience; not labeled new grad. No end date or citizenship text.",
-  "confidence": "medium"
+  "evidence": "Oracle board (61 postings) no longer lists Software Developer 1 Maryville (job 25340, posted 2026-09-16); requisition-detail API returns empty. Could not open page (no browser in cloud run), so not confirmed closed. No other entry SWE listed.",
+  "confidence": "low"
 }

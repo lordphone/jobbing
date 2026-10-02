@@ -1,25 +1,26 @@
 {
   "company": "MuleSoft",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineering AMTS (College Grad)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
-      "location": "California - San Francisco; California - Palo Alto; Washington - Seattle; Indiana - Indianapolis; Washington - Bellevue; Texas - Dallas",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; Indianapolis, IN; Bellevue, WA; Dallas, TX",
+      "opened": "2026-08-06",
+      "date_source": "tracker first seen (Workday postedOn 'Posted 7 Days Ago' is a repost)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-12",
-  "last_cycle_basis": "tracker first seen: Salesforce Software Engineering AMTS - New Grad, 2025-08-12 (earlier 2025-05-09 listing)",
+  "last_cycle_basis": "Salesforce Software Engineering AMTS - New Grad, tracker first seen 2025-08-12 (jobs.py history salesforce)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "MuleSoft hires under Salesforce. Workday API (checked 2026-09-30) lists Software Engineering AMTS (College Grad), 6 US locations, canApply true, posted ~2026-09-24; Salesforce-wide, not MuleSoft-tagged. No deadline stated.",
-  "confidence": "high"
+  "evidence": "MuleSoft hires under Salesforce. Workday API lists Software Engineering AMTS (College Grad) JR355250, 6 US locations, read via detail; no eligibility or deadline lines. Salesforce-wide, not MuleSoft-tagged.",
+  "confidence": "medium"
 }

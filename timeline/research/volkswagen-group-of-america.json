@@ -1,15 +1,15 @@
 {
   "company": "Volkswagen Group of America",
   "status": "no_program_found",
-  "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; no entry-level SWE track observed",
   "jobs_page": "https://careers.vw.com/viewalljobs/",
-  "jobs_spec": null,
-  "evidence": "WebFetch: careers.vw.com shows 6 jobs (none SWE); parent jobs.volkswagen-group.com US 'software' = 9 roles, all senior/director/contract; 'graduate' US = 0 results. No entry-level or new-grad SWE.",
+  "evidence": "Parent jobs.volkswagen-group.com US searches (software, new grad, early career, entry level, associate developer): only senior/director/contract SWE (Belmont, San Jose). careers.vw.com lists 6 jobs, none SWE (rows not rendered, no browser).",
   "confidence": "medium",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "postings": [],
   "no_sponsorship": false,
-  "excluded_reason": null
+  "excluded_reason": null,
+  "jobs_spec": null,
+  "last_cycle_opened": null
 }

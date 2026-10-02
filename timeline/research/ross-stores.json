@@ -1,7 +1,7 @@
 {
   "company": "Ross Stores",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-07-20",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.rossstores.com/",
   "jobs_spec": null,
-  "evidence": "Dublin CA 'Engineer 1' (tracker first seen 2026-07-20) requisition is 404 on jobs.rossstores.com; search shows only Engineer II/III. Board is JS-rendered and keyword filters do not apply, so a replacement posting cannot be fully ruled out.",
+  "evidence": "Cloud run, no browser: jobs.rossstores.com home fetch shows no engineering listings (JS board unreadable). Kept 2026-09-30 browser finding: Dublin Engineer 1 req 404; only Engineer II/III. Replacement posting not ruled out.",
   "confidence": "low"
 }

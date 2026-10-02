@@ -1,15 +1,15 @@
 {
   "company": "Galaxy Digital",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no tracker lead or last-cycle SWE posting on Greenhouse",
+  "last_cycle_basis": "unknown - no tracker lead or last-cycle SWE posting on Greenhouse; history regex finds none",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/galaxydigitalservices",
   "jobs_spec": "gh:galaxydigitalservices",
-  "evidence": "Greenhouse board, all 38 postings listed (--all). No entry-level US SWE/backend/ML role; engineer titles are VP/Senior, Hong Kong, London or India; NY 'Assoc, AI & IT Operations Engineer' is IT ops.",
+  "evidence": "Greenhouse API (37 postings): only engineer titles are Associate Production Support Engineer (Hong Kong) and VP Software Engineer (London). No entry-level US/Toronto SWE this cycle or last.",
   "confidence": "high"
 }

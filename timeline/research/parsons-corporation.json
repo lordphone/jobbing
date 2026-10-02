@@ -1,6 +1,7 @@
 {
   "company": "Parsons Corporation",
   "tier": 8,
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -9,9 +10,9 @@
       "location": "Centreville, VA",
       "opened": "on or before 2026-07-01",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-03",
@@ -20,7 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://parsons.wd5.myworkdayjobs.com/search",
   "jobs_spec": "wd:parsons/wd5/search",
-  "evidence": "Workday API, 160 postings. Entry SWE roles (Software Engineer TS, Junior Software Developer Herndon, Associate Vulnerability Researcher Melbourne, Colorado Springs SWE) all need TS/SCI or 'Must be a US Citizen due to DoD contract'. No stated deadline.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Workday API, 160 postings, details read. Entry SWE: Software Engineer TS 'Active Top Secret ... requires US citizenship'; Junior SWE Herndon 'TS/SCI is required'; Colorado Springs SWE 'Must be a US Citizen due to DoD contract'. No deadline stated.",
+  "confidence": "high"
 }

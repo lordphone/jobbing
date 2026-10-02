@@ -1,15 +1,26 @@
 {
   "company": "Comcast",
-  "tier": 11,
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Entry Level Software Engineer- Englewood, CO- ONSITE 4 Days per Week- FreeWheel",
+      "url": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Entry-Level-Software-Engineer--Englewood--CO--ONSITE-4-Days-per-Week--FreeWheel_R445138",
+      "location": "Englewood, CO",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-21",
   "last_cycle_basis": "tracker history: Front End Software Engineer 1 (Chicago/Reston) first seen 2025-08-21",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers",
   "jobs_spec": "wd:comcast/wd115/Comcast_Careers",
-  "evidence": "Workday API (wd115) searches for Engineer 1, Software Engineer 1, Data Engineer 1, entry level, graduate, associate engineer: live US engineering roles are level 2+ (Data Engineer 2, Software Engineer 3); Engineer 1/2 are Chennai. Tracker showed Software Engineer 1 postings 2026-05 to 2026-08, no longer live.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "Workday API: Entry Level Software Engineer (FreeWheel, Englewood CO) posted 2026-10-01, canApply true, 0-2 years, bachelor's. Earlier file said closed; this is a new posting. Other US engineer roles are level 2+.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-10-01"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Visa",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://visa.wd5.myworkdayjobs.com/Visa",
   "jobs_spec": "wd:visa/wd5/Visa",
-  "evidence": "Workday cxs search 'new college grad' returns 0, '2027' returns only PhD interns and a finance role. Tracker's 2027 SWE New College Grad postings (Austin/Bellevue/Foster City, first seen 2026-09-16) are gone; prior check saw Austin page 404. Board (--all) has only experienced US SWE.",
+  "evidence": "Workday cxs search 2026-10-01: 'new college grad' returns 0, '2027' only PhD interns and a finance role. Tracker's 2027 SWE New College Grad postings (Austin/Bellevue/Foster City, first seen 2026-09-16/17) are gone; earlier check saw Austin page 404. Only experienced US SWE on board.",
   "confidence": "high"
 }

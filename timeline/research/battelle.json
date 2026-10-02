@@ -1,7 +1,7 @@
 {
   "company": "Battelle",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.battelle.org/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom site search API (117 results, browser pane unavailable): Entry Level Embedded SWE (Columbus, created 2026-08-26) page reads 'Must be a sole U.S. citizen and able to obtain and maintain a government TS/SCI security clearance'. Co-op only otherwise.",
+  "evidence": "Phenom search API (94 hits for 'software') and posting page (curl, no browser in cloud run): Entry Level Embedded SWE (Columbus, 2026-08-26) live; page: 'citizenship and eligibility for a TS/SCI security clearance are required'. Other software roles mid-level or co-op.",
   "confidence": "medium"
 }

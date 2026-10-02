@@ -1,8 +1,8 @@
 {
   "company": "MoneyGram",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dayforcehcm.com/moneygram/candidateportal",
   "jobs_spec": null,
-  "evidence": "Browser on Dayforce board (own tab), keyword 'engineer' plus full list (~24): US roles are Sr/Director, security architect, audit; engineering roles are Senior Full Stack (Germany), Senior Software Engineer: Backend, Solutions Engineer. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Dayforce board renders only in a browser; WebFetch returned an empty shell, no browser in cloud run. Prior browser check 2026-09-30 (~24 jobs) found only Sr/Director US roles, no entry-level SWE. Not re-verified today.",
+  "confidence": "low"
 }

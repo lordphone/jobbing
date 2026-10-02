@@ -1,8 +1,8 @@
 {
   "company": "USA TODAY Co. (formerly Gannett)",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dayforcehcm.com/en-US/gannett/CANDIDATEPORTAL",
   "jobs_spec": null,
-  "evidence": "Browser: Dayforce board (~25 newest postings loaded; keyword filter ignored): tech roles only Sr. Database Engineer (3+ yrs, LOCALiQ, 2026-09-29) and Data Science Manager; rest sales, press, editorial. No entry-level SWE. Gannett Fleming tracker hits are an unrelated firm.",
-  "confidence": "medium"
+  "evidence": "Dayforce API returns Forbidden. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "confidence": "low"
 }

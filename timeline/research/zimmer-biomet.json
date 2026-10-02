@@ -1,7 +1,7 @@
 {
   "company": "Zimmer Biomet",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.zimmerbiomet.com",
   "jobs_spec": null,
-  "evidence": "Browser pane on Phenom board, keyword 'software' (2026-09-30): 71 results, visible titles all Senior/Principal (mostly Europe); early-careers page has no SWE new-grad track. No entry-level SWE found.",
-  "confidence": "medium"
+  "evidence": "Cloud run, no browser: Phenom board not readable via WebFetch/search (no listings). Kept 2026-09-30 browser finding: software results all Senior/Principal, no SWE new-grad track. Not re-verified (no browser in cloud run).",
+  "confidence": "low"
 }

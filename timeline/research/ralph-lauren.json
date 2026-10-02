@@ -1,8 +1,8 @@
 {
   "company": "Ralph Lauren",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate",
   "jobs_spec": null,
-  "evidence": "Browser keyword searches on careers.ralphlauren.com (engineer 45, software 23, developer 11, graduate 3 results): IT roles seen are Senior/Bangalore-based; 'graduate' hits are non-tech. No US entry-level SWE seen; not every page of results was read.",
-  "confidence": "medium"
+  "evidence": "Custom careers site, JS-rendered. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "confidence": "low"
 }

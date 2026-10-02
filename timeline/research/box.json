@@ -1,15 +1,15 @@
 {
   "company": "Box",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker search returned no Box Inc postings; no prior-cycle new-grad SWE found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/boxinc",
   "jobs_spec": "gh:boxinc",
-  "evidence": "gh:boxinc board (122, --all) checked 2026-09-30: no entry-level/new-grad SWE; only Associate Technical Support (Tokyo) and experienced engineers. No program found this or last cycle.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:boxinc (121, --all) 2026-10-01: no entry-level/new-grad SWE; only experienced engineers and support roles. No program found this or last cycle.",
+  "confidence": "high"
 }

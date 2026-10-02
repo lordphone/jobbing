@@ -1,10 +1,29 @@
 {
   "company": "Honeywell Technologies",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
-    {"title": "Future IT Leaders - Recent Grad/Full Time", "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157980", "location": "United States", "opened": "2026-09-18", "date_source": "oracle posted date", "deadline": "2027-05-01", "grad_window": "Graduated Dec 2026 - May 2027", "live_verified": "api"}
+    {
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157925",
+      "location": "Duluth, GA",
+      "opened": "2026-09-23",
+      "date_source": "page text 'Posting Date: 9/23/2026'; oracle board posted 2026-10-01 (repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Future IT Leaders - Recent Grad/Full Time",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157980",
+      "location": "Atlanta, GA; Charlotte, NC",
+      "opened": "2026-09-18",
+      "date_source": "oracle posted date",
+      "deadline": "2027-05-01",
+      "grad_window": "Dec 2026 \u2013 May 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-26",
   "last_cycle_basis": "tracker first-seen: Software Engineer I (Clearwater FL; Fort Mill SC) and IT/Cyber/DS recent-grad postings, 2025-09-26",
@@ -12,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs",
   "jobs_spec": "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell",
-  "evidence": "Oracle board (193, --all): Future IT Leaders recent-grad rotational IT program live (no sponsorship; end date 2027-05-01 from API; not strictly SWE). Earlier Duluth Software Engineer I (157925/157648) no longer on board. US Person variant 156756 excluded.",
+  "evidence": "Oracle board (193, --all) read 2026-10-01: Software Engineer I Duluth GA (C#/.NET, 1+ yr, early-career) live; Future IT Leaders recent-grad program live, no sponsorship, ends 2027-05-01. 157648 gone. No browser in cloud run; live via API only.",
   "confidence": "medium"
 }

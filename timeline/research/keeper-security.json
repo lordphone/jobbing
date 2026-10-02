@@ -1,15 +1,15 @@
 {
   "company": "Keeper Security",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found for keeper",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/keepersecurity",
   "jobs_spec": "gh:keepersecurity",
-  "evidence": "Greenhouse board (84 postings, --all): engineering roles all Senior/Staff/Architect; interns are non-SWE (communications, localization). No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse API, 88 postings (--all): US SWE roles are SDET (test, not counted) and senior; interns are non-SWE (communications, localization). No entry-level SWE.",
+  "confidence": "medium"
 }

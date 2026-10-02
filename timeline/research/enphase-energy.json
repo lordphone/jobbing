@@ -1,15 +1,15 @@
 {
   "company": "Enphase Energy",
   "tier": 7,
-  "status": "no_program_found",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "jobs_page": "https://enphase.com/careers",
   "jobs_spec": null,
-  "evidence": "enphase.com/api/v2/jobs (87 postings, all 13 pages read): US roles are staff/senior/principal firmware, hardware, sales, field service; Fremont 'Engineer - Processor Verification and Compiler Validation' is hardware verification. No entry SWE. Was not_yet; no program evident.",
-  "confidence": "medium",
-  "checked": "2026-09-30",
+  "evidence": "no browser in cloud run. enphase.com/api/v2/jobs returns 403 today. Earlier read 2026-09-30 (87 postings): US roles staff/senior/principal, no entry SWE. Careers page mentions Emerging Talent program. Not re-verified.",
+  "confidence": "low",
+  "checked": "2026-10-01",
   "excluded_reason": null,
   "no_sponsorship": false
 }

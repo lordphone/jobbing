@@ -1,7 +1,7 @@
 {
   "company": "SAP",
   "tier": 6,
-  "status": "not_yet",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2024-09-13",
   "last_cycle_basis": "tracker first seen 'New Grad: Software Engineer' Palo Alto (jobs.sap.com); 2 cycles ago, no 2025-26 SWE grad posting found",
@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
   "jobs_spec": null,
-  "evidence": "Browser, careers.sap.com US: Software-Design filter (43) is Senior/Principal/data-science; 'graduate' search (39) is Academy for Customer Success (CSM/Solution Advisor), iXp interns and STAR student program (Spring/Summer 2027, not new grad). No SWE grad posting.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run: jobs.sap.com search is behind Cloudflare; new-site sitemap (39 jobs) has no US grad SWE. Prior browser check 2026-09-30 found no SWE grad posting (SAP Next Talent/Academy not seen). Retry in browser.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

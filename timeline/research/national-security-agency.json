@@ -1,15 +1,15 @@
 {
   "company": "National Security Agency (NSA)",
-  "tier": 8,
-  "checked": "2026-09-30",
   "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown",
   "jobs_page": "https://www.intelligencecareers.gov/nsa/development-program",
+  "evidence": "Computer Scientist Development Program exists (apply.intelligencecareers.gov). NSA application-process page: \"you must meet our basic eligibility criteria: U.S. citizenship\"; TS/SCI clearance and polygraph required. Excluded.",
+  "confidence": "high",
+  "tier": 8,
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
   "jobs_spec": null,
-  "evidence": "Computer Scientist Development Program exists; postings at apply.intelligencecareers.gov. NSA careers FAQ: U.S. citizenship required, applicants must be eligible for a TS/SCI clearance plus full-scope polygraph (seen via search summary). Excluded.",
-  "confidence": "high"
+  "last_cycle_opened": null
 }

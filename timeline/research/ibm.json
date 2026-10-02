@@ -1,7 +1,7 @@
 {
   "company": "IBM",
   "tier": 1,
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Entry Level Software Developer 2027",
@@ -11,7 +11,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Entry Level Cloud Developer - Chicago, IL - 2027",
@@ -21,7 +21,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Entry level Backend Developer - San Jose, CA - 2027",
@@ -31,7 +31,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Entry Level Back End Developer - Poughkeepsie, NY - 2027",
@@ -41,7 +41,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Entry-Level Software Developer 2027 - Lowell",
@@ -51,7 +51,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "Entry Level Software Developer 2027 - Durham",
@@ -61,7 +61,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-09-02",
@@ -70,7 +70,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.ibm.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-09-30: careers.ibm.com lists six US 2027 entry-level software/cloud/backend roles; each page shows Apply now and a posted date. 129784 says 'will not be providing visa sponsorship' (other pages lack that line); 21-day posting note has lapsed, no fixed deadline.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run: careers.ibm.com posting pages return empty to WebFetch, no API. Prior browser run 2026-09-30 found six US 2027 entry-level roles live with Apply now; not re-verified today, likely still open.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

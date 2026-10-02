@@ -1,13 +1,11 @@
 {
   "company": "Truveta",
-  "tier": 3,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - Analytical Platform Services",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004",
-      "location": "Seattle, WA; Truveta Main",
+      "location": "Seattle, WA",
       "opened": "2026-09-15",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -16,11 +14,13 @@
     }
   ],
   "last_cycle_opened": "2025-10-09",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer – Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
-  "excluded_reason": null,
+  "last_cycle_basis": "jobs.py history: 'Software Engineer \u2013 Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/truveta",
   "jobs_spec": "gh:truveta",
-  "evidence": "Opened posting 2026-09-30: Apply button, 'seeking enthusiastic new graduates', lists 3+ years (not disqualifying), no visa sponsorship (F-1 OPT/H-1B). No deadline. Data Processing SWE states 3+ years, no grad wording.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-01 lists the posting (published 2026-09-15): 'seeking enthusiastic new graduates', BS/MS, 3+ yrs listed (not disqualifying), no visa sponsorship. Page not opened (no browser in cloud run). Data Processing SWE says 3+ yrs only.",
+  "confidence": "medium",
+  "tier": 3,
+  "checked": "2026-10-01",
+  "excluded_reason": null
 }

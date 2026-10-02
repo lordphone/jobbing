@@ -1,15 +1,36 @@
 {
   "company": "Pinterest",
   "tier": 1,
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY",
+      "opened": "2026-10-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "PhD University Grad Machine Learning Engineer (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA",
+      "opened": "2026-10-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-09-24",
   "last_cycle_basis": "tracker history: 'Software Engineer University Grad', SF/Palo Alto/Seattle, first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.pinterestcareers.com",
   "jobs_spec": "gh:pinterest",
-  "evidence": "Ran gh:pinterest --all (150 postings): no university grad / new grad / 2027 titles; only SE II / ML Engineer II mid-level roles. Last cycle's university grad posting appeared ~Sep 24, 2025, so possibly imminent.",
+  "evidence": "gh:pinterest API (172) now lists Master's University Grad MLE 2027 and PhD University Grad MLE, both first published 2026-10-01 (also Data Scientist grad roles, not counted). No SWE-titled university grad yet. Prior file said not_yet; Pinterest opened ~Sep 24 last cycle.",
   "confidence": "high",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

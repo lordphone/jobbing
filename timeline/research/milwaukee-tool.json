@@ -1,8 +1,8 @@
 {
   "company": "Milwaukee Tool (Techtronic Industries)",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "SimplifyJobs/vanshb03 tracker: 'Software Engineer - .NET/React' Menomonee Falls WI, first seen 2025-11-01",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://tti.wd1.myworkdayjobs.com/Milwaukee",
   "jobs_spec": "wd:tti/wd1/Milwaukee",
-  "evidence": "Workday board (54 postings) checked 2026-09-30 with filter and --all: only Sr Software Engineer, Sr Manager IT, plant roles. No live entry SWE/ML; 2026 entry SWE/ML postings (Mar, Apr, Jul) are closed.",
-  "confidence": "high"
+  "evidence": "Workday cxs listing 2026-10-01 (319 postings): no entry SWE/ML; only Sr SWE, Engineer II (ML II Operations, SWE II Oracle Fusion) and firmware. Tracker 'Applied Machine Learning Engineer 1' (first seen 2026-07-13, this cycle) is gone, so closed (was not_yet). Exact URL truncated, page not opened.",
+  "confidence": "medium"
 }

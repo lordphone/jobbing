@@ -1,7 +1,7 @@
 {
   "company": "PEAK6",
   "tier": 4,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://peak6.com/careers/",
   "jobs_spec": null,
-  "evidence": "peak6.com/careers full list (78 jobs) in browser pane: engineer roles belong to Apex Fintech (senior/experienced). PEAK6 own roles: Trading Associate 2027, trading internships, business roles. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Cloud run (no browser): careers page is JS-rendered, list not readable via fetch. Kept 2026-09-30 browser read (78 jobs): engineer roles are Apex Fintech senior; PEAK6 own roles trading/business, no entry SWE. Not re-verified.",
+  "confidence": "medium"
 }

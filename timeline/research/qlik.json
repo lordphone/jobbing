@@ -1,15 +1,15 @@
 {
   "company": "Qlik",
   "tier": 6,
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Qlik new-grad SWE.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careerhub.qlik.com/careers",
   "jobs_spec": "eightfold:careerhub.qlik.com/qlik.com",
-  "evidence": "Eightfold API (careerhub.qlik.com, 32 jobs): US roles are sales, consulting, legal, marketing; R&D roles Israel/Brazil. No US engineering.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Eightfold API returned only 2 postings (Demand Specialist, Product Counsel; both King of Prussia PA). Earlier pass saw 32 jobs with no US engineering. No US entry SWE found; API list looks partial.",
+  "confidence": "medium"
 }

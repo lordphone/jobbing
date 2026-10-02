@@ -1,7 +1,7 @@
 {
   "company": "Vizio (Walmart)",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-III_R-2644535-1",
       "location": "Denver, CO",
       "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn (start date 2026-09-24)",
+      "date_source": "workday startDate 2026-09-24",
       "deadline": "2026-10-07",
       "grad_window": null,
       "live_verified": "api"
@@ -19,7 +19,7 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2651385-1",
       "location": "Bentonville, AR",
       "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn (start date 2026-09-24)",
+      "date_source": "workday startDate 2026-09-24",
       "deadline": "2026-10-07",
       "grad_window": null,
       "live_verified": "api"
@@ -29,7 +29,7 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/Software-Engineer-III_R-2522947",
       "location": "Denver, CO",
       "opened": "on or before 2026-06-18",
-      "date_source": "workday startDate",
+      "date_source": "workday startDate 2026-06-18",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
   "jobs_spec": "wd:walmart/wd504/WalmartExternal",
-  "evidence": "Vizio posts on Walmart Workday. Walmart Software Engineer III reqs R-2644535 (Denver, no years required) and R-2651385 (Bentonville, Bachelor's + 2 yrs) fetched live via API 2026-09-30, end date 2026-10-07. Vizio-branded Denver SWE III also live. Level is entry-ish, not labeled new-grad.",
-  "confidence": "low"
+  "evidence": "Vizio posts on Walmart Workday. Walmart Software Engineer III reqs R-2644535 (Denver, no years required) and R-2651385 (Bentonville, Bachelor's + 2 yrs) live via API 2026-10-01, end date 2026-10-07; Vizio Services Denver SWE III also listed. Entry-ish level, not labeled new-grad.",
+  "confidence": "medium"
 }

@@ -1,13 +1,13 @@
 {
   "company": "Lincoln Financial",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Associate Data Engineer, AI Data Products",
       "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/",
-      "location": "Radnor, PA (also Charlotte NC, Fort Wayne IN, Greensboro NC)",
+      "location": "Radnor, PA; Charlotte, NC; Fort Wayne, IN; Greensboro, NC",
       "opened": "2026-09-25",
       "date_source": "page text",
       "deadline": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
   "jobs_spec": null,
-  "evidence": "WebFetch (no browser): posting live with Apply button, 1-3 yrs, Python/FastAPI, bachelor's; data-engineering focus, borderline SWE. No sponsorship statement, no deadline. Board search shows only Sr Assoc Software Engineer otherwise.",
-  "confidence": "low"
+  "evidence": "WebFetch 2026-10-01 (no browser in cloud run): Associate Data Engineer, AI Data Products posted 2026-09-25 shows Apply button; 1-3 yrs, Python/FastAPI, bachelor's; data-engineering, borderline SWE. No sponsorship statement or deadline. Entry-level list has no other tech roles.",
+  "confidence": "medium"
 }

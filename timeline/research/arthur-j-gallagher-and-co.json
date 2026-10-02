@@ -1,7 +1,7 @@
 {
   "company": "Arthur J. Gallagher & Co.",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ajg.com/ajg-programs",
   "jobs_spec": null,
-  "evidence": "jobs.ajg.com/ajg-programs re-read 2026-09-30: US Emerging Talent programs (REACH reinsurance, Achieve client service, INVEST, GCAP sales) are not technology. No software new-grad track found.",
-  "confidence": "medium"
+  "evidence": "jobs.ajg.com JSON API 2026-10-01, all 590 US postings title-scanned: no entry-level SWE. Tech roles are Senior/Manager/AI developers (Rolling Meadows IL); REACH 2027 programs are reinsurance/actuarial; data analytics is an internship. Matches prior file.",
+  "confidence": "high"
 }

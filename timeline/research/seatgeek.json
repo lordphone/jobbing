@@ -1,7 +1,7 @@
 {
   "company": "SeatGeek",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-09-23",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Spring/Summer 2027 graduates",
+      "grad_window": "Spring/Summer 2027",
       "live_verified": "api"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/seatgeek",
   "jobs_spec": "gh:seatgeek",
-  "evidence": "Greenhouse API posting fetched: first_published 2026-09-23, seeks spring/summer 2027 graduates, experience not required; page title confirmed in browser. No sponsorship, citizenship or deadline line. Internship posting separate.",
+  "evidence": "Greenhouse API posting fetched: 'Software Engineer - New Grad' first_published 2026-09-23, seeks spring/summer 2027 graduates, experience preferred not required, NYC 3 days/week. No sponsorship, citizenship or deadline line. Posting page 403 to WebFetch; API only.",
   "confidence": "high"
 }

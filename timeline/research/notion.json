@@ -1,5 +1,7 @@
 {
   "company": "Notion",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -10,7 +12,7 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer, Early Career",
@@ -20,7 +22,7 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer, New Grad (Dec 2026)",
@@ -30,17 +32,15 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Graduate by Dec 2026, start Jan/Feb 2027",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-16",
   "last_cycle_basis": "Tracker first-seen: Software Engineer, Search Platform (jobs.ashbyhq.com/notion/4b10e40a-...); Early Career Infrastructure 2025-08-18.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/notion",
   "jobs_spec": "ashby:notion",
-  "evidence": "Opened all 3 postings in browser 2026-09-30, all live. Early Career roles: 0-2 YOE, 'not a new grad role', no class year; Dec 2026 new grad requires Dec 2026 graduation. No sponsorship or deadline text found.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "ashby:notion (134, --all) 2026-10-01: Early Career SWE (x2, 2026-07-06, no class year) and New Grad (Dec 2026, grad by Dec 2026) listed on board and live; prior run opened them in browser. No deadline.",
+  "confidence": "medium"
 }

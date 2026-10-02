@@ -1,7 +1,7 @@
 {
   "company": "Charles Schwab",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (page shows reposted 2026-09-29)",
       "deadline": "2026-10-02",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-11-21",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://career-schwab.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS page 2026-09-30 (req 2026-124804): Apply button, deadline 10/2/2026, reposted 9/29, targets recent graduate with limited experience, bachelor's in CS. No sponsorship text. Earlier Java Software Engineer (125797) now 410 Gone; Feb 2027 posting 126526 also gone.",
+  "evidence": "WebFetch of iCIMS req 2026-124804 on 2026-10-01: Apply button present, deadline 2026-10-02, posted 2026-09-29, entry-level bachelor's CS. No sponsorship text. Earlier Java SWE (125797) and Feb 2027 (126526) were gone per 9-30 check.",
   "confidence": "medium"
 }

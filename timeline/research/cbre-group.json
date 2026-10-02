@@ -1,8 +1,8 @@
 {
   "company": "CBRE Group",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; graduate programs listed are sales/brokerage/capital markets",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.cbre.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "CBRE board returned empty this run; search surfaced a US Software Engineer (Dallas, published 2026-03-20, .NET/React/AWS, no sponsorship) of unverified level; prior 2026-09-28 read retained: Browser search 'software engineer' (162 results): US roles are GWS building-systems Software Engineer (5-8 yrs), Analyst (2-5 yrs), Director, Principal. Grad programs are sales/finance. No entry-level SWE.",
+  "evidence": "careers.cbre.com blocked by AWS WAF challenge (HTTP 202, no listing) and no browser in cloud run. Search shows a Dallas/Richardson Software Engineer (posted 2026-03) of unverified level; prior read found only 5-8 yr or Analyst 2-5 yr roles.",
   "confidence": "low"
 }

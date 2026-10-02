@@ -1,8 +1,8 @@
 {
   "company": "Jacobs Solutions",
   "tier": 10,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Forward Deployed Engineer (Palantir Foundry & Custom Development) (FDE I)",
@@ -12,7 +12,7 @@
       "date_source": "page text ('Job posted on September 22, 2026')",
       "deadline": "at least 2026-09-25",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08-07",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.jacobs.com/en_US/careers/SearchJobs/",
   "jobs_spec": null,
-  "evidence": "Opened job page in browser: FDE I, Apply shown, open to Entry/Intermediate/Associate, 0-5 yrs, no citizenship/clearance text; 'open for at least 3 days'. Nashua Entry Level SWE and Herndon roles are defense (citizenship/clearance per prior check).",
-  "confidence": "high"
+  "evidence": "No browser in cloud run: careers.jacobs.com has no API, WebFetch/curl return no content. 2026-09-30 browser check found FDE I live (posted 2026-09-22, entry level, Apply shown, no citizenship text); not re-verified. Retry in browser.",
+  "confidence": "low"
 }

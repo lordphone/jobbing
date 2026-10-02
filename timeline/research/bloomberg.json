@@ -1,7 +1,7 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "unknown (page has no date)",
       "date_source": "none",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-09-30: '2027 Software Engineer - New York' (21414) page has Apply button but no description (live pages show one); Avature searches for 2027, new grad, graduate, software engineer list no entry-level or 2027 SWE in US. BIG Workday board has no SWE new grad. Treated as closed.",
+  "evidence": "WebFetch 2026-10-01: Avature searches for 'software engineer' (86 results, all senior) and '2027' (7, none US SWE) omit '2027 Software Engineer - New York' (21414); its page still shows Apply Now but no description (delisted shell). Treated as closed.",
   "confidence": "medium"
 }

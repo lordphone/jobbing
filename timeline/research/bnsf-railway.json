@@ -1,7 +1,7 @@
 {
   "company": "BNSF Railway",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,20 +9,20 @@
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95881EXTERNALENUS/bnsf-tech-Trainee-2027-Remote-US",
       "location": "Remote, US (contiguous 48 states)",
       "opened": "2026-09-04",
-      "date_source": "page text (Phenom postedDate)",
+      "date_source": "phenom postedDate (board search listing)",
       "deadline": null,
       "grad_window": "recent grads or pursuing CS/IT/Data Science/AI degree; start dates 2/1/2027, 6/14/2027, 9/20/2027; <3 yrs experience",
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Product, Platform & Enterprise Full Stack Software Engineer I/II (Remote - US)",
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95574EXTERNALENUS/x",
       "location": "Remote, US",
       "opened": "2026-07-28",
-      "date_source": "page text (Phenom postedDate)",
+      "date_source": "phenom postedDate (board search listing)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Opened both postings in browser pane (Phenom site). Tech Trainee 2027 (30 positions, $105k) states it does not sponsor H-1B/STEM OPT/CPT. SWE I/II is open to sponsoring H-1B transfers and STEM OPT. No stated deadline.",
-  "confidence": "high"
+  "evidence": "BNSF Phenom board listing and posting JSON read 2026-10-01: Tech Trainee 2027 (<3 yrs, no H-1B/OPT sponsorship) and SWE I/II both listed; Apply button not rendered here (no browser in cloud run). Page says SWE I/II may close ~7 days after posting. No stated deadline.",
+  "confidence": "medium"
 }

@@ -1,15 +1,13 @@
 {
   "company": "ZS Associates",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "leftover_2026",
   "postings": [
     {
       "title": "Business Technology Solutions Associate",
       "url": "https://jobs.zs.com/jobs/67648",
-      "location": "Princeton, NJ",
+      "location": "Princeton, NJ; Chicago, IL",
       "opened": "2026-09-22",
-      "date_source": "jobs.zs.com API create_date",
+      "date_source": "jobs.zs.com API create_date (earlier prior-run date kept; API posted_date 2026-09-30)",
       "deadline": null,
       "grad_window": "degree completed, start full-time employment in 2026",
       "live_verified": "api"
@@ -21,6 +19,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.zs.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.zs.com JSON API, 159 US postings. Only entry tech-track role: BTS Associate (SQL/Python dev), 'available to start full-time employment in 2026', 'not eligible for visa sponsorship'. 2027 items are interns only. Software Development category is senior/lead.",
-  "confidence": "medium"
+  "evidence": "jobs.zs.com API (278 postings): only entry tech role BTS Associate says 'start full-time employment in 2026', no visa sponsorship. 2027 titles are interns or non-US. Toronto Associate LLM Engineer asks 1-4 yrs, not new-grad.",
+  "confidence": "medium",
+  "checked": "2026-10-01",
+  "tier": 10
 }

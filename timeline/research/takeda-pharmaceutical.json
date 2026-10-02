@@ -1,7 +1,7 @@
 {
   "company": "Takeda Pharmaceutical",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.takeda.com/search-jobs",
   "jobs_spec": "wd:takeda/wd3/external",
-  "evidence": "Workday still down (maintenance page); read jobs.takeda.com instead: keyword searches (software, data engineer, developer, graduate, entry level) show no US entry-level SWE, only senior/lead roles. Keyword search only, so partial coverage.",
+  "evidence": "Cloud run, no browser: Workday takeda not found by API; jobs.takeda.com keyword search via WebFetch (92 results) shows only non-US or manager roles, no US entry SWE. Partial coverage.",
   "confidence": "medium"
 }

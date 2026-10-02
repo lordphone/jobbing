@@ -1,8 +1,8 @@
 {
   "company": "Spring Health",
   "tier": 3,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no dated prior new-grad source found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/springhealth66",
   "jobs_spec": "gh:springhealth66",
-  "evidence": "Greenhouse board (75): no entry-level SWE; only a CX Tooling Engineer and senior engineering roles.",
-  "confidence": "high"
+  "evidence": "Greenhouse API for springhealth66 and board page now return 404 (earlier pass read it: no entry-level SWE); board may have moved; no browser in cloud run. WebSearch only gave stale postings.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "JetBrains",
   "tier": 6,
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for JetBrains new-grad SWE.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/jetbrains",
   "jobs_spec": "gh:jetbrains",
-  "evidence": "Greenhouse EU board (69, --all): every engineering role in Europe or Remote Germany; no US location.",
-  "confidence": "high",
-  "checked": "2026-09-30"
+  "evidence": "Greenhouse API, 70 postings with --all: every engineering role in Europe or Remote Germany; no US, Toronto or Vancouver location. No entry-level US SWE.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Apex Fintech Solutions",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-14",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions",
   "jobs_spec": "wd:peak6group/wd1/apexfintechsolutions",
-  "evidence": "Workday board (25) checked: no Software Engineer I; Platform Engineer needs 3-5 yrs. Tracker 'Software Engineer 1 - Shark' (ALDP) first seen 2026-08-25 is gone from the API, so closed.",
+  "evidence": "Workday board (25): no Software Engineer I; Platform Engineer needs 3-5 yrs. Tracker 'Software Engineer 1 - Shark' (ALDP) posting URL returns Workday 404 not found 2026-10-01, so closed.",
   "confidence": "high"
 }

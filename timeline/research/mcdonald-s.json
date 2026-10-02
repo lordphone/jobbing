@@ -1,7 +1,7 @@
 {
   "company": "McDonald's",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-11",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.mcdonalds.com",
   "jobs_spec": null,
-  "evidence": "jobs.mcdonalds.com in browser (SuccessFactors; '<query> AND Chicago' searches): live Chicago engineering roles are Software Engineer III, Cloud/Data/Network Engineer III, Sr/Director/Manager. No Software Engineer I or entry-level SWE posting live yet; last year they posted many SE I roles from mid-Sep.",
+  "evidence": "jobs.mcdonalds.com search (curl, 13 queries incl. '<query> AND Chicago'): live Chicago engineering roles are Software Engineer III, Cloud/Data/Network Engineer III, Sr/Director/Manager; Mexico City/Hyderabad roles aside. No Software Engineer I or entry SWE live yet. Last year SE I roles began mid-Sep.",
   "confidence": "medium"
 }

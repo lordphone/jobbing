@@ -1,15 +1,15 @@
 {
   "company": "Robinhood",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-01-15",
   "last_cycle_basis": "Tracker first-seen date for 'Software Engineer - Backend', Menlo Park/NYC, gh job 7263578.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/robinhood",
   "jobs_spec": "gh:robinhood",
-  "evidence": "gh:robinhood board (162, --all) checked 2026-09-30: Summer 2027 interns, non-SWE new grad (Associate Product Manager, New Grad), no new-grad SWE. Generic SWE roles (e.g. Tokenization) ask 2+ yrs.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:robinhood (160, --all) 2026-10-01: Summer 2027 interns and Associate Product Manager (New Grad) only; no new-grad SWE. Generic SWE roles are experienced.",
+  "confidence": "high"
 }

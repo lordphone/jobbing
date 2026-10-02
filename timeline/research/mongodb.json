@@ -1,15 +1,15 @@
 {
   "company": "MongoDB",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2024-07-10",
-  "last_cycle_basis": "tracker history: only 2024-cycle postings (first 2024-06-17, 2024-07-10); no 2025-cycle posting found",
+  "last_cycle_basis": "tracker history: only 2024-cycle postings (first seen 2024-06-17, 2024-07-10); no 2025-cycle posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mongodb",
   "jobs_spec": "gh:mongodb",
-  "evidence": "Full gh:mongodb board (399, --all) 2026-09-30: only Software Engineer/SE 2/SE 3/Senior; Associate TSE II is support. Web search shows Summer 2027 internships only. No new-grad SWE.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:mongodb full board (391, --all) 2026-10-01: only SWE/Senior-level roles; Associate Technical Services Engineer II is support, not SWE. No new-grad SWE title.",
+  "confidence": "medium"
 }

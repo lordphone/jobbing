@@ -1,8 +1,8 @@
 {
   "company": "Revolut",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no first-party or tracker date found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.revolut.com/careers/team/engineering/",
   "jobs_spec": null,
-  "evidence": "Careers site (browser) 2026-09-30: Graduate Programme 2027 (Java, Android) live but offices Barcelona, Dubai, Krakow, Lisbon, London, Madrid; remote only Europe/UAE. No US location.",
-  "confidence": "medium"
+  "evidence": "Careers page returned 403 to WebFetch (no browser in cloud run). Prior browser check 2026-09-30: Graduate Programme 2027 offices in Europe/UAE only, no US location; not re-verified.",
+  "confidence": "low"
 }

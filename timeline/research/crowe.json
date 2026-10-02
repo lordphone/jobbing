@@ -1,5 +1,7 @@
 {
   "company": "Crowe",
+  "tier": 10,
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -7,8 +9,8 @@
       "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
       "location": "Chicago IL USA; Washington DC USA; Tallahassee FL USA; Sarasota FL USA; Hartford CT USA; Nashville TN USA; Costa Mesa CA USA; San Jose CA USA; Boston MA USA; Burlington VT USA; Cleveland OH USA; Columbus OH USA; Dallas TX USA; Denver CO USA; Fort Wayne IN USA; Grand Rapids MI USA; Indianapolis IN USA; Knoxville TN USA; Lexington KY USA; Plano TX USA; Livingston NJ USA; Louisville KY USA; Miami FL USA; Los Angeles CA USA; Woodlands TX USA; New York NY USA; Oakbrook Terrace IL USA; Sacramento CA USA; San Francisco CA USA; South Bend IN USA; Springfield IL USA; Tampa FL USA; Boca Raton FL USA; Houston TX USA; Austin TX USA; Charlotte NC USA",
       "opened": "on or before 2026-08-28",
-      "date_source": "workday postedOn (start date 2026-08-20; reposted 2026-09-30)",
-      "deadline": "2026-12-31",
+      "date_source": "workday postedOn (earlier file: start date 2026-08-20; reposted 2026-09-30)",
+      "deadline": "at least 2026-12-31",
       "grad_window": null,
       "live_verified": "api"
     }
@@ -19,8 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://crowe.wd12.myworkdayjobs.com/external_careers",
   "jobs_spec": "wd:crowe/wd12/external_careers",
-  "evidence": "Workday API 2026-09-30: ML Software Engineer 1 live (detail fetched), Workday endDate 2026-12-31; posting says 'Crowe is not sponsoring for work authorization at this time'. Campus AI roles are coordinators.",
-  "confidence": "high",
-  "checked": "2026-09-30",
-  "tier": 10
+  "evidence": "Workday API 2026-10-01: ML Software Engineer 1 live (canApply true, endDate 2026-12-31); 'Crowe is not sponsoring for work authorization at this time'. Other entries are 2027 interns, audit/tax, India roles.",
+  "confidence": "high"
 }

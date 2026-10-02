@@ -1,15 +1,15 @@
 {
   "company": "SolarWinds",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: 0 postings found for SolarWinds new-grad SWE.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.solarwinds.com/",
   "jobs_spec": "gh:solarwinds",
-  "evidence": "Greenhouse gh:solarwinds, 58 postings via jobs.py --all (2026-09-30): SWE roles are Bangalore Software Engineer, Staff SWE Austin, SREs in Europe/India. No US entry-level SWE.",
+  "evidence": "Greenhouse API, 58 postings with --all: software roles are Bangalore or Staff Software Engineer (Austin); no entry-level US SWE.",
   "confidence": "high"
 }

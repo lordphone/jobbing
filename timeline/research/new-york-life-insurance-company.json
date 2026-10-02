@@ -1,7 +1,7 @@
 {
   "company": "New York Life Insurance Company",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "eightfold api t_create",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     },
     {
       "title": "Associate - Full Stack Developer",
@@ -22,7 +22,7 @@
       "date_source": "eightfold api t_create",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.newyorklife.com/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold apply API on own board: Associate - Full Stack Developer (created 2026-07-07, 1+ yrs) and Associate - Full-Stack AI Engineer (created 2026-08-26, 1-3 yrs), both NYC, live. No sponsorship text seen, no deadline stated. Associate-level, not class-year tagged.",
+  "evidence": "Opened both posting pages via WebFetch: still accepting applications, hybrid NYC, Tech Data AI Ventures. Dates/years (1+, 1-3 yrs) carried from prior file's Eightfold API read; not re-confirmed. No sponsorship text or deadline seen.",
   "confidence": "medium"
 }

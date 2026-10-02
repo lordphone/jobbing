@@ -1,15 +1,15 @@
 {
   "company": "BMW Group",
-  "status": "no_program_found",
-  "last_cycle_opened": null,
+  "status": "unknown",
   "last_cycle_basis": "No new-grad SWE postings found; US IT job field is intern/co-op plus experienced roles",
   "jobs_page": "https://www.bmwgroup.jobs/us/en/jobfields/information-technology.html",
-  "jobs_spec": null,
-  "evidence": "Browser pane was contended and the job finder did not render; web search + posting pages show only Spring 2027 interns/co-ops (Mountain View, Spartanburg). Prior-run browser check of US IT field (14 vacancies: interns + experienced) retained. No full-time entry SWE.",
-  "confidence": "medium",
+  "evidence": "No browser in cloud run: bmwgroup.jobs job finder does not render via fetch. Web search shows only Spring 2027 Mountain View SWE intern and Spartanburg SWE co-op. Prior browser read (14 US IT vacancies, interns + experienced) suggests no_program_found; retry.",
+  "confidence": "low",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "postings": [],
   "no_sponsorship": false,
-  "excluded_reason": null
+  "excluded_reason": null,
+  "jobs_spec": null,
+  "last_cycle_opened": null
 }

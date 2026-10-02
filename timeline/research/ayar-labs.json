@@ -1,8 +1,8 @@
 {
   "company": "Ayar Labs",
   "tier": 7,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ayarlabs.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page list read in browser 2026-09-30: all engineering titles are Sr., Staff, Principal or Director except 'Engineer, Hardware Test Software' (San Jose, test role, not counted). No new-grad or entry-level SWE.",
-  "confidence": "high"
+  "evidence": "no browser in cloud run. ayarlabs.com/careers returns 202 empty to curl; WebFetch gets no listings. Earlier browser read 2026-09-30: all engineering titles Sr/Staff/Principal except a hardware test software role. Not re-verified.",
+  "confidence": "low"
 }

@@ -1,8 +1,8 @@
 {
   "company": "Deel",
   "tier": 3,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no history found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.deel.com/careers/open-roles/",
   "jobs_spec": null,
-  "evidence": "Read deel.com/careers in browser (Ashby data embedded in page; jobs.deel.com): all 19 engineering/data roles listed (Senior/Staff/Lead/DBA/SRE/Node backend) are non-US (India, Brazil, Spain, Mexico, Austria, Azerbaijan, Canada); no entry-level or US posting, no deadlines.",
-  "confidence": "medium"
+  "evidence": "no browser in cloud run: deel.com/careers/open-roles and jobs.deel.com returned no job list via WebFetch; no Ashby/GH/Lever API found. 2026-09-30 browser pass saw 19 non-US/experienced roles, no new-grad track; not re-verified.",
+  "confidence": "low"
 }

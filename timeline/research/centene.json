@@ -1,8 +1,8 @@
 {
   "company": "Centene",
   "tier": 11,
-  "checked": "2026-09-30",
-  "status": "closed",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "Business Solutions Developer 1",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://centene.wd5.myworkdayjobs.com/Centene_External",
   "jobs_spec": "wd:centene/wd5/Centene_External",
-  "evidence": "Workday board (51, --all): only Summer 2027 interns and senior roles. Tracker-seen entry-level Business Solutions Developer 1 (2026-08-18) and Automation Engineer (08-10) are gone from board; Engineer I roles were posted from Sept last cycle.",
-  "confidence": "medium"
+  "evidence": "Workday listing (54, --all) has only 2027 interns, no engineer roles; Business Solutions Developer 1 (2026-08-19) absent from list, but posting page unreadable (CXS 403, WebFetch empty; no browser in cloud run). Not confirmed closed; prior file said closed.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "General Atomics",
   "status": "unknown",
-  "excluded_reason": null,
   "last_cycle_opened": "2026-01-13",
   "last_cycle_basis": "tracker first-seen 2026-01-13 (Associate Software Developer, Poway) via jobs.py history",
   "jobs_page": "https://sjobs.brassring.com",
-  "jobs_spec": null,
-  "evidence": "BrassRing blocks WebFetch (403) and its search API; browser pane was hijacked by other agents; dejobs posting expired. Last run saw live Associate Software Developer reqs (Poway); search snippets say US citizenship required, but I could not open a posting to quote. Likely excluded; retry.",
+  "evidence": "No browser in cloud run: BrassRing search API returns 500 and pages are JS-only; no posting opened. Tracker shows Associate Software Developer (Poway) first seen 2026-01-13 flagged citizenship; unquoted from first party. Likely excluded; retry in browser.",
   "confidence": "low",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "postings": [],
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "excluded_reason": null,
+  "jobs_spec": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "Royal Caribbean Group",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-07",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.royalcaribbeangroup.com",
   "jobs_spec": null,
-  "evidence": "SuccessFactors board in browser/fetch: 'software' gives 57 results, only Lead/Principal/Manager software roles; 'associate engineer' shows no entry SWE. Had Associate Engineer, Software (Miramar) in Aug 2025; none open now.",
+  "evidence": "SuccessFactors search fetched (no browser in cloud run): software queries show only Lead/Manager/Principal roles; 'graduate' shows finance/supply chain rotational programs and sales, no tech. Associate Engineer, Software (Miramar) was Aug 2025; none now.",
   "confidence": "medium"
 }

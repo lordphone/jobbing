@@ -2,14 +2,14 @@
   "company": "Sandia National Laboratories",
   "status": "excluded",
   "excluded_reason": "clearance",
-  "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
-  "postings": [],
   "jobs_page": "https://sandia.jobs",
-  "jobs_spec": null,
-  "evidence": "sandia.jobs is a JS app (no API reachable). Early Career Computer Scientist reqs (698228, 697936) say 'ability to obtain and maintain a DOE Q and SCI security clearance, both of which require US citizenship' (prior browser read; same text on mirrors in search). Not re-opened first-hand.",
+  "evidence": "sandia.jobs is JS-only (no browser in cloud run). Early Career computer-science reqs need a DOE Q clearance; sandia.gov clearance page: \"Only U.S. citizens who are at least 18 years of age are eligible for a DOE clearance.\"",
   "confidence": "medium",
   "tier": 8,
-  "checked": "2026-09-30",
-  "no_sponsorship": false
+  "checked": "2026-10-01",
+  "postings": [],
+  "no_sponsorship": false,
+  "jobs_spec": null,
+  "last_cycle_opened": null
 }

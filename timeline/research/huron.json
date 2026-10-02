@@ -1,7 +1,5 @@
 {
   "company": "Huron",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
@@ -17,7 +15,7 @@
     {
       "title": "Forward Deployed Engineer Associate (AI Capability Center)",
       "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
-      "location": "Chicago - 550 Van Buren; Toronto - 55 University Ave",
+      "location": "Chicago, IL; Toronto, ON, Canada",
       "opened": "2026-09-02",
       "date_source": "workday startDate",
       "deadline": null,
@@ -31,6 +29,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://huron.wd1.myworkdayjobs.com/huroncareers",
   "jobs_spec": "wd:huron/wd1/huroncareers",
-  "evidence": "Workday API (92): two Associate-titled engineering roles live (canApply true), both text \"3+ years\" and experienced pay; no grad window or new-grad label, so borderline. Salesforce Omni Developer Associate requires US citizen (endDate 2026-10-09), excluded.",
-  "confidence": "low"
+  "evidence": "Workday API (95): two Associate-titled engineering roles live (canApply true); FDE text asks 3+ yrs; no grad window or new-grad label, so borderline. Salesforce Omni Developer Associate requires US citizen (ends 2026-10-09), excluded.",
+  "confidence": "low",
+  "checked": "2026-10-01",
+  "tier": 10
 }

@@ -1,7 +1,7 @@
 {
   "company": "Shopify",
   "tier": 3,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.shopify.com/careers",
   "jobs_spec": null,
-  "evidence": "2026-09-30: shopify.com/careers in browser (JS search not filterable) and web search: early-career options are Dev Degree, 4-month internships (open to recent grads), APM; no new-grad SWE posting found. Board not fully enumerable.",
-  "confidence": "medium"
+  "evidence": "Cloud run, no browser: shopify.com/careers via WebFetch lists only internships (open to recent grads), Dev Degree, APM, design apprentice; search found no new-grad SWE. Job search not enumerable without browser; prior 2026-09-30 browser check also found none.",
+  "confidence": "low"
 }

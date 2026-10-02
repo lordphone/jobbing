@@ -1,7 +1,7 @@
 {
   "company": "Fifth Third Bank",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Leadership-Program---2027_R67329",
       "location": "Cincinnati, OH",
       "opened": "2026-07-30",
-      "date_source": "tracker first seen 2026-07-30",
-      "grad_window": "2027 program; start 2026-08-19",
-      "live_verified": "api",
-      "deadline": "2026-10-03"
+      "date_source": "workday postedOn (30+ days; startDate 2026-08-19); earlier file date kept",
+      "deadline": "2026-10-03",
+      "grad_window": "2027 program",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-07",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://fifththird.wd5.myworkdayjobs.com/53careers",
   "jobs_spec": "wd:fifththird/wd5/53careers",
-  "evidence": "Workday API 2026-09-30: IT Leadership Program - 2027 live (canApply true), endDate 2026-10-03; 2 of 4 rotations are software engineer; 4-yr IT/CS degree. No citizenship or sponsorship restriction found. Same posting as prior file.",
+  "evidence": "Workday board 2026-10-01 lists IT Leadership Program - 2027 (Cincinnati), endDate 2026-10-03; earlier file: 2 of 4 rotations are software engineer. No citizenship or sponsorship restriction in posting text. Matches prior file.",
   "confidence": "medium"
 }

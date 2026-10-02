@@ -1,7 +1,7 @@
 {
   "company": "MathWorks",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://www.mathworks.com/company/jobs/opportunities/16217",
       "location": "Natick, MA",
       "opened": "2026-09-01",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": "2027-09-30",
+      "date_source": "page text",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.mathworks.com/company/jobs",
   "jobs_spec": null,
-  "evidence": "Opened req 16217 in browser: live, JSON-LD datePosted 2026-09-01, validThrough 2027-09-30 (structured-data end date, not a stated deadline). BS/MS/PhD dev-projects plus customer-support rotation into software dev; not a pure SWE title. No citizenship line.",
+  "evidence": "Opened req 16217 page (Apply now shown): Engineering Development Group New Career Program, Natick MA, datePosted 2026-09-01, validThrough 2027-10-01; BS/MS/PhD, rotational dev plus customer-facing work, not pure SWE.",
   "confidence": "medium"
 }

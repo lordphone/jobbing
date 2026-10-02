@@ -1,15 +1,15 @@
 {
   "company": "Lyft",
+  "tier": 3,
+  "checked": "2026-10-01",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-01-16",
   "last_cycle_basis": "Tracker history: 'Software Engineer - Search & AI Entry' (Toronto) first seen 2026-01-16; US new-grad not found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lyft",
   "jobs_spec": "gh:lyft",
-  "evidence": "gh:lyft board (186, --all) checked 2026-09-30: only Montreal/Toronto/US Summer 2027 interns and experienced SWE roles. Tracker's 'Software Engineer' (2026-09-02) is not on the board; earlier read as PERM-style needing experience. No US new-grad SWE.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-09-30",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:lyft (186, --all) 2026-10-01: US/Canada/Mexico Summer 2027 interns and experienced SWE. Generic 'Software Engineer' SF (2026-09-02) shows no entry markers. No US new-grad SWE.",
+  "confidence": "medium"
 }

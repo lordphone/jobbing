@@ -1,26 +1,26 @@
 {
   "company": "Dassault Systèmes",
   "tier": 6,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (3D CAD, AI-powered, SOLIDWORKS)",
       "url": "https://www.3ds.com/careers/jobs/software-engineer-549418",
-      "location": "Waltham, MA, US",
+      "location": "Waltham, MA",
       "opened": "2026-09-17",
-      "date_source": "page text (Posted on 9/17/2026)",
-      "deadline": null,
+      "date_source": "page text",
+      "deadline": "2027-03-17",
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.3ds.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "3ds.com card_search_api (664 postings, all US read 2026-09-30) and posting page: Software Engineer, Waltham, Apply live, posted 9/17, level 0 to 3 years (text says 2-5 yrs), MS preferred. No dedicated SWE new-grad program. API Support Engineer (3-6 yrs) not counted. Borderline entry level.",
-  "confidence": "low"
+  "evidence": "Opened 3ds.com posting 549418 (Apply shown, JSON-LD datePosted 2026-09-17, validThrough 2027-03-17): Software Engineer, SOLIDWORKS, Waltham; page says 0 to 3 years (text 2-5). No dedicated new-grad program seen.",
+  "confidence": "medium"
 }

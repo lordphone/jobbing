@@ -1,7 +1,7 @@
 {
   "company": "Light & Wonder",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
     {
@@ -20,6 +20,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
   "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
-  "evidence": "wd:lnw (46): Associate Software Engineer (Las Vegas/Reno, 2026-08-18) gone, so closed. Only US entry-like is Associate Software QA Engineer (QA, not counted); associate devs in Pune/Sofia.",
-  "confidence": "high"
+  "evidence": "wd:lnw (45): Associate SWE R322683 (Las Vegas/Reno, 2026-08-18) absent from list; its cxs endpoint returns 403 permission denied vs 200 for live jobs. US entry roles only QA/Mathematician. Closed.",
+  "confidence": "medium"
 }

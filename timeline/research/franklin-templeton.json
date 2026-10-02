@@ -1,15 +1,15 @@
 {
   "company": "Franklin Templeton",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-15",
-  "last_cycle_basis": "Tracker history: 'Associate Software Engineer' (Stamford CT / NYC) first seen 2025-12-15",
+  "last_cycle_basis": "tracker history: 'Associate Software Engineer' (Stamford CT / NYC) first seen 2025-12-15",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
   "jobs_spec": "wd:franklintempleton/wd5/Primary-External-1",
-  "evidence": "Workday API returns 0 postings for Primary-External-1 and invitation-only boards on 2026-09-30 (also 0 last run), so nothing live. Tracker shows Junior Quant Developer (2026-07-04) and other roles, all closed.",
+  "evidence": "Workday API (jobs.py and direct search) returns 0 postings for Primary-External-1 on 2026-10-01, so nothing live; no browser in cloud run to confirm the page. Tracker roles (Junior Quant Developer 2026-07-04 etc.) all closed.",
   "confidence": "medium"
 }

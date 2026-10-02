@@ -1,15 +1,26 @@
 {
   "company": "Booking Holdings",
   "tier": 9,
-  "checked": "2026-09-30",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-01",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior Software Engineer (Priceline, GenAI/UX)",
+      "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5847",
+      "location": "New York, NY",
+      "opened": "2026-10-01",
+      "date_source": "workday postedOn (Posted Today)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://priceline.wd1.myworkdayjobs.com/priceline",
   "jobs_spec": "wd:priceline/wd1/priceline",
-  "evidence": "Priceline Workday board re-read 2026-09-30 (33 postings): entry Associate Software Engineer is Mumbai; Associate Java Developer is Toronto. No US entry SWE; no Booking Holdings new-grad track found.",
+  "evidence": "Priceline Workday board --all (31 postings) 2026-10-01: Junior Software Engineer NY posted today, canApply true, 0-1 yr, BS CS, no sponsorship/citizenship text. Other entry roles Mumbai/Toronto (Associate SWE, Associate Java Dev). Priceline is a Booking Holdings brand; status changed from no_program_found.",
   "confidence": "medium"
 }

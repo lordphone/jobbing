@@ -1,36 +1,36 @@
 {
   "company": "Polaris Inc.",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
       "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
-      "location": "Medina / Plymouth, MN",
-      "opened": "on or before 2026-08-24",
-      "date_source": "workday startDate",
+      "location": "Medina, MN; Plymouth, MN",
+      "opened": "2026-08-08",
+      "date_source": "tracker first seen",
       "deadline": "2026-11-30",
-      "grad_window": "Aug 2026 - May 2027",
+      "grad_window": "Aug 2026 – May 2027",
       "live_verified": "api"
     },
     {
       "title": "Engineering Development Program",
       "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Development-Program_R30720",
-      "location": "Wyoming, MN, USA; Medina, MN, USA; Huntsville, AL, USA; Roseau, MN, USA; San Angelo, TX, USA; Novi, MI, USA",
-      "opened": "on or before 2026-08-10",
-      "date_source": "workday startDate",
+      "location": "Wyoming, MN; Medina, MN; Huntsville, AL; Roseau, MN; San Angelo, TX; Novi, MI",
+      "opened": "on or before 2026-09-01",
+      "date_source": "workday postedOn (30+ days; startDate 2026-08-10)",
       "deadline": null,
-      "grad_window": "Aug 2026 - May 2027",
+      "grad_window": "Aug 2026 – May 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker first seen: Digital & Information Technology Leadership Development Program Associate, Wayzata MN",
+  "last_cycle_basis": "tracker first seen 2025-11-01: Digital & Information Technology Leadership Development Program Associate, Wayzata MN",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs",
   "jobs_spec": "wd:polaris/wd5/PolarisJobs",
-  "evidence": "Workday API, 42 postings. Rotational programs, not pure SWE: D&IT LDP (MIS/business degree; endDate 2026-11-30) and Engineering DP (software majors listed). Both say 'not eligible for sponsorship'; U.S. person wording includes LPR/asylee. Previously marked excluded; corrected to no_sponsorship.",
+  "evidence": "Workday API: Digital & IT LDP Associate - Digital Product Development (MIS/business degree, grad Aug 2026-May 2027, ends 2026-11-30) and Engineering Development Program (software/computer degrees accepted) are live rotational programs, not pure SWE. Not eligible for sponsorship.",
   "confidence": "medium"
 }

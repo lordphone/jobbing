@@ -1,18 +1,18 @@
 {
   "company": "Goldman Sachs",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "2027 | Americas | New York City Area | Engineering | New Analyst",
       "url": "https://higher.gs.com/roles/171569",
       "location": "New York, NY",
-      "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "opened": "2026-08-15",
+      "date_source": "oracle API posted (hdpc LateralHiring)",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-09-30: NYC 2027 Engineering New Analyst (171569) shows Apply link. SLC (171570) and Dallas (171568) 2027 pages show no Apply button, so closed. Sponsorship and deadline not stated; opened from tracker.",
+  "evidence": "Oracle API detail + WebFetch 2026-10-01: NYC 2027 Engineering New Analyst (171569) served, posted 2026-08-15, Apply link present. SLC/Dallas also served by API but earlier browser check saw no Apply button; unresolved without browser. No sponsorship text, no deadline.",
   "confidence": "medium"
 }

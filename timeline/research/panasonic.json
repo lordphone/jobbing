@@ -1,7 +1,7 @@
 {
   "company": "Panasonic",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,17 +9,17 @@
       "url": "https://careers.na.panasonic.com/jobs/49874",
       "location": "Irvine, CA",
       "opened": "2026-07-30",
-      "date_source": "page API posted_date",
+      "date_source": "jibe API posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer (Full Stack)",
       "url": "https://careers.na.panasonic.com/jobs/50895",
       "location": "Irvine, CA",
       "opened": "2026-09-29",
-      "date_source": "page API posted_date",
+      "date_source": "jibe API posted_date",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.na.panasonic.com/jobs",
   "jobs_spec": null,
-  "evidence": "Panasonic Avionics (Irvine) 'Software Engineer (Full Stack)' live in job list: BS, 0-3 yrs Linux software, only 'valid authorization to work in the U.S.' Not labeled new grad. Old 'Software Engineer I - Embedded' (50269) now 404. Other software roles are MTS/Sr or 8+ yrs.",
+  "evidence": "Panasonic Jibe jobs API (first-party, 354 jobs) 2026-10-01: Software Engineer (Full Stack) Irvine reqs 49874 (2026-07-30) and 50895 (2026-09-29) live, BS CS, 0-3 yrs, only work-authorization line. Not labeled new grad; entry-level. Other software roles MTS/Sr.",
   "confidence": "medium"
 }

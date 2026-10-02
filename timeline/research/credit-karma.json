@@ -1,26 +1,26 @@
 {
   "company": "Credit Karma",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer 1 (Intuit general posting, New College Grad; Credit Karma is an Intuit company)",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-      "location": "Mountain View CA; Atlanta GA; Charlotte NC; New York NY; San Diego CA",
+      "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
       "opened": "unknown (date not shown on page; evergreen)",
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found; earlier CK SWE I Charlotte posting was live on or before 2026-07-20 (gone now)",
+  "last_cycle_opened": "2025-10-22",
+  "last_cycle_basis": "tracker history: Intuit Software Engineer 1 (jobs.intuit.com/27595) first seen 2025-10-22; no CK-specific date",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
   "jobs_spec": null,
-  "evidence": "Credit Karma posts under jobs.intuit.com. Old CK 'Software Engineer I' (Charlotte) now Job Not Found. Opened Intuit-wide 'Software Engineer 1' (New College Grad, <2 yrs, Apply Now, includes Charlotte): general posting, not CK-branded. Was closed before.",
-  "confidence": "medium"
+  "evidence": "Credit Karma posts via jobs.intuit.com; CK-branded list shows only Staff/Senior roles. Intuit-wide 'Software Engineer 1' (New College Grad, <2 yrs, Apply Now, incl. Charlotte/NY) is live but undated and a general Intuit posting, not CK-branded.",
+  "confidence": "low"
 }

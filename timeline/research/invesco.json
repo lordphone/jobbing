@@ -1,24 +1,26 @@
 {
   "company": "Invesco",
   "tier": 5,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Engineer, SIP (Software Engineer, Strategy, Innovation & Planning)",
       "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
-      "location": "Atlanta, GA / Houston, TX",
+      "location": "Atlanta, GA; Houston, TX",
       "opened": "2026-07-30",
       "date_source": "tracker first seen 2026-07-30 (workday startDate 2026-07-31)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     },
     {
       "title": "ETF Quantitative Developer",
-      "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2",
+      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2",
       "location": "Downers Grove, IL",
-      "opened": "on or before 2026-08-27",
-      "date_source": "tracker first seen 2026-08-27 (earlier copy 2026-08-18)",
+      "opened": "on or before 2026-08-28",
+      "date_source": "tracker first seen 2026-08-28 (workday startDate 2026-08-28)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
@@ -29,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://invesco.wd1.myworkdayjobs.com/IVZ",
   "jobs_spec": "wd:invesco/wd1/IVZ",
-  "evidence": "Re-read both postings via Workday API 2026-09-30, both canApply. SIP Software Engineer asks 0-2 yrs (AI apps); ETF Quant Developer asks 0-3 yrs (Python), not on board listing but API detail live. No deadline, sponsorship or citizenship lines. Rolling entry-level, no class year.",
+  "evidence": "Read both via Workday API 2026-10-01. SIP Software Engineer asks 0-2 yrs (GenAI web apps); ETF Quant Developer asks 0-3 yrs (Python), absent from board list but detail loads. No deadline, sponsorship or citizenship lines. Rolling entry-level, no class year; early-career interns are separate.",
   "confidence": "medium"
 }

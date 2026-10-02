@@ -11,16 +11,16 @@
       "date_source": "tracker first seen (Oracle API gives no posted date)",
       "deadline": null,
       "grad_window": "Bachelor's CS/CE/SE/AI/ML, graduation Dec 2026 or May 2027; rotational program",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "jobs.py history: Software Engineer 1, Round Rock TX, first seen 2025-11-03 (also SWE Rotation Programs 2025-11-05)",
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Opened the posting in the browser pane: Apply Now shown, ITDP recent-grad rotational SWE program (Dec 2026/May 2027 grads); Campus req, absent from the public list API (133 postings) but page live. No sponsorship text or deadline found. Other 2027 SWE grad programs are Taipei only.",
+  "evidence": "Oracle detail API 2026-10-01 returns posting 298784 (TX, Dec 2026/May 2027 grads, rotational program); absent from list API; Apply button seen in browser 2026-09-30, not rechecked (no browser in cloud run). Other 2027 SWE programs Taipei only.",
   "confidence": "medium",
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "no_sponsorship": false,
   "excluded_reason": null
 }

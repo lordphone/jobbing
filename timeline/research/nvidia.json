@@ -11,7 +11,17 @@
       "date_source": "workday postedOn (Posted Yesterday); tracker first seen 2026-09-28",
       "deadline": "at least 2026-10-03",
       "grad_window": "none stated (Bachelor's or Master's CS); title says New College Grad 2026",
-      "live_verified": "browser"
+      "live_verified": "api"
+    },
+    {
+      "title": "Systems Software Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+      "location": "Hillsboro, OR",
+      "opened": "on or before 2026-10-01",
+      "date_source": "workday postedOn (Posted Today); startDate=2026-10-01",
+      "deadline": "2026-11-12",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-16",
@@ -20,7 +30,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
   "jobs_spec": "wd:nvidia/wd5/NVIDIAExternalCareerSite",
-  "evidence": "Opened DGX Cloud New College Grad posting in browser: Apply present, 'accepted at least until October 3, 2026', no citizenship/clearance text. Title says 2026 but posted Sep 29 2026 (rolling, no class year), so counted open. US 2027 grad SWE posts otherwise hardware; July 2026 SWE new-grad posts (Dynamo-Triton, GPU Clusters etc.) now closed.",
+  "evidence": "Workday API lists DGX Cloud SWE NCG (Sep 29, prior browser-verified, deadline at least Oct 3) and Systems Software Engineer NCG Hillsboro (posted Oct 1, endDate 2026-11-12). No citizenship text. Titles say 2026 but freshly posted; counted open. Other 2027 US NCG roles are ASIC/hardware.",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01"
 }

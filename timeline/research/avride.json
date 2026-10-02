@@ -1,15 +1,15 @@
 {
   "company": "Avride",
   "tier": 8,
-  "checked": "2026-09-30",
-  "status": "not_yet",
+  "checked": "2026-10-01",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history found; tracker shows only Robot Service Technician roles.",
+  "last_cycle_basis": "No new-grad SWE tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/avride",
   "jobs_spec": "gh:avride",
-  "evidence": "Greenhouse board (67 postings): software/ML roles are Senior/Staff/Lead or mid-level; SWE postings say 'not offering relocation, sponsorship'. Only entry roles are Robot Service Technicians. No new-grad SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse (~67 postings): software/ML roles are Senior/Staff/Lead or mid-level (Simulation Backend 3+ yrs); SWE postings say \"not offering relocation, sponsorship\". Only entry roles are Robot Service Technicians. No new-grad SWE. Changed from not_yet: no track shown.",
+  "confidence": "medium"
 }

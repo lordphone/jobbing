@@ -1,8 +1,8 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-09-30",
-  "status": "open",
+  "checked": "2026-10-01",
+  "status": "unknown",
   "postings": [
     {
       "title": "2027 - Full Time Assistant Vice President - Corporate Functions, Analytics Lab (Machine Learning Engineer)",
@@ -12,15 +12,15 @@
       "date_source": "page text (last update 17.08.2026)",
       "deadline": null,
       "grad_window": "Dec 2026 - Jun 2027 (Master's)",
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history. Prior file noted a Montreal 'IT Analyst - Graduate' (Dec 2025-Jun 2026 window), not US.",
+  "last_cycle_basis": "unknown; not found in tracker history. Earlier note: Montreal 'IT Analyst - Graduate' (Dec 2025-Jun 2026 window), not US.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "Searched group.bnpparibas job offers for 2027 full time; opened the Jersey City Graduate Programme ML Engineer posting: Apply button, Master's, grad Dec 2026-Jun 2027, base $150k, no citizenship/sponsorship text. 2027 Technology summer analyst internship not counted.",
-  "confidence": "high"
+  "evidence": "group.bnpparibas.com returned 403 to WebFetch; no browser in cloud run, so posting not re-opened. Prior-day browser check (2026-09-30) saw the Jersey City 2027 AVP ML Engineer graduate posting live with Apply; web search confirms it is listed.",
+  "confidence": "medium"
 }

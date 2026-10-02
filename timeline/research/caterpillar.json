@@ -1,15 +1,15 @@
 {
   "company": "Caterpillar",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873",
       "location": "Chicago, Illinois; Peoria, Illinois; Irving, Texas",
-      "opened": "2026-09-11",
-      "date_source": "workday startDate",
+      "opened": "2026-09-07",
+      "date_source": "tracker first seen (Workday startDate 2026-09-11)",
       "deadline": "2026-11-13",
       "grad_window": "first 24 months of career; degree complete by start date",
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
   "jobs_spec": "wd:cat/wd5/CaterpillarCareers",
-  "evidence": "Workday API: Cat Digital Software Engineer live, canApply true, 0-2 yrs, first 24 months of career, posting dates Sep 11 - Nov 13 2026, sponsorship not available. 2027 IT Foundation Program and IT Analyst Entry Level are IT roles, not counted as SWE. Other SWE/Data Engineer roles are mid-level.",
+  "evidence": "Workday API re-checked: Cat Digital Software Engineer live, canApply true, 0-2 yrs, first 24 months of career, apply window to 2026-11-13, no sponsorship. 2027 IT Analyst and IT Foundation Program are IT, not counted. Autonomy SDE (C++) not entry-labeled.",
   "confidence": "high"
 }

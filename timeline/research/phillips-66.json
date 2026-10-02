@@ -1,7 +1,7 @@
 {
   "company": "Phillips 66",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text (no posting date shown); earlier check 2026-09-28 saw it live",
       "deadline": null,
       "grad_window": "Winter 2026 or Spring/Summer 2027 (enrolled Bachelor's/Master's)",
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.phillips66.com",
   "jobs_spec": null,
-  "evidence": "Opened posting in browser pane 2026-09-30: Apply now present; IT new-hire program with job experiences incl. Software Engineering, Cloud, SRE, Data. Text says F-1, H-1, etc. or anyone needing sponsorship now or later is not eligible. No deadline stated.",
-  "confidence": "high"
+  "evidence": "WebFetch 2026-10-01: posting shows Apply now; IT new-hire program (Software Engineering, Cloud, SRE, Data experiences). Text: temporary visas (F-1, H-1...) or anyone needing sponsorship not eligible. No deadline. WebFetch only, no browser in cloud run.",
+  "confidence": "medium"
 }

@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.github.careers/early-in-profession",
   "jobs_spec": null,
-  "evidence": "Browser 2026-09-30 + github.careers /api/jobs (74 postings): only Senior/Staff/Principal/Manager roles plus one Software Engineer III (Copilot Models Inference); no entry-level SWE. Early in Profession page lists interns and a generic grads search, nothing live.",
-  "confidence": "medium",
-  "checked": "2026-09-30"
+  "evidence": "No browser in cloud run. github.careers /api/jobs via WebFetch returned only senior/staff roles (partial list). Prior browser run 2026-09-30 saw 74 postings, none entry-level, and Early in Profession page listing nothing live. not_yet, carried over.",
+  "confidence": "low",
+  "checked": "2026-10-01"
 }

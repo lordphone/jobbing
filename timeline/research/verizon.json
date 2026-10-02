@@ -1,15 +1,26 @@
 {
   "company": "Verizon",
   "tier": 11,
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior Data Security Engineer",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1",
+      "location": "Alpharetta, GA (remote role)",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate (postedOn 'Posted 3 Days Ago' on 2026-10-01)",
+      "deadline": "2026-10-28",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE entry in tracker history for 2025-07 to 2026-01; unknown",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; tracker shows only Engineer 1 - Systems Engineering (Tampa, FL) first seen 2026-07-23, not SWE. No dated Verizon new-grad SWE program found.",
   "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
   "jobs_spec": "wd:verizon/wd12/verizon-careers",
-  "evidence": "Workday API searches (software engineer, engineer I, early career, new grad, developer, data scientist, ML): US software roles are Senior/Principal; only entry items are Graduate roles in Limerick, a Junior Data Security Engineer (Alpharetta, security not SWE) and Summer 2027 internships. No US new-grad SWE live.",
+  "evidence": "Workday CXS keyword searches (232 postings seen). Junior Data Security Engineer (canApply true, endDate 2026-10-28): builds data pipelines and MCP/GCP services, 'Bachelor's degree or one or more years', no sponsorship text. Borderline security title. Other new-grad roles are Ireland/Australia or 2027 internships.",
   "confidence": "medium",
-  "checked": "2026-09-30"
+  "checked": "2026-10-01",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "Lenovo",
   "tier": 7,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-09-08",
       "date_source": "page text",
       "grad_window": "currently completing or recently completed degree; onboarding Spring/Summer 2027",
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": "2026-10-23"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lenovo.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Fetched posting page 2026-09-30: AI Platform Engineer, 2027 Global Future Leaders, Morrisville NC, posted 2026-09-08, Apply present, states deadline Oct 23 2026, recent-grad degree. Other GFL 2027 roles are AI analyst/architect; other US SWE roles not entry-labeled.",
+  "evidence": "WebFetch 2026-10-01 of posting page: AI Platform Engineer, 2027 Global Future Leaders, Morrisville NC, posted 2026-09-08, Apply present, deadline Oct 23 2026, recent-grad degree, no sponsorship limit. Other GFL 2027 roles are analyst/architect.",
   "confidence": "medium"
 }

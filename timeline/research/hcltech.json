@@ -1,7 +1,5 @@
 {
   "company": "HCLTech",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "unknown",
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcltech.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "HCLTech SuccessFactors recruiting API, ~264 US postings surfaced via keyword sweeps (entry, junior, graduate, developer, etc.). No entry-level SWE titles; 'Early Career Associate' is non-tech, Developer/Engineer reqs are generic or support. Campus programs are India-only.",
-  "confidence": "medium"
+  "evidence": "SuccessFactors recruiting API keyword sweeps (1185 global, 120 US/Canada): no entry/graduate SWE titles; US roles Senior/Lead/Architect, Support, Network; 'Early Career Associate' non-tech. Generic 'Developer' San Antonio page unreadable (no browser in cloud run).",
+  "confidence": "medium",
+  "checked": "2026-10-01",
+  "tier": 10
 }

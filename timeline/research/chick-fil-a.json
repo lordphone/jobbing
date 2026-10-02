@@ -1,7 +1,7 @@
 {
   "company": "Chick-fil-A",
   "tier": 9,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-08-17",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.chick-fil-a.com/corporate/jobs",
   "jobs_spec": null,
-  "evidence": "iCIMS board in browser: 'software' gives 15 results (Sr Lead roles, Summer 2027 interns); 'fellow' and 'associate' return 0. Digital Fellow (req 20298, tracker 2026-08-17) is gone, so a this-cycle posting closed. Class year unconfirmed.",
+  "evidence": "Jibe API (careers.chick-fil-a.com/api/jobs): Digital Fellow req 20298 (tracker 2026-08-17) now 302-redirects to search and is not listed; live tech roles are Sr Lead plus Summer 2027 SWE intern. Closed this-cycle posting. Class year unconfirmed.",
   "confidence": "medium"
 }

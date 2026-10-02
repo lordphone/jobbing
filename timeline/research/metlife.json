@@ -1,7 +1,7 @@
 {
   "company": "MetLife",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text",
       "deadline": "at least 2026-10-08",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Keyword path SearchJobs/platform%20engineer lists Associate Platform Engineer (Cary NC, grade 08T, bachelor's, Apply shown, posted 2026-09-18). Infrastructure/automation-leaning platform role, not pure SWE. Old Junior Software Platform Engineer 18579 now 404. Other junior SWE roles are India/Malaysia.",
+  "evidence": "Opened JobDetail/20618 via WebFetch: Associate Platform Engineer, Cary NC, posted 2026-09-18, Apply button shown, bachelor's, entry-level. Infrastructure/automation-leaning, not pure SWE. Other junior SWE roles are India/Malaysia. Avature has no API.",
   "confidence": "medium"
 }

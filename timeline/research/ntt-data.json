@@ -1,18 +1,16 @@
 {
   "company": "NTT DATA",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
       "title": "Junior Developer",
       "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
-      "location": "Arlington VA (remote)",
+      "location": "Arlington, VA (remote)",
       "opened": "2026-08-31",
-      "date_source": "page text (earlier req Aug 31; current req 388418 shows Sep 29 repost)",
+      "date_source": "page text (earlier req Aug 31; current reqs 388369 and 388418 show Sep 29 repost)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Junior Contact Center Developer",
@@ -20,9 +18,9 @@
       "location": "McKinney, TX",
       "opened": "2026-09-09",
       "date_source": "page text Date",
-      "deadline": null,
+      "deadline": "2026-10-10",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-02",
@@ -31,6 +29,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Keyword sweeps of the NTT DATA US board; opened both Junior Developer pages (Apply now shown). Junior Developer asks 3 yrs Python and 'Ability to obtain/maintain a Public Trust Clearance' (not a citizenship quote). Junior Contact Center Developer no eligibility text. Charlotte campus track gone.",
-  "confidence": "medium"
+  "evidence": "Server-rendered search pages and both posting pages loaded with Apply now. Titles are Junior but ask 2-3+ yrs experience; Arlington one mentions Public Trust clearance (no citizenship quote). No campus/2027 posting yet; borderline entry level.",
+  "confidence": "medium",
+  "checked": "2026-10-01",
+  "tier": 10
 }

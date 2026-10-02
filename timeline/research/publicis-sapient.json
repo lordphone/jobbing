@@ -1,15 +1,13 @@
 {
   "company": "Publicis Sapient",
-  "tier": 10,
-  "checked": "2026-09-30",
   "status": "open",
   "postings": [
     {
-      "title": "Java Application Support Engineer (Entry Level)",
+      "title": "Java Application Support Engineer",
       "url": "https://careers.publicissapient.com/job-details/2026-174321-java-application-support-engineer-boston",
       "location": "Boston, MA",
       "opened": "2026-09-18",
-      "date_source": "site Solr API releasedDate",
+      "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -21,6 +19,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicissapient.com/job-search",
   "jobs_spec": null,
-  "evidence": "Site Solr API (401 jobs, 107 US): Entry Level engineering role is Java Application Support Engineer (Java/SQL production support, Boston, Technology and Engineering team, no citizenship/sponsorship text): borderline SWE. Class of 2028 SWE intern only; no 2027 new-grad SWE.",
-  "confidence": "medium"
+  "evidence": "Posting page loads with Apply now, posted 2026-09-18, Java/SQL, no years or class year stated, no sponsorship text; production-support role, borderline SWE (prior run tagged it entry level). No 2027 new-grad SWE seen; search list unreadable, no browser in cloud run.",
+  "confidence": "low",
+  "checked": "2026-10-01",
+  "tier": 10
 }

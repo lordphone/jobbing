@@ -1,7 +1,7 @@
 {
   "company": "Valero Energy",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo board opened in browser 2026-09-30: all 12 live jobs listed (ethanol operators, process/control engineer, legal, Hosting Platform Engineer needing 5+ yrs, Technical Support Associate I). No entry-level SWE or university posting.",
-  "confidence": "medium"
+  "evidence": "Kept 2026-09-30 browser read of Taleo (12 live jobs, no entry-level SWE). 2026-10-01 cloud WebFetch of Taleo is JS-only, no listings (no browser in cloud run). valero.com university recruiting shows internships only.",
+  "confidence": "low"
 }

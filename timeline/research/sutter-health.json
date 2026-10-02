@@ -1,7 +1,7 @@
 {
   "company": "Sutter Health",
   "tier": 11,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.sutterhealth.org/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Browser pull of full board (1275 jobs): Information Services roles only BI Developer IV, Epic analysts, Analytics Engineer III, AI Solutions Architect, cloud manager. No entry-level SWE or new-grad track.",
+  "evidence": "No browser in cloud run: HTTP fetch of board search (82 hits) showed only 10 results (stationary/BI/analytics engineers, Solutions Architect); no SWE I or new-grad. Earlier full browser pull found none. Unchanged, medium.",
   "confidence": "medium"
 }

@@ -1,26 +1,26 @@
 {
   "company": "Citadel",
-  "tier": 4,
-  "checked": "2026-09-30",
-  "status": "open",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer - University Graduate (US)",
       "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
-      "location": "New York, Miami, Greenwich, Houston",
-      "opened": "on or before 2026-07-05",
+      "location": "New York, NY; Miami, FL; Greenwich, CT; Houston, TX",
+      "opened": "on or before 2026-07-06",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-07-10",
   "last_cycle_basis": "jobs.py history tracker first-seen for prior cycle's University Graduate SWE posting.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.citadel.com/careers/",
   "jobs_spec": null,
-  "evidence": "Opened posting in browser 2026-09-30: 'Start Application' present, bachelor's or master's required, no citizenship or clearance language, no deadline. Open date from tracker first-seen 2026-07-05.",
-  "confidence": "high"
+  "evidence": "Posting page returns 403 to WebFetch; no browser in cloud run. Prior run (2026-09-30, browser) saw Start Application, bachelor's/master's, no citizenship text, no deadline; likely still open but not re-verified.",
+  "confidence": "low",
+  "tier": 4,
+  "checked": "2026-10-01",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

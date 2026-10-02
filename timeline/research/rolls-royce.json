@@ -1,18 +1,26 @@
 {
   "company": "Rolls-Royce (aerospace; Rolls-Royce North America)",
   "tier": 8,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "excluded",
   "postings": [
-    {"title": "Junior Machine Learning Engineering", "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142", "location": "Indianapolis, IN", "opened": "2026-09-15", "date_source": "workday startDate", "deadline": null, "grad_window": "Dec 2026 - Jun 2027", "live_verified": "api"},
-    {"title": "Engineering and Technology Graduate Program", "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Engineering-and-Technology-Graduate-Program_JR6157064-1", "location": "Indianapolis, IN", "opened": "2026-09-24", "date_source": "workday startDate", "deadline": "2026-10-05", "grad_window": "Dec 2026 or May 2027", "live_verified": "api"}
+    {
+      "title": "Junior Machine Learning Engineering",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
+      "location": "Indianapolis, IN",
+      "opened": "2026-09-15",
+      "date_source": "page text (Job Posting Date 15 Sep 2026)",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Jun 2027",
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2026-01-04",
-  "last_cycle_basis": "tracker first seen: Launch into Control System Configuration Management, Indianapolis (Workday Intern_Graduate)",
+  "last_cycle_basis": "tracker first seen 2026-01-04: Launch into Control System Configuration Management, Indianapolis (Workday Intern_Graduate)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate",
   "jobs_spec": "wd:rollsroyce/wd3/Intern_Graduate",
-  "evidence": "Workday API, 62 postings. Both Indianapolis postings say 'To be considered, you must also be a U.S. Citizen'. Graduate program closing date October 5th, 2026.",
+  "evidence": "Workday API (61, --all): Junior Machine Learning Engineering and Engineering and Technology Graduate Program (Indianapolis, grads Dec 2026-Jun 2027) both say 'To be considered, you must also be a U.S. Citizen'. Other US roles are interns.",
   "confidence": "high"
 }

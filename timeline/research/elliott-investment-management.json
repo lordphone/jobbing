@@ -1,7 +1,7 @@
 {
   "company": "Elliott Investment Management",
   "tier": 4,
-  "checked": "2026-09-30",
+  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.elliottmgmt.com",
   "jobs_spec": null,
-  "evidence": "elliottmgmt.com /careers redirects to the contact page; no careers link or ATS board found; web search shows no openings. Could not read a first-party job list. Retry via another route.",
+  "evidence": "elliottmgmt.com/careers 301s to contact page; no careers link or ATS board found (guess, greenhouse 404); 1 web search shows no openings. No first-party job list readable; no browser in cloud run.",
   "confidence": "low"
 }
