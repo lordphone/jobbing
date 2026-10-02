@@ -1,7 +1,7 @@
 {
   "company": "Stoke Space",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/stokespacetechnologies",
   "jobs_spec": "gh:stokespacetechnologies",
-  "evidence": "Greenhouse: no entry-level SWE besides Early Career Engineer, Nova (not clearly SWE); SWE interns only. All postings quote ITAR: \"you must be a U.S. citizen, lawful permanent resident\" of the U.S.",
+  "evidence": "Greenhouse API plus detail: software postings (e.g. Software Integration Engineer, Level 1-2, Moses Lake) all quote ITAR \"you must be a U.S. citizen, lawful permanent resident\"; SWE intern only otherwise. Excluded.",
   "confidence": "high"
 }

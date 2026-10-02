@@ -5,33 +5,33 @@
   "postings": [
     {
       "title": "2027 Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/128864BR/x",
+      "url": "https://jobs.baesystems.com/global/en/job/128864BR/2027-Entry-Level-Software-Engineer",
       "location": "San Diego, CA",
       "opened": "2026-09-14",
       "date_source": "page text (dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://jobs.baesystems.com/global/en/job/130128BR/Software-Engineer-I",
+      "location": "Hudson, NH",
+      "opened": "2026-09-18",
+      "date_source": "page text (postedDateTrack)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
     },
     {
       "title": "Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/129314BR/x",
-      "location": "Hudson / Nashua / Merrimack, NH",
+      "url": "https://jobs.baesystems.com/global/en/job/129314BR/Entry-Level-Software-Engineer",
+      "location": "Hudson, NH",
       "opened": "2026-08-27",
       "date_source": "page text (dateCreated)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "no"
-    },
-    {
-      "title": "Software Engineer I",
-      "url": "https://jobs.baesystems.com/global/en/job/130128BR/Software-Engineer-I",
-      "location": "Hudson, New Hampshire",
-      "opened": "2026-09-18",
-      "date_source": "page text (postedDateTrack)",
-      "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
     }
   ],
   "last_cycle_opened": "2025-08-17",
@@ -40,7 +40,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-01: 2027 Entry Level SWE (128864BR San Diego), 129314BR and Software Engineer I 130128BR (Hudson NH) all say position filled. Roles quote 'ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship'. Board search is JS-only (no browser in cloud run).",
+  "evidence": "Phenom board search lists many entry SWE reqs (128864BR, 130128BR, 130493BR early-career), but opened pages show no description or Apply (browser) or \"has been filled\" (WebFetch). Clearance quote: \"require the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship.\"",
   "confidence": "medium",
-  "checked": "2026-10-01"
+  "checked": "2026-10-02"
 }

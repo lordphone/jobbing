@@ -1,7 +1,7 @@
 {
   "company": "True Anomaly",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -25,7 +25,7 @@
       "live_verified": "api"
     },
     {
-      "title": "Flight Software Engineer I (New Grad)",
+      "title": "Flight Software Engineer I (Temp-to-hire)",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "location": "Denver, CO; Long Beach, CA",
       "opened": "2026-08-25",
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/trueanomalyinc",
   "jobs_spec": "gh:trueanomalyinc",
-  "evidence": "Many live New Grad SWE I postings (Aug-Sep 2026), but requirements read 'U.S. Citizen and eligible for DoD Secret or TS/SCI clearance' plus ITAR citizen/LPR text.",
+  "evidence": "Greenhouse API: many live New Grad SWE I postings (Aug-Sep 2026), each quoting \"U.S. Citizen and eligible for DoD Secret or TS/SCI clearance\" plus ITAR citizen/LPR text. Excluded.",
   "confidence": "high"
 }

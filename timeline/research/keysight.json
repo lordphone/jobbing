@@ -1,26 +1,26 @@
 {
   "company": "Keysight",
   "tier": 7,
-  "checked": "2026-10-01",
-  "status": "excluded",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Engineer, Measurement Applications",
-      "url": "https://jobs.keysight.com/jobs/54139?icims=1",
+      "title": "Software Engineer \u2013 Oscilloscope & Measurement Solutions (Job Type: Campus)",
+      "url": "https://jobs.keysight.com/external/jobs/54394?lang=en-us",
       "location": "Colorado Springs, CO",
-      "opened": "2026-09-02",
-      "date_source": "tracker first seen",
-      "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (no date shown)",
+      "deadline": null,
+      "grad_window": "BS/MS CE/EE/CS; Job Type Campus",
+      "live_verified": "browser"
     }
   ],
-  "last_cycle_opened": "2025-03-09",
-  "last_cycle_basis": "tracker: 'R&D Software Engineer' Santa Rosa/Everett, first seen 2025-03-09",
-  "excluded_reason": "citizenship / green card",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker history 2025-07..2026-01 has only 'Sales Compensation Data Analyst - Recent Graduate' (2025-10-21) and R&D Data Analytics Engineer (2025-10-29); no new-grad SWE found",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Posting page unreadable via WebFetch today (nav shell; no browser in cloud run). Kept from 2026-09-30 browser read: 'Visa Sponsorship is not available' and 'need to be a U.S. citizen, lawful permanent resident...'. Other US SWE hits not entry-level.",
+  "evidence": "Browser 2026-10-02: Keysight job search (165 'software engineer' US results) shows req 54394 with Job Type 'Campus', Apply present; page says 'Visa Sponsorship is not available'; no citizenship/green card requirement in text. Earlier req 54139 (cited as citizenship-restricted) now 404. Regular R&D SWE roles not entry-labeled.",
   "confidence": "medium"
 }

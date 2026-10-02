@@ -1,7 +1,7 @@
 {
   "company": "Capco",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -21,7 +21,7 @@
       "opened": "2026-08-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "June 2027 start",
+      "grad_window": "June 2027",
       "live_verified": "api"
     },
     {
@@ -31,17 +31,7 @@
       "opened": "2026-08-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "June 2027 start",
-      "live_verified": "api"
-    },
-    {
-      "title": "Capco Associate Talent Program - Houston Jan 2027",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
-      "location": "Houston, TX",
-      "opened": "2026-02-17",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
+      "grad_window": "June 2027",
       "live_verified": "api"
     }
   ],
@@ -51,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/capco",
   "jobs_spec": "gh:capco",
-  "evidence": "Greenhouse API 2026-10-01: live Associate Talent Program postings (consulting/technology, not pure SWE) say \"Must be authorized to work in the United States (US Citizens or Permanent Residents ONLY)\". NY ATP 8156530 not on board. Toronto dev roles not entry-level.",
+  "evidence": "Greenhouse API 2026-10-02: live Associate Talent Program (consulting/technology, not pure SWE) states \"Must be authorized to work in the United States (US Citizens or Permanent Residents ONLY)\". Other SWE roles are experienced.",
   "confidence": "medium"
 }

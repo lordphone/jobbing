@@ -1,8 +1,8 @@
 {
   "company": "Klarna",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no first-party or tracker date found",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.deel.com/klarna",
   "jobs_spec": null,
-  "evidence": "Deel board returned only a URL list via WebFetch, no titles or locations (no browser in cloud run). Prior browser check 2026-09-30: engineering roles in Stockholm, London, Milan, Warsaw; no US entry-level SWE; not re-verified.",
-  "confidence": "low"
+  "evidence": "Deel board read in browser 2026-10-02 (101 roles): engineers in Stockholm, London, Milan, Warsaw; US roles (NY, Columbus, Portland, SF) are non-engineering or Solutions Engineer. No US entry-level SWE.",
+  "confidence": "high"
 }

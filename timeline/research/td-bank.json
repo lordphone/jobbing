@@ -1,7 +1,5 @@
 {
   "company": "TD Bank (TD Bank Group)",
-  "tier": 5,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -9,7 +7,7 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
       "location": "Toronto, ON, Canada",
       "opened": "2026-10-01",
-      "date_source": "workday postedOn 'Posted Today' / startDate",
+      "date_source": "workday startDate",
       "deadline": "2026-10-08",
       "grad_window": null,
       "live_verified": "api"
@@ -23,14 +21,26 @@
       "deadline": "2026-10-10",
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I (Cobol Developer)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-15",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-25",
-  "last_cycle_basis": "tracker first-seen 2025-08-25 'Machine Learning Engineer I' Toronto (also SWE I 2025-05-22); NY 'New Grad 2025' 2024-10-08 two cycles back",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first-seen 2025-08-25 'Machine Learning Engineer I' Toronto (SWE I Toronto 2025-11-04); NY 'New Grad 2025' 2024-10-08 two cycles back",
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday API: two live 'Software Engineer I' in Toronto (entry-level title; deadlines 2026-10-08 and 2026-10-10 from endDate). Not a class-year program; counts as entry-level Toronto. 2027 Technology Graduate Programme is Dublin only; US tech is internship. Earlier not_yet superseded since Toronto counts.",
-  "confidence": "medium"
+  "evidence": "Workday (151) 2026-10-02: three live Toronto 'Software Engineer I' reqs, deadlines from endDate. Entry-level title, not a class-year program. 2027 Technology Graduate Programme is Dublin only; US roles are Spring co-ops and a 3+ yr Management Associate program.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

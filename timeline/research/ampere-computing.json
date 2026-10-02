@@ -7,9 +7,9 @@
   "last_cycle_basis": "none found",
   "jobs_page": "https://careers.amperecomputing.com/",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run. careers.amperecomputing.com 403 to WebFetch/curl. Earlier browser read (2026-09-30): US SWE Senior/Principal/Architect, AI Accelerator SWE no entry label, interns only. Not re-verified.",
+  "evidence": "careers.amperecomputing.com blocks WebFetch/curl (403, Cloudflare challenge) and browser pane navigation failed 2026-10-02. Web search shows interns and an AI SWE intern only. Earlier read (2026-09-30): US SWE senior/principal, no entry label. Retry later.",
   "confidence": "low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "excluded_reason": null,
   "no_sponsorship": false
 }

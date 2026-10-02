@@ -1,7 +1,7 @@
 {
   "company": "Curtiss-Wright",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday API (86, --all): Graduate Engineer, Frederick MD (0-2 yrs; develop/test/debug software and hardware for nuclear simulators) listed live; no citizenship, clearance or sponsorship line found in text. Other US software roles are senior/principal.",
+  "evidence": "Workday API (87, --all) + posting text: Graduate Engineer, Frederick MD (0-2 yrs; develop/test/debug simulation software for power plant simulators; degree listed mechanical/nuclear/chemical), canApply true; no citizenship line. Weak SWE fit. Other US software roles senior.",
   "confidence": "medium"
 }

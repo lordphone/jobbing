@@ -1,15 +1,15 @@
 {
   "company": "Wayve",
   "tier": 8,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker entry found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/wayve",
-  "jobs_spec": "gh:wayve",
-  "evidence": "gh:wayve API and job-boards page now return 404 (board moved/removed since 2026-09-30); wayve.ai/careers behind captcha; no browser in cloud run. Third-party aggregator shows only mid-level Sunnyvale roles. Prior run (API, 197 jobs): no entry SWE.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "jobs_page": "https://jobs.ashbyhq.com/wayve",
+  "jobs_spec": "ashby:wayve",
+  "evidence": "Wayve moved from Greenhouse (404) to Ashby (found via wayve.ai/careers/join-us). Ashby API 2026-10-02, 33 postings: Sunnyvale SWE/ML roles are unleveled or senior+; no entry-level, grad or 2027 posting; UK graduate roles only.",
+  "confidence": "medium"
 }

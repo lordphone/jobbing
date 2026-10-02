@@ -1,7 +1,7 @@
 {
   "company": "Early Warning Services (Zelle)",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers",
   "jobs_spec": "wd:earlywarning/wd5/earlywarningcareers",
-  "evidence": "Workday API --all, 11 postings: only Staff/Senior roles. Paze Java SWE (entry, 'Must US Citizen or US National', no sponsorship per 2026-09-30 read) no longer listed; tracker marks closed 2026-09-29; page not openable (no browser in cloud run).",
+  "evidence": "Workday API --all 2026-10-02, 11 postings: only Staff/Senior roles. Paze Java SWE (entry, 'Must US Citizen or US National', no sponsorship per prior 2026-09-30 read) no longer listed; tracker marks closed; page not re-openable. Excluded kept from that quote.",
   "confidence": "medium"
 }

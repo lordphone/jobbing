@@ -1,7 +1,8 @@
 {
   "company": "IHG Hotels & Resorts",
   "tier": 11,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history. IHG Internships & Graduate page lists only US corporate internships and a Manager In Training program.",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "IHG careers returned 403 to WebFetch; no browser in cloud run; search showed only US corporate internships. Earlier browser read (2026-09-28, 151 Corporate jobs) found no US new-grad SWE (only Jr Developer in Guadalajara); unverified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "IHG careers search in browser pane 2026-10-02 (keywords software, developer, data, graduate, technology, analyst, engineer): no US/Canada entry SWE; only 'Head of App and Web Technology' (Atlanta, senior) and hotel engineering roles in China. Page 2-3 of 'engineer' not read.",
+  "confidence": "medium"
 }

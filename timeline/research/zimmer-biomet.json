@@ -1,15 +1,15 @@
 {
   "company": "Zimmer Biomet",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history found; early-careers page lists rotational programs and internships with no dates",
+  "last_cycle_basis": "no tracker or first-party history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.zimmerbiomet.com",
   "jobs_spec": null,
-  "evidence": "Cloud run, no browser: Phenom board not readable via WebFetch/search (no listings). Kept 2026-09-30 browser finding: software results all Senior/Principal, no SWE new-grad track. Not re-verified (no browser in cloud run).",
+  "evidence": "Phenom board not readable (WebFetch search shows no results, no browser). Web search shows early careers page with internships/rotational programs only. Kept prior browser finding: software results Senior/Principal, no SWE new-grad track.",
   "confidence": "low"
 }

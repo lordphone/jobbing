@@ -3,6 +3,16 @@
   "status": "excluded",
   "postings": [
     {
+      "title": "Entry-Level Computer Scientist",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248",
+      "location": "Huntsville, AL",
+      "opened": "on or before 2026-09-25",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": "2027 start (January or post-Spring graduation)",
+      "live_verified": "api"
+    },
+    {
       "title": "Software Engineer I",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192469",
       "location": "San Diego, CA",
@@ -34,13 +44,13 @@
     }
   ],
   "last_cycle_opened": "2025-07-30",
-  "last_cycle_basis": "tracker first seen 2025-07-30 (Junior Software Engineer - Intel Sector)",
+  "last_cycle_basis": "tracker first seen 2025-07-30 (Junior Software Engineer - Intel Sector, Laurel MD)",
   "excluded_reason": "clearance",
   "jobs_page": "https://leidos.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:leidos/wd5/External",
-  "evidence": "Workday API detail 2026-10-01: SWE I San Diego 'U.S. Citizen with an active SECRET security clearance or the ability to obtain one'; Junior SWE Laurel 'TS/SCI with Polygraph required'; Huntsville 'Must be a US citizen'. Unchanged.",
+  "evidence": "Workday API 2026-10-02: Entry-Level Computer Scientist 'Must be a U.S. citizen with the ability to obtain... Top Secret'; SWE I San Diego 'U.S. Citizen with an active SECRET'; Laurel 'TS/SCI with Polygraph required'; Huntsville 'U.S. Citizenship required'. Unchanged.",
   "confidence": "high",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "tier": 10,
   "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "Valero Energy",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en",
   "jobs_spec": null,
-  "evidence": "Kept 2026-09-30 browser read of Taleo (12 live jobs, no entry-level SWE). 2026-10-01 cloud WebFetch of Taleo is JS-only, no listings (no browser in cloud run). valero.com university recruiting shows internships only.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02 read valero.taleo.net listing (44 jobs, both pages): operations, engineering, legal, finance; only IT items are Technical Support Associate I, Hosting/Infrastructure Platform Engineer, Network Operator. No entry-level SWE.",
+  "confidence": "medium"
 }

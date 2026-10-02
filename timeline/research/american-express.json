@@ -1,7 +1,7 @@
 {
   "company": "American Express",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -10,7 +10,7 @@
       "location": "Palo Alto, CA",
       "opened": "2026-09-01",
       "date_source": "oracle API posted",
-      "grad_window": "Master's grad Dec 2026 – Jun 2027",
+      "grad_window": "Master's grad Dec 2026 \u2013 Jun 2027",
       "live_verified": "api",
       "deadline": "2026-11-01"
     },
@@ -20,7 +20,7 @@
       "location": "Phoenix, AZ",
       "opened": "2026-09-01",
       "date_source": "oracle API posted",
-      "grad_window": "Master's grad Dec 2026 – Jun 2027",
+      "grad_window": "Master's grad Dec 2026 \u2013 Jun 2027",
       "live_verified": "api",
       "deadline": "2026-11-01"
     }
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://egug.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:egug.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "jobs.py detail 2026-10-01: live 2027 Masters Full-Time AI Engineer I (Palo Alto) and Software Engineer II (Phoenix), posted 2026-09-01, end date 2026-11-01, no visa sponsorship. Undergrad cohort is analyst/cybersecurity only; UK SWE roles ignored.",
+  "evidence": "jobs.py detail 2026-10-02: live 2027 Masters Full-Time AI Engineer I (Palo Alto) and Software Engineer II (Phoenix), posted 2026-09-01, ends 2026-11-01, no visa sponsorship. Undergrad cohort is analyst/cybersecurity only; UK SWE roles ignored.",
   "confidence": "high"
 }

@@ -1,26 +1,26 @@
 {
   "company": "Centene",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
       "title": "Business Solutions Developer 1",
       "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Solutions-Developer-I_1652686-1",
-      "location": "Remote, Missouri",
+      "location": "Remote, MO",
       "opened": "2026-08-18",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker first seen: Application Development Engineer I, Remote MO, centene.wd5.myworkdayjobs.com; Data Engineer I from 2025-09-18",
+  "last_cycle_basis": "tracker first seen 2025-09-15 Application Development Engineer I (Remote MO)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://centene.wd5.myworkdayjobs.com/Centene_External",
   "jobs_spec": "wd:centene/wd5/Centene_External",
-  "evidence": "Workday listing (54, --all) has only 2027 interns, no engineer roles; Business Solutions Developer 1 (2026-08-19) absent from list, but posting page unreadable (CXS 403, WebFetch empty; no browser in cloud run). Not confirmed closed; prior file said closed.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Business Solutions Developer 1 page 'doesn't exist'. Workday list (54, --all) has only 2027 interns; no engineer roles. Centene posts Data/App Engineer I roles in waves (Sep-Dec last cycle).",
+  "confidence": "medium"
 }

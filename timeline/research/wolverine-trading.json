@@ -1,46 +1,46 @@
 {
   "company": "Wolverine Trading",
-  "tier": 4,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
       "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
       "location": "Chicago, IL",
-      "opened": "on or before 2026-08-14",
+      "opened": "2026-08-14",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027",
-      "live_verified": "browser"
-    },
-    {
-      "title": "Entry Level C++ Software Engineer (December 2026 Graduates)",
-      "url": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e",
-      "location": "Chicago, IL",
-      "opened": "on or before 2026-08-14",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "December 2026",
+      "grad_window": "Spring 2027 (April to June 2027)",
       "live_verified": "browser"
     },
     {
       "title": "Entry Level C++ Software Engineer",
       "url": "https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8",
       "location": "Chicago, IL",
-      "opened": "on or before 2026-08-14",
+      "opened": "2026-09-18",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry Level C++ Software Engineer (December 2026 Graduates)",
+      "url": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e",
+      "location": "Chicago, IL",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "December 2026",
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-26",
   "last_cycle_basis": "tracker first seen: Entry Level C# Software Engineer 2025-10-26; C++ 2025-10-30",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://careers.wolve.com/",
   "jobs_spec": "pinpoint:wolve",
-  "evidence": "Pinpoint board (19 postings): three entry-level C++ SWE postings (Chicago) each show Apply Now via WebFetch of careers.wolve.com, no deadline. Sponsorship line kept from 2026-09-30 read (US authorization without sponsorship); not visible in today's fetch.",
-  "confidence": "medium"
+  "no_sponsorship": true,
+  "evidence": "Pinpoint board (19 postings) 2026-10-02: Spring 2027 and generic entry-level C++ postings opened in browser, Apply Now present, no deadline. Spring posting states only candidates authorized to work in the US who do not need sponsorship now or later. Dec 2026 posting seen on board only.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "excluded_reason": null
 }

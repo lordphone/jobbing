@@ -1,8 +1,8 @@
 {
   "company": "Playtika",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history \"playtika\" returned 0 tracker postings",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.playtika.com/careers/all/",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: careers/all page is JS-rendered; WebFetch shows no listings, 1 WebSearch found nothing US. Prior browser check 2026-09-30 saw USA only 'Slots Game Designer', no SWE. Retry with browser.",
-  "confidence": "low"
+  "evidence": "Opened playtika.com/careers/all in browser 2026-10-02: USA group lists 1 opening (Slots Game Designer); no SWE or entry roles in US/Toronto/Vancouver. Engineering is Israel/Europe. No tracker history.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "The ODP Corporation (Office Depot)",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.officedepot.com/search/jobs",
   "jobs_spec": null,
-  "evidence": "Cloud run: careers.officedepot.com returns 403/Cloudflare to WebFetch and curl (no browser in cloud run), so not re-verified. Prior browser check 2026-09-30: 0 engineer jobs, 8 non-SWE 'software' hits. Search shows internships only.",
-  "confidence": "low"
+  "evidence": "Browser pane 2026-10-02: careers.officedepot.com searches for engineer, developer, graduate return 0 jobs; 'software' returns 8 non-SWE merchandising/HR roles in Boca Raton. No entry-level SWE.",
+  "confidence": "high"
 }

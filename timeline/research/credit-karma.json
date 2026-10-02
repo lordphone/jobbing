@@ -1,26 +1,26 @@
 {
   "company": "Credit Karma",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer 1 (Intuit general posting, New College Grad; Credit Karma is an Intuit company)",
+      "title": "Software Engineer 1 (Intuit-wide, category New College Grad; Credit Karma is an Intuit company)",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
       "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
-      "opened": "unknown (date not shown on page; evergreen)",
-      "date_source": "page text",
+      "opened": "on or before 2025-08-14 (evergreen, still live)",
+      "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
-  "last_cycle_opened": "2025-10-22",
-  "last_cycle_basis": "tracker history: Intuit Software Engineer 1 (jobs.intuit.com/27595) first seen 2025-10-22; no CK-specific date",
+  "last_cycle_opened": "2025-08-14",
+  "last_cycle_basis": "Intuit Software Engineer 1 page JSON-LD datePosted 2025-8-14 (https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720); tracker first seen 2025-10-22",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
   "jobs_spec": null,
-  "evidence": "Credit Karma posts via jobs.intuit.com; CK-branded list shows only Staff/Senior roles. Intuit-wide 'Software Engineer 1' (New College Grad, <2 yrs, Apply Now, incl. Charlotte/NY) is live but undated and a general Intuit posting, not CK-branded.",
-  "confidence": "low"
+  "evidence": "Opened posting 2026-10-02: Apply Now present, category New College Grad, <2 yrs, Charlotte (CK hub) among locations. Intuit-wide, not CK-branded; CK-branded list (110 jobs) is Staff/Senior only. No sponsorship line seen.",
+  "confidence": "medium"
 }

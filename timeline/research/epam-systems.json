@@ -7,7 +7,7 @@
       "url": "https://careers.epam.com/en/vacancy/junior-android-engineer-blt0i089vi7bj2ibpdv_en",
       "location": "Sunnyvale, CA",
       "opened": "2026-09-29",
-      "date_source": "page text (JobPosting datePosted)",
+      "date_source": "epam careers API created_at",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -19,8 +19,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.epam.com/en/jobs/united_states_of_america",
   "jobs_spec": null,
-  "evidence": "Posting page loads with datePosted 2026-09-29, validThrough 2027-09-29; 'No sponsorship or relocation', needs 6+ months Android experience. Search API not reachable this run, no browser in cloud run; prior run found rest Senior/Middle.",
+  "evidence": "EPAM careers search API 2026-10-02: 224 US postings, only Junior-seniority one is Junior Android Engineer (Sunnyvale, created 2026-09-29, not expired); rest Middle/Senior/Lead/management. Page says no sponsorship/relocation, needs 6+ months Android.",
   "confidence": "medium",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "tier": 10
 }

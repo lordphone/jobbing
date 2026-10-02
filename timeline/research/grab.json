@@ -1,15 +1,15 @@
 {
   "company": "Grab",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior US new-grad SWE opening.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://grab.careers",
   "jobs_spec": null,
-  "evidence": "grab.careers WebFetch 2026-10-01: 447 jobs, none US-located; engineering roles in Malaysia/Singapore/Indonesia. No US SWE roles. Prior browser check agreed.",
-  "confidence": "high"
+  "evidence": "grab.careers fetched 2026-10-02: ~443 jobs; SWE roles all in Malaysia, Vietnam, Singapore, Indonesia, Romania. No US, Toronto or Vancouver SWE roles. GRIT Trainee program is SEA.",
+  "confidence": "medium"
 }

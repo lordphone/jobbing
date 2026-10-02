@@ -1,15 +1,15 @@
 {
   "company": "American Airlines",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "company page destinationaa.com/campus says ADEPT/internship 'Applications open in September'; no dated posting found",
+  "last_cycle_basis": "destinationaa.com/campus: IT ADEPT (Phoenix AZ, Fort Worth TX) 'Applications open in September', rolling offers; no dated posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: jobs.aa.com returns 403 to WebFetch. destinationaa.com/campus says IT ADEPT (Phoenix AZ, Fort Worth TX) applications open in September, rolling. 2026-09-30 browser check saw no ADEPT/entry SWE; not re-verifiable here.",
-  "confidence": "low"
+  "evidence": "Browser pane on jobs.aa.com/search 2026-10-02: queries ADEPT, university, associate, developer, intern return none; 'software' shows only Engineer/Sr/Principal IT Software. ADEPT (2-yr software rotation) not posted yet; campus page says applications open in September.",
+  "confidence": "medium"
 }

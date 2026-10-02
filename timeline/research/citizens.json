@@ -1,36 +1,36 @@
 {
   "company": "Citizens (Citizens Financial Group)",
-  "tier": 5,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer | Enterprise Technology & Security Development Program",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
-      "location": "United States (no city listed)",
+      "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027 graduation",
+      "grad_window": "Spring 2027 graduation; program starts 2027-06-28",
       "live_verified": "api"
     },
     {
       "title": "Data Engineer | Enterprise Technology & Security Development Program",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
-      "location": "United States (no city listed)",
+      "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027 graduation",
+      "grad_window": "Spring 2027 graduation; program starts 2027-06-28",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-30",
   "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board)",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Both ETS Development Program requisitions return full detail from the Oracle API (ApplyWhenNotPostedFlag true) but are absent from the 16-job search list: unlisted, apply by direct link. Spring 2027 grad; permanent work authorization required, no sponsorship. Apply button not seen (no browser).",
-  "confidence": "medium"
+  "evidence": "ETS Development Program reqs 49290/49291 (also Network Engineer 49292, not counted) return full detail, ApplyWhenNotPostedFlag true, page renders, but absent from the 15-job list: unlisted, direct link. Permanent work authorization required, no sponsorship. Apply button not confirmed.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-02",
+  "excluded_reason": null
 }

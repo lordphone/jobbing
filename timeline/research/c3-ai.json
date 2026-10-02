@@ -1,7 +1,7 @@
 {
   "company": "C3.ai",
   "tier": 2,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -26,11 +26,11 @@
     }
   ],
   "last_cycle_opened": "2024-09-25",
-  "last_cycle_basis": "tracker: generic SWE postings first seen 2024-09-25; no explicit last-cycle new-grad title found",
+  "last_cycle_basis": "tracker: generic SWE postings first seen 2024-09-25; no explicit last-cycle (2025) new-grad title found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/c3iot",
   "jobs_spec": "gh:c3iot",
-  "evidence": "Greenhouse API (board behind c3.ai) returns both 2027 New Grad postings live, first published 2026-09-14, with graduation-window text. No citizenship or deadline line.",
+  "evidence": "Greenhouse API (board behind c3.ai) returns both 2027 New Grad postings live, first published 2026-09-14, with graduation-window text; c3.ai job page returns 200. No citizenship, sponsorship or deadline line.",
   "confidence": "high"
 }

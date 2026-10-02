@@ -1,8 +1,8 @@
 {
   "company": "Abbott Laboratories",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "open",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
       "title": "Software Engineer I",
@@ -12,15 +12,15 @@
       "date_source": "tracker first seen (workday startDate 2026-09-25)",
       "deadline": "2026-10-02",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker history: Software Engineer 1 - Digital Health Engineering (Pacoima/Sylmar, CA) first seen 2025-10-02",
+  "last_cycle_basis": "tracker first seen 2025-10-02 Software Engineer 1 - Digital Health Engineering (Sylmar, CA)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
   "jobs_spec": "wd:abbott/wd5/abbottcareers",
-  "evidence": "Re-read La Jolla posting via Workday API 2026-10-01: still live, endDate 2026-10-02, 'Authorization to work in the US without sponsorship'. Other SWE roles (Irving, Sunnyvale II, verification) not entry. Same status.",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-02: La Jolla Software Engineer I page 'doesn't exist'; absent from search. Other US SWE roles (Sunnyvale II, Irving, Plano) not entry. Old posting required no sponsorship.",
+  "confidence": "medium"
 }

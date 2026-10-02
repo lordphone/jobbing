@@ -1,15 +1,15 @@
 {
   "company": "Enterprise Mobility (formerly Enterprise Holdings)",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history; SWE intern targets Dec 2027/May 2028 grads; Engineer 1, Software postings existed earlier (536821, 537477) but are gone",
+  "last_cycle_basis": "unknown; no tracker history; Engineer 1, Software postings existed earlier (536821, 537477) but are gone; SWE intern targets 2027 summer",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.enterprisemobility.com/en/careers/career-opportunities/technology-jobs.html",
+  "jobs_page": "https://us-erac.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Cloud run, no browser: iCims board unreadable via WebFetch. Kept 2026-09-30 full iCims enumeration: only Senior/principal SWE and Summer 2027 interns; no Engineer 1, Software live. Not re-verified today.",
-  "confidence": "low"
+  "evidence": "Browser read of us-erac.icims.com (iframe) 2026-10-02: 'engineer 1' and 'software engineer' searches show only Senior/Lead/Principal roles and Summer 2027 interns (St. Louis); no Engineer 1, Software live. Earlier Engineer 1, Software reqs (536821, 537477) not listed.",
+  "confidence": "medium"
 }

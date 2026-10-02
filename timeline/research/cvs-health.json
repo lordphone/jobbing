@@ -1,19 +1,10 @@
 {
   "company": "CVS Health",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Development Engineer",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer_R1051951",
-      "location": "IL - Work from home",
-      "opened": "2026-09-28",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-09",
-      "grad_window": null,
-      "live_verified": "api"
-    }
+    {"title": "Software Development Engineer", "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer_R1051951", "location": "Remote (US), listed as IL - Work from home", "opened": "2026-09-28", "date_source": "workday startDate", "deadline": "2026-10-09", "grad_window": null, "live_verified": "api"}
   ],
   "last_cycle_opened": "2025-08-29",
   "last_cycle_basis": "tracker history: Associate Software Development Engineer, Hartford CT, first seen 2025-08-29",
@@ -21,6 +12,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
   "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
-  "evidence": "Workday API re-checked: base-level SDE (IL, R1051951) still live, canApply true, 1-4 yrs, master's preferred, endDate 2026-10-09; not labeled new grad. Other CVS SWE postings are senior or 2+ yrs. Same status as prior file.",
+  "evidence": "Workday API re-read 2026-10-02: base-level SDE (R1051951) live, canApply true, 1-4 yrs, master's preferred, endDate 2026-10-09; not labeled new grad. New Scottsdale SDE (R1046819) asks 3+ yrs so not counted. No Associate SWE postings live.",
   "confidence": "medium"
 }

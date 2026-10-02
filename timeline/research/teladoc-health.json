@@ -1,15 +1,26 @@
 {
   "company": "Teladoc Health",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-02",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior Software Engineering Program - Associate Engineer",
+      "url": "https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
+      "location": "Remote (US) (only candidates in AL, AK, AZ, AR, DE, FL, GA, ID, IN, IA, KS, KY, LA, MD, MA, MI, MS, MO, MT, NE, NH, NJ, NM, NY, NC, ND, OH, OK, OR, RI, SC, SD, TN, TX, UT, VT, VA, WV, WI, WY)",
+      "opened": "2026-10-02",
+      "date_source": "workday postedOn (Posted Today; startDate 2026-10-02)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found in tracker history or first-party board",
+  "last_cycle_basis": "No tracker history; no earlier Teladoc entry-level posting found.",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring",
   "jobs_spec": "wd:teladoc/wd503/teladochealth_is_hiring",
-  "evidence": "Workday API 2026-10-01 (8 postings): Staff AI Engineer, Principal Platform Engineer, Full-Stack SWE NYC (3+ yrs, senior web, no sponsorship). No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-02: 'Junior Software Engineering Program - Associate Engineer' posted today, canApply true, no class-year window. Posting says will not sponsor visas. Remote only from listed states.",
+  "confidence": "medium"
 }

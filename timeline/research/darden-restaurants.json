@@ -1,6 +1,7 @@
 {
   "company": "Darden Restaurants",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://dardenmyjobs.recruiting.com/jobs",
   "jobs_spec": null,
-  "evidence": "Own board (recruiting.com, 502 jobs) first page read via WebFetch 2026-10-01 matches earlier full read (2026-09-30, 509 jobs): 2027 Azure Cloud/Innovative Technology interns, Analyst CRM, QA Analyst. Paging not re-read. No entry-level SWE or new-grad program.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Own board (recruiting.com, all 500 jobs across 50 pages read via embedded JSON) 2026-10-02: tech is 2027 Azure Cloud/Innovative Technology interns, Analyst CRM, QA Analyst, Sr Programmer Analyst. No entry SWE or new-grad program.",
+  "confidence": "high"
 }

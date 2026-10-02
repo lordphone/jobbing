@@ -1,15 +1,15 @@
 {
   "company": "XR Trading",
   "tier": 4,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker/history evidence found.",
-  "jobs_page": "https://recruiting.paylocity.com/recruiting/jobs/All/5c109104-7c4d-415c-9ee4-54e3af55f9e7/XR-Trading-LLC",
-  "jobs_spec": null,
-  "evidence": "Paylocity portal needs JavaScript; WebFetch returned only a browser notice (no browser in cloud run). Earlier 2026-09-30 browser read showed 1 posting, Experienced Trader, no SWE. Tracker history empty.",
-  "confidence": "low",
-  "checked": "2026-10-01",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://recruiting.paylocity.com/recruiting/jobs/All/5c109104-7c4d-415c-9ee4-54e3af55f9e7/XR-Trading-LLC",
+  "jobs_spec": null,
+  "evidence": "Browser pane read of Paylocity board 2026-10-02: 2 postings, IT Year-Round Intern (Chicago, 10/1) and Experienced Trader (remote US). No entry-level SWE. No tracker history.",
+  "confidence": "medium"
 }

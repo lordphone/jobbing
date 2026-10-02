@@ -1,18 +1,18 @@
 {
   "company": "Aramark",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "Junior Data Engineer",
+      "title": "Junior Data Engineer (req 675584)",
       "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19103/1425182600/",
-      "location": "Philadelphia, PA",
+      "location": "Philadelphia, PA; Chicago, IL; Rockville, MD",
       "opened": "2026-08-31",
-      "date_source": "aramark careers listing date (9/1-9/2/26); kept earlier 2026-08-31",
+      "date_source": "aramark careers listing date (kept from earlier run)",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Junior Data Engineer (req 677288, entry point; dbt/Snowflake/Python)",
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://aramarkcareers.com/UnitedStates/search/",
   "jobs_spec": null,
-  "evidence": "Aramark sitemap (8297 jobs) and pages read 2026-10-01: two live Junior Data Engineer postings, Philadelphia (reqs 675584 needs 2+ yrs; 677288 entry point, BS/MS CS), no visa sponsorship. Data engineering, borderline SWE; no SWE new-grad track.",
+  "evidence": "Opened both Junior Data Engineer pages 2026-10-02: Apply now shown; no visa sponsorship. 677288 is entry-level (BS/MS CS, writes code under senior engineers); 675584 asks 2+ yrs. Data engineering, borderline SWE; no SWE new-grad track in sitemap.",
   "confidence": "low"
 }

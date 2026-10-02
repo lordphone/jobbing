@@ -1,15 +1,15 @@
 {
   "company": "Balyasny Asset Management",
-  "status": "unknown",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-05",
   "last_cycle_basis": "tracker history: Systematic Equities Quantitative Researcher / Developer (NY) first seen 2025-07-05 (quant dev, not pure SWE)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://bambusdev.my.site.com/s/",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: Salesforce portal bambusdev.my.site.com/s/ does not render via WebFetch (loading/CSS error). Prior browser check 2026-09-30 (134 roles) found no US new-grad SWE; not reconfirmed.",
-  "confidence": "low",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-02: portal (137 roles) rendered; Early Career filter shows only Credit Analyst (NY) and Junior Software Engineer (Warsaw, non-US). Only SWE internships otherwise. Has recurring grad programs, none live in US.",
+  "confidence": "medium"
 }

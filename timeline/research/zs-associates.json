@@ -1,15 +1,17 @@
 {
   "company": "ZS Associates",
-  "status": "leftover_2026",
+  "tier": 10,
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
-      "title": "Business Technology Solutions Associate",
-      "url": "https://jobs.zs.com/jobs/67648",
-      "location": "Princeton, NJ; Chicago, IL",
-      "opened": "2026-09-22",
-      "date_source": "jobs.zs.com API create_date (earlier prior-run date kept; API posted_date 2026-09-30)",
+      "title": "AI Engineer Associate Consultant",
+      "url": "https://jobs.zs.com/jobs/67605",
+      "location": "Princeton, NJ",
+      "opened": "2026-10-02",
+      "date_source": "jobs.zs.com API create_date",
       "deadline": null,
-      "grad_window": "degree completed, start full-time employment in 2026",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
@@ -19,8 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.zs.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.zs.com API (278 postings): only entry tech role BTS Associate says 'start full-time employment in 2026', no visa sponsorship. 2027 titles are interns or non-US. Toronto Associate LLM Engineer asks 1-4 yrs, not new-grad.",
-  "confidence": "medium",
-  "checked": "2026-10-01",
-  "tier": 10
+  "evidence": "jobs.zs.com API 2026-10-02 (279 postings): AI Engineer Associate Consultant (Princeton) posted today, bachelor's, no years asked, 'not eligible for visa sponsorship'. BTS Associate says 2026 start (leftover). Toronto Associate LLM Engineers ask 1-4 yrs, not counted. Prior file said leftover_2026.",
+  "confidence": "medium"
 }

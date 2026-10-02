@@ -1,6 +1,7 @@
 {
   "company": "TransMarket Group",
   "tier": 4,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     },
     {
       "title": "Junior Data Engineer",
@@ -21,16 +22,15 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history: Junior Software Engineer first seen 2026-04-19 (outside the Jul 2025-Jan 2026 window); Python Developer / Data Engineer 2025-06-07. Rolling junior postings.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/transmarketgroup",
   "jobs_spec": "gh:transmarketgroup",
-  "evidence": "Greenhouse API 2026-10-01 lists Junior Software Engineer and Junior Data Engineer, entry-level, rolling, no class year, no sponsorship/citizenship text found; no deadline stated.",
-  "confidence": "medium",
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse 2026-10-02: both junior postings fetched with Apply form; evergreen, no class year, no deadline; form asks about H-1B sponsorship need, no refusal text. Posted before Jul 1 but rolling.",
+  "confidence": "medium"
 }

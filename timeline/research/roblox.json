@@ -1,7 +1,7 @@
 {
   "company": "Roblox",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-06",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roblox",
   "jobs_spec": "gh:roblox",
-  "evidence": "gh:roblox (256, --all) 2026-10-01: [2027] SWE Early Career first published 2026-08-05, updated 2026-10-01, on board; prior run saw Apply Now. Text: may not support future H-1B sponsorship. No deadline.",
+  "evidence": "gh:roblox 2026-10-02: [2027] SWE Early Career published 2026-08-05, API returns it live, updated 2026-10-02. Text: may not support future H-1B sponsorship. No deadline.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "CIBC",
-  "tier": 5,
-  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-03-25",
   "last_cycle_basis": "tracker 'Associate Technology Graduate Rotational Program' Toronto 2026-03-25 (spring posting); Chicago SWE Apprentice 2026-03-23 (no sponsorship)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://cibc.wd3.myworkdayjobs.com/search",
   "jobs_spec": "wd:cibc/wd3/search",
-  "evidence": "Workday --all (100): SWE entries are 2027 Summer Intern (Chicago) only; full-time roles are Consultant/Production Support II. Tech grad rotational program posts in spring. No live entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Workday --all (103) 2026-10-02: no entry-level SWE; tech roles are Consultant, Production Support II, Lead/Sr; 2027 Analyst I roles are investment banking. Tech grad rotational program posts in spring.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

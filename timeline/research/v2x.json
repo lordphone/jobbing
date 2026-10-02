@@ -1,15 +1,26 @@
 {
   "company": "V2X",
+  "tier": 10,
+  "checked": "2026-10-02",
   "status": "excluded",
+  "postings": [
+    {
+      "title": "Entry Level Software Engineer",
+      "url": "https://careers.gov2x.com/jobs/62655?icims=1",
+      "location": "Indianapolis, IN",
+      "opened": "2026-09-02",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker first seen 2026-08-26; no earlier cycle found",
   "excluded_reason": "citizenship",
+  "no_sponsorship": false,
   "jobs_page": "https://careers.gov2x.com",
   "jobs_spec": null,
-  "evidence": "Fetched posting 62655, Entry Level Software Engineer, Indianapolis (datePosted 2026-09-02): \"Ability to access systems with information restricted to U.S. citizens per federal contract requirements is required\"; DoD Secret clearance. No browser in cloud run.",
-  "confidence": "high",
-  "tier": 10,
-  "checked": "2026-10-01",
-  "postings": [],
-  "no_sponsorship": false
+  "evidence": "Fetched raw iCIMS page for posting 62655 (Entry Level Software Engineer, Indianapolis, datePosted 2026-09-02): \"Ability to access systems with information restricted to U.S. citizens per federal contract requirements is required\"; DoD Secret eligibility.",
+  "confidence": "high"
 }

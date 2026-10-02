@@ -1,15 +1,15 @@
 {
   "company": "Temu (PDD Holdings)",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no matching postings found in tracker history search",
+  "last_cycle_basis": "no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.temu.com",
   "jobs_spec": null,
-  "evidence": "careers.temu.com returns HTTP 403 to curl and WebFetch (2026-10-01); no browser in cloud run. 1 WebSearch found no first-party new-grad SWE posting. Board unreadable, so unknown. Retry with a browser.",
+  "evidence": "careers.temu.com returns 403 to curl and an error JSON (40003) in the browser pane on 2026-10-02; could not read the board. One WebSearch found no first-party new-grad SWE post. Retry later.",
   "confidence": "low"
 }

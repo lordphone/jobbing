@@ -1,15 +1,15 @@
 {
   "company": "SolarWinds",
-  "tier": 6,
-  "checked": "2026-10-01",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.solarwinds.com/",
   "jobs_spec": "gh:solarwinds",
-  "evidence": "Greenhouse API, 58 postings with --all: software roles are Bangalore or Staff Software Engineer (Austin); no entry-level US SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse API, all 58 postings read: software and SRE roles are Bangalore or Staff-level; US roles are BDRs in Charlotte/Austin. No entry-level US, Toronto or Vancouver SWE.",
+  "confidence": "high",
+  "tier": 6,
+  "checked": "2026-10-02",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

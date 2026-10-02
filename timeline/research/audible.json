@@ -1,26 +1,26 @@
 {
   "company": "Audible",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Software Development Engineer, Early Career",
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
-      "location": "Cambridge, MA, USA",
+      "location": "Cambridge, MA",
       "opened": "2026-09-04",
-      "date_source": "amazon.jobs posted_date",
+      "date_source": "page text",
       "deadline": null,
-      "grad_window": "Currently enrolled in or completed Bachelor's or graduate degree (no year stated)",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "prior hint: a Newark NJ early-career SWE posting existed last cycle but was 404; no tracker confirmation",
+  "last_cycle_basis": "prior hint: Newark NJ early-career SWE existed last cycle but was 404; no tracker confirmation",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs search API 2026-10-01 lists Audible, Inc. 'SDE, Early Career' (Cambridge MA, posted 2026-09-04); WebFetch of posting page shows Apply button, no sponsorship/citizenship text. Plain SDE Newark roles need 1+ yrs, not counted. No browser in cloud run.",
+  "evidence": "amazon.jobs search API lists Audible, Inc. SDE Early Career (Cambridge MA, posted 2026-09-04); posting page returned 200 with Apply now button on 2026-10-02. Earlier Newark NJ 404 hint was a different posting.",
   "confidence": "medium"
 }

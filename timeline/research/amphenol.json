@@ -1,15 +1,15 @@
 {
   "company": "Amphenol",
   "tier": 7,
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
-  "jobs_page": "https://amphenol.com/careers",
+  "jobs_page": "https://www.amphenol.com/careers",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run. amphenol.com/careers returns 403 to WebFetch/curl. Earlier read of one division board showed no entry SWE; decentralized units, no corporate SWE new-grad program found. Retry with browser.",
+  "evidence": "Corporate careers page (opened in browser) has no job board, only links to ~150 decentralized business sites; one division board (amphenol-tcs, 328 jobs) has no software roles beyond Manager Firmware; only entry program is hardware Engineer Class of 20XX. Only a Finance LDP is corporate.",
   "confidence": "low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "excluded_reason": null,
   "no_sponsorship": false
 }

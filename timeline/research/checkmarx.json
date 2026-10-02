@@ -1,15 +1,15 @@
 {
   "company": "Checkmarx",
   "tier": 6,
-  "checked": "2026-10-01",
-  "status": "no_program_found",
+  "checked": "2026-10-02",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no US R&D presence found",
+  "last_cycle_basis": "none found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://checkmarx.com/company/careers/",
   "jobs_spec": null,
-  "evidence": "Fetched careers page 1 of 5: engineering roles are team leads/DevOps in Israel, India, Portugal; US role is sales. Later pages not seen; no early-career program mentioned.",
+  "evidence": "Careers site is Cloudflare-blocked to scripts; WebFetch saw only page 1 of 5 (DevOps in Israel, team leads India/Portugal, US sales/CS/product). Pages 2-5 unreadable, so no entry-level SWE not confirmed; engineering looks Israel-based.",
   "confidence": "low"
 }

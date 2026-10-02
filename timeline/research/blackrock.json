@@ -1,7 +1,7 @@
 {
   "company": "BlackRock",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "July 2026 (program page: applications open in July; no exact date shown)",
       "date_source": "page text",
       "grad_window": "Graduated or graduating Sep 2026 - Jul 2027 (bachelor's or master's)",
-      "live_verified": "no",
+      "live_verified": "browser",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
   "jobs_spec": "wd:blackrock/wd1/BlackRock_Professional",
-  "evidence": "WebFetch 2026-10-01 of program page shows Apply Now, grads Sep 2026-Jul 2027, Technology among selectable functions (not SWE-only). Workday Associate SWE roles ask experience. No sponsorship text, no deadline stated.",
+  "evidence": "Browser 2026-10-02: program page shows Apply Now, grads Sep 2026-Jul 2027, Technology a selectable function (not SWE-only). Workday Associate SWE roles (e.g. Aladdin Graph) are experienced-level. No sponsorship text, no deadline.",
   "confidence": "medium"
 }

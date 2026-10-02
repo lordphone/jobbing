@@ -1,15 +1,15 @@
 {
   "company": "Health Care Service Corporation (HCSC)",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "tracker history shows only experienced roles and an Associate Developer - Mainframe (2026-02-27, Helena MT), outside the Jul-Jan window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External",
   "jobs_spec": "wd:hcsc/wd1/HCSC_External",
-  "evidence": "Workday API re-pulled 2026-10-01 (30): 2027 Early Careers interns (Developer, IT QA, Tech Delivery) and New Grad Actuarial only; no full-time new-grad SWE yet. Status unchanged.",
+  "evidence": "Workday --all 2026-10-02 (39): 2027 Early Careers interns (Developer, IT QA, Tech Delivery, Automation Programmer), New Grad LDP and Actuarial; no full-time new-grad SWE live yet.",
   "confidence": "medium"
 }

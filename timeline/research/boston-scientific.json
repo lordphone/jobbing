@@ -1,8 +1,8 @@
 {
   "company": "Boston Scientific",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer I",
@@ -12,7 +12,7 @@
       "date_source": "eightfold api t_create",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-07",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://bostonscientific.eightfold.ai",
   "jobs_spec": "eightfold:bostonscientific.eightfold.ai/bostonscientific",
-  "evidence": "No browser in cloud run: Eightfold apply API returns 403, jobs.py has no support, WebFetch of posting shows only config. 2026-09-30 check saw SWE I Maple Grove live (created 2026-09-25); not re-verified, so unknown.",
-  "confidence": "low"
+  "evidence": "Opened posting in browser pane 2026-10-02: Software Engineer I (req 635346, Windows medical-device C#/C++, BS CS/EE) shows Apply Now; 'will not offer sponsorship'. Not labeled new grad but entry-level SWE I. Created 2026-09-25 via API.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "IBM",
   "tier": 1,
-  "status": "unknown",
+  "status": "open",
   "postings": [
     {
       "title": "Entry Level Software Developer 2027",
@@ -11,7 +11,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     },
     {
       "title": "Entry Level Cloud Developer - Chicago, IL - 2027",
@@ -21,7 +21,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     },
     {
       "title": "Entry level Backend Developer - San Jose, CA - 2027",
@@ -31,7 +31,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     },
     {
       "title": "Entry Level Back End Developer - Poughkeepsie, NY - 2027",
@@ -41,7 +41,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     },
     {
       "title": "Entry-Level Software Developer 2027 - Lowell",
@@ -51,7 +51,7 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     },
     {
       "title": "Entry Level Software Developer 2027 - Durham",
@@ -61,7 +61,17 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
+    },
+    {
+      "title": "Entry Level Software Developer (multiple sites)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130369",
+      "location": "Poughkeepsie, NY; Rochester, MN; Tucson, AZ; San Jose, CA; Austin, TX",
+      "opened": "2026-09-08",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-02",
@@ -70,7 +80,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.ibm.com",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: careers.ibm.com posting pages return empty to WebFetch, no API. Prior browser run 2026-09-30 found six US 2027 entry-level roles live with Apply now; not re-verified today, likely still open.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser 2026-10-02: careers.ibm.com Entry Level search lists 2027 entry-level software developer roles (Poughkeepsie/Durham, Lowell, Durham, Chicago, San Jose) plus Sep 8 multi-site role; all show Apply now. No citizenship text found; no_sponsorship kept from prior file. Status changed from unknown (verified).",
+  "confidence": "high",
+  "checked": "2026-10-02"
 }

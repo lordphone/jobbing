@@ -1,15 +1,26 @@
 {
   "company": "Entegris",
   "tier": 7,
-  "checked": "2026-10-01",
-  "status": "unknown",
-  "postings": [],
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Junior AI Engineer (Specialist, AI Engineer)",
+      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Specialist--AI-Engineer_REQ-13744",
+      "location": "Bedford, MA",
+      "opened": "2026-08-05",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker history shows no new-grad SWE in 2025-07 to 2026-01",
+  "last_cycle_basis": "no earlier tracker history found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://entegris.wd1.myworkdayjobs.com/entegriscareers",
   "jobs_spec": "wd:entegris/wd1/entegriscareers",
-  "evidence": "Workday full board 2026-10-01 (118): US roles are Co-Ops and Leadership Development Program (not software); no 'Junior AI Engineer' listed. Tracker Junior AI Engineer, Bedford MA (first seen 2026-08-06) absent from list but page unreadable (CXS 403, no browser in cloud run), so closed unconfirmed. Prior file said closed. Sponsorship note from earlier pass.",
-  "confidence": "low"
+  "evidence": "Tracker Junior AI Engineer (Bedford, first seen 2026-08-05): posting page shows 'page doesn't exist' in browser 2026-10-02, absent from board (116). Live US roles are co-ops and Leadership Development Program (not software).",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

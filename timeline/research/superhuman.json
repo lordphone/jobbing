@@ -1,14 +1,24 @@
 {
   "company": "Superhuman (Grammarly)",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, Early Career",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
-      "location": "Hub - San Francisco; Hub - Seattle",
+      "location": "San Francisco, CA; Seattle, WA",
       "opened": "2026-09-14",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "graduating in 2026 or 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Full-Stack - GPTZero, Early Career",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-29",
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "graduating in 2026 or 2027",
@@ -16,11 +26,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history only shows this cycle's posting (2026-09-14); no 2025-07 to 2026-01 posting found.",
+  "last_cycle_basis": "Tracker history only shows this cycle's postings; no 2025-07 to 2026-01 posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc",
   "jobs_spec": "ashby:Superhuman%20Platform%20Inc",
-  "evidence": "ashby Superhuman Platform Inc (70, --all) 2026-10-01: SWE Early Career published 2026-09-14, listed on board, SF and Seattle hubs, graduating 2026 or 2027; prior run saw it live. No sponsorship/citizenship/deadline text.",
+  "evidence": "ashby Superhuman Platform Inc (70, --all) 2026-10-02: SWE Early Career (SF, Seattle, 2026-09-14) and Toronto GPTZero Full-Stack Early Career (2026-09-29) listed via API; graduating 2026 or 2027. No sponsorship/citizenship/deadline text.",
   "confidence": "high"
 }

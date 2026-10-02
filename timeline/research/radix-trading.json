@@ -1,7 +1,5 @@
 {
   "company": "Radix Trading",
-  "tier": 4,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,15 +10,17 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker only shows Quantitative Researcher 2026-04-23",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/radixuniversity",
   "jobs_spec": "gh:radixuniversity",
-  "evidence": "Dedicated university-hiring gh board (8 postings): full-time Quantitative Technologist (C++ Developer) live via API/page, rolling; no class year, citizenship or sponsorship text; no deadline. Counted as rolling university role.",
-  "confidence": "medium"
+  "evidence": "Dedicated University Job Board (8 postings) opened 2026-10-02: full-time Quantitative Technologist (C++ Developer) has Apply button; rolling, no class year, citizenship, sponsorship text or deadline. Level not stated in posting; counted as rolling university role.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

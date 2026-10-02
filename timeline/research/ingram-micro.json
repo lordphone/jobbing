@@ -1,15 +1,15 @@
 {
   "company": "Ingram Micro",
-  "tier": 10,
-  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-05-04",
   "last_cycle_basis": "jobs.py history: Global Platforms Technology Rotation Program (Irvine, CA) first seen 2026-05-04; no Jul 2025-Jan 2026 posting found",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro",
   "jobs_spec": "wd:ingrammicro/wd5/IngramMicro",
-  "evidence": "Workday API 2026-10-01, 94 postings, --all: US tech roles are Senior/Principal/Director; entry SWE only in India. Associate Agentic AI Engineer (tracker 2026-06-11) is gone but predates the cycle, so not_yet.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-02, 94 postings, --all: no US entry SWE; entry software engineers are India only; US IT roles are senior/director or IT Operations associate. Associate Agentic AI Engineer (Irvine, 2026-06-11) is gone and predates the cycle.",
+  "confidence": "high",
+  "checked": "2026-10-02",
+  "tier": 10,
+  "no_sponsorship": false
 }

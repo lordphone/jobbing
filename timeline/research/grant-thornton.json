@@ -1,9 +1,17 @@
 {
   "company": "Grant Thornton",
-  "tier": 10,
-  "checked": "2026-10-01",
   "status": "closed",
   "postings": [
+    {
+      "title": "AI, Data & Technology Associate - Summer 2027",
+      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115512",
+      "location": "Chicago, IL",
+      "opened": "2026-08-27",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Summer 2027",
+      "live_verified": "api"
+    },
     {
       "title": "AI, Data & Technology Associate - Summer 2027",
       "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115708",
@@ -11,26 +19,18 @@
       "opened": "2026-08-31",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Summer 2027 start",
-      "live_verified": "api"
-    },
-    {
-      "title": "AI, Data & Technology Associate - Summer 2027",
-      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115512",
-      "location": "Chicago, IL",
-      "opened": "on or before 2026-08-31",
-      "date_source": "tracker first seen 2026-08-27",
-      "deadline": null,
-      "grad_window": "Summer 2027 start",
+      "grad_window": "Summer 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no US GT SWE/tech-associate posting in Jul 2025-Jan 2026",
+  "last_cycle_basis": "tracker history has no US Grant Thornton SWE/tech-associate posting in Jul 2025-Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
   "jobs_spec": "oracle:ehzq.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-01, 61 postings: AI, Data & Technology Associate (consulting, not pure SWE) absent from list; Charlotte req returns nothing, Chicago req has no posted dates. Postings say no visa sponsorship. Other tech roles are interns/seniors.",
-  "confidence": "medium"
+  "evidence": "Oracle API 2026-10-02, 61 postings: neither AI, Data & Technology Associate req is in the search list; req 115512 has no posted start/end date (unpublished); 115708 returns nothing. Consulting role, not pure SWE. 'No visa sponsorship'. Other tech roles are interns/managers. Browser pane unreliable.",
+  "confidence": "medium",
+  "checked": "2026-10-02",
+  "tier": 10
 }

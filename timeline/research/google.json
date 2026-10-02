@@ -1,18 +1,18 @@
 {
   "company": "Google",
   "tier": 1,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
-      "title": "Software Engineer, Early Career, Campus",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "location": "Mountain View, CA (+9 more US locations)",
+      "title": "Software Engineer - Campus",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+      "location": "Cambridge, MA; Seattle, WA; Los Angeles, CA; San Jose, CA (and other US locations)",
       "opened": "on or before 2026-08-07",
       "date_source": "tracker first seen",
-      "deadline": "at least 2026-09-30",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-30",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: WebFetch of Google careers returns only nav shell, no API. Prior run (2026-09-30) opened posting in browser: Apply button, open until at least 2026-09-30. Not re-verified today, so unknown; likely still open.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Campus SWE posting (first seen 2026-08-07) now shows 'Job not found'. Careers search 'university graduate' lists no BS/MS SWE; only PhD Early Career 2027 Start SWE roles (not Master's-eligible). Closed.",
+  "confidence": "medium"
 }

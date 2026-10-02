@@ -1,15 +1,36 @@
 {
   "company": "Snap",
   "tier": 1,
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, C++, Level 3",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--C----Level-3_R0046951-1",
+      "location": "Los Angeles, CA",
+      "opened": "on or before 2026-09-28",
+      "date_source": "workday postedOn / startDate 2026-09-28",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Machine Learning Engineer, Level 3",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-3_Q426SWEML1",
+      "location": "Palo Alto, CA; San Francisco, CA; Los Angeles, CA; New York, NY; Bellevue, WA",
+      "opened": "on or before 2026-10-01",
+      "date_source": "workday postedOn / startDate 2026-10-01",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2024-09-26",
   "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' Seattle first seen 2024-09-26 (no clear 2025-26 opening found)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
   "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Workday API (34, --all): only L5+/staff/manager SWE roles, no Level 3 or new-grad. Tracker history shows 'Software Engineer - Backend - Level 3' (L3 = entry, unlabeled) seen 2026-07-24, now absent from board; closed. Kept from prior file; L3 as new-grad is an inference.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Workday search API (jobs.py board shows only 34; keyword searches surface more) lists SWE C++ Level 3 (LA) and MLE Level 3, posted Sep 28/Oct 1. L3 is Snap's entry level but not labeled new grad/no class year; counted open on that inference. No citizenship text. Changed from closed (earlier L3 posting had gone, new ones appeared).",
+  "confidence": "low",
+  "checked": "2026-10-02"
 }

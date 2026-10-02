@@ -1,18 +1,18 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
-      "title": "2027 Graduate Talent Program - Technology - NY/NJ",
-      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622",
-      "location": "New York / Weehawken, NJ",
-      "opened": "on or before 2026-09-30",
-      "date_source": "page text (live on jobs.ubs.com; ref 341211BR; no posted date shown)",
+      "title": "2027 Graduate Talent Program - Technology - Raleigh",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=349412",
+      "location": "Raleigh, NC",
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (live on jobs.ubs.com; ref 341967BR; no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: WebFetch of job 348622 (siteid 5176) says 'expired or filled' but jobs.ubs.com is a JS app and WebFetch gave the same text for any URL. Prior browser read 2026-09-30 saw Apply live. Unconfirmed; retry in browser.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Raleigh Technology GTP (349412) live with Apply, grad Dec 2026-Jun 2027, 'not eligible for any employment-based immigration sponsorship'. NY/NJ Technology GTP (348622) page now says expired or filled. Technology search lists only Raleigh GTP.",
+  "confidence": "high"
 }

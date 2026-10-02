@@ -1,7 +1,7 @@
 {
   "company": "Merck & Co. (MSD)",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -16,11 +16,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker first seen 2024-10-25 Junior Data Engineer (two cycles ago); no 2025 record",
+  "last_cycle_basis": "tracker 2024-10-25 (two cycles ago); nothing dated for 2025-26",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://msd.wd5.myworkdayjobs.com/searchjobs",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Re-read posting via Workday API 2026-10-01: live, entry-level IT Emerging Talent Rotational, 'No Visa Sponsorship', endDate 2026-10-09. No other US entry SWE roles. Same status as previous file.",
-  "confidence": "high"
+  "evidence": "Workday detail 2026-10-02: IT ETR program live, entry-level, endDate 2026-10-09, 'No Visa Sponsorship'. IT rotation, borderline SWE. No other US entry SWE; others are Associate Director or co-op.",
+  "confidence": "medium"
 }

@@ -1,6 +1,7 @@
 {
   "company": "Palantir",
   "tier": 6,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -18,7 +19,7 @@
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
       "location": "New York, NY",
       "opened": "2025-06-13",
-      "date_source": "lever createdAt",
+      "date_source": "lever createdAt (NYC reposted; earliest listing)",
       "deadline": null,
       "grad_window": "Dec 2026 or Spring 2027",
       "live_verified": "api"
@@ -34,13 +35,12 @@
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2025-08-19",
-  "last_cycle_basis": "Lever createdAt of 'Software Engineer, New Grad - Infrastructure' Palo Alto (board listing); tracker 2025-07-01",
+  "last_cycle_opened": "2025-06-13",
+  "last_cycle_basis": "Lever createdAt of NYC FDSE New Grad posting (https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728); tracker first seen 2025-07-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/palantir",
   "jobs_spec": "lever:palantir",
-  "evidence": "Lever API 2026-10-01: Chicago and NYC commercial FDSE (grad Dec 2026/Spring 2027) and NYC Privacy & Civil Liberties Engineer (Fall 2026/Spring 2027) live, no citizenship line. Other US new-grad roles (government, defense, infrastructure) require clearance. No deadline.",
-  "confidence": "high",
-  "checked": "2026-10-01"
+  "evidence": "Lever API 2026-10-02: Chicago and NYC commercial FDSE (grad Dec 2026/Spring 2027) and NYC Privacy & Civil Liberties Engineer (Fall 2026/Spring 2027) live, no clearance line. Other US new-grad roles require clearance. No deadline.",
+  "confidence": "high"
 }

@@ -36,4 +36,4 @@ Hi [Name]! I'm a CMU master's student and just applied for LinkedIn's AI Enginee
 
 | Name | Link | Type | Sent | Status | Notes |
 |------|------|------|------|--------|-------|
-| Yuan Liu | https://www.linkedin.com/in/ACoAACXh2IEB503Ym3jnzAJmaUmgZUoiKMQ5J1Q | CMU alum | 10-01 | replied | asked for job link, phone, email, third-person bio |
+| Yuan Liu | https://www.linkedin.com/in/ACoAACXh2IEB503Ym3jnzAJmaUmgZUoiKMQ5J1Q | CMU alum | 10-01 | replied | asked for job link, phone, email, bio; then said the IC2 AI Engineer job is not in the internal referral portal (only senior/staff), apply without referral |

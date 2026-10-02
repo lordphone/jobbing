@@ -1,15 +1,26 @@
 {
   "company": "Kearney",
-  "tier": 10,
-  "checked": "2026-10-01",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Kearney Activate - Full Stack Developer",
+      "url": "https://kearney.recsolu.com/jobs/pFWlCf7NgPtjotUYjjuWHQ?job_board_id=EPd41qlA4_03IncZMnWyRQ",
+      "location": "Washington, DC",
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (undated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or dated source for a Kearney new-grad SWE posting (tracker saw a Full Stack Developer 2026-07-28, now gone, not labeled new grad)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker saw Full Stack Developer (Boston/DC/Arlington) first seen 2026-07-28, now gone; nothing in Jul 2025-Jan 2026",
+  "excluded_reason": "clearance",
   "jobs_page": "https://kearney.recsolu.com/job_boards/1",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: WebFetch of recsolu board rendered only the first page of 188 results (consulting associates, Summer Associate 2027), no SWE. Earlier 2026-09-30 browser full scroll found only consulting plus senior/non-SWE tech roles. Not fully re-read.",
-  "confidence": "low"
+  "evidence": "Recsolu search endpoint, 2026-10-02: early-career Full Stack Developer (DC) is live with apply link, but 'Ability to obtain, or current possession of, a U.S. Secret security clearance is required'. PERL COE Junior Engineer (Chicago) is manufacturing, not SWE. Read via search queries, not full list.",
+  "confidence": "medium",
+  "checked": "2026-10-02",
+  "tier": 10,
+  "no_sponsorship": false
 }

@@ -1,8 +1,8 @@
 {
   "company": "BuzzFeed",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "no_program_found",
+  "checked": "2026-10-02",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "2024-07 (tracker: iOS Software Engineer, not new-grad)",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/buzzfeed",
   "jobs_spec": "gh:buzzfeed",
-  "evidence": "Greenhouse API 2026-10-01: 4 live postings, all non-technical (account manager, editorial, media ops, writer). No SWE at any level.",
-  "confidence": "high"
+  "evidence": "Greenhouse board/API returned 404/500 on 2026-10-02 (was readable 2026-10-01: 4 non-technical postings). buzzfeed.com/about/jobs has no list. Third-party sites show only a Senior SWE role. Retry later.",
+  "confidence": "low"
 }

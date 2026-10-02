@@ -1,6 +1,7 @@
 {
   "company": "Ahold Delhaize USA",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aholddelhaizeusa.careerswithus.com/",
   "jobs_spec": null,
-  "evidence": "Own board JSON API re-read 2026-10-01 (242 jobs; search software/engineer/developer/associate): software roles are Staff/Principal/IV/III; entry-level tech are Mobile App Engineer Co-op, Advanced Analytics Co-op, IT Assurance and Tech & Experience interns. No Software Engineer I or new-grad posting.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Own board JSON API (careerswithus.com/api/mcp/jobs, all 237 jobs) 2026-10-02: software roles are Staff/Principal/III/IV; entry tech are Software Development, AI/ML and Mobile App co-ops and IT interns (Quincy MA, Salisbury NC). No Software Engineer I or new-grad posting.",
+  "confidence": "medium"
 }

@@ -1,6 +1,7 @@
 {
   "company": "CrowdStrike",
   "tier": 6,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -15,12 +16,11 @@
     }
   ],
   "last_cycle_opened": "2026-02-11",
-  "last_cycle_basis": "tracker first seen 'Front End Engineer 1' Austin (US); also 'Engineer 1 New Grad - Agentic AI' Sunnyvale 2026-06-11",
+  "last_cycle_basis": "tracker first seen 'Front End Engineer 1' Austin 2026-02-11; 'Engineer 1 New Grad - Agentic AI' Sunnyvale 2026-06-11 (closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
   "jobs_spec": "wd:crowdstrike/wd5/crowdstrikecareers",
-  "evidence": "Workday CXS 2026-10-01: R29874 live (canApply), 'hiring an entry-level engineer', BS in CS. Not labeled new grad; default board filter misses it. No sponsorship/citizenship/deadline line.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Workday CXS 2026-10-02: R29874 live (canApply true), text 'hiring an entry-level engineer'. Not labeled new grad; board filter misses it. Only 2027 postings are interns. No sponsorship/citizenship/deadline line.",
+  "confidence": "medium"
 }

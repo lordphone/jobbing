@@ -1,7 +1,7 @@
 {
   "company": "USAA",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -23,6 +23,16 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0120356",
+      "location": "San Antonio, TX",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-04",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-27",
@@ -31,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
   "jobs_spec": "wd:usaa/wd1/USAAJOBSWD",
-  "evidence": "Workday API re-checked: Software Engineer I - Cloud (San Antonio) and Claims (Phoenix) still live, canApply true, bachelor's + ~2 yrs, no visa sponsorship. A third SE I (R0120356) posted 2026-10-01 with endDate 2026-10-04. I-level title counts; not labeled new grad.",
+  "evidence": "Workday API (207 postings) re-read 2026-10-02: three Software Engineer I postings live (Cloud San Antonio, Claims Phoenix, R0120356 San Antonio endDate 2026-10-04), canApply true, bachelor's, ~2-4 yrs listed, no visa sponsorship. I-level title counts; not labeled new grad.",
   "confidence": "medium"
 }

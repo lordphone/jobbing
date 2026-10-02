@@ -1,18 +1,10 @@
 {
   "company": "Optum (UnitedHealth Group)",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://careers.unitedhealthgroup.com/job/basking-ridge/associate-software-engineer/34088/101072065280",
-      "location": "Basking Ridge, NJ; Remote (US)",
-      "opened": "2026-09-24",
-      "date_source": "page schema datePosted",
-      "deadline": "at least 2026-09-28",
-      "grad_window": null,
-      "live_verified": "browser"
-    }
+    {"title": "Associate Software Engineer", "url": "https://careers.unitedhealthgroup.com/job/basking-ridge/associate-software-engineer/34088/101072065280", "location": "Basking Ridge, NJ; Remote (US)", "opened": "2026-09-24", "date_source": "page text datePosted", "deadline": "at least 2026-09-28", "grad_window": null, "live_verified": "browser"}
   ],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (listed Vancouver, Canada / Remote)",
@@ -20,7 +12,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.unitedhealthgroup.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Radancy search + posting page re-read 2026-10-01: Associate Software Engineer (Basking Ridge, remote US) live with Apply, bachelor's + 1 yr, posted 2026-09-24, deadline text 'minimum 2 business days'. Associate AI/ML Engineer (Minnetonka) now 404. La Crosse Associate SWE requires US citizens.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Radancy search + posting page: Associate Software Engineer (Basking Ridge, remote US) live with Apply, bachelor's + 1 yr, posted 2026-09-24; posted 'minimum 2 business days or until pool collected'. La Crosse Associate SWE (2026-09-29) states 'United States citizenship is required' plus clearance, so not counted.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Kaiser Permanente",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found; tracker history has only a 2026-06 R/Python Programmer (data scientist) role",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.kaiserpermanentejobs.org",
+  "jobs_page": "https://www.kaiserpermanentejobs.org/search-jobs",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: WebFetch of kaiserpermanentejobs.org search pages shows only first ~5-15 of 113-415 results (all IT Engineer IV-VI/leads); can't enumerate. 2026-09-30 browser check found no entry SWE or new-grad program. Not fully re-verifiable.",
-  "confidence": "low"
+  "evidence": "Browser pane on kaiserpermanentejobs.org 2026-10-02: searches for associate software engineer, early career (0), new graduate, junior developer, Engineer II/III show only experienced IT Applications Engineer III-VI (Java III 'experienced', posted 2026-06). No entry SWE or campus program; not exhaustively enumerated.",
+  "confidence": "medium"
 }

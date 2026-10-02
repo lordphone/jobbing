@@ -1,5 +1,7 @@
 {
   "company": "Color Health",
+  "tier": 3,
+  "checked": "2026-10-02",
   "status": "leftover_2026",
   "postings": [
     {
@@ -9,18 +11,16 @@
       "opened": "2026-07-28",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Graduated in 2025 or 2026",
+      "grad_window": "Graduated 2025 or 2026",
       "live_verified": "api"
     }
   ],
+  "last_cycle_opened": null,
   "last_cycle_basis": "No distinguishable prior-cycle posting in tracker history.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/color-health",
   "jobs_spec": "ashby:color-health",
-  "evidence": "Ashby API (20 postings) 2026-10-01: only entry-level SWE is 'Software Engineer, New Grad 2026' (published 2026-07-28), requires graduated 2025 or 2026. Nothing for 2027; no deadline.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-10-01",
-  "last_cycle_opened": null,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Ashby API 2026-10-02 (19 postings): only entry-level SWE is 'New Grad 2026' (published 2026-07-28), ideal candidate graduated 2025 or 2026. Nothing for 2027; no deadline.",
+  "confidence": "high"
 }

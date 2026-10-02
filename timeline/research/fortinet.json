@@ -1,6 +1,7 @@
 {
   "company": "Fortinet",
   "tier": 6,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -15,12 +16,11 @@
     }
   ],
   "last_cycle_opened": "2026-02-11",
-  "last_cycle_basis": "tracker first seen 'Applied AI Engineer - PhD New Graduate' Sunnyvale (Feb 2026); earlier 'New Grad Jobs 2025' 2025-08-01 (Ottawa); older SDE 2024-10-15",
+  "last_cycle_basis": "tracker first seen 'Applied AI Engineer - PhD New Graduate' Sunnyvale (Feb 2026); earlier 'New Grad Jobs 2025' 2025-08-01 (Ottawa)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:edel.fa.us2.oraclecloud.com/CX_2001",
-  "evidence": "Oracle API/detail 2026-10-01: SDE (GUI) Sunnyvale live, posted 2026-09-17, no years ask (internship/coursework ok), 'authorized to work in the U.S. without sponsorship', no end date. 'New Grads 2026 (US/Canada)' postings are last-cycle labeled, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Oracle API/detail 2026-10-02: SDE (GUI) Sunnyvale live, posted 2026-09-17, BS/MS, internship/coursework experience ok (entry-level), 'without sponsorship', no end date. 'New Grads 2026 (US/Canada)' pipeline postings are last-cycle labeled, not counted. Other SDE roles ask 3+ yrs.",
+  "confidence": "medium"
 }

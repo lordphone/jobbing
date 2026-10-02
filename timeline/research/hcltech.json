@@ -1,15 +1,15 @@
 {
   "company": "HCLTech",
+  "tier": 10,
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; tracker last cycle unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcltech.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "SuccessFactors recruiting API keyword sweeps (1185 global, 120 US/Canada): no entry/graduate SWE titles; US roles Senior/Lead/Architect, Support, Network; 'Early Career Associate' non-tech. Generic 'Developer' San Antonio page unreadable (no browser in cloud run).",
-  "confidence": "medium",
-  "checked": "2026-10-01",
-  "tier": 10
+  "evidence": "SuccessFactors recruiting API 2026-10-02 (keywords graduate, early career): US/Canada titles are Network/Support Engineer, Tester, Process Associate, Team Lead, Early Career Associate (Jan 2026, non-tech). No entry or graduate SWE.",
+  "confidence": "medium"
 }

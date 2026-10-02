@@ -1,7 +1,7 @@
 {
   "company": "Vantor (formerly Maxar Intelligence)",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -16,11 +16,11 @@
     }
   ],
   "last_cycle_opened": "2025-08-08",
-  "last_cycle_basis": "tracker first seen: Forward Deployed Software Engineer I, Herndon VA (Maxar board)",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "tracker first seen 2025-08-08: Forward Deployed Software Engineer I, Herndon VA (Maxar board)",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://maxar.wd1.myworkdayjobs.com/Vantor",
   "jobs_spec": "wd:maxar/wd1/Vantor",
-  "evidence": "Workday API, 60 postings; detail read. Software Engineer (Colorado Springs): 'Must be U.S. Citizen and eligible for SECRET security clearance'. Junior Data Scientist: 'Must be a US citizen'. Other SWE roles senior or TS/SCI.",
+  "evidence": "Workday API (61, --all) + detail: Software Engineer (Colorado Springs) and Junior Data Scientist (remote US) say 'you must be a U.S. Citizen' plus clearance; other SWE roles require U.S. Person/citizen or are senior. No open entry SWE for non-citizens.",
   "confidence": "high"
 }

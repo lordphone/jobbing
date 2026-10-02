@@ -1,36 +1,36 @@
 {
   "company": "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
       "title": "2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems",
-      "url": "https://studentcareers-jhuapl.icims.com/jobs/59653/login",
+      "url": "https://careers.jhuapl.edu/jobs/59653",
       "location": "Laurel, MD",
       "opened": "2026-09-08",
-      "date_source": "careers site create_date",
+      "date_source": "careers site create_date (kept from prior run)",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
+      "grad_window": "2027",
+      "live_verified": "browser"
     },
     {
       "title": "2027 PhD Graduate Software Engineering/ML/Data Scientist - Intelligence Systems",
       "url": "https://careers.jhuapl.edu/jobs/59654",
       "location": "Laurel, MD",
       "opened": "2026-08-25",
-      "date_source": "careers site create_date",
+      "date_source": "careers site create_date (kept from prior run)",
       "deadline": null,
       "grad_window": "2027",
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-04",
   "last_cycle_basis": "careers site create_date of '2026 PhD Graduate - Algorithm Researcher - AI/ML' (req 57698); 2026 Data/Computer Scientist 57706 on 2025-09-11",
-  "excluded_reason": "clearance",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.jhuapl.edu",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: iCIMS body unreadable via WebFetch (nav only). Carried forward prior browser read of 59654: 'able to obtain an Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Many 2027 grad SWE/ML roles, all cleared. Not re-verified live.",
-  "confidence": "medium"
+  "evidence": "Browser read 2026-10-02 of 59653 and 59654: both show Apply, rolling basis, and 'Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Many 2027 grad SWE/ML roles, all cleared.",
+  "confidence": "high"
 }

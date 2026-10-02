@@ -1,15 +1,26 @@
 {
   "company": "Traba",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70",
+      "location": "New York, NY",
+      "opened": "2026-07-22",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No last-cycle (2025-07 to 2026-01) posting in tracker history; this-cycle New Grad posting 2026-07-22 (tracker) now gone",
+  "last_cycle_basis": "No last-cycle new-grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/traba",
   "jobs_spec": "ashby:traba",
-  "evidence": "Ashby board (33) 2026-10-01: only Senior/Staff SWE. History shows Software Engineer New Grad (NYC) first seen 2026-07-22; detail says NOT ON THE BOARD and page shell shows no posting (no browser in cloud run), so closed.",
-  "confidence": "medium"
+  "evidence": "Tracker first saw Software Engineer New Grad (NYC) 2026-07-22; opened its URL 2026-10-02 in browser: 'Job not found'. Ashby board (33) now lists only Senior/Staff SWE roles.",
+  "confidence": "high"
 }

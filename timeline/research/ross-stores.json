@@ -1,15 +1,15 @@
 {
   "company": "Ross Stores",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-07-20",
-  "last_cycle_basis": "tracker_last_cycle 2026-07-20 (Engineer 1, Dublin CA); Engineer II/III also exist",
+  "last_cycle_basis": "tracker_last_cycle 2026-07-20 (Engineer 1, Dublin CA)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.rossstores.com/",
+  "jobs_page": "https://jobs.rossstores.com/search/searchjobs",
   "jobs_spec": null,
-  "evidence": "Cloud run, no browser: jobs.rossstores.com home fetch shows no engineering listings (JS board unreadable). Kept 2026-09-30 browser finding: Dublin Engineer 1 req 404; only Engineer II/III. Replacement posting not ruled out.",
-  "confidence": "low"
+  "evidence": "Browser search of jobs.rossstores.com (Avature) 2026-10-02: no Engineer I or software new-grad posting; only Engineer II/III/IV and IT manager/lead roles in Dublin CA. Prior Engineer 1 (tracker 2026-07-20, Dublin) req gone. Engineer II level not verified as entry.",
+  "confidence": "medium"
 }

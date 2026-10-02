@@ -1,7 +1,8 @@
 {
   "company": "Parker Hannifin",
   "tier": 11,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://parkercareers.ttcportals.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Parker board (ttcportals) returns 403 to curl and WebFetch (Cloudflare); no browser in cloud run. Earlier browser read (2026-09-28, 316 'software' hits) found only Sr/Engineer III embedded or manager roles, no new-grad SWE; unverified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Parker ttcportals board read in browser pane 2026-10-02 (~580 jobs via software/developer/graduate/data searches): software roles are Sr SWE, Engineer III embedded, Eng Manager; Digital & IT Associate/Analyst are IT support/SAP; AI/ML Engineering Co-op excluded. No new-grad SWE.",
+  "confidence": "medium"
 }

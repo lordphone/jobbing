@@ -1,15 +1,15 @@
 {
   "company": "Leonardo DRS",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
       "title": "Software Engineer",
       "url": "https://careers.leonardodrs.com/job/Beavercreek-Software-Engineer-OH-45431/1397803200/",
       "location": "Beavercreek, OH",
-      "opened": "2026-09-03",
-      "date_source": "page text (kept from prior run)",
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (search list shows Oct 2, 2026; may be repost)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "no"
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.leonardodrs.com",
   "jobs_spec": null,
-  "evidence": "careers.leonardodrs.com (352 results for 'software engineer'): entry-level Software Engineer (Beavercreek OH, 'Novice technical expertise') shows Apply but says 'U.S. Citizenship required' and DOD clearance. Other entry roles are Summer 2027 interns.",
+  "evidence": "WebFetch 2026-10-02: entry-level Software Engineer (Beavercreek OH, 'Novice technical expertise') has Apply, but states 'U.S. Citizenship required' and DOD clearance. Other software roles senior/embedded.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "AQR",
+  "tier": 4,
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting found in tracker history (Junior Software Engineer-Quantitative Research seen 2024-09-30)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.aqr.com",
   "jobs_spec": "gh:aqr",
-  "evidence": "gh:aqr board --all (52) 2026-10-01: US engineering roles are Associate/VP (RPM Engineering Associate asked 3-5 yrs per prior check). Only entry-level tech is 2027 Engineering Summer Analyst (internship). No new-grad SWE yet.",
-  "confidence": "medium",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:aqr board --all (52) 2026-10-02: US engineering roles are Associate/VP (RPM Engineering Associate, Greenwich, first 2026-08-06, experienced). Only entry-level tech is 2027 Engineering Summer Analyst (internship). No new-grad SWE yet.",
+  "confidence": "high"
 }

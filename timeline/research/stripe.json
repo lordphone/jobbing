@@ -1,6 +1,7 @@
 {
   "company": "Stripe",
   "tier": 3,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -10,8 +11,8 @@
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree obtained by summer 2027",
-      "live_verified": "api"
+      "grad_window": "degree by summer 2027, max 18 months experience",
+      "live_verified": "browser"
     },
     {
       "title": "Software Engineer, New Grad",
@@ -20,17 +21,27 @@
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2027",
+      "grad_window": "degree by summer 2027, max 18 months experience",
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "title": "Software Engineer, Early Career - Immediate Start",
       "url": "https://stripe.com/jobs/search?gh_jid=8212508",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "opened": "2026-09-17",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2026; start before 2026-12-01",
+      "grad_window": "degree by summer 2026, start before 2026-12-01",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Early Career - Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-17",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "degree by summer 2026, start before 2026-12-01",
       "live_verified": "api"
     }
   ],
@@ -38,9 +49,8 @@
   "last_cycle_basis": "jobs.py history: first new-grad SWE tracker sighting 2025-09-02, https://stripe.com/jobs/search?gh_jid=7210112",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/stripe",
+  "jobs_page": "https://stripe.com/jobs/search",
   "jobs_spec": "gh:stripe",
-  "evidence": "Greenhouse API: US Software Engineer, New Grad (SF/Seattle/NYC, first published 2026-08-31; degree by summer 2027, max 18 months experience) also Toronto. Early Career Immediate Start (2026-09-17) wants start before 2026-12-01. No citizenship exclusion seen.",
-  "confidence": "high",
-  "checked": "2026-10-01"
+  "evidence": "Greenhouse API lists US and Toronto New Grad SWE (2026-08-31, degree by summer 2027) plus Early Career Immediate Start; posting page shows Apply now, no deadline. Other locations are non-US.",
+  "confidence": "high"
 }

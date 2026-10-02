@@ -1,7 +1,7 @@
 {
   "company": "MetLife",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -10,9 +10,9 @@
       "location": "Cary, NC",
       "opened": "2026-09-18",
       "date_source": "page text",
-      "deadline": "at least 2026-10-08",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Opened JobDetail/20618 via WebFetch: Associate Platform Engineer, Cary NC, posted 2026-09-18, Apply button shown, bachelor's, entry-level. Infrastructure/automation-leaning, not pure SWE. Other junior SWE roles are India/Malaysia. Avature has no API.",
+  "evidence": "Opened JobDetail/20618 via WebFetch 2026-10-02: Associate Platform Engineer, Cary NC, posted 2026-09-18, Apply present, bachelor's, no deadline. Infra/automation-leaning, borderline SWE. Searches show other junior SWE roles only India/Malaysia; Cary SDE is mid-level.",
   "confidence": "medium"
 }

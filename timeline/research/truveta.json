@@ -1,5 +1,7 @@
 {
   "company": "Truveta",
+  "tier": 3,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -14,13 +16,11 @@
     }
   ],
   "last_cycle_opened": "2025-10-09",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer \u2013 Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer - Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/truveta",
   "jobs_spec": "gh:truveta",
-  "evidence": "Greenhouse API 2026-10-01 lists the posting (published 2026-09-15): 'seeking enthusiastic new graduates', BS/MS, 3+ yrs listed (not disqualifying), no visa sponsorship. Page not opened (no browser in cloud run). Data Processing SWE says 3+ yrs only.",
-  "confidence": "medium",
-  "tier": 3,
-  "checked": "2026-10-01",
-  "excluded_reason": null
+  "evidence": "Greenhouse API/detail 2026-10-02: posting says 'seeking enthusiastic new graduates', lists 3+ yrs (not disqualifying), states unable to sponsor visas. Live via board API; page not opened in browser.",
+  "confidence": "medium"
 }

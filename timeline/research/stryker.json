@@ -1,7 +1,7 @@
 {
   "company": "Stryker",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,16 +11,16 @@
       "opened": "2026-08-31",
       "date_source": "tracker first seen (workday startDate 2026-09-01)",
       "deadline": null,
-      "grad_window": "December 2026 or Spring 2027 graduation",
+      "grad_window": "December 2026 or spring 2027 graduation",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no qualifying new-grad SWE posting found in tracker history 2025-07 to 2026-01",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
   "jobs_spec": "wd:stryker/wd1/StrykerCareers",
-  "evidence": "Re-read RISE Software posting via Workday API 2026-10-01: live, Dec 2026 or spring 2027 grads only, no sponsorship now or future, no stated deadline. Other software roles are 2027 interns or Cork, Ireland grad program. Same as before.",
-  "confidence": "high"
+  "evidence": "Workday search and detail 2026-10-02: RISE Software live, Dec 2026/spring 2027 grads only, 'not require employment-based sponsorship now or in the future', no deadline. Other software roles are 2027 interns or Cork Ireland grad program.",
+  "confidence": "medium"
 }

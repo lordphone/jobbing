@@ -1,15 +1,15 @@
 {
   "company": "Sutter Health",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.sutterhealth.org/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: HTTP fetch of board search (82 hits) showed only 10 results (stationary/BI/analytics engineers, Solutions Architect); no SWE I or new-grad. Earlier full browser pull found none. Unchanged, medium.",
+  "evidence": "Phenom sitemaps 2026-10-02 (opened all six): no software engineer title. Tech roles are Epic/Digital Academy analysts, Business Intelligence/Analytics Engineer III-IV, Cloud Architect, Infrastructure Engineer; none entry-level SWE. Stationary engineers are facilities.",
   "confidence": "medium"
 }

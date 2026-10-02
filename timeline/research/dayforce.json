@@ -1,15 +1,15 @@
 {
   "company": "Dayforce",
+  "status": "no_program_found",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found. Board currently lists Winter 2027 interns only (SRE, Product & AI).",
+  "jobs_page": "https://jobs.dayforcehcm.com/mydayforce/alljobs",
+  "evidence": "Opened job board in browser pane: about 18 postings, search filter did not apply. Tech roles: IT Data Solutions Developer (India), Network Engineer (Philippines), Winter 2027 SRE and Product & AI interns. No entry-level full-time SWE in US or Canada.",
+  "confidence": "medium",
   "tier": 6,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.dayforcehcm.com/mydayforce/alljobs",
-  "jobs_spec": null,
-  "evidence": "Board API returns Forbidden and page is JavaScript-rendered; no browser in cloud run. Prior browser pass found interns in Toronto only and no US new-grad SWE.",
-  "confidence": "low"
+  "jobs_spec": null
 }

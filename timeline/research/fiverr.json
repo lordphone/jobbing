@@ -1,7 +1,7 @@
 {
   "company": "Fiverr",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.fiverr.com/jobs",
   "jobs_spec": null,
-  "evidence": "fiverr.com/jobs returned 403 to WebFetch; no browser in cloud run. Board is likely Comeet (no API). WebSearch: engineering roles in Tel Aviv, Kyiv, New York; a graduate SWE listing is Tel Aviv. No US entry-level SWE confirmed.",
+  "evidence": "fiverr.com/jobs loads partially in browser (Tech roles in Tel Aviv, Kyiv; none US SWE seen) but 'See more' list blocked by PerimeterX human check; not bypassed. Earlier search: graduate SWE listing is Tel Aviv. Retry.",
   "confidence": "low"
 }

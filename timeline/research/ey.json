@@ -1,26 +1,56 @@
 {
   "company": "EY",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "USA - Tax - Tax Technology and Transformation (TTT) - Data Engineering - Analyst",
+      "title": "USA - Tax - Tax Technology and Transformation (TTT) - Artificial Intelligence - Analyst (builds AI agents, Python, ML)",
+      "url": "https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "location": "New York, NY; Dallas, TX",
+      "opened": "2026-09-04",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "SDC Front End Engineer - Analyst (min 1 yr experience)",
+      "url": "https://careers.ey.com/ey/job/Raleigh-SDC-Front-End-Engineer-Analyst-Raleigh%2C-NC-or-Dallas%2C-TX-NC-27612-2389/1437290233/",
+      "location": "Raleigh, NC; Dallas, TX",
+      "opened": "2026-09-15",
+      "date_source": "page text (careers.ey.com Date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    },
+    {
+      "title": "Service Delivery Center - Full Stack Developer: Financial Services - Analyst (min 1 yr experience)",
+      "url": "https://careers.ey.com/ey/job/Dallas-Service-Delivery-Center-Full-Stack-Developer-Financial-Services-Analyst-Raleigh%2CDallas%2C-San-Antonio-TX-75270/1414451433/",
+      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX",
+      "opened": "2026-09-09",
+      "date_source": "page text (careers.ey.com Date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    },
+    {
+      "title": "USA - Tax - TTT - Data Engineering - Analyst (data/ETL, borderline)",
       "url": "https://eyglobal.yello.co/jobs/NLIPdsEt-CcUjetuNNeYlQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
       "location": "Chicago, IL; New York, NY",
-      "opened": "on or before 2026-09-14",
-      "date_source": "tracker first seen 2026-09-14",
+      "opened": "2026-09-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
+      "live_verified": "no"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_opened": "2026-01-16",
+  "last_cycle_basis": "tracker first-seen 2026-01-16 (snapshot date, likely earlier): 'USA - Service Delivery Center - Business Technology - Associate Analyst' and 'Indirect Tax - Technology Staff' (eyglobal.yello.co)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-01 of Yello req 1744553 (Tax TTT Data Engineering Analyst, Chicago/NY): Apply present, 'Immigration sponsorship may be available', no deadline stated. No software-titled roles found. Borderline data-engineering role.",
-  "confidence": "low"
+  "evidence": "Opened TTT AI Analyst in browser (Apply, NY/Dallas, 'Immigration sponsorship may be available'). Yello board is global; careers.ey.com also lists Analyst-level SDC developer roles (Sep 2026). No deadlines stated. Rolling, not a class-year program.",
+  "confidence": "medium"
 }

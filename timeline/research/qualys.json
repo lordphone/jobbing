@@ -1,15 +1,15 @@
 {
   "company": "Qualys",
-  "tier": 6,
-  "checked": "2026-10-01",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://qualys.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:qualys/wd5/Careers",
-  "evidence": "Workday API, 35 postings with --all: all software engineer roles are Pune, India; no US, Toronto or Vancouver entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday API, all 35 postings read: every software/SRE engineer role is Pune, India; only US role is Sr Director GTM (Tennessee). No US, Toronto or Vancouver entry-level SWE this cycle.",
+  "confidence": "high",
+  "tier": 6,
+  "checked": "2026-10-02",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

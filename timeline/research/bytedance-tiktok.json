@@ -6,12 +6,22 @@
     {
       "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
       "url": "https://lifeattiktok.com/search/7663032057264244997",
-      "location": "Seattle",
-      "opened": "2026-07-16",
+      "location": "Seattle, WA",
+      "opened": "on or before 2026-07-17",
       "date_source": "tracker first seen",
       "grad_window": "2027 Start",
-      "live_verified": "api",
+      "live_verified": "browser",
       "deadline": null
+    },
+    {
+      "title": "Software Engineer Graduate (Ads Infra) - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7673409179353139461",
+      "location": "San Jose, CA",
+      "opened": "on or before 2026-10-02",
+      "date_source": "api listing (no date)",
+      "deadline": null,
+      "grad_window": "2027 Start",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-06-16",
@@ -20,7 +30,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://lifeattiktok.com",
   "jobs_spec": null,
-  "evidence": "WebFetch of lifeattiktok.com posting 2026-10-01: renders '2027 Start' title, Seattle, 'Apply to this job' present, rolling review, no citizenship/sponsorship text, no deadline. Tracker lists ~170 more roles. Same as prior.",
+  "evidence": "lifeattiktok API lists ~163 US (San Jose, Seattle) 2027 Start graduate SWE/MLE roles; browser opened Risk & Response posting: 'Apply to this job', rolling review, no citizenship/sponsorship text, no deadline. Same status as prior.",
   "confidence": "high",
-  "checked": "2026-10-01"
+  "checked": "2026-10-02"
 }

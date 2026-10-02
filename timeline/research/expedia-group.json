@@ -1,15 +1,26 @@
 {
   "company": "Expedia Group",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-02",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer I",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
+      "location": "Vancouver, BC, Canada",
+      "opened": "2026-10-02",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-01",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-07-12",
-  "last_cycle_basis": "tracker first seen: Data Engineer I, Seattle (Workday)",
+  "last_cycle_basis": "tracker first seen: Data Engineer I, Seattle (Workday); US SDE 1 Seattle also seen 2026-02 and 2026-08",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://expedia.wd108.myworkdayjobs.com/search",
   "jobs_spec": "wd:expedia/wd108/search",
-  "evidence": "Workday board --all (48 postings) 2026-10-01: US roles SDE III/Senior/Principal/ML Sci III; SDE II only Rome/London. Tracker SDE 1 Seattle (2026-08-21, 09-01) not on board, page URL unverifiable; not called closed.",
+  "evidence": "Workday search API (158 postings, paginated) read 2026-10-02: SDE I Vancouver live, canApply true, posting end date 2026-11-01. US roles are SDE II/III/Senior; US SDE 1 Seattle (Aug 2026) not on board, so not live. jobs.py board caps at 50.",
   "confidence": "medium"
 }

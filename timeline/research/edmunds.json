@@ -1,15 +1,15 @@
 {
   "company": "Edmunds",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.jobscore.com/careers/edmunds",
   "jobs_spec": null,
-  "evidence": "JobScore WebFetch 2026-10-01: 2 openings, Account Executive (Miami) and remote Data Engineer (mid-level per prior check). No entry-level SWE. No browser in cloud run.",
-  "confidence": "high"
+  "evidence": "JobScore page fetched 2026-10-02: 2 openings, Account Executive (Miami) and remote Data Engineer (mid-level). No entry-level SWE or new-grad program.",
+  "confidence": "medium"
 }

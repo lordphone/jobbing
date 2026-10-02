@@ -10,17 +10,17 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-12-22",
   "last_cycle_basis": "Greenhouse first_published date for the PhD New Grad MLE posting, still live",
   "jobs_page": "https://job-boards.greenhouse.io/waymo",
   "jobs_spec": "gh:waymo",
-  "evidence": "Greenhouse API (362 postings): only new-grad-labeled role is Dec 2025 PhD MLE (WebFetch shows Apply; PhD-only). Other early roles are 2027 Summer Interns (Sept 2026). No BS/MS SWE new grad live.",
+  "evidence": "Greenhouse API (364 postings): only new-grad-labeled role is Dec 2025 PhD MLE (PhD-only, grads window unspecified). Other early roles are 2027 Summer Interns. No BS/MS SWE new grad live.",
   "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "no_sponsorship": false,
   "excluded_reason": null
 }

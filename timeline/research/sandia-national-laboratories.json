@@ -4,11 +4,22 @@
   "excluded_reason": "clearance",
   "last_cycle_basis": "unknown; no tracker history",
   "jobs_page": "https://sandia.jobs",
-  "evidence": "sandia.jobs is JS-only (no browser in cloud run). Early Career computer-science reqs need a DOE Q clearance; sandia.gov clearance page: \"Only U.S. citizens who are at least 18 years of age are eligible for a DOE clearance.\"",
-  "confidence": "medium",
+  "evidence": "Browser: sandia.jobs lists Early Career Computer Scientist (Req 698228) and Early Career CS Satellite Ground Stations (697936). Posting says \"require US citizenship\" for DOE Q-level clearance and SCI access. Excluded.",
+  "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-01",
-  "postings": [],
+  "checked": "2026-10-02",
+  "postings": [
+    {
+      "title": "Early Career Computer Scientist - Remote Sensing Systems, Onsite",
+      "url": "https://sandia.jobs/albuquerque-nm/early-career-computer-scientist-remote-sensing-systems-onsite/B206B9F335F04926B1F94221B7139A87/job/",
+      "location": "Albuquerque, NM",
+      "opened": "unknown (date not shown)",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "no_sponsorship": false,
   "jobs_spec": null,
   "last_cycle_opened": null

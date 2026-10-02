@@ -1,18 +1,18 @@
 {
   "company": "Indeed",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer I",
-      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=177a2f345faeafd5&q=software%20engineer",
-      "location": "Austin, TX",
+      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374&q=software%20engineer",
+      "location": "Austin, TX (listing; text says not considering candidates based in Austin, TX)",
       "opened": "on or before 2026-09-30",
-      "date_source": "page text (earlier run, not re-verified)",
+      "date_source": "page text (earlier run saw it 2026-09-30)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
   "jobs_spec": null,
-  "evidence": "No API (gh:indeed empty); company jobs page returned 403 to WebFetch, no browser in cloud run. Earlier run (2026-09-30, browser) saw Software Engineer I, Austin TX, rolling; not re-verified now. One web search found nothing new.",
-  "confidence": "low"
+  "evidence": "Opened indeed.com/cmp/Indeed/jobs in browser: Software Engineer I listed (Austin, TX), bachelor's CS required, no class year, no sponsorship/clearance text. Posting date not shown; listing says not considering Austin-based candidates. Was unknown on 2026-10-01.",
+  "confidence": "medium"
 }

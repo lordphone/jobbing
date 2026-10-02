@@ -1,15 +1,15 @@
 {
   "company": "Orca Security",
   "tier": 6,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2024-10-01",
-  "last_cycle_basis": "prior first-pass finding: 2024 cycle first posting 2024-10-01 (US-remote Software Engineer, Frontend); tracker_last_cycle 2024-10-01",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/orcasecurity",
   "jobs_spec": "gh:orcasecurity",
-  "evidence": "Greenhouse API, 10 postings (--all): no entry-level SWE; engineering is Israel-based. 2024 cycle posting is outside last-cycle window.",
+  "evidence": "Greenhouse API, 10 postings (--all): no entry-level SWE; engineering is Tel Aviv (Senior SWE, Team Manager) plus Senior DevOps (FedRAMP, US). No US/Canada SWE roles.",
   "confidence": "high"
 }

@@ -1,7 +1,8 @@
 {
   "company": "Hyatt Hotels Corporation",
   "tier": 11,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.hyatt.com/en-US/careers/careers/technology",
   "jobs_spec": null,
-  "evidence": "Hyatt careers returned 403 to WebFetch; no browser in cloud run; search showed only senior/lead roles and a digital product intern. Earlier browser read (2026-09-28) of Technology category (20 jobs) found no entry-level SWE; status unverified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Hyatt's own Taleo REST job search (portal 10780, reached via curl 2026-10-02; keywords software, engineer, developer, graduate, analyst, intern): corporate tech roles are all Senior/Cloud Architect/Network DevOps/AV tech. No entry-level SWE or new-grad program.",
+  "confidence": "medium"
 }

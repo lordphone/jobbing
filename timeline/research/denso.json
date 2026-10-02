@@ -1,7 +1,7 @@
 {
   "company": "DENSO",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-09-25",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
   "jobs_spec": "oracle:hcwt.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (61 postings) no longer lists Software Developer 1 Maryville (job 25340, posted 2026-09-16); requisition-detail API returns empty. Could not open page (no browser in cloud run), so not confirmed closed. No other entry SWE listed.",
+  "evidence": "Oracle board (63 postings, 2026-10-02): no SWE entry roles listed (only Software Deployment 3, Manager). Software Developer 1 Maryville (job 25340, posted 2026-09-16) is absent and its requisition API returns empty, but the page is JS-only and the browser pane was unusable, so closure not confirmed.",
   "confidence": "low"
 }

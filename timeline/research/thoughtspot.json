@@ -1,7 +1,7 @@
 {
   "company": "ThoughtSpot",
   "tier": 6,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://thoughtspot.wd5.myworkdayjobs.com/careers",
   "jobs_spec": "wd:thoughtspot/wd5/careers",
-  "evidence": "Workday API returned 0 postings and WebFetch of the board returned blank (JS page); no browser in cloud run. Cannot verify the board. Tracker had MTS 2 (Mountain View, 2026-04-09), unconfirmed entry-level.",
+  "evidence": "Workday API 0 postings; browser pane 2026-10-02 shows '0 jobs found' and thoughtspot.com/careers 'No results found', yet third-party sources show ~126 openings, so board looks broken. Tracker had MTS 2 Mountain View 2026-04-09, unconfirmed entry.",
   "confidence": "low"
 }

@@ -1,18 +1,28 @@
 {
   "company": "Lockheed Martin",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
+    {
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996476339130",
+      "location": "Littleton, CO",
+      "opened": "2026-10-01",
+      "date_source": "eightfold board date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
     {
       "title": "Software Engineering Associate - Early Career",
       "url": "https://lockheedmartin.eightfold.ai/careers/job/996476923176",
       "location": "Mount Laurel, NJ",
       "opened": "2026-09-24",
-      "date_source": "page text (Date Posted)",
+      "date_source": "eightfold board date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-26",
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://lockheedmartin.eightfold.ai/careers",
   "jobs_spec": "eightfold:lockheedmartin.eightfold.ai/lockheedmartin.com",
-  "evidence": "Job board is Eightfold (lockheedmartinjobs.com now 404s). Opened Mount Laurel Early Career SWE posting: Apply Now present, posted 2026-09-24, 'Clearance Required to Start: Interim Secret'; Final clearance Secret. Other SWE postings are L2+ or TS. No deadline stated. Re-checked 2026-10-01: Eightfold API lists 'Software Engineer - Early Career' (Riviera Beach, 2026-10-01); posting text 'will require a government security clearance'; no browser in cloud run.",
+  "evidence": "Eightfold board (61 jobs): Early Career SWE postings live (Littleton, Mount Laurel); Littleton page has Apply. Prior check quoted Mount Laurel: \"Clearance Required to Start: Interim Secret\"; Riviera Beach text \"will require a government security clearance\". No deadline.",
   "confidence": "medium"
 }

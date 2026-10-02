@@ -1,7 +1,7 @@
 {
   "company": "PlusAI",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -32,7 +32,17 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Engineer - Data",
+      "url": "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36",
+      "location": "Santa Clara, CA",
+      "opened": "2026-06-12",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -41,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/plus-2",
   "jobs_spec": "lever:plus-2",
-  "evidence": "Lever API: three live SE / Sr SE postings, \"open to candidates at either the Software Engineer or Senior Software Engineer level\"; requires BS/MS/PhD, no years, no citizenship text. No dedicated new-grad title, so borderline.",
+  "evidence": "Lever API plus page reads: SE/Sr SE postings (BS/MS/PhD, no years, no citizenship text) and Software Engineer - Data (MS, 1+ yrs, Apply live). No new-grad title, so borderline.",
   "confidence": "low"
 }

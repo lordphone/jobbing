@@ -1,6 +1,7 @@
 {
   "company": "Mayo Clinic",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -20,7 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.mayoclinic.org/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "Fetched posting 2026-10-01 (HTTP, no browser in cloud run): Apply Now shown, posted 09/08/2026, Job Expiration Date 10/08/2026, bachelor's required, no sponsorship text, no class year. Search list shows other SWE roles senior; this is the only associate-level one.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Posting page fetched 2026-10-02: Apply Now shown, posted 09/08/2026, expires 10/08/2026, bachelor's required, no sponsorship text, no class year. Associate-level, not a campus program; other SWE roles are senior.",
+  "confidence": "medium"
 }

@@ -6,10 +6,10 @@
   "last_cycle_basis": "Tracker history: Software Engineer 1 (Bethesda, MD) first seen 2026-01-06; Software Engineer I (McLean) 2025-02-28",
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Read iCIMS search (242 jobs, 5 pages) and 7 SWE postings by fetch: all state 'Clearance Required: Secret/Top Secret' (e.g. 4977 'Active DoD Secret Security Clearance'; 4982 'Must be a U.S. Citizen'); no entry-level SWE without clearance. No browser in cloud run.",
+  "evidence": "Read iCIMS search (244 jobs) and SWE postings by raw HTML: all state clearance, e.g. 4977 Software Engineer/Developer (Patuxent area, Secret); 4783 \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\"; 4982 \"Must be a U.S. Citizen\". No entry SWE without clearance.",
   "confidence": "high",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "postings": [],
   "no_sponsorship": false
 }

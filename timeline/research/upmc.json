@@ -1,7 +1,7 @@
 {
   "company": "UPMC",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -22,7 +22,7 @@
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": "Degree completed in or before June 2027; cohort starts July 2027",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Careers search page is JS-only (no browser in cloud run), but student page links two ITR posting pages fetched via HTTP 2026-10-01: two-year entry-level rotation incl. software engineering, Pittsburgh, apps open Aug-Oct. Mixed IT track, not pure SWE. No sponsorship text found.",
+  "evidence": "Opened ITR posting in browser 2026-10-02: APPLY NOW (Taleo) shown. Two-year IT rotation; placements include software engineering (mixed IT track), Pittsburgh. Winter and July 2027 cohorts. No sponsorship text found.",
   "confidence": "medium"
 }

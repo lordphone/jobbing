@@ -1,36 +1,36 @@
 {
   "company": "Optiver",
-  "status": "unknown",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
       "title": "Graduate Software Engineer (2027 Start)",
       "url": "https://www.optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/",
       "location": "Chicago, IL",
       "opened": "on or before 2026-07-01",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen / web search index",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "no"
+      "grad_window": "2027 start",
+      "live_verified": "browser"
     },
     {
       "title": "Graduate Software Engineer (2027 Start)",
       "url": "https://www.optiver.com/join-us/jobs/technology/austin/graduate-software-engineer-2027-start/",
       "location": "Austin, TX",
       "opened": "on or before 2026-07-01",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen / web search index",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "no"
+      "grad_window": "2027 start",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "tracker history: Graduate Software Engineer - 2026 Start (Austin/Chicago), first seen 2025-07-01",
+  "last_cycle_basis": "tracker history: Graduate Software Engineer - 2026 Start (Austin/Chicago) first seen 2025-07-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/optiverprivate",
   "jobs_spec": "gh:optiverprivate",
-  "evidence": "no browser in cloud run. Web search shows Graduate SWE (2027 Start) Chicago/Austin pages, but WebFetch gave 404 on them and GH API lacks them. Browser-verified open 2026-09-30 (prior file); not reconfirmed.",
-  "confidence": "low",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-02: both Graduate SWE (2027 Start) Chicago/Austin URLs (still indexed by search) return 404 and are absent from optiver.com/join-us/jobs; US lists only SWE intern, Graduate FPGA/Equity/Quant roles. Graduate SWE remains in London/Amsterdam. Prior file said open 2026-09-30.",
+  "confidence": "medium"
 }

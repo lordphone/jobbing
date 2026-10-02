@@ -1,7 +1,7 @@
 {
   "company": "WHOOP",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,19 @@
       "url": "https://jobs.ashbyhq.com/whoop/8aadc0e4-42a3-4ac2-b4a3-b584bb154ed3",
       "location": "Boston, MA",
       "opened": "2026-09-08",
-      "date_source": "ashby publishedDate (isListed false)",
+      "date_source": "ashby GraphQL publishedDate (isListed false)",
       "deadline": "2026-10-05",
       "grad_window": "graduating Winter 2026 or Spring 2027 (per linked SWE I posting)",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I (Backend)",
+      "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133",
+      "location": "Boston, MA",
+      "opened": "2026-07-01",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Posting directs Winter 2026 / Spring 2027 grads to the Pace Setters new-grad posting",
       "live_verified": "api"
     }
   ],
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whoop",
   "jobs_spec": "ashby:whoop",
-  "evidence": "Ashby GraphQL shows unlisted 'Software Engineer I - WHOOP Pace Setters' (Boston, published 2026-09-08, deadline 2026-10-05), linked from SWE I posting for Winter 2026/Spring 2027 grads. Public board lists only SWE I/II roles for immediate hire. No browser in cloud run.",
+  "evidence": "Unlisted 'SWE I - WHOOP Pace Setters' (program for graduating seniors) live per Ashby API 2026-10-02, deadline 2026-10-05. Public board also lists SWE I Backend/Frontend and Android I (Jul 2026). No browser.",
   "confidence": "medium"
 }

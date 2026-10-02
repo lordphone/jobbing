@@ -1,15 +1,26 @@
 {
   "company": "Noblis",
+  "tier": 10,
+  "checked": "2026-10-02",
   "status": "excluded",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://careers.noblis.org/jobs/26643?icims=1",
+      "location": "Philadelphia, PA",
+      "opened": "2026-03-04",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker first seen 2026-08-01 (this cycle); no 2025 cycle found",
   "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://careers.noblis.org",
   "jobs_spec": null,
-  "evidence": "Fetched iCIMS posting 26643 (Software Engineer, Philadelphia, page datePosted 2026-03-04): \"Active DoD Secret clearance or ability to achieve DoD Secret clearance and US citizenship\" at the 0-3 yr tier. No browser in cloud run, so full board not browsed.",
-  "confidence": "high",
-  "tier": 10,
-  "checked": "2026-10-01",
-  "postings": [],
-  "no_sponsorship": false
+  "evidence": "Fetched raw iCIMS page for posting 26643 (Software Engineer, Philadelphia, datePosted 2026-03-04): \"Active DoD Secret clearance or ability to achieve DoD Secret clearance and US citizenship\". Full board not browsed (shared browser pane unavailable).",
+  "confidence": "high"
 }

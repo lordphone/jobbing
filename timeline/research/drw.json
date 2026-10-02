@@ -1,5 +1,7 @@
 {
   "company": "DRW",
+  "tier": 4,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -9,18 +11,16 @@
       "opened": "2026-07-13",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "graduation expected between December 2026 and June 2027",
+      "grad_window": "Graduation Dec 2026 – Jun 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-07",
-  "last_cycle_basis": "tracker_last_cycle 2025-07-07; tracker history shows Software Developer (London) first seen 2025-07-14",
+  "last_cycle_basis": "tracker history: Software Developer (Chicago) first seen 2025-07-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/drweng",
   "jobs_spec": "gh:drweng",
-  "evidence": "gh:drweng board --all: Software Developer Chicago first_published 2026-07-13, grad window Dec 2026\u2013Jun 2027, live via API detail. Other SWE roles ask 2+ years or are senior. No deadline.",
-  "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:drweng board (169) 2026-10-02 includes Software Developer Chicago (first_published 2026-07-13, grad Dec 2026-Jun 2027), live via API. Other SWE/Quant Dev roles ask 2+ yrs or are non-entry. No deadline.",
+  "confidence": "high"
 }

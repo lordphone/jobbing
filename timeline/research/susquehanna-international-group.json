@@ -1,36 +1,36 @@
 {
   "company": "Susquehanna International Group (SIG)",
-  "status": "unknown",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
       "title": "Quantitative Strategy Developer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
-      "location": "Bala Cynwyd, PA",
+      "location": "Bala Cynwyd (Philadelphia Area), PA",
       "opened": "2026-08-19",
-      "date_source": "tracker first seen",
+      "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
-      "grad_window": "begin full-time employment by August 2027",
-      "live_verified": "no"
+      "grad_window": "Graduate and start full-time by Aug 2027",
+      "live_verified": "browser"
     },
     {
       "title": "Trading System Engineer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job",
-      "location": "Bala Cynwyd, PA",
+      "location": "Bala Cynwyd (Philadelphia Area), PA",
       "opened": "2026-08-21",
-      "date_source": "tracker first seen",
+      "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
-      "grad_window": "new graduates, 2027 start",
-      "live_verified": "no"
+      "grad_window": "Graduate and start full-time by Aug 2027",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-26",
   "last_cycle_basis": "tracker history first seen 2025-08-26",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers-sig.icims.com",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: iCIMS posting pages render via JavaScript; WebFetch returned only header/footer. Prior file (browser, 2026-09-30) found New Grad Quant Strategy Developer and Trading System Engineer open; not reconfirmed.",
-  "confidence": "low",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-02: iCIMS search 'new grad' lists both New Grad Technology - Software Engineering roles; opened both posting pages with Apply link, datePosted 2026-08-19/21. Other new grad roles are network/Linux. No deadline.",
+  "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Vista Equity Partners",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "unknown; tracker had 'Agentic Factory Consultant' (remote US, 2026-08-13), not on board now and a consulting role",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers2-vistaequitypartners.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS board has no API and WebFetch returned no listings (JS-rendered); no browser in cloud run. Web search showed only PE analyst internships. Earlier 2026-09-30 browser read found only Director/Principal/Architect roles, so likely no_program_found.",
-  "confidence": "low"
+  "evidence": "iCIMS board read in browser 2026-10-02 (iframe, 8 postings): Principal Architect, Associate Director and Director roles, talent and GTM only. No entry-level SWE. Engineering hiring is at portfolio companies.",
+  "confidence": "medium"
 }

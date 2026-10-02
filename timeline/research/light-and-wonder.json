@@ -1,7 +1,7 @@
 {
   "company": "Light & Wonder",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [
     {
@@ -10,16 +10,17 @@
       "location": "Las Vegas, NV; Reno, NV",
       "opened": "2026-08-18",
       "date_source": "tracker first seen",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer' | Reno, NV;Las Vegas, NV, first seen 2025-09-15",
+  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer' | Reno, NV;Las Vegas, NV, 2025-09-15",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
   "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
-  "evidence": "wd:lnw (45): Associate SWE R322683 (Las Vegas/Reno, 2026-08-18) absent from list; its cxs endpoint returns 403 permission denied vs 200 for live jobs. US entry roles only QA/Mathematician. Closed.",
+  "evidence": "wd:lnw (45): Associate SWE R322683 (2026-08-18) absent from list; cxs returns 403 as for removed postings. Live US entry roles are only Associate Software QA Engineer (test, excluded) and field/material roles. Page not openable.",
   "confidence": "medium"
 }

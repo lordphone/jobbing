@@ -1,15 +1,15 @@
 {
   "company": "Carbon Health",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker/history evidence for Carbon Health (jobs.py history 2026-10-01)",
+  "last_cycle_basis": "No new-grad SWE in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ats.rippling.com/carbon-health/jobs",
   "jobs_spec": null,
-  "evidence": "Rippling board via WebFetch 2026-10-01 showed only clinical/center roles, no engineering. Prior pass found only Senior Full Stack Engineer (Ankara). No entry-level SWE; no browser in cloud run, so list may be partial.",
+  "evidence": "Rippling board read via fetch 2026-10-02: only clinical/center manager/support roles listed, no engineering roles at all. No new-grad track.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Progressive",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - trackers have no history; recent-grad page lists developer roles generically",
+  "last_cycle_basis": "unknown - trackers have no history; no dated new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.progressive.com/search/jobs/",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: careers.progressive.com returns a Cloudflare challenge to curl and 403 to WebFetch. Prior 2026-09-30 browser check found only Senior Software Developer roles, no entry-level. Retry in browser.",
-  "confidence": "low"
+  "evidence": "Browser pane on careers.progressive.com: keyword searches 'software' (25 jobs), 'developer' (1), 'engineer' (1), 'new grad' (0). Only Senior Software Developer - Node/React and Cribl DevOps Engineer Lead; no entry-level SWE. The search index looks small, so coverage is moderate.",
+  "confidence": "medium"
 }

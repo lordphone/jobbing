@@ -1,18 +1,28 @@
 {
   "company": "Analog Devices",
   "tier": 7,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Associate Embedded Software Engineer",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
-      "location": "US, MA, Wilmington; US, CA, San Jose, Rio Robles; US, NC, Durham",
-      "opened": "on or before 2026-09-15",
-      "date_source": "workday postedOn",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "opened": "2026-09-15",
+      "date_source": "workday startDate (posted 17 days ago)",
       "grad_window": "Job Req Type: Graduate Job",
       "live_verified": "api",
       "deadline": null
+    },
+    {
+      "title": "Associate Machine Learning Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1",
+      "location": "Boston, MA",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate (posted 9 days ago)",
+      "deadline": null,
+      "grad_window": "Job Req Type: Graduate Job; prefers 2-5 yrs ML",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-12-23",
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:analogdevices/wd1/External",
-  "evidence": "Workday detail API re-read 2026-10-01: Associate Embedded Software Engineer (Wilmington MA, 3 locations), Graduate Job, start 2026-09-15, live, no end date. Export-licence note for non-US persons is a review, not a bar. FY27 SWE grad roles are Ireland/UK. Embedded focus.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-02: Associate Embedded Software Engineer (Wilmington/San Jose/Durham) and Associate ML Engineer (Boston), both Graduate Job, canApply true, no end date. Export-licence review note for non-US persons is not a bar. FY27 SWE grad roles are Ireland/UK.",
+  "confidence": "high"
 }

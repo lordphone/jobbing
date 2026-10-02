@@ -1,6 +1,7 @@
 {
   "company": "DHL (DHL Group, US)",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.dhl.com/amer/en/students-graduates",
   "jobs_spec": null,
-  "evidence": "WebFetch of AMER students-graduates page 2026-10-01 and web search: US programs are internships and a supply-chain leadership College Recruit program; tech grad programmes are UK/APAC only. Job search board not readable without browser (no browser in cloud run).",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser pane + careers.dhl.com Phenom search API 2026-10-02, US filter: tech roles are SDET (Columbus), HR Data Engineer, Sr App Support Engineer, IT analysts; none entry-labeled. Students & Graduates page lists intern/leadership programs, no US SWE grad track.",
+  "confidence": "medium"
 }

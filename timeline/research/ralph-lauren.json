@@ -1,15 +1,15 @@
 {
   "company": "Ralph Lauren",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate",
   "jobs_spec": null,
-  "evidence": "Custom careers site, JS-rendered. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
-  "confidence": "low"
+  "evidence": "Browser pane 2026-10-02: keyword searches (engineer, software, developer, data, technology, graduate) of 235 jobs; tech roles are Bangalore seniors, Sr Windows Engineer (Nutley), DevOps Developer (NYC, not entry-titled). No entry-level US SWE; pages 2+ not fully read.",
+  "confidence": "medium"
 }

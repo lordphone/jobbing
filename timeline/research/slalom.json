@@ -1,15 +1,15 @@
 {
   "company": "Slalom",
-  "status": "unknown",
+  "tier": 10,
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no dated source found",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.slalom.com/en_US/careersmarketplace",
   "jobs_spec": null,
-  "evidence": "Avature board lists via JS; fetch returned no results, no browser in cloud run. Prior 2026-09-30 browser read found no entry US SWE (428 global). Search snippet (not first-party) says Slalom Build 2027 intern window opened.",
-  "confidence": "low",
-  "checked": "2026-10-01",
-  "tier": 10
+  "evidence": "Browser pane 2026-10-02, Avature board keyword searches (software engineer 143 results, associate, graduate, early career, entry level): US roles are senior, Flex contractors, sales; entry data/SWE titles are outside US. No US entry SWE seen; 12 results per page so coverage partial.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "TriNet",
-  "tier": 6,
-  "checked": "2026-10-01",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.trinet.com/careers",
   "jobs_spec": "eightfold:jobs.trinet.com/trinet.com",
-  "evidence": "Eightfold board, 24 postings read with --all: engineering is Principal SWE, Staff MLOps, Senior Workstation Engineer. Associate roles are sales/HR only.",
-  "confidence": "high"
+  "evidence": "Eightfold API, all 23 postings read: engineering is Principal SWE, Staff MLOps, Senior roles; associate roles are sales, recruiting and HR only. No entry-level SWE.",
+  "confidence": "high",
+  "tier": 6,
+  "checked": "2026-10-02",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history; no company early-careers date found.",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

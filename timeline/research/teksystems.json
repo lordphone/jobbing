@@ -8,8 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-teksystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS list is JS-rendered; fetched search pages (desktop and mobile) returned no job rows, no browser in cloud run. Earlier 2026-09-28 read (129 postings) found only recruiter, sales and support roles; no SWE seen.",
+  "evidence": "iCIMS search via WebFetch returns 'no jobs found' (JS-rendered); browser pane was unavailable (shared, tab cap). 2026-09-28 read of 129 postings found only recruiter, sales, support; web search shows only a Technology Apprentice role elsewhere. No SWE new-grad confirmed.",
   "confidence": "low",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "tier": 10
 }

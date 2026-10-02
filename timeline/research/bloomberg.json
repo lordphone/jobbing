@@ -1,26 +1,15 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "2027 Software Engineer - New York",
-      "url": "https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414",
-      "location": "New York, NY",
-      "opened": "unknown (page has no date)",
-      "date_source": "none",
-      "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
-    }
-  ],
+  "checked": "2026-10-02",
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker history: Bloomberg Industry Group 'Software Engineering Associate' first seen 2025-09-25; main Bloomberg LP posted its 2025 New Grad SWE on 2024-09-17; 2026-cycle LP posting date not found",
+  "last_cycle_basis": "tracker history: Bloomberg Industry Group 'Software Engineering Associate' (Arlington, VA) first seen 2025-09-25; Bloomberg LP posted its 2025 New Grad SWE on 2024-09-17; 2026-cycle LP posting date not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-01: Avature searches for 'software engineer' (86 results, all senior) and '2027' (7, none US SWE) omit '2027 Software Engineer - New York' (21414); its page still shows Apply Now but no description (delisted shell). Treated as closed.",
+  "evidence": "Browser 2026-10-02: Avature searches 'graduate', '2027', 'new grad' show only non-US 2027 analytics/support roles and senior SWE; no US entry SWE listed. Unlisted shell '2027 Software Engineer - New York' (21414) shows Apply Now but no description or listing, so not counted as live.",
   "confidence": "medium"
 }

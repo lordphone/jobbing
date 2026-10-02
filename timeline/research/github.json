@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.github.careers/early-in-profession",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run. github.careers /api/jobs via WebFetch returned only senior/staff roles (partial list). Prior browser run 2026-09-30 saw 74 postings, none entry-level, and Early in Profession page listing nothing live. not_yet, carried over.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "github.careers /api/jobs returns all 73 postings: every engineer role is Senior/Staff/Principal (plus III); no entry-level or new-grad title. Early in Profession page mentions internships only. Last new-grad cycle seen 2024-08-27. not_yet.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

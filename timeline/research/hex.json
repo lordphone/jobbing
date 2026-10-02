@@ -1,15 +1,15 @@
 {
   "company": "Hex",
-  "status": "no_program_found",
-  "last_cycle_basis": "No tracker history of new-grad SWE.",
-  "jobs_page": "https://jobs.ashbyhq.com/hex",
-  "jobs_spec": "ashby:hex",
-  "evidence": "Ashby API (3 postings) 2026-10-01: only engineering role is 'Software Engineer, Fullstack' (SF, published 2026-02-19), earlier check noted 4+ yrs; no new-grad track.",
-  "confidence": "high",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history of a US new-grad SWE cycle.",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.ashbyhq.com/hex",
+  "jobs_spec": "ashby:hex",
+  "evidence": "Ashby API 2026-10-02 (36 postings): SWE roles (Fullstack, Backend, Foundations, AI Agent) are experienced; Fullstack asks no new-grad wording; only intern posting is Product Engineer Intern. No new-grad track.",
+  "confidence": "medium"
 }

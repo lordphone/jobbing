@@ -1,15 +1,15 @@
 {
   "company": "J.B. Hunt Transport Services",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jbhunt.wd501.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:jbhunt/wd501/Careers",
-  "evidence": "Workday API re-read 2026-10-01 (61 postings, all listed): only entry software role is Application Development Internship, Summer 2027; rest ops internships and senior/III engineers (Expert DevOps SWE, Sr Network). No entry SWE yet.",
-  "confidence": "medium",
-  "checked": "2026-10-01"
+  "evidence": "Workday API 2026-10-02 (61 postings, all listed): only entry software role is Application Development Internship, Summer 2027; rest ops internships, manager trainees, senior/III engineers. No entry SWE yet.",
+  "confidence": "medium"
 }

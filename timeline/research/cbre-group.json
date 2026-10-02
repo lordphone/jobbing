@@ -1,8 +1,8 @@
 {
   "company": "CBRE Group",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; graduate programs listed are sales/brokerage/capital markets",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.cbre.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "careers.cbre.com blocked by AWS WAF challenge (HTTP 202, no listing) and no browser in cloud run. Search shows a Dallas/Richardson Software Engineer (posted 2026-03) of unverified level; prior read found only 5-8 yr or Analyst 2-5 yr roles.",
-  "confidence": "low"
+  "evidence": "careers.cbre.com read in browser pane 2026-10-02 (searches software, developer, graduate): US software roles are Director, Principal, Sr; 'Software Engineer Analyst' (Remote US) is building-controls programming needing 2-5 yrs; only Summer 2027 Digital & Technology Intern. 2027 graduate schemes are UK/Ireland real estate. No US new-grad SWE.",
+  "confidence": "medium"
 }

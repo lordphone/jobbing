@@ -1,26 +1,36 @@
 {
   "company": "Deloitte",
   "tier": 10,
-  "checked": "2026-10-01",
-  "status": "open",
+  "checked": "2026-10-02",
+  "status": "excluded",
   "postings": [
     {
-      "title": "Consultative Offerings - Analyst - AI Innovation (builds AI-native prototypes; borderline engineering)",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-AI-Innovation/361321",
-      "location": "McLean, VA; New York, NY; Philadelphia, PA",
-      "opened": "on or before 2026-09-30",
-      "date_source": "page text (no posted date)",
-      "deadline": "2026-10-01",
-      "grad_window": "by Spring/Summer 2027",
+      "title": "Consultative Offerings, US Delivery Center, GPS - Delivery Analyst - Software Engineering Solutions (entry-level; requires ability to obtain US security clearance)",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516",
+      "location": "Gilbert, AZ; Mechanicsburg, PA; Lake Mary, FL",
+      "opened": "2026-08-11",
+      "date_source": "page text / JSON-LD datePosted",
+      "deadline": "2026-10-25",
+      "grad_window": "by Summer 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Consultative Offerings - GPS - Analyst - Software Engineering (entry-level; requires ability to obtain US security clearance)",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277",
+      "location": "Rosslyn, VA; Austin, TX; Denver, CO; Nashville, TN; Portland, OR; Sacramento, CA",
+      "opened": "2026-05-21",
+      "date_source": "page text / JSON-LD datePosted",
+      "deadline": "2026-10-25",
+      "grad_window": "by Summer 2027",
       "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08",
-  "last_cycle_basis": "jobs.py history shows multiple Deloitte Consultative Offerings Analyst roles (Software Engineering, Technology Transformation) active/closed through Jul-Sep 2026 cycle; commercial (non-GPS) track pattern recurs each summer/fall",
-  "excluded_reason": null,
+  "last_cycle_basis": "tracker_last_cycle 2025-08 (Consultative Offerings / Software Engineering Analyst postings); Deloitte also recruits entry analysts in spring (Software Engineering Analyst Atlanta, 2026-04)",
+  "excluded_reason": "clearance",
   "no_sponsorship": true,
   "jobs_page": "https://apply.deloitte.com",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-01: AI Innovation Analyst 361321 shows Apply, McLean/NY/Philadelphia, recruiting ends 10/01/2026, grad by Spring/Summer 2027, no sponsorship. No software-titled analyst found. Borderline engineering role; not browser-verified.",
-  "confidence": "low"
+  "evidence": "apply.deloitte.com: live entry SWE Analyst roles are all Government & Public Services; quote: 'Ability to obtain and maintain a U.S. Security Clearance'; recruiting ends 10/25/2026. Prior AI Innovation Analyst 361321 now Page not found. Commercial Infrastructure Engineering Analyst (ends 12/1/2026) is infra, borderline.",
+  "confidence": "medium"
 }

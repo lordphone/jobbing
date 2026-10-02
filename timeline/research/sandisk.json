@@ -1,15 +1,15 @@
 {
   "company": "Sandisk",
   "tier": 7,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-07",
-  "last_cycle_basis": "tracker first-seen: Field Application Engineer New College Graduate (Milpitas), https://jobs.smartrecruiters.com/Sandisk/744000102169088; hardware/applications, not SWE. Sandisk posts NCG roles around January.",
+  "last_cycle_basis": "tracker first seen: Field Application Engineer - New College Graduate (not SWE), https://jobs.smartrecruiters.com/Sandisk/744000102169088; no SWE-titled NCG posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.smartrecruiters.com/Sandisk",
-  "jobs_spec": "sr:Sandisk",
-  "evidence": "careers.smartrecruiters.com/Sandisk read via WebFetch 2026-10-01: 'No job postings are currently available' (jobs.py sr:Sandisk gets no response). Past NCG roles were firmware/applications, not SWE; none live. Changed from unknown: board readable and empty.",
+  "jobs_page": "https://careers.smartrecruiters.com/Sandisk",
+  "jobs_spec": null,
+  "evidence": "careers.smartrecruiters.com/Sandisk fetched 2026-10-02: 'No job postings are currently available'. jobs.py sr:Sandisk returns nothing. Sandisk NCG tracks (firmware, data platform) exist but none are live; web search suggests recruiting window around Jan 2027.",
   "confidence": "medium"
 }

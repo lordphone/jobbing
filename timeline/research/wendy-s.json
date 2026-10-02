@@ -1,7 +1,8 @@
 {
   "company": "Wendy's",
   "tier": 11,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.wendys-talent.com/jobs/categories/Information+Technology",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: wendys-talent.com returns only navigation shell via WebFetch, no job list. Earlier read (2026-09-30) of IT category: 5 Dublin OH jobs, none entry-level SWE; not re-verified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser pane 2026-10-02, wendys-talent.com IT category (6 jobs) and 'software' search (7): Dublin OH Engineer - Cloud Foundations, Sr Engineer - Platform, Engineer - Reliability, managers; none entry-labeled, no early-careers program.",
+  "confidence": "medium"
 }

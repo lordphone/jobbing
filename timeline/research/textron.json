@@ -1,26 +1,26 @@
 {
   "company": "Textron",
   "tier": 8,
-  "status": "unknown",
+  "status": "excluded",
   "postings": [
     {
       "title": "2027 - Software Engineer (Sea Systems) - Hunt Valley, MD",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905&lang=en",
       "location": "Hunt Valley, MD",
       "opened": "2026-08-31",
-      "date_source": "page text (Job Posting)",
+      "date_source": "tracker/previous run page text",
       "deadline": "2026-10-31",
       "grad_window": "currently pursuing bachelor's/master's (entry-level 2027 role)",
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2024-11-05",
   "last_cycle_basis": "tracker: New Grad 2025 Software Engineer, Hunt Valley MD (2 cycles ago)",
-  "excluded_reason": null,
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://textron.taleo.net",
   "jobs_spec": null,
-  "evidence": "Taleo has no API; WebFetch returns empty template; no browser in cloud run. Prior run (2026-09-30, browser) saw job 342905 live, deadline Oct 31 2026, clearance-obtain wording (not a citizenship quote). Not re-verified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Opened Taleo page in browser: live, Apply button present. Requirements list \"Ability to obtain a security clearance\"; no citizenship sentence. Deadline: \"accepted through October 31, 2026\". Excluded on clearance requirement only; other Textron SWE reqs not searched.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

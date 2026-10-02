@@ -1,7 +1,7 @@
 {
   "company": "SambaNova Systems",
   "tier": 7,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/sambanovasystems",
   "jobs_spec": "gh:sambanovasystems",
-  "evidence": "Greenhouse API (64 postings) 2026-10-01: 'AI Systems Performance Engineer New Grad' (San Jose, first seen 2026-07-13) now redirects to board ?error=true (job not found) and is absent from the list, so closed. Other US engineering roles are Senior/Principal/hardware.",
+  "evidence": "Greenhouse API 2026-10-02 (63 postings): 'AI Systems Performance Engineer New Grad' (San Jose, first seen 2026-07-13) returns 404 from API and its page redirects to ?error=true then the careers listing, so closed. Other US engineering roles are Senior/Principal/hardware.",
   "confidence": "high"
 }

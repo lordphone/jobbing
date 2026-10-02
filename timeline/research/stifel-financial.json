@@ -1,8 +1,7 @@
 {
   "company": "Stifel Financial",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (builtin.com listing), no confirmed date",
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS has no API; WebFetch returns only the careers landing page (Campus Connection link), no job list. Earlier WebFetch found no SWE roles. Board unreadable: no browser in cloud run. Retry with browser.",
-  "confidence": "low"
+  "evidence": "Read all 147 iCIMS postings in the browser (iframe, 3 pages) 2026-10-02: only Sr Developer, Cloud/Data Engineer III, security and IB/Venture 2027 analyst roles; no entry-level SWE or tech program. Tech new-grad program not confirmed first-party.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

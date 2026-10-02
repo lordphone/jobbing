@@ -1,15 +1,15 @@
 {
   "company": "Delta",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; earlier run found dead past-cycle 'Associate Software Development Engineer' requisitions (15492, 19308, 26029, 27683, 27948) but no dates",
+  "last_cycle_basis": "no tracker history and no dated Delta new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://delta.avature.net/en_US/careers/SearchJobs?2884=75200",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: delta.avature.net returns an AWS WAF challenge (HTTP 202, empty) to curl and WebFetch. Prior 2026-09-30 browser check found only interns/co-ops and senior roles, no full-time Associate SWE. Retry in browser.",
-  "confidence": "low"
+  "evidence": "Browser pane on delta.avature.net: IT category (8 jobs) is senior/architect roles; keyword searches (software, graduate, early career) show only Senior SDEs plus Spring/Summer 2027 interns and co-ops. No full-time entry-level SWE or new-grad program. Searches paged 10 at a time, so coverage is partial.",
+  "confidence": "medium"
 }

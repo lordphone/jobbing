@@ -1,22 +1,24 @@
 {
   "company": "Huron",
+  "tier": 10,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "Data Platform Engineer (Associate)",
-      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Platform-Engineer--Associate-_JR-0015729",
-      "location": "Chicago, IL",
-      "opened": "2026-09-16",
+      "title": "Forward Deployed Engineer Associate (AI Capability Center)",
+      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
+      "location": "Chicago, IL; Toronto, ON, Canada",
+      "opened": "2026-09-02",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     },
     {
-      "title": "Forward Deployed Engineer Associate (AI Capability Center)",
-      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
-      "location": "Chicago, IL; Toronto, ON, Canada",
-      "opened": "2026-09-02",
+      "title": "Data Platform Engineer (Associate)",
+      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Platform-Engineer--Associate-_JR-0015729",
+      "location": "Chicago, IL",
+      "opened": "2026-09-16",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
@@ -29,8 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://huron.wd1.myworkdayjobs.com/huroncareers",
   "jobs_spec": "wd:huron/wd1/huroncareers",
-  "evidence": "Workday API (95): two Associate-titled engineering roles live (canApply true); FDE text asks 3+ yrs; no grad window or new-grad label, so borderline. Salesforce Omni Developer Associate requires US citizen (ends 2026-10-09), excluded.",
-  "confidence": "low",
-  "checked": "2026-10-01",
-  "tier": 10
+  "evidence": "Workday API 2026-10-02 (92): Associate-titled engineering roles live, canApply true. FDE posting text asks 3+ yrs building software; no class year or new-grad label, so borderline. No clearance/citizenship text.",
+  "confidence": "medium"
 }

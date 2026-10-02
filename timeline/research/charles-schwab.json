@@ -1,26 +1,15 @@
 {
   "company": "Charles Schwab",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate - Software Development & Engineering",
-      "url": "https://career-schwab.icims.com/jobs/124804/job",
-      "location": "Southlake TX; Austin TX",
-      "opened": "2026-08-07",
-      "date_source": "tracker first seen (page shows reposted 2026-09-29)",
-      "deadline": "2026-10-02",
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "checked": "2026-10-02",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-11-21",
   "last_cycle_basis": "worklist tracker_last_cycle: 2025-11-21",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://career-schwab.icims.com",
   "jobs_spec": null,
-  "evidence": "WebFetch of iCIMS req 2026-124804 on 2026-10-01: Apply button present, deadline 2026-10-02, posted 2026-09-29, entry-level bachelor's CS. No sponsorship text. Earlier Java SWE (125797) and Feb 2027 (126526) were gone per 9-30 check.",
+  "evidence": "Browser 2026-10-02: req 124804 (Software Development & Engineering Associate, seen 2026-08-07/9-29) now says 'no longer open'. Open SWE reqs (.NET Developer, SDET, Software Developer) need 2-3+ yrs, experienced. Early-career search not fully exhausted.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Concentrix",
-  "status": "unknown",
+  "tier": 10,
+  "checked": "2026-10-02",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.concentrix.com/job-search/?country=United+States+Of+America",
   "jobs_spec": null,
-  "evidence": "jobs.concentrix.com returns 403 to curl and WebFetch shows 'Loading jobs' with 0 results (no browser in cloud run). Prior 2026-09-30 read: 62 US jobs, customer service/sales/fraud plus Senior/Lead roles, no new-grad SWE. Retry in browser.",
-  "confidence": "low",
-  "tier": 10,
-  "checked": "2026-10-01",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Opened the career site in browser and paged through all 66 US jobs (7 pages): customer service, sales, marketing, plus Senior/Lead software roles (Lead SWE, Senior SWE, Senior Mainframe, Java Full stack Omaha). No entry-level or new-grad SWE.",
+  "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Los Alamos National Laboratory (LANL)",
-  "status": "excluded",
-  "excluded_reason": "clearance",
-  "last_cycle_basis": "unknown; no tracker history",
-  "jobs_page": "https://lanl.jobs",
-  "evidence": "lanl.jobs search is JS-only (no browser in cloud run); found postings via web search. R&D Scientific Software Developer - Scientist 1 (IRC144382) says \"Ability to obtain a DOE Q and SCI security clearances, which generally requires U.S. citizenship.\"",
-  "confidence": "medium",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
+  "status": "excluded",
   "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no tracker history",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
+  "jobs_page": "https://lanl.jobs",
   "jobs_spec": null,
-  "last_cycle_opened": null
+  "evidence": "lanl.jobs search is JS-only; job pages now 404. Search result for R&D Scientific Software Developer - Scientist 1 quotes \"Ability to obtain a DOE Q and SCI security clearances, which generally requires U.S. citizenship.\"",
+  "confidence": "medium"
 }

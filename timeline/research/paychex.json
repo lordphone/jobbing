@@ -1,15 +1,15 @@
 {
   "company": "Paychex",
-  "tier": 6,
-  "checked": "2026-10-01",
   "status": "no_program_found",
+  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
+  "jobs_page": "https://careers.paychex.com/careers/jobs",
+  "evidence": "Jibe API careers.paychex.com/api/jobs, all 507 postings read: tech roles are Salesforce Engineer III/IV, Data Engineer, Data Solutions Engineer (Rochester NY), none entry-labeled; entry roles are sales and analysts. No new-grad SWE.",
+  "confidence": "medium",
+  "tier": 6,
+  "checked": "2026-10-02",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.paychex.com/careers/jobs",
-  "jobs_spec": null,
-  "evidence": "Paychex Jibe API (careers.paychex.com/api/jobs), 515 postings paged: tech roles are Salesforce Engineer III/IV, Data Engineer, Data Solutions Engineer, Sr/Principal developers. No entry-level SWE or new-grad program.",
-  "confidence": "high"
+  "jobs_spec": null
 }

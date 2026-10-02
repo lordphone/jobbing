@@ -1,6 +1,6 @@
 # Company List
 
-1771 companies.
+1778 companies.
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
@@ -148,7 +148,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - AI21 Labs
 - Uniphore
 
-## 3. Late-stage / unicorns (177)
+## 3. Late-stage / unicorns (178)
 
 - Stripe
 - Databricks
@@ -327,6 +327,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Jerry
 - Truveta
 - Citizen Health
+- Collaborative Robotics
 
 ## 4. Quant / trading (68)
 
@@ -976,7 +977,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Cognex
 - Rigetti Computing
 
-## 8. Auto, aerospace & defense (146)
+## 8. Auto, aerospace & defense (148)
 
 - Waymo
 - Zoox
@@ -1124,6 +1125,8 @@ A company owned by another company gets its own entry if it hires under its own 
 - Markon
 - Nominal
 - Technology Service Corporation (TSC)
+- CAE
+- STR (Systems & Technology Research)
 
 ## 9. Consumer, media, gaming & retail tech (315)
 
@@ -1443,7 +1446,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Amadeus (US)
 - NewsBreak
 
-## 10. Consulting & IT services (83)
+## 10. Consulting & IT services (87)
 
 - Accenture
 - Deloitte
@@ -1528,6 +1531,10 @@ A company owned by another company gets its own entry if it hires under its own 
 - Analytic Partners
 - Sev1Tech
 - Datalab USA
+- WebFX
+- AHEAD
+- PMG
+- Quest Global
 
 ## 11. Traditional companies with large tech orgs (276)
 

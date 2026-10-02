@@ -9,7 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run. WebFetch: tracker lead jobs.uber.com/en/jobs/160017 (SWE I, first seen 2026-07-09) returns 404; job list renders 'Loading jobs' only, so no live new-grad SWE could be seen. This-cycle posting gone; board unreadable, so medium.",
+  "evidence": "Browser 2026-10-02: tracker lead jobs.uber.com/en/jobs/160017 (SWE I, first seen 2026-07-09) and 159863 show 'Not found'. Engineer team list (8 pages) and University team show no SWE I/Graduate 2027 roles, only Sr/Staff, II and interns. Closed.",
   "confidence": "medium",
-  "checked": "2026-10-01"
+  "checked": "2026-10-02"
 }

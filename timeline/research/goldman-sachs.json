@@ -1,7 +1,7 @@
 {
   "company": "Goldman Sachs",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,27 @@
       "date_source": "oracle API posted (hdpc LateralHiring)",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
-      "live_verified": "api"
+      "live_verified": "browser"
+    },
+    {
+      "title": "2027 | Americas | Dallas Metro Area | Engineering | New Analyst",
+      "url": "https://higher.gs.com/roles/171568",
+      "location": "Dallas, TX",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "final-year undergraduate and graduate students (page text)",
+      "live_verified": "browser"
+    },
+    {
+      "title": "2027 | Americas | Salt Lake City | Engineering | New Analyst",
+      "url": "https://higher.gs.com/roles/171570",
+      "location": "Salt Lake City, UT",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "final-year undergraduate and graduate students (page text)",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -21,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "Oracle API detail + WebFetch 2026-10-01: NYC 2027 Engineering New Analyst (171569) served, posted 2026-08-15, Apply link present. SLC/Dallas also served by API but earlier browser check saw no Apply button; unresolved without browser. No sponsorship text, no deadline.",
-  "confidence": "medium"
+  "evidence": "Browser pane 2026-10-02: NYC, Dallas and Salt Lake City 2027 Engineering New Analyst pages on higher.gs.com each show an Apply button. Seattle version not verified. No sponsorship text or deadline stated.",
+  "confidence": "high"
 }

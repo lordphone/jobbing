@@ -1,17 +1,57 @@
 {
   "company": "Microsoft",
   "tier": 1,
-  "status": "unknown",
+  "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer- CoreAI (IC2, #EiP)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+      "location": "Redmond, WA",
+      "opened": "2026-10-01",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Engineer (IC2), Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+      "location": "Redmond, WA",
+      "opened": "2026-10-01",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer - Forward Deployed Engineer (IC2)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+      "location": "Redmond, WA",
+      "opened": "2026-10-01",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (IC2), Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
+      "location": "Redmond, WA",
+      "opened": "2026-10-02",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
     {
       "title": "Software Engineer - Intune (Software Engineering IC2)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982924",
       "location": "Cambridge, MA",
       "opened": "2026-09-23",
-      "date_source": "page text (Date posted)",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-07",
@@ -20,7 +60,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.careers.microsoft.com",
   "jobs_spec": "eightfold:apply.careers.microsoft.com/microsoft.com",
-  "evidence": "No browser in cloud run: posting page not readable via WebFetch. Eightfold API (66 postings) shows only SWE II/Senior and intern roles, no labeled new-grad. Prior browser run 2026-09-30 found Intune IC2 live (posted 2026-09-23); not re-verified.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Microsoft careers search API plus browser: CoreAI SWE posting tagged #EiP #IC2SWE (Early in Profession), Apply now shown, posted 2026-10-01; other IC2 'Software Engineer' postings (1+/2+ yrs) in Redmond. Not labeled 'new grad'; IC2 is entry track, so open at medium confidence. No citizenship text. Was unknown.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

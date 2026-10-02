@@ -1,13 +1,11 @@
 {
   "company": "Zip",
-  "tier": 3,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad (2027 Start)",
       "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "location": "Toronto",
+      "location": "Toronto, Canada",
       "opened": "2026-08-25",
       "date_source": "ashby publishedAt",
       "deadline": null,
@@ -16,11 +14,13 @@
     }
   ],
   "last_cycle_opened": "2025-08-22",
-  "last_cycle_basis": "tracker history first-seen for 'New Grad 2026: Software Engineer' (Ashby 5f28357a-...)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history first-seen 'New Grad 2026: Software Engineer' (Ashby 5f28357a-...)",
   "jobs_page": "https://jobs.ashbyhq.com/zip",
   "jobs_spec": "ashby:zip",
-  "evidence": "Ashby API/detail: live New Grad (2027 Start) in Toronto, published 2026-08-25, grad Dec 2026-Jun 2027. SF twin posting (df6eb1ee) no longer on board and unreadable without browser; not counted.",
-  "confidence": "high"
+  "evidence": "Ashby API/detail 2026-10-02: live New Grad (2027 Start) Toronto, published 2026-08-25, graduating Dec 2026\u2013Jun 2027. SF twin not on board; not counted.",
+  "confidence": "high",
+  "tier": 3,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

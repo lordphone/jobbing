@@ -1,8 +1,8 @@
 {
   "company": "CodeSignal",
   "tier": 6,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history found.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "jobs.gem.com/codesignal is JavaScript-rendered; plain fetch returned no listings and the gem API needs login (no browser in cloud run). Third-party search shows only Sr/mid SWE roles.",
-  "confidence": "low"
+  "evidence": "Opened jobs.gem.com/codesignal in browser: 'Open positions (0)'; gem API also returns an empty list. No postings at all, so no entry-level SWE.",
+  "confidence": "medium"
 }

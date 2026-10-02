@@ -1,26 +1,15 @@
 {
   "company": "Philips (Royal Philips)",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Full Time - Graduate Development Program - AI & Analytics Associate (2027)",
-      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
-      "location": "Nashville, TN; Cambridge, MA",
-      "opened": "2026-08-10",
-      "date_source": "tracker first seen (Workday shows repost startDate 2026-09-14)",
-      "deadline": "2026-10-02",
-      "grad_window": "2027",
-      "live_verified": "api"
-    }
-  ],
-  "last_cycle_opened": "2026-08-10",
-  "last_cycle_basis": "tracker first-seen date, AI & Analytics Associate - Graduate Development Program, Nashville TN",
+  "checked": "2026-10-02",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE date found for last cycle; only the this-cycle GDP (analytics-leaning, no sponsorship) seen",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
   "jobs_spec": "wd:philips/wd3/jobs-and-careers",
-  "evidence": "Workday API 2026-10-01: 2027 GDP AI & Analytics Associate still listed, API endDate 2026-10-02, 'will not consider candidates who require sponsorship now or future'. Analytics-leaning. Other US items are co-ops/interns. Same as prior.",
+  "evidence": "Workday (125, --all) 2026-10-02: 2027 GDP AI & Analytics Associate (Nashville/Cambridge, opened 2026-08-10, endDate 2026-10-02) no longer on board; its cxs URL returns 403 (exists, not public; live 200, nonexistent 404). Other US items are co-ops/interns. Prior run said open.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Wayfair",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; US 'Software Engineer I' postings from 2024 cycle (2024-06/07)",
+  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; Frontend SWE I Early Careers (Boston) on Greenhouse trackinglink board; US 'Software Engineer I' from 2024 cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.wayfair.com/careers/jobs?selectedJobTypeIds=8%2C4",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run. gh:trackinglink API returns nothing; wayfair.com/careers/jobs is a JS page and WebFetch got HTTP 429. aboutwayfair.com says early-career SWE hires on a rolling basis. Could not read the board; retry in browser.",
+  "evidence": "One browser load of wayfair.com/careers showed 418 jobs (Engineering & Technology 40, Early Talent 44) but listed only retail/warehouse; later loads hit 'Access to this page has been denied' (bot block, not bypassed). Greenhouse trackinglink API 404. Retry in browser.",
   "confidence": "low"
 }

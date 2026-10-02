@@ -1,26 +1,17 @@
 {
   "company": "Verizon",
   "tier": 11,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
-    {
-      "title": "Junior Data Security Engineer",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1",
-      "location": "Alpharetta, GA (remote role)",
-      "opened": "2026-09-28",
-      "date_source": "workday startDate (postedOn 'Posted 3 Days Ago' on 2026-10-01)",
-      "deadline": "2026-10-28",
-      "grad_window": null,
-      "live_verified": "api"
-    }
+    {"title": "Junior Data Security Engineer", "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1", "location": "Alpharetta, GA (remote role)", "opened": "2026-09-28", "date_source": "workday startDate", "deadline": "2026-10-28", "grad_window": null, "live_verified": "api"}
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows only Engineer 1 - Systems Engineering (Tampa, FL) first seen 2026-07-23, not SWE. No dated Verizon new-grad SWE program found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
   "jobs_spec": "wd:verizon/wd12/verizon-careers",
-  "evidence": "Workday CXS keyword searches (232 postings seen). Junior Data Security Engineer (canApply true, endDate 2026-10-28): builds data pipelines and MCP/GCP services, 'Bachelor's degree or one or more years', no sponsorship text. Borderline security title. Other new-grad roles are Ireland/Australia or 2027 internships.",
-  "confidence": "medium",
-  "checked": "2026-10-01",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday CXS searches: Junior Data Security Engineer (canApply true, endDate 2026-10-28) is a Python/.NET backend and data-pipeline/MCP role, 'Bachelor's degree or 1+ years', no sponsorship text; borderline security title. Other junior/graduate roles are Ireland/Australia or 2027 internships.",
+  "confidence": "medium"
 }

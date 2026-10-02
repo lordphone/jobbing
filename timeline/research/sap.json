@@ -1,15 +1,15 @@
 {
   "company": "SAP",
   "tier": 6,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-09-13",
-  "last_cycle_basis": "tracker first seen 'New Grad: Software Engineer' Palo Alto (jobs.sap.com); 2 cycles ago, no 2025-26 SWE grad posting found",
+  "last_cycle_basis": "tracker first seen 'New Grad: Software Engineer' Palo Alto (jobs.sap.com); no 2025-26 SWE grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: jobs.sap.com search is behind Cloudflare; new-site sitemap (39 jobs) has no US grad SWE. Prior browser check 2026-09-30 found no SWE grad posting (SAP Next Talent/Academy not seen). Retry in browser.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser 2026-10-02: new site jobs.sap.com has 0 US Entry Level results (50 jobs total); old site careers.sap.com lists 42 US software jobs, all senior/principal/expert or 3-5+ yr 'Developer'. US early-career postings are iXp interns and Academy/CSM/Solution Advisor roles, not SWE.",
+  "confidence": "medium"
 }

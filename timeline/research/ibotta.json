@@ -1,12 +1,12 @@
 {
   "company": "Ibotta",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [
     {
       "title": "Associate Software Engineer",
-      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06ec0873d/application",
+      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d",
       "location": "Denver, CO",
       "opened": "2026-07-07",
       "date_source": "tracker first seen",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ashby board (45, --all): only SWE Intern, Data Eng Intern, Data Engineer, Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) returns null from Ashby posting API: gone.",
+  "evidence": "Ashby board (45, --all) 2026-10-02: only SWE Intern, Data Eng Intern, Data Engineer, Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) returns null from Ashby posting GraphQL: gone.",
   "confidence": "high"
 }

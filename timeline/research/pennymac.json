@@ -1,7 +1,7 @@
 {
   "company": "Pennymac",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.pennymac.com/students-graduates",
   "jobs_spec": null,
-  "evidence": "careers.pennymac.com/students-graduates still describes DTO Rotational Engineer (Jan/Jun 2027 cohorts) but jobs/40358 and Rotational Analyst 40324 return HTTP 404 on 2026-10-01; posting gone. Only other tech post: Full Stack Developer (.NET), 3+ yrs. iCIMS no API.",
+  "evidence": "students-graduates page 2026-10-02 says DTO Rotational Engineer applications open, but its apply link (jobs/40358) returns 404 and the jobs search (keyword engineer, browser) lists only First VP Data and Full Stack Developer (.NET). Treated as closed.",
   "confidence": "medium"
 }

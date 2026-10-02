@@ -1,9 +1,19 @@
 {
   "company": "Amazon/AWS",
   "tier": 1,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
+      "location": "North Reading, MA; Westborough, MA; Austin, TX; Nashville, TN; Bellevue, WA; Seattle, WA; Arlington, VA",
+      "opened": "2026-10-01",
+      "date_source": "amazon: board listing date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
     {
       "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
@@ -41,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs",
   "jobs_spec": "amazon:",
-  "evidence": "amazon: board (164 postings) lists SDE I Annapurna Early Career 2027 (Sep 24), SDE Early Career (Sep 4); WebFetch of the 2027 posting shows Apply, no citizenship/clearance text, grad May 2027 or later. Same status as prior.",
+  "evidence": "amazon: board (163) lists SDE Robotics Early Career 2027 (Oct 1, Apply link seen), SDE I Annapurna 2027 (Sep 24), SDE Early Career (Sep 4); no citizenship/clearance text. Same status as prior; added robotics posting.",
   "confidence": "high"
 }

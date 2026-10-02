@@ -1,5 +1,7 @@
 {
   "company": "General Mills",
+  "tier": 11,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -13,14 +15,12 @@
       "live_verified": "api"
     }
   ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history for this company; no last-cycle date found",
+  "excluded_reason": null,
   "no_sponsorship": true,
-  "last_cycle_basis": "no tracker history; other Campus Recruiting roles (manufacturing/engineering, R&D) also on board",
   "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
   "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
-  "evidence": "Workday 2026-10-01: rotational D&T Associate (Technical Analyst, Data, Platform, ML Engineer roles), Dec 2026/Spring 2027 grads, canApply true, no endDate. Posting says will not sponsor work visas.",
-  "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "last_cycle_opened": null
+  "evidence": "Workday 2026-10-02: Digital & Technology Associate rotational (Technical Analyst, Data/Platform/ML Engineer roles), Dec 2026/Spring 2027 grads; canApply true, no end date. Will not sponsor work visas. Posting opened via API.",
+  "confidence": "high"
 }

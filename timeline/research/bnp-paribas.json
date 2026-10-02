@@ -1,18 +1,18 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
       "title": "2027 - Full Time Assistant Vice President - Corporate Functions, Analytics Lab (Machine Learning Engineer)",
       "url": "https://group.bnpparibas/en/careers/job-offer/2027-full-time-assistant-vice-president-corporate-functions-analytics-lab-machine-learning-engineer",
       "location": "Jersey City, NJ",
       "opened": "on or before 2026-08-17",
-      "date_source": "page text (last update 17.08.2026)",
+      "date_source": "page text (Last update 17.08.2026)",
       "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027 (Master's)",
-      "live_verified": "no"
+      "grad_window": "Dec 2026 - Jun 2027",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "group.bnpparibas.com returned 403 to WebFetch; no browser in cloud run, so posting not re-opened. Prior-day browser check (2026-09-30) saw the Jersey City 2027 AVP ML Engineer graduate posting live with Apply; web search confirms it is listed.",
-  "confidence": "medium"
+  "evidence": "Opened in browser 2026-10-02: listed under Graduate Programme, Apply button present, Master's, graduation Dec 2026-Jun 2027, Jersey City. No sponsorship line found. Other US 2027 FT tracks are non-tech; tech summer analyst is internship.",
+  "confidence": "high"
 }

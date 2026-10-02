@@ -1,15 +1,15 @@
 {
   "company": "Schneider Electric",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Schneider Electric",
+  "last_cycle_basis": "No tracker history; no US new-grad SWE program found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.se.com/united-states",
   "jobs_spec": null,
-  "evidence": "Jibe API se.jibeapply.com, 800 jobs paged 2026-10-01: US 2027 programs are Solution Sales Development; US SWE roles are Senior; entry 'Engineer I/II Software' postings are outside US (India, China, Italy). No US entry SWE.",
+  "evidence": "Jibe API se.jibeapply.com 2026-10-02, all 3526 jobs paged: US software roles are Senior/mid (Full Stack SWE Analytics needs 5+ yrs BS; Engineer II Software is building-controls programming); 'Engineer I' roles are mechanical/electrical/field; interns only for early career. No new-grad SWE.",
   "confidence": "medium"
 }

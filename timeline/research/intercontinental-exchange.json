@@ -1,18 +1,18 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Associate Full Stack Developer",
       "url": "https://careers-ice.icims.com/jobs/13433/associate-full-stack-developer/job",
       "location": "Jacksonville, FL",
-      "opened": "on or before 2026-10-01",
-      "date_source": "page text (no posted date shown)",
+      "opened": "2026-10-01",
+      "date_source": "icims datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2026-02-24",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS via WebFetch 2026-10-01 (no browser in cloud run): Associate Full Stack Developer 13433 Jacksonville, asks 1+ yrs, Apply active, no sponsorship line. Prior posting 13402 now 410 Gone. Pages 1-4 of 5 scanned; no Engineer 1. Needs browser recheck.",
-  "confidence": "low"
+  "evidence": "Browser (iCIMS iframe) 2026-10-02: Associate Full Stack Developer 13433 Jacksonville live with Apply, datePosted 2026-10-01 (asks 1+ yrs, no sponsorship line). Other dev roles are Java 3+ yrs/Senior/Lead; Junior SDET is test. No Engineer 1 listed.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Bath & Body Works",
   "tier": 9,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.bathandbodyworks.com/jobs",
   "jobs_spec": null,
-  "evidence": "Keyword/category filters ignored on fetch (2412 jobs, retail only on page 1). No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
-  "confidence": "low"
+  "evidence": "Browser pane 2026-10-02: board has 2409 jobs, mostly retail; category facets show only 1 Information Technology, 1 Data Science & Analytics, 1 Internship posting. Keyword filters ignored, so those postings were not individually read.",
+  "confidence": "medium"
 }

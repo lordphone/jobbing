@@ -1,7 +1,7 @@
 {
   "company": "Persistent Systems",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.persistent.com/jobslist",
   "jobs_spec": null,
-  "evidence": "Job list careers.persistent.com/jobslist is script-loaded; WebFetch got HTTP 503, no API spec, no browser in cloud run. Search found only India fresher hiring. Earlier note: US openings mostly senior (unverified this run).",
+  "evidence": "careers.persistent.com/jobslist timed out via WebFetch (script-loaded, no API); browser pane unavailable. Web search shows only India fresher hiring. Earlier note: US openings mostly senior (unverified).",
   "confidence": "low"
 }

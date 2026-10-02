@@ -1,6 +1,6 @@
 {
   "company": "L.E.K. Consulting",
-  "status": "open",
+  "status": "unknown",
   "no_sponsorship": true,
   "postings": [
     {
@@ -11,7 +11,7 @@
       "date_source": "page text (board shows no posted date; listed live on 2026-10-01)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     },
     {
       "title": "Associate Data & AI Analyst",
@@ -21,16 +21,16 @@
       "date_source": "page text (board shows no posted date; listed live on 2026-10-01)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history. Only consulting tracks (Consultant 2027, Summer DDA Associate 2027) are the firm's campus programs.",
   "jobs_page": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-f9ee24524658/candidate/jobboard/vacancy/3/adv/",
   "jobs_spec": null,
-  "evidence": "Americas board (12 roles) read via HTTP. Borderline: two Boston 'Associate' data roles (code/pipelines/Azure APIs; ML/RAG apps), 1-3 and 2-5 yrs, titled Analyst not SWE. Both: 'unable to consider candidates requiring visa sponsorship... F-1 (OPT/CPT/STEM)'. No SWE new-grad track.",
+  "evidence": "lek.tal.net now returns a \"confirm you're a real person\" bot check to scripts (not bypassed); lek.com/careers only links to it. Carried over 2026-10-01 read: two Boston Associate data roles (Analyst titles, borderline SWE), no sponsorship (F-1/OPT excluded). Not re-verified live.",
   "confidence": "low",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "excluded_reason": null
 }

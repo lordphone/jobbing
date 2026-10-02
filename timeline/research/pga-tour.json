@@ -1,15 +1,15 @@
 {
   "company": "PGA TOUR",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/pga-tour-",
   "jobs_spec": null,
-  "evidence": "TeamWork returns 403; search shows a 5-yr Software Engineer (ShotLink) and Senior roles only. No browser in cloud run; board not readable via API/WebFetch. Prior browser read 2026-09-30 found no entry-level SWE; web search found none either.",
+  "evidence": "TeamWork board returns 403 to WebFetch and is blocked in browser pane. Web search shows only a senior Software Engineer (ShotLink) role and an internship program. Unable to read board; retry later.",
   "confidence": "low"
 }

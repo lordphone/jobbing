@@ -1,15 +1,15 @@
 {
   "company": "Cleveland Clinic",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no first-party posting found between 2025-07 and 2026-01; entry-level Software Developer I postings recur every 1-2 months (2026-04-08, 2026-09-16)",
+  "last_cycle_basis": "no first-party posting found between 2025-07 and 2026-01; entry-level Software Developer I postings recur (2026-04-08, 2026-09-16)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
   "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
-  "evidence": "Workday API 2026-10-01: Software Developer I (2026-09-16/17, Weston FL/Ohio) absent from board; only Developer II/III, Full Stack AI remain. Posting page unreadable via WebFetch, no browser in cloud run, so closure unconfirmed. Prior run said closed.",
-  "confidence": "low"
+  "evidence": "Workday API (150, --all) 2026-10-02: only Developer II/III and Full Stack AI (5+ yrs). Software Developer I (Weston FL, tracker 2026-09-16) cxs URL returns 403 (exists, not public; live 200, nonexistent 404): closed. Prior run unknown.",
+  "confidence": "medium"
 }

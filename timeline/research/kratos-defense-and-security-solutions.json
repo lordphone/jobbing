@@ -1,15 +1,15 @@
 {
   "company": "Kratos Defense & Security Solutions",
-  "status": "unknown",
-  "last_cycle_basis": "unknown; not determined",
-  "jobs_page": "https://www.kratosdefense.com/careers/open-roles/",
-  "evidence": "No browser in cloud run: Kratos list is a Pereless iframe (kratosdefense.submit4jobs.com, cid 85347), JS-only; careers page 403 to curl, fetch returns error/503. Aggregators show SWE I with Secret clearance, unquoted from first party. Retry in browser.",
-  "confidence": "low",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
+  "status": "unknown",
   "postings": [],
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; not determined",
   "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.kratosdefense.com/careers/open-roles/",
   "jobs_spec": null,
-  "last_cycle_opened": null
+  "evidence": "Job list is a Pereless iframe (kratosdefense.submit4jobs.com, cid 85347); getJobs API rejects non-browser requests and browser pane was unavailable. Third-party snippets show Software Engineer I requiring U.S. citizenship, unquoted from first party. Retry in browser.",
+  "confidence": "low"
 }

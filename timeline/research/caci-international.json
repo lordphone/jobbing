@@ -1,14 +1,24 @@
 {
   "company": "CACI International",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
       "title": "Software Engineer - Early Career - Cloud",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
-      "location": "Hanover, MD; Remote (US)",
-      "opened": "2026-09-24",
+      "location": "Hanover, MD; Remote (Any State)",
+      "opened": "on or before 2026-09-24",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Early Career NASA Space Reactor - 1 Freedom Flight Software Development Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
+      "location": "Houston, TX",
+      "opened": "2026-10-02",
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": null,
@@ -16,11 +26,11 @@
     }
   ],
   "last_cycle_opened": "2025-07-15",
-  "last_cycle_basis": "tracker first seen: Entry Level Software Engineer - GUI Development, Rochester NY",
+  "last_cycle_basis": "tracker first seen Entry Level Software Engineer - GUI Development, Rochester NY",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://caci.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:caci/wd1/external",
-  "evidence": "Workday API 2026-10-01: Software Engineer - Early Career - Cloud live; quote 'Minimum Clearance Required to Start: Secret' and 'Willing and able to obtain a DoD Top Secret Clearance'. Other entry roles are Crane IN hardware engineers. Tracker lead (Next Century SmartRecruiters, 2017) is stale and requires clearance.",
+  "evidence": "Workday API 2026-10-02: Cloud early-career SWE says 'Minimum Clearance Required to Start: Secret'; Houston NASA SWE says 'Must be a U.S. Citizen or Permanent Resident'. Other junior roles are non-software.",
   "confidence": "high"
 }

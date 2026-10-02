@@ -1,7 +1,5 @@
 {
   "company": "Man Group",
-  "tier": 4,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -11,16 +9,18 @@
       "opened": "2026-09-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Available to join Summer 2027; currently studying for a degree",
-      "live_verified": "api"
+      "grad_window": "Join Summer 2027; currently studying for a degree",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "tracker first seen: Technology Rotational Program - Associate Engineer (Boston) 2025-11-13",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mangroup",
   "jobs_spec": "gh:mangroup",
-  "evidence": "EU Greenhouse page opened 2026-10-01: Technology Rotational Program - Associate Engineer (Massachusetts/Boston), published 2026-09-24, Apply button present; 'available to join Summer 2027'; no citizenship line, no deadline.",
-  "confidence": "high"
+  "evidence": "EU Greenhouse API and page 2026-10-02: Technology Rotational Program - Associate Engineer (Massachusetts), published 2026-09-24, application form present, join Summer 2027, no citizenship line, no deadline; visa question on form.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

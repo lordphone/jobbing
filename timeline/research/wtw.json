@@ -1,15 +1,15 @@
 {
   "company": "WTW (Willis Towers Watson)",
   "tier": 10,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US/Canada tracker or dated source; tracker history shows only UK graduate data/software roles",
+  "last_cycle_basis": "Tracker shows only UK data/grad roles and actuarial/investment analyst roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.wtwco.com/jobs/search",
   "jobs_spec": "sr:wtw",
-  "evidence": "sr:wtw has 7 postings (seasonal benefits CSR, licensed advisor). careers.wtwco.com (602 results) read only first page via WebFetch (filters ignored): no US SWE; US/Canada grad programs are actuarial/consulting/intern. Software grad roles are UK. No browser in cloud run.",
-  "confidence": "low"
+  "evidence": "sr:wtw has 7 postings (seasonal benefits CSR, advisor). careers.wtwco.com 616 results, first page for 'software engineer' has no SWE; only US entry role is Employee Experience Analyst intern conversion. Software grad roles are UK.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Millennium",
-  "status": "unknown",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no dated last-cycle full-time new-grad SWE posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://career.mlp.com/careers?domain=mlp.com",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: career.mlp.com is JS-rendered; WebFetch showed only a partial list (217 jobs, a NY/Miami Software Engineer - Digital Assets Trading, level unknown). Prior browser check 2026-09-30 found no new-grad SWE; not reconfirmed.",
-  "confidence": "low",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-02: pulled all 215 roles from career.mlp.com API. US software roles are Senior/Quant Dev/4+ yr Software Engineer; LEaD Miami program asks 2-5 yrs. No new-grad or entry-level SWE this cycle; no campus SWE seen.",
+  "confidence": "medium"
 }

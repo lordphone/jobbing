@@ -1,7 +1,8 @@
 {
   "company": "Inspire Brands",
   "tier": 11,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.inspirebrands.com/jobs",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: board (88 jobs, 9 pages) paging and keyword filters didn't apply via WebFetch; only first 10 read (no tech entry roles). Earlier browser read (2026-09-28, 86 jobs) found no entry-level SWE; not re-verified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Careers sitemap (87 jobs, all titles read) 2026-10-02: tech roles are Sr SRE, Lead Data Engineer, Staff Tech Ops Engineer, Data Scientist, ops analysts. No entry SWE or early-career program.",
+  "confidence": "medium"
 }

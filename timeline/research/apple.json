@@ -1,17 +1,37 @@
 {
   "company": "Apple",
   "tier": 1,
-  "status": "unknown",
+  "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
+      "location": "Austin, TX",
+      "opened": "2026-08-12",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Frontend Engineer, EE&P - IS&T Early Career",
+      "url": "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career",
+      "location": "Austin, TX",
+      "opened": "2026-08-10",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
     {
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200657382/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems",
       "location": "San Diego, CA",
       "opened": "2026-07-30",
       "date_source": "page text",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
-      "deadline": null
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -20,7 +40,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.apple.com",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: WebFetch of jobs.apple.com returns only nav/footer, no API. Prior browser run 2026-09-30 found this posting live (Submit Resume, posted 2026-07-30, 0-2 yrs); not re-verified today.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser 2026-10-02: jobs.apple.com search 'early-career' (US) lists two IS&T Early Career SWE roles (Aug 10, Aug 12, Austin) plus cellular SWE (0-2 yrs, Jul 30); all show Submit Resume. No citizenship/clearance/sponsorship text. Status changed from unknown (now verified).",
+  "confidence": "high",
+  "checked": "2026-10-02"
 }

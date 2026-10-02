@@ -1,17 +1,17 @@
 {
   "company": "U.S. Bank",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "2027 Engineering Rotational Program",
-      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-      "location": "Hopkins, MN",
-      "opened": "2026-09-14",
-      "date_source": "tracker first seen (workday startDate/repost 2026-09-25)",
-      "deadline": "2026-10-02",
-      "grad_window": "Bachelor's completed Dec 2026 or spring 2027, start Jul 2027",
+      "title": "Software Engineer 1 - Mainframe (Cobol)",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686",
+      "location": "Brookfield, WI; Atlanta, GA; Hopkins, MN; Edison, NJ; Chicago, IL; Gresham, OR; Denver, CO; Charlotte, NC; Irving, TX; Earth City, MO",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-23",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
   "jobs_spec": "wd:usbank/wd1/US_Bank_Careers",
-  "evidence": "Workday API 2026-10-01: 2027 Engineering Rotational Program (Hopkins MN) live, endDate 2026-10-02, startDate 2026-09-25; summer interns separate. Prior API read: canApply true, Dec 2026/spring 2027 grads. No sponsorship line found.",
-  "confidence": "high"
+  "evidence": "2027 Engineering Rotational Program (Hopkins MN, endDate 2026-10-02) now 'page doesn't exist' in browser = closed. Still live: Software Engineer 1 - Mainframe (Cobol), 10 US locations, posted 2026-10-01, API endDate 2026-10-23. Not a grad program; no sponsorship line seen.",
+  "confidence": "medium"
 }

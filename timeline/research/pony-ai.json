@@ -1,14 +1,35 @@
 {
   "company": "Pony.ai",
   "tier": 8,
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer - Evaluation",
       "url": "https://apply.workable.com/j/95D88E76BE",
       "location": "Fremont, CA",
       "opened": "on or before 2026-09-18",
-      "date_source": "workable published (list API; earlier pass saw created 2026-07-31)",
+      "date_source": "workable published (list API)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Behavior",
+      "url": "https://apply.workable.com/j/38035832EE",
+      "location": "Fremont, CA",
+      "opened": "on or before 2026-09-18",
+      "date_source": "workable published (list API)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Decision Making & Path Planning",
+      "url": "https://apply.workable.com/j/6137A19FBD",
+      "location": "Fremont, CA",
+      "opened": "on or before 2026-09-18",
+      "date_source": "workable published (list API)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -20,7 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/pony-dot-ai/",
   "jobs_spec": null,
-  "evidence": "Workable list API (2026-10-01): 10 live jobs, all Fremont; non-senior full-time SWE listed: Software Engineer - Evaluation, SWE Behavior, SWE Decision Making. Posting detail blocked (Cloudflare 1015, page JS-only; no browser in cloud run), so entry level unconfirmed. Earlier pass tagged Evaluation Entry level.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Workable API 2026-10-02: 10 Fremont jobs. Three non-senior full-time 'Software Engineer' postings (published 2026-09-18) ask BS/MS, no years of experience, $120-200k; not labelled entry-level or new grad, so borderline. Senior/Staff variants separate.",
+  "confidence": "medium"
 }

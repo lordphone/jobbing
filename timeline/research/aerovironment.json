@@ -1,14 +1,14 @@
 {
   "company": "AeroVironment (AV)",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
       "title": "Junior Software Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
       "location": "Jessup, MD",
-      "opened": "2026-08-04",
+      "opened": "on or before 2026-08-04",
       "date_source": "workday startDate (postedOn 30+ days)",
       "deadline": null,
       "grad_window": null,
@@ -16,11 +16,11 @@
     }
   ],
   "last_cycle_opened": "2025-09-16",
-  "last_cycle_basis": "tracker first seen 2025-09-16 (earlier file); tracker also shows entry-level SWE postings 2026-06 (Dayton OH)",
+  "last_cycle_basis": "tracker first seen 2025-09-16: Software Engineer (Apps) I, Melbourne FL; tracker also shows entry-level SWE postings 2026-06",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://avav.wd1.myworkdayjobs.com/avav",
   "jobs_spec": "wd:avav/wd1/avav",
-  "evidence": "Workday API (74, --all): Junior Software Engineer (Jessup MD, posted ~2026-08-04, 0-4 yrs) says 'applicants will be asked to provide specific documentation to verify U.S. person status under the ITAR and the EAR'; Huntsville SWE says 'ITAR U.S. Citizenship required'. Other roles are interns or senior.",
+  "evidence": "Workday API (71, --all) + detail: Junior SWE (Jessup MD, 0-4 yrs) says applicants must verify 'U.S. person status under the ITAR and the EAR' and some positions need U.S. citizenship; Huntsville SWE requires ITAR US citizenship. Others interns or senior.",
   "confidence": "medium"
 }

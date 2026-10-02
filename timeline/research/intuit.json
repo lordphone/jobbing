@@ -1,7 +1,7 @@
 {
   "company": "Intuit",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "unknown (evergreen general posting)",
       "date_source": "page text",
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-01 of posting: Apply button, New College Grad, <2 yrs, evergreen with no posted date, no sponsorship text. Toronto Software Developer 1 (tax content) needs 1-2 yrs tax experience, not counted. Summer 2027 interns also live.",
+  "evidence": "Browser 2026-10-02: Software Engineer 1 (category New College Grad, <2 yrs, 5 US locations) shows Apply Now; evergreen general posting, no posted date or sponsorship text. Toronto Software Developer 1 needs tax-content experience, not counted.",
   "confidence": "high"
 }

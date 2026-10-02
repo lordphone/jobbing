@@ -1,15 +1,15 @@
 {
   "company": "Regions Financial (Regions Bank)",
-  "tier": 5,
-  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows 'Technology Analyst - Operations, Digital, And Data' 2026-08-10 (closed, not clearly SWE)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://regions.wd5.myworkdayjobs.com/regions_careers",
   "jobs_spec": "wd:regions/wd5/regions_careers",
-  "evidence": "Workday --all (78): 2027 ETP roles are interns, non-tech. Software titles (Mainframe/COBOL, Full-Stack .NET, DevSecOps) are experienced; Full-Stack posted today not on detail endpoint. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Workday --all (78) 2026-10-02: 2027 ETP roles are commercial banking/Clearsight analysts and interns; software titles (Mainframe/COBOL, .NET Team Leader, Sr API, DevSecOps) are experienced. No entry-level SWE.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

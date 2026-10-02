@@ -1,13 +1,13 @@
 {
   "company": "Shift4",
   "tier": 5,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [
     {
       "title": "Software Engineer (Software Engineer I, SkyTab)",
       "url": "https://shift4payments.wd108.myworkdayjobs.com/Shift4_External_CareerSite/job/Atlanta-GA-Office/Software-Engineer---SkyTab_JR0000468-1",
-      "location": "Atlanta GA / Tampa FL / Center Valley PA",
+      "location": "Atlanta, GA; Tampa, FL; Center Valley, PA",
       "opened": "2026-09-28",
       "date_source": "workday postedOn (Posted Today, earlier run)",
       "deadline": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.shift4.com/careers",
   "jobs_spec": "wd:shift4payments/wd108/Shift4_External_CareerSite",
-  "evidence": "Workday API (20 postings) lists no US entry SWE. Software Engineer I (SkyTab) first seen 2026-09-28 is off the board; yesterday's browser check saw the page gone. Today's page lookup was blocked (403), no browser in cloud run.",
+  "evidence": "Workday API (20 postings) has no US entry SWE. Browser 2026-10-02: SkyTab Software Engineer I page (first seen 2026-09-28) says 'The page you are looking for doesn't exist'. Closed.",
   "confidence": "medium"
 }

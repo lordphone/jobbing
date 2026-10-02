@@ -1,15 +1,15 @@
 {
   "company": "Globant",
-  "status": "unknown",
+  "tier": 10,
+  "checked": "2026-10-02",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; entry engineering hiring is mainly Latin America/India",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://career.globant.com/?country=US",
   "jobs_spec": null,
-  "evidence": "career.globant.com is client-rendered; WebFetch and curl show no listings, no guessable API (no browser in cloud run). Prior 2026-09-30 browser read of ~15 US roles: no junior/new-grad SWE title (full-stack C#, AI/ML not entry-labeled). Retry in browser.",
-  "confidence": "low",
-  "tier": 10,
-  "checked": "2026-10-01",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Read the career site's own API (/api/sap/job-requisition?country=US): 15 US jobs, all titles read; architects, VPs, consultants, and a C# Full Stack Developer at $100-130k (experienced). No junior/new-grad SWE.",
+  "confidence": "high"
 }

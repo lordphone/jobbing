@@ -1,26 +1,26 @@
 {
   "company": "Domino's Pizza",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Technology Rotation Program",
       "url": "https://jobs.smartrecruiters.com/Dominos/744000145812178",
-      "location": "Ann Arbor, MI (30 Frank Lloyd Wright Dr)",
+      "location": "Ann Arbor, MI",
       "opened": "2026-08-27",
-      "date_source": "smartrecruiters releasedDate",
+      "date_source": "page text",
       "deadline": null,
-      "grad_window": "Winter '27 and Spring '27 graduates",
+      "grad_window": "Winter 2027 and Spring 2027 graduates",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Not found in tracker history for 2025-07 to 2026-01; unknown.",
+  "last_cycle_basis": "Not in tracker history for 2025-07 to 2026-01; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Dominos",
   "jobs_spec": "sr:Dominos",
-  "evidence": "SmartRecruiters API: Technology Rotation Program 744000145812178 active, released 2026-08-27; WebFetch of posting page shows 'I'm interested' button. Software dev program for Winter/Spring '27 grads, Ann Arbor. No deadline or sponsorship line.",
+  "evidence": "SmartRecruiters API 2026-10-02: posting active=true, public, releasedDate 2026-08-27; page shows apply button ('I'm interested'). Two-year program to become IT developers; Spring '27 grads. Not in the paged board list but live. No deadline stated.",
   "confidence": "high"
 }

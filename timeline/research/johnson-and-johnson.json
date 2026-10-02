@@ -1,15 +1,17 @@
 {
   "company": "Johnson & Johnson",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-02",
+  "status": "open",
+  "postings": [
+    {"title": "Software Engineer DevOps", "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632", "location": "Santa Clara, CA", "opened": "2026-08-26", "date_source": "workday startDate", "deadline": "2026-10-11", "grad_window": null, "live_verified": "api"}
+  ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker history: R&D Software Engineer 1 (Santa Clara) first seen 2025-11-01, reposted 2026-01-28",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
   "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Workday API (174 postings, many queries): US SWE roles are Senior Software Engineer, co-ops and interns only; no entry-level SWE live. 2027 Technology Leadership Development Program (2026-07-15) not on board (not re-opened by URL). Same status as prior file.",
-  "confidence": "medium"
+  "evidence": "Workday API: Software Engineer DevOps (Santa Clara) live, canApply true, accepts a master's + 1 yr experience, endDate 2026-10-11; level borderline, not labeled new grad. Class of 2027 TLDP (R-088676, requires no sponsorship) page now Not Found, so closed. RDLDP Class of 2027 is a hardware-leaning R&D program, not counted.",
+  "confidence": "low"
 }

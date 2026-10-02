@@ -1,15 +1,15 @@
 {
   "company": "FormFactor",
   "tier": 7,
-  "checked": "2026-10-01",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no tracker history",
+  "last_cycle_basis": "no tracker history or recruiting-page evidence found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers",
   "jobs_spec": "wd:formfactor/wd1/FFI-Careers",
-  "evidence": "Workday full board 2026-10-01 (47): no software-titled roles. Tracker lead Supply Chain Data Engineer (Farmers Branch TX) is supply-chain analytics (Python/SQL/BI), not counted as SWE. No new-grad SWE program.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-02, full board (47): engineering roles are field service, principal, senior, equipment, mechanical. Tracker lead 'Supply Chain Data Engineer' (Farmers Branch TX, live, 2026-09-04) is supply-chain analytics, not entry SWE; no level stated.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

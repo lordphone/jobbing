@@ -1,15 +1,15 @@
 {
   "company": "UKG",
-  "tier": 6,
-  "checked": "2026-10-01",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://apply.ukg.com/careers",
   "jobs_spec": "eightfold:apply.ukg.com/ukg.com",
-  "evidence": "Eightfold board, 23 postings read with --all: SWE roles are Software Engineer III, Staff, Principal, Sr Staff. No entry-level SWE or new-grad posting.",
-  "confidence": "high"
+  "evidence": "Eightfold API, all 21 postings read: SWE roles are Software Engineer III (Seattle, Lowell), Staff, Principal, Fellow; none entry-level. Earlier note says UKG interns get no sponsorship; not verified for full-time.",
+  "confidence": "high",
+  "tier": 6,
+  "checked": "2026-10-02",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history; no company early-careers date found.",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

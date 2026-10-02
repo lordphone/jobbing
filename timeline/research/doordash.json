@@ -1,7 +1,7 @@
 {
   "company": "DoorDash",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -13,6 +13,16 @@
       "deadline": null,
       "grad_window": "Fall 2026 - Summer 2027",
       "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-04",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Fall 2026 - Summer 2027 (Canadian university graduates)",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-06",
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doordashusa",
   "jobs_spec": "gh:doordashusa",
-  "evidence": "gh:doordashusa (465, --all) 2026-10-01: SWE I Entry-Level (grad Fall 2026-Summer 2027) published 2026-09-04, listed on board, updated 2026-09-29. Wants 2 internships or equivalent. No citizenship/clearance line, no deadline.",
+  "evidence": "gh:doordashusa and gh:doordashcanada 2026-10-02: SWE I Entry-Level (grad Fall 2026-Summer 2027, US) published 2026-09-04; Toronto Entry-Level (grad Fall 2026-Summer 2027) published 2026-09-04; both listed via API, updated 2026-09-29. Wants internships. No citizenship text, no deadline.",
   "confidence": "high"
 }

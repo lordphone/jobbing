@@ -1,26 +1,26 @@
 {
   "company": "Old Mission Capital",
+  "tier": 4,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
+      "title": "Software Engineer – 2027 Graduate Program (August Start)",
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
       "location": "Chicago, IL",
       "opened": "2026-07-13",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "2027 graduate program, August start",
+      "grad_window": "2027 graduates, August start",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-14",
   "last_cycle_basis": "tracker history: Software Engineer - Graduate Program first seen 2025-07-14",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/oldmissioncapital",
   "jobs_spec": "gh:oldmissioncapital",
-  "evidence": "gh:oldmissioncapital board --all (41) 2026-10-01: Software Engineer - 2027 Graduate Program (August Start), Chicago, first_published 2026-07-13, listed live on API. Junior Trading Ops/DevOps Engineer is ops-focused, not counted. No deadline.",
-  "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:oldmissioncapital board (39) and detail 2026-10-02: Software Engineer 2027 Graduate Program Chicago first_published 2026-07-13, live on API. Junior Trading Ops/DevOps Engineer is ops-focused, not counted. No deadline.",
+  "confidence": "high"
 }

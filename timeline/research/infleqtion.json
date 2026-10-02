@@ -1,19 +1,9 @@
 {
   "company": "Infleqtion",
   "tier": 7,
-  "checked": "2026-10-01",
-  "status": "excluded",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
-    {
-      "title": "Quantum Software Engineer - Compiler & Control Systems",
-      "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/",
-      "location": "Chicago, IL",
-      "opened": "2026-08-24",
-      "date_source": "workable published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    },
     {
       "title": "Quantum Software Engineer (Compiler)",
       "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/",
@@ -22,15 +12,25 @@
       "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
+    },
+    {
+      "title": "Quantum Software Engineer - Compiler & Control Systems",
+      "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/",
+      "location": "Chicago, IL",
+      "opened": "2026-08-24",
+      "date_source": "workable published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-12-09",
   "last_cycle_basis": "tracker history: Quantum Software Engineer, Chicago, first seen 2025-12-09",
-  "excluded_reason": "us person / itar",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/coldquanta/",
   "jobs_spec": null,
-  "evidence": "Workable page/API unreadable (429, JS page; no browser in cloud run). Mirror listings (builtinchicago) of Chicago Quantum Software Engineer say offer 'may be conditioned on authorization to receive' export-controlled tech 'without sponsorship for an export license'. Kept excluded per prior check; wording is not an explicit US-person line.",
+  "evidence": "Workable API 2026-10-02 (58 jobs): two Chicago Quantum Software Engineer postings, published 2026-08-24, Bachelor's min, no years or entry label. Offer 'may be conditioned' on export-control authorization (not explicit US-person). Was excluded; level unclear.",
   "confidence": "low"
 }

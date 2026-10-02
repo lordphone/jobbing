@@ -1,7 +1,7 @@
 {
   "company": "NFL (National Football League)",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nflcareers",
   "jobs_spec": "gh:nflcareers",
-  "evidence": "Greenhouse API 2026-10-01: 42 postings; none software engineering at entry level (media, broadcast, business, 'Associate, Real-Time Systems' is operations). No SWE new-grad track found.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-02: 41 postings; none entry-level software engineering ('Associate, Real-Time Systems' is operations).",
+  "confidence": "high"
 }

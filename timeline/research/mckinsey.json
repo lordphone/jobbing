@@ -1,26 +1,26 @@
 {
   "company": "McKinsey",
-  "tier": 10,
-  "checked": "2026-10-01",
   "status": "unknown",
   "postings": [
     {
       "title": "AI Data Engineer - QuantumBlack, AI by McKinsey",
       "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
-      "location": "Atlanta, Boston, Chicago, New Jersey/Newark, New York City, Raleigh, San Francisco, Washington DC",
+      "location": "Atlanta, GA; Boston, MA; Chicago, IL; Newark, NJ; New York, NY; Raleigh, NC; San Francisco, CA; Washington, DC",
       "opened": "on or before 2026-09-30",
-      "date_source": "page text (no posted-date metadata on McKinsey's site; job ID 112288, confirmed live and open today)",
-      "grad_window": "December 2026 - August 2027",
-      "live_verified": "no",
-      "deadline": null
+      "date_source": "earlier browser check (prior run), not re-verified",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Aug 2027",
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history \"mckinsey\" returned 0 tracker postings (no tracker coverage of McKinsey)",
+  "last_cycle_basis": "no tracker coverage of McKinsey (jobs.py history empty); no dated source found",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
   "jobs_spec": null,
-  "evidence": "mckinsey.com returned HTTP 503 to WebFetch on search and job 112288 (2026-10-01); no browser in cloud run. Browser check 2026-09-30 showed Apply Now live (grad Dec 2026-Aug 2027, 8 US cities). Retry in browser.",
-  "confidence": "medium"
+  "evidence": "2026-10-02: mckinsey.com times out for WebFetch, curl gets HTTP/2 INTERNAL_ERROR, browser pane navigation denied. Prior run's browser check showed Apply Now live for AI Data Engineer (QuantumBlack), grad Dec 2026-Aug 2027; I could not re-open it. Retry in browser.",
+  "confidence": "low",
+  "checked": "2026-10-02",
+  "tier": 10,
+  "no_sponsorship": false
 }

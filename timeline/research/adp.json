@@ -1,15 +1,15 @@
 {
   "company": "ADP",
   "tier": 6,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker data; earlier GPT Development Program 'Associate Application Developer' postings seen via search, undated",
+  "last_cycle_basis": "no tracker data; earlier GPT Development Program Associate Application Developer postings seen via search, undated",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.adp.com/en/early-careers/",
   "jobs_spec": null,
-  "evidence": "jobs.adp.com early-careers (WebFetch) lists only Spring 2027 OneADP interns (GA, FL, VA); GPT Development Program mentioned but no live US entry SWE posting.",
-  "confidence": "medium"
+  "evidence": "jobs.adp.com early-careers 2026-10-02 lists only Spring 2027 OneADP interns (GA, FL, VA) and mentions the GPT Development Program; job search filters didn't apply (shared browser), so no US entry SWE posting confirmed. Old Associate Software Engineer URL 404s.",
+  "confidence": "low"
 }

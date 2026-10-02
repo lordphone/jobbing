@@ -1,15 +1,15 @@
 {
   "company": "Cyera",
   "tier": 6,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.cyera.com/careers",
+  "jobs_page": "https://www.comeet.com/jobs/cyera/17.008",
   "jobs_spec": null,
-  "evidence": "WebFetch careers page: sales, Tel Aviv support/product; engineering listings not visible without filters (no browser in cloud run). No US entry-level SWE seen; board not API-readable.",
+  "evidence": "Careers page is Comeet, not API-readable; page shows sales/support/Tel Aviv roles; search shows no new-grad SWE. Board not fully read, so low confidence.",
   "confidence": "low"
 }

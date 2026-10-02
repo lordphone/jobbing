@@ -1,26 +1,15 @@
 {
   "company": "PwC",
   "tier": 10,
-  "checked": "2026-10-01",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "Assurance Innovation & Technology (AIT) - Software Engineering - Associate - Summer/Fall 2027",
-      "url": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Innovation---Technology--AIT----Software-Engineering---Asspciate---Summer-Fall-2027_52926149EIB",
-      "location": "4 locations incl. Rosemont IL, Boston, Tampa, NYC",
-      "opened": "on or before 2026-08-30",
-      "date_source": "workday postedOn (Posted 26 Days Ago on 2026-09-27 check) + tracker first seen 2026-08-30",
-      "grad_window": "Summer/Fall 2027",
-      "live_verified": "no",
-      "deadline": null
-    }
-  ],
+  "checked": "2026-10-02",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "unknown",
   "last_cycle_basis": "jobs.py history found no SWE-titled PwC posting between 2025-07 and 2026-01; closest prior entry is 'Associate - Data Engineer' (Tampa) active 2026-03-13",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers",
   "jobs_spec": "wd:pwc/wd3/US_Entry_Level_Careers",
-  "evidence": "Workday list 2026-10-01 (21 reqs, --all) lacks the AIT Software Engineering posting (opened by 2026-08-30); only Audit/Tax/DAT roles, none SWE. Posting page unreadable (JS, no browser in cloud run), so closed unconfirmed. No H-1B sponsorship.",
+  "evidence": "Workday US_Entry_Level_Careers (26 reqs, --all): audit/tax/consulting only, no SWE. AIT Software Engineering Associate (Summer/Fall 2027, first seen 2026-08-30) and Tax Innovation SWE Associate now show 'page doesn't exist' in browser. Global_Campus has no US/Canada SWE.",
   "confidence": "medium"
 }

@@ -1,15 +1,26 @@
 {
   "company": "ExxonMobil",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-02",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Students Seeking Full-Time Employment in Trading (track: Trading Data, Analytics and AI - data engineering, software development, data science)",
+      "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
+      "location": "Spring, TX (Houston area)",
+      "opened": "2026-09-08",
+      "date_source": "page text (datePosted meta)",
+      "deadline": null,
+      "grad_window": "graduating 2026/2027 or within last three years",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-10-31",
   "last_cycle_basis": "tracker first-seen: 'Engineering Students Seeking Full-Time Employment' (generic engineering, not SWE-specific), 2025-10-31",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.exxonmobil.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "jobs.exxonmobil.com search (curl, 6 queries): US early-career is generic 'STEM Early Career Full-Time Opportunities' (Spring TX, Sep 30; lists Computer Science, no SWE role). 2026USH Trading Desk Full Stack Developer has no entry-level signal. No software/IT entry-level posting. Same as prior.",
+  "evidence": "jobs.exxonmobil.com page fetched 2026-10-02: Global Trading new-grad posting (Apply now, listed in search, posted 2026-09-08) has a Trading Data, Analytics and AI track doing software dev/data engineering. Track-level, not a pure SWE title, so medium. Generic STEM Early Career posting not counted.",
   "confidence": "medium"
 }

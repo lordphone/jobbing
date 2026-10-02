@@ -1,8 +1,8 @@
 {
   "company": "American Family Insurance",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-28",
   "last_cycle_basis": "kept from previous research file: Simplify tracker lead, Associate Salesforce Development Engineer, Madison",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://amfam.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:amfam/wd1/Careers",
-  "evidence": "Workday API 2026-10-01 returned 0 postings (prior run saw 1 GenAI intern); careers.amfam.com pages 404 via WebFetch, no browser in cloud run. Board unreadable now; a search hit for a Software Engineer role could not be opened. Prior run said not_yet.",
-  "confidence": "low"
+  "evidence": "Workday cxs API 2026-10-02 (28 postings): only senior/lead engineers, adjusters, actuary; no entry-level SWE. jobs.py board returned 0 but direct POST worked. Last cycle lead is Simplify tracker.",
+  "confidence": "medium"
 }

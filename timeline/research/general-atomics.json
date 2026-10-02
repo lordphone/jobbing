@@ -1,15 +1,26 @@
 {
   "company": "General Atomics",
-  "status": "unknown",
+  "status": "excluded",
   "last_cycle_opened": "2026-01-13",
   "last_cycle_basis": "tracker first-seen 2026-01-13 (Associate Software Developer, Poway) via jobs.py history",
-  "jobs_page": "https://sjobs.brassring.com",
-  "evidence": "No browser in cloud run: BrassRing search API returns 500 and pages are JS-only; no posting opened. Tracker shows Associate Software Developer (Poway) first seen 2026-01-13 flagged citizenship; unquoted from first party. Likely excluded; retry in browser.",
-  "confidence": "low",
+  "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25539&siteid=5313",
+  "evidence": "Browser BrassRing search: 28 'software engineer entry' results (Poway, Salina, Virginia etc., entry-level 0-2 yrs). Opened Software Developer (Req 55095BR): 'US Citizenship Required? Yes', Secret clearance. GA sitewide: 'U.S. Citizenship is required for certain positions'.",
+  "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-01",
-  "postings": [],
+  "checked": "2026-10-02",
+  "postings": [
+    {
+      "title": "Software Developer (recent K-State graduate, GA-ASI)",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25539&siteid=5313#jobDetails=5223310_5313",
+      "location": "Salina, KS",
+      "opened": "unknown (date not shown)",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "no_sponsorship": false,
-  "excluded_reason": null,
+  "excluded_reason": "citizenship",
   "jobs_spec": null
 }

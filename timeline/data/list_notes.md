@@ -1,1 +1,8 @@
-- No company-list edits this run. The top unmatched tracker names are the same staffing agencies, universities, non-US employers and AI-training vendors skipped last run (Sainsbury's, Artech, Innodata, AG Technologies, universities, TSMG, mthree, etc.), and none of the last run's research files showed a company posting only under another name.
+- Added Collaborative Robotics (tier 3): robotics startup posting "Software Engineer – University Grad" roles in Santa Clara under its own name.
+- Added CAE (tier 8): flight-simulation and defense company posting Junior ML Engineer and software roles in Orlando and Arlington, TX.
+- Added STR (Systems & Technology Research) (tier 8): defense R&D firm posting Associate Software Reverse Engineer and Associate Researcher roles in the US; added override `str`.
+- Added WebFX (tier 10): digital agency posting Entry Level / Junior Software Engineer roles in Harrisburg, PA and Ann Arbor, MI.
+- Added AHEAD (tier 10): IT services firm posting Associate AI Engineer and Software Engineer roles in Chicago and US remote.
+- Added PMG (tier 10): marketing-tech firm with a Graduate Leadership Program – AI & Software Engineering track in Dallas.
+- Added Quest Global (tier 10): engineering services firm posting Full Stack Developer and data roles in Charlotte and Houston.
+- Fixed override for "Boston Consulting Group" → BCG X: the old key kept the stop-word "group", so it never matched. Skipped the rest of the top ~100 unmatched names: staffing agencies, universities, non-US employers, AI-training vendors, and civil/environmental engineering firms with no software roles.

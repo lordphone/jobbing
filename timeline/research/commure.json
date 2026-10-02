@@ -1,7 +1,7 @@
 {
   "company": "Commure",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "on or before 2026-09-11",
       "date_source": "tracker first seen (2026-09-11)",
       "grad_window": "graduating recently or within the upcoming academic year (2027 cohort)",
-      "live_verified": "no",
+      "live_verified": "browser",
       "deadline": null
     },
     {
@@ -22,7 +22,7 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-27",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Commure",
   "jobs_spec": "ashby:Commure",
-  "evidence": "No browser in cloud run. Scribe AI SWE (Mountain View) live on Ashby API, published 2026-09-23. Early Career 2027 page still served with its title (not on public list; General Catalyst board shows it posted 2026-09-12) but Apply button not verified. No deadline.",
-  "confidence": "medium"
+  "evidence": "Opened both pages in browser 2026-10-02: Early Career 2027 (unlisted on Ashby board; Apply button shown, grads recent or within upcoming academic year) and Scribe AI SWE (1-4 yrs, new grads encouraged, also on API). No deadline stated.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Major League Baseball (MLB)",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-18",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.mlb.com/careers/opportunities",
   "jobs_spec": "gh:majorleaguebaseball",
-  "evidence": "Greenhouse --all 2026-10-01 (30 postings): both Software Engineer postings (NY, Boulder) are iOS, 3+ years, mid-level (read via API); rest Senior Android/non-SWE. No entry-level SWE live; last cycle's Associate SWE opened December.",
+  "evidence": "Greenhouse --all (31): Software Engineer NY/Boulder are iOS, 3+ yrs (read posting text, mid-level); Senior Android. No entry SWE live; Associate SWE track opened 2024-09 and 2025-12.",
   "confidence": "high"
 }

@@ -1,6 +1,7 @@
 {
   "company": "Veeva",
   "tier": 6,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -20,7 +21,7 @@
       "opened": "2025-08-20",
       "date_source": "lever createdAt",
       "deadline": null,
-      "grad_window": "2027 start",
+      "grad_window": "2027 start (recent university graduates, Engineering Development Program)",
       "live_verified": "api"
     },
     {
@@ -30,17 +31,16 @@
       "opened": "2025-08-20",
       "date_source": "lever createdAt",
       "deadline": null,
-      "grad_window": "2027 start",
+      "grad_window": "2027 start (recent university graduates, Engineering Development Program)",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-18",
-  "last_cycle_basis": "tracker first seen (trackers.json)",
+  "last_cycle_basis": "tracker first seen (trackers.json); Lever createdAt 2025-08-20",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.lever.co/veeva",
   "jobs_spec": "lever:veeva",
-  "evidence": "Lever API 2026-10-01 and apply pages return 200: 3 live US 'Associate Software Engineer - 2027 Start Dates' (Engineering Development Program, recent grads, 0-2 yrs) in Pleasanton, Boston, Columbus. 'Does not provide sponsorship'. Lever createdAt 2025-08-20; tracker re-saw 2026-08-06. No deadline.",
-  "confidence": "high",
-  "checked": "2026-10-01"
+  "evidence": "Lever API 2026-10-02 and apply pages return 200: 3 live US 'Associate Software Engineer - 2027 Start Dates' (Engineering Development Program, recent grads, 0-2 yrs). 'Does not provide sponsorship'. Lever createdAt 2025-08-20 (posting likely reused/evergreen). No deadline.",
+  "confidence": "high"
 }

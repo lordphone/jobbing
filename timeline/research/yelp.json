@@ -1,15 +1,15 @@
 {
   "company": "Yelp",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting in tracker history Jul 2025-Jan 2026; tracker shows Montreal/Toronto engineer postings 2026-08-25/27",
+  "last_cycle_basis": "no US new-grad SWE posting in tracker history Jul 2025-Jan 2026; tracker shows Montreal/Toronto engineer postings 2026-08-24/27 (now gone, entry level unverified)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://yelp.careers",
   "jobs_spec": null,
-  "evidence": "yelp.careers (Phenom SSR data, no browser in cloud run) 2026-10-01: all 22 US-site jobs are sales/product; only engineer is Senior ML Engineer. Tracker Toronto/Montreal engineer postings (14018, 14019, 14025) now HTTP 410 but entry level unverified, so not called closed.",
+  "evidence": "yelp.careers Phenom data and uscareers-yelp.icims.com 2026-10-02: 20 US-site jobs, all sales/product/community except Senior ML Engineer (SF). No entry SWE. Tracker Toronto/Montreal engineer postings 14018/14019/14025 now gone but entry level unverified, so not called closed.",
   "confidence": "low"
 }

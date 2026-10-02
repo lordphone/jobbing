@@ -1,8 +1,8 @@
 {
   "company": "Teradata",
   "tier": 6,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.teradata.com/jobs",
   "jobs_spec": null,
-  "evidence": "Job list is JavaScript-rendered (fetch shows 0 results); no browser in cloud run. Search shows San Diego SWE interns and entry SWE in Tijuana only; prior browser pass found no US entry SWE.",
-  "confidence": "low"
+  "evidence": "2026-10-02 careers.teradata.com GraphQL list (167): US engineering roles Staff/Senior/Principal; interns Mexico only; no US entry SWE. Prior unknown resolved.",
+  "confidence": "high"
 }

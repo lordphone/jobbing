@@ -1,26 +1,26 @@
 {
   "company": "PayPal",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "closed",
+  "checked": "2026-10-02",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Engineer - Recent Graduate (Req R0137237)",
-      "url": "https://paypal.eightfold.ai/careers/job/274921995088",
-      "location": "San Jose CA; Austin TX; Chicago IL",
-      "opened": "2026-09-04",
-      "date_source": "tracker first seen",
+      "title": "Software Engineer- Cloud Infrastructure and DevOps",
+      "url": "https://paypal.eightfold.ai/careers/job/274920488372",
+      "location": "Austin, TX",
+      "opened": "2026-09-01",
+      "date_source": "eightfold API posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-16",
   "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' first seen 2025-08-16 (San Jose/Chicago/Omaha/Scottsdale, via paypal.eightfold.ai)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://paypal.eightfold.ai/careers",
   "jobs_spec": "wd:paypal/wd1/jobs",
-  "evidence": "2026-10-01: Eightfold board (37 postings) and Workday show no entry/recent-grad SWE; only Sr/Staff. The 2026-09-04 Recent Graduate posting is absent from both; earlier browser check saw 'No longer accepting applications' (page not re-openable, no browser in cloud run).",
+  "evidence": "Browser 2026-10-02: Recent Graduate SWE R0137237 shows 'No longer accepting applications' (closed). Plain Software Engineer Cloud Infra/DevOps (Austin, posted 9-1) has Apply Now, '1+ yrs' + bachelor's, under senior guidance, no visa sponsorship; not labeled new grad.",
   "confidence": "medium"
 }

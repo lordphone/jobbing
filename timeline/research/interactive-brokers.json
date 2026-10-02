@@ -1,8 +1,8 @@
 {
   "company": "Interactive Brokers",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Nothing dated found; hires entry developers ad hoc.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: Dayforce portal has no API and WebFetch returns an empty shell. Prior browser read 2026-09-30 (8 pages): only Summer 2027 internship, software roles II/III/Senior; retry with browser.",
-  "confidence": "low"
+  "evidence": "Browser read of all 8 Dayforce pages 2026-10-02 (~145 jobs): only Summer 2027 Software Developer internship (Greenwich) in US; US SWE roles are Sr/III/3+ yrs; entry SWE (Software Engineer I, Jr Engineer iOS) only in Mumbai.",
+  "confidence": "medium"
 }

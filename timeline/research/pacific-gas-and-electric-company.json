@@ -1,12 +1,19 @@
 {
   "company": "Pacific Gas and Electric Company (PG&E)",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
-    {"title": "Associate Data Engineer - Location Flexible", "url": "https://jobs.pge.com/job/oakland/associate-data-engineer-location-flexible/29673/101415346048", "location": "Oakland, CA",
-     "opened": "on or before 2026-10-01", "date_source": "page text (no posted date shown; seen live in search 2026-10-01)",
-     "deadline": null, "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Product Engineer, Associate",
+      "url": "https://jobs.pge.com/job/oakland/product-engineer-associate/29673/101372166400",
+      "location": "Oakland, CA",
+      "opened": "2026-09-30",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-11-12",
   "last_cycle_basis": "jobs.py history: 'AI and Automation Programmer Analyst, Associate' (Oakland CA), first seen 2025-11-12; other associate data/programmer roles posted ad hoc Apr-Jun 2026",
@@ -14,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.pge.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "WebFetch (no browser in cloud run) jobs.pge.com search 'software' 2026-10-01: Associate Data Engineer page has Apply ('I'm Interested'), BA/BS CS, builds data pipelines; no citizenship text; must live in PG&E territory. Data-engineering, so borderline SWE; no posted date or deadline.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Product Engineer, Associate (IT Integration Platforms, full-stack/mobile/API, bachelor's CS) live with I'm Interested; no sponsorship or citizenship text, no deadline. Earlier Associate Data Engineer posting is gone ('no longer exists').",
+  "confidence": "high"
 }

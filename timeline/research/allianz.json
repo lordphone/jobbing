@@ -8,7 +8,7 @@
       "url": "https://careers.allianz.com/us/en/job/105620/TechSTART-Associate-2027-3318",
       "location": "Minneapolis, MN (hybrid)",
       "opened": "2026-09-03",
-      "date_source": "page text (JSON-LD datePosted; a second field says 2026-09-21)",
+      "date_source": "page text (JSON-LD datePosted 2026-09-03; a second field says 2026-09-21)",
       "deadline": null,
       "grad_window": "June 2027 start",
       "live_verified": "browser"
@@ -20,7 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.allianz.com/us/en/graduates",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run: WebFetch of internal-careers.allianz.com copy showed 'Apply now'; careers.allianz.com copy returned JSON-LD but fetch summary said 'filled' (possibly hidden template text). Entry level, June 2027 start, 0-1 yrs, no sponsorship text. Recheck in browser.",
-  "confidence": "low",
-  "checked": "2026-10-01"
+  "evidence": "Browser 2026-10-02: posting page shows Apply Now, Entry Level, June 2027 TechSTART cohort, application development/cloud/DevOps tracks, 0-1 yrs. One WebFetch summary said 'filled' but the page itself has Apply Now. No sponsorship text, no deadline.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

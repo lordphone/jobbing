@@ -1,15 +1,15 @@
 {
   "company": "Franklin Templeton",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "not_yet",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-12-15",
   "last_cycle_basis": "tracker history: 'Associate Software Engineer' (Stamford CT / NYC) first seen 2025-12-15",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
-  "jobs_spec": "wd:franklintempleton/wd5/Primary-External-1",
-  "evidence": "Workday API (jobs.py and direct search) returns 0 postings for Primary-External-1 on 2026-10-01, so nothing live; no browser in cloud run to confirm the page. Tracker roles (Junior Quant Developer 2026-07-04 etc.) all closed.",
-  "confidence": "medium"
+  "jobs_page": "https://careers.franklintempleton.com/us/en/search-results",
+  "jobs_spec": null,
+  "evidence": "Old Workday board is empty (migrated to Phenom careers.franklintempleton.com, read in browser 2026-10-02: 198 jobs). US tech roles are Lead/Senior or Quantitative Developer (5+ yrs). Tracker 'Junior Quant Developer' NYC (2026-07-04) page opened: gone.",
+  "confidence": "medium",
+  "checked": "2026-10-02"
 }

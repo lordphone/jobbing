@@ -1,25 +1,27 @@
 {
   "company": "Hudson River Trading",
+  "tier": 4,
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (C++ or Python) \u2013 2027 Grads",
+      "title": "Software Engineer (C++ or Python) – 2027 Grads",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
       "location": "Austin, TX; Chicago, IL; New York, NY; London, UK; Singapore",
       "opened": "2026-07-13",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "2027 grads",
+      "grad_window": "Eligible for full-time roles in 2027",
       "live_verified": "api"
     },
     {
-      "title": "Algorithm Developer (Quant Research & Trading) \u2013 2027 Grads",
+      "title": "Algorithm Developer (Quant Research & Trading) – 2027 Grads",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
       "location": "New York, NY; London, UK; Singapore",
       "opened": "2026-07-13",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "2027 grads",
+      "grad_window": "Eligible for full-time roles in 2027",
       "live_verified": "api"
     },
     {
@@ -35,12 +37,10 @@
   ],
   "last_cycle_opened": "2025-08-07",
   "last_cycle_basis": "tracker history: Algorithm Developer - Quant Researcher first seen 2025-08-07 (2024-08-19 for 2025 grads)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/wehrtyou",
   "jobs_spec": "gh:wehrtyou",
-  "evidence": "gh:wehrtyou board (87) 2026-10-01 lists 2027 Grads SWE (C++/Python) and Algorithm Developer, published 2026-07-13; Junior Trading Systems Engineer (borderline systems role). No deadline stated. Matches prior file.",
-  "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-01",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:wehrtyou board (87) and boards-api detail 2026-10-02: 2027 Grads SWE (C++/Python) first_published 2026-07-13, updated 2026-10-01, live. Junior Trading Systems Engineer is borderline. No deadline stated.",
+  "confidence": "high"
 }

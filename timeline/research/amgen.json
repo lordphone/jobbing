@@ -1,26 +1,26 @@
 {
   "company": "Amgen",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
       "title": "Associate AI Engineer, OI&A",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
       "location": "Thousand Oaks, CA",
       "opened": "2026-09-22",
-      "date_source": "prior research file (workday)",
+      "date_source": "workday (prior research file)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-08",
-  "last_cycle_basis": "tracker history: Junior Software Engineer (Thousand Oaks, CA; Tampa, FL) first seen 2025-08-08",
+  "last_cycle_basis": "tracker first seen 2025-08-08 Junior Software Engineer (Thousand Oaks, CA; Tampa, FL)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://amgen.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:amgen/wd1/careers",
-  "evidence": "Associate AI Engineer OI&A (2026-09-22) absent from Workday list and searches, likely closed, but page unreadable (CXS 403, WebFetch empty; no browser in cloud run). Other US tech roles: 2027 interns, senior/director. Prior file said closed.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Associate AI Engineer OI&A page 'doesn't exist'. Live US tech: Summer 2027 interns (SWE, ML), Sr Associate SWE in Burnaby BC (not entry), senior roles.",
+  "confidence": "medium"
 }

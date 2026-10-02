@@ -1,13 +1,13 @@
 {
   "company": "Neuralink",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - HIL",
       "url": "https://job-boards.greenhouse.io/neuralink/jobs/8005730003",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States; Austin - ATX1; South San Francisco - SSF",
+      "location": "Austin, TX; South San Francisco, CA",
       "opened": "2026-09-25",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -17,7 +17,7 @@
     {
       "title": "Software Engineer - Simulation",
       "url": "https://job-boards.greenhouse.io/neuralink/jobs/8005762003",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States; Austin - ATX1; South San Francisco - SSF",
+      "location": "Austin, TX; South San Francisco, CA",
       "opened": "2026-09-25",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/neuralink",
   "jobs_spec": "gh:neuralink",
-  "evidence": "gh:neuralink API: SWE-HIL and SWE-Simulation first published 2026-09-25, updated 09-29, both say 'hiring engineers at all levels, both junior and senior'; bachelor's required. Unlabeled level and HIL is test-oriented, so medium.",
+  "evidence": "gh:neuralink API re-checked 2026-10-02: SWE-HIL and SWE-Simulation (first published 2026-09-25) say hiring all levels incl. junior; bachelor required, no years ask. Level unlabeled, so medium.",
   "confidence": "medium"
 }

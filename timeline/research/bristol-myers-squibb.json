@@ -1,8 +1,8 @@
 {
   "company": "Bristol Myers Squibb",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [
     {
       "title": "Technology Rotational Development Program Associate",
@@ -12,15 +12,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no qualifying new-grad SWE posting found in tracker history 2025-07 to 2026-01 window",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms",
   "jobs_spec": "wd:bristolmyerssquibb/wd5/bms",
-  "evidence": "Technology Rotational Development Program Associate (first seen 2026-08-30) is absent from Workday list and searches, likely closed, but posting page unreadable (CXS 403 vs 404 for bogus id; no browser in cloud run). Live US: lab IT Associate Engineer (not SWE), 2027 MBA/interns. Prior file said closed.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-02: Technology Rotational Development Program Associate page 'doesn't exist'. Live US: Associate Engineer IT Laboratory Systems (Summit, NJ; not SWE), 2027 MBA and interns.",
+  "confidence": "medium"
 }

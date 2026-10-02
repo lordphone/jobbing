@@ -1,15 +1,15 @@
 {
   "company": "Enphase Energy",
   "tier": 7,
-  "status": "unknown",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "jobs_page": "https://enphase.com/careers",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run. enphase.com/api/v2/jobs returns 403 today. Earlier read 2026-09-30 (87 postings): US roles staff/senior/principal, no entry SWE. Careers page mentions Emerging Talent program. Not re-verified.",
-  "confidence": "low",
-  "checked": "2026-10-01",
+  "evidence": "Enphase jobs API /api/v2/jobs read via browser 2026-10-02 (86 postings, 13 pages): US roles are staff/senior/principal engineering, field service, sales; software and firmware entry roles absent (India/NZ non-entry). One NZ summer internship. No US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-02",
   "excluded_reason": null,
   "no_sponsorship": false
 }

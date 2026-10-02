@@ -1,15 +1,15 @@
 {
   "company": "Iridium Communications",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-07-01",
   "last_cycle_basis": "jobs.py history: Engineer I - Software Developer, Reston VA;Chandler AZ, first tracked 2025-07-01 (careers-iridium.icims.com/jobs/4605/job)",
-  "excluded_reason": null,
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers-iridium.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS board (in_iframe=1) 2026-10-01: only Summer 2027 interns, Senior SWE, Director and non-SWE reqs; no Software Engineer I live. Prior SWE I reqs 4843 and 5047 return 410 Gone, so closed. No first-party citizenship quote; search snippets say citizen required.",
+  "evidence": "iCIMS list (3 pages, all read) 2026-10-02: only Summer 2027 interns plus senior/III roles; no Software Engineer I live. Prior SWE I reqs 4843, 5047 return 410 Gone. Postings quote \"applicants for this position must be U.S. citizens\".",
   "confidence": "medium"
 }

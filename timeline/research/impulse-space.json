@@ -1,15 +1,15 @@
 {
   "company": "Impulse Space",
   "tier": 8,
-  "checked": "2026-10-01",
-  "status": "no_program_found",
+  "checked": "2026-10-02",
+  "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No new-grad SWE tracker history found.",
-  "excluded_reason": null,
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://impulsespace.pinpointhq.com",
-  "jobs_spec": null,
-  "evidence": "Pinpoint board (203 postings, read via jobs.py --all): software roles are Flight/Embedded/RF/Test Automation, Senior/Staff/Lead or all-levels; none entry-titled. No eligibility sentence found on the one posting fetched.",
+  "jobs_spec": "pinpoint:impulsespace",
+  "evidence": "Pinpoint board (203 postings) read: software roles are Flight/Embedded/Test Automation with 1-4+ yrs, no new-grad SWE; interns only. Postings quote \"This position requires applicants to be either U.S. Persons\" (ITAR).",
   "confidence": "medium"
 }

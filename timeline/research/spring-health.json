@@ -1,15 +1,15 @@
 {
   "company": "Spring Health",
+  "status": "no_program_found",
+  "last_cycle_basis": "none found",
+  "jobs_page": "https://www.springhealth.com/open-roles",
+  "jobs_spec": null,
+  "evidence": "Greenhouse board springhealth66 now 404. Read company open-roles page in browser: Technology team lists only Staff/Senior engineers, CX Tooling Engineer, Data Analyst II; no entry-level SWE or new-grad program.",
+  "confidence": "medium",
   "tier": 3,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no dated prior new-grad source found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/springhealth66",
-  "jobs_spec": "gh:springhealth66",
-  "evidence": "Greenhouse API for springhealth66 and board page now return 404 (earlier pass read it: no entry-level SWE); board may have moved; no browser in cloud run. WebSearch only gave stale postings.",
-  "confidence": "low"
+  "last_cycle_opened": null
 }

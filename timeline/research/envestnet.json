@@ -1,8 +1,8 @@
 {
   "company": "Envestnet",
   "tier": 5,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-03",
   "last_cycle_basis": "Tracker first seen 2025-09-03, Software Engineer I, Raleigh/Berwyn",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.envestnet.com/search/technology/jobs",
   "jobs_spec": null,
-  "evidence": "Board blocked (HTTP 403 Cloudflare challenge) to curl and WebFetch; no browser in cloud run. Prior 2026-09-30 browser read found all 27 Technology jobs Senior+ and no entry-level SWE (not_yet); not re-verified.",
-  "confidence": "low"
+  "evidence": "Browser read of technology board 2026-10-02: 26 postings, all Senior/Lead/Principal/Director. No entry-level SWE now; historically hired Associate Software Engineers from campus.",
+  "confidence": "medium"
 }

@@ -1,10 +1,19 @@
 {
   "company": "Sherwin-Williams",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [
-    {"title": "Associate Full Stack Application Developer - Industrial Automation", "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642", "location": "Cleveland, OH", "opened": "2026-09-03", "date_source": "tracker first seen", "deadline": null, "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Associate Full Stack Application Developer - Industrial Automation (now gone)",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642",
+      "location": "Cleveland, OH",
+      "opened": "2026-09-03",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker SWE posting between 2025-07 and 2026-01; only Data Management Analyst 2026-03-10 and R&D programs",
@@ -12,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
   "jobs_spec": "oracle:ejhp.fa.us6.oraclecloud.com/CX_2",
-  "evidence": "Oracle board (222 postings) 2026-10-01: Full Stack Developer posting (Cleveland, first seen 2026-09-03; Simplify marked closed) is absent and detail says not on board; page not openable (no browser in cloud run). Live: 2027 co-ops, sales training only.",
-  "confidence": "medium"
+  "evidence": "Oracle REST 2026-10-02: req 2622642 (Associate Full Stack Developer, first seen 2026-09-03) returns no result, so closed. Remaining software roles are Sr/Lead or 2+ yrs SCADA Full Stack (no sponsorship). Live: 2027 co-ops, sales training only.",
+  "confidence": "high"
 }

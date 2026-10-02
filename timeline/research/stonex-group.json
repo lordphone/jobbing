@@ -1,7 +1,7 @@
 {
   "company": "StoneX Group",
   "tier": 4,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-stonex.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS listing (first ~50 postings, read via in_iframe fetch) shows only Software Engineer (C# .Net), Senior QA Engineer, Principal Engineer, Technical Business Analyst, interns in non-SWE areas. No entry-level SWE role seen; board may have more pages; no browser in cloud run.",
-  "confidence": "low"
+  "evidence": "iCIMS listing (WebFetch in_iframe) shows 9 roles: Software Engineer (C# .Net, 3+ yrs, Experienced Professional), Senior QA, Principal Engineer; no entry-level SWE. Listing may be partial.",
+  "confidence": "medium"
 }

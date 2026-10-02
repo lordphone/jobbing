@@ -1,15 +1,15 @@
 {
   "company": "Airbyte",
-  "status": "no_program_found",
-  "last_cycle_basis": "No tracker history of new-grad SWE.",
-  "jobs_page": "https://jobs.ashbyhq.com/airbyte",
-  "jobs_spec": "ashby:airbyte",
-  "evidence": "Ashby API (12 postings, --all) 2026-10-01: engineering roles are Senior/Manager; only non-senior is Customer Support Developer (not SWE). No entry-level SWE.",
-  "confidence": "high",
   "tier": 3,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history of a US new-grad SWE cycle.",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.ashbyhq.com/airbyte",
+  "jobs_spec": "ashby:airbyte",
+  "evidence": "Ashby API 2026-10-02 (12 postings): engineering roles Senior/Manager; Customer Support Developer is not SWE. No entry-level SWE.",
+  "confidence": "high"
 }

@@ -1,7 +1,5 @@
 {
   "company": "The Voleon Group",
-  "tier": 4,
-  "checked": "2026-10-01",
   "status": "open",
   "postings": [
     {
@@ -12,15 +10,17 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Graduating class of 2027",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-30",
   "last_cycle_basis": "tracker first seen: Software Engineer - University Hire 2026 (Berkeley) 2025-10-30",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/voleon",
   "jobs_spec": "ashby:voleon",
-  "evidence": "Ashby board lists Software Engineer - University Hire 2027 (Berkeley; NYC), published 2026-08-25, live via API; requires US work authorization only; no deadline stated.",
-  "confidence": "high"
+  "evidence": "Ashby API and posting page opened 2026-10-02: Software Engineer - University Hire 2027 (Berkeley; NYC), published 2026-08-25, class of 2027, hybrid, $175-210K; no citizenship line (US work authorization only); no deadline stated.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-02",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

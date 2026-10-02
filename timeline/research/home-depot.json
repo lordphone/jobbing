@@ -1,15 +1,15 @@
 {
   "company": "Home Depot",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (Remote)",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624",
-      "location": "Remote, US (Atlanta-based)",
+      "location": "Remote (US); Georgia-virtual (Atlanta-based)",
       "opened": "on or before 2026-09-29",
-      "date_source": "workday startDate",
+      "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -17,9 +17,9 @@
     {
       "title": "Software Engineer, Continuous Deployment (Remote)",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Continuous-Deployment--Remote-_Req192339",
-      "location": "Remote, US (Atlanta-based)",
+      "location": "Remote (US); Georgia-virtual (Atlanta-based)",
       "opened": "on or before 2026-09-25",
-      "date_source": "workday startDate",
+      "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://homedepot.wd5.myworkdayjobs.com/careerdepot",
   "jobs_spec": "wd:homedepot/wd5/careerdepot",
-  "evidence": "Workday API re-read 2026-10-01: base-level 'Software Engineer' postings (2026-09-25, 09-29), min 1 year, bachelor's-level, US remote. No class year or new-grad label; rolling entry-level. 2027 SWE internship also live. Medium: title not explicitly new-grad.",
+  "evidence": "Workday read 2026-10-02: base-level 'Software Engineer' postings (09-25, 09-29), min 1 yr, no deadline or sponsorship/citizenship line, no class year. 2027 SWE internship also live. Medium: title not explicitly new-grad.",
   "confidence": "medium"
 }

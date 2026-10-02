@@ -1,15 +1,15 @@
 {
   "company": "Northwell Health",
   "tier": 11,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-11-17",
-  "last_cycle_basis": "tracker first-seen date: Associate Software Engineer, Manhasset NY",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Manhasset NY",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
   "jobs_spec": "oracle:eppr.fa.us2.oraclecloud.com/CX_2",
-  "evidence": "Oracle API 2026-10-01 (174): Associate Software Engineer (job 192698, 2026-07-23) NOT ON THE BOARD; WebFetch of posting page shows no content, no browser in cloud run, so closure unconfirmed. Only live tech role is Senior Manager. Prior run said closed.",
-  "confidence": "low"
+  "evidence": "Oracle API (177) 2026-10-02: Associate Software Engineer (job 192698, posted 2026-07-23, Manhasset NY) returns empty from requisition-details API (no longer public); only live tech role is Senior Manager. Not labeled new grad. Prior run unknown.",
+  "confidence": "medium"
 }

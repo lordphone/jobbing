@@ -1,15 +1,15 @@
 {
   "company": "Best Buy",
   "tier": 9,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker shows only Canada postings",
+  "last_cycle_basis": "unknown; tracker history is Canada board only",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bestbuy.com/bby",
   "jobs_spec": null,
-  "evidence": "No browser in cloud run. jobs.bestbuy.com API needs auth, WebFetch shows no listings; web search only found SWE II / Associate SWE II roles in Richfield MN. US board unread; retry.",
+  "evidence": "Could not read the US board: jobs.bestbuy.com renders no listings via WebFetch, shared browser pane was unusable, API needs auth. Web search only finds undated Software Engineer II / Associate Software Engineer II mirrors (Richfield MN). Retry in browser.",
   "confidence": "low"
 }

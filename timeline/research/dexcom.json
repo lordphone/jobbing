@@ -1,15 +1,15 @@
 {
   "company": "Dexcom",
   "tier": 11,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-01-21",
-  "last_cycle_basis": "tracker first-seen: 'SW Systems Engineer 2', San Diego, CA",
+  "last_cycle_basis": "tracker first-seen: 'SW Systems Engineer 2', San Diego, CA (no entry-level SWE in 2025-07 to 2026-01 window found)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://dexcom.wd1.myworkdayjobs.com/Dexcom",
   "jobs_spec": "wd:dexcom/wd1/Dexcom",
-  "evidence": "Workday (87 postings, --all) rechecked: only Software QA Engineer 2 and senior roles; SDE 1 postings (2026-08, per tracker) not on board. Posting pages not openable (no browser in cloud run); closed carried from 2026-09-30.",
+  "evidence": "Workday (89, --all) 2026-10-02: only Software QA Engineer 2 and senior roles. Tracker SDE 1 (San Diego, 2026-08-03) cxs posting URL returns 403 permission denied (live postings 200, nonexistent 404): exists but no longer public. Closed.",
   "confidence": "medium"
 }

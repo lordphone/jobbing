@@ -1,15 +1,15 @@
 {
   "company": "Deel",
   "tier": 3,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.deel.com/careers/open-roles/",
+  "jobs_page": "https://www.deel.com/careers/",
   "jobs_spec": null,
-  "evidence": "no browser in cloud run: deel.com/careers/open-roles and jobs.deel.com returned no job list via WebFetch; no Ashby/GH/Lever API found. 2026-09-30 browser pass saw 19 non-US/experienced roles, no new-grad track; not re-verified.",
-  "confidence": "low"
+  "evidence": "Browser pane 2026-10-02: Ashby board shows 0 positions; deel.com/careers lists 15 engineering roles, all Senior/Staff/Lead or LATAM/timezone-limited. No new-grad track found.",
+  "confidence": "medium"
 }

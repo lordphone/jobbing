@@ -1,15 +1,56 @@
 {
   "company": "Honda",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software & System Dev. Engineer (102178)",
+      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12764EXTERNALENUS/Software-System-Dev-Engineer-102178",
+      "location": "Raymond, OH",
+      "opened": "2026-10-02",
+      "date_source": "phenom postedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Electrical Powertrain Software Engineer",
+      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12837EXTERNALENUS/Electrical-Powertrain-Software-Engineer",
+      "location": "Raymond, OH",
+      "opened": "2026-10-02",
+      "date_source": "phenom postedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software & System Dev. Engineer (infotainment, CS/EE/CE)",
+      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12379EXTERNALENUS/Software-System-Dev-Engineer",
+      "location": "Raymond, OH",
+      "opened": "2026-09-22",
+      "date_source": "phenom postedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software & System Dev. Engineer (infotainment)",
+      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12510EXTERNALENUS/Software-System-Dev-Engineer",
+      "location": "Raymond, OH",
+      "opened": "2026-09-03",
+      "date_source": "phenom postedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-01-06",
-  "last_cycle_basis": "Tracker history: New Grad 2025: Engineering Development Program, Marysville OH, first seen 2025-01-06 (careers.honda.com); different title, similar entry-level track. Closed postings opened 2026-09-03 and 2026-09-22 per Phenom listing.",
+  "last_cycle_basis": "Tracker first seen: New Grad 2025: Engineering Development Program, Marysville OH, 2025-01-06 (ME-oriented, not software); no 2025-07..2026-01 SWE posting found",
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Honda Phenom widgets API (70+ jobs, all pages) lists no entry-level SWE; both Raymond OH 'Software & System Dev. Engineer' postings (12379, 12510; posted 2026-09) now say 'no longer accepting applications', so closed. Remaining software roles are Senior/Principal/Manager.",
+  "evidence": "Phenom widgets API + browser: 4 Raymond OH SWE postings show Apply Now (the 'no longer accepting' text is a hidden template). Requirements 0-2 yrs (0-3 for 12379), BS CS/EE. No sponsorship line in postings; tracker says Does Not Offer. No deadline.",
   "confidence": "medium",
   "tier": 8,
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "no_sponsorship": false,
   "excluded_reason": null
 }

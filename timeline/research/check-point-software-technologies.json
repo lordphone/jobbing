@@ -1,8 +1,8 @@
 {
   "company": "Check Point Software Technologies",
   "tier": 6,
-  "checked": "2026-10-01",
-  "status": "unknown",
+  "checked": "2026-10-02",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found for Check Point new-grad SWE.",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.checkpoint.com/index.php?m=cpcareers&a=search",
   "jobs_spec": null,
-  "evidence": "Board returns 403 to WebFetch/curl; no browser in cloud run. Prior 2026-09-30 browser read of all 398 jobs: US roles sales/SE/legal, R&D in Israel, no US entry SWE (would be no_program_found). Not re-verified.",
-  "confidence": "low"
+  "evidence": "2026-10-02 read all 397 jobs via careers.checkpoint.com search pages: US/Canada roles are sales, SE, support, legal, IR; R&D in Israel. No US entry SWE. Prior unknown resolved.",
+  "confidence": "high"
 }

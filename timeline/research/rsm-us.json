@@ -1,15 +1,15 @@
 {
   "company": "RSM US",
-  "tier": 10,
-  "checked": "2026-10-01",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no RSM entries in tracker history",
+  "last_cycle_basis": "no RSM entries in tracker history; none found",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://rsm.wd1.myworkdayjobs.com/RSMCareers",
   "jobs_spec": "wd:rsm/wd1/RSMCareers",
-  "evidence": "Workday API 2026-10-01, --all: many 2027 tax/assurance/technology-risk associates and interns; no US entry SWE (Application Development Intern is an intern; Dynamics consultant is consulting; Junior SWE is San Salvador). Entry postings say no sponsorship.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-02, --all (113): many 2027 tax/assurance/technology-risk associates and interns; Microsoft Customer Engagement Consultant Fall 2027 is consulting; no US entry SWE (Junior SWE is San Salvador; Lead SWE is senior). Entry postings say no sponsorship.",
+  "confidence": "medium",
+  "checked": "2026-10-02",
+  "tier": 10,
+  "no_sponsorship": false
 }
