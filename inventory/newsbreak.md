@@ -3,16 +3,15 @@
 - official title: Engineering Intern
 - printed title: pick one from the list below to match the JD; do not invent another
   - Software Engineering Intern — default; general SWE / "software engineer" JDs. Print "SWE Intern" only if the JD itself says SWE.
-  - Engineering Intern — official title; use when the JD says intern / engineering intern and is not more specific
+  - Engineering Intern — official title; use when no other title fits (for example infra or mobile)
   - Backend Engineer Intern — JD is backend, APIs, or services; he was the sole backend owner and most of the work was backend
   - Full-Stack Engineer Intern — JD is full-stack / fullstack; iOS + FastAPI from the first commit, primary on both
   - iOS Engineer Intern — JD is iOS / Swift / SwiftUI; sole SwiftUI engineer, ~69% of iOS commits, App Store, Live Activities
-  - Mobile Engineer Intern — JD is mobile and not iOS-specific; same grounding as iOS
-  - Infrastructure Engineer Intern — JD is general infra / cloud / Kubernetes and is not AI infra; EKS, Helm, Jenkins, CronJobs
   - AI Engineer Intern — JD is AI / ML / LLM / agents as product work; the intern work was written with AI
-  - AI Infrastructure Intern — JD is AI infra / ML infra / LLM platform / serving. Grounded in EKS+Helm LLM CronJobs, DeepInfra embed+LLM, Langfuse, RAG retrieval. Print "AI Infra Intern" only if the JD itself says AI Infra.
 - default printed title: Software Engineering Intern
 - team: Venture / NexBreak
+- venture team: builds NewsBreak's new products (new ventures); he was a generalist software engineer placed on whichever venture the team needed, not tied to one product — SportsBreak (primary), DramaBreak, `nbot-curator-server`, newsletter tool
+- heading: print plain "NewsBreak" by default. Append " (Venture Team)" only when the JD is about new products, new ventures, 0→1 work, or founder / incubation-style teams (for example Retell AI's Founders Initiatives). Do not carry it over from a template.
 - dates: May 11, 2026 -- August 14, 2026
 - location: Mountain View, CA (in-office)
 - primary: SportsBreak iOS + `sportsbreak-service`

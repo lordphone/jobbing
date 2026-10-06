@@ -1,0 +1,56 @@
+% Superhuman — Software Engineer, Early Career
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Distributed Systems, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the FastAPI / MongoDB backend with AI coding tools from its first commit to 89 endpoints across 27 routers, 26 collections ($\sim$48 indexes), and $\sim$1{,}450 fully-offline tests (0.17\,s; 1:1 with production lines) behind a ruff / pyright / pytest CI gate.
+  \item Shipped agentic LLM search: deterministic RAG over hybrid retrieval (keyword, full-text, bge embeddings, RRF), a bounded tool-use agent, SSE streaming, and server-resolved citations; entity resolution hit 100\% P@1.
+  \item Designed and shipped a personalized LLM alert pipeline (embed $\to$ LLM-score $\to$ LLM same-story judge $\to$ push); calibrated it in production shadow on 4{,}100+ decisions, cutting filler 34\% $\to$ 4\%.
+  \item Replaced a 25--30 request client fan-out with one backend call and a shared 10.9\,MB catalog cache, 78$\times$ smaller than a per-user key; stood up production AWS EKS (Helm, Jenkins) on day 3.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline, via Langfuse traces, as an unbounded reasoning loop, and a 5-day silent CronJob outage fixed with paired job and scheduler deadlines.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and primary backend author; 344 PRs (340 merged); wrote 34 contract-first API specs and $\sim$10{,}000 lines of docs, and onboarded the next engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed the schemas and REST APIs for its LangChain LLM features.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked with recruiters so AI scoring matched real hiring; demoed the product, iterated fast on client feedback, and won contracts with three 200--500-person companies.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, Java, Go, SQL, Swift, C, HTML, CSS \\[1pt]
+  \textbf{AI \& LLMs} & Claude Code / AI coding tools, LLM tool calling / agents, RAG, LangChain, PyTorch, Langfuse, MCP \\[1pt]
+  \textbf{Frameworks \& Data} & React, Next.js, Express, FastAPI, Tailwind CSS, PostgreSQL, MongoDB, Supabase \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Docker, Kubernetes (EKS), Helm, Jenkins, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Practices} & Git, pytest, Unit Testing, REST APIs, Server-Sent Events (SSE), Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Rating LLM coding plans bought from Z.AI, MiniMax, and Kimi; tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized models.
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 1\,s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI, with streaming inference.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

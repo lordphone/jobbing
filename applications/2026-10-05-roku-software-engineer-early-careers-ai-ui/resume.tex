@@ -1,0 +1,56 @@
+% Roku — Software Engineer, Early Careers focused on AI and UI (ID 11490)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Large Language Model Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Computer Architecture, Mobile Computing Laboratory
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped a multi-step LLM alert pipeline as a Kubernetes CronJob (embed $\to$ LLM-score $\to$ select $\to$ LLM dedupe $\to$ push; $\sim$1{,}200 calls/day); shadowed 4{,}100+ decisions in production before going live; filler 34\% $\to$ 4\%.
+  \item Shipped agentic search on one SSE endpoint: turn 1 is deterministic RAG over hybrid retrieval (RRF); follow-ups run a bounded tool-use agent ($\le$3 hops, 5 tools, 45\,s); a failed retrieval leg degrades to the survivors, and server-resolved citations mean the model cannot author a URL.
+  \item Gated AI-written code with $\sim$1{,}450 offline tests (0.17\,s) behind a ruff / pyright / pytest CI gate, using a Motor fake that reproduces a prod failure that silently killed a search leg behind HTTP 200.
+  \item Redesigned a cache that could not hit after pod memory neared its 512\,MiB limit: 13.2\,MB per user $\to$ 10.9\,MB shared (78$\times$), serving one backend call in place of a 25--30 request client fan-out.
+  \item Built server-driven UI over 27 widget types so a new catalog surface ships without an App Store release and unknown widget kinds drop instead of failing a page; shipped a 72-event typed analytics catalog with a server-side allowlist.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline via Langfuse traces as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways); found iOS silently drops a Live Activity start push while APNs returns 200.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs) and primary backend author; stood up production AWS EKS on day 3 and fixed a 5-day silent CronJob outage.
+\end{itemize}
+
+\vspace{0.5pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{0.5pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app (React, Next.js, Supabase), built from 0$\to$1; iterated AI scoring and UI with clients until three 200--500-person companies signed.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Systems \& Infra} & Kubernetes (EKS), CronJobs, Docker, Helm, Redis Streams, AWS, NVIDIA Jetson \\[1pt]
+  \textbf{AI \& Agents} & LLM tool calling / agents, Claude Code / AI coding tools, MCP, RAG, Langfuse \\[1pt]
+  \textbf{Languages} & Python, C, Go, Swift, TypeScript, JavaScript, Java, SQL \\[1pt]
+  \textbf{Frameworks \& Data} & FastAPI, asyncio, Server-Sent Events (SSE), SwiftUI, React, Next.js, MongoDB \\[1pt]
+  \textbf{Testing \& CI} & pytest, ruff, pyright, GitHub~Actions, Jenkins, CI/CD, Git \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders with voltage-to-frequency converters on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 1\,s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI, with streaming inference.
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and tested KV caching, long context, and needle-in-a-haystack to expose nerfed caching and heavy quantization.
+\end{itemize}
+
+\end{document}

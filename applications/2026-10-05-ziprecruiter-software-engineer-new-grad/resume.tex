@@ -1,0 +1,56 @@
+% ZipRecruiter — Software Engineer - New Grad
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Machine Learning, Data Science for Software Engineering, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Algorithms, Operating Systems, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints across 27 routers and 26 collections, with $\sim$1{,}450 fully-offline tests (1:1 with production lines) behind a ruff / pyright / pytest CI gate.
+  \item Stood up production AWS EKS (Helm, Jenkins) on day 3 with 7 Kubernetes CronJobs and a two-stage amd64 image; later diagnosed a 5-day silent CronJob outage and fixed it with paired job and scheduler deadlines.
+  \item Built server-driven UI over 27 widget types so a new catalog surface ships without an App Store release; replaced a 25--30 request client fan-out with one backend call and a shared 10.9\,MB cache, 78$\times$ smaller than a per-user key.
+  \item Shipped agentic LLM search: hybrid retrieval (keyword, full-text, bge embeddings, RRF), a bounded tool loop, SSE streaming, and server-resolved citations; entity resolution hit 100\% P@1 on real logged queries.
+  \item Designed and shipped a personalized LLM alert pipeline (embed $\to$ LLM-score $\to$ LLM same-story judge $\to$ push); calibrated it in production shadow on 4{,}100+ decisions, cutting filler 34\% $\to$ 4\%.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and primary backend author; 344 PRs (340 merged); wrote 34 contract-first API specs and $\sim$10{,}000 lines of docs, and onboarded the next engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Worked with recruiters so AI scoring matched real hiring; demoed the product, iterated fast on client feedback, and won contracts with three 200--500-person companies.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, Go, JavaScript, TypeScript, SQL, HTML, CSS, Swift, C \\[1pt]
+  \textbf{Full Stack \& Data} & React, Next.js, FastAPI, Express, Tailwind CSS, PostgreSQL, MySQL, MongoDB, Supabase \\[1pt]
+  \textbf{Cloud \& DevOps} & Kubernetes (EKS), Docker, Helm, AWS, GCP, Jenkins, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{ML \& AI} & PyTorch, CUDA, RAG, hybrid retrieval, LLM tool calling / agents, LangChain, Langfuse \\[1pt]
+  \textbf{Practices} & Git, pytest, Unit Testing, REST APIs, Server-Sent Events (SSE), Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 1\,s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI, with streaming inference.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

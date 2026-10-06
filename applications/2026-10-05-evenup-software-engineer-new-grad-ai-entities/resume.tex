@@ -1,0 +1,59 @@
+% EvenUp — Software Engineer (New Grad), AI Entities
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Distributed Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{Backend Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built deterministic span-based entity resolution over a 206-entity catalog as the search query rewriter, taking real logged queries that previously returned nothing from 0\% to 100\% P@1 at 0.4\,ms; an eval harness on the real catalog scored 28/28 recall after measurements ruled out embeddings.
+  \item Shipped agentic LLM search on one SSE endpoint: deterministic RAG over hybrid retrieval (keyword, full-text, and bge vectors fused with RRF) that degrades to surviving legs, a bounded tool-use agent for follow-ups, and server-resolved citations so the model cannot author a URL.
+  \item Built an LLM pipeline that labels every incoming article (happened / speculative / no\_event plus 0--100 importance; $\sim$1{,}200 LLM calls/day) and logs why each item fired or not; calibrated it on 4{,}100+ decision rows in production shadow and shipped it live, cutting filler 34\% $\to$ 4\%.
+  \item Built the FastAPI / MongoDB backend from its first commit to 89 endpoints on AWS EKS with $\sim$1{,}450 offline tests; re-keyed a per-user cache to a shared one, 78$\times$ smaller, as pod memory neared 512\,MiB.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline, via Langfuse traces, as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ runaways at 16{,}384); fixed a 5-day silent CronJob outage with paired job and scheduler deadlines.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and primary backend author; 344 PRs (340 merged) across five repos; its LLM morning digest reached 5{,}026 users.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed the schemas and REST APIs for its LangChain resume parsing and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer (React, Next.js, Supabase); iterated AI scoring with recruiters until three 200--500-person companies signed.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, TypeScript, JavaScript, Go, SQL, Swift, C \\[1pt]
+  \textbf{AI \& LLMs} & RAG, hybrid retrieval, LLM tool calling / agents, bge embeddings, Langfuse, LangChain \\[1pt]
+  \textbf{Backend \& Data} & FastAPI, Pydantic, asyncio, MongoDB, PostgreSQL, Redis Streams, REST APIs \\[1pt]
+  \textbf{Cloud \& DevOps} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD \\[1pt]
+  \textbf{Web \& Practices} & pytest, Unit Testing, React, Next.js, Supabase, Git, Agile/Scrum \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Rating LLM coding plans bought from Z.AI, MiniMax, and Kimi; tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

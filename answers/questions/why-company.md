@@ -53,5 +53,31 @@ Perplexity changed a habit that is very hard to break for me: Googling. I think 
 - story: `nb-llm-pipeline`, `nb-agentic-search`, `nb-llm-failure`, `nb-dramabreak-ads` (A/B test) (inventory/newsbreak.md)
 
 ```text
-This role is my top choice because it's the work I liked most this summer, at a much bigger scale: owning a production ML system end to end and proving it with data. At NewsBreak I designed and shipped a personalized news-alert pipeline that classifies and scores articles with LLMs. I calibrated it in production shadow on 4,100+ decisions before it sent a single push, and it cut filler alerts from 34% to 4%. I also built hybrid-retrieval search that took real logged queries from 0% to 100% precision@1, ran an A/B test on DramaBreak, and traced another team's 65% LLM failure rate to its root cause through Langfuse traces. I'd love to bring that loop of building, measuring, and fixing in production to recommender and classification systems that reach a billion members.
+This summer I built a couple of LLM-backed systems that I'm really proud of, from the first design and hand-grading outputs to putting them in production. That's the part of the job I enjoyed the most, and I'd love to do it at LinkedIn's scale.
+```
+
+---
+
+## Harvey
+
+- question: Why are you interested in working at Harvey?
+- company: Harvey (Software Engineer, New Grad (2027))
+- date: 2026-10-05
+- story: `nb-agentic-search` (server-resolved citations) (inventory/newsbreak.md)
+
+```text
+This summer I built an LLM search feature, and the part I cared about most was making sure every answer pointed to a real source. I think that matters even more in legal work, where a wrong citation can actually hurt someone. That's the kind of problem I'd love to work on, and Harvey is working on it every day.
+```
+
+---
+
+## Fireworks AI
+
+- question: Why are you interested in Fireworks AI?
+- company: Fireworks AI (Member of Technical Staff, New Grad (BS/MS))
+- date: 2026-10-05
+- story: `pj-codingplans` (inventory/projects.md); `nb-llm-pipeline`, `nb-agentic-search` (DeepSeek over DeepInfra) (inventory/newsbreak.md)
+
+```text
+On the side, I've been buying LLM coding plans out of pocket from Z.AI, MiniMax, and Kimi and testing them on KV caching, long context, and needle-in-a-haystack to see which providers quietly nerfed caching or heavily quantized their models to save money. That taught me how much of a model's real quality comes down to how it's served, not just the weights. Fireworks' whole job is serving open models fast and well at scale, and that's the problem I want to work on. This summer I also shipped production LLM features on DeepSeek through an inference API, so I've felt the latency and reliability side as a customer too.
 ```
