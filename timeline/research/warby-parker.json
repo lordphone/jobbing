@@ -1,15 +1,15 @@
 {
   "company": "Warby Parker",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
+  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.warbyparker.com/en/sites/WarbyParkerCareers",
-  "jobs_spec": null,
-  "evidence": "Browser, Oracle HCM site (909 jobs): keyword engineer/software gave Staff SWE, Senior SWE Android, Process Engineer, Product Manager; no entry SWE. Was unknown on 2026-10-01.",
-  "confidence": "medium"
+  "jobs_spec": "oracle:fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
+  "evidence": "Oracle API 2026-10-05, 73 postings: only Staff SWE, Senior SWE Android, Process Engineer; no entry SWE.",
+  "confidence": "high"
 }

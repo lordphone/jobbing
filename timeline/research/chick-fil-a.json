@@ -1,15 +1,15 @@
 {
   "company": "Chick-fil-A",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": "2026-08-17",
-  "last_cycle_basis": "Tracker first seen 2026-08-17: Digital Fellow req 20298 (2-yr rotational, software engineering or analyst tracks); now 404.",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker first seen 2026-08-17: Digital Fellow req 20298 (2-yr rotational, SWE or analyst tracks), now 404; class year unconfirmed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.chick-fil-a.com/corporate/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API (all 92 jobs) 2026-10-02: Digital Fellow req 20298 not listed; /corporate/jobs/20298 returns 404 (no longer). Live tech: Sr Lead SWE, Summer 2027 SWE intern (not counted). Class year unconfirmed.",
+  "evidence": "Jibe API 2026-10-05 (keyword searches): Digital Fellow req 20298 (tracker first seen 2026-08-17) not listed and page returns 404, so closed. Live tech roles are Sr Lead engineers and Summer 2027 SWE intern (not counted).",
   "confidence": "medium"
 }

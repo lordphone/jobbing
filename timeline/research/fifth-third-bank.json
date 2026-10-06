@@ -1,26 +1,15 @@
 {
   "company": "Fifth Third Bank",
   "tier": 5,
-  "checked": "2026-10-02",
-  "status": "open",
-  "postings": [
-    {
-      "title": "IT Leadership Program - 2027",
-      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/IT-Leadership-Program---2027_R67329",
-      "location": "Cincinnati, OH",
-      "opened": "2026-07-30",
-      "date_source": "workday postedOn (30+ days; startDate 2026-08-19); earlier file date kept",
-      "deadline": "2026-10-03",
-      "grad_window": "2027 program",
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-07-07",
   "last_cycle_basis": "tracker first seen: 'Consumer IT - Data Engineer I' 2025-07-07 (Fifth Third Workday); no earlier-cycle IT Leadership Program date found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fifththird.wd5.myworkdayjobs.com/53careers",
   "jobs_spec": "wd:fifththird/wd5/53careers",
-  "evidence": "Workday board 2026-10-02 (101 --all) still lists IT Leadership Program - 2027 (Cincinnati), endDate 2026-10-03; earlier file: 2 of 4 rotations are software engineer. No citizenship or sponsorship restriction in posting. Matches prior file.",
+  "evidence": "IT Leadership Program - 2027 (Cincinnati; opened 2026-07-30, deadline 2026-10-03) absent from Workday board 2026-10-05 and its page shows 'The page you are looking for doesn't exist' in browser. Other SWE roles Lead/Principal/Senior; only co-ops and interns otherwise.",
   "confidence": "medium"
 }

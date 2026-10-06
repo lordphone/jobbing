@@ -1,15 +1,15 @@
 {
   "company": "Epicor",
-  "tier": 6,
-  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only a Canada entry-level role (Associate Product Developer - Bistrack, Kelowna BC, first seen 2025-11-05); no US entry-level SWE posting in history.",
+  "last_cycle_basis": "Tracker history shows only Associate Product Developer, Kelowna BC (not Toronto/Vancouver), first seen 2025-11-05; no US entry SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs",
   "jobs_spec": "wd:epicorsoftware/wd5/epicorjobs",
-  "evidence": "Workday API 2026-10-01 (--all): US roles are senior; junior roles Mexico/India/UK. No US entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-05 (--all, 32 postings): US dev roles are Senior; entry dev roles only India and Mexico. No US/Toronto/Vancouver entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 6
 }

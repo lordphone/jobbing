@@ -1,15 +1,15 @@
 {
   "company": "Boomi",
-  "status": "no_program_found",
-  "jobs_page": "https://boomi.com/company/careers",
-  "jobs_spec": "gh:boomilp",
-  "evidence": "Greenhouse gh:boomilp, all 26 postings read: sales, presales and solutions roles; no entry-level SWE or new-grad track in US, Toronto or Vancouver.",
-  "confidence": "medium",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no company early-careers date found.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://boomi.com/company/careers",
+  "jobs_spec": "gh:boomilp",
+  "evidence": "Greenhouse gh:boomilp 2026-10-05, 26 postings: sales, presales and solutions roles only. No SWE or new-grad track.",
+  "confidence": "high"
 }

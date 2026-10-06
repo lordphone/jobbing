@@ -1,26 +1,26 @@
 {
   "company": "Kearney",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
       "title": "Kearney Activate - Full Stack Developer",
       "url": "https://kearney.recsolu.com/jobs/pFWlCf7NgPtjotUYjjuWHQ?job_board_id=EPd41qlA4_03IncZMnWyRQ",
       "location": "Washington, DC",
-      "opened": "on or before 2026-10-02",
-      "date_source": "page text (undated)",
+      "opened": "2026-07-28",
+      "date_source": "recsolu board listing date (Jul 28)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker saw Full Stack Developer (Boston/DC/Arlington) first seen 2026-07-28, now gone; nothing in Jul 2025-Jan 2026",
+  "last_cycle_basis": "tracker saw Full Stack Developer (Boston/DC/Arlington) first seen 2026-07-28; nothing in Jul 2025-Jan 2026",
   "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://kearney.recsolu.com/job_boards/1",
   "jobs_spec": null,
-  "evidence": "Recsolu search endpoint, 2026-10-02: early-career Full Stack Developer (DC) is live with apply link, but 'Ability to obtain, or current possession of, a U.S. Secret security clearance is required'. PERL COE Junior Engineer (Chicago) is manufacturing, not SWE. Read via search queries, not full list.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-05: early-career Kearney Activate Full Stack Developer (DC) has APPLY; page says 'Ability to obtain, or current possession of, a U.S. Secret security clearance is required'. Rest of 187-job board is consulting/non-US.",
+  "confidence": "high"
 }

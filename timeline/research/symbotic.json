@@ -1,8 +1,8 @@
 {
   "company": "Symbotic",
   "tier": 7,
-  "checked": "2026-10-02",
-  "status": "closed",
+  "checked": "2026-10-05",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-30",
   "last_cycle_basis": "jobs.py history: 'New Grad-Software Engineer' (Burlington, MA) first seen 2026-01-30; earlier New Grad SWE 2024-11-11; New Grad SWE/ML Ops/3D Graphics postings 2026-05-18/19",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://symbotic.wd504.myworkdayjobs.com/Symbotic",
   "jobs_spec": "wd:symbotic/wd504/Symbotic",
-  "evidence": "Workday (60, --all) re-read 2026-10-02: only Co-op/Intern SWE, Staff/Senior SWE/ML and New Grad Onsite Project Manager live. Tracker New Grad SWE postings (2026-05) are gone from the board.",
-  "confidence": "medium"
+  "evidence": "Workday API (135 unique) 2026-10-05: only Co-op/Intern SWE, Staff/Senior SWE/ML and a New Grad Onsite Project Manager live. New Grad SWE postings from 2026-01 and 2026-05 are gone; no 2027-cycle SWE posting yet.",
+  "confidence": "high"
 }

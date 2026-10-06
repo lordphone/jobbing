@@ -1,16 +1,8 @@
 {
   "company": "SMX",
-  "status": "excluded",
-  "excluded_reason": "clearance",
-  "no_sponsorship": true,
-  "last_cycle_opened": "2025-11-21",
-  "last_cycle_basis": "Tracker first seen 2025-11-21 (Junior Cloud Engineer, Huntsville, Secret); tracker history also shows Junior Software Engineer 2024-10",
-  "jobs_page": "https://www.smxtech.com/careers/",
-  "jobs_spec": "gh:smxtech",
-  "evidence": "Greenhouse (109 postings): 5 junior roles, texts read via API. Junior Software Engineer (Huntsville, 2026-08-06): \"Clearance Required: Secret\"; Front End Developer (Junior) x2 (US-remote): \"U.S. citizenship required to maintain a federal clearance\"; Junior Data Engineer: \"Active Secret Clearance\". No sponsorship.",
-  "confidence": "high",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "excluded",
   "postings": [
     {
       "title": "Junior Software Engineer (5510)",
@@ -21,16 +13,14 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
-    },
-    {
-      "title": "Front End Web Applications Developer (Junior) (5657)",
-      "url": "https://www.smxtech.com/careers/?gh_jid=8000876003",
-      "location": "Remote (US)",
-      "opened": "2026-09-21",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
     }
-  ]
+  ],
+  "last_cycle_opened": "2025-08-22",
+  "last_cycle_basis": "Tracker last-cycle first seen 2025-08-22; Greenhouse board history",
+  "excluded_reason": "clearance",
+  "no_sponsorship": false,
+  "jobs_page": "https://www.smxtech.com/careers/",
+  "jobs_spec": "gh:smxtech",
+  "evidence": "Greenhouse API 2026-10-05, 4 junior SWE/data postings read: Junior Software Engineer \"Clearance Required: Secret\"; Junior Data Engineer \"Active Secret Clearance\"; Front End Developer (Junior) \"U.S. citizenship required to maintain a federal clearance\".",
+  "confidence": "high"
 }

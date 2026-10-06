@@ -1,15 +1,15 @@
 {
   "company": "Kratos Defense & Security Solutions",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not determined",
+  "last_cycle_basis": "No tracker history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.kratosdefense.com/careers/open-roles/",
   "jobs_spec": null,
-  "evidence": "Job list is a Pereless iframe (kratosdefense.submit4jobs.com, cid 85347); getJobs API rejects non-browser requests and browser pane was unavailable. Third-party snippets show Software Engineer I requiring U.S. citizenship, unquoted from first party. Retry in browser.",
+  "evidence": "Job list is a cross-origin Pereless iframe (kratosdefense.submit4jobs.com, cid 85347); WebFetch gets an error page, curl gets the shell only, browser pane could not read the iframe text. Web results show only mid/senior SWE. Retry.",
   "confidence": "low"
 }

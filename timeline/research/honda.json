@@ -1,56 +1,46 @@
 {
   "company": "Honda",
+  "tier": 8,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Software & System Dev. Engineer (102178)",
-      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12764EXTERNALENUS/Software-System-Dev-Engineer-102178",
+      "title": "Software & System Dev. Engineer",
+      "url": "https://careers.honda.com/us/en/job/12379",
       "location": "Raymond, OH",
-      "opened": "2026-10-02",
-      "date_source": "phenom postedDate",
+      "opened": "2026-08-21",
+      "date_source": "page text (Honda dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
+    },
+    {
+      "title": "Software & System Dev. Engineer (102178)",
+      "url": "https://careers.honda.com/us/en/job/12764",
+      "location": "Raymond, OH",
+      "opened": "2026-10-02",
+      "date_source": "page text (Honda dateCreated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     },
     {
       "title": "Electrical Powertrain Software Engineer",
-      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12837EXTERNALENUS/Electrical-Powertrain-Software-Engineer",
+      "url": "https://careers.honda.com/us/en/job/12837",
       "location": "Raymond, OH",
       "opened": "2026-10-02",
-      "date_source": "phenom postedDate",
+      "date_source": "page text (Honda dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
-    },
-    {
-      "title": "Software & System Dev. Engineer (infotainment, CS/EE/CE)",
-      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12379EXTERNALENUS/Software-System-Dev-Engineer",
-      "location": "Raymond, OH",
-      "opened": "2026-09-22",
-      "date_source": "phenom postedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    },
-    {
-      "title": "Software & System Dev. Engineer (infotainment)",
-      "url": "https://careers.honda.com/us/en/job/AHMAHMUS12510EXTERNALENUS/Software-System-Dev-Engineer",
-      "location": "Raymond, OH",
-      "opened": "2026-09-03",
-      "date_source": "phenom postedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-01-06",
   "last_cycle_basis": "Tracker first seen: New Grad 2025: Engineering Development Program, Marysville OH, 2025-01-06 (ME-oriented, not software); no 2025-07..2026-01 SWE posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API + browser: 4 Raymond OH SWE postings show Apply Now (the 'no longer accepting' text is a hidden template). Requirements 0-2 yrs (0-3 for 12379), BS CS/EE. No sponsorship line in postings; tracker says Does Not Offer. No deadline.",
-  "confidence": "medium",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Phenom widgets API (142 software hits) plus posting pages 2026-10-05. Raymond OH roles: SW & System Dev Engineer (BS CS/EE, 0-3 yrs), second SW & System Dev (0-2 yrs), Electrical Powertrain SW Engineer (0-2 yrs). No sponsorship or citizenship line found. Senior and ADAS test roles not counted.",
+  "confidence": "medium"
 }

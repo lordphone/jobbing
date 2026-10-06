@@ -1,7 +1,7 @@
 {
   "company": "JPMorgan Chase",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -10,7 +10,7 @@
       "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Tampa, FL, United States; Wilmington, DE, United States",
       "opened": "2026-08-03",
       "date_source": "oracle API posted",
-      "grad_window": "Jul 2026 \u2013 Jun 2027 (start Jul 2027)",
+      "grad_window": "Jul 2026 – Jun 2027 (start Jul 2027)",
       "live_verified": "api",
       "deadline": "2026-11-06"
     },
@@ -20,7 +20,7 @@
       "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Tampa, FL, United States; Wilmington, DE, United States",
       "opened": "2026-08-03",
       "date_source": "oracle API posted",
-      "grad_window": "Jul 2026 \u2013 Dec 2026 (start Feb 2027)",
+      "grad_window": "Jul 2026 – Dec 2026 (start Feb 2027)",
       "live_verified": "api",
       "deadline": "2026-11-06"
     }
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "jobs.py detail 2026-10-02 returns both 2027 Software Engineer Program postings (Jul and Feb start), posted 2026-08-03, end 2026-11-06. Says no employment-based immigration sponsorship, no OPT/CPT.",
+  "evidence": "Oracle API detail 2026-10-05: both 2027 Software Engineer Program postings (Jul and Feb start) live, posted 2026-08-03, end 2026-11-06. No employment-based immigration sponsorship, no OPT/CPT.",
   "confidence": "high"
 }

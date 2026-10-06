@@ -1,15 +1,15 @@
 {
   "company": "BJ's Wholesale Club",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers",
   "jobs_spec": "wd:bjswholesaleclub/wd1/BJsCareers",
-  "evidence": "Workday board 2026-10-01 (45 postings): interns, retail and club roles, one Senior Digital Engineer. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-05 (board flaky; software search returned 11): only Senior Digital Engineer, Engineering Manager, Principal Engineer on tech side. No entry SWE; no tracker history.",
+  "confidence": "medium"
 }

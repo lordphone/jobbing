@@ -1,7 +1,7 @@
 {
   "company": "Castelion",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -26,11 +26,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "last_cycle_basis": "unknown; no tracker or board history found",
   "excluded_reason": "clearance",
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://www.castelion.com/careers/",
   "jobs_spec": "gh:castelioncorporation",
-  "evidence": "Greenhouse board gh:castelioncorporation (194). All-Levels SWE roles (2026-09-07) say 'Active or eligible for a Top-Secret security clearance' and ask 'Are you a U.S. person...' (ITAR/EAR). Others senior/lead.",
+  "evidence": "Greenhouse (194, 2026-10-05): no new-grad title; 'All Levels' SWE roles require EAR/ITAR export-control eligibility and government clearance/citizenship eligibility (Mission SWE lists 'Active Secret or Top Secret clearance'). Others senior/lead.",
   "confidence": "medium"
 }

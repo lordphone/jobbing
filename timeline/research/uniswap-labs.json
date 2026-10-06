@@ -1,26 +1,15 @@
 {
   "company": "Uniswap Labs",
   "tier": 3,
-  "checked": "2026-10-02",
-  "status": "leftover_2026",
-  "postings": [
-    {
-      "title": "Software Engineer - Early Career",
-      "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
-      "location": "New York, NY",
-      "opened": "2026-08-12",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": "Dec 2024 – Sep 2026",
-      "live_verified": "api"
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history: only this posting (first seen 2026-08-12); it says 'hiring our first new-grad engineering cohort'",
+  "checked": "2026-10-05",
+  "status": "not_yet",
+  "postings": [],
+  "last_cycle_opened": "2026-08-12",
+  "last_cycle_basis": "Ashby publishedAt: 'Software Engineer - Early Career' NYC, first new-grad cohort, https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/uniswap",
   "jobs_spec": "ashby:uniswap",
-  "evidence": "Ashby API 2026-10-02: 'Software Engineer - Early Career' NYC (2026-08-12) wants degree completed Dec 2024-Sep 2026, so excludes 2027 grads. First new-grad cohort; General Interest SWE separate.",
+  "evidence": "Ashby board 2026-10-05 (5): Staff/Senior engineers and Head of Institutions. 'Software Engineer - Early Career' NYC (2026-08-12, degree window Dec 2024-Sept 2026, a last-cycle window) is gone: board and posting page empty in browser. No 2027 role yet.",
   "confidence": "medium"
 }

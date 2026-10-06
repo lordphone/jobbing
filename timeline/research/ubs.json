@@ -1,18 +1,18 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "2027 Graduate Talent Program - Technology - Raleigh",
       "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=349412",
       "location": "Raleigh, NC",
-      "opened": "on or before 2026-10-02",
+      "opened": "on or before 2026-10-05",
       "date_source": "page text (live on jobs.ubs.com; ref 341967BR; no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: Raleigh Technology GTP (349412) live with Apply, grad Dec 2026-Jun 2027, 'not eligible for any employment-based immigration sponsorship'. NY/NJ Technology GTP (348622) page now says expired or filled. Technology search lists only Raleigh GTP.",
-  "confidence": "high"
+  "evidence": "Fetched TG posting 349412 2026-10-05: still serves full 2027 Technology GTP text (Raleigh, grad Dec 2026-Jun 2027, no immigration sponsorship); earlier browser check showed Apply. NY/NJ 348622 previously expired. Apply button not re-seen this pass.",
+  "confidence": "medium"
 }

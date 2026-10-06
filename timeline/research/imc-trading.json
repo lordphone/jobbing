@@ -1,7 +1,7 @@
 {
   "company": "IMC Trading",
   "tier": 4,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -11,18 +11,8 @@
       "opened": "2026-07-01",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Graduating Sep 2026 – Jul 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer, Early Career",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
-      "location": "Chicago, IL",
-      "opened": "2026-09-30",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "Graduating Sep 2026 \u2013 Jul 2027",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-30",
@@ -31,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/imc",
   "jobs_spec": "gh:imc",
-  "evidence": "gh:imc board and detail 2026-10-02: Graduate Software Engineer Chicago live (grad window Sep 2026-Jul 2027); Early Career role asks 1-3 yrs and points students to the Graduate role. Amsterdam/Aarhus non-US. No deadline.",
+  "evidence": "2026-10-05: Graduate Software Engineer Chicago (gh:imc, first_published 2026-07-01, updated 2026-10-05) application page loads; grad window Sep 2026-Jul 2027. 'Software Engineer, Early Career' (Chicago, 2026-09-30) needs 1-3 yrs post-grad and points students to the Graduate role, so not counted. Amsterdam/Aarhus non-US.",
   "confidence": "high"
 }

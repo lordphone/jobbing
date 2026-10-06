@@ -1,6 +1,7 @@
 {
   "company": "Dell",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,18 @@
       "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784",
       "location": "Round Rock, TX",
       "opened": "2026-09-09",
-      "date_source": "tracker first seen (Oracle API gives no posted date)",
-      "deadline": null,
-      "grad_window": "Dec 2026 – May 2027",
-      "live_verified": "browser"
+      "date_source": "tracker first seen (Oracle posting gives no posted date)",
+      "grad_window": "Bachelor's with graduation date December 2026 or May 2027",
+      "live_verified": "browser",
+      "deadline": null
     }
   ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "jobs.py history: Software Engineer 1, Round Rock TX, first seen 2025-11-03 (also SWE Rotation Programs 2025-11-05)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Opened posting 298784 in browser 2026-10-02: Apply Now shown; Round Rock TX; ITDP AI-Native Software Engineer, BS grads Dec 2026 or May 2027; no sponsorship text. Absent from list API. Other 2027 SWE programs Taipei only.",
-  "confidence": "high",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Browser 2026-10-05: posting 298784 (Software Engineer 1 - IT, Round Rock TX, ITDP AI-Native SWE, bachelor's grad Dec 2026/May 2027) shows Apply Now, though absent from list API and no posted date. No sponsorship/citizenship text found. Other 2027 SWE programs are Taipei/Limerick only.",
+  "confidence": "high"
 }

@@ -1,26 +1,26 @@
 {
   "company": "Phillips 66",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "2027 University New Hire - Information Technology",
+      "title": "2027 University New Hire - Information Technology (Software Engineering, Cloud, SRE, Data, Cyber assignments)",
       "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
-      "location": "Houston, TX or Bartlesville, OK",
-      "opened": "on or before 2026-09-28",
-      "date_source": "page text (no posting date shown); earlier check 2026-09-28 saw it live",
+      "location": "Houston, TX; Bartlesville, OK",
+      "opened": "2026-09-10",
+      "date_source": "page metadata datePosted from earlier check (may be a repost); page shows no date",
       "deadline": null,
-      "grad_window": "Winter 2026 or Spring/Summer 2027 (enrolled Bachelor's/Master's)",
+      "grad_window": "Winter 2026 or Spring/Summer 2027",
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window",
+  "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window; no IT university-hire timing known",
   "excluded_reason": null,
   "no_sponsorship": true,
-  "jobs_page": "https://careers.phillips66.com",
+  "jobs_page": "https://careers.phillips66.com/go/New-Hire-Opportunities/9494000/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: 2027 University New Hire IT (Experience 66; Software Eng, Cloud, SRE, Data) shows Apply now; grads Winter 2026/Spring-Summer 2027. Text: temporary visas (F-1, H-1...) or needing sponsorship not eligible. No deadline.",
+  "evidence": "WebFetch 2026-10-05: IT new hire (req 62444) on New Hire Opportunities list of 8; posting page has Apply now; assignments include Software Engineering. Temporary visas / sponsorship needed not eligible. No stated deadline.",
   "confidence": "high"
 }

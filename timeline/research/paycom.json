@@ -1,15 +1,15 @@
 {
   "company": "Paycom",
-  "status": "no_program_found",
-  "jobs_page": "https://www.paycomjobs.com/job-search/",
-  "evidence": "paycomjobs.com admin-ajax get_all_jobs, all 109 postings read: 98 sales, 4 HR, 2 IT (Datacenter Administrator, Network Security Engineer), 1 internship; no software engineer or developer role listed. Developer hiring may be unlisted or rolling.",
-  "confidence": "medium",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no company early-careers date found.",
+  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_spec": null
+  "jobs_page": "https://www.paycomjobs.com/job-search/",
+  "jobs_spec": null,
+  "evidence": "paycomjobs.com admin-ajax get_all_jobs 2026-10-05, all 109 postings: ~100 sales, recruiters, datacenter admin, Network Security Engineer (Oklahoma City). No software developer or entry-level SWE posting.",
+  "confidence": "high"
 }

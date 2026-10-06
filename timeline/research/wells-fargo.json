@@ -1,26 +1,15 @@
 {
   "company": "Wells Fargo",
   "tier": 5,
-  "checked": "2026-10-02",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineering Associate \u2013 CIB Operations Technology (CODE Program)",
-      "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941",
-      "location": "Charlotte, NC; Iselin, NJ",
-      "opened": "2026-09-30",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-03",
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "unknown",
+  "postings": [],
   "last_cycle_opened": "2026-01-14",
   "last_cycle_basis": "tracker history: Engineering Associate (CODE-style) postings first seen 2026-01-14 (Chandler/Irving); Technology Analyst Development Program (London only) 2025-10-29",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs",
   "jobs_spec": "wd:wf/wd1/WellsFargoJobs",
-  "evidence": "Workday detail 2026-10-02: Engineering Associate CIB Operations Technology (Charlotte/Iselin) posted 9/30, endDate 2026-10-03, not eligible for visa sponsorship. 2027 tech summer internship also live; no full-time TADP posting seen.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-05: only 2027 Technology Summer Internship (SWE) live, no full-time SWE. Engineering Associate CIB Ops Technology (R-572941, posted 9/30, deadline 10-03 per prior check) is off the board; its cxs API returns 403 (live=200, nonexistent=404) and the page renders blank, so closed unconfirmed. No sponsorship.",
+  "confidence": "low"
 }

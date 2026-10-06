@@ -1,17 +1,26 @@
 {
-  "company": "AT&T",
   "tier": 11,
-  "checked": "2026-10-02",
+  "company": "AT&T",
   "status": "open",
   "postings": [
-    {"title": "AT&T Technology Development Program", "url": "https://att.wd1.myworkdayjobs.com/attcollege/job/Dallas-Texas/AT-T-Technology-Development-Program_R-121905-1", "location": "Dallas, TX; Middletown, NJ; Bothell, WA; Atlanta, GA", "opened": "2026-09-21", "date_source": "workday startDate", "deadline": "2026-11-14", "grad_window": "degree completed before start; full-time start by July 2027", "live_verified": "api"}
+    {
+      "title": "AT&T Technology Development Program (Software Engineer / Data Science Engineer tracks)",
+      "url": "https://att.wd1.myworkdayjobs.com/attcollege/job/Dallas-Texas/AT-T-Technology-Development-Program_R-121905-1",
+      "location": "Dallas, TX; Middletown, NJ; Bothell, WA; Atlanta, GA",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-14",
+      "grad_window": "STEM degree completed before start; available to begin by July 2027",
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No Jul 2025 - Jan 2026 TDP found in tracker; the prior-cycle 'New Grad 2025: Technology Development Program' (Atlanta) was first seen 2024-10-18, two cycles ago.",
-  "excluded_reason": null,
+  "last_cycle_opened": "2024-10-18",
+  "last_cycle_basis": "Tracker history: 'New Grad 2025: Technology Development Program' (Atlanta) first seen 2024-10-18; 2025-10-30 Software Developer SWE I Government (Columbia, MD) listed on ATTGeneral board",
   "no_sponsorship": true,
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "attcollege Workday board (6 postings): TDP has Software Engineer and Data Science Engineer tracks, canApply true, endDate 2026-11-14, start by July 2027. Posting says AT&T will not hire TDP applicants who require sponsorship now or in future.",
-  "confidence": "high"
+  "evidence": "attcollege Workday board (6 postings) + posting 2026-10-05: TDP has Software Engineer and Data Science Engineer tracks, canApply true, endDate 2026-11-14, start by July 2027. 'Will not hire ... who require employer sponsorship'. TDP Internship also listed (not counted).",
+  "confidence": "high",
+  "checked": "2026-10-05",
+  "excluded_reason": null
 }

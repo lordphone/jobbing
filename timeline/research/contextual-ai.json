@@ -1,15 +1,15 @@
 {
   "company": "Contextual AI",
   "tier": 2,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no history found",
+  "last_cycle_basis": "no history rows",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "evidence": "Careers page (browser pane and fetch) shows an Open roles section that renders no listings and no ATS link; guessed Greenhouse/Ashby/Lever slugs 404. Web search mentions mid-level SWE roles only. Could not read board.",
+  "evidence": "contextual.ai/careers Open roles widget renders empty in fetch and browser pane; no Greenhouse/Ashby/Lever board found under common slugs. Web search shows only MTS/FDE/security roles, senior. Retry later.",
   "confidence": "low"
 }

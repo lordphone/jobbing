@@ -1,15 +1,26 @@
 {
   "company": "Red Hat",
   "tier": 6,
-  "checked": "2026-10-02",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Associate-Software-Engineer_R-059573",
+      "location": "Raleigh, NC; Boston, MA; Lowell, MA",
+      "opened": "2026-10-05",
+      "date_source": "workday postedOn (Posted Today) / startDate",
+      "deadline": "2026-10-30",
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker history: 'Associate Software Software Engineer' (Durham/Raleigh/Boston); https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
+  "last_cycle_basis": "Tracker history: 'Associate Software Engineer' (Durham/Raleigh/Boston), first seen 2025-09-15; https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://redhat.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:redhat/wd5/jobs",
-  "evidence": "Workday --all 2026-10-02 (57 postings): this-cycle Associate Software Engineer (Durham, first seen 2026-07-08) gone. Only US SWE req, Raleigh R-059799 (posted 2026-09-24, ends 2026-11-28), needs a degree plus 3 years experience in role; not entry-level. Only Ireland/Singapore interns.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-05: Associate SWE R-059573 (Python test-automation developer, hybrid) canApply=true, posted today, endDate 2026-10-30; says no visa sponsorship. Earlier R-058395 Durham gone; R-059799 needs 3 yrs. Browser pane unavailable, API only.",
+  "confidence": "medium"
 }

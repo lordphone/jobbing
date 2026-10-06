@@ -1,15 +1,15 @@
 {
   "company": "IHG Hotels & Resorts",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history. IHG Internships & Graduate page lists only US corporate internships and a Manager In Training program.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history",
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "IHG careers search in browser pane 2026-10-02 (keywords software, developer, data, graduate, technology, analyst, engineer): no US/Canada entry SWE; only 'Head of App and Web Technology' (Atlanta, senior) and hotel engineering roles in China. Page 2-3 of 'engineer' not read.",
-  "confidence": "medium"
+  "evidence": "careers.ihg.com 2026-10-05: board blocks non-browser fetches and keyword filter would not apply in the pane; early-careers page offers only US corporate internships (Atlanta, Product & Technology among areas). Earlier keyword search found only hotel roles and Atlanta senior tech. No entry SWE seen.",
+  "confidence": "low",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

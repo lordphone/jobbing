@@ -1,7 +1,5 @@
 {
   "company": "Quince",
-  "tier": 9,
-  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-05-20",
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/quince",
   "jobs_spec": "gh:quince",
-  "evidence": "Greenhouse (--all): US SWE roles are Software Engineer III, Infra III, Staff/Principal (Palo Alto); India SDE II/III. Last new-grad SDE (first seen 2026-05-20) is gone; no new-grad posting live.",
-  "confidence": "high"
+  "evidence": "Greenhouse (quince, --all) 2026-10-05: US SWE roles are Software Engineer III, Infra III and Staff; India SDE II/III. New Grad SDE (Palo Alto, tracker 2026-05-20) not live now.",
+  "confidence": "medium",
+  "tier": 9,
+  "checked": "2026-10-05"
 }

@@ -1,7 +1,7 @@
 {
   "company": "National Security Agency (NSA)",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.intelligencecareers.gov/nsa/development-program",
   "jobs_spec": null,
-  "evidence": "Computer Science Development Program exists (apply.intelligencecareers.gov; listing page JS-only). NSA application-process page lists basic eligibility \"U.S. citizenship\"; suitability includes security processing. Excluded.",
+  "evidence": "NSA application-process page lists \"U.S. citizenship\" as basic eligibility. CS Development Program and ACDP exist; listings portal not readable by fetch. Excluded on citizenship.",
   "confidence": "high"
 }

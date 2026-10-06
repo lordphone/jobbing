@@ -1,26 +1,15 @@
 {
   "company": "Centene",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Business Solutions Developer 1",
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Solutions-Developer-I_1652686-1",
-      "location": "Remote, MO",
-      "opened": "2026-08-18",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker first seen 2025-09-15 Application Development Engineer I (Remote MO)",
+  "last_cycle_basis": "tracker history: Application Development Engineer I, Remote MO, first seen 2025-09-15 (Data Engineer I roles also Sep-Dec 2025)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://centene.wd5.myworkdayjobs.com/Centene_External",
+  "jobs_page": "https://jobs.centene.com/us/en/jobs/",
   "jobs_spec": "wd:centene/wd5/Centene_External",
-  "evidence": "Browser 2026-10-02: Business Solutions Developer 1 page 'doesn't exist'. Workday list (54, --all) has only 2027 interns; no engineer roles. Centene posts Data/App Engineer I roles in waves (Sep-Dec last cycle).",
+  "evidence": "Workday CXS 2026-10-05: searches for software/data engineer show only senior/lead/IAM roles; no Engineer I or Developer 1. Business Solutions Developer 1 (2026-08-18) and Automation Engineer (Aug) absent from board, direct lookup fails. Only non-SWE 2027 interns.",
   "confidence": "medium"
 }

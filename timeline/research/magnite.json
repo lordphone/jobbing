@@ -1,15 +1,15 @@
 {
   "company": "Magnite",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-11-03",
-  "last_cycle_basis": "jobs.py history \"magnite\": 'Engineer 1 - Automation and Custom Applications' (NYC) first seen active 2025-11-03; also entry-level 'Backend Engineer - Entry Level' and 'Engineer - Entry Level RUST Developer' postings in Belfast UK from Oct-Dec 2025, all now closed",
+  "last_cycle_basis": "jobs.py history: Engineer 1 - Automation and Custom Applications (NYC) first seen 2025-11-03, closed 2026-04; entry Belfast UK roles Oct-Dec 2025",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": "wd:osv-rubicon/wd5/MagniteCareers",
-  "evidence": "Read all 32 reqs in Workday UI via browser (API returns 422). Engineering roles are Engineer II, Senior, Director, Staff or Belfast/India; no Engineer 1 or entry SWE in US/Toronto/Vancouver. Last cycle's NYC Engineer 1 (Nov 2025) closed.",
-  "confidence": "medium"
+  "evidence": "Workday CXS API returns 422 and the page is JS-only; browser pane was hijacked by other agents, so I could not read the list. Earlier same-day read of page 1 of 32 reqs showed Engineer II/Senior/Rust (Belfast), no Engineer 1. Aggregators show no live entry US SWE. Board unread in full.",
+  "confidence": "low"
 }

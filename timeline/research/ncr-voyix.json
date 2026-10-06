@@ -1,7 +1,5 @@
 {
   "company": "NCR Voyix",
-  "tier": 5,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -9,10 +7,10 @@
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
       "location": "Atlanta, GA",
       "opened": "on or before 2026-06-26",
-      "date_source": "workday startDate; 'Posted 30+ Days Ago'",
+      "date_source": "workday startDate 2026-06-26; 'Posted 30+ Days Ago'; posting text marks it (Evergreen)",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-04",
@@ -21,6 +19,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://ncr.wd1.myworkdayjobs.com/ext_us",
   "jobs_spec": "wd:ncr/wd1/ext_us",
-  "evidence": "Workday API + posting read 2026-10-02: SW Engineer I (Atlanta) live, canApply, bachelor's in CS, no years or class year, startDate 2026-06-26. Evergreen-style entry role, so open. Other SWE roles II/III+.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-05 still lists SW Engineer I, Atlanta (startDate 2026-06-26), same as prior file; earlier browser read showed Apply and Evergreen, no years/class year/sponsorship text. Other SWE roles II/III+.",
+  "confidence": "high",
+  "checked": "2026-10-05",
+  "tier": 5
 }

@@ -1,7 +1,7 @@
 {
   "company": "Rocket Lab",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -17,10 +17,10 @@
   ],
   "last_cycle_opened": "2026-01-08",
   "last_cycle_basis": "tracker first seen: Software Engineer 1/2 - Digital Engineering, Littleton CO (job-boards.greenhouse.io/rocketlab/jobs/7582424003)",
-  "excluded_reason": "clearance",
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/rocketlab",
   "jobs_spec": "gh:rocketlab",
-  "evidence": "Greenhouse API (565, --all): no level-I US SWE live (Flight SW Eng II, SWE II Robotics/MES). Flight SW II says 'Active Secret security clearance OR ability to obtain' and 'U.S. citizenship is required'; others ITAR-gated. Mechanical Future Grad 2027 not SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-05: no level-I US SWE live; Flight SW Eng II (Littleton, Long Beach) quotes 'U.S. citizenship is required' and ITAR 'must be a U.S. citizen, permanent resident'. Mechanical 'Future Grad 2027' is not SWE.",
+  "confidence": "medium"
 }

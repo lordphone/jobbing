@@ -1,5 +1,7 @@
 {
   "company": "TRM Labs",
+  "tier": 3,
+  "checked": "2026-10-05",
   "status": "leftover_2026",
   "postings": [
     {
@@ -10,17 +12,15 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "degree completed by Summer 2026",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-09-30",
   "last_cycle_basis": "Ashby publishedAt of University Grad Product Engineer posting",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/trm-labs",
   "jobs_spec": "ashby:trm-labs",
-  "evidence": "Ashby API: only University Grad posting is last cycle's (published 2025-09-30, requires degree completed by Summer 2026), still listed. No 2027 grad posting yet.",
-  "confidence": "high",
-  "tier": 3,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Ashby API plus posting page opened 2026-10-05 (Apply button): only new-grad role is last cycle's University Grad Product Engineer (degree by Summer 2026), published 2025-09-30. Other SWE roles senior or unlevelled; no 2027-class posting yet.",
+  "confidence": "high"
 }

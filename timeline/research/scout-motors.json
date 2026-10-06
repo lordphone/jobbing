@@ -1,15 +1,15 @@
 {
   "company": "Scout Motors",
   "tier": 8,
-  "checked": "2026-10-02",
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no Scout Motors tracker entry (history hits are Scout AI, a different company)",
+  "last_cycle_basis": "no last-cycle date found; no tracker history for Scout Motors",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/scoutmotors",
   "jobs_spec": "gh:scoutmotors",
-  "evidence": "Greenhouse API (--all, 2026-10-02, 218 postings): software roles (AI Agent/Infra/Workflow, DevOps, Data Ops) are senior, specialist or unleveled; no entry-level, graduate or 2027 posting.",
-  "confidence": "high"
+  "evidence": "Greenhouse --all 2026-10-05 (215 postings): software and AI roles are Senior or ask 4+ to 8+ years (AI Agent, AI Workflow, Data Ops, AI Infrastructure); no entry-level, intern or new-grad SWE posting.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Travelers",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271",
       "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
       "opened": "2026-09-01",
-      "date_source": "workday startDate (tracker first seen 2026-08-31)",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -18,27 +18,27 @@
       "title": "Engineering Development Program (EDP) - Data Engineering",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272",
       "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
-      "opened": "2026-09-01",
-      "date_source": "workday startDate (tracker first seen 2026-08-31)",
+      "opened": "2026-08-31",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer I - MERN, AWS",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
-      "location": "St. Paul, MN; Hartford, CT",
-      "opened": "2026-09-24",
+      "title": "Software Engineer I",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1",
+      "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+      "opened": "2026-06-30",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer I \u2013 AI Agents & Harnesses",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---AI-Agents---Harnesses_R-51943",
-      "location": "Atlanta, GA; Hartford, CT",
-      "opened": "2026-09-21",
+      "title": "Software Engineer I (MERN, AWS)",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988",
+      "location": "Hartford, CT; St. Paul, MN",
+      "opened": "2026-08-14",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
@@ -55,10 +55,30 @@
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer I (MERN, AWS)",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988",
+      "title": "Software Engineer I \u2013 AI Agents & Harnesses",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---AI-Agents---Harnesses_R-51943",
+      "location": "Atlanta, GA; Hartford, CT",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I - MERN, AWS",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
+      "location": "St. Paul, MN; Hartford, CT",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Data Engineer I (AWS, Python, SQL)",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--SQL-_R-52876",
       "location": "Hartford, CT; St. Paul, MN",
-      "opened": "2026-08-14",
+      "opened": "2026-10-01",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
@@ -71,6 +91,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://travelers.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:travelers/wd5/External",
-  "evidence": "Workday API re-read 2026-10-02: EDP Software/Data Engineering and several Software Engineer I postings live; most say no H-1B/OPT sponsorship. No deadline stated. Same status as before.",
+  "evidence": "Workday CXS + detail 2026-10-05: EDP Software/Data Engineering, six Software Engineer I postings and a new Data Engineer I live; most state no H-1B/TN/STEM OPT sponsorship. No deadline stated. Same status as before.",
   "confidence": "high"
 }

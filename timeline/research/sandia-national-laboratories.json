@@ -1,26 +1,17 @@
 {
   "company": "Sandia National Laboratories",
-  "status": "excluded",
-  "excluded_reason": "clearance",
-  "last_cycle_basis": "unknown; no tracker history",
-  "jobs_page": "https://sandia.jobs",
-  "evidence": "Browser: sandia.jobs lists Early Career Computer Scientist (Req 698228) and Early Career CS Satellite Ground Stations (697936). Posting says \"require US citizenship\" for DOE Q-level clearance and SCI access. Excluded.",
-  "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "excluded",
   "postings": [
-    {
-      "title": "Early Career Computer Scientist - Remote Sensing Systems, Onsite",
-      "url": "https://sandia.jobs/albuquerque-nm/early-career-computer-scientist-remote-sensing-systems-onsite/B206B9F335F04926B1F94221B7139A87/job/",
-      "location": "Albuquerque, NM",
-      "opened": "unknown (date not shown)",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
+    {"title": "Early Career Computer Scientist - Remote Sensing Systems, Onsite", "url": "https://sandia.jobs/albuquerque-nm/early-career-computer-scientist-remote-sensing-systems-onsite/B206B9F335F04926B1F94221B7139A87/job/", "location": "Albuquerque, NM", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "no"}
   ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history for Sandia",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
+  "jobs_page": "https://sandia.jobs",
   "jobs_spec": null,
-  "last_cycle_opened": null
+  "evidence": "sandia.jobs sitemap (184 jobs) 2026-10-05 lists several Early Career computer science roles (Remote Sensing Systems, Space Grounds Systems, Satellite Ground Stations, Software Development Testing). Sandia postings state applicants must be 'able to obtain and maintain a DOE Q-level security clearance and SCI access, both of which require US citizenship'. Posting body is JS-rendered; not opened directly this run.",
+  "confidence": "medium"
 }

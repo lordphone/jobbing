@@ -1,13 +1,13 @@
 {
   "company": "Carrier Global",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Digital Technology Leadership Program",
       "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
-      "location": "Palm Beach Gardens, FL, United States",
+      "location": "Palm Beach Gardens, FL",
       "opened": "2026-08-23",
       "date_source": "tracker first seen (Workday repost startDate 2026-09-22)",
       "deadline": "2026-10-16",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:carrier/wd5/jobs",
-  "evidence": "Workday API 2026-10-02 (re-read): DTLP 30216139 live (canApply true), 2-year rotation across data/AI, digital products, enterprise systems; must work without sponsorship. Deadline is Workday endDate 2026-10-16; page only says accepted 'at least 3 days' from 2026-09-22. IT rotation, not pure SWE.",
+  "evidence": "Workday API + detail 2026-10-05: DTLP 30216139 live with endDate 2026-10-16; 2-year digital-technology leadership rotation for 2026/27 grads, must work without sponsorship. IT rotation, not pure SWE; no other US entry SWE (Validation Software Engineer not entry-titled).",
   "confidence": "medium"
 }

@@ -1,18 +1,9 @@
 {
   "company": "Datalab USA",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "open",
-  "no_sponsorship": true,
   "postings": [
-    {
-      "title": "Production Programmer - Entry Level SQL Developer",
-      "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
-      "location": "Germantown, MD",
-      "opened": "2026-08-19",
-      "date_source": "lever createdAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
     {
       "title": "Production Programmer - Entry Level SQL Developer",
       "url": "https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53",
@@ -22,15 +13,24 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Production Programmer - Entry Level SQL Developer",
+      "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
+      "location": "Germantown, MD (candidates must be local)",
+      "opened": "2026-08-19",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-01",
-  "last_cycle_basis": "Tracker history: same Production Programmer role first seen 2025-08-01 (Germantown, MD)",
+  "last_cycle_basis": "Tracker history: Production Programmer - Entry Level SQL Developer (Germantown, MD) first seen 2025-08-01; also 2024-06-27",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://jobs.lever.co/datalabusa",
   "jobs_spec": "lever:datalabusa",
-  "evidence": "Lever API: 2 live entry-level Production Programmer / SQL Developer roles (Students/Recent Graduates), detail pages read: \"NO sponsorship offered\". Borderline SWE: SQL/ETL process programming, no class year, rolling. Same role seen 2025-08-01.",
-  "confidence": "medium",
-  "tier": 10,
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Lever API (14 postings) 2026-10-05, posting pages 200: two live entry-level Production Programmer / SQL Developer roles; \"NO sponsorship offered\". Borderline SWE (SQL/ETL programming); Apply button not viewed in a browser.",
+  "confidence": "medium"
 }

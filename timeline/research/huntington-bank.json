@@ -1,5 +1,7 @@
 {
   "company": "Huntington Bank (Huntington Bancshares)",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -10,17 +12,15 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-11-28",
   "last_cycle_basis": "tracker first-seen 2025-11-28 'Technology Delivery Analyst' Columbus OH (Huntington board)",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
   "jobs_spec": "wd:huntington/wd12/HNBcareers",
-  "evidence": "Workday (83): no 2027 SWE program (2027 items are summer internships). Junior Backend Java Developer live on API; asks 1-3+ yrs Java (apprenticeship in lieu); will not sponsor immigration. Entry-level by title, borderline new-grad.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Workday (88) 2026-10-05: no 2027 SWE program (2027 items are internships). Junior Backend Java Developer opened in browser with Apply. Asks 1-3+ yrs Java (apprenticeship in lieu); will not sponsor. Borderline entry-level.",
+  "confidence": "medium"
 }

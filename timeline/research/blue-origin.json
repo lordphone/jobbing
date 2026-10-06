@@ -1,7 +1,7 @@
 {
   "company": "Blue Origin",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -26,11 +26,11 @@
     }
   ],
   "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "tracker first-seen date, kept from previous research file",
+  "last_cycle_basis": "tracker first-seen date 2025-08-14 (Software Development Engineer I, Seattle); earlier 2025 grad postings Mar-Jul 2025",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin",
   "jobs_spec": "wd:blueorigin/wd5/blueorigin",
-  "evidence": "Workday API (143 postings): both 2027-start SWE I postings live. Text: applicants \"must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted\" (refugee/asylee). Close date: ongoing until filled.",
+  "evidence": "Workday API (148 postings) 2026-10-05: SDE I and Avionics/Embedded SWE I (2027 Starts) live, ongoing close date. Text: 'must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum' (export control).",
   "confidence": "high"
 }

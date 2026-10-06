@@ -1,7 +1,5 @@
 {
   "company": "Stanley Black & Decker",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -17,10 +15,12 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history 'stanley black': no 2025-07..2026-01 SWE posting (only Product Data Analyst 2026-05-20)",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site",
   "jobs_spec": "wd:sbdinc/wd1/Stanley_Black_Decker_Career_Site",
-  "evidence": "Workday API 2026-10-02: Engineer I, Digital (web/mobile/device firmware) live, no visa sponsorship, endDate 2026-10-23. New SLP Engineering, Embedded Software (REQ-1000050879, 2026-10-01, ends 10-22) is motor-control firmware, not counted.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-05: Engineer I, Digital live (canApply), not eligible for visa sponsorship, endDate 2026-10-23. Also live: Engineer 1 SWE Motor Control and SLP Embedded Software (ends 10-22), both power-tool firmware, so not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null
 }

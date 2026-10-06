@@ -1,15 +1,15 @@
 {
   "company": "Chevron",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "2026-2027 Information Technology - Software Engineer - Full-Time",
       "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
-      "location": "Houston, Texas, United States of America; Bakersfield, California, United States of America; Denver, Colorado, United States of America; Midland, Texas, United States of America; Covington, Louisiana, United States of America; Greeley, Colorado, United States of America",
-      "opened": "2026-07-15",
-      "date_source": "tracker first seen; workday startDate 2026-07-16",
+      "location": "Houston, TX; Bakersfield, CA; Denver, CO; Midland, TX; Covington, LA; Greeley, CO",
+      "opened": "on or before 2026-07-16",
+      "date_source": "workday startDate 2026-07-16; tracker first seen 2026-07-15",
       "deadline": "2027-07-01",
       "grad_window": "degree by July 2027, or grads with <2 yrs experience",
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://chevron.wd5.myworkdayjobs.com/University",
   "jobs_spec": "wd:chevron/wd5/University",
-  "evidence": "Workday University board (--all) 2026-10-02: IT Software Engineer Full-Time still listed (endDate 2027-07-01), degree by July 2027; unable to sponsor visas. Interns not counted. Same status.",
+  "evidence": "Workday CXS 2026-10-05: IT Software Engineer Full-Time (R000072400) live (canApply true), grads by July 2027 or <2 yrs exp; 'unable to sponsor employment Visas'. Deadline is Workday endDate 2027-07-01, not a stated apply-by.",
   "confidence": "high"
 }

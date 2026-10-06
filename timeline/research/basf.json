@@ -1,15 +1,15 @@
 {
   "company": "BASF",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; no US software new-grad program found.",
   "jobs_page": "https://basf.jobs/search",
   "jobs_spec": null,
-  "evidence": "basf.jobs sitemap 2026-10-02 (754 postings): US hits are 2027 Ag Solutions Professional Development Programs (engineering, seeds research), interns, plant and sales roles; no software or IT early-career role.",
-  "confidence": "medium"
+  "evidence": "2026-10-05 basf.jobs sitemap (756 jobs): software/AI/digital roles are in Spain, India, Malaysia, China, Germany; US entry programs are 2027 Agricultural Solutions PDP in engineering and seeds research (RTP NC), not SWE, plus internships. No US/Canada entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

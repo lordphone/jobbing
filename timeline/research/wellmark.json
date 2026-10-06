@@ -1,7 +1,7 @@
 {
   "company": "Wellmark",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://jobs.smartrecruiters.com/wellmarkinc/744000146512109",
       "location": "Des Moines, IA",
       "opened": "2026-08-31",
-      "date_source": "smartrecruiters releasedDate",
+      "date_source": "tracker first seen (smartrecruiters releasedDate)",
+      "deadline": null,
       "grad_window": "Dec 2026 - May 2027 graduates",
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker entry in 2025-07 to 2026-01 window; earliest tracked 'Associate Software Engineer' posting was 2026-06-02 (unclear if that's last cycle's real opening)",
+  "last_cycle_basis": "no tracker entry in 2025-07 to 2026-01 window; Associate Software Engineer postings only 2026-06-02 and 2026-06-29 (closed)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/WellmarkInc",
   "jobs_spec": "sr:wellmarkinc",
-  "evidence": "SmartRecruiters 2026-10-02: Technology Associate Program (released 2026-08-31, May 2027 grads) API active:false, page says 'this job has expired'. Only SWE internships and senior/lead roles live. No sponsorship.",
+  "evidence": "SmartRecruiters board 2026-10-05 (46): TAP posting absent; page fetched says 'Sorry, this job has expired'. Only SWE internships and senior/lead roles live. Page: will not sponsor (F1-OPT, H-1B etc.).",
   "confidence": "high"
 }

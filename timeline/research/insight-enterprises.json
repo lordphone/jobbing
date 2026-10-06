@@ -1,15 +1,15 @@
 {
   "company": "Insight Enterprises",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "last_cycle_basis": "No tracker history; no dated early-career SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.insight.com/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold public API (careers.insight.com, 133 jobs, all titles read): US roles are technicians, warehouse, sales, architects; software/AI roles are Senior/Principal or Toronto AI Engineer needing \"6+ years\". No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Eightfold JSON API (careers.insight.com, 76 US jobs, all titles read) 2026-10-05: technicians, warehouse, sales, architects; software/AI roles are Senior/architect level. No entry-level SWE or new-grad program.",
+  "confidence": "medium"
 }

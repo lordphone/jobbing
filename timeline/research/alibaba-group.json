@@ -1,8 +1,8 @@
 {
   "company": "Alibaba Group",
   "tier": 1,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no US new-grad SWE history found; jobs.py history has 0 entries",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://talent.alibaba.com/en/home?lang=en",
   "jobs_spec": null,
-  "evidence": "Group site loads but per-unit job lists not reachable (talent.alibaba.com list blocked). Holding unit: campus list 0 jobs; experienced list has only an SRE in Bellevue. Web reports 2027 campus drive incl. Sunnyvale, unconfirmed on board.",
-  "confidence": "low"
+  "evidence": "Read talent.alibaba.com job-search JSON endpoint (3903 postings, all paged). Only 7 are in US/Canada (Sunnyvale, Seattle, DC, Brantford): compliance, recruiter, test, gov affairs, warehouse roles, 5+ yrs; no US/Canada entry SWE. Status changed from unknown because the list was read.",
+  "confidence": "medium"
 }

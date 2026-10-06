@@ -1,15 +1,26 @@
 {
   "company": "Optimum Communications (formerly Altice USA)",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Dev Engineer I",
+      "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
+      "location": "Bethpage, NY; Plano, TX",
+      "opened": "2026-08-21",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "tracker first-seen date for 'Software Dev Engineer I' postings, Aug-Nov 2025",
+  "last_cycle_basis": "tracker first-seen: Software Development Engineer 1 postings Aug-Nov 2025",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://www.optimumcareers.com/go/Engineering/9117300/",
   "jobs_spec": null,
-  "evidence": "Engineering list (31 jobs, 2 pages) and search 2026-10-02: SDE II/III, Senior ML, SQE I (QA, not counted); no SDE I. Opened 2026-08-21 SDE 1 (Plano; Bethpage) posting: 'no longer accepting applications'. Closed.",
+  "evidence": "2026-10-05 WebFetch: SDE I posting (Bethpage NY/Plano TX) shows Apply now, bachelor's CS, 0-2 yrs, 'we do not provide visa sponsorship'; also listed on the Engineering page. Old file's 'closed' was wrong; the closed Plano posting was a different requisition.",
   "confidence": "medium"
 }

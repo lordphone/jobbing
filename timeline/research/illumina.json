@@ -1,15 +1,15 @@
 {
   "company": "Illumina",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE found in tracker history; only 'Software Engineer 1' in Cambridge, UK (2026-04-16), not a US location",
+  "last_cycle_basis": "Tracker only shows Software Engineer 1 Cambridge UK (2026-04-16) and Quality Data Analyst; none US SWE in window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
   "jobs_spec": "wd:illumina/wd1/illumina-careers",
-  "evidence": "Workday illumina-careers (59, --all): US roles are Engineer 1 - Process Development (non-software), scientists, directors; software roles are senior/Singapore. No US entry SWE live.",
+  "evidence": "Workday illumina-careers (59, --all) 2026-10-05: software roles are Senior/Automation in Singapore; US items are directors/scientists/analysts. History shows only Software Engineer 1 in Cambridge UK (2026-04-16). No US new-grad SWE.",
   "confidence": "medium"
 }

@@ -1,17 +1,46 @@
 {
   "company": "Amentum",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
-    {"title": "Junior Software Developer", "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202", "location": "Dahlgren, VA", "opened": "2026-10-02", "date_source": "workday postedOn", "deadline": null, "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Entry Level Software Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
+      "location": "Dahlgren, VA",
+      "opened": "2026-10-05",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Entry Level Software Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148",
+      "location": "Fredericksburg, VA",
+      "opened": "2026-10-05",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Junior Software Developer",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202",
+      "location": "Dahlgren, VA",
+      "opened": "2026-10-02",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-07-25",
-  "last_cycle_basis": "Worklist tracker_last_cycle 2025-07-25; tracker history shows Entry Level Software Engineer roles 2024-12 to 2025-03",
+  "last_cycle_basis": "Tracker last-cycle first seen 2025-07-25; entry-level SWE posted repeatedly on Workday",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://pae.wd1.myworkdayjobs.com/amentum_careers",
   "jobs_spec": "wd:pae/wd1/amentum_careers",
-  "evidence": "Workday board (159, --all): only entry SWE is Junior Software Developer (Dahlgren, posted 2026-10-02): \"Must have an active Secret security clearance\"; \"U.S. citizenship is required\". Software Developer/GIS (Atlantic City) also needs US citizen. Other SWE roles are mid-level.",
+  "evidence": "Workday API 2026-10-05 (165): Entry Level Software Engineer (Dahlgren, Fredericksburg) says \"Active Secret-level US Government Security Clearance (US citizenship is required to maintain clearance)\"; Junior Software Developer says \"Must have an active Secret security clearance\".",
   "confidence": "high"
 }

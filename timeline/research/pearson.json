@@ -1,15 +1,15 @@
 {
   "company": "Pearson",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2024-09-08",
-  "last_cycle_basis": "tracker history: 'New Grad: Software Developer' posted 2024-09-08 (pearson.jobs); none in 2025-07 to 2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker: New Grad Software Developer first seen 2024-09-08 (two cycles ago); nothing 2025-07 to 2026-01",
   "jobs_page": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
   "jobs_spec": "oracle:hccz.fa.em3.oraclecloud.com/CX_2",
-  "evidence": "Oracle API 2026-10-02, 163 postings: US software roles are Staff, Senior, Manager; 'Associate' roles are scoring/content. No new-grad or associate SWE live. Last new-grad posting 2024-09-08.",
-  "confidence": "medium"
+  "evidence": "Oracle API 2026-10-05, all 167 postings: US software roles are Staff, Senior, Manager; entry roles are scoring associates and campus ambassadors. No new-grad SWE live. Only precedent is a Sept 2024 new-grad posting.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,15 +1,15 @@
 {
   "company": "Shutterstock (merging with Getty Images)",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No this-cycle or last-cycle entry-level SWE posting found; no tracker history.",
+  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://shutterstock.wd1.myworkdayjobs.com/shutterstockcareers",
   "jobs_spec": "wd:shutterstock/wd1/shutterstockcareers",
-  "evidence": "Workday cxs queried directly 2026-10-02 (6 postings): only engineering role is Senior SRE - GIPHY; rest finance, sales, product. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday API returned 0 postings in this run (board empty or blocked). Same-day earlier cxs read: 6 postings, none entry SWE. Kept no_program_found.",
+  "confidence": "medium"
 }

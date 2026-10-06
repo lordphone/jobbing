@@ -1,5 +1,7 @@
 {
   "company": "Wise",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -15,12 +17,10 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no 2025 US posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/Wise",
   "jobs_spec": "sr:Wise",
-  "evidence": "Austin Graduate Software Engineer (released 2026-09-22): page says 'Sorry, this job has expired', API active=false, absent from live board (413). No sponsorship. No other US entry-level SWE.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Austin Graduate Software Engineer (released 2026-09-22): page opened in browser 2026-10-05 says 'This job has expired'; absent from live board. Requires US work authorization, no sponsorship. No other US entry-level SWE.",
+  "confidence": "high"
 }

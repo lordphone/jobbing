@@ -1,36 +1,18 @@
 {
   "company": "MIT Lincoln Laboratory",
-  "status": "excluded",
-  "excluded_reason": "citizenship",
-  "last_cycle_basis": "unknown; no tracker history",
-  "postings": [
-    {
-      "title": "AI/ML Engineer - Assistant Staff",
-      "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Assistant-Staff-MA-02420/1433079500/",
-      "location": "Lexington, MA",
-      "opened": "2026-09-23",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Assistant Staff - Programming",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-Programming-MA-02420/1431161300/",
-      "location": "Lexington, MA",
-      "opened": "2026-09-17",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
-  "jobs_page": "https://careers.ll.mit.edu/",
-  "evidence": "Re-fetched both postings 2026-10-02 (Apply now shown): each says \"U.S. citizenship is required\" and needs a DoD Secret clearance. No deadline. Excluded.",
-  "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "excluded",
+  "postings": [
+    {"title": "Assistant Staff - Programming", "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-Programming-MA-02420/1431161300/", "location": "Lexington, MA", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "api"},
+    {"title": "AI/ML Engineer - Assistant Staff", "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Assistant-Staff-MA-02420/1433079500/", "location": "Lexington, MA", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "api"}
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history for Lincoln Laboratory",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
+  "jobs_page": "https://careers.ll.mit.edu/",
   "jobs_spec": null,
-  "last_cycle_opened": null
+  "evidence": "Jobs feed (careers.ll.mit.edu/sitemap.xml, 212 jobs) 2026-10-05. Entry SWE-type roles (Assistant Staff Programming; AI/ML Engineer Assistant Staff; Assistant Staff Signal Processing & Software) each say 'must be able to obtain and maintain a Secret level DoD security clearance' and 'citizenship is required'.",
+  "confidence": "high"
 }

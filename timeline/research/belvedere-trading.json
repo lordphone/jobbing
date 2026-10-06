@@ -1,5 +1,6 @@
 {
   "company": "Belvedere Trading",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -10,17 +11,16 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": "Graduation Dec 2026 or May/Jun 2027",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-08",
   "last_cycle_basis": "tracker first seen: Software Engineer - Entry Level 2026 (Chicago) 2025-08-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/belvederetrading",
   "jobs_spec": "lever:belvederetrading",
-  "evidence": "Lever API and posting page opened 2026-10-02: Software Engineer - Entry Level 2027 (Chicago), created 2026-08-04, apply link present; grads Dec 2026 or May/Jun 2027; posting says Sponsorship: Yes; no deadline stated.",
+  "evidence": "Lever API 2026-10-05 lists Software Engineer - Entry Level 2027 (Chicago), created 2026-08-04; text: graduation Dec 2026 or May/Jun 2027, Sponsorship: Yes; no deadline.",
   "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-05"
 }

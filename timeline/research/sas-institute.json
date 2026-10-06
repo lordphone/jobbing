@@ -1,36 +1,36 @@
 {
   "company": "SAS Institute",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "C Software Developer (Emerging Careers)",
-      "url": "https://globalcareers-sas.icims.com/jobs/42286/c-software-developer-(emerging-careers)/job",
-      "location": "Cary, NC (hybrid)",
-      "opened": "2026-08-03",
-      "date_source": "page text (iCIMS datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Developer (Emerging Careers)",
-      "url": "https://globalcareers-sas.icims.com/jobs/42297/software-developer-(emerging-careers)/job",
-      "location": "Cary, NC (hybrid)",
+      "title": "Software Developer (Emerging Careers) - Generative AI",
+      "url": "https://careers-sas.icims.com/jobs/42297/software-developer-%28emerging-careers%29/job",
+      "location": "Cary, NC",
       "opened": "2026-09-29",
       "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
+    },
+    {
+      "title": "C Software Developer (Emerging Careers)",
+      "url": "https://careers-sas.icims.com/jobs/42286/c-software-developer-%28emerging-careers%29/job",
+      "location": "Cary, NC",
+      "opened": "2026-08-03",
+      "date_source": "page text (iCIMS datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history found. SAS's own early-career page describes a rolling/seasonal hiring process rather than a fixed cycle date.",
+  "last_cycle_basis": "Unknown; no tracker history found. SAS early-career hiring is rolling rather than a fixed cycle date.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://globalcareers-sas.icims.com/jobs/search?ss=1&searchCategory=95184",
   "jobs_spec": null,
-  "evidence": "iCIMS pages read 2026-10-01 with Apply present: C Software Developer and Software Developer (Emerging Careers), Cary NC (datePosted 2026-08-03, 2026-09-29); bachelor's plus ~2 yrs, no sponsorship. No deadline stated.",
+  "evidence": "iCIMS pages fetched 2026-10-05, no closed notice: Software Developer (Emerging Careers) GenAI (posted 2026-09-29) and C Software Developer (Emerging Careers) (2026-08-03), Cary NC; bachelor's plus 2 yrs; no sponsorship per earlier read. SDET (Emerging Careers) is test. Associate SWE reqs gone.",
   "confidence": "medium"
 }

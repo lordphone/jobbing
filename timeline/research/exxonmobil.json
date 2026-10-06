@@ -1,7 +1,7 @@
 {
   "company": "ExxonMobil",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
       "location": "Spring, TX (Houston area)",
       "opened": "2026-09-08",
-      "date_source": "page text (datePosted meta)",
+      "date_source": "page text (datePosted meta), posting page shows Apply now",
       "deadline": null,
       "grad_window": "graduating 2026/2027 or within last three years",
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.exxonmobil.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "jobs.exxonmobil.com page fetched 2026-10-02: Global Trading new-grad posting (Apply now, listed in search, posted 2026-09-08) has a Trading Data, Analytics and AI track doing software dev/data engineering. Track-level, not a pure SWE title, so medium. Generic STEM Early Career posting not counted.",
+  "evidence": "jobs.exxonmobil.com posting page fetched 2026-10-05: Global Trading students-seeking-full-time posting (Apply now, grads 2026/2027 or within 3 yrs) includes a Trading Data, Analytics and AI track (software dev/data engineering). Track-level, not pure SWE, so medium. No SWE-specific entry roles in search; others experienced-hire.",
   "confidence": "medium"
 }

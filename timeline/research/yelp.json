@@ -1,15 +1,15 @@
 {
   "company": "Yelp",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting in tracker history Jul 2025-Jan 2026; tracker shows Montreal/Toronto engineer postings 2026-08-24/27 (now gone, entry level unverified)",
+  "checked": "2026-10-05",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "postings": [],
+  "status": "no_program_found",
+  "last_cycle_opened": "2024-11",
+  "last_cycle_basis": "tracker first-seen 2024-11-26: Entry Level Software Engineer (Canada: Montreal/Vancouver/Calgary/Toronto), two cycles ago; no US new-grad SWE Jul 2025-Jan 2026",
   "jobs_page": "https://yelp.careers",
   "jobs_spec": null,
-  "evidence": "yelp.careers Phenom data and uscareers-yelp.icims.com 2026-10-02: 20 US-site jobs, all sales/product/community except Senior ML Engineer (SF). No entry SWE. Tracker Toronto/Montreal engineer postings 14018/14019/14025 now gone but entry level unverified, so not called closed.",
-  "confidence": "low"
+  "evidence": "yelp.careers search for 'engineer' in browser 2026-10-05: 2 results, Senior ML Engineer (hybrid US) and Solutions Engineer; no entry SWE. Tracker's Toronto/Montreal engineer postings (2026-08) are gone; level unverified.",
+  "confidence": "medium"
 }

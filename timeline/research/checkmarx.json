@@ -1,8 +1,8 @@
 {
   "company": "Checkmarx",
   "tier": 6,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found in tracker history",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://checkmarx.com/company/careers/",
   "jobs_spec": null,
-  "evidence": "Careers site is Cloudflare-blocked to scripts; WebFetch saw only page 1 of 5 (DevOps in Israel, team leads India/Portugal, US sales/CS/product). Pages 2-5 unreadable, so no entry-level SWE not confirmed; engineering looks Israel-based.",
-  "confidence": "low"
+  "evidence": "Careers list read in browser 2026-10-05 (5 pages): engineering is Braga, Ramat Gan, Pune and senior/team lead; US/Canada roles are sales, CS, product. No entry SWE.",
+  "confidence": "medium"
 }

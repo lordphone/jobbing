@@ -1,26 +1,15 @@
 {
   "company": "Otis Worldwide",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "Software Engineer \u2013 Early Career Digital Technology Rising Leaders Program",
-      "url": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineer---Early-Career-Digital-Technology-Rising-Leaders-Program_20169121",
-      "location": "Farmington, CT (onsite)",
-      "opened": "2026-09-30",
-      "date_source": "workday startDate / 'Date Posted: 2026-09-30'",
-      "deadline": null,
-      "grad_window": "Bachelor's completed by June 2027 start",
-      "live_verified": "no"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history finds no Otis postings; no prior-cycle SWE new-grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
   "jobs_spec": "wd:otis/wd504/REC_Ext_Gateway",
-  "evidence": "Posting seen live via Workday API 2026-09-30. 2026-10-02: absent from cxs list and searches (Rising Leaders, Early Career); cxs detail 403, WebFetch empty, shared browser pane unusable. Can't tell if pulled or hidden; retry in browser.",
+  "evidence": "Workday board and cxs searches 2026-10-05 (software, early career, rising leaders): no early-career SWE. Only Embedded SWE (5+ yrs) and interns in US. Earlier file reported a Rising Leaders SWE seen 2026-09-30 now gone; I could not re-open its URL, so closed rests on that.",
   "confidence": "low"
 }

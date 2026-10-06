@@ -1,15 +1,15 @@
 {
   "company": "Trane Technologies",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'trane': only Application Engineer, Associate Product Engineer and finance data roles; 'Accelerated Development Program New Grad' (JR-7611, first seen 2026-09-08) is this cycle and not SWE",
+  "last_cycle_basis": "jobs.py history 'trane': only Application Engineer, Energy Analyst and finance roles; no entry SWE last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.tranetechnologies.com/global/en/home",
   "jobs_spec": "wd:tranetechnologies/wd12/Trane_Technologies_Careers",
-  "evidence": "Workday --all 2026-10-02 (168 postings; prior pass searched ~1540 listings): 2027 Accelerated Development Programs are Engineering, Operations, Supply Chain, Accounting & Finance. Associate Embedded SW Engineer (La Crosse, 2026-09-11) is a software test role; Associate Support Engineer - TRACE is customer support. No US entry SWE; ADP BrainBox AI (AI & Analytics) is Montreal, Canada-only, outside US/Toronto/Vancouver.",
+  "evidence": "Workday board 2026-10-05: 2027 Accelerated Development Programs are Engineering (needs no sponsorship), BrainBox AI (Montreal, out of scope). Associate Embedded SW Engineer La Crosse is a software test role (not counted). No US entry SWE.",
   "confidence": "medium"
 }

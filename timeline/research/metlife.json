@@ -1,7 +1,7 @@
 {
   "company": "MetLife",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -10,17 +10,27 @@
       "location": "Cary, NC",
       "opened": "2026-09-18",
       "date_source": "page text",
+      "deadline": "at least 2026-10-08",
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Development-Engineer/20744",
+      "location": "Cary, NC",
+      "opened": "2026-09-23",
+      "date_source": "page text",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; earlier entry-level JobDetail/16566 and /18191 are 404 with no dates",
+  "last_cycle_basis": "unknown; earlier entry-level JobDetail/16566 and /18191 returned 404 with no dates",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Opened JobDetail/20618 via WebFetch 2026-10-02: Associate Platform Engineer, Cary NC, posted 2026-09-18, Apply present, bachelor's, no deadline. Infra/automation-leaning, borderline SWE. Searches show other junior SWE roles only India/Malaysia; Cary SDE is mid-level.",
+  "evidence": "2026-10-05 pages opened, Apply present: Associate Platform Engineer (Cary, bachelor's, posted 2026-09-18, open at least 20 days) and Software Development Engineer (Cary, 1+ yr, internships count, posted 2026-09-23). Other entry roles are Malaysia/India. No sponsorship text.",
   "confidence": "medium"
 }

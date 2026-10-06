@@ -1,15 +1,15 @@
 {
   "company": "DENSO",
   "tier": 8,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker first seen 2025-09-25: Data Scientist 1, Southfield MI; Software Developer 1 Battle Creek 2026-07-13 (https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516)",
+  "last_cycle_basis": "tracker first seen: Data Scientist 1, Southfield MI 2025-09-25; Software Developer 1, Battle Creek 2026-07-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
   "jobs_spec": "oracle:hcwt.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (63 postings, 2026-10-02): no SWE entry roles listed (only Software Deployment 3, Manager). Software Developer 1 Maryville (job 25340, posted 2026-09-16) is absent and its requisition API returns empty, but the page is JS-only and the browser pane was unusable, so closure not confirmed.",
-  "confidence": "low"
+  "evidence": "Oracle board 2026-10-05 (57 postings): no entry SWE live; Software Developer 1 (Battle Creek, job 24516, 2026-07-13) no longer on board (tracker also marks closed). Only Summer 2027 internship and Software Deployment 3 / Manager roles. Page not opened (browser unreliable).",
+  "confidence": "medium"
 }

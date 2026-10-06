@@ -1,15 +1,26 @@
 {
   "company": "Wendy's",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer – Reliability & Configuration",
+      "url": "https://www.wendys-talent.com/jobs/46088",
+      "location": "Dublin, OH (remote work expected)",
+      "opened": "2026-08-17",
+      "date_source": "wendys-talent Jibe API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "last_cycle_basis": "No tracker history; no earlier new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.wendys-talent.com/jobs/categories/Information+Technology",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02, wendys-talent.com IT category (6 jobs) and 'software' search (7): Dublin OH Engineer - Cloud Foundations, Sr Engineer - Platform, Engineer - Reliability, managers; none entry-labeled, no early-careers program.",
-  "confidence": "medium"
+  "evidence": "Jibe API 2026-10-05 (6 IT jobs): Engineer - Reliability & Configuration states 'This entry level position', designs/develops software for POS config management (Puppet/Ruby), but asks BS CS or 4+ yrs and 2+ yrs experience, $74-126k. Borderline, not a grad program; rest are Sr/Manager. Apply page 200.",
+  "confidence": "low"
 }

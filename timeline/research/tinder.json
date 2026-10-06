@@ -1,15 +1,15 @@
 {
   "company": "Tinder",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history for Match Group/Tinder: only Data Scientist 2 (2025-12-12), not SWE",
+  "last_cycle_basis": "Tracker history for Match Group/Tinder: only Data Scientist 2 (2025-12-12) and 2024 postings, not entry SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/matchgroup",
   "jobs_spec": "lever:matchgroup",
-  "evidence": "lever:matchgroup --all (72): US engineering is Software Engineer II (Palo Alto), Software Engineer Android (Los Angeles, no level or years, mid-level), Android III, Senior; no entry-level SWE or new-grad track. Kept not_yet as prior.",
+  "evidence": "lever:matchgroup (71 postings --all): US engineering is Software Engineer, Android (LA, 2026-10-02, $95-115k, Kotlin experience, no level or new-grad wording), SWE II iOS/Android, Android III, Senior roles. No new-grad track; was not_yet before, no track evidence found.",
   "confidence": "medium"
 }

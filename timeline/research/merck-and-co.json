@@ -1,26 +1,26 @@
 {
   "company": "Merck & Co. (MSD)",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "2027 Future Talent Program - IT Emerging Talent Rotational (ETR) Program (Hybrid)",
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Super-Week---IT-Emerging-Talent-Rotational--ETR--Program--Hybrid-_R404472-1",
-      "location": "Rahway, NJ; North Wales, PA; West Point, PA",
-      "opened": "2026-09-22",
-      "date_source": "workday startDate",
+      "url": "https://jobs.merck.com/us/en/job/MERCUSR404472ENUS/2027-Future-Talent-Program-IT-Emerging-Talent-Rotational-ETR-Program-Hybrid",
+      "location": "Rahway, NJ; West Point, PA; North Wales, PA",
+      "opened": "2026-09-21",
+      "date_source": "page text (JSON-LD datePosted)",
       "deadline": "2026-10-09",
-      "grad_window": "start July 2027; requires 1 prior tech internship",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker 2024-10-25 (two cycles ago); nothing dated for 2025-26",
+  "last_cycle_basis": "none found for Jul 2025-Jan 2026; tracker shows Junior Data Engineer (San Jose CA) first seen 2024-10-25, two cycles ago",
   "excluded_reason": null,
   "no_sponsorship": true,
-  "jobs_page": "https://msd.wd5.myworkdayjobs.com/searchjobs",
+  "jobs_page": "https://jobs.merck.com/us/en/search-results",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Workday detail 2026-10-02: IT ETR program live, entry-level, endDate 2026-10-09, 'No Visa Sponsorship'. IT rotation, borderline SWE. No other US entry SWE; others are Associate Director or co-op.",
+  "evidence": "Workday CXS 2026-10-05: 2027 IT Emerging Talent Rotational (R404472) live, canApply true, end date 2026-10-09 (effective 10/8), 'No Visa Sponsorship', start July 2027; page-text posted date 2026-09-21 kept. Other US IT roles need experience.",
   "confidence": "medium"
 }

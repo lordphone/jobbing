@@ -1,7 +1,7 @@
 {
   "company": "Deloitte",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-08-11",
       "date_source": "page text / JSON-LD datePosted",
       "deadline": "2026-10-25",
-      "grad_window": "by Summer 2027",
+      "grad_window": "Graduating by Summer 2027 or completed bachelor's",
       "live_verified": "browser"
     },
     {
@@ -21,8 +21,8 @@
       "opened": "2026-05-21",
       "date_source": "page text / JSON-LD datePosted",
       "deadline": "2026-10-25",
-      "grad_window": "by Summer 2027",
-      "live_verified": "no"
+      "grad_window": "Graduating by Summer 2027 or completed bachelor's",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08",
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://apply.deloitte.com",
   "jobs_spec": null,
-  "evidence": "apply.deloitte.com: live entry SWE Analyst roles are all Government & Public Services; quote: 'Ability to obtain and maintain a U.S. Security Clearance'; recruiting ends 10/25/2026. Prior AI Innovation Analyst 361321 now Page not found. Commercial Infrastructure Engineering Analyst (ends 12/1/2026) is infra, borderline.",
+  "evidence": "Fetched 2026-10-05: GPS SWE Analyst 350277 and Delivery Analyst 362516 live, quote 'Ability to obtain and maintain a U.S. Security Clearance'. Non-GPS SWE Analyst (Chicago 350472, 2026-07-31) now page not found (closed). Tech Transformation Analyst 350487 is live (no clearance) but SAP/Salesforce consulting, not SWE.",
   "confidence": "medium"
 }

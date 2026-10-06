@@ -1,26 +1,15 @@
 {
   "company": "Harris Computer",
   "tier": 6,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer, RPG",
-      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1",
-      "location": "Tennessee, United States (no city listed)",
-      "opened": "2026-08-04",
-      "date_source": "tracker first seen (Workday postedOn 'Posted 30 Days Ago', startDate 2026-08-31)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: Software Engineer I first seen 2025-01-31 (outside window); Associate Software Developer, Ontario Canada 2025-12-19 (city unspecified, not counted)",
+  "last_cycle_basis": "tracker: Software Engineer I first seen 2025-01-31 (outside window); Associate Software Developer, Ontario 2025-12-19 (no city, not counted)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://harriscomputer.wd3.myworkdayjobs.com/1",
   "jobs_spec": "wd:harriscomputer/wd3/1",
-  "evidence": "Workday board (63 postings) lists Associate Software Engineer, RPG (Tennessee), live via API, startDate 2026-08-31; no citizenship or sponsorship text, no deadline. Rolling entry-level posting; no class year.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday 2026-10-05: Associate Software Engineer RPG (Tennessee, R0045601, start 2026-08-31) gone from board and search; posting API returns permission denied (live ones 200). Remaining US 'Software Engineer/Developer' roles not entry-level titles.",
+  "confidence": "medium"
 }

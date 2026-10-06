@@ -1,26 +1,15 @@
 {
   "company": "Visa",
   "tier": 5,
-  "checked": "2026-10-02",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF088720W",
-      "location": "Austin, TX",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'Software Engineer - New College Grad' (Austin, TX, SmartRecruiters) first seen 2025-09-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://visa.wd5.myworkdayjobs.com/Visa",
   "jobs_spec": "wd:visa/wd5/Visa",
-  "evidence": "Workday 2026-10-02: 2027 New College Grad postings (Austin/Bellevue/Foster City) are gone (404). Plain 'Software Engineer' (Austin, posted 10-01, canApply, 'Bachelor's degree OR 3+ years') is the only non-senior US SWE; entry-level by degree-only ask, not labeled new grad.",
-  "confidence": "low"
+  "evidence": "Workday search 2026-10-05: 'new college grad' returns 0; 2027 hits only interns/finance. The 2027 SWE New College Grad reqs seen 2026-09-16 are gone. Open 'SW Engineer' (Denver, Austin) are experienced reqs (bachelor's or 3+ yrs, prefer 2+ yrs), not new-grad.",
+  "confidence": "medium"
 }

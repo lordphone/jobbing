@@ -1,15 +1,15 @@
 {
   "company": "The Associated Press (AP)",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ap.org/go/Technology-Jobs/4334700/",
   "jobs_spec": null,
-  "evidence": "Browser pane: careers.ap.org Technology Jobs and keyword 'engineer' search each return one result, Research Product Manager AP Intelligence (NY). No software roles, no tracker history.",
-  "confidence": "medium"
+  "evidence": "careers.ap.org search read over HTTP: open roles are Director Newsroom Communications, Technical Support Specialist (Rome), Production Coordinator, Live Blog Editor, Research Product Manager. Keywords engineer/software/developer return no software roles.",
+  "confidence": "high"
 }

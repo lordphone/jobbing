@@ -1,15 +1,15 @@
 {
-  "company": "Fiverr",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE cycle.",
+  "last_cycle_basis": "no this-cycle or last-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Fiverr",
+  "status": "no_program_found",
   "jobs_page": "https://www.fiverr.com/jobs",
   "jobs_spec": null,
-  "evidence": "fiverr.com/jobs loads partially in browser (Tech roles in Tel Aviv, Kyiv; none US SWE seen) but 'See more' list blocked by PerimeterX human check; not bypassed. Earlier search: graduate SWE listing is Tel Aviv. Retry.",
-  "confidence": "low"
+  "evidence": "fiverr.com/jobs page data (Comeet-fed) 2026-10-05 lists 21 roles: engineering only Senior/Lead in Tel Aviv and Kyiv; New York roles are content/design. No US entry-level SWE.",
+  "confidence": "medium"
 }

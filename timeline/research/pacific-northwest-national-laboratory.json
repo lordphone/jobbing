@@ -1,7 +1,5 @@
 {
   "company": "Pacific Northwest National Laboratory (PNNL)",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -9,18 +7,20 @@
       "url": "https://careers.pnnl.gov/jobs/12171",
       "location": "Richland, WA",
       "opened": "2026-09-24",
-      "date_source": "page text (JobPosting datePosted)",
+      "date_source": "jibe api posted_date",
       "deadline": "2026-10-07",
       "grad_window": null,
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only postdoc postings (2026-08); no earlier new-grad SWE found.",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history only shows postdoc postings (2026-08); no earlier new-grad SWE found",
+  "excluded_reason": "clearance",
   "jobs_page": "https://careers.pnnl.gov",
-  "jobs_spec": null,
-  "evidence": "Jibe API and posting page 2026-10-02: Early Career SWE 12171 (BS, validThrough 2026-10-07) says 'Requirements: U.S. Citizenship' and 'requires the ability to obtain and maintain a federal security clearance'. Other SWE roles need 2+ yrs and the same clearance.",
-  "confidence": "high"
+  "evidence": "Jibe API 2026-10-05 (69 jobs): Early Career SWE 12171 posted 2026-09-24, expires 2026-10-07; posting says it requires the ability to obtain and maintain a federal security clearance (DOE 10 CFR 710). Entry Level Cyber Security Engineer 12191 same. Software Engineer II needs BS+2 yrs.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "last_cycle_opened": null,
+  "no_sponsorship": false,
+  "jobs_spec": null
 }

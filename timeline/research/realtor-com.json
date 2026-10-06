@@ -1,15 +1,26 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "unknown",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Software Engineer - Backend",
+      "url": "https://boards.greenhouse.io/rdccareers/jobs/7800190003",
+      "location": "Austin, TX",
+      "opened": "2026-07-10",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-07-10",
-  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend, Austin TX (boards.greenhouse.io/rdccareers/jobs/7800190003), now closed",
+  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend (junior), Austin TX, https://boards.greenhouse.io/rdccareers/jobs/7800190003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "Could not read board: careers.realtor.com blocks WebFetch/curl/browser pane; gh:rdccareers API returns 0. Search shows Austin Junior SWE and intern posts via third parties only; unverified.",
-  "confidence": "low"
+  "evidence": "careers.realtor.com blocks fetch and browser. Greenhouse rdccareers lists 0 jobs; Backend SWE Austin (7800190003, first seen 2026-07-10) returns 404 and redirects to search page. Only 2027 interns otherwise.",
+  "confidence": "medium"
 }

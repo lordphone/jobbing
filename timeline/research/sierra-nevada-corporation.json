@@ -1,26 +1,15 @@
 {
   "company": "Sierra Nevada Corporation",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
-      "location": "Folsom, CA; Dayton, OH; Plano, TX",
-      "opened": "2026-08-27",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-07-09",
   "last_cycle_basis": "tracker first-seen: Software Engineer I, Southern Pines NC/Reston VA (snc Workday); later SWE I postings Sep-Oct 2025",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site",
   "jobs_spec": "wd:snc/wd1/snc_external_career_site",
-  "evidence": "Workday board (55 postings): Software Engineer I (0-2+ yrs) is live but quotes \"applicant must be a U.S. Citizen, lawful permanent resident\" (ITAR); Project Engineer I roles require clearance. Other SWE roles are Summer 2027 interns. Changed from not_yet: SWE I now live but excluded.",
-  "confidence": "high"
+  "evidence": "Workday API (54 postings): no non-intern software role listed now; SWE roles are Summer 2027 interns. Software Engineer I (Lone Tree R0030526, opened 2026-08-26) is no longer on the board; an earlier run quoted \"applicant must be a U.S. Citizen, lawful permanent resident\" (ITAR). Page unreadable in browser.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Bath & Body Works",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.bathandbodyworks.com/jobs",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02: board has 2409 jobs, mostly retail; category facets show only 1 Information Technology, 1 Data Science & Analytics, 1 Internship posting. Keyword filters ignored, so those postings were not individually read.",
+  "evidence": "Page lists 2423 jobs (US 2300); category facets show IT 2, Data Science 1, Internship 1; API blocked and filters ignored, so titles not read. Earlier read found only Junior Analyst OMS and warehouse systems roles. No SWE new-grad seen.",
   "confidence": "medium"
 }

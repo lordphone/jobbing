@@ -1,7 +1,7 @@
 {
   "company": "Foot Locker (part of Dick's Sporting Goods)",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.footlocker.com",
   "jobs_spec": null,
-  "evidence": "Jibe API (careers.footlocker.com/api/jobs, 2900 of 3016 jobs scanned) 2026-10-02: req 71916 Associate SWE not listed and its page returns 404 (no longer accepting). Remaining engineer roles senior/lead; only interns otherwise.",
-  "confidence": "high"
+  "evidence": "Jibe API 2026-10-05 (keyword searches; list capped): remote engineer roles need 3+ yrs, are senior, and state no sponsorship. Earlier-seen Associate Software Engineer (req 71916, 2026-09-15) not listed and page 404, so closed.",
+  "confidence": "medium"
 }

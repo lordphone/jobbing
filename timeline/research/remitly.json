@@ -1,7 +1,7 @@
 {
   "company": "Remitly",
   "tier": 3,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,28 @@
       "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706",
       "location": "Seattle, WA",
       "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate 2026-08-28 (postedOn: 30+ days)",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "AI Native Software Engineer (I)",
+      "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+      "location": "Seattle, WA",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-04-24",
-  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24 Pricing Platform, 2026-07-28 Card); none in 2025-07..2026-01 window",
+  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24, 2026-07-28); none in 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "jobs_spec": "wd:remitly/wd5/Remitly_Careers",
-  "evidence": "wd:remitly board and Workday API re-checked 2026-10-02: SDE I IHUB Seattle canApply true (live), startDate 2026-08-28, no years ask, no class year or deadline. AI Native Software Engineer has no level; not counted.",
+  "evidence": "Workday API: SDE I IHUB Seattle (canApply true, start 2026-08-28) and AI Native Software Engineer I Seattle (2026-09-25) live. Remitly posts SDE 1 year-round. No deadline.",
   "confidence": "medium"
 }

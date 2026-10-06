@@ -1,15 +1,15 @@
 {
   "company": "Zurich Insurance Group (Zurich North America)",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found this run",
+  "last_cycle_basis": "Toronto Data Engineer first seen 2025-11-20 (tracker); level unclear, current Toronto Data Engineer posting is mid-level",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.careers.zurich.com/search/?q=&locationsearch=US",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02 searched careers.zurich.com US (software, developer, data, graduate, etc.): only Underwriting Trainee (Summer 2027), UA Associate, intern roles; Data Engineer is Mexico. No entry-level SWE in US.",
+  "evidence": "WebFetch 2026-10-05 careers.zurich.com US (software: 17 results; graduate: 12 Summer 2027 underwriting trainees) and Toronto (22 jobs) searches: no entry SWE; Toronto Data Engineer (posted 2026-09-24) is mid-level.",
   "confidence": "medium"
 }

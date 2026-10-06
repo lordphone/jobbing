@@ -1,15 +1,15 @@
 {
   "company": "Cribl",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-01-13",
-  "last_cycle_basis": "tracker: Data Engineer, Remote USA, first seen 2026-01-13, https://job-boards.greenhouse.io/cribl/jobs/5739562004; Software Engineer - Core Platform 2026-01-21",
+  "last_cycle_opened": "2026-01-21",
+  "last_cycle_basis": "tracker first seen: Software Engineer - Core Platform (Remote USA), https://job-boards.greenhouse.io/cribl/jobs/5728001004; unlabeled entry level",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cribl",
   "jobs_spec": "gh:cribl",
-  "evidence": "Greenhouse API 57 postings: SWE roles are Sr titles; no entry-level SWE live. Jan 2026 tracker postings are gone.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 61 postings: only Software Engineer, Core Platform (US remote, 2026-08-13) is non-senior but not labeled entry-level and mentions possible US citizenship for FedRAMP; others Sr. No new-grad posting.",
+  "confidence": "medium"
 }

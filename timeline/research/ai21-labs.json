@@ -1,15 +1,15 @@
 {
   "company": "AI21 Labs",
   "tier": 2,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no history found",
+  "last_cycle_basis": "history has no postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.comeet.com/jobs/ai21/E6.001",
   "jobs_spec": null,
-  "evidence": "Comeet board (first-party) says no open positions. Engineering is Tel Aviv-based; no US entry-level SWE found.",
+  "evidence": "Comeet board redirects to Comeet root in browser; ai21.com/careers blocked by Cloudflare. Search shows only Tel Aviv roles (Software Engineer - Solutions, 3+ yrs). No US entry-level SWE found.",
   "confidence": "medium"
 }

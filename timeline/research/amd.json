@@ -1,15 +1,15 @@
 {
   "company": "AMD",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-24",
   "last_cycle_basis": "tracker first seen: Software Developer - GPU IO Libraries (Calgary, Canada), careers.amd.com, active 2025-07-24",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.amd.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "AMD careers API (icims backed, US): 'new grad'/'graduate'/'entry level' searches return only 2027 interns/co-ops, FAE/TSE graduate rotational programs (San Jose), and unlevelled RTL roles. No entry-level full-time SWE labeled; SWE titles unlabeled by level.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "AMD careers JSON API (careers.amd.com/api/jobs, 490 US postings scanned 2026-10-05): only FAE/Technical Sales Engineer Graduate Rotational roles (San Jose, 2026-09-24) and 2027 interns/co-ops; SWE titles carry no level and none say new grad. No entry-level SWE.",
+  "confidence": "medium"
 }

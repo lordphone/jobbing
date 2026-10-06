@@ -1,6 +1,7 @@
 {
   "company": "Texas Instruments",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,18 +10,17 @@
       "location": "Richardson, TX",
       "opened": "2026-09-15",
       "date_source": "oracle ExternalPostedStartDate",
-      "deadline": null,
       "grad_window": "new college graduates (12-month TMG Development program)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "deadline": null
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no new-grad SWE posting between 2025-07 and 2026-01; earliest 2026-04-13",
+  "last_cycle_basis": "tracker history has no new-grad SWE posting between 2025-07 and 2026-01; TI software dev programs posted Jun and Sep 2026 (Career Accelerator Program - Software Engineer 2026-06-16, Software Development Engineer - Development Program 2026-09-10, both now off the board)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:edbz.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (157 postings, --all) plus requisition API: only live US new-grad software-type role is Career Accelerator Program Data Engineer (Richardson TX, BS EE/CompE, 12-month program); no sponsorship text, no end date. Borderline title; SWE roles are interns/experienced.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Oracle board (157 postings, --all) plus requisition API 2026-10-05: only live US new-grad software-type role is CAP Data Engineer (Richardson TX, BS EE/CompE, 12-month program); no sponsorship text found, no end date. Tracker SWE dev-program posts (Sep 2026) no longer returned by API. Borderline title.",
+  "confidence": "medium"
 }

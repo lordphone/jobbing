@@ -1,7 +1,5 @@
 {
   "company": "Navy Federal Credit Union",
-  "tier": 5,
-  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/jobs",
   "jobs_spec": "oracle:jobs.navyfederal.org/nfcu",
-  "evidence": "Oracle API --all 2026-10-02, 91 postings: 2027 Summer Associate Internships, year-round interns, and Application Engineer (Core Banking) needing 7+ yrs. Tracker's Associate Application Engineer gone. No entry FT SWE.",
-  "confidence": "high"
+  "evidence": "Oracle API --all 2026-10-05 (~90): only 2027 summer/year-round interns, Senior/Principal engineers, Mainframe Support Analyst; no entry FT SWE. Tracker's Associate Application Engineer (job 32116, 2026-08-26) not on API; browser pane unusable, so not confirmed closed.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 5
 }

@@ -1,15 +1,15 @@
 {
   "company": "SambaNova Systems",
   "tier": 7,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no last-cycle (2025-07 to 2026-01) new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "no last-cycle (2025-07 to 2026-01) new-grad SWE posting in tracker history; this cycle's 'AI Systems Performance Engineer New Grad' first seen 2026-07-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/sambanovasystems",
   "jobs_spec": "gh:sambanovasystems",
-  "evidence": "Greenhouse API 2026-10-02 (63 postings): 'AI Systems Performance Engineer New Grad' (San Jose, first seen 2026-07-13) returns 404 from API and its page redirects to ?error=true then the careers listing, so closed. Other US engineering roles are Senior/Principal/hardware.",
+  "evidence": "Greenhouse API 2026-10-05: 'AI Systems Performance Engineer New Grad' (San Jose, first seen 2026-07-13, job 6115124004) not on board; its page redirects to ?error=true then careers listing (fetched 2026-10-05), so closed. Remote-US Forward Deployment Engineer not labeled entry. Other roles Senior/Principal/hardware.",
   "confidence": "high"
 }

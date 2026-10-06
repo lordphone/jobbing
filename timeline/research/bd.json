@@ -1,15 +1,15 @@
 {
   "company": "BD (Becton, Dickinson and Company)",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-01-17",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineer I', Sparks, MD (two cycles ago; nothing new-grad SWE in the 2025-07 to 2026-01 window)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker: Software Engineer I, Sparks MD, 2025-01-17 (two cycles ago, outside last-cycle window); none in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
   "jobs_spec": "wd:bdx/wd1/EXTERNAL_CAREER_SITE_USA",
-  "evidence": "Workday (113, --all) 2026-10-02: only senior software roles and Entry Level Electrical Service Engineer field roles; no Software Engineer I live. Same as prior.",
-  "confidence": "high"
+  "evidence": "Workday EXTERNAL_CAREER_SITE_USA (116) 2026-10-05: US software roles are Senior/Staff/Principal; entry roles are Entry Level Electrical Service Engineer (not SWE) and Spring 2027 procurement. History: Software Engineer I (Sparks MD) posted 2025-01-17, two cycles ago; none live now.",
+  "confidence": "medium"
 }

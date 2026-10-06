@@ -1,15 +1,15 @@
 {
   "company": "NASA",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; NASA civil-service roles are on USAJOBS, not tracked",
+  "last_cycle_basis": "No tracker history; federal postings run year-round on USAJOBS, no dated new-grad cycle found",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://www.usajobs.gov/search/results/?a=NN00",
   "jobs_spec": null,
-  "evidence": "nasa.gov/careers (via web search): 'Other than extremely rare exceptions, you must be a U.S. citizen in order to work for NASA as a civil service employee'; Pathways Recent Graduate also requires citizenship. USAJOBS not opened.",
-  "confidence": "medium"
+  "evidence": "nasa.gov/careers/how-to-apply fetched 2026-10-05: 'Other than extremely rare exceptions, you must be a U.S. citizen in order to work for NASA as a civil service employee.' USAJOBS postings not individually opened.",
+  "confidence": "high"
 }

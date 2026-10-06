@@ -3,13 +3,13 @@
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no dated source found",
+  "last_cycle_basis": "no dated first-party source found; campus boards (Handshake, Rice CDO) list TCS Software Engineer (Entry-Level), undated",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.tcs.com/careers/united-states",
+  "jobs_page": "https://ibegin.tcsapps.com/candidate/?geography=US&language=EN",
   "jobs_spec": null,
-  "evidence": "tcs.com/careers/united-states returns 403; ibegin/nextstep blocked. Web search: US entry-level SWE hiring is rolling via iBegin with no open/close date; one third-party summary says applicants must not need visa sponsorship (unverified). Could not read first-party board.",
+  "evidence": "iBegin (ibegin.tcsapps.com, Angular app) has no public job-list API in its bundles and the shared browser pane was unusable 2026-10-05; web search shows only campus-board TCS entry-level Software Engineer listings (no dates). First-party board not read, so unknown.",
   "confidence": "low",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "tier": 10
 }

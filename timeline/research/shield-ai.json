@@ -1,6 +1,7 @@
 {
   "company": "Shield AI",
   "tier": 8,
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-07-10",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/shieldai",
   "jobs_spec": "lever:shieldai",
-  "evidence": "Lever --all: Engineer I roles are electrical/PCB/quality/RF, not software; SWE roles (Mission Systems, Perception, GCS) unleveled or Senior/Staff; only 2027 interns/co-ops. Sampled SWE posting says \"U.S. citizenship may be required for clearance eligibility\" (not a hard quote for excluded).",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Lever --all (594, 2026-10-05): Engineer I roles are electrical/PCB/RF/quality, not software; SWE roles (Mission Systems, Perception, Safety-Critical, GCS) are unleveled with 5+ yrs or II/Sr; only 2027 interns/co-ops. SWE I Hardware Test (Dallas) last cycle is gone. Sample: 'citizenship may be required' (not hard quote).",
+  "confidence": "medium"
 }

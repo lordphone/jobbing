@@ -1,15 +1,15 @@
 {
   "company": "Globant",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; entry engineering hiring is mainly Latin America/India",
+  "last_cycle_basis": "No earlier US new-grad posting found; tracker has none",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://career.globant.com/?country=US",
   "jobs_spec": null,
-  "evidence": "Read the career site's own API (/api/sap/job-requisition?country=US): 15 US jobs, all titles read; architects, VPs, consultants, and a C# Full Stack Developer at $100-130k (experienced). No junior/new-grad SWE.",
-  "confidence": "high"
+  "evidence": "Globant career API 2026-10-05: 10 US jobs (Canada 0); architects, leads, VP, client partners, AI QA Engineer (6+ yrs), C# Full Stack Developer (Lewisville TX, no entry label); nothing entry-level. Entry hiring mostly LatAm/India.",
+  "confidence": "medium"
 }

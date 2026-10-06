@@ -1,15 +1,15 @@
 {
   "company": "Wayfair",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; Frontend SWE I Early Careers (Boston) on Greenhouse trackinglink board; US 'Software Engineer I' from 2024 cycle",
+  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; 'Frontend Software Engineer I - Early Careers' (Boston) also on old Greenhouse link board; 2024 cycle US 'Software Engineer I' from 2024-06/07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.wayfair.com/careers/jobs?selectedJobTypeIds=8%2C4",
   "jobs_spec": null,
-  "evidence": "One browser load of wayfair.com/careers showed 418 jobs (Engineering & Technology 40, Early Talent 44) but listed only retail/warehouse; later loads hit 'Access to this page has been denied' (bot block, not bypassed). Greenhouse trackinglink API 404. Retry in browser.",
+  "evidence": "Job list is client-rendered; browser pane unreliable 2026-10-05, could not re-read it. Carried forward from earlier same-day browser read: Early Talent filter showed only Boston Summer 2027 business roles, no engineering. Early-career SWE posted Oct 2025 last cycle (Toronto).",
   "confidence": "low"
 }

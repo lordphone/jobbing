@@ -1,18 +1,28 @@
 {
   "company": "Keysight",
   "tier": 7,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
+    {
+      "title": "R&D Software Engineer, Recent Graduate",
+      "url": "https://jobs.keysight.com/external/jobs/54048?lang=en-us",
+      "location": "Santa Rosa, CA",
+      "opened": "2026-08-27",
+      "date_source": "keysight jibe API posted_date",
+      "deadline": null,
+      "grad_window": "BS/MS CS/CE/EE; Campus category; completed within last 12 months",
+      "live_verified": "api"
+    },
     {
       "title": "Software Engineer \u2013 Oscilloscope & Measurement Solutions (Job Type: Campus)",
       "url": "https://jobs.keysight.com/external/jobs/54394?lang=en-us",
       "location": "Colorado Springs, CO",
-      "opened": "on or before 2026-10-02",
-      "date_source": "page text (no date shown)",
+      "opened": "2026-09-23",
+      "date_source": "keysight jibe API posted_date",
       "deadline": null,
       "grad_window": "BS/MS CE/EE/CS; Job Type Campus",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: Keysight job search (165 'software engineer' US results) shows req 54394 with Job Type 'Campus', Apply present; page says 'Visa Sponsorship is not available'; no citizenship/green card requirement in text. Earlier req 54139 (cited as citizenship-restricted) now 404. Regular R&D SWE roles not entry-labeled.",
+  "evidence": "Keysight Jibe API 2026-10-05: R&D Software Engineer, Recent Graduate (Santa Rosa, req 54048, posted 2026-08-27) and Software Engineer Oscilloscope (Campus, req 54394, 2026-09-23) both applyable. 54048 has export-control note (non-US persons need government authorization, not barred); no visa sponsorship on both.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Dolby Laboratories",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: only 2024-07-12 New Grad Software Engineer Intern (Fall 24), an internship; nothing 2025-07 to 2026-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.dolby.com/careers",
   "jobs_spec": "eightfold:jobs.dolby.com/dolby.com",
-  "evidence": "Eightfold API (21, --all) 2026-10-02: US SWE roles are Staff/Sr Staff; DVIP QA/SDET (Sunnyvale) is QA; only entry-type post is PhD Research Intern (Summer 2027), an internship. No early-career SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Eightfold API 2026-10-05 (21): US SWE roles are Staff/Sr Staff; DVIP QA/SDET (Sunnyvale) is QA; only entry-type post is PhD Research Intern (Summer 2027), an internship. No early-career SWE.",
+  "confidence": "high"
 }

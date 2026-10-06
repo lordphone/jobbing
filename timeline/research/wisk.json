@@ -1,15 +1,15 @@
 {
   "company": "Wisk",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows 'Software Engineer - Autonomy Integration' (Remote US) first seen 2026-06-11, closed; level unclear.",
+  "last_cycle_basis": "Tracker shows 'Software Engineer - Autonomy Integration' (Remote US) first seen 2026-06-11, now gone; level unclear.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers",
   "jobs_spec": "wd:wisk/wd108/Wisk_Careers",
-  "evidence": "Workday API lists 3 postings (Staff Test Pilot, Human Factors, Staff Flight Test Instrumentation), none software. Earlier Autonomy Integration SWE (2026-06) is gone. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Workday API rechecked: 3 postings (Staff Test Pilot, Human Factors, Staff Flight Test Instrumentation), none software. wisk.aero/careers links to the same Workday board. Earlier Autonomy Integration SWE (2026-06) is gone; no entry-level SWE.",
+  "confidence": "high"
 }

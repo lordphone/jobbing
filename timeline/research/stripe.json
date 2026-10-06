@@ -1,56 +1,56 @@
 {
   "company": "Stripe",
   "tier": 3,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "location": "New York, NY; Seattle, WA; South San Francisco, CA",
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2027, max 18 months experience",
+      "grad_window": "Degree obtained by summer 2027",
       "live_verified": "browser"
     },
     {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto, ON, Canada",
+      "location": "Toronto, ON",
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2027, max 18 months experience",
+      "grad_window": "Degree obtained by summer 2027",
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer, Early Career - Immediate Start",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
       "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "location": "New York, NY; Seattle, WA; South San Francisco, CA",
       "opened": "2026-09-17",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2026, start before 2026-12-01",
-      "live_verified": "api"
+      "grad_window": "Degree obtained by summer 2026; start before Dec 1 2026",
+      "live_verified": "browser"
     },
     {
-      "title": "Software Engineer, Early Career - Immediate Start",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
       "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-      "location": "Toronto, ON, Canada",
+      "location": "Toronto, ON",
       "opened": "2026-09-17",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree by summer 2026, start before 2026-12-01",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "jobs.py history: first new-grad SWE tracker sighting 2025-09-02, https://stripe.com/jobs/search?gh_jid=7210112",
+  "last_cycle_basis": "jobs.py history: first new-grad SWE tracker sighting 2025-09-02 (stripe.com/jobs/search?gh_jid=7210112); 2024 cycle 2024-08-23.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://stripe.com/jobs/search",
   "jobs_spec": "gh:stripe",
-  "evidence": "Greenhouse API lists US and Toronto New Grad SWE (2026-08-31, degree by summer 2027) plus Early Career Immediate Start; posting page shows Apply now, no deadline. Other locations are non-US.",
+  "evidence": "gh:stripe API lists US and Toronto New Grad SWE (2026-08-31) and Early Career Immediate Start (2026-09-17). Opened New Grad US page: Apply now, degree by summer 2027, no deadline or sponsorship text. Also non-US New Grad roles exist.",
   "confidence": "high"
 }

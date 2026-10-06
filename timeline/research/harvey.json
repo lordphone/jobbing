@@ -1,15 +1,36 @@
 {
   "company": "Harvey",
   "tier": 2,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-02",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Winter 2026 - Spring 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "location": "New York, NY",
+      "opened": "2026-10-02",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "Winter 2026 - Spring 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-08-22",
   "last_cycle_basis": "jobs.py history: Software Engineer - New Grad, SF, Harvey Ashby posting first seen 2025-08-22",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/harvey",
   "jobs_spec": "ashby:harvey",
-  "evidence": "Ashby board (321 postings, 2026-10-02): only SWE interns (Summer/Winter 2027, posted 2026-10-02); no new-grad SWE yet. Harvey posted one 2025-08-22, so one may follow. Non-senior SWE roles earlier noted to need 2+ years.",
-  "confidence": "medium"
+  "evidence": "Ashby API (--all) lists two live SWE New Grad (2027) postings, SF and NYC, published 2026-10-02; grad Winter 2026-Spring 2027. No citizenship, sponsorship or deadline line. Toronto/NY/SF interns not counted.",
+  "confidence": "high"
 }

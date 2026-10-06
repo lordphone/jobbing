@@ -1,5 +1,7 @@
 {
   "company": "Marshall Wace",
+  "tier": 4,
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -15,12 +17,10 @@
   ],
   "last_cycle_opened": "2026-01",
   "last_cycle_basis": "tracker: Technology Graduate (London) first seen 2026-01-06; earlier Software Engineer New Grad 2024-08-04 (London; NYC; Singapore)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mw-tech-grad",
   "jobs_spec": "gh:mw-tech-grad",
-  "evidence": "NY Software/Infrastructure Graduate 2027 (first seen 2026-07-31): API 404 and page redirects to board with error 2026-10-02, absent from list = closed. Live software grads are London/HK/Singapore only. Quant Developer (London/NY) is quant implementation, master's required, not SWE.",
-  "confidence": "medium",
-  "tier": 4,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "NY Software/Infrastructure Graduate 2027 (first seen 2026-07-31): page redirects to board with error=true, API 404, absent from list = closed. Live software grads London/HK/Singapore only. Quant Developer 2027 (London/NY, 2026-08-26) is quant implementation, Master's required, not counted.",
+  "confidence": "medium"
 }

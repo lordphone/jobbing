@@ -1,15 +1,15 @@
 {
   "company": "Dyson",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US software new-grad posting found; tracker history has none",
+  "last_cycle_basis": "no US software new-grad posting found; tracker history has none; US early-careers page https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states lists no software track",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.dyson.com/en-gb/search-results?keywords=software+engineer&location=united+states",
   "jobs_spec": null,
-  "evidence": "Browser on careers.dyson.com 2026-10-02: 'software' search (44) is all China/Singapore/UK; 'United States' search (32) is sales, finance, service, one Reliability Engineer; no US software or new-grad roles.",
+  "evidence": "Browser 2026-10-05: keyword/US URL filters still not applied (460 global jobs, none US SWE seen); US early-careers page lists marketing, sales, finance, direct, supply chain only; no US SWE grad track.",
   "confidence": "medium"
 }

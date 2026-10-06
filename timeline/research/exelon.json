@@ -1,15 +1,15 @@
 {
   "company": "Exelon",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; no new-grad SWE posting found",
   "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
   "jobs_spec": null,
-  "evidence": "Exelon careers API 2026-10-02 (111 jobs): Data Engineer 1 (2026-09-28, Oakbrook Terrace) is BI/ETL data warehouse, not SWE; Associate Engineer - New Graduate is utility engineering; 2027 IT/CS and data science interns only. No SWE new-grad.",
-  "confidence": "medium"
+  "evidence": "Exelon careers API 2026-10-05 (software, developer, data engineer, new graduate, 2027, associate, IT): no software developer or data engineer postings; only utility engineering, ServiceNow/Oracle senior IT roles and a 2027 cyber security summer internship.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

@@ -1,15 +1,15 @@
 {
   "company": "Curtiss-Wright",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Graduate Engineer",
       "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
       "location": "Frederick, MD",
-      "opened": "2026-08-07",
-      "date_source": "workday startDate (tracker first seen 2026-08-07)",
+      "opened": "on or before 2026-08-07",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday API (87, --all) + posting text: Graduate Engineer, Frederick MD (0-2 yrs; develop/test/debug simulation software for power plant simulators; degree listed mechanical/nuclear/chemical), canApply true; no citizenship line. Weak SWE fit. Other US software roles senior.",
-  "confidence": "medium"
+  "evidence": "Workday API (86, --all) + detail 2026-10-05: Graduate Engineer Frederick MD ('under close supervision... develop, test, debug computer software and product hardware') listed live; no citizenship line. Weak SWE fit. Mississauga Embedded SWE not entry. Other grad roles are manufacturing.",
+  "confidence": "low"
 }

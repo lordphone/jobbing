@@ -3,14 +3,24 @@
   "status": "open",
   "postings": [
     {
+      "title": "Associate Software Engineer",
+      "url": "https://careers.capgemini.com/job/Nashville%2C-TN-Associate-Software-Engineer-TN-37201/1444508633/",
+      "location": "Nashville, TN",
+      "opened": "2026-10-05",
+      "date_source": "page text (WebFetch)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
       "title": "Junior Frontend Developer",
       "url": "https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-Frontend-Developer-GA-30301/1435951433/",
       "location": "Atlanta, GA",
       "opened": "2026-09-10",
-      "date_source": "page text",
+      "date_source": "page text (WebFetch)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-12-12",
@@ -18,9 +28,9 @@
   "excluded_reason": null,
   "jobs_page": "https://careers.capgemini.com",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-02 of posting page: Apply now shown, posted Sep 10 2026, '0-2 years incl. internships', no sponsorship/clearance text. Junior Software Developer (Nashville) says 'position has been filled'. Tracker Associate Data Engineer (PA) is data engineering, not counted. Page read via WebFetch, not browser pane.",
+  "evidence": "Fetched 2026-10-05: Associate Software Engineer (Nashville, posted Oct 5) and Junior Frontend Developer (Atlanta, 0-2 yrs, internships count) both show Apply now, no sponsorship/clearance text. Associate Data Engineer (PA) is data eng, not counted.",
   "confidence": "medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "tier": 10,
   "no_sponsorship": false
 }

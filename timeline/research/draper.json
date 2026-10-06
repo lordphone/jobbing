@@ -1,7 +1,7 @@
 {
   "company": "Draper",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -12,15 +12,15 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08-12",
-  "last_cycle_basis": "tracker first-seen; 'Cyber Tool and Capability Developer' (Cambridge MA)",
+  "last_cycle_basis": "tracker first-seen 'Cyber Tool and Capability Developer' (Cambridge MA)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://draper.wd5.myworkdayjobs.com/Draper_Careers",
   "jobs_spec": "wd:draper/wd5/Draper_Careers",
-  "evidence": "Workday: entry-level Software/ML Engineer MTS1 (Cambridge, 2026-09-22) is on the board; it says 'Applicants selected... will be required to obtain and maintain a US Government Security Clearance'. Other SWE roles senior; Embedded/Digital Eng. Developer also need clearance.",
+  "evidence": "Workday: board list shows no MTS1/entry SWE; other SWE roles senior or mid-level. Software ML Engineer MTS1 (opened 2026-09-22) was live in an earlier run and says selected applicants \"will be required to obtain and maintain a US Government Security Clearance\"; today's lookup failed, unverified.",
   "confidence": "high"
 }

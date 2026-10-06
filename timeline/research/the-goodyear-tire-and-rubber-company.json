@@ -1,7 +1,7 @@
 {
   "company": "The Goodyear Tire & Rubber Company",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers",
   "jobs_spec": "wd:goodyear/wd1/GoodyearCareers",
-  "evidence": "Workday CXS API total 18 postings, all read: EHS, planning, sales, marketing, none software or new-grad. Web search shows only internships (Jul-Nov 2026 window). Board looks small, so medium.",
+  "evidence": "Workday API (goodyear/wd1/GoodyearCareers) returned only 4 postings (Slovenia planners/analyst, US plant EHS managers); none software or new-grad. No tracker history.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Xylem",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "history shows only Application Engineer (hardware) roles",
+  "last_cycle_basis": "unknown; tracker history shows only Application Engineer (non-SWE) roles in 2024",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers",
   "jobs_spec": "wd:xylem/wd5/xylem-careers",
-  "evidence": "Workday API 2026-10-02 (68): only software role is Data Scientist/Software Developer in Bangalore; US roles are sales, hardware, OLDP (not SWE). Matches prior result.",
+  "evidence": "Workday API --all 2026-10-05 (68): only software role is Data Scientist/Software Developer in Bangalore; US early-career is Operations Leadership Development Program (not SWE), plus sales/business developer roles.",
   "confidence": "medium"
 }

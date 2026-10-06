@@ -1,10 +1,19 @@
 {
   "company": "Johnson & Johnson",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer DevOps", "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632", "location": "Santa Clara, CA", "opened": "2026-08-26", "date_source": "workday startDate", "deadline": "2026-10-11", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Software Engineer DevOps",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632",
+      "location": "Santa Clara, CA",
+      "opened": "2026-08-26",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-11",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker history: R&D Software Engineer 1 (Santa Clara) first seen 2025-11-01, reposted 2026-01-28",
@@ -12,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
   "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Workday API: Software Engineer DevOps (Santa Clara) live, canApply true, accepts a master's + 1 yr experience, endDate 2026-10-11; level borderline, not labeled new grad. Class of 2027 TLDP (R-088676, requires no sponsorship) page now Not Found, so closed. RDLDP Class of 2027 is a hardware-leaning R&D program, not counted.",
+  "evidence": "Workday CXS + detail 2026-10-05: Software Engineer DevOps (Santa Clara, Auris Health) still live, endDate 2026-10-11, master's + 1 yr, pay ~$188k so level borderline, not labeled new grad. RDLDP 2027 is R&D engineering, not SWE. Other US SWE roles senior/co-op.",
   "confidence": "low"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Costco",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.costco.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.costco.com API 2026-10-02: 'developer' 1 hit (Tax Technology and Product Leader, Issaquah, senior); 'graduate', 'new grad', 'early career', 'data engineer' 0; other hits are warehouse roles. Web search shows only 2026 IT internships. Board looks to cover few corporate IT roles.",
-  "confidence": "low"
+  "evidence": "careers.costco.com JSON API 2026-10-05: 'software engineer'/'developer' return 1 hit (Tax Technology and Product Leader, Issaquah, senior); 'graduate', 'new grad', 'entry level engineer', 'early career' return 0. No SWE new-grad program.",
+  "confidence": "high"
 }

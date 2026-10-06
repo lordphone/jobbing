@@ -1,26 +1,26 @@
 {
   "company": "Crowe",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Machine Learning Software Engineer 1",
       "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
-      "location": "Chicago IL USA; Washington DC USA; Tallahassee FL USA; Sarasota FL USA; Hartford CT USA; Nashville TN USA; Costa Mesa CA USA; San Jose CA USA; Boston MA USA; Burlington VT USA; Cleveland OH USA; Columbus OH USA; Dallas TX USA; Denver CO USA; Fort Wayne IN USA; Grand Rapids MI USA; Indianapolis IN USA; Knoxville TN USA; Lexington KY USA; Plano TX USA; Livingston NJ USA; Louisville KY USA; Miami FL USA; Los Angeles CA USA; Woodlands TX USA; New York NY USA; Oakbrook Terrace IL USA; Sacramento CA USA; San Francisco CA USA; South Bend IN USA; Springfield IL USA; Tampa FL USA; Boca Raton FL USA; Houston TX USA; Austin TX USA; Charlotte NC USA",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday postedOn (earlier first-seen kept; latest repost 2026-09-30)",
+      "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Plano, TX; Livingston, NJ; Louisville, KY; Miami, FL; Los Angeles, CA; Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Boca Raton, FL; Houston, TX; Austin, TX; Charlotte, NC",
+      "opened": "2026-08-13",
+      "date_source": "tracker first seen (Workday latest repost 2026-09-30)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows no new-grad SWE posting 2025-07 to 2026-01 (only NetSuite consultant Jan 2026, AI Project Coordinator Feb 2026)",
+  "last_cycle_basis": "tracker history shows no new-grad SWE posting 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://crowe.wd12.myworkdayjobs.com/external_careers",
   "jobs_spec": "wd:crowe/wd12/external_careers",
-  "evidence": "Workday API 2026-10-02: ML Software Engineer 1 listed (36 US locations, endDate 2026-12-31); 'Crowe is not sponsoring for work authorization at this time'. Other entries are 2027 interns, audit/tax, India. Not opened in browser.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "tier": 10
+  "evidence": "Opened posting 2026-10-05: Apply button, End Date Dec 31, 2026; level 1 ML software engineer, no years stated. 'Crowe is not sponsoring for work authorization at this time'.",
+  "confidence": "high"
 }

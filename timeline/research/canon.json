@@ -1,15 +1,15 @@
 {
   "company": "Canon (Canon U.S.A.)",
-  "tier": 7,
-  "checked": "2026-10-02",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no SWE new-grad posting in tracker history",
   "jobs_page": "https://external-canoncareers.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS search via HTTP 2026-10-02 (software, engineer, developer): results are field service, sales, technical support and trainer roles; no software titles. Browser pane could not render result list.",
-  "confidence": "medium"
+  "evidence": "iCIMS search 2026-10-05 (keyword software): results are field service, sales, account exec, trainer, accounting roles; no entry software engineer posting. No SWE in tracker history.",
+  "confidence": "medium",
+  "tier": 7,
+  "checked": "2026-10-05",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

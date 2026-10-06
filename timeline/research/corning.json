@@ -1,15 +1,26 @@
 {
   "company": "Corning",
   "tier": 7,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer, Software Developer",
+      "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/",
+      "location": "Corning, NY",
+      "opened": "2026-10-05",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": "early-career / recent graduate; BS CS or related",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2026-01-14",
   "last_cycle_basis": "tracker first-seen for 'IT Warehouse System Developer' (Wilmington, NC)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://corningjobs.corning.com",
   "jobs_spec": null,
-  "evidence": "Corning's full job feed (1,124 jobs) read 2026-10-02: early-career US rows are Summer 2027 interns and a New Grad Polymer Engineer; no entry/new-grad SWE. Division Digital Software Engineer (Concord NC, BS + 1+ yrs, no sponsorship) is unlabeled, borderline; other software roles need 5+ yrs.",
-  "confidence": "high"
+  "evidence": "Posting page fetched 2026-10-05: Engineer, Software Developer (Corning NY) described as early-career for recent graduates, Apply present, 'does not support immigration sponsorship'. RSS feeds otherwise show only interns/CORE rotational. Prior file said not_yet; this posting is new today.",
+  "confidence": "medium"
 }

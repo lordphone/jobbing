@@ -1,7 +1,7 @@
 {
   "company": "The Aerospace Corporation",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -32,15 +32,15 @@
       "date_source": "workday startDate",
       "deadline": "2026-11-27",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2024-10-28",
-  "last_cycle_basis": "tracker first-seen; 'New Grad 2025: Cloud Native Developer' (two cycles ago); last cycle window not found",
+  "last_cycle_basis": "tracker first-seen 'New Grad 2025: Cloud Native Developer' (two cycles ago); last-cycle window not found",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA",
   "jobs_spec": "wd:aero/wd5/external",
-  "evidence": "Workday (127): 2027 RPO Software Developer, Vehicle Systems SWE, Data Scientist/ML Engineer live (API). Each states 'U.S. citizenship is required to obtain a security clearance'. Deadlines from Workday endDate (RPO 2027-02-26, ML 2026-11-27).",
+  "evidence": "Workday API (128): 2027 RPO Software Developer and Vehicle Systems SWE live, quoting \"U.S. citizenship is required to obtain a security clearance\". 2027 Data Scientist/ML (seen earlier today) is missing from the board now and unverifiable. Deadlines are Workday endDate.",
   "confidence": "high"
 }

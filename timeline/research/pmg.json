@@ -1,18 +1,36 @@
 {
   "company": "PMG",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
-    {"title": "Graduate Leadership Program - AI & Software Engineering (June Start)", "url": "https://job-boards.greenhouse.io/pmg/jobs/8587038002", "location": "Dallas, TX", "opened": "2026-07-20", "date_source": "greenhouse first_published", "deadline": null, "grad_window": "Fall 2026 – Spring 2027", "live_verified": "api"},
-    {"title": "Graduate Leadership Program - AI & Software Engineering (January Start)", "url": "https://job-boards.greenhouse.io/pmg/jobs/8587050002", "location": "Dallas, TX", "opened": "2026-07-20", "date_source": "greenhouse first_published", "deadline": null, "grad_window": "Summer 2026 – Fall 2026", "live_verified": "api"}
+    {
+      "title": "Graduate Leadership Program - AI & Software Engineering (June Start)",
+      "url": "https://job-boards.greenhouse.io/pmg/jobs/8587038002",
+      "location": "Dallas, TX",
+      "opened": "2026-07-20",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Graduate Leadership Program - AI & Software Engineering (January Start)",
+      "url": "https://job-boards.greenhouse.io/pmg/jobs/8587050002",
+      "location": "Dallas, TX",
+      "opened": "2026-07-20",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows Dallas AI & Software Engineering GLP first seen 2026-04-10 (job 8033520002), outside the Jul 2025 – Jan 2026 window; Data Analytics GLP seen 2025-08-01. SWE-specific fall 2025 date not confirmed.",
+  "last_cycle_opened": "2025-08-01",
+  "last_cycle_basis": "Tracker history: Graduate Leadership Program - Data Analytics (Dallas) first seen 2025-08-01; AI Strategy GLP 2025-10-31",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/pmg",
   "jobs_spec": "gh:pmg",
-  "evidence": "Greenhouse API lists both AI & Software Engineering GLP postings (Dallas), first published 2026-07-20, June start for Fall 2026–Spring 2027 grads. Posting says no sponsorship. January-start variant targets Summer–Fall 2026 grads.",
+  "evidence": "Greenhouse API + posting text 2026-10-05: GLP AI & Software Engineering (June Start), Dallas, first published 2026-07-20, for upcoming bachelor/master grads; \"we do not offer sponsorship\". January Start variant published same day; both still listed.",
   "confidence": "high"
 }

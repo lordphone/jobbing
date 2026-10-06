@@ -1,17 +1,17 @@
 {
   "company": "Perplexity",
   "tier": 2,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Member of Technical Staff (New Grad)",
       "url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
       "location": "San Francisco, CA",
-      "opened": "on or before 2026-09-29",
-      "date_source": "ashby publishedAt (republish; an earlier id was first seen 2026-09-24)",
+      "opened": "2026-09-29",
+      "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "Students and recent graduates (no year stated)",
       "live_verified": "api"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Perplexity",
   "jobs_spec": "ashby:Perplexity",
-  "evidence": "Ashby API: general 'Member of Technical Staff (New Grad)' portal for university students and recent graduates live (published 2026-09-29). 'Early Career - Industry' req needs industry experience, not counted.",
+  "evidence": "Ashby API (129 postings, --all): general MTS (New Grad) portal for university students and recent graduates, SF, published 2026-09-29. Title filter misses it. Early Career - Industry role needs industry experience, not counted.",
   "confidence": "medium"
 }

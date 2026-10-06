@@ -1,15 +1,15 @@
 {
   "company": "MediaTek",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "no tracker history; none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.mediatek.com/en/jobs",
   "jobs_spec": null,
-  "evidence": "careers.mediatek.com tRPC job API read via browser 2026-10-02 (619 jobs, 71 US): only US 'No Work Expe.' role is Design Verification Engineer (Austin, hardware); US software roles are 4-8+ yrs. Linkoping Sweden campus 2027 processor role is non-US.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.mediatek.com is JS-only and unreachable from plain requests today. Prior read 2026-10-05 of jobs API (616 jobs, 71 US): US software roles Sr Staff/Principal; only no-experience US role is Design Verification (Austin, chip design). Campus 2027 is Taiwan hardware.",
+  "confidence": "medium"
 }

@@ -1,13 +1,13 @@
 {
   "company": "Shell plc (Shell USA)",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Shell Graduate Program 2027 - United States",
       "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Graduate-Program-2027---United-States_R205157-1",
-      "location": "Houston, TX; Midland, TX; Deer Park, TX; Galena Park, TX; Norco, LA; Geismar, LA; New Orleans, LA; San Diego, CA; Monaca, PA; Sewaren, NJ",
+      "location": "Houston, TX; Midland, TX; Norco, LA; New Orleans, LA; San Diego, CA; Deer Park, TX; Galena Park, TX; Geismar, LA; Monaca, PA; Sewaren, NJ",
       "opened": "2026-09-02",
       "date_source": "earlier file (postedOn 28 days before 2026-09-30); current Workday startDate 2026-10-01 is a repost",
       "deadline": "2027-02-01",
@@ -18,9 +18,9 @@
   "last_cycle_opened": "on or before 2026-06-13",
   "last_cycle_basis": "jobs.py history 'shell': Shell Graduate Programme 2026 - UK (Trading and Supply) first seen 2026-06-13; US 2026 timing assumed similar",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Workday API/detail 2026-10-02: US Graduate Program 2027 live (Feb/Aug 2027 starts), covers all functions incl. IDT; no SWE-specific req. Deadline is Workday endDate 2027-02-01, not on page. UK IDT grad posting is not US.",
+  "evidence": "Workday API 2026-10-05: US Graduate Program 2027 live; one posting covers all functions incl. Information Digital Technologies, no SWE-specific req. Posting: temporary visas/sponsorship not eligible (some exceptions). Deadline is Workday endDate 2027-02-01.",
   "confidence": "medium"
 }

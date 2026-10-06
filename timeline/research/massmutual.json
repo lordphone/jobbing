@@ -1,15 +1,26 @@
 {
   "company": "MassMutual",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Quantitative Developer",
+      "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872",
+      "location": "New York, NY",
+      "opened": "2026-07-01",
+      "date_source": "tracker first seen (Workday startDate 2026-09-10 is a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-04-13",
-  "last_cycle_basis": "tracker history: 'Associate Software Engineer', Cincinnati OH, first seen 2026-04-13 (spring wave, outside the 2025-07 to 2026-01 window)",
+  "last_cycle_basis": "tracker: Associate Software Engineer, Cincinnati OH (MMAscendCareers) first seen 2026-04-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
   "jobs_spec": "wd:massmutual/wd1/MMCareers",
-  "evidence": "Workday MMCareers --all (17) 2026-10-02; MMAscendCareers returned 0: only Quantitative Developer, Full Stack Developer (unlevelled, 30+ days), Developer-Policy Admin and analyst/business roles; no entry Associate SWE live. Last Associate SWE seen 2026-04-13.",
+  "evidence": "Workday MMCareers --all (18) 2026-10-05: Quantitative Developer (NYC) live (canApply true), needs bachelor's plus 6+ months experience incl. internships, so entry-level. Full Stack Developer (5+ yrs) and Policy Admin Developer (8+ yrs) not entry. Borderline: investments quant/dev role.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Lattice Semiconductor",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history returned 0 tracker postings",
+  "last_cycle_basis": "no tracker history; none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers",
   "jobs_spec": "wd:latticesemi/wd5/latticesemiconductorscareers",
-  "evidence": "Workday (38, --all) 2026-10-02: US entry roles are Junior Firmware and Junior BMC Firmware Engineer (Duluth GA), firmware so not counted; other US roles validation/analog/senior. No US new-grad SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday API 2026-10-05 (36, --all): US entry roles are Junior Firmware and Junior BMC Firmware Engineer (Duluth GA), firmware so not counted; no US new-grad SWE. Member of Technical Staff I roles are Taipei/Chennai.",
+  "confidence": "high"
 }

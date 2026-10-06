@@ -1,15 +1,15 @@
 {
   "company": "Highmark Health",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, remote (PA et al.)",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, remote (PA et al.); first-party board lists later Associate Application Developer reqs (2026-03, 2026-06) now closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark",
   "jobs_spec": "wd:highmarkhealth/wd1/highmark",
-  "evidence": "Workday API (128, --all) 2026-10-02: software roles Senior/Manager; new-grad items are RN only. No entry-level SWE live; Associate SWE (2025-12-03) gone. Same as prior.",
+  "evidence": "Workday API 2026-10-05 (123, --all): only Team Manager Software Engineering; no entry-level SWE/associate developer live. Entry associate dev reqs recur through the year but none open now.",
   "confidence": "high"
 }

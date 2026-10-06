@@ -1,7 +1,7 @@
 {
   "company": "Virtusa",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -46,11 +46,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Not found in tracker history; Virtusa US posts few entry roles",
+  "last_cycle_basis": "Not found: Virtusa API 2026-10-03 shows only Associate (Chicago, 2025-05-07), outside the Jul 2025-Jan 2026 window; tracker history empty.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.virtusa.com/careers/job-search/global/en",
   "jobs_spec": null,
-  "evidence": "Opened careers search in browser; its own jobDetail API returns 4 live US Associate/Associate Engineer postings (0-2 yrs, recent grads, Sep 2026); posting pages redirect to search. CREQ254224 ML role needs 2025 Master's grads and no sponsorship (excluded). Others state no sponsorship rule.",
-  "confidence": "medium"
+  "evidence": "Not re-opened this run: virtusa.com blocks plain requests (Akamai 403) and the shared browser pane was hijacked; WebFetch of job URLs returns 'filled' even for a control req, so unreliable. Carried over earlier 2026-10-05 Phenom API read: 4 US Associate/Associate Engineer postings (0-2 yrs, recent grads, Sep 2026); no class year, no citizenship text. Needs live re-check.",
+  "confidence": "low"
 }

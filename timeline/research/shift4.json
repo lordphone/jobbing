@@ -1,7 +1,7 @@
 {
   "company": "Shift4",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.shift4.com/careers",
   "jobs_spec": "wd:shift4payments/wd108/Shift4_External_CareerSite",
-  "evidence": "Workday API (20 postings) has no US entry SWE. Browser 2026-10-02: SkyTab Software Engineer I page (first seen 2026-09-28) says 'The page you are looking for doesn't exist'. Closed.",
+  "evidence": "Workday (53 jobs, full paging) 2026-10-05 has no US SWE or entry role; shift4.com/careers shows same. SkyTab Software Engineer I (first seen 2026-09-28) is no longer listed and its page was gone earlier; closed.",
   "confidence": "medium"
 }

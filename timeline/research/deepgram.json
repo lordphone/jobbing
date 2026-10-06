@@ -1,7 +1,7 @@
 {
   "company": "Deepgram",
   "tier": 2,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,10 @@
       "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621",
       "location": "San Francisco, CA; New York City, NY",
       "opened": "2026-08-21",
-      "date_source": "tracker first seen (Ashby publishedAt 2026-08-22)",
+      "date_source": "ashby publishedAt 2026-08-22 (tracker first seen 2026-08-21)",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "deadline": null
     }
   ],
   "last_cycle_opened": null,
@@ -20,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/deepgram",
   "jobs_spec": "ashby:deepgram",
-  "evidence": "Ashby posting opened in browser 2026-10-02: live with Apply; SF/NYC on-site; asks degree plus internships/first years of backend experience, no years minimum or class year. Not labeled new grad; judgment call.",
+  "evidence": "ashby:deepgram (95 postings) plus posting text 2026-10-05: FDE Strategic Accounts, SF/NYC, published 2026-08-22; welcomes internships/co-ops/first years, senior FDE reviews work, no years minimum or sponsorship line. Other SWE roles are senior/staff or 3+ yrs. Not labeled new grad.",
   "confidence": "medium"
 }

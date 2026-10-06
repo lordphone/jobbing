@@ -1,15 +1,15 @@
 {
   "company": "Red Ventures",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2024-07-01",
-  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer - Red Platform' | Charlotte, NC, first seen 2024-07-01 (also 'Associate Software Engineer - Cnet' 2024-06-27)",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no SWE new-grad posting last cycle; Associate Data Science PM (Charlotte) first seen 2025-10-30 and Early Career Associate DS PM (NYC) 2026-02-20 are not SWE. Two years ago: Associate Software Engineer (Charlotte), first seen 2024-07-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.redventures.com/careers/positions",
   "jobs_spec": "gh:redventures",
-  "evidence": "gh:redventures --all (58): 2027 Launch/Early Career roles are Associate PM AI, Analyst, Data Science Intern (not SWE). Bankrate FDE needs 2-8 yrs; other engineering Senior/Staff/Manager. SWE track existed 2024; none live now.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (57 postings, --all, 2026-10-05): 2027 Launch/Early Career roles are Associate PM AI, Analyst RVPR and Data Science Interns, none SWE; engineering is Senior/Staff/Manager, Forward Deployed Engineer (2-8 yrs). Entry SWE track existed in 2024; none live now.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "RBC (Royal Bank of Canada)",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; Amplify 2026 postings (2025-11-02) were a student summer program, not full-time",
+  "last_cycle_basis": "unknown; Amplify 2026 postings (2025-11-02) were a student program, not full-time",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1",
   "jobs_spec": "wd:rbc/wd3/rbcglobal1",
-  "evidence": "Workday (135) 2026-10-02: Developer/Data Engineer 'RBC Amplify 2027' Toronto is a student summer innovation program (Student/Coop, grads Aug 2027+), not counted. US roles are summer associates; other tech roles Senior/Lead/Staff; Software Developer is Montreal.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday --all (135) 2026-10-05: no full-time entry-level SWE in US/Toronto/Vancouver. 2027 items are Winter co-op/intern roles and US Capital Markets summer associates; tech roles are Senior/Experienced. RBC Amplify is a summer program (search), not new-grad FT.",
+  "confidence": "medium"
 }

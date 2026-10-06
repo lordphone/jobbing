@@ -1,26 +1,17 @@
 {
   "company": "Citadel Securities",
   "tier": 4,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer - University Graduate (US)",
-      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-      "location": "New York, NY; Miami, FL",
-      "opened": "on or before 2026-10-02 (same URL first seen 2025-07-05; no class year, rolling)",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
+    {"title": "Software Engineer – University Graduate (US)", "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/", "location": "New York, NY; Miami, FL", "opened": "on or before 2026-07-06", "date_source": "tracker first seen", "deadline": null, "grad_window": null, "live_verified": "browser"}
   ],
   "last_cycle_opened": "2025-07-05",
-  "last_cycle_basis": "Prior-year University Graduate roles at Citadel Securities first seen 2025-07-05 (tracker).",
+  "last_cycle_basis": "jobs.py history: Citadel Securities University Graduate roles first seen 2025-07-05 (tracker).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.citadelsecurities.com/careers/open-opportunities/",
   "jobs_spec": null,
-  "evidence": "2026-10-02 browser: posting live with Start Application, NY/Miami, bachelor's/master's/PhD, no citizenship text, no deadline. URL reused from last cycle, so this-cycle date uncertain.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-05: posting page loads with Start Application; NY/Miami, bachelor's/master's/PhD CS, no citizenship or sponsorship text, no deadline, no class year (rolling). Tracker first seen 2026-07-06.",
+  "confidence": "high"
 }

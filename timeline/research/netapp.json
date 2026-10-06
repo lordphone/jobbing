@@ -1,6 +1,7 @@
 {
   "company": "NetApp",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,9 +10,9 @@
       "location": "San Jose, CA",
       "opened": "unknown (rolling pipeline posting, no posted date)",
       "date_source": "page text: pipeline position opened on a recurring basis",
-      "deadline": null,
       "grad_window": "BS CS/EE, under 2 yrs (not Master's); text says start date in 2026",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "deadline": null
     },
     {
       "title": "Software Engineer - ANF (Azure NetApp Files)",
@@ -19,18 +20,17 @@
       "location": "San Jose, CA",
       "opened": "unknown (rolling pipeline posting, no posted date)",
       "date_source": "page text: pipeline position opened on a recurring basis",
-      "deadline": null,
       "grad_window": "Master's CS/EE 0+ yrs (or BS with 2+ yrs); text says start date in 2026",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "deadline": null
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history shows only 2024 postings for NetApp (earliest 2024-08-25 New Grad: Software Engineer); none 2025-07..2026-01; no last-cycle date found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.netapp.com/engineering-careers",
   "jobs_spec": null,
-  "evidence": "Both ANF posting pages fetched 2026-10-02 show Apply; recurring pipeline positions, no posted date/deadline, no sponsorship text. Search 'software engineer entry level' (177 results) shows no other entry-labeled US/Canada SWE. 'Start in 2026' text is stale.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Re-fetched both ANF posting pages 2026-10-05: Apply present, recurring pipeline roles, no posted date/deadline, no sponsorship text. Careers search showed no other entry-labeled US SWE. 'Start in 2026' text is stale. Status unchanged.",
+  "confidence": "medium"
 }

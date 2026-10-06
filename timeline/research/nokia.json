@@ -1,15 +1,26 @@
 {
   "company": "Nokia",
-  "tier": 7,
-  "checked": "2026-10-02",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Developer",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40564",
+      "location": "United States (no city listed)",
+      "opened": "2026-09-15",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-01-15",
   "last_cycle_basis": "tracker first seen: Software Developer, Naperville IL",
   "excluded_reason": "citizenship",
-  "no_sponsorship": true,
   "jobs_page": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle board (138 postings) 2026-10-02: US Software Developer (job 40564, 2026-09-15) says candidates must be US Citizen or Greencard holder and sponsorship will not be offered (NSA). Other US software roles staff/senior or co-op.",
-  "confidence": "medium"
+  "evidence": "Oracle board 2026-10-05: only US software role, Software Developer (job 40564), says 'Qualified candidates must be US Citizen or Greencard holder' and no sponsorship (NSA). Other US roles staff/senior/co-op; junior roles are non-US.",
+  "confidence": "medium",
+  "tier": 7,
+  "checked": "2026-10-05",
+  "no_sponsorship": false
 }

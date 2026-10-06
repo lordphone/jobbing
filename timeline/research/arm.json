@@ -1,15 +1,15 @@
 {
   "company": "Arm",
   "tier": 7,
-  "status": "closed",
+  "checked": "2026-10-05",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-07",
   "last_cycle_basis": "jobs.py history: New Grad 2025: Software Applications Engineer, Austin TX, first seen 2025-09-07, careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.arm.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.arm.com search: US graduate role is Graduate Applications Engineer (Austin, hardware, 2026-09-16). 'Graduate Program - Engineering Pathways' (Austin, posted 2026-09-01, software among tracks) now returns 404 'no longer exists'. Closed; Budapest SWE grad not US.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "careers.arm.com graduate search in browser 2026-10-05: only US grad role is Graduate Applications Engineer (Austin, Sep 16, hardware/HDL, no sponsorship); SWE grad roles are Budapest. Prior file called it closed after an Austin 'Engineering Pathways' grad posting 404ed; not confirmed as SWE, so status is not_yet (changed from closed).",
+  "confidence": "medium"
 }

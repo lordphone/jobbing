@@ -1,7 +1,7 @@
 {
   "company": "Audible",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
       "location": "Cambridge, MA",
       "opened": "2026-09-04",
-      "date_source": "page text",
+      "date_source": "amazon.jobs search posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs search API lists Audible, Inc. SDE Early Career (Cambridge MA, posted 2026-09-04); posting page returned 200 with Apply now button on 2026-10-02. Earlier Newark NJ 404 hint was a different posting.",
+  "evidence": "amazon.jobs 2026-10-05 lists SDE Early Career (Audible, Cambridge MA) posted 2026-09-04; fetched page: Apply now shown, enrolled or completed degree, no class year. Other Newark SDE roles ask 1+ yrs.",
   "confidence": "medium"
 }

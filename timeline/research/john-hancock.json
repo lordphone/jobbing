@@ -1,36 +1,26 @@
 {
   "company": "John Hancock (Manulife)",
-  "tier": 11,
   "status": "open",
   "postings": [
     {
-      "title": "GRO Program - Technology (Boston)",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/GRO-Program---Technology_JR26061706-1",
-      "location": "Boston, MA",
-      "opened": "2026-06-25",
-      "date_source": "tracker first seen",
-      "deadline": "2026-10-05",
-      "grad_window": "Expected graduation Spring 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "GRO Program - Technology (Toronto)",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/GRO-Program---Technology--Toronto-_JR26082027",
+      "title": "Associate Applied AI Engineer – GenAI Systems",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-2",
       "location": "Toronto, ON",
-      "opened": "on or before 2026-09-01",
-      "date_source": "workday postedOn",
-      "deadline": "2026-10-05",
-      "grad_window": "Expected graduation Spring 2027",
+      "opened": "2026-10-04",
+      "date_source": "tracker first seen; workday postedOn Today 2026-10-05",
+      "deadline": "2026-10-19",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2024-12-20",
-  "last_cycle_basis": "tracker: 'New Grad 2025: Software Engineer', Boston MA, first seen 2024-12-20; 2025-11 to 2026-01 new-grad SWE postings were Canada only.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker: New Grad 2025 Software Engineer, Boston MA, first seen 2024-12-20; Associate Full-Stack Software Engineer (Toronto/Kitchener) first seen 2025-11-24.",
   "jobs_page": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
   "jobs_spec": "wd:manulife/wd3/MFCJH_Jobs",
-  "evidence": "Workday API + detail 2026-10-02: GRO Program - Technology Boston and Toronto live, CS/SWE grads Spring 2027, endDate 2026-10-05 (stated end date). Waterloo and Montreal GRO Technology also live (not counted). Sponsorship not stated.",
+  "evidence": "2026-10-05 Workday API: Associate Applied AI Engineer GenAI Systems (Toronto, 0-3 yrs, end 2026-10-19) is live. Earlier GRO Program Technology (Boston/Toronto) is gone from the board (ended 2026-10-05). Boston AI Engineer needs 3+ yrs. Changed from closed.",
   "confidence": "medium",
-  "checked": "2026-10-02"
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

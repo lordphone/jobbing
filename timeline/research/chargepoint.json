@@ -1,15 +1,15 @@
 {
   "company": "ChargePoint",
+  "tier": 8,
+  "checked": "2026-10-05",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; jobs.py history found 0 tracker postings",
+  "last_cycle_basis": "No tracker history for ChargePoint",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chargepoint",
   "jobs_spec": "gh:chargepoint",
-  "evidence": "Greenhouse API --all 2026-10-02, 34 postings: US roles are senior/staff hardware, firmware, finance, sales, plus a Power Systems Control Intern; entry software roles only in Bangalore, India (out of scope). No tracker history.",
-  "confidence": "high",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Greenhouse API (31, all read) 2026-10-05: US roles are sales, product, senior/staff hardware and power electronics, a Power Systems Control Intern. Software roles are in India (senior) or senior product. No entry-level SWE in US, Toronto or Vancouver.",
+  "confidence": "high"
 }

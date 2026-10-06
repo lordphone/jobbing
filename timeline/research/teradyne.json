@@ -1,15 +1,15 @@
 {
   "company": "Teradyne",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: only 2024 NCG SWE postings (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing in 2025-07 to 2026-01 window",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://jobs.teradyne.com",
   "jobs_spec": null,
-  "evidence": "SuccessFactors RSS and sitemap 2026-10-02: US New College Graduate postings are Test Engineer (North Reading) and Factory Applications Engineer (San Jose), not SWE. US Software Engineer postings are II level (Agoura Hills, 2+ yrs, no sponsorship) or 5+ yrs. NCG SWE not live yet.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "jobs.teradyne.com 2026-10-05: 'College Graduate' US results are Factory Applications Engineer (San Jose), Test Engineer (North Reading), not SWE. Plain 'Software Engineer' reqs (Compute Test, posted 2026-10-02) say 'Experienced', no sponsorship; others need 2-5+ yrs. No NCG SWE live yet.",
+  "confidence": "medium"
 }

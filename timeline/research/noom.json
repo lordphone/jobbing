@@ -1,7 +1,7 @@
 {
   "company": "Noom",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (earlier reposts); greenhouse first_published 2026-09-18",
       "deadline": null,
       "grad_window": "Bachelor's degree or expected within 6 months",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-06-30",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.noom.com/careers/job-listings/",
   "jobs_spec": "gh:noomgrowth",
-  "evidence": "Greenhouse board (noomgrowth, 10) lists only a Staff SWE; all three 'Agentic Engineer New Grad' postings (first seen 2026-08-18, 08-27, 09-18) return 404 from the Greenhouse job API (rechecked 2026-10-02). Gone, so closed.",
+  "evidence": "Greenhouse board (noomgrowth, 10) lists only a Staff SWE. Agentic Engineer New Grad postings (first seen 2026-08-18 to 09-18) no longer exist: noom.com listing page for gh_jid=8114573 shows no job or Apply. Gone, so closed.",
   "confidence": "medium"
 }

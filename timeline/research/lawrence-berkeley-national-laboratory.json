@@ -1,7 +1,5 @@
 {
   "company": "Lawrence Berkeley National Laboratory (Berkeley Lab)",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -16,11 +14,13 @@
     }
   ],
   "last_cycle_opened": "2025-10-07",
-  "last_cycle_basis": "tracker first-seen: 'Controls Software Engineer', Berkeley CA (https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=104583)",
-  "excluded_reason": null,
+  "last_cycle_basis": "tracker first seen: Controls Software Engineer, Berkeley CA (https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=104583)",
   "no_sponsorship": true,
   "jobs_page": "https://lbl.taleo.net/careersection/5/jobsearch.ftl?searchType=1&lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo REST search and posting page 2026-10-02 (Apply online present, listed on board): Level 1 takes BS + 2 yrs OR an advanced degree with no experience; C/C++/Python; 'Visa sponsorship is not available'. Rolling single posting, not a program. Only entry-level SWE of 68 jobs.",
-  "confidence": "medium"
+  "evidence": "Taleo REST search 2026-10-05 (91 reqs) and posting page: Controls Software Engineer 107332 live, Level 1 needs BS+2 yrs or advanced degree with no experience; says visa sponsorship is not available. Rest are postdocs, leads, hardware. Single rolling posting, not a program.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "excluded_reason": null
 }

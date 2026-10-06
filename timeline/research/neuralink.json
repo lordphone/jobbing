@@ -1,7 +1,7 @@
 {
   "company": "Neuralink",
   "tier": 3,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -23,6 +23,16 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, BCI Applications",
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6596365003",
+      "location": "Austin, TX; South San Francisco, CA",
+      "opened": "2025-06-02",
+      "date_source": "greenhouse first_published (still listed; says hiring all levels junior to senior)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-24",
@@ -31,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/neuralink",
   "jobs_spec": "gh:neuralink",
-  "evidence": "gh:neuralink API re-checked 2026-10-02: SWE-HIL and SWE-Simulation (first published 2026-09-25) say hiring all levels incl. junior; bachelor required, no years ask. Level unlabeled, so medium.",
+  "evidence": "gh:neuralink API 2026-10-05: HIL and Simulation (first published 2026-09-25) and BCI Applications say hiring 'at all levels, both junior and senior'; Bachelor's required, no years ask, no citizenship text. Level unlabeled, so medium.",
   "confidence": "medium"
 }

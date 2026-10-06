@@ -1,6 +1,7 @@
 {
   "company": "Mutual of Omaha",
   "tier": 11,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -8,8 +9,18 @@
       "url": "https://www.mutualofomaha.com/careers/jobs/detail/505205",
       "location": "Remote (US / Puerto Rico)",
       "opened": "2026-09-09",
-      "date_source": "page text (date beside close date)",
+      "date_source": "page text",
       "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Engineer I/II (Cloud Development and Data Warehouse)",
+      "url": "https://www.mutualofomaha.com/careers/jobs/detail/505274",
+      "location": "Remote (US)",
+      "opened": "2026-10-02",
+      "date_source": "page text",
+      "deadline": "2026-10-30",
       "grad_window": null,
       "live_verified": "browser"
     }
@@ -20,7 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.mutualofomaha.com/careers/jobs/search",
   "jobs_spec": null,
-  "evidence": "Posting 505205 fetched 2026-10-02: Apply Now live, posted 2026-09-09, closes 2026-10-09, remote, asks 3+ yrs backend, no sponsorship now or later; no grad program (IT intern only). Level I/II is borderline entry.",
-  "confidence": "low",
-  "checked": "2026-10-02"
+  "evidence": "Postings 505205 and 505274 fetched 2026-10-05: Apply Now present, remote, close 2026-10-09 / 2026-10-30; 505205 asks 3+ yrs backend; both say applicants must not require sponsorship. Level I/II borderline entry; no grad program.",
+  "confidence": "low"
 }

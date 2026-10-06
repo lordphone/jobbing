@@ -1,15 +1,15 @@
 {
   "company": "Persistent Systems",
   "tier": 10,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has no Persistent entries.",
+  "last_cycle_basis": "unknown; no tracker history; Persistent early-careers campus program is India-focused",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.persistent.com/jobslist",
   "jobs_spec": null,
-  "evidence": "careers.persistent.com/jobslist timed out via WebFetch (script-loaded, no API); browser pane unavailable. Web search shows only India fresher hiring. Earlier note: US openings mostly senior (unverified).",
-  "confidence": "low"
+  "evidence": "Persistent job-list API (public.zwayam.com jobs/search, 665 jobs) read 2026-10-05: US/Canada roles are architects, leads, Sr. FDE and Full Stack (Gen AI) Developer (Irving TX, 8+ yrs); no entry/graduate role. Campus program is India-focused.",
+  "confidence": "medium"
 }

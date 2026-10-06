@@ -8,8 +8,8 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
       "location": "Santa Clara, CA; Austin, TX; Redmond, WA; Remote (OR); Remote (WA)",
       "opened": "on or before 2026-09-29",
-      "date_source": "workday postedOn (Posted Yesterday); tracker first seen 2026-09-28",
-      "deadline": "at least 2026-10-03",
+      "date_source": "workday startDate / postedOn (Posted 6 Days Ago); tracker first seen 2026-09-28",
+      "deadline": null,
       "grad_window": "none stated (Bachelor's or Master's CS); title says New College Grad 2026",
       "live_verified": "api"
     },
@@ -18,7 +18,7 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
       "location": "Hillsboro, OR",
       "opened": "on or before 2026-10-01",
-      "date_source": "workday postedOn (Posted Today); startDate=2026-10-01",
+      "date_source": "workday startDate=2026-10-01",
       "deadline": "2026-11-12",
       "grad_window": null,
       "live_verified": "api"
@@ -30,7 +30,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
   "jobs_spec": "wd:nvidia/wd5/NVIDIAExternalCareerSite",
-  "evidence": "Workday API (169) re-checked: DGX Cloud SWE NCG (posted Sep 29) and Systems SWE NCG Hillsboro (Oct 1, endDate 2026-11-12) still listed; no citizenship text. Titles say 2026 but freshly posted, so counted open. 2027-titled US roles are ASIC/hardware only.",
+  "evidence": "Workday API (169) 2026-10-05: Systems SWE NCG Hillsboro (start Oct 1, endDate 2026-11-12) and DGX Cloud SWE NCG (start Sep 29, not in filtered list but detail resolves) live; no citizenship text. Titles say 2026 but freshly posted, so counted open. 2027-titled US roles are ASIC only.",
   "confidence": "medium",
-  "checked": "2026-10-02"
+  "checked": "2026-10-05"
 }

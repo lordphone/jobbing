@@ -1,26 +1,36 @@
 {
   "company": "Honeywell Aerospace",
   "tier": 8,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157925",
-      "location": "Duluth, GA",
-      "opened": "2026-09-23",
-      "date_source": "page text (Posting Date 9/23/2026); oracle posted 2026-10-01 on repost; tracker first seen 2026-09-23",
+      "title": "Software Engineering Full Time Employee - Recent Grad 2027",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524",
+      "location": "United States (multiple locations; no city listed)",
+      "opened": "2026-08-31",
+      "date_source": "oracle posted",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Information Systems, Cyber Engineer & Data Science Full Time Employee - Recent Grad 2027",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120511",
+      "location": "United States (multiple locations; no city listed)",
+      "opened": "2026-08-31",
+      "date_source": "oracle posted",
+      "deadline": null,
+      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-26",
   "last_cycle_basis": "tracker first seen (jobs.py history: Software Engineer I, Clearwater FL / Fort Mill SC, https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931)",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://ibqbjb.fa.ocs.oraclecloud.com",
-  "jobs_spec": "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell",
-  "evidence": "Oracle API (192): Software Engineer I Duluth GA (req 157925) live; requisition text has no citizenship, clearance or sponsorship line; needs 1 yr experience, C#/.NET. Text says period estimated 40 days, not a stated deadline. Honeywell Technologies (building automation) posting.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "no_sponsorship": true,
+  "jobs_page": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/jobs",
+  "jobs_spec": "oracle:icfcjb.fa.ocs.oraclecloud.com/Aerospace",
+  "evidence": "Aerospace Oracle board (175) 2026-10-05: Recent Grad 2027 SWE (120524) posted 2026-08-31, opened in browser with Apply; text says unable to consider applicants needing sponsorship; no citizenship text (separate 'U.S. Person Required' SWE 120265 exists). No deadline.",
+  "confidence": "high"
 }

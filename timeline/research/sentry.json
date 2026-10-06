@@ -1,13 +1,13 @@
 {
   "company": "Sentry",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad (2027)",
       "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421",
-      "location": "San Francisco, CA",
+      "location": "San Francisco, California",
       "opened": "on or before 2026-08-11",
       "date_source": "tracker first seen",
       "deadline": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/sentry",
   "jobs_spec": "ashby:sentry",
-  "evidence": "Ashby listing omits SF 'Software Engineer, New Grad (2027)' but the posting page renders in browser 2026-10-02 with Apply for this Job; sponsorship available. Vienna 2027 new grad also live (not US). Treat as open, unlisted on board.",
-  "confidence": "medium"
+  "evidence": "Ashby list omits SF 'Software Engineer, New Grad (2027)' (unlisted), but the posting page opened in browser 2026-10-05 shows full posting, hybrid SF, 'Sponsorship is available'. Vienna 2027 new grad (2026-09-10) is listed but not US.",
+  "confidence": "high"
 }

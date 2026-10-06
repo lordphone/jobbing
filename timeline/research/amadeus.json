@@ -1,15 +1,15 @@
 {
   "company": "Amadeus (US)",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "no tracker history of US new-grad SWE roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://amadeus.wd502.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:amadeus/wd502/jobs",
-  "evidence": "Workday API (47 reqs, --all): entry SWE roles are in Manila, Bogota, Nice, Germany; US roles are sales, CSM, Functional Architect (Irving), Industry Affairs. No US/Toronto/Vancouver entry SWE.",
+  "evidence": "Workday API 2026-10-05 (44 postings, --all): only entry SWE is Manila; others Nice/Bogota/Germany. US roles are non-engineering (e.g. Miami Industry Affairs). No entry SWE in US/Toronto/Vancouver.",
   "confidence": "high"
 }

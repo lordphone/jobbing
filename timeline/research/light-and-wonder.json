@@ -1,26 +1,15 @@
 {
   "company": "Light & Wonder",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683",
-      "location": "Las Vegas, NV; Reno, NV",
-      "opened": "2026-08-18",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker first-seen: 'Associate Software Engineer' | Reno, NV;Las Vegas, NV, 2025-09-15",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Reno/Las Vegas, 2025-09-15 (https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
   "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
-  "evidence": "wd:lnw (45): Associate SWE R322683 (2026-08-18) absent from list; cxs returns 403 as for removed postings. Live US entry roles are only Associate Software QA Engineer (test, excluded) and field/material roles. Page not openable.",
+  "evidence": "Workday board (42 reqs, 2026-10-05): this-cycle Associate Software Engineer R322683 (Reno/Las Vegas, first seen 2026-08-18) absent from list and search; its CXS endpoint returns 403 while live reqs return 200. Browser page check was inconclusive. No US entry SWE remains.",
   "confidence": "medium"
 }

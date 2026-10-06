@@ -1,13 +1,13 @@
 {
   "company": "Marsh McLennan",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Associate FinOps Engineer",
       "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Louisville---West-Market/Applications-Developer_R_355944",
-      "location": "Louisville, KY",
+      "location": "Louisville, KY (hybrid)",
       "opened": "2026-09-30",
       "date_source": "workday startDate",
       "deadline": null,
@@ -15,12 +15,12 @@
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2026-05-07",
-  "last_cycle_basis": "tracker history: 'Associate Cloud Automation & FinOps Engineer', Louisville KY, first seen 2026-05-07 (earlier version of same role); 2025-08-23 Technical Analyst College Rotation (Atlanta, not SWE)",
+  "last_cycle_opened": "2025-08-23",
+  "last_cycle_basis": "tracker: Technical Analyst - College Rotation Generalist, Westlake TX / Atlanta GA, first seen 2025-08-23",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mmc.wd1.myworkdayjobs.com/mmc",
   "jobs_spec": "wd:mmc/wd1/mmc",
-  "evidence": "Workday mmc --all (157) 2026-10-02: only US software-type entry role is Associate FinOps Engineer (Louisville KY, Python pipelines/APIs, asks 2+ yrs, bachelor's CS; Apply live via API). Borderline SWE; other grad roles are non-US, actuarial, NERA, broking. Status changed from no_program_found.",
+  "evidence": "Workday mmc 2026-10-05: only US software-type entry role is Associate FinOps Engineer (Louisville; Python pipelines/APIs; asks 2+ yrs; canApply true), borderline. Tech grad programs are UK/Poland/Romania; US 2027 college programs are actuarial/finance/informatics analysts.",
   "confidence": "low"
 }

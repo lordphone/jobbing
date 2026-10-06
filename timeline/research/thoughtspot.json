@@ -1,15 +1,15 @@
 {
   "company": "ThoughtSpot",
   "tier": 6,
-  "checked": "2026-10-02",
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker weak match 'Member of Technical Staff 2', Mountain View, 2026-04-09, not confirmed entry-level",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://thoughtspot.wd5.myworkdayjobs.com/careers",
-  "jobs_spec": "wd:thoughtspot/wd5/careers",
-  "evidence": "Workday API 0 postings; browser pane 2026-10-02 shows '0 jobs found' and thoughtspot.com/careers 'No results found', yet third-party sources show ~126 openings, so board looks broken. Tracker had MTS 2 Mountain View 2026-04-09, unconfirmed entry.",
-  "confidence": "low"
+  "jobs_page": "https://www.thoughtspot.com/careers",
+  "jobs_spec": null,
+  "evidence": "Workday board is empty; real list is Rippling ATS (careers page API, 54 jobs, opened 2026-10-05). Engineering: Senior Security Eng, MTS-3, Staff Eng, Staff SRE, Staff FDE; no entry-level or new-grad role.",
+  "confidence": "medium"
 }

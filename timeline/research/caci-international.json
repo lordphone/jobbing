@@ -1,7 +1,7 @@
 {
   "company": "CACI International",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
       "location": "Hanover, MD; Remote (Any State)",
       "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -19,7 +19,7 @@
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
       "location": "Houston, TX",
       "opened": "2026-10-02",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://caci.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:caci/wd1/external",
-  "evidence": "Workday API 2026-10-02: Cloud early-career SWE says 'Minimum Clearance Required to Start: Secret'; Houston NASA SWE says 'Must be a U.S. Citizen or Permanent Resident'. Other junior roles are non-software.",
+  "evidence": "Workday API 2026-10-05: Early Career Cloud says 'Minimum Clearance Required to Start: Secret'; NASA Houston says 'Must be a U.S. Citizen or Permanent Resident'. Other SWE roles are mid/senior or TS/SCI. No clearance-free entry SWE.",
   "confidence": "high"
 }

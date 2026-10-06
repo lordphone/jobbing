@@ -1,7 +1,7 @@
 {
   "company": "Jacobs Solutions",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Entry-Level-Software-Engineer/44217",
       "location": "Nashua, NH",
       "opened": "2026-08-24",
-      "date_source": "page text",
+      "date_source": "page text ('Job posted on August 24, 2026')",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker first seen Software Engineer, Entry, Kennedy Space Center FL",
+  "last_cycle_basis": "tracker first seen: Software Engineer, Entry, Kennedy Space Center FL (jacobs.taleo.net ADV000B3R)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.jacobs.com/en_US/careers/SearchJobs/",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02: Entry Level Software Engineer (Nashua) live with Apply, posted Aug 24 2026; says 'Must be a US Citizen' and DoD Secret clearance. Other entry SWE-titled roles are same defense group.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-05 (Avature, no API): only entry SWE is Nashua posting with Apply; page says 'Must be a US Citizen' and 'US DoD Secret or Higher' clearance. Search 'entry level software' found no other software roles.",
+  "confidence": "high"
 }

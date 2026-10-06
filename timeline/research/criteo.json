@@ -1,15 +1,15 @@
 {
   "company": "Criteo",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only a Client Focused Data Analyst posting (Boston/NYC, 2026-06-16), not SWE",
+  "last_cycle_basis": "tracker history shows only a Client Focused Data Analyst posting (Boston/NYC, 2026-06-16), not SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site",
   "jobs_spec": "wd:criteo/wd3/Criteo_Career_Site",
-  "evidence": "wd:criteo --all (14): US roles are Deal Desk Manager, Sr Solutions Architect (NY); engineering/data interns are Paris/Barcelona. No US/Toronto/Vancouver entry SWE; tracker history has one non-SWE posting.",
-  "confidence": "medium"
+  "evidence": "Workday API (14 postings, --all, 2026-10-05): US roles are Deal Desk Manager and Sr Solutions Architect (NY); engineering/data interns in Paris/Barcelona; no entry SWE in US/Toronto/Vancouver.",
+  "confidence": "high"
 }

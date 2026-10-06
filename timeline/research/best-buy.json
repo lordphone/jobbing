@@ -1,15 +1,15 @@
 {
   "company": "Best Buy",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history is Canada board only",
+  "last_cycle_basis": "unknown; tracker history is Canada board only; web search shows undated Software Engineer II mirrors (Richfield MN)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bestbuy.com/bby",
   "jobs_spec": null,
-  "evidence": "Could not read the US board: jobs.bestbuy.com renders no listings via WebFetch, shared browser pane was unusable, API needs auth. Web search only finds undated Software Engineer II / Associate Software Engineer II mirrors (Richfield MN). Retry in browser.",
+  "evidence": "US board jobs.bestbuy.com is client-rendered; fetch returns no listings and browser access denied 2026-10-05. Earlier 2026-10-02 read: 'software' 1 senior role, 'engineer' 11 non-entry. Third-party sources say 2027 early-careers window opens Sep 2026. Retry later.",
   "confidence": "low"
 }

@@ -1,5 +1,7 @@
 {
   "company": "BMO (Bank of Montreal)",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -10,17 +12,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-09",
   "last_cycle_basis": "tracker first-seen 2025-08-09 'Software Engineer (New or Recent Graduate)' Chicago, offers sponsorship per tracker",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://bmo.wd3.myworkdayjobs.com/External",
   "jobs_spec": "wd:bmo/wd3/External",
-  "evidence": "Tracker's Irving TX Early Career developer (2026-07-30) absent from Workday list (111) and cxs searches ('Irving','Software Developer'); page itself not openable (403 / blocked). Live: Toronto Associate DevOps, experienced developers, Chicago New Grad roles are treasury/ops, Winter 2027 co-ops. Closed inferred.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Irving TX Early Career developer (2026-07-30): page opened in browser 2026-10-05 says 'The page you are looking for doesn't exist'. Workday (112) has no entry SWE: New Grad roles are Treasury/Business Ops; others experienced, Associate (capital markets) or co-ops.",
+  "confidence": "high"
 }

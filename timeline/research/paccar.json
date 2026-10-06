@@ -1,15 +1,15 @@
 {
   "company": "PACCAR",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10",
-  "last_cycle_basis": "PACCAR Extern guide: 2026-cycle requisitions Oct 2, 2025 - Feb 13, 2026 (mainly internships); tracker 2025-10",
+  "last_cycle_basis": "tracker first seen 2025-10 (entry-level role at PACCAR); Extern guide shows 2026-cycle requisitions Oct 2, 2025 to Feb 2026 (mostly internships); SWE new-grad link unconfirmed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.paccar.com",
   "jobs_spec": null,
-  "evidence": "jobs.paccar.com 'software' search fetched 2026-10-02 (first 25 of ~74 only; pagination unusable): software/IT roles are Senior (Pune), Vehicle Software test, Control System Engineer; none entry-level, graduate or 2027. Earlier check: SW Engineer BEV 7+ yrs, Developer 3-5 yrs.",
+  "evidence": "jobs.paccar.com search (SuccessFactors, curl) 2026-10-05: Software Engineer BEV (7+ yrs), Software Developer McKinney/Louisville (3-5 yrs), senior embedded roles; no entry SWE or new-grad posting live. Timing evidence mainly internships.",
   "confidence": "medium"
 }

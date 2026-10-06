@@ -1,15 +1,26 @@
 {
   "company": "Danaher",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2026-07-07",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineer 1', Indianapolis, IN (Danaher OpCo)",
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer, Desktop Software",
+      "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
+      "location": "Irvine, CA",
+      "opened": "2026-09-29",
+      "date_source": "tracker first seen (Workday startDate 2026-10-02)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker first-seen: 'Software Engineer 1', Indianapolis, IN 2026-07-07 is this-cycle (closed); no new-grad SWE in the 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
   "jobs_spec": "wd:danaher/wd1/DanaherJobs",
-  "evidence": "Workday DanaherJobs (144, --all): US entries are Controls & Electrical Engineer I, Summer 2027 interns, senior AI/QA; Software Engineer 1 Indianapolis (tracker 2026-07-07) not on board (posting page not opened).",
+  "evidence": "Workday DanaherJobs API/cxs 2026-10-05: 'Engineer, Desktop Software' (Masimo, Irvine CA) live with Apply enabled; B.S. in CS, no years ask, 'with guidance from experienced engineers'; level not labelled entry. Software Engineer 1 Indianapolis (tracker 2026-07-07) gone. No sponsorship/deadline stated.",
   "confidence": "medium"
 }

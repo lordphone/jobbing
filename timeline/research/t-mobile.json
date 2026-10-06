@@ -1,17 +1,26 @@
 {
-  "company": "T-Mobile",
   "tier": 11,
-  "checked": "2026-10-02",
+  "company": "T-Mobile",
   "status": "open",
   "postings": [
-    {"title": "Assoc Engineer, AI", "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI_REQ375927", "location": "Bellevue, WA", "opened": "2026-10-01", "date_source": "workday startDate", "deadline": "2026-10-06", "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Assoc Engineer, AI",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI_REQ375927",
+      "location": "Bellevue, WA",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-06",
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "tracker history: Associate AI Engineer (Bellevue, WA) first seen 2025-09-04",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker history: Associate AI Engineer (Bellevue) first seen 2025-09-04; Associate Engineer, Software 2025-11-04",
   "jobs_page": "https://tmobile.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:tmobile/wd1/External",
-  "evidence": "Workday API (53 postings): Assoc Engineer, AI (Bellevue) posted 2026-10-01, canApply true, bachelor's, under 2 yrs preferred, endDate 2026-10-06 (short window). Entry-level AI engineer, not labeled new grad. No other entry SWE postings; no sponsorship statement.",
-  "confidence": "medium"
+  "evidence": "Workday CXS 2026-10-05: Assoc Engineer, AI (Bellevue) detail loads, startDate 2026-10-01, endDate 2026-10-06 (short window), no sponsorship text; no Associate Software Engineer live; others Sr/Principal.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

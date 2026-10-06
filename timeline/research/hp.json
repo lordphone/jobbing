@@ -1,6 +1,7 @@
 {
   "company": "HP",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,18 +10,17 @@
       "location": "Spring, TX",
       "opened": "2026-08-24",
       "date_source": "tracker first seen (Workday startDate 2026-08-25)",
+      "live_verified": "api",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": null
     }
   ],
   "last_cycle_opened": "2025-10-11",
   "last_cycle_basis": "jobs.py history: Software Development Engineer, Spring TX / Palo Alto CA / Boise ID / Corvallis OR, first seen 2025-10-11 (closed); Software Development Graduate Roles first seen 2026-05-05 (closed)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
   "jobs_spec": "wd:hp/wd5/exteu-ac-careersite",
-  "evidence": "Workday detail API: Software Product Security Engineer (Spring TX; 0-2 yrs, BS/MS) canApply true, start 2026-08-25, no citizenship bar, no end date; not on the 126-posting list. HP IQ SF role needs 2-4 yrs; software roles otherwise interns.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday board and detail API 2026-10-05: Software Product Security Engineer (Spring TX, start 2026-08-25, BS/MS CS, 0-2 yrs) still live, no end date, no citizenship line. Other US software roles are interns; HP IQ SF security role not entry-level. Security-flavored SWE, so medium.",
+  "confidence": "medium"
 }

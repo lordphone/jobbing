@@ -1,15 +1,15 @@
 {
   "company": "DigitalOcean",
-  "tier": 7,
-  "checked": "2026-10-02",
-  "status": "closed",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first seen: Software Engineer I - Security, Seattle WA (digitalocean.com/careers/position/apply/?gh_jid=7184047)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: Software Engineer I - Security, Seattle WA (gh_jid=7184047)",
   "jobs_page": "https://job-boards.greenhouse.io/digitalocean98",
   "jobs_spec": "gh:digitalocean98",
-  "evidence": "Greenhouse API (166 postings) 2026-10-02: last cycle SWE I - Security (Seattle) not on board. Only Systems Engineer I (Seattle) is data-center hardware/firmware support, not software; Hyderabad roles non-US.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-05 (166 postings): entry titles are Software Engineer I (Karachi, posted today), Cloud Ops Engineer I (Hyderabad), Systems Engineer I (Seattle, hardware/infra). No US entry SWE; last cycle's SWE I posted late Oct, so likely not yet.",
+  "confidence": "medium",
+  "tier": 7,
+  "checked": "2026-10-05",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

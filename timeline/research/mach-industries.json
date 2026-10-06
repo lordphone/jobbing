@@ -1,7 +1,7 @@
 {
   "company": "Mach Industries",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-09-10",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Graduating by summer 2027",
+      "grad_window": "by summer 2027",
       "live_verified": "api"
     },
     {
@@ -26,11 +26,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker 2024-11-08 'New Grad 2025: Software Engineer' is two cycles old; no posting found in the 2025-07 to 2026-01 window",
+  "last_cycle_basis": "Tracker 2024-11-08 'New Grad 2025: Software Engineer' is two cycles old; no posting in 2025-07 to 2026-01 window",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/machindustries",
   "jobs_spec": "gh:machindustries",
-  "evidence": "Two live new-grad software postings (Dec 2026 and May 2027 grads) but both quote ITAR: applicant must be a U.S. citizen or national, green card holder, refugee or asylee; no export-license sponsorship.",
+  "evidence": "Greenhouse API: May 2027 and Dec 2026 New Graduate Software postings are live (detail read), both under \"ITAR Requirements\": applicant must be a U.S. citizen or national, green card holder, refugee or asylee.",
   "confidence": "high"
 }

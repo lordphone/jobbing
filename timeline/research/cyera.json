@@ -1,7 +1,7 @@
 {
   "company": "Cyera",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.comeet.com/jobs/cyera/17.008",
   "jobs_spec": null,
-  "evidence": "Careers page is Comeet, not API-readable; page shows sales/support/Tel Aviv roles; search shows no new-grad SWE. Board not fully read, so low confidence.",
-  "confidence": "low"
+  "evidence": "Comeet data parsed 2026-10-05 (220 positions): US/Canada roles are sales/customer-success/support engineers plus a Security Engineer (NY); SWE R&D is Tel Aviv. No US entry-level SWE.",
+  "confidence": "high"
 }

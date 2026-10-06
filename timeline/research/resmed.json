@@ -1,19 +1,9 @@
 {
   "company": "ResMed",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1",
-      "location": "San Diego, CA",
-      "opened": "2026-09-24",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
     {
       "title": "Associate iOS Developer",
       "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-iOS-Developer_JR_053886-1",
@@ -33,14 +23,24 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Associate Android Developer",
+      "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+      "location": "San Diego, CA",
+      "opened": "2026-10-05",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-01-14",
   "last_cycle_basis": "tracker first-seen: Associate Engineer - Cloud Development, San Diego CA",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
   "jobs_spec": "wd:resmed/wd3/ResMed_External_Careers",
-  "evidence": "Workday API 2026-10-02: Assoc SWE (09-24, 10-01) and Assoc iOS Developer (09-22) live in San Diego. 09-24 posting says ineligible for visa sponsorship. No deadline stated. Same as prior.",
+  "evidence": "Workday API+cxs 2026-10-05: Associate Software Engineer (10-01), Associate iOS (09-22), Associate Android (10-05) live in San Diego, canApply true. Earlier 09-24 req JR_052316 now gone; its no-sponsorship note not in current texts. No deadline.",
   "confidence": "high"
 }

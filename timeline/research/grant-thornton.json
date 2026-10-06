@@ -1,36 +1,15 @@
 {
   "company": "Grant Thornton",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "AI, Data & Technology Associate - Summer 2027",
-      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115512",
-      "location": "Chicago, IL",
-      "opened": "2026-08-27",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "Summer 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "AI, Data & Technology Associate - Summer 2027",
-      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115708",
-      "location": "Charlotte, NC",
-      "opened": "2026-08-31",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "Summer 2027",
-      "live_verified": "api"
-    }
-  ],
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history has no US Grant Thornton SWE/tech-associate posting in Jul 2025-Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/",
   "jobs_spec": "oracle:ehzq.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-02, 61 postings: neither AI, Data & Technology Associate req is in the search list; req 115512 has no posted start/end date (unpublished); 115708 returns nothing. Consulting role, not pure SWE. 'No visa sponsorship'. Other tech roles are interns/managers. Browser pane unreliable.",
+  "evidence": "Oracle API 2026-10-05 (61 reqs): no SWE-track new-grad role; only intern/consulting Summer 2027 roles (Tax Tech Intern, Value Creation, Cyber, SOC). AI, Data & Technology Associate Summer 2027 (Chicago, req 115512, unlisted but retrievable, no sponsorship) is advisory consulting, not counted.",
   "confidence": "medium",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "tier": 10
 }

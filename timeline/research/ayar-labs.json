@@ -1,15 +1,26 @@
 {
   "company": "Ayar Labs",
   "tier": 7,
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer, Hardware Test Software",
+      "url": "https://ayarlabs.com/careers/?gnk=job&gni=8a7883a89e6b0bf7019e8ff5d13c36b9",
+      "location": "San Jose, CA",
+      "opened": "2026-06-12",
+      "date_source": "paycor datePosted embedded in ayarlabs.com/careers page",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history or recruiting-page evidence found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ayarlabs.com/careers/",
   "jobs_spec": null,
-  "evidence": "Read ayarlabs.com/careers in browser 2026-10-02 (all ~65 listings): software/ML-type roles are Sr/Staff/Principal; only unlabeled-level 'Engineer, Hardware Test Software' (San Jose) is hardware test, not counted. No new-grad track.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Careers page HTML embeds the full Paycor job list (~65). One entry-level software role: Engineer, Hardware Test Software, San Jose (BS+1 yr or MS 0-2 yrs, Python, Software Infrastructure group, posted 2026-06-12). Test-infrastructure software, so borderline. All other software/ML roles Sr/Staff/Principal; no citizenship text seen.",
+  "confidence": "medium"
 }

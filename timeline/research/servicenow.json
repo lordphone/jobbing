@@ -1,11 +1,21 @@
 {
   "company": "ServiceNow",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (IC2, beginning-career, AI Control Tower)",
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-02",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (beginning-career, AI Control Tower)",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151949130",
       "location": "Santa Clara, CA",
       "opened": "2026-09-25",
@@ -15,7 +25,7 @@
       "live_verified": "api"
     },
     {
-      "title": "Software Engineer (IC2, beginning-career; 2-5 yrs listed)",
+      "title": "Software Engineer (beginning-career; 2-5 yrs listed)",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000152723759",
       "location": "Santa Clara, CA",
       "opened": "2026-09-30",
@@ -61,6 +71,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/ServiceNow",
   "jobs_spec": "sr:ServiceNow",
-  "evidence": "SR API 2026-10-02, posting pages return 200: entry-level SWE roles live in Santa Clara and West Palm Beach (0-2+ yrs, IC2 'beginning their career'), plus Assoc Applications Dev Engineer. No citizenship/sponsorship/deadline line. Not labeled 2027 new grad.",
-  "confidence": "medium"
+  "evidence": "SR API 2026-10-05, posting APIs 200: explicit '(New Grad)' Moveworks SWE Mountain View released 2026-10-02, plus beginning-career SWE roles in Santa Clara and West Palm Beach (0-2+ yrs), Assoc Applications Dev Engineer. No citizenship or sponsorship line; export-control boilerplate only.",
+  "confidence": "high"
 }

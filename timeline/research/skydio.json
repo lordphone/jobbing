@@ -1,7 +1,8 @@
 {
   "company": "Skydio",
   "tier": 8,
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker entry found",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/skydio",
   "jobs_spec": "ashby:skydio",
-  "evidence": "Ashby API (--all): only Summer/Winter 2027 interns entry-level; full-time SWE roles unleveled mid-level or senior/staff; no new-grad marker or grad window.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Ashby API (152, --all, 2026-10-05): only Summer/Winter 2027 interns are entry-level; full-time SWE/Autonomy roles are unleveled or senior/staff; no new-grad marker, grad window or tracker history.",
+  "confidence": "medium"
 }

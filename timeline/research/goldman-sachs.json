@@ -1,15 +1,15 @@
 {
   "company": "Goldman Sachs",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "2027 | Americas | New York City Area | Engineering | New Analyst",
       "url": "https://higher.gs.com/roles/171569",
       "location": "New York, NY",
-      "opened": "2026-08-15",
-      "date_source": "oracle API posted (hdpc LateralHiring)",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
       "live_verified": "browser"
@@ -33,6 +33,16 @@
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
       "live_verified": "browser"
+    },
+    {
+      "title": "2027 | Americas | Bellevue | Engineering | New Analyst",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "opened": "2026-08-14",
+      "date_source": "tracker first seen; oracle posted 2026-08-15",
+      "deadline": null,
+      "grad_window": "final-year undergraduate and graduate students (page text)",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -41,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02: NYC, Dallas and Salt Lake City 2027 Engineering New Analyst pages on higher.gs.com each show an Apply button. Seattle version not verified. No sponsorship text or deadline stated.",
+  "evidence": "2026-10-05: higher.gs.com role pages 171568/9/70 (Dallas, NYC, SLC 2027 Engineering New Analyst) opened in browser with Apply button; Seattle (Bellevue) posting listed on Oracle. Final-year students. No sponsorship text or deadline stated.",
   "confidence": "high"
 }

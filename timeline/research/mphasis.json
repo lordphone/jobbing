@@ -1,15 +1,15 @@
 {
   "company": "Mphasis",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; campus hiring (Associate Software Engineer) is India-based",
+  "last_cycle_basis": "No tracker history; no dated early-career SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mphasis.ripplehire.com/candidate/?token=ty4DfyWddnOrtpclQeia&source=CAREERSITE#list/geo=USA",
   "jobs_spec": null,
-  "evidence": "RippleHire candidatejobsearchpage API, geo=USA (74 jobs, all titles and experience read): software roles are 3-6 yrs senior. Two low-year hits checked in detail: 'Software Engineer' 2-4 yrs is a contract UX/UI Designer; 'Developer' 0-3 yrs is a Delivery Module Lead. No entry SWE.",
-  "confidence": "medium"
+  "evidence": "RippleHire US list 2026-10-05: 83 jobs; only first page (10) read, all 5-13 yrs (test leads, Sr. Full Stack, module leads); pager could not be driven (browser pane contended). Earlier 0-2 yr filter read showed only support/AVP/module-lead roles. No entry SWE seen.",
+  "confidence": "low"
 }

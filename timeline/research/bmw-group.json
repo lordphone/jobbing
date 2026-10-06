@@ -1,15 +1,15 @@
 {
   "company": "BMW Group",
-  "status": "unknown",
-  "last_cycle_basis": "No new-grad SWE postings found; US IT job field is intern/co-op plus experienced roles",
-  "jobs_page": "https://www.bmwgroup.jobs/us/en/jobfields/information-technology.html",
-  "evidence": "Job finder is JS-only; browser pane tab was shared/hijacked and WebFetch shows no list. Web search: only Spring 2027 Mountain View intern, Spartanburg SWE co-op, Senior Adv. Tech Engineer. No entry-level SWE seen; board not enumerated.",
-  "confidence": "low",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history for BMW US; only UK/Europe graduate placements",
   "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.bmwgroup.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "last_cycle_opened": null
+  "evidence": "jobs.bmwgroup.com sitemap (981 jobs; page is JS-rendered) read 2026-10-05, US entries filtered: Spartanburg/Woodruff/Greer/Woodcliff Lake/Mountain View. Only interns/co-ops (incl. Software Developer Intern, Quality Software Intern), PACE Associate (plant rotation, not SWE), and senior/lead roles. No entry-level SWE.",
+  "confidence": "medium"
 }

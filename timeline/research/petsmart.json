@@ -1,7 +1,7 @@
 {
   "company": "PetSmart",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.petsmart.com/jobs",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02: iCIMS-style board, 10909 jobs; keyword 'software' gave only Senior Automation Developer - UiPath and Solutions Architect (Costa Rica) as tech. Early Career link is only a talent-community signup. No entry SWE seen; search is fuzzy.",
-  "confidence": "medium"
+  "evidence": "careers.petsmart.com jobs API: all Home Office (33), Canada Home Office (2) and Costa Rica (1) postings read. Tech roles only Lead Network Engineer, Sr Automation Developer (UiPath), Solutions Architect (Costa Rica). No entry SWE or early-career tech.",
+  "confidence": "high"
 }

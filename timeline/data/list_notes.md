@@ -1,8 +1,12 @@
-- Added Collaborative Robotics (tier 3): robotics startup posting "Software Engineer – University Grad" roles in Santa Clara under its own name.
-- Added CAE (tier 8): flight-simulation and defense company posting Junior ML Engineer and software roles in Orlando and Arlington, TX.
-- Added STR (Systems & Technology Research) (tier 8): defense R&D firm posting Associate Software Reverse Engineer and Associate Researcher roles in the US; added override `str`.
-- Added WebFX (tier 10): digital agency posting Entry Level / Junior Software Engineer roles in Harrisburg, PA and Ann Arbor, MI.
-- Added AHEAD (tier 10): IT services firm posting Associate AI Engineer and Software Engineer roles in Chicago and US remote.
-- Added PMG (tier 10): marketing-tech firm with a Graduate Leadership Program – AI & Software Engineering track in Dallas.
-- Added Quest Global (tier 10): engineering services firm posting Full Stack Developer and data roles in Charlotte and Houston.
-- Fixed override for "Boston Consulting Group" → BCG X: the old key kept the stop-word "group", so it never matched. Skipped the rest of the top ~100 unmatched names: staffing agencies, universities, non-US employers, AI-training vendors, and civil/environmental engineering firms with no software roles.
+- Added Alkami Technology (tier 5): digital-banking software company posting Software Engineer roles (US remote).
+- Added Pattern Data (tier 6): posts "Software Engineer - Entry" roles in Richmond, VA.
+- Added OpenEye (tier 6): cloud video-security software company posting Software Engineer I roles in Liberty Lake, WA.
+- Added Altamira Technologies (tier 8): defense contractor posting Junior Software Engineer roles (Dayton/Wright-Patterson, Augusta, Centennial).
+- Added Scientific Research Corporation (tier 8): defense R&D contractor posting Software Engineer 1 / Software Developer 1 roles in Suffolk, VA and North Charleston, SC.
+- Added QuinStreet (tier 9): performance-marketing company posting Entry Level Software Engineer roles in Foster City, CA.
+- Added Avalore (tier 10): government tech contractor posting Software Engineer and AI/ML Engineer roles in Annapolis Junction, MD and Arlington, VA.
+- Added Agile Defense (tier 10): government IT contractor posting Software Developer 1 roles in Aberdeen, MD.
+- Added Trace3 (tier 10): IT solutions provider posting Software Engineer roles in Colorado Springs.
+- Added NOV (tier 11): oilfield-equipment company posting "Software Engineer - Pathway" roles in Houston.
+- Added tracker override: "1X" → 1X Technologies.
+- Skipped the rest of the top ~260 unmatched names: staffing agencies, universities, hospitals, utilities and engineering firms without software roles, non-US employers (Sainsbury's, Trustpilot, Hawk-Eye, Konrad Group, Sun Life, Intact, Jonas Software, D2L), AI-data gig work (Innodata, Prolific, Welocalize), national labs with only postdoc postings (Brookhaven, Savannah River, Fermilab, National Laboratory of the Rockies), and companies with no entry SWE postings (Xometry, PGIM, Dyna Robotics, X Development, LMI). Solana Labs stays on the list (research still says "largely wound down" but there's no shutdown notice on its own site).

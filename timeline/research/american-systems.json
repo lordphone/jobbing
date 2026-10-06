@@ -1,15 +1,26 @@
 {
   "company": "AMERICAN SYSTEMS",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "excluded",
-  "excluded_reason": "clearance",
+  "postings": [
+    {
+      "title": "Software Engineer/Developer (4783)",
+      "url": "https://careers-americansystems.icims.com/jobs/4783/job",
+      "location": "Middletown, RI",
+      "opened": "2026-09-14",
+      "date_source": "page text (iCIMS datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2026-01-06",
-  "last_cycle_basis": "Tracker history: Software Engineer 1 (Bethesda, MD) first seen 2026-01-06; Software Engineer I (McLean) 2025-02-28",
+  "last_cycle_basis": "Tracker history: Software Engineer 1 (Bethesda, MD) first seen 2026-01-06; Software Engineer I McLean 2025-02-27",
+  "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Read iCIMS search (244 jobs) and SWE postings by raw HTML: all state clearance, e.g. 4977 Software Engineer/Developer (Patuxent area, Secret); 4783 \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\"; 4982 \"Must be a U.S. Citizen\". No entry SWE without clearance.",
-  "confidence": "high",
-  "tier": 10,
-  "checked": "2026-10-02",
-  "postings": [],
-  "no_sponsorship": false
+  "evidence": "iCIMS pages 2026-10-05: SWE 4783 \"Secret\", \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\" (2-4 yrs); 4977/4813/4974 need active Secret; 4547 Top Secret. All software postings cleared.",
+  "confidence": "high"
 }

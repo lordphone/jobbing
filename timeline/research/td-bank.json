@@ -1,17 +1,9 @@
 {
   "company": "TD Bank (TD Bank Group)",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-08",
-      "grad_window": null,
-      "live_verified": "api"
-    },
     {
       "title": "Software Engineer I",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
@@ -23,6 +15,16 @@
       "live_verified": "api"
     },
     {
+      "title": "Software Engineer I",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-08",
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
       "title": "Software Engineer I (Cobol Developer)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398",
       "location": "Toronto, ON, Canada",
@@ -30,17 +32,15 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-15",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-25",
   "last_cycle_basis": "tracker first-seen 2025-08-25 'Machine Learning Engineer I' Toronto (SWE I Toronto 2025-11-04); NY 'New Grad 2025' 2024-10-08 two cycles back",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday (151) 2026-10-02: three live Toronto 'Software Engineer I' reqs, deadlines from endDate. Entry-level title, not a class-year program. 2027 Technology Graduate Programme is Dublin only; US roles are Spring co-ops and a 3+ yr Management Associate program.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday (148) 2026-10-05: three Toronto Software Engineer I reqs with End Dates Oct 8, 10, 15; R_1508757 and Cobol R_1512398 opened in browser with Apply. Entry-level title, no class year. 2027 Technology Graduate Programme is Dublin only; no US entry-level SWE.",
+  "confidence": "high"
 }

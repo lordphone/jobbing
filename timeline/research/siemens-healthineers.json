@@ -1,15 +1,15 @@
 {
   "company": "Siemens Healthineers",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.siemens-healthineers.com/global/en/search-results?keywords=software%20engineer",
   "jobs_spec": "wd:onehealthineers/wd3/SHSJB",
-  "evidence": "Workday --all 2026-10-02 (91): US has Software Engineering Co-op, field service and senior roles; Software Engineer postings are Germany (HNA R) or non-US. No US entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Workday API --all 2026-10-05 (89 postings): US has Software Engineering Co-op (Hoffman Estates, not counted), Software Installation Engineer (field), AI Fellow (exchange-visitor program for foreign students), senior roles; software developer postings are in Germany/India. No US entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

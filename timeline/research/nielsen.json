@@ -1,15 +1,15 @@
 {
   "company": "Nielsen",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party record found (tracker rows are NielsenIQ, a separate company).",
+  "last_cycle_basis": "No tracker or first-party record (tracker rows are NielsenIQ, a separate company).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.smartrecruiters.com/TheNielsenCompany",
   "jobs_spec": "sr:TheNielsenCompany",
-  "evidence": "SmartRecruiters API, 126 postings: software/ML roles are India or Mexico; US remote ones are Head of Sales Engineering and Forward Deployed Engineer. No entry SWE.",
-  "confidence": "high"
+  "evidence": "SmartRecruiters API 2026-10-05: software/ML roles are India or Mexico; only US remote tech role is Forward Deployed Engineer - AI Solutions (Gracenote), not entry-labelled.",
+  "confidence": "medium"
 }

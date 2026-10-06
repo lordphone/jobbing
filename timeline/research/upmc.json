@@ -1,12 +1,11 @@
 {
   "company": "UPMC",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Information Technology Rotation (ITR) Program - Winter Cohort (software engineering among rotations)",
-      "url": "https://careers.upmc.com/job/23684047/information-technology-rotation-itr-program-winter-cohort/",
+      "url": "https://careers.upmc.com/job/23684047/",
       "location": "Pittsburgh, PA",
       "opened": "2026-08-25",
       "date_source": "page text (JSON-LD datePosted)",
@@ -16,21 +15,22 @@
     },
     {
       "title": "Information Technology Rotation (ITR) Program (software engineering among rotations)",
-      "url": "https://careers.upmc.com/job/23684048/information-technology-rotation-itr-program/",
+      "url": "https://careers.upmc.com/job/23684048/",
       "location": "Pittsburgh, PA",
       "opened": "2026-08-25",
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": "Degree completed in or before June 2027; cohort starts July 2027",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; UPMC students page says applications run early August to end of October or until filled; no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Opened ITR posting in browser 2026-10-02: APPLY NOW (Taleo) shown. Two-year IT rotation; placements include software engineering (mixed IT track), Pittsburgh. Winter and July 2027 cohorts. No sponsorship text found.",
-  "confidence": "medium"
+  "evidence": "Fetched both ITR posting pages 2026-10-05: Apply shown, datePosted 2026-08-25. Two-year, four-rotation entry-level IT program; rotations include software engineering, custom application development, plus PM/analyst/infra (mixed IT track). Pittsburgh required. No sponsorship text found.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

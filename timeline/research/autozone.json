@@ -1,7 +1,7 @@
 {
   "company": "AutoZone",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
@@ -12,15 +12,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-07-27",
-  "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN, https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
+  "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN (same posting; this cycle)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle board 2026-10-01: 'Systems Engineer Associate' (130511, first seen 2026-07-27) returns no requisition, so closed. Live Memphis Systems Engineer roles need 4-6 / 5+ yrs (138258 is QA, 5+ yrs). 2027 interns only.",
+  "evidence": "Oracle API 2026-10-05: Systems Engineer Associate 130511 (first seen 2026-07-27) not on board and requisition lookup by id returns nothing. Live Systems Engineer roles checked need 4-6+ yrs. 2027 postings are internships.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Capco",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -33,14 +33,24 @@
       "deadline": null,
       "grad_window": "June 2027",
       "live_verified": "api"
+    },
+    {
+      "title": "Capco Associate Talent Program - Houston Jan 2027",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
+      "location": "Houston, TX",
+      "opened": "2026-02-17",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Jan 2027",
+      "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2026-02-16",
-  "last_cycle_basis": "Tracker: Capco Associate Talent Program (Dallas) first seen 2026-02-16; Houston Jan 2027 2026-02-17.",
+  "last_cycle_opened": "2025-10-17",
+  "last_cycle_basis": "Tracker: Junior AI Engineer (Orlando, FL) first seen 2025-10-17, https://job-boards.greenhouse.io/capco/jobs/7335392; Associate Talent Program Dallas 2026-02-16.",
   "excluded_reason": "green card",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/capco",
   "jobs_spec": "gh:capco",
-  "evidence": "Greenhouse API 2026-10-02: live Associate Talent Program (consulting/technology, not pure SWE) states \"Must be authorized to work in the United States (US Citizens or Permanent Residents ONLY)\". Other SWE roles are experienced.",
+  "evidence": "Greenhouse API 2026-10-05 (715, --all): Associate Talent Program (Dallas/Houston Jan/Jun 2027, consulting/tech) says \"US Citizens or Permanent Residents ONLY\". Toronto dev roles are experienced (Backend Rust, Full Stack Python); none entry-level.",
   "confidence": "medium"
 }

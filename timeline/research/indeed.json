@@ -1,18 +1,28 @@
 {
   "company": "Indeed",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "open",
+  "checked": "2026-10-05",
+  "status": "unknown",
   "postings": [
     {
       "title": "Software Engineer I",
-      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374&q=software%20engineer",
-      "location": "Austin, TX (listing; text says not considering candidates based in Austin, TX)",
-      "opened": "on or before 2026-09-30",
-      "date_source": "page text (earlier run saw it 2026-09-30)",
+      "url": "https://www.indeed.com/cmp/Indeed/jobs?start=60",
+      "location": "Austin, TX (listing; text says not considering Austin-based candidates)",
+      "opened": "on or before 2026-10-05",
+      "date_source": "page text (date not shown)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
+    },
+    {
+      "title": "Site Reliability Engineer I",
+      "url": "https://www.indeed.com/cmp/Indeed/jobs",
+      "location": "Remote (US)",
+      "opened": "unknown (date not shown)",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
   "jobs_spec": null,
-  "evidence": "Opened indeed.com/cmp/Indeed/jobs in browser: Software Engineer I listed (Austin, TX), bachelor's CS required, no class year, no sponsorship/clearance text. Posting date not shown; listing says not considering Austin-based candidates. Was unknown on 2026-10-01.",
-  "confidence": "medium"
+  "evidence": "Indeed.com blocked WebFetch (403) and browser navigation this run, so earlier same-day browser read (Software Engineer I Austin, SRE I Remote; 79 jobs) could not be re-verified. Retry in browser.",
+  "confidence": "low"
 }

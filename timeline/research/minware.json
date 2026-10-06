@@ -1,7 +1,7 @@
 {
   "company": "minware",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.minware.com/careers",
   "jobs_spec": null,
-  "evidence": "Careers page states 'There are no open positions at this time.' gh:minware returns nothing. Small remote company; Front End Engineer postings in 2024 only.",
-  "confidence": "medium"
+  "evidence": "Careers page fetched 2026-10-05: 'There are no open positions at this time.' Only Front End Engineer postings in 2024 tracker history. Small remote company.",
+  "confidence": "high"
 }

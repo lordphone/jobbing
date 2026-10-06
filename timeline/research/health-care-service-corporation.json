@@ -1,15 +1,15 @@
 {
   "company": "Health Care Service Corporation (HCSC)",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows only experienced roles and an Associate Developer - Mainframe (2026-02-27, Helena MT), outside the Jul-Jan window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history shows only experienced roles and Associate Developer - Mainframe (2026-02-27, Helena MT) and Associate Automation Programmer (2026-04-29, Richardson TX), outside the Jul-Jan window",
   "jobs_page": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External",
   "jobs_spec": "wd:hcsc/wd1/HCSC_External",
-  "evidence": "Workday --all 2026-10-02 (39): 2027 Early Careers interns (Developer, IT QA, Tech Delivery, Automation Programmer), New Grad LDP and Actuarial; no full-time new-grad SWE live yet.",
-  "confidence": "medium"
+  "evidence": "Workday API --all 2026-10-05 (16 postings): 2027 Early Careers interns (Developer, IT QA, Tech Delivery, Automation Programmer) and new-grad LDP/Actuarial/Analytics Consulting programs (grads Dec 2026-Jun 2027, no sponsorship/OPT), none software. No full-time new-grad SWE live yet.",
+  "confidence": "medium",
+  "no_sponsorship": true,
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "last_cycle_opened": null
 }

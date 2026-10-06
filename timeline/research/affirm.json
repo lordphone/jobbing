@@ -1,15 +1,26 @@
 {
   "company": "Affirm",
   "tier": 3,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I, Frontend (Upfunnel)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+      "location": "Remote (Canada; residents of AB, BC, MB, NB, NL, NS, ON, PE or SK only; no city listed)",
+      "opened": "2026-09-11",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-11-30",
-  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' NYC / 'Software Engineer \u2013 Early Career' first seen 2025-11-30, https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' NYC / 'Software Engineer – Early Career' first seen 2025-11-30, https://job-boards.greenhouse.io/affirm/jobs/7485072003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/affirm",
   "jobs_spec": "gh:affirm",
-  "evidence": "gh:affirm board (190, --all) 2026-10-02: SWE I only Remote Canada (BC/other provinces residents, no Toronto/Vancouver listed), Poland, Spain; US roles are II/senior. No US early-career SWE live.",
+  "evidence": "gh:affirm (184, --all) 2026-10-05: only North America entry-level SWE is SWE I Frontend, Remote Canada (AB/BC/MB/NB/NL/NS/ON/PE/SK residents; no city), API-listed live. Other SWE I Poland/Spain; US SWE roles are intern or II+. Borderline on location.",
   "confidence": "medium"
 }

@@ -1,27 +1,27 @@
 {
   "company": "Lowe's",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Associate Software Engineer - Launchpad",
       "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559",
-      "location": "Charlotte, NC",
+      "location": "Charlotte, NC (Lowe's Charlotte Technology Hub)",
       "opened": "2026-09-13",
-      "date_source": "tracker first seen (workday start 2026-09-14)",
+      "date_source": "workday startDate 2026-09-14 (tracker first seen 2026-09-13)",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "Launchpad start Monday 2027-01-25",
       "live_verified": "api"
     },
     {
       "title": "Associate Data Engineering - Launchpad",
       "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02641572",
-      "location": "Charlotte, NC",
+      "location": "Charlotte, NC (Lowe's Charlotte Technology Hub)",
       "opened": "2026-09-13",
-      "date_source": "tracker first seen (workday start 2026-09-14)",
+      "date_source": "workday startDate 2026-09-14 (tracker first seen 2026-09-13)",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "Launchpad start Monday 2027-01-25",
       "live_verified": "api"
     }
   ],
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS",
   "jobs_spec": "wd:lowes/wd5/LWS_External_CS",
-  "evidence": "Workday read 2026-10-02: Associate Software Engineer - Launchpad live in Charlotte (program start Jan 2027 per earlier read), no deadline or sponsorship/citizenship line. Associate Data Engineering Launchpad also live.",
+  "evidence": "Workday API/page 2026-10-05: Associate Software Engineer - Launchpad (JR-02641559, canApply true) and Associate Data Engineering - Launchpad live, both Charlotte, start 2027-01-25. No sponsorship or citizenship line found. SWE Launchpad not in board list but page opens.",
   "confidence": "high"
 }

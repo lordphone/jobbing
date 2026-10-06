@@ -1,0 +1,26 @@
+{
+  "company": "Agile Defense",
+  "tier": 10,
+  "checked": "2026-10-05",
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Software Developer I",
+      "url": "https://jobs.lever.co/agile-defense/4d5254dd-8366-4983-9156-a7f989fea964",
+      "location": "Aberdeen Proving Ground, MD",
+      "opened": "2026-06-23",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; tracker history shows only non-SWE roles (Windows sysadmin 2025-06, SOC analyst 2025-10)",
+  "excluded_reason": "clearance",
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.lever.co/agile-defense",
+  "jobs_spec": "lever:agile-defense",
+  "evidence": "Lever API (123 postings) 2026-10-05: only entry SWE is Software Developer I (Aberdeen Proving Ground, MD, 0-2 yrs): \"Must possess at minimum an Interim Secret clearance\", \"Must Have Clearance to Start\".",
+  "confidence": "high"
+}

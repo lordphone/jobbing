@@ -1,7 +1,7 @@
 {
   "company": "SpaceX",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -15,13 +15,43 @@
       "live_verified": "api"
     },
     {
-      "title": "New Graduate Engineer, Software (Application Software)",
-      "url": "https://job-boards.greenhouse.io/spacex/jobs/8730567002",
-      "location": "Hawthorne, CA",
-      "opened": "2026-08-19",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8696097002",
+      "location": "Bastrop, TX",
+      "opened": "2026-08-14",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating in the class of 2026 or 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8696080002",
+      "location": "Palo Alto, CA",
+      "opened": "2026-08-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Graduating in the class of 2026 or 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "New Graduate Engineer, Software (Starfall)",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8854394002",
+      "location": "Hawthorne, CA",
+      "opened": "2026-09-28",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Graduating in the class of 2026 or 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "New Graduate Engineer, Software (Starship)",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8743362002",
+      "location": "Hawthorne, CA",
+      "opened": "2026-09-08",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
@@ -31,6 +61,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/spacex",
   "jobs_spec": "gh:spacex",
-  "evidence": "Greenhouse API (2637 postings): ~20 live New Graduate Engineer Software/Security Software postings. Text: 'applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (aka green card holder), (iii) Refugee' (ITAR). Starshield roles add clearance.",
+  "evidence": "Greenhouse API (2665 postings) 2026-10-05: ~15 live New Graduate Software/Security Software postings, class of 2026 or 2027. Posting text: applicant must be a U.S. citizen or national, lawful permanent resident, refugee or asylee (ITAR); Starshield adds clearance.",
   "confidence": "high"
 }

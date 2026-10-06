@@ -1,6 +1,7 @@
 {
   "company": "Morningstar",
   "tier": 5,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-01",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://morningstar.wd5.myworkdayjobs.com/Americas",
   "jobs_spec": "wd:morningstar/wd5/Americas",
-  "evidence": "Workday API --all 2026-10-02, 11 postings: SWE roles Senior/Lead/Principal only. Tracker's Associate SWE and Development Program postings gone. Has entry track, nothing live now.",
-  "confidence": "high",
-  "checked": "2026-10-02"
+  "evidence": "Workday API 2026-10-05 (33 postings): only SWE roles are Mumbai and London mid-level; no US/Canada entry SWE. Tracker's Associate SWE postings (Chicago) gone. Has an entry track; nothing live now.",
+  "confidence": "medium"
 }

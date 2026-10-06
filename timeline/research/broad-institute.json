@@ -1,15 +1,15 @@
 {
   "company": "Broad Institute",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "tracker: 'New Grad: Computational Research' first seen 2024-09 (research, older cycle)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://broadinstitute.avature.net/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Avature via WebFetch 2026-10-02: only Principal SWE, Assoc Director SWE, Computational Scientist I; prior check: Software Engineer II (2026-09-25) needs 2+ yrs BS/1+ MS, not entry. Computational Associate I (2026-09-17, Summer 2027 grads) is research data analysis, not SWE.",
-  "confidence": "medium"
+  "evidence": "Avature search pages 2026-10-05 (software, engineer, computational, developer): Associate Director and Principal Software Engineer (GATK) are senior. Early Career Researchers - Computational Associate I (posted 2026-09-17, Cambridge, Summer 2027 grads, OPT ok) is research data analysis in Python/R, not SWE; not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

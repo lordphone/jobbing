@@ -1,7 +1,5 @@
 {
   "company": "Unity Technologies",
-  "tier": 9,
-  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-10",
@@ -9,7 +7,9 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://unity.com/careers/positions",
-  "jobs_spec": null,
-  "evidence": "unity.com/careers/positions read in browser 2026-10-02 (127 roles): no US/Toronto/Vancouver entry engineer; only Junior Test Engineer (Vilnius) and unlabeled Software Developer (Montreal/remote Canada). MLE New Grad roles gone.",
-  "confidence": "medium"
+  "jobs_spec": "wd:unitytech/wd1/Unity",
+  "evidence": "Workday API 34 postings --all 2026-10-05: no entry-labeled US/Toronto/Vancouver engineer. Software Engineer XR (Bellevue) has no entry language; rest Senior/Staff; Junior Test Engineer is Vilnius. May-Jun 2026 MLE New Grad roles gone from board.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 9
 }

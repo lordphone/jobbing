@@ -1,15 +1,15 @@
 {
   "company": "Mobileye",
-  "status": "no_program_found",
-  "last_cycle_basis": "no tracker history for a US new-grad SWE posting",
-  "jobs_page": "https://careers.mobileye.com/jobs",
-  "evidence": "Parsed careers.mobileye.com/jobs 2026-10-02 (188 roles): engineering in Israel, China, Germany, Japan; only US role is Business Development Manager (Detroit). No US entry-level SWE.",
-  "confidence": "high",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history. Graduate programs exist only in Israel (Outstanding Graduate ML Engineer 2025-10-30, Algorithm Developer 2026-07-29, Ramat Gan)",
   "excluded_reason": null,
-  "jobs_spec": null,
-  "last_cycle_opened": null
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.mobileye.com/jobs",
+  "jobs_spec": "levereu:mobileye",
+  "evidence": "Lever EU API (179 postings, all read) 2026-10-05: the only US role is US ADAS/AD Business Development Manager (Detroit). Entry-level and graduate roles are in Israel; others in China, Germany, Japan. No US, Toronto or Vancouver SWE.",
+  "confidence": "high"
 }

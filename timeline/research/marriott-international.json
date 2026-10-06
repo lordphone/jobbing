@@ -1,15 +1,26 @@
 {
   "company": "Marriott International",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "unknown",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "FLEX Associate Software Engineer - CDP",
+      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
+      "location": "Bethesda, MD",
+      "opened": "2026-07-10",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-11-05",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board --all (271) 2026-10-02: no entry SWE listed; live US SWE are Senior/Principal/FLEX SDET. This-cycle Associate SWE reqs 26099780 and 26099783 return empty from API; 26085377 (FLEX Associate SWE CDP) readable by REST but unlisted, no posted date. Pages unreadable in browser, so closed unconfirmed.",
-  "confidence": "low"
+  "evidence": "Opened req 26085377 in browser 2026-10-05: live ('Be the first to apply'), early-career, 0-3 yrs, FLEX (flexible/temp) role. Absent from Oracle API list (unlisted). FLEX Full Stack Engineer and AI SDET not counted.",
+  "confidence": "medium"
 }

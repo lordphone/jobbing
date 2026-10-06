@@ -1,15 +1,15 @@
 {
   "company": "Intermountain Health",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "no software new-grad posting in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
   "jobs_spec": "wd:imh/wd108/IntermountainCareers",
-  "evidence": "Workday --all 2026-10-02 (113): RN new-grad cohorts, administrative internships, clinical roles, Data Architect/Analyst. No software engineer new-grad posting.",
-  "confidence": "high"
+  "evidence": "Workday API --all and searches (software engineer, developer, data engineer) 2026-10-05 (116 postings): RN new-grad cohorts, administrative internships, clinical roles, Health Informaticist, Data Governance Analyst Senior. No software engineering postings.",
+  "confidence": "high",
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

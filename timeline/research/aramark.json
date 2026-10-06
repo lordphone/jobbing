@@ -1,9 +1,18 @@
 {
   "company": "Aramark",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
+    {
+      "title": "Junior Data Engineer (req 677288, entry point; writes code on a data engineering team)",
+      "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19106/1426164400/",
+      "location": "Philadelphia, PA",
+      "opened": "on or before 2026-09-26",
+      "date_source": "aramark sitemap lastmod (earlier run)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
     {
       "title": "Junior Data Engineer (req 675584)",
       "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19103/1425182600/",
@@ -13,24 +22,15 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
-    },
-    {
-      "title": "Junior Data Engineer (req 677288, entry point; dbt/Snowflake/Python)",
-      "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19106/1426164400/",
-      "location": "Philadelphia, PA",
-      "opened": "on or before 2026-09-26",
-      "date_source": "aramark sitemap lastmod",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found in tracker history; no prior-cycle record",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://aramarkcareers.com/UnitedStates/search/",
   "jobs_spec": null,
-  "evidence": "Opened both Junior Data Engineer pages 2026-10-02: Apply now shown; no visa sponsorship. 677288 is entry-level (BS/MS CS, writes code under senior engineers); 675584 asks 2+ yrs. Data engineering, borderline SWE; no SWE new-grad track in sitemap.",
-  "confidence": "low"
+  "evidence": "Fetched both Junior Data Engineer pages 2026-10-05: Apply now shown, no visa sponsorship. 677288 is an entry point into data engineering; 675584 asks 2+ yrs pipelines. Data Engineer (680025) wants 5-7 yrs. Data engineering is borderline SWE; no SWE new-grad track.",
+  "confidence": "low",
+  "checked": "2026-10-05",
+  "excluded_reason": null
 }

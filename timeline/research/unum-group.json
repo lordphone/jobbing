@@ -1,15 +1,15 @@
 {
   "company": "Unum Group",
-  "tier": 11,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-04-13",
-  "last_cycle_basis": "tracker: 'IT Associate - Software Engineer', Chattanooga TN, first seen 2026-04-13 (spring, outside the 2025-07 to 2026-01 window); now closed.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker: IT Associate - Software Engineer, Chattanooga TN, first seen 2026-04-13 (spring posting, now closed).",
   "jobs_page": "https://unum.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:unum/wd1/external",
-  "evidence": "Workday API --all 2026-10-02 (26 postings): no entry SWE; Summer 2027 sales associates, interns, Data Scientist II, senior IT. April 2026 IT Associate - Software Engineer is gone from the board.",
+  "evidence": "2026-10-05 Workday API --all (27 postings on a full read): only Business Intern Summer 2027. No entry SWE live; IT Associate SWE posted April 2026 and is gone, so likely spring cycle.",
   "confidence": "medium",
-  "checked": "2026-10-02"
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

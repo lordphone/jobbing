@@ -1,7 +1,5 @@
 {
   "company": "Viasat",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "excluded",
   "postings": [
     {
@@ -9,18 +7,20 @@
       "url": "https://careers.viasat.com/jobs/6723",
       "location": "Carlsbad, CA; Tempe, AZ; Marlborough, MA",
       "opened": "2026-08-19",
-      "date_source": "jibe api posted_date",
+      "date_source": "viasat jibe api posted_date",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-06-07",
-  "last_cycle_basis": "tracker: 'Full Stack Software Engineer, Early Career' first seen 2025-06-07 (https://careers.viasat.com/jobs/4457).",
+  "last_cycle_basis": "tracker first seen: Full Stack Software Engineer, Early Career (Carlsbad, CA; Remote) https://careers.viasat.com/jobs/4457",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
   "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-02 (~300 jobs): only US early-career SWE is 6723 (0-3 yrs), text: 'This position requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Duluth 'Software Engineer' 6907 needs 2+ yrs Python (mid-level pay band); others senior.",
-  "confidence": "high"
+  "evidence": "Jibe API 2026-10-05: only US early-career SWE (6723, 0-3 yrs) says it requires U.S. Citizenship and an active SECRET or TOP SECRET clearance. Other US SWE roles need 2+ to 5+ yrs or clearance; Data Engineer Early Career is London.",
+  "confidence": "high",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "no_sponsorship": false
 }

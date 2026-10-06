@@ -1,7 +1,5 @@
 {
   "company": "SLB",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -9,18 +7,20 @@
       "url": "https://careers.slb.com/jobdescription.aspx?id=EF18828-en_US%201",
       "location": "Houston, TX",
       "opened": "2026-08-10",
-      "date_source": "board search index jobposteddate",
+      "date_source": "page text datePosted 8/10/2026",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Earlier international 'Early Careers - Digital Technology' reqs posted 2025-12-02 (Asia/Australia); no US posting date found for last cycle.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no US posting date found; international Early Careers - Digital Technology reqs posted 2025-12-02 (Asia/Australia)",
   "jobs_page": "https://careers.slb.com/job-listing",
   "jobs_spec": null,
-  "evidence": "Coveo job index (careers.slb.com) 2026-10-02 plus posting page fetched: 'Early Careers - Digital Technology' Houston, Apply Now shown, lists SWE/ML/data/AI engineer grad roles, posted 2026-08-10. Evergreen early-careers req, no class year; no sponsorship/citizenship text found.",
-  "confidence": "medium"
+  "evidence": "Posting page fetched 2026-10-05: evergreen Early Careers - Digital Technology (Houston) with Apply Now; lists Back End, Front End, Full Stack, ML, AI, Data engineers for graduates. No class year; no citizenship or sponsorship limit seen. Rolling, not a dated program.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

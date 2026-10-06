@@ -1,15 +1,15 @@
 {
   "company": "KeyBank (KeyCorp)",
+  "tier": 5,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-06-03",
   "last_cycle_basis": "tracker first-seen 2026-06-03 'Associate Software Engineer' Brooklyn OH (closed; off-cycle spring posting)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:keybank/wd5/External_Career_Site",
-  "evidence": "Workday --all (75) 2026-10-02: 2027 programs are consumer/commercial analyst rotations and summer internships; no SWE new-grad posting. Engineer titles (API Security, Resiliency, Data Inventory, Lead AI) are experienced.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday --all (75) 2026-10-05: 2027 programs are consumer/commercial/credit/analytics analyst rotations and summer internships; no SWE new-grad posting. Engineer titles (API Security, Resiliency, Data Inventory) are experienced.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "True Anomaly",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -23,24 +23,14 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
-    },
-    {
-      "title": "Flight Software Engineer I (Temp-to-hire)",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
-      "location": "Denver, CO; Long Beach, CA",
-      "opened": "2026-08-25",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-26",
-  "last_cycle_basis": "tracker first-seen; 'Front End Software Engineer 1' (Nov 2025)",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "tracker first-seen: Front End Software Engineer 1 (Nov 2025)",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/trueanomalyinc",
   "jobs_spec": "gh:trueanomalyinc",
-  "evidence": "Greenhouse API: many live New Grad SWE I postings (Aug-Sep 2026), each quoting \"U.S. Citizen and eligible for DoD Secret or TS/SCI clearance\" plus ITAR citizen/LPR text. Excluded.",
+  "evidence": "Greenhouse API: 8 live New Grad/I SWE and DevOps postings (Mar-Sep 2026); detail of 4 each quote \"U.S. Citizen and eligible for DoD Secret or TS/SCI clearance\" plus ITAR text. Excluded.",
   "confidence": "high"
 }

@@ -1,6 +1,7 @@
 {
   "company": "Capital One",
   "tier": 5,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,18 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
       "location": "Toronto, ON, Canada",
       "opened": "2026-07-19",
-      "date_source": "tracker first seen (Workday startDate 2026-09-08 is a repost)",
+      "date_source": "tracker first seen (Workday startDate 2026-10-02 is a repost)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-09",
-  "last_cycle_basis": "tracker history: US Technology Development Program Associate first seen 2025-09-09 (McLean/Richmond/Plano)",
+  "last_cycle_basis": "tracker history: US Technology Development Program Associate first seen 2025-09-09 (McLean/Richmond/Plano); Toronto Associate SWE 2025-08-17",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
   "jobs_spec": "wd:capitalone/wd12/Capital_One",
-  "no_sponsorship": false,
-  "evidence": "Browser 2026-10-02: Toronto new-grad SWE R247320 shows Apply and is on board; no sponsorship/grad text. US TDP (Plano/McLean/Richmond) not on board, tracker/earlier check says closed; only Mexico TDP listed.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Workday 2026-10-05: Toronto Associate Software Engineer New Grad Card Expansion (R247320) served by CXS API with apply enabled (startDate 2026-10-02 is a repost); no US TDP on board, only Mexico TDP 2027.",
+  "confidence": "medium"
 }

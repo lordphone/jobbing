@@ -1,6 +1,7 @@
 {
   "company": "Textron",
   "tier": 8,
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -8,10 +9,20 @@
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905&lang=en",
       "location": "Hunt Valley, MD",
       "opened": "2026-08-31",
-      "date_source": "tracker/previous run page text",
+      "date_source": "page text (Job Posting 08/31/2026)",
       "deadline": "2026-10-31",
       "grad_window": "currently pursuing bachelor's/master's (entry-level 2027 role)",
       "live_verified": "browser"
+    },
+    {
+      "title": "2027 Software Engineer I (Electronic Systems) - Hunt Valley, MD",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666&lang=en",
+      "location": "Hunt Valley, MD",
+      "opened": "on or before 2026-09-01 (tracker first seen)",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-31",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2024-11-05",
@@ -20,7 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://textron.taleo.net",
   "jobs_spec": null,
-  "evidence": "Opened Taleo page in browser: live, Apply button present. Requirements list \"Ability to obtain a security clearance\"; no citizenship sentence. Deadline: \"accepted through October 31, 2026\". Excluded on clearance requirement only; other Textron SWE reqs not searched.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Taleo pages (curl, 2026-10-05) for 342905 and 342666 served: 'Ability to obtain a security clearance' (342905); 'U.S citizen with the ability to obtain a security clearance' (342666). Both accepted through 2026-10-31 per prior check.",
+  "confidence": "medium"
 }

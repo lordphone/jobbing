@@ -1,15 +1,36 @@
 {
   "company": "West Monroe",
   "tier": 10,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Software Engineering (AI Concentration) Consultant",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183016004",
+      "location": "Chicago, IL; New York, NY; Seattle, WA (separate posting per city)",
+      "opened": "2026-10-05",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Aug 2027 (per sibling 2027 consultant postings)",
+      "live_verified": "api"
+    },
+    {
+      "title": "2027 Platforms & Technology Consultant",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172577004",
+      "location": "Chicago, IL; Dallas, TX; New York, NY; San Francisco, CA; Seattle, WA (separate posting per city)",
+      "opened": "2026-10-03",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 - Aug 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no prior-cycle tracker history",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://www.westmonroe.com/careers/job-search-students",
   "jobs_spec": "gh:westmonroe5",
-  "evidence": "gh:westmonroe5 (68): 2027 interns, plus 2027 Data & Analytics Consultant (Chicago, first 2026-10-02; SQL/Python/PySpark, ML models; consulting analytics, not SWE, so not counted). Experienced board has non-entry SWE.",
+  "evidence": "gh:westmonroe5 2026-10-05: new 2027 Software Engineering (AI Concentration) Consultant (10-05) plus Platforms & Technology Consultant (10-03) listed in Greenhouse API. Sibling posting requires grad Dec 2026-Aug 2027, authorization without sponsorship now or future. Consulting-firm SWE track.",
   "confidence": "medium"
 }

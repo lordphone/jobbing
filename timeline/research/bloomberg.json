@@ -1,15 +1,26 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2027 Software Engineer - New York",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/21414",
+      "location": "New York, NY",
+      "opened": "on or before 2026-10-05",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-09-25",
   "last_cycle_basis": "tracker history: Bloomberg Industry Group 'Software Engineering Associate' (Arlington, VA) first seen 2025-09-25; Bloomberg LP posted its 2025 New Grad SWE on 2024-09-17; 2026-cycle LP posting date not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: Avature searches 'graduate', '2027', 'new grad' show only non-US 2027 analytics/support roles and senior SWE; no US entry SWE listed. Unlisted shell '2027 Software Engineer - New York' (21414) shows Apply Now but no description or listing, so not counted as live.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-05: Avature keyword search '2027 Software Engineer' lists no jobs, but unlisted JobDetail/21414 '2027 Software Engineer - New York' still shows APPLY NOW; no description, dates or sponsorship text, so may be a pre-staged shell. Verify manually.",
+  "confidence": "low"
 }

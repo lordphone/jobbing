@@ -1,7 +1,8 @@
 {
   "company": "BAE Systems (US)",
   "tier": 8,
-  "status": "closed",
+  "checked": "2026-10-05",
+  "status": "excluded",
   "postings": [
     {
       "title": "2027 Entry Level Software Engineer",
@@ -11,7 +12,7 @@
       "date_source": "page text (dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer I",
@@ -21,17 +22,17 @@
       "date_source": "page text (postedDateTrack)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.baesystems.com/global/en/job/129314BR/Entry-Level-Software-Engineer",
-      "location": "Hudson, NH",
+      "location": "Hudson, NH; Nashua, NH; Merrimack, NH",
       "opened": "2026-08-27",
       "date_source": "page text (dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-17",
@@ -40,7 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "Phenom board search lists many entry SWE reqs (128864BR, 130128BR, 130493BR early-career), but opened pages show no description or Apply (browser) or \"has been filled\" (WebFetch). Clearance quote: \"require the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship.\"",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Phenom pages (curl, 2026-10-05) for 128864BR, 129314BR, 130128BR still serve full text with Apply. 128864BR: 'Ability to obtain and maintain a security clearance'; 129314BR: 'Must be eligible for a US DoD security clearance'; 130128BR: 'Secret Clearance'. No deadline.",
+  "confidence": "medium"
 }

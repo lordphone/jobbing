@@ -1,15 +1,15 @@
 {
   "company": "Citrix (Cloud Software Group)",
+  "tier": 11,
+  "checked": "2026-10-05",
   "status": "no_program_found",
-  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
-  "jobs_page": "https://careers.cloud.com/jobs/search",
-  "evidence": "Fetched careers.cloud.com/jobs/search: 51 postings total, profession filters show 33 sales, 2 data science (Customer Success), 1 IT, 1 product management; no software engineering profession at all. No new-grad SWE.",
-  "confidence": "high",
-  "tier": 6,
-  "checked": "2026-10-02",
   "postings": [],
-  "last_cycle_opened": null,
+  "last_cycle_opened": "Earlier same-day careers.cloud.com search: only sales, GTM, finance, ops, no software engineering in US. Web search shows senior SWE roles (India, Ft Lauderdale). Site blocks plain HTTP; not re-opened live.",
+  "last_cycle_basis": "medium",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_spec": null
+  "jobs_page": "No tracker history found for new-grad SWE; only a 2022 UK graduate SWE listing seen in search.",
+  "jobs_spec": "https://careers.cloud.com/jobs/search",
+  "evidence": null,
+  "confidence": "medium"
 }

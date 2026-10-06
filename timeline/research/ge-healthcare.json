@@ -1,17 +1,37 @@
 {
   "company": "GE HealthCare",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Edison Engineering Development Program",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
-      "location": "Waukesha, WI; Aurora, IL",
+      "url": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4043922EXTERNALENGLOBAL/Edison-Engineering-Development-Program",
+      "location": "Waukesha, WI; Aurora, OH",
       "opened": "2026-09-09",
-      "date_source": "workday startDate",
+      "date_source": "page text (Phenom postedDate)",
       "deadline": null,
-      "grad_window": "Bachelor's degree completed by July 2027",
+      "grad_window": "Bachelor's completed by July 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (C++ / GPU, CT reconstruction)",
+      "url": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4044718EXTERNALENGLOBAL/Software-Engineer",
+      "location": "Waukesha, WI",
+      "opened": "2026-09-03",
+      "date_source": "page text (Phenom postedDate)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer (C++ / GPU, CT reconstruction)",
+      "url": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4045052EXTERNALENGLOBAL/Software-Engineer",
+      "location": "Waukesha, WI",
+      "opened": "2026-09-03",
+      "date_source": "page text (Phenom postedDate)",
+      "deadline": null,
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
@@ -19,8 +39,8 @@
   "last_cycle_basis": "tracker history: Software Engineer 1 - MIM Platform (Orange, OH) first seen 2025-11-25",
   "excluded_reason": null,
   "no_sponsorship": true,
-  "jobs_page": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
+  "jobs_page": "https://careers.gehealthcare.com/global/en/search-results",
   "jobs_spec": "wd:gehc/wd5/GEHC_ExternalSite",
-  "evidence": "Workday API 2026-10-02: EEDP live, recent grad, bachelor's by July 2027, CS eligible, no sponsorship now or future. Other US software roles are Senior/unlevelled (HL7 Integration Engineer remote). Same status.",
-  "confidence": "high"
+  "evidence": "Workday wd5 2026-10-05: EEDP (bachelor's by July 2027, CS eligible) and two Waukesha Software Engineer reqs (bachelor's, no years) live; Bellevue SWE needs 2 yrs. All say no visa sponsorship.",
+  "confidence": "medium"
 }

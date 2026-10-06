@@ -1,18 +1,18 @@
 {
   "company": "CrowdStrike",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - Sensor, Sensor Performance and Stability (Hybrid)",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
       "location": "Redmond, WA; Sunnyvale, CA",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate",
+      "opened": "on or before 2026-08-23",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2026-02-11",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
   "jobs_spec": "wd:crowdstrike/wd5/crowdstrikecareers",
-  "evidence": "Workday CXS 2026-10-02: R29874 live (canApply true), text 'hiring an entry-level engineer'. Not labeled new grad; board filter misses it. Only 2027 postings are interns. No sponsorship/citizenship/deadline line.",
+  "evidence": "Re-read R29874 via Workday CXS 2026-10-05: canApply true, 'hiring an entry-level engineer', startDate 2026-08-28, Redmond/Sunnyvale. Not labeled new grad; board filter misses it. No sponsorship line.",
   "confidence": "medium"
 }

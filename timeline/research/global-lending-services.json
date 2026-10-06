@@ -1,7 +1,7 @@
 {
   "company": "Global Lending Services",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -13,14 +13,24 @@
       "deadline": null,
       "grad_window": "offers for May 2027 (campus recruiting / entry-level)",
       "live_verified": "api"
+    },
+    {
+      "title": "Data Developer",
+      "url": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238",
+      "location": "Greenville, SC",
+      "opened": "2026-08-27",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": "offers for May 2027 (campus recruiting / entry-level)",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-04",
-  "last_cycle_basis": "tracker first seen 'Software Developer' Greenville SC (jobs.lever.co/glsllc)",
+  "last_cycle_basis": "Tracker first seen 'Software Developer' Greenville SC (jobs.lever.co/glsllc)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/glsllc",
   "jobs_spec": "lever:glsllc",
-  "evidence": "Lever API 2026-10-02: Software Developer (team Students & Grads, Greenville SC) live, created 2026-08-27, apply page 200; text: 'campus recruiting and entry-level process... offers for May 2027', BS in CS. No sponsorship or deadline line.",
+  "evidence": "Lever API 2026-10-05: Software Developer and Data Developer (Students & Grads, Greenville SC) created 2026-08-27, apply pages 200; text 'enter our campus recruiting and entry-level process for position offers being made for May 2027'. No sponsorship text, no deadline.",
   "confidence": "high"
 }

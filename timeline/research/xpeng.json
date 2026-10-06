@@ -1,7 +1,7 @@
 {
   "company": "XPENG",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -23,14 +23,24 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "2027 Stanford Career Fair Full-Time Position",
+      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8811971002",
+      "location": "Santa Clara, CA",
+      "opened": "2026-09-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "tracker first seen: Autonomous Driving Center Full-Time Position, https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
+  "last_cycle_basis": "tracker first seen: Autonomous Driving Center Full-Time Position 2025-08-14 (Greenhouse, now closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xpengmotors",
   "jobs_spec": "gh:xpengmotors",
-  "evidence": "Greenhouse API 2026-10-02 lists both 2027 Campus Recruiting full-time postings (Santa Clara). GI Center hires AI/ML, AI infra and Software Engineering; Robotics AI/ML and motion control. No deadline, citizenship or sponsorship text.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-05 (27 jobs): three 2027 campus full-time postings (Santa Clara) listed, pathways include AI/ML, AI infrastructure and software engineering; no sponsorship or citizenship text. Other roles are Senior+. Postings pooled, not per-role.",
+  "confidence": "medium"
 }

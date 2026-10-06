@@ -1,15 +1,15 @@
 {
   "company": "Transamerica (Aegon)",
-  "tier": 11,
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "tracker: 'Appian Application Developer' / 'Programmer-Analyst', Philadelphia PA / Denver CO, first seen 2025-12-03 and 2025-12-08; now closed.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker history only shows Appian Application Developer 2025-12-03 (not entry-labeled); no new-grad SWE evidence.",
   "jobs_page": "https://transamerica.wd5.myworkdayjobs.com/US",
   "jobs_spec": "wd:transamerica/wd5/US",
-  "evidence": "Workday API --all 2026-10-02 (39 postings): SWE roles are Intermediate/Specialist/Senior/Lead; entry tracks are Actuarial Development Program (Dec 2026/May 2027 grads) plus interns. No entry SWE live.",
+  "evidence": "2026-10-05 Workday API --all (40 postings on a full read): interns, Actuarial Development Program (Dec 2026/May 2027 grads), privacy/finance leads. No entry-level SWE live. Entry-level IT track unconfirmed.",
   "confidence": "medium",
-  "checked": "2026-10-02"
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

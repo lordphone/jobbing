@@ -1,7 +1,7 @@
 {
   "company": "Cargill",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-associate-technology-development-program-2027-atlanta-ga/23251/99050313792",
       "location": "Atlanta, GA",
       "opened": "2026-09-17",
-      "date_source": "page text (Date posted 09/17/2026)",
+      "date_source": "page text (posted date)",
       "deadline": null,
-      "grad_window": "Dec 2025 - Summer 2026 (page text, conflicts with '2027' title)",
-      "live_verified": "api"
+      "grad_window": "Page text says Dec 2025 - Summer 2026 (conflicts with 2027 title; likely stale copy)",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2024-08",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.cargill.com/en/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "Posting fetched 2026-10-02: Apply Now live, posted 09/17/2026, title says 2027 but text says graduating Dec 2025-Summer 2026, start June 2026 (likely stale copy). Right to work without sponsorship required. Software search page 1 shows only senior roles.",
+  "evidence": "Posting page 2026-10-05: Apply Now present, posted 2026-09-17, 2027 title but stale 2026 grad-window text; no sponsorship. Search lists only this entry SWE plus a Summer 2027 SWE intern; rest senior/non-US.",
   "confidence": "medium"
 }

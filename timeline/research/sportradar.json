@@ -1,15 +1,15 @@
 {
   "company": "Sportradar",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: trading/analyst/production roles only, no SWE",
+  "last_cycle_basis": "no US entry-level SWE found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/sportradar",
   "jobs_spec": "sr:sportradar",
-  "evidence": "sr:sportradar --all (93): software roles are Europe, Uruguay, Bosnia; US roles only managers, trading and operations. No US, Toronto or Vancouver entry SWE.",
+  "evidence": "SmartRecruiters API (93 postings, --all, 2026-10-05): software roles are Ljubljana, Vienna, Warsaw, Montevideo, UK, Belgium; US engineering roles are only Engineering Manager (NY, Minneapolis). No entry-level SWE in US/Toronto/Vancouver.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "PwC",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "unknown",
@@ -10,6 +10,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers",
   "jobs_spec": "wd:pwc/wd3/US_Entry_Level_Careers",
-  "evidence": "Workday US_Entry_Level_Careers (26 reqs, --all): audit/tax/consulting only, no SWE. AIT Software Engineering Associate (Summer/Fall 2027, first seen 2026-08-30) and Tax Innovation SWE Associate now show 'page doesn't exist' in browser. Global_Campus has no US/Canada SWE.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-05: US_Entry_Level_Careers 28 reqs (--all) all audit/tax/consulting/intern; search 'software engineering' returns 0. SWE Associate postings (first seen 2026-08-30) gone; prior browser check showed page not found. Global_Campus has no US/Canada SWE.",
+  "confidence": "high"
 }

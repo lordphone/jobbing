@@ -53,6 +53,7 @@ Each company's context is its entry (0-based index) in the JSON array in ${args.
 
 Follow ${SKILL}/SKILL.md exactly (read it once). Run the tool as: python3 ${SKILL}/scripts/jobs.py ...
 Use the browser pane (mcp__Claude_Browser__* tools, load via ToolSearch) only for sites with no API. WebSearch and WebFetch are available via ToolSearch.
+The browser pane is shared with many other agents running at once. Before your first browser step, open your own tab with tabs_create and pass that tabId on every browser call; never act on the front tab or another agent's tab. If tabs_create says the pane isn't open, call preview_start with url "https://example.com" (it opens the pane even if that page is denied), then tabs_create again. Close your tab with tabs_close when your batch is done.
 
 Rules:
 - Research only these companies. Do not spawn sub-agents (no Agent or Workflow tool).

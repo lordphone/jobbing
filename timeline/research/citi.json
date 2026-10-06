@@ -1,15 +1,26 @@
 {
   "company": "Citi",
   "tier": 5,
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Junior Generative AI Application Developer",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
+      "location": "Irving, TX",
+      "opened": "2026-07-23",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "2024 - July 2026",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-11-30",
   "last_cycle_basis": "tracker history: 'Technology - Application Development' Full Time Analyst postings first seen 2025-11-30 (Jacksonville/Tampa)",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://citi.wd5.myworkdayjobs.com/2",
   "jobs_spec": "wd:citi/wd5/2",
-  "evidence": "Workday board --all 2026-10-02: 2027 analyst postings are finance/banking/cards/wealth/risk, no 2027 US tech program. Junior GenAI App Developer (Irving, reposted today) requires grad date 2024-Jul 2026, no sponsorship; not this cycle.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "postings": []
+  "evidence": "Workday --all 2026-10-05: 2027 analyst postings are finance/banking/cards/wealth/risk, none US tech. Junior GenAI App Developer (Irving, live, apply enabled) requires grad date 2024-July 2026 and no sponsorship now or future: last-cycle window.",
+  "confidence": "medium"
 }

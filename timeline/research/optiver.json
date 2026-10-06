@@ -1,28 +1,28 @@
 {
   "company": "Optiver",
   "tier": 4,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [
     {
       "title": "Graduate Software Engineer (2027 Start)",
-      "url": "https://www.optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/",
+      "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
       "location": "Chicago, IL",
-      "opened": "on or before 2026-07-01",
-      "date_source": "tracker first seen / web search index",
+      "opened": "2026-07-01",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "2027 start",
-      "live_verified": "browser"
+      "live_verified": "browser (404 on 2026-10-05)"
     },
     {
       "title": "Graduate Software Engineer (2027 Start)",
-      "url": "https://www.optiver.com/join-us/jobs/technology/austin/graduate-software-engineer-2027-start/",
+      "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
       "location": "Austin, TX",
-      "opened": "on or before 2026-07-01",
-      "date_source": "tracker first seen / web search index",
+      "opened": "2026-07-01",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "2027 start",
-      "live_verified": "browser"
+      "live_verified": "browser (404 on 2026-10-05)"
     }
   ],
   "last_cycle_opened": "2025-07-01",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/optiverprivate",
   "jobs_spec": "gh:optiverprivate",
-  "evidence": "Browser 2026-10-02: both Graduate SWE (2027 Start) Chicago/Austin URLs (still indexed by search) return 404 and are absent from optiver.com/join-us/jobs; US lists only SWE intern, Graduate FPGA/Equity/Quant roles. Graduate SWE remains in London/Amsterdam. Prior file said open 2026-09-30.",
+  "evidence": "2026-10-05: 2027-start Graduate SWE postings (Chicago 8401042002, Austin 8604899002; first seen 2026-07-01) return 404 on optiver.com and are not on gh:optiverprivate (9 jobs, none grad SWE). Closed.",
   "confidence": "medium"
 }

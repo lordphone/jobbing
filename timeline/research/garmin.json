@@ -1,7 +1,7 @@
 {
   "company": "Garmin",
   "tier": 7,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://careers.garmin.com/jobs/18475?icims=1",
       "location": "Olathe, KS",
       "opened": "2026-04-28",
-      "date_source": "page JSON-LD datePosted",
+      "date_source": "garmin jibe API posted_date",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     },
     {
@@ -19,9 +19,9 @@
       "url": "https://careers.garmin.com/jobs/16587?icims=1",
       "location": "Yarmouth, ME",
       "opened": "2026-09-08",
-      "date_source": "page JSON-LD datePosted",
+      "date_source": "garmin jibe API posted_date",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     },
     {
@@ -29,9 +29,9 @@
       "url": "https://careers.garmin.com/jobs/19142?icims=1",
       "location": "Olathe, KS",
       "opened": "2026-08-28",
-      "date_source": "page JSON-LD datePosted",
+      "date_source": "garmin jibe API posted_date",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
     },
     {
@@ -39,10 +39,30 @@
       "url": "https://careers.garmin.com/jobs/19695?icims=1",
       "location": "Olathe, KS",
       "opened": "2026-08-24",
-      "date_source": "page JSON-LD datePosted",
+      "date_source": "garmin jibe API posted_date",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "deadline": null
+    },
+    {
+      "title": "Software Engineer 1 - Aviation Core Java",
+      "url": "https://careers.garmin.com/jobs/19098?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-07-07",
+      "date_source": "garmin jibe API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Embedded Software Engineer 1",
+      "url": "https://careers.garmin.com/jobs/19134?icims=1",
+      "location": "Chandler, AZ",
+      "opened": "2026-08-06",
+      "date_source": "garmin jibe API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-03",
@@ -51,6 +71,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.garmin.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: four Software Engineer 1 pages (Olathe KS x3, Yarmouth ME) render full postings, not closed; Apply button seen on 19695. BS CS/EE etc., GPA 3.0; no citizenship/sponsorship text. Dates from JSON-LD datePosted. Evergreen SWE 1 openings.",
+  "evidence": "Garmin Jibe API 2026-10-05 lists many Software Engineer 1 / Embedded SWE 1 postings (Olathe KS, Yarmouth ME, Chandler AZ), all applyable; BS CS/EE etc. required; no citizenship/sponsorship text found. Evergreen entry-level openings, listed dates are first posted.",
   "confidence": "high"
 }

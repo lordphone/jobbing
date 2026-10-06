@@ -1,36 +1,26 @@
 {
   "company": "NTT DATA",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Junior Developer",
-      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
+      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425007800/",
       "location": "Arlington, VA (remote)",
-      "opened": "2026-08-31",
-      "date_source": "page text (earlier req Aug 31; current reqs 388369 and 388418 show Sep 29 repost)",
+      "opened": "2026-09-29",
+      "date_source": "page text (Date: Sep 29, 2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Junior Contact Center Developer",
-      "url": "https://careers-inc.nttdata.com/job/McKinney-Junior-Contact-Center-Developer-TX-75069/1427942900/",
-      "location": "McKinney, TX",
-      "opened": "2026-09-09",
-      "date_source": "page text Date",
-      "deadline": "2026-10-10",
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker first seen: Digital Technology Engineer and Digital Technology Senior Analyst - Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
+  "last_cycle_basis": "tracker first seen 2025-10-02: Digital Technology Engineer / Senior Analyst Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Search 2026-10-02 (256 US reqs): Junior Developer, Arlington VA remote, posted 2026-09-29 repost, Apply present; asks 3+ yrs Python, Public Trust clearance (no citizenship quote). No campus/2027 program posting seen; borderline entry level.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "tier": 10
+  "evidence": "careers-inc search 2026-10-05: Junior Developer Arlington VA remote with Apply (lists 3+ yrs Python, Public Trust ability; not a security clearance). nttdata.eightfold.ai campus portal (last year's Pathways) was under maintenance, so no 2027 campus check.",
+  "confidence": "low"
 }

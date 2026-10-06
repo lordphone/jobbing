@@ -1,7 +1,7 @@
 {
   "company": "EY",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -12,27 +12,27 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "SDC Front End Engineer - Analyst (min 1 yr experience)",
       "url": "https://careers.ey.com/ey/job/Raleigh-SDC-Front-End-Engineer-Analyst-Raleigh%2C-NC-or-Dallas%2C-TX-NC-27612-2389/1437290233/",
       "location": "Raleigh, NC; Dallas, TX",
       "opened": "2026-09-15",
-      "date_source": "page text (careers.ey.com Date)",
+      "date_source": "page text (WebFetch)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     },
     {
       "title": "Service Delivery Center - Full Stack Developer: Financial Services - Analyst (min 1 yr experience)",
       "url": "https://careers.ey.com/ey/job/Dallas-Service-Delivery-Center-Full-Stack-Developer-Financial-Services-Analyst-Raleigh%2CDallas%2C-San-Antonio-TX-75270/1414451433/",
       "location": "Raleigh, NC; Dallas, TX; San Antonio, TX",
       "opened": "2026-09-09",
-      "date_source": "page text (careers.ey.com Date)",
+      "date_source": "page text (WebFetch)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     },
     {
       "title": "USA - Tax - TTT - Data Engineering - Analyst (data/ETL, borderline)",
@@ -42,7 +42,17 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
+    },
+    {
+      "title": "Back-end .NET Developer (Toronto, entry-to-mid; no years stated)",
+      "url": "https://careers.ey.com/ey/job/Toronto-Back-end-_net-Developer-ON-M5H-0B3/1418865833/",
+      "location": "Toronto, ON",
+      "opened": "on or before 2026-07-24",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-01-16",
@@ -51,6 +61,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q",
   "jobs_spec": null,
-  "evidence": "Opened TTT AI Analyst in browser (Apply, NY/Dallas, 'Immigration sponsorship may be available'). Yello board is global; careers.ey.com also lists Analyst-level SDC developer roles (Sep 2026). No deadlines stated. Rolling, not a class-year program.",
+  "evidence": "Fetched 2026-10-05: TTT AI Analyst and TTT Data Engineering Analyst (yello) show sponsorship may be available; SDC Front End Analyst (min 1 yr) and Toronto .NET Dev (reposted Oct 3) show Apply. Rolling, no deadlines, no class-year program.",
   "confidence": "medium"
 }

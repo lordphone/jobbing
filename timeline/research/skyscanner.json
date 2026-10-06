@@ -1,15 +1,15 @@
 {
   "company": "Skyscanner",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2026-01-05",
-  "last_cycle_basis": "tracker first-seen: 'Software Engineering and Teaching Programme' | Edinburgh/Glasgow, UK, first seen 2026-01-05 (www.skyscanner.net/jobs/job/7496222)",
+  "last_cycle_basis": "tracker first-seen: Software Engineering and Teaching Programme, Edinburgh/Glasgow UK, 2026-01-05 (www.skyscanner.net/jobs/job/7496222); UK only, no US/Canada role",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.skyscanner.net/jobs/",
   "jobs_spec": null,
-  "evidence": "Job list page (/jobs/current-jobs/) hit a bot CAPTCHA in browser pane; no Greenhouse API board. Early-careers page (via search) says grads hired in Scotland, Barcelona, Shenzhen only. No US/Toronto/Vancouver role seen. Job list unread, so low confidence.",
+  "evidence": "Job list is JS-rendered with no API (Greenhouse slug guesses 404; WebFetch empty; shared browser pane unusable). Skyscanner early-careers graduates page says graduates are hired in Scotland, Barcelona and Shenzhen; tracker entry SWE roles are UK only. No US/Toronto/Vancouver role seen; list unread.",
   "confidence": "low"
 }

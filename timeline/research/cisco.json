@@ -1,36 +1,27 @@
 {
   "company": "Cisco",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer Full Stack / Backend II (Full-Time) - United States",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2026779",
-      "location": "RTP, North Carolina, US; Boulder, Colorado, US",
-      "opened": "2026-09-28",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-03",
-      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
-      "live_verified": "api"
-    },
-    {
       "title": "Software Engineer Embedded Systems I (Full Time) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1",
-      "location": "San Jose, California, US; Milpitas, California, US; RTP, North Carolina, US",
+      "location": "San Jose, CA; Milpitas, CA; RTP, NC",
       "opened": "2026-09-23",
       "date_source": "workday startDate",
       "deadline": "2026-10-07",
-      "grad_window": "Bachelor's with 0-1 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "grad_window": "Bachelor's 0-1 yrs; degree completed within past 3 yrs or expected within next 12 months",
       "live_verified": "api"
     },
     {
       "title": "Software Engineer II (Full Time) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boxborough-Massachusetts-US/Software-Engineer-II--Full-Time----United-States_2027364",
-      "location": "Boxborough, Massachusetts, US; Austin, Texas, US",
+      "location": "Boxborough, MA; Austin, TX",
       "opened": "2026-09-30",
-      "date_source": "workday postedOn (Posted Today)",
+      "date_source": "workday startDate",
       "deadline": "2026-10-09",
-      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "grad_window": "Master's 0 yrs; degree completed within past 3 yrs or expected within next 12 months",
       "live_verified": "api"
     },
     {
@@ -40,17 +31,26 @@
       "opened": "2026-09-29",
       "date_source": "workday startDate",
       "deadline": "2026-10-12",
-      "grad_window": "Master's with 0 yrs; Degree completed within past 3 yrs or expected within next 12 months",
+      "grad_window": "Master's 0 yrs; degree completed within past 3 yrs or expected within next 12 months",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Consulting Engineer I (Full Time) United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887",
+      "location": "RTP, NC; Richardson, TX",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-29",
+      "grad_window": "Bachelor's 0 yrs; degree completed within past 3 yrs or expected within next 12 months",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-20",
   "last_cycle_basis": "tracker first seen: Software Engineer I (San Jose, CA), jobs.cisco.com, 2025-08-20; more SWE 1 roles Nov-Dec 2025",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://cisco.wd5.myworkdayjobs.com/cisco_careers",
   "jobs_spec": "wd:cisco/wd5/cisco_careers",
-  "evidence": "Workday detail API re-read 2026-10-02: four US level I/II full-time SWE roles canApply true, endDates Oct 3-12; degree within 3 yrs or next 12 months. A separate Boulder Fullstack II req requires US citizen (FedRAMP), not included. Deadlines imminent.",
-  "confidence": "high",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday board and detail API 2026-10-05: Embedded Systems I, SWE II (Boxborough), Compiler II and Software Consulting Engineer I (Full Time) live with end dates Oct 7-29. Fullstack/Backend II (Full Time, Boulder/Seattle/RTP, posted 2026-10-05, ends 2026-10-12) says must be a U.S. citizen (FedRAMP), so left out.",
+  "confidence": "high"
 }

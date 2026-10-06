@@ -1,36 +1,15 @@
 {
   "company": "Sony (Sony Electronics / Sony Corporation of America)",
   "tier": 7,
-  "status": "closed",
-  "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004",
-      "location": "San Mateo, CA",
-      "opened": "2026-07-16",
-      "date_source": "greenhouse first_published (earlier check); posting page now redirects to board list (error=true)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    },
-    {
-      "title": "Software Engineer I SDK",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004",
-      "location": "San Mateo, CA",
-      "opened": "2026-08-10",
-      "date_source": "greenhouse first_published (earlier check); posting page now redirects to board list (error=true)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-01-24",
-  "last_cycle_basis": "tracker first seen: Software Engineer 1, San Mateo CA (SIE greenhouse 5727775004); earlier SWE I San Diego 2025-04-11",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1, San Mateo CA (SIE greenhouse 5727775004); earlier SWE I San Diego 2025-04-11; SWE I San Diego 2026-06-22",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers",
   "jobs_spec": "wd:sonyglobal/wd1/SonyGlobalCareers",
-  "evidence": "Browser 2026-10-02: both SWE I postings (SIE, 2026-07-16 and 2026-08-10) redirect to board list, so closed. SIE Greenhouse and Sony Global Workday show only SWE II+/Staff or non-US entry roles. SWE I recurs periodically.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Sony Global Workday (41) 2026-10-05 plus tracker history: no SWE I / entry software role live. SIE Software Engineer 1 reqs (San Diego, San Mateo) recur periodically and are gone now; no this-cycle posting confirmed.",
+  "confidence": "medium"
 }

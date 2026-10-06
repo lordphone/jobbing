@@ -1,15 +1,36 @@
 {
   "company": "Gartner",
   "tier": 10,
-  "checked": "2026-10-02",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": "2026-01-28",
-  "last_cycle_basis": "tracker last cycle (non-SWE Data Analyst role)",
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Data Scientist (AI/LLM agents, Marketing Technology)",
+      "url": "https://jobs.gartner.com/jobs/job/109825-associate-data-scientist/",
+      "location": "Stamford, CT; Arlington, VA; Fort Myers, FL; Irving, TX",
+      "opened": "2026-08-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Associate Data Scientist - Spring 2027 Master's level graduates",
+      "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
+      "location": "Irving, TX; Stamford, CT",
+      "opened": "2026-08-13",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-09",
+      "grad_window": "Spring 2027",
+      "live_verified": "api"
+    }
+  ],
+  "last_cycle_opened": "2025-09-14",
+  "last_cycle_basis": "tracker first seen: Data Analyst - 2026 graduates, Irving/Stamford (analytics, not SWE); no SWE/ML new-grad posting found last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://gartner.wd5.myworkdayjobs.com/EXT",
   "jobs_spec": "wd:gartner/wd5/EXT",
-  "evidence": "Workday API 2026-10-02, 91 postings, --all: US 2027 grad roles are sales, client success, Data Analyst, Associate Data Scientist (analytics, apply by Oct 9). No SWE/ML engineering new-grad role. Prior file said not_yet; no SWE track found, so no_program_found.",
+  "evidence": "Opened 109825 in browser: Apply Now live, 1+ yrs incl. internships, builds LLM agents/NLP. Workday API: Master's Associate Data Scientist (apply by Oct 9). Data-scientist titles, not SWE; no SWE new-grad roles in US. Borderline fit.",
   "confidence": "medium"
 }

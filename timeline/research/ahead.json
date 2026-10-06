@@ -1,7 +1,7 @@
 {
   "company": "AHEAD",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://jobs.lever.co/thinkahead/79b4cd4c-b1e0-4f02-b95f-fd44b3d5d9ae",
       "location": "Chicago, IL",
       "opened": "2026-09-18",
-      "date_source": "tracker first seen (Lever createdAt 2023-02-01 is a reused requisition)",
+      "date_source": "tracker first seen (Lever createdAt 2023-02-01 is an older repost)",
       "deadline": null,
-      "grad_window": "Graduated with a degree in technical discipline by 1/11/2027",
+      "grad_window": "Degree by 1/11/2027",
       "live_verified": "api"
     },
     {
@@ -19,9 +19,29 @@
       "url": "https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e",
       "location": "Chicago, IL",
       "opened": "2026-09-18",
-      "date_source": "tracker first seen (Lever createdAt 2022-10-10 is a reused requisition)",
+      "date_source": "tracker first seen (Lever createdAt 2022-10-10 is an older repost)",
       "deadline": null,
-      "grad_window": "Graduated with a degree in technical discipline by 1/11/2027",
+      "grad_window": "Degree by 1/11/2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate ServiceNow Developer",
+      "url": "https://jobs.lever.co/thinkahead/a599a882-b8af-41b3-82d0-a72dc58524c7",
+      "location": "Chicago, IL",
+      "opened": "on or before 2026-10-03",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": "Degree by 1/11/2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate Cloud Engineer",
+      "url": "https://jobs.lever.co/thinkahead/56aabe54-b161-4d82-bf13-b99cccc2c8c9",
+      "location": "Chicago, IL",
+      "opened": "on or before 2026-10-05",
+      "date_source": "page text (Lever createdAt 2025-04-14)",
+      "deadline": null,
+      "grad_window": "Degree by 1/11/2027",
       "live_verified": "api"
     }
   ],
@@ -31,6 +51,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.lever.co/thinkahead",
   "jobs_spec": "lever:thinkahead",
-  "evidence": "Lever API (144 postings): two live Chicago associate roles with grad cutoff 1/11/2027. Data Engineer says \"unable to consider candidates who require visa sponsorship\"; both need existing US work authorization. Associate AI Engineer is a 2026-cutoff leftover. App Dev role is software-adjacent consulting.",
+  "evidence": "Lever API (147 postings) 2026-10-05; pages HTTP 200: Chicago Associate Data Engineer, App Dev Consultant, ServiceNow Developer, Cloud Engineer need degree by 1/11/2027; \"unable to consider candidates who require visa sponsorship\". Associate AI Engineer is a 1/11/26 leftover. Product Engineer roles are hardware.",
   "confidence": "medium"
 }

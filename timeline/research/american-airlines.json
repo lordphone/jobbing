@@ -1,7 +1,7 @@
 {
   "company": "American Airlines",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "Browser pane on jobs.aa.com/search 2026-10-02: queries ADEPT, university, associate, developer, intern return none; 'software' shows only Engineer/Sr/Principal IT Software. ADEPT (2-yr software rotation) not posted yet; campus page says applications open in September.",
-  "confidence": "medium"
+  "evidence": "jobs.aa.com returned 403 to WebFetch/curl and the shared browser pane was unusable this run, so no fresh read. Earlier same-day browser read (kept): searches showed only Engineer/Sr, Manager, non-tech roles; no ADEPT/new-grad posting yet. Retry via browser.",
+  "confidence": "low"
 }

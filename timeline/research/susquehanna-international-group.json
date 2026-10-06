@@ -1,7 +1,7 @@
 {
   "company": "Susquehanna International Group (SIG)",
   "tier": 4,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
       "location": "Bala Cynwyd (Philadelphia Area), PA",
       "opened": "2026-08-19",
-      "date_source": "page text (iCIMS datePosted)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Graduate and start full-time by Aug 2027",
       "live_verified": "browser"
@@ -19,7 +19,7 @@
       "url": "https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job",
       "location": "Bala Cynwyd (Philadelphia Area), PA",
       "opened": "2026-08-21",
-      "date_source": "page text (iCIMS datePosted)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Graduate and start full-time by Aug 2027",
       "live_verified": "browser"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-sig.icims.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: iCIMS search 'new grad' lists both New Grad Technology - Software Engineering roles; opened both posting pages with Apply link, datePosted 2026-08-19/21. Other new grad roles are network/Linux. No deadline.",
+  "evidence": "2026-10-05 browser: both iCIMS postings (11321, 11349) show 'Apply for this job online', Bala Cynwyd PA, graduate and begin full-time by Aug 2027; no citizenship/sponsorship/deadline text. Opened dates from tracker first seen 2026-08-19/21.",
   "confidence": "high"
 }

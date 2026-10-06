@@ -1,26 +1,36 @@
 {
   "company": "KAYAK",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "open",
+  "checked": "2026-10-05",
+  "status": "closed",
   "postings": [
     {
-      "title": "Software Engineer, Ads (Backend)",
-      "url": "https://jobs.ashbyhq.com/KAYAK/85165d45-de15-444d-8a5e-b7fdb8f3cf1e",
+      "title": "Associate Software Engineer (closed)",
+      "url": "https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320",
       "location": "Cambridge, MA; Concord, MA",
+      "opened": "2026-07-20",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer, Ads (Backend) (closed)",
+      "url": "https://jobs.ashbyhq.com/KAYAK/85165d45-de15-444d-8a5e-b7fdb8f3cf1e",
+      "location": "Concord, MA",
       "opened": "2026-10-02",
-      "date_source": "ashby publishedAt",
+      "date_source": "ashby published (prior run)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No Jul 2025-Jan 2026 new-grad SWE posting found; tracker shows 2024-11-08 and Associate Software Engineer 2026-07-20 (closed)",
+  "last_cycle_basis": "No Jul 2025-Jan 2026 new-grad SWE posting found; tracker shows Frontend SWE 2024-11-08 and Associate Software Engineer 2026-07-20 (now gone)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/KAYAK",
   "jobs_spec": "ashby:KAYAK",
-  "evidence": "ashby:KAYAK lists Software Engineer, Ads (Backend), published 2026-10-02, hybrid MA; entry-level wording (guidance from seniors, internships or projects count, no years required). Not opened in browser. Earlier Associate SWE (2026-07-20) is gone.",
+  "evidence": "Ashby API (33 postings): only Senior/Staff/Manager engineers in Kaunas, Berlin, Concord. Associate SWE (2026-07-20) and Software Engineer, Ads (Backend) (2026-10-02) both return null from Ashby posting lookup and are off the board. Closed; was open at last check.",
   "confidence": "medium"
 }

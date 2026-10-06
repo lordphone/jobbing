@@ -1,7 +1,5 @@
 {
   "company": "ConocoPhillips",
-  "tier": 11,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -11,16 +9,18 @@
       "opened": "2026-09-09",
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
-      "grad_window": "Fall 2026 - Spring/Summer 2027",
+      "grad_window": "Fall 2026 – Spring/Summer 2027",
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting in tracker history 2025-07 to 2026-01; a 'University New Hire, Information Technology 2025' req exists on careers.conocophillips.com but no open date found.",
-  "excluded_reason": null,
+  "last_cycle_basis": "No new-grad SWE posting in tracker history 2025-07 to 2026-01; a University New Hire IT 2025 req exists on careers.conocophillips.com but no open date found.",
   "no_sponsorship": true,
   "jobs_page": "https://conocophillips.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:conocophillips/wd1/External",
-  "evidence": "Workday API+detail 2026-10-02, canApply true: University New Hire Digital Rotation Program (AI & Data, automation, cyber; CS degrees). IT rotation, not pure SWE. Apply by 2026-10-31. Sponsorship NOT available.",
-  "confidence": "medium"
+  "evidence": "Workday API+detail 2026-10-05: Graduate IT 2027 live, apply by Oct 31 2026; Digital Rotation Program (AI & Data, emerging tech, enterprise apps), not pure SWE. States sponsorship for employment authorization is not available. Engineering grad is non-software.",
+  "confidence": "medium",
+  "tier": 11,
+  "checked": "2026-10-05",
+  "last_cycle_opened": null,
+  "excluded_reason": null
 }

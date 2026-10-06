@@ -1,15 +1,15 @@
 {
   "company": "TE Connectivity",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings",
+  "last_cycle_basis": "no tracker history; no earlier new-grad SWE evidence found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.te.com",
   "jobs_spec": null,
-  "evidence": "SuccessFactors sitemap + browser 2026-10-02: US NEW GRAD (FT) is Middletown PA mechanical/electrical product engineering, not SWE; Rochester Software Engineer MPDE is Engineer II (3-5 yrs); other US SWE is embedded test / Sr coder. No entry SWE yet.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.te.com RSS 2026-10-05 (79 US/UK jobs sampled): US early-career postings are interns/co-ops and R&D/Manufacturing Engineer Rotational (Carpinteria, Middletown), not SWE; US software roles are embedded/senior. No US entry SWE live.",
+  "confidence": "medium"
 }

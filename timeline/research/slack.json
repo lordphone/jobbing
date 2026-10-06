@@ -1,15 +1,15 @@
 {
   "company": "Slack",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineering AMTS (College Grad)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
-      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; Indianapolis, IN; Bellevue, WA; Dallas, TX",
-      "opened": "2026-08-05",
-      "date_source": "tracker first seen",
+      "location": "San Francisco, CA; Palo Alto, CA; New York, NY; Seattle, WA; Bellevue, WA; Dallas, TX; Indianapolis, IN",
+      "opened": "on or before 2026-08-05",
+      "date_source": "workday postedOn (earlier first-seen kept; API shows reposted 'Posted Today' 2026-10-05)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/Slack",
   "jobs_spec": "wd:salesforce/wd12/Slack",
-  "evidence": "Slack posts under Salesforce. Slack board (12) has only SE II, Senior, Staff; SE I (2026-06-03) gone. Salesforce-wide AMTS College Grad JR355250 is live on the Workday API; not Slack-specific.",
+  "evidence": "Salesforce Workday API 2026-10-05: Software Engineering AMTS (College Grad) JR355250 live, 7 US locations, no citizenship or deadline line. Salesforce-wide, not company-tagged; Slack board (13 postings) has only SE II, Senior, Staff; its SE I (2026-06) is gone.",
   "confidence": "medium"
 }

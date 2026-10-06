@@ -1,15 +1,15 @@
 {
   "company": "Zoox",
+  "tier": 8,
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history shows only part-time/contract/student-worker postings (e.g. 2025-10-17 Part-Time Software Engineer - 6-month Contract); no full-time new-grad SWE",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/zoox",
   "jobs_spec": "lever:zoox",
-  "evidence": "Lever API (235, --all): SWE titles are Senior/Staff, Embedded, unlabeled mid-level or student contract; no entry-level/new-grad full-time SWE this cycle or last.",
-  "confidence": "medium",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Lever (229, --all) 2026-10-05: SWE titles are senior/staff, embedded, unlabeled, or Contract Student Worker; no entry-level/new-grad full-time SWE this cycle or last. Student-worker contracts don't count.",
+  "confidence": "medium"
 }

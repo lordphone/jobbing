@@ -1,26 +1,26 @@
 {
   "company": "General Dynamics Information Technology (GDIT)",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
-      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
-      "location": "Annapolis Junction, MD",
-      "opened": "on or before 2026-08-26",
-      "date_source": "workday startDate",
+      "title": "Software Developer Associate - TS/SCI with Polygraph",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
+      "location": "Chantilly, VA",
+      "opened": "2026-10-05",
+      "date_source": "workday postedOn (Posted Today) / tracker first seen 2026-10-04",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2025-10",
+  "last_cycle_opened": "2025-10-07",
   "last_cycle_basis": "tracker first seen 2025-10-07: Software Developer Associate - TS/SCI w/Poly (Annapolis Junction MD)",
-  "excluded_reason": "clearance",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
   "jobs_spec": "wd:gdit/wd5/external_career_site",
-  "evidence": "Workday API 158 postings: entry SWE roles quote \"Clearance Level Must Currently Possess: Top Secret SCI + Polygraph\" and \"US Citizenship Required: Yes\". Only non-clearance entry items are 2027 internships.",
+  "evidence": "Workday CXS 2026-10-05 (158 postings): entry SWE/AI roles say 'US Citizenship Required: Yes' and 'Clearance Level Must Currently Possess: Top Secret SCI + Polygraph' (0+ yrs). Junior ServiceNow and Junior DS Engineer also 'US Citizenship Required: Yes'. Summer 2027 interns only otherwise.",
   "confidence": "high"
 }

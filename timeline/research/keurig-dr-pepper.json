@@ -1,15 +1,15 @@
 {
   "company": "Keurig Dr Pepper",
   "tier": 11,
-  "checked": "2026-10-02",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board record of a software-engineering new-grad posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; no new-grad SWE posting found",
   "jobs_page": "https://careers.keurigdrpepper.com/en/search-jobs",
   "jobs_spec": null,
-  "evidence": "KDP TalentBrew sitemap 2026-10-02 (1728 urls): software roles are 2027 co-ops/interns (data engineering, mobile app, IT), Embedded Software Engineer I (Benton Harbor MI, 2026-07-30, brewer firmware, not counted) and senior roles. No full-time new-grad SWE.",
-  "confidence": "medium"
+  "evidence": "KDP careers results endpoint 2026-10-05 (software, developer, 2027, graduate, data engineer, associate): software roles are Fall/Winter 2027 co-ops (Mobile App, Platform Integrations), Embedded Software Engineer I (Benton Harbor MI, brewer firmware, not counted) and senior/principal roles. No entry-level SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

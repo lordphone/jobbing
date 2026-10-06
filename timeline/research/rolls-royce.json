@@ -1,7 +1,7 @@
 {
   "company": "Rolls-Royce (aerospace; Rolls-Royce North America)",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
       "location": "Indianapolis, IN",
       "opened": "2026-09-15",
-      "date_source": "page text (Job Posting Date 15 Sep 2026)",
+      "date_source": "workday startDate",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
+      "grad_window": "Dec 2026 - Jun 2027",
       "live_verified": "api"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate",
   "jobs_spec": "wd:rollsroyce/wd3/Intern_Graduate",
-  "evidence": "Workday API (--all) + detail: Junior ML Engineering and Engineering and Technology Graduate Program (Indianapolis, grads Dec 2026-Jun 2027) both say 'To be considered, you must also be a U.S. Citizen'. Other US roles are interns.",
+  "evidence": "Workday API + detail 2026-10-05: Junior ML Engineering (Indianapolis, graduating Dec 2026-Jun 2027) says 'you must also be a U.S. Citizen'; Engineering and Technology Graduate Program says same. Others non-software.",
   "confidence": "high"
 }

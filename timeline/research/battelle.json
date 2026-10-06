@@ -1,7 +1,7 @@
 {
   "company": "Battelle",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -12,15 +12,15 @@
       "date_source": "page text (Phenom dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-21",
-  "last_cycle_basis": "tracker first-seen; 'Early Career Software Engineer', Columbus OH (flagged U.S. Citizenship)",
+  "last_cycle_basis": "tracker first-seen 'Early Career Software Engineer', Columbus OH",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.battelle.org/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom search API (94 hits for 'software') and posting page (curl, no browser in cloud run): Entry Level Embedded SWE (Columbus, 2026-08-26) live; page: 'citizenship and eligibility for a TS/SCI security clearance are required'. Other software roles mid-level or co-op.",
-  "confidence": "medium"
+  "evidence": "Phenom posting page fetched (curl, 2026-10-05): Software Engineer - Embedded Systems (Entry Level), Columbus OH, created 2026-08-26, live; says \"U.S. citizenship and eligibility for a TS/SCI security clearance are required\". Other software roles not seen as entry-level.",
+  "confidence": "high"
 }

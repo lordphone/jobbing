@@ -1,15 +1,15 @@
 {
   "company": "Enphase Energy",
   "tier": 7,
-  "status": "no_program_found",
+  "checked": "2026-10-05",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "none found; Emerging Talent program page exists but no dated cycle",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://enphase.com/careers",
   "jobs_spec": null,
-  "evidence": "Enphase jobs API /api/v2/jobs read via browser 2026-10-02 (86 postings, 13 pages): US roles are staff/senior/principal engineering, field service, sales; software and firmware entry roles absent (India/NZ non-entry). One NZ summer internship. No US entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Jobvite board 2026-10-05: no US entry roles; US engineering is senior/staff firmware, hardware, systems; Fremont processor-verification is HW verification. Early-career roles are Bangalore/Chennai/New Zealand. Emerging Talent page exists; no US new-grad SWE.",
+  "confidence": "medium"
 }

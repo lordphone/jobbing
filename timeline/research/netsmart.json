@@ -1,7 +1,7 @@
 {
   "company": "Netsmart",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658",
       "location": "Overland Park, KS",
       "opened": "2026-08-02",
-      "date_source": "tracker first seen (Workday shows 'Posted 14 Days Ago', startDate 2026-09-18)",
+      "date_source": "tracker first seen (Workday startDate 2026-09-18, 'Posted 17 Days Ago')",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 May 2027",
+      "grad_window": "Dec 2026 – May 2027",
       "live_verified": "api"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://ntst.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:ntst/wd1/careers",
-  "evidence": "Workday board (31 postings, --all) lists 'Software Engineer - (Dec.26/May 27 Grads)', Overland Park KS, live via API; detail: not available for visa sponsorship. Other Dec26/May27 roles non-SWE. No deadline stated.",
+  "evidence": "Workday API 2026-10-05: grads posting live, canApply true; text 'not available for visa sponsorship'. No deadline stated. Other grad postings are non-SWE.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Guardian Life Insurance Company of America",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'guardian' found no this-cycle SWE new-grad posting in 2025-07 to 2026-01",
+  "last_cycle_basis": "jobs.py history 'guardian' found no new-grad SWE posting in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers",
   "jobs_spec": "wd:guardianlife/wd5/guardian-life-careers",
-  "evidence": "Workday API --all 2026-10-02 (42): 2027 D&T items are Summer Interns; 2027 Early Career Program is for 2026 Guardian interns / Associate Underwriter; no sponsorship. No open FT SWE new-grad role.",
+  "evidence": "Workday API --all 2026-10-05 (42): 2027 Digital & Technology items are Summer Interns; '2027 Early Career Program' is for 2026 Guardian intern graduates only; Associate Underwriter non-SWE; software roles principal/lead/senior. No sponsorship.",
   "confidence": "high"
 }

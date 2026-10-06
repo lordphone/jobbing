@@ -1,15 +1,16 @@
 {
   "company": "RTX",
   "tier": 8,
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
       "title": "Software Engineer I (Onsite)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
-      "location": "Cedar Rapids, IA",
-      "opened": "2026-09-29",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432",
+      "location": "Tucson, AZ",
+      "opened": "2026-10-05",
       "date_source": "workday startDate",
-      "deadline": null,
+      "deadline": "2026-10-31",
       "grad_window": null,
       "live_verified": "api"
     },
@@ -18,20 +19,30 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081",
       "location": "Cedar Rapids, IA",
       "opened": "2026-09-28",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Research Software Engineer I - Onsite",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
       "location": "Cambridge, MA",
-      "opened": "2026-09-28",
-      "date_source": "workday postedOn",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Test Engineer I",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Test-Engineer-I_01879607",
+      "location": "Andover, MA",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-12-18",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-25",
@@ -40,7 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway",
   "jobs_spec": "wd:globalhr/wd5/rec_rtx_ext_gateway",
-  "evidence": "Workday API (146 postings): Software Engineer I, Research SWE I and Software Test Engineer I postings live. Quote: \"U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\"; Secret clearance. No deadline stated.",
-  "confidence": "high",
-  "checked": "2026-10-02"
+  "evidence": "Workday 2026-10-05: four US Software Engineer I / Test roles opened via detail; all say 'U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance' (Secret). Cedar Rapids 01861196 no longer found. Tracker conversion roles are intern-only.",
+  "confidence": "high"
 }

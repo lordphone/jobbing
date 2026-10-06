@@ -1,15 +1,26 @@
 {
   "company": "Hyundai Motor Group",
   "tier": 8,
-  "checked": "2026-10-02",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Infotainment Application Developer",
+      "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Application-Developer-MI-48198/1391669800/",
+      "location": "Superior Charter Township, MI",
+      "opened": "2026-09-11",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history: only Data Analyst (Irvine 2026-04), no SWE",
+  "last_cycle_basis": "no last-cycle new-grad SWE found; tracker shows only analyst roles at Hyundai affiliates",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://hyundaiautoeveramerica.applytojob.com/apply",
+  "jobs_page": "https://careers-americas.hyundai.com/hatci/",
   "jobs_spec": null,
-  "evidence": "Hyundai AutoEver America applytojob list (101 jobs, 2026-10-02): software roles are II/III/Senior or unleveled with 9+ yrs; no entry SWE. careers-americas.hyundai.com is a portal index with no early-career program. One web search found no 2027 new-grad SWE posting. Affiliates not exhaustively read.",
+  "evidence": "HATCI careers-americas search 2026-10-05 (page fetched, Apply now shown): Infotainment Application Developer (C++/Kotlin, AAOS) asks BS in CS and 0-10 yrs, dated Sep 11 2026. Other SWE roles senior; IT (AI) Strategy Engineer I is not SWE. No sponsorship text seen.",
   "confidence": "medium"
 }

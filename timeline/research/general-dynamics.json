@@ -1,6 +1,7 @@
 {
   "company": "General Dynamics",
   "tier": 8,
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -8,20 +9,20 @@
       "url": "https://careers-gdms.icims.com/jobs/74471/job",
       "location": "Manassas, VA",
       "opened": "2026-08-21",
-      "date_source": "page text (Posted Date)",
+      "date_source": "page text (JSON-LD datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    },
+    {
+      "title": "Software Developer Associate - TS/SCI with Polygraph",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
+      "location": "Chantilly, VA",
+      "opened": "2026-10-05",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer 1",
-      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
-      "location": "Annapolis Junction, MD",
-      "opened": "on or before 2026-08-29",
-      "date_source": "workday postedOn",
-      "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -30,7 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:gdit/wd5/External_Career_Site",
-  "evidence": "GDIT Workday (158): Software Engineer 1 needs \"US Citizenship Required: Yes\", TS/SCI poly. GDMS iCIMS 74471 earlier had Apply, text \"citizenship is required\", Secret clearance; not reopened this run (no iCIMS API). No deadline stated.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "GDMS iCIMS 74471 page text: 'Due to the nature of work performed within our facilities, U.S. citizenship is required.' GDIT Workday (158) 2026-10-05: Software Developer Associate 'US Citizenship Required: Yes', TS/SCI poly; Software Engineer 1 same.",
+  "confidence": "high"
 }

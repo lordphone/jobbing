@@ -1,6 +1,8 @@
 {
   "company": "Northern Trust",
-  "status": "closed",
+  "tier": 5,
+  "checked": "2026-10-05",
+  "status": "unknown",
   "postings": [
     {
       "title": "Technology Analyst - Software Engineering",
@@ -15,12 +17,10 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows AI Software Engineer-Enterprise AI 2025-12-12 (experienced, not clearly new grad)",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL",
   "jobs_spec": "wd:ntrs/wd1/northerntrust",
-  "evidence": "Tracker's 2026-09-08 Technology Analyst - Software Engineering (Chicago) absent from Workday list (98) and cxs search (tracker URL truncated, ID not recoverable, page not opened). Live SWE are Associate (3+ yrs React), Sr Associate or above; no sponsorship. Closed inferred.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Tracker's 2026-09-08 Technology Analyst - Software Engineering (Chicago) absent from Workday list (98) and cxs searches; tracker URL truncated, page can't be opened, so not proven closed. Careers page lists a Technology Analyst program. Other Chicago SWE roles experienced; no sponsorship.",
+  "confidence": "low"
 }

@@ -1,15 +1,15 @@
 {
   "company": "IMDb",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No IMDb-specific new-grad SWE tracker history",
+  "last_cycle_basis": "No IMDb-specific new-grad SWE tracker history; new grads join via Amazon's generic SDE Early Career postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs API search IMDb (52 hits, US/other): no SDE roles besides Sr SDE Prime Video Advertising; rest ads sales, finance, data science. New grads use Amazon's general SDE postings.",
+  "evidence": "amazon.jobs API search for IMDb (2026-10-05): US roles are finance, data science, UX, ad sales, legal; no SDE posting. New grads join via Amazon's generic SDE Early Career postings.",
   "confidence": "medium"
 }

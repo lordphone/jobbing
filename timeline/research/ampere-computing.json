@@ -1,15 +1,15 @@
 {
   "company": "Ampere Computing",
   "tier": 7,
-  "status": "unknown",
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "no tracker history; Early Career page is internships only",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.amperecomputing.com/",
   "jobs_spec": null,
-  "evidence": "careers.amperecomputing.com blocks WebFetch/curl (403, Cloudflare challenge) and browser pane navigation failed 2026-10-02. Web search shows interns and an AI SWE intern only. Earlier read (2026-09-30): US SWE senior/principal, no entry label. Retry later.",
-  "confidence": "low",
-  "checked": "2026-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.amperecomputing.com is behind a Cloudflare challenge today (could not reopen). Prior full read 2026-10-05 of 80 listings (48 US): software roles Principal/Sr or Full-stack (2+ yrs); only entry item Technical Intern. Early Career page is interns only.",
+  "confidence": "medium"
 }

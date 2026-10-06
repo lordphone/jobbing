@@ -1,36 +1,26 @@
 {
   "company": "Invesco",
   "tier": 5,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Engineer, SIP (Software Engineer, Strategy, Innovation & Planning)",
-      "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
+      "title": "Software Engineer - Strategy, Innovation & Planning (Engineer, SIP)",
+      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
       "location": "Atlanta, GA; Houston, TX",
       "opened": "2026-07-30",
-      "date_source": "tracker first seen 2026-07-30 (workday startDate 2026-07-31)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "ETF Quantitative Developer",
-      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2",
-      "location": "Downers Grove, IL",
-      "opened": "on or before 2026-08-28",
-      "date_source": "tracker first seen 2026-08-27 (workday startDate 2026-08-28)",
+      "date_source": "tracker first seen (workday startDate 2026-07-31)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history has no new-grad SWE posting between 2025-07 and 2026-01; nearest is 'Early Career Analyst - Technology' 2026-02-25 (outside window).",
+  "last_cycle_opened": "2026-02",
+  "last_cycle_basis": "tracker 'Early Career Analyst - Technology' Atlanta/Houston first seen 2026-02-25 (spring; since closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://invesco.wd1.myworkdayjobs.com/IVZ",
   "jobs_spec": "wd:invesco/wd1/IVZ",
-  "evidence": "Re-read both via Workday API 2026-10-02, canApply true. SIP Engineer asks 0-2 yrs (GenAI web apps); ETF Quant Developer asks 0-3 yrs (absent from board list, detail loads). No deadline, sponsorship or citizenship lines. Rolling, no class year.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Workday (70, --all) 2026-10-05: Engineer, SIP read via cxs API, canApply true, requires 0-2 yrs, GenAI web apps, Atlanta/Houston. No sponsorship line. Early Career Intern roles are internships; other engineers senior.",
+  "confidence": "medium"
 }

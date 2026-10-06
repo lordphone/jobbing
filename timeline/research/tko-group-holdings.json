@@ -1,15 +1,15 @@
 {
   "company": "TKO Group Holdings (WWE / UFC)",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party history found for a SWE new-grad track.",
+  "last_cycle_basis": "no history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://wwecorp.wd5.myworkdayjobs.com/tko",
   "jobs_spec": "wd:wwecorp/wd5/tko",
-  "evidence": "Workday API --all (23 postings): only VP/Senior cybersecurity, IT support, product and business roles; no entry SWE. No history.",
-  "confidence": "high"
+  "evidence": "Workday (23 --all) 2026-10-05: tech roles are VP/Senior cybersecurity, IT Support Engineer, Data & AI Product Manager. No entry SWE; tracker history only analyst roles.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Progressive",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.progressive.com/search/jobs/",
   "jobs_spec": null,
-  "evidence": "Browser pane on careers.progressive.com: keyword searches 'software' (25 jobs), 'developer' (1), 'engineer' (1), 'new grad' (0). Only Senior Software Developer - Node/React and Cribl DevOps Engineer Lead; no entry-level SWE. The search index looks small, so coverage is moderate.",
-  "confidence": "medium"
+  "evidence": "Earlier same-day browser read of careers.progressive.com: Technology category had 2 jobs, none SWE or new-grad. Re-check this run hit a Cloudflare bot check; web search found no 2027 new-grad program. Not verified twice, so low confidence.",
+  "confidence": "low"
 }

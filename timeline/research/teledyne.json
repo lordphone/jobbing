@@ -1,15 +1,15 @@
 {
   "company": "Teledyne",
   "tier": 7,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
       "title": "Jr. Software Engineer",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
       "location": "Huntsville, AL",
-      "opened": "2026-08-09",
-      "date_source": "tracker first seen",
+      "opened": "on or before 2026-08-10",
+      "date_source": "workday startDate 2026-08-10; tracker first seen 2026-08-09",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -18,8 +18,8 @@
       "title": "Associate Software Engineer",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189",
       "location": "Huntsville, AL",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday postedOn",
+      "opened": "on or before 2026-08-13",
+      "date_source": "workday startDate 2026-08-13",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://flir.wd1.myworkdayjobs.com/flircareers",
   "jobs_spec": "wd:flir/wd1/flircareers",
-  "evidence": "Workday flircareers (108, --all) re-read: Huntsville AL Jr./Associate Software Engineer postings state 'successful applicants must be U.S. citizens and must be able to gain and maintain a DoD Secret level clearance'. Montreal/Ottawa roles are outside Toronto/Vancouver. Other Teledyne units may differ.",
+  "evidence": "Workday flircareers 2026-10-05: Jr. SWE (0-2 yrs) and Associate SWE in Huntsville AL still return via detail; posting says \"successful applicants must be U.S. citizens\" and gain DoD/DoW Secret clearance. Other Teledyne units may differ.",
   "confidence": "high"
 }

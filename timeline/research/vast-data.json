@@ -1,6 +1,7 @@
 {
   "company": "VAST Data",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -30,7 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.vastdata.com/careers",
   "jobs_spec": null,
-  "evidence": "Comeet careers-api (token from vastdata.com/careers) 2026-10-02 lists both US Entry-level Top Graduate SWE postings; no sponsorship/citizenship text. Israel graduate roles and RTP/Israel graduate QA roles not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Comeet 2026-10-05: Top Graduate SWE V-Force RTP (updated 2026-09-02) and New York (2026-07-09), both Entry-level, posting pages serve live position data. Application form asks 'Are you a US citizen?' as a screening question; no stated requirement. Dates are time_updated (lower bound).",
+  "confidence": "medium"
 }

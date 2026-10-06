@@ -1,15 +1,15 @@
 {
   "company": "The Hartford",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in 2025-07 to 2026-01 window; closest 'Associate Tech - Data Analytics - Cyber' 2025-11-19 (not SWE)",
+  "last_cycle_opened": "2025-11-18",
+  "last_cycle_basis": "tracker history: Associate Tech - Data Analytics - Cyber, Charlotte/Hartford, first seen 2025-11-18; Associate Data/AI Engineer 2026-04",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
   "jobs_spec": "wd:thehartford/wd5/Careers_External",
-  "evidence": "Workday Careers_External --all (71) 2026-10-02: Tech Catalyst Associate SWE (opened 2026-07-16) page on jointhehartford.com returns HTTP 410 Gone; Java Associate SWE (2026-07-19) not on board. Live Software Engineer roles (HIMCO) need 3+ yrs, no sponsorship; only 2027 SWE items are interns.",
+  "evidence": "Workday 2026-10-05: Tech Catalyst Associate SWE (2026-07-16) and Associate SWE Java (2026-07-19) no longer listed (tracker URLs truncated, so not opened). Live Software Engineer/Full Stack roles need 3+ yrs and no sponsorship; 2027 Tech & Data items are interns.",
   "confidence": "medium"
 }

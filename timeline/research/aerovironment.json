@@ -1,7 +1,7 @@
 {
   "company": "AeroVironment (AV)",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
       "location": "Jessup, MD",
       "opened": "on or before 2026-08-04",
-      "date_source": "workday startDate (postedOn 30+ days)",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://avav.wd1.myworkdayjobs.com/avav",
   "jobs_spec": "wd:avav/wd1/avav",
-  "evidence": "Workday API (71, --all) + detail: Junior SWE (Jessup MD, 0-4 yrs) says applicants must verify 'U.S. person status under the ITAR and the EAR' and some positions need U.S. citizenship; Huntsville SWE requires ITAR US citizenship. Others interns or senior.",
-  "confidence": "medium"
+  "evidence": "Workday detail 2026-10-05: Junior SWE (Jessup MD, 0-4 yrs) says applicants must provide documents to verify U.S. person status under ITAR/EAR; some roles need current US citizenship.",
+  "confidence": "high"
 }

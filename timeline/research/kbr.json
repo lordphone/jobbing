@@ -1,7 +1,7 @@
 {
   "company": "KBR",
   "tier": 10,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Belvoir-Virginia/Entry-Level--Junior-Army-Fires-Modeling-and-Simulation-Developer_R2129634",
       "location": "Fort Belvoir, VA",
       "opened": "on or before 2026-09-22",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -19,7 +19,7 @@
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Associate-AWS-DevOps-Engineer_R2128994",
       "location": "Sioux Falls, SD",
       "opened": "on or before 2026-08-26",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -29,7 +29,7 @@
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
       "location": "Beavercreek, OH",
       "opened": "on or before 2026-06-09",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers",
   "jobs_spec": "wd:kbr/wd5/KBR_Careers",
-  "evidence": "Workday API 2026-10-02: Army Fires developer 'A SECRET security clearance/ ability to obtain a SECRET clearance is required'; AWS DevOps 'U.S. citizenship is required'. Australia Graduate LCNC not US.",
+  "evidence": "Workday API 2026-10-05 (169 postings): Army Fires developer 'A SECRET security clearance/ ability to obtain a SECRET clearance is required'; AWS DevOps 'U.S. citizenship is required'; Jr SWE lists DoD clearance. All entry SWE need clearance/citizenship.",
   "confidence": "high"
 }

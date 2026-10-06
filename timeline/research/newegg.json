@@ -1,15 +1,15 @@
 {
   "company": "Newegg",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; 2026-06-02 generic Early Career Talent Program (class of 2026, temp-to-hire), not SWE-specific",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP API 2026-10-02: 91 postings, mostly warehouse. Only Business System Developer (experienced) and a generic Early Career Talent Program (grad by Dec 2026, temp-to-hire, all BUs). No SWE new-grad.",
-  "confidence": "medium"
+  "evidence": "ADP board (JS app) not readable this run. Web search: Early Career Talent Program (Junior Analyst/Developer/Specialist) needs grad by Dec 2026, on-site Diamond Bar CA, not SWE-specific. Prior API read showed no SWE new-grad role.",
+  "confidence": "low"
 }

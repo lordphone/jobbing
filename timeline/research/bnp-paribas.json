@@ -1,7 +1,7 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "on or before 2026-08-17",
       "date_source": "page text (Last update 17.08.2026)",
       "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027",
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
       "live_verified": "browser"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "Opened in browser 2026-10-02: listed under Graduate Programme, Apply button present, Master's, graduation Dec 2026-Jun 2027, Jersey City. No sponsorship line found. Other US 2027 FT tracks are non-tech; tech summer analyst is internship.",
-  "confidence": "high"
+  "evidence": "Posting page returned 403 / blocked this run; web search confirms 2027 Full Time AVP Analytics Lab ML Engineer (Jersey City) exists. Earlier browser read today showed Apply, grad Dec 2026-Jun 2027, Master's. Live not re-opened.",
+  "confidence": "medium"
 }

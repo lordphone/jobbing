@@ -1,18 +1,18 @@
 {
   "company": "Hulu",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "open",
+  "checked": "2026-10-05",
+  "status": "closed",
   "postings": [
     {
       "title": "Product Software Engineer I",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
-      "location": "New York, NY; Seattle, WA; San Francisco, CA",
+      "url": "https://www.disneycareers.com/en/job/new-york/product-software-engineer-i/391/99357341552",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA",
       "opened": "2026-08-17",
-      "date_source": "page text (Date Posted); Workday startDate now 2026-09-30 (repost)",
+      "date_source": "earlier page text Date Posted (prior file)",
       "deadline": "2026-10-05",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Hulu posts under Disney. Workday board 2026-10-02 still lists Product Software Engineer I (Disney Entertainment & ESPN Technology; Disney+/Hulu/ESPN+), endDate 2026-10-05, 1-2 yrs preferred per prior detail. Decision Science Graduate Associate Spring 2027 (Orlando) is data-science, not counted.",
-  "confidence": "medium"
+  "evidence": "Hulu posts under Disney. Product Software Engineer I (disneycareers.com, opened 2026-08-17, deadline 2026-10-05) returns 'Job Not Found' 2026-10-05. Disney Workday board (92) has only SWE II/Senior+ plus grad-student Decision Science roles; none are SWE entry.",
+  "confidence": "high"
 }

@@ -1,26 +1,15 @@
 {
   "company": "ESPN",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Product Software Engineer I",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
-      "location": "New York, NY; Seattle, WA; San Francisco, CA",
-      "opened": "2026-08-17",
-      "date_source": "page text (Date Posted; Workday start date 2026-09-30)",
-      "deadline": "2026-10-05",
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-05",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "Tracker: Disney 'Software Engineer I' postings first seen 2025-08-15",
+  "last_cycle_basis": "Tracker: Disney 'Software Engineer I' postings first seen 2025-08-15 (Workday, Seattle); ESPN posts under Disney",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Workday cxs: Product Software Engineer I (Disney Entertainment & ESPN Technology, streaming frontend), canApply true, endDate 2026-10-05, prefers 1-2 yrs. Not ESPN-branded; Disney-wide. Other ESPN-linked roles are SWE II+.",
+  "evidence": "Disney Workday (ESPN posts here, 158 searchable, 2026-10-05): no Software Engineer I; the 2025 SWE I req (10125661) now returns 403 on its CXS endpoint while live reqs return data. Remaining SWE II needs 3+ yrs; Spring 2027 roles are internships.",
   "confidence": "medium"
 }

@@ -1,5 +1,7 @@
 {
   "company": "Waymo",
+  "tier": 8,
+  "checked": "2026-10-05",
   "status": "leftover_2026",
   "postings": [
     {
@@ -15,12 +17,10 @@
   ],
   "last_cycle_opened": "2025-12-22",
   "last_cycle_basis": "Greenhouse first_published date for the PhD New Grad MLE posting, still live",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/waymo",
   "jobs_spec": "gh:waymo",
-  "evidence": "Greenhouse API (364 postings): only new-grad-labeled role is Dec 2025 PhD MLE (PhD-only, grads window unspecified). Other early roles are 2027 Summer Interns. No BS/MS SWE new grad live.",
-  "confidence": "high",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Greenhouse (362, --all) 2026-10-05: only new-grad role is the PhD-only MLE (Perception LLM/VLM, lists 5+ yrs ML), first published 2025-12-22, still live; last-cycle leftover. No BS/MS SWE new grad.",
+  "confidence": "high"
 }

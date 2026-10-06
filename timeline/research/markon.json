@@ -1,15 +1,15 @@
 {
   "company": "Markon",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
       "title": "Junior Software Engineer",
       "url": "https://careers-markon.icims.com/jobs/8694/junior-software-engineer/job",
       "location": "McLean, VA",
-      "opened": "unknown (iCIMS shows no date; req 2026-8694)",
-      "date_source": "page text",
+      "opened": "2026-09-21",
+      "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
@@ -18,11 +18,11 @@
       "title": "Jr. Software Engineer",
       "url": "https://careers-markon.icims.com/jobs/8637/jr.-software-engineer/job",
       "location": "Annapolis Junction, MD",
-      "opened": "unknown (iCIMS shows no date; req 2026-8637)",
-      "date_source": "page text",
+      "opened": "2026-08-31",
+      "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-11-10",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-markon.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS list (in_iframe, 5 pages) and posting pages 2026-10-02: Junior SWE 8694 says 'An Active TS/SCI with a FS Polygraph is required'; 8637 'Active TS/SCI with Polygraph required' and 2+ yrs. Excluded.",
+  "evidence": "iCIMS list (in_iframe) and posting pages 2026-10-05: Junior SWE 8694 and 8637 both say 'Active TS/SCI with Polygraph required' (8637 and 8694 need 2+ yrs). Excluded for clearance.",
   "confidence": "high"
 }

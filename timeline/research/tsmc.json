@@ -1,26 +1,26 @@
 {
   "company": "TSMC",
-  "tier": 7,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (New Graduate) - North America Software Center",
-      "url": "https://careers.tsmc.com/en_US/careers/JobDetail/Software-Engineer-New-Graduate-North-America-Software-Center/22761",
+      "url": "https://ro.careers.tsmc.com/job/Vancouver-Software-Engineer-%28New-Graduate%29-North-America-Software-Center-WA-98607/1366233766/",
       "location": "Vancouver, WA",
       "opened": "2026-08-21",
-      "date_source": "page text",
+      "date_source": "earlier browser check (kept from prior file); page now shows Date: Sep 19, 2026",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://careers.tsmc.com",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-02 on careers.tsmc.com: Software Engineer (New Graduate), Vancouver WA, posted Aug 21 2026, Apply button present; states cannot provide visa sponsorship.",
-  "confidence": "high"
+  "no_sponsorship": true,
+  "evidence": "Fetched posting page 2026-10-05: Software Engineer (New Graduate), Vancouver WA, Apply now present, entry-level for new graduates; states no visa sponsorship. Phoenix Fullstack role has no entry label, not counted.",
+  "confidence": "high",
+  "tier": 7,
+  "checked": "2026-10-05",
+  "excluded_reason": null
 }

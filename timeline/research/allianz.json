@@ -1,6 +1,7 @@
 {
   "company": "Allianz (Allianz Life / Allianz Global Investors US)",
   "tier": 11,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,18 @@
       "url": "https://careers.allianz.com/us/en/job/105620/TechSTART-Associate-2027-3318",
       "location": "Minneapolis, MN (hybrid)",
       "opened": "2026-09-03",
-      "date_source": "page text (JSON-LD datePosted 2026-09-03; a second field says 2026-09-21)",
+      "date_source": "page JSON-LD datePosted (current page says 2026-09-21; earlier check 2026-09-03)",
       "deadline": null,
       "grad_window": "June 2027 start",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "A 'TechSTART Associate - 2026' posting existed (Minneapolis) but is now removed and its date is not shown; not dated.",
+  "last_cycle_basis": "A 'TechSTART Associate - 2026' (June 2026 cohort) posting existed in Minneapolis but its date is not shown; not dated.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.allianz.com/us/en/graduates",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: posting page shows Apply Now, Entry Level, June 2027 TechSTART cohort, application development/cloud/DevOps tracks, 0-1 yrs. One WebFetch summary said 'filled' but the page itself has Apply Now. No sponsorship text, no deadline.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "2026-10-05: Phenom search API lists TechSTART Associate 2027 (Minneapolis); page HTML shows job-exists state visible (expired state hidden), apply URL present, no end date. Entry level, June 2027 cohort, 0-1 yrs, Application/Database Dev, Cloud/DevOps tracks. No sponsorship text.",
+  "confidence": "medium"
 }

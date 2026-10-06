@@ -1,15 +1,26 @@
 {
   "company": "eBay",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Applied Researcher 1 - Multimodal AI",
+      "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1---Multimodal-AI_R0076692",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-02",
-  "last_cycle_basis": "prior research: '2026 Software Engineer - Recent Graduates' (San Jose/Austin) posted late in cycle; tracker: Applied Researcher 1 Austin 2026-04-03",
+  "last_cycle_basis": "prior research: '2026 Software Engineer - Recent Graduates' (San Jose/Austin); tracker: Software Engineer 1 NYC 2025-02-27, Applied Researcher 1 Austin 2026-04-03, Toronto 2026-04-20",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ebay.wd5.myworkdayjobs.com/apply",
   "jobs_spec": "wd:ebay/wd5/apply",
-  "evidence": "Workday search API (94 postings) read 2026-10-02: no US or Toronto entry SWE; Dublin/Bengaluru/Amsterdam engineer roles, Toronto Data Scientist and Depop MLE (not entry-labeled). Toronto Applied Researcher 1 roles (tracker) not on board; research role, not counted.",
+  "evidence": "Workday API/detail 2026-10-05: Applied Researcher 1 - Multimodal AI Toronto live (canApply true), level 1, hands-on production ML role but titled researcher. No US or Toronto entry SWE on board; others Sr/MTS/Staff. Medium on role fit.",
   "confidence": "medium"
 }

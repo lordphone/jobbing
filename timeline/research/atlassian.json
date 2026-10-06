@@ -1,7 +1,7 @@
 {
   "company": "Atlassian",
   "tier": 3,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
       "location": "Seattle, WA",
       "opened": "2026-09-14",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (listing updated 2026-09-29)",
       "deadline": null,
       "grad_window": "graduating by August 2027",
       "live_verified": "api"
@@ -21,15 +21,15 @@
       "opened": "2026-09-24",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "graduating by August 2027",
+      "grad_window": "2027 graduate",
       "live_verified": "api"
     },
     {
       "title": "Software Engineer, 2027 Graduate Canada",
       "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
-      "location": "Burnaby, BC; Richmond, BC; Vancouver, BC",
+      "location": "Canada (listing gives no city; tracker lists Burnaby, BC; Vancouver, BC)",
       "opened": "2026-09-09",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (listing updated 2026-09-15)",
       "deadline": null,
       "grad_window": "graduating by August 2027",
       "live_verified": "api"
@@ -41,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.atlassian.com/company/careers/all-jobs?team=Graduates",
   "jobs_spec": null,
-  "evidence": "Atlassian's own listings feed (atlassian.com/endpoint/careers/listings) 2026-10-02 lists the three 2027 Graduate SWE/MLE postings. US: 'not eligible for F1 and J1 students... not available for any work sponsorship'; Canada (Vancouver area): no sponsorship. No deadline.",
-  "confidence": "high"
+  "evidence": "Atlassian careers listings feed 2026-10-05: SWE and ML Engineer 2027 Graduate U.S. (Seattle) and SWE 2027 Graduate Canada live (updated 2026-09-15 to 09-29). US: not eligible for F1/J1 or work sponsorship; Canada: no sponsorship at hire. iCIMS page not rendered.",
+  "confidence": "medium"
 }

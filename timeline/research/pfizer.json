@@ -1,15 +1,26 @@
 {
   "company": "Pfizer",
   "tier": 11,
-  "checked": "2026-10-02",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Digital & Technology Rotational Program – Associate",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Digital---Technology-Rotational-Program---Associate_4955575",
+      "location": "New York, NY; Tampa, FL; Groton, CT; Collegeville, PA",
+      "opened": "2026-10-05",
+      "date_source": "workday postedOn (Posted Today)",
+      "deadline": "2026-10-10",
+      "grad_window": "graduated by Spring 2027; start July 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; US early-career items are postdoc fellows and Associate Data Systems Engineer (2026-04, closed)",
+  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 new-grad record (earlier 'Ireland only' note)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
   "jobs_spec": "wd:pfizer/wd1/PfizerCareers",
-  "evidence": "Workday board and keyword searches 2026-10-02: 2027 graduate programmes are Ireland, undergraduate roles UK; US roles are senior/lead or scientists. No US entry-level SWE.",
+  "evidence": "Workday 2026-10-05: 2-year D&T Early Careers rotational program posted today, canApply true, endDate 2026-10-10, start July 2027; areas include software engineering/AI/data. Borderline (rotational, not SWE-only; needs Pfizer early-talent pipeline experience). No visa sponsorship, now or future.",
   "confidence": "medium"
 }

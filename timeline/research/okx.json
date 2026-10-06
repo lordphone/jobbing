@@ -1,15 +1,26 @@
 {
   "company": "OKX",
-  "tier": 5,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "status": "closed",
+  "postings": [
+    {
+      "title": "AI-Native Mobile Engineer New Grad (closed)",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/7897680003",
+      "location": "San Jose, CA",
+      "opened": "2026-08-18",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-09-22",
   "last_cycle_basis": "Tracker history: Software Engineer - New Grad - Backend, San Jose, first seen 2025-09-22 (also AI-Native Mobile Engineer New Grad 2026-08-18, now closed).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/okx",
   "jobs_spec": "gh:okx",
-  "evidence": "Greenhouse API --all (328): no US new-grad/junior SWE; US engineering roles are Senior; junior SWE roles are Hong Kong/Singapore. Last cycle's New Grad postings (San Jose) are gone; 2026-08-18 AI-Native Mobile New Grad not on board (API, not opened by URL).",
-  "confidence": "high"
+  "evidence": "Greenhouse API --all 2026-10-05 (330): no entry-level SWE in US. Tracker's 2026-08-18 AI-Native Mobile Engineer New Grad (7897680003) not on API and its page now shows only the job list (WebFetch): gone, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 5
 }

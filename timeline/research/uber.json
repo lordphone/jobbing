@@ -8,8 +8,8 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
-  "jobs_spec": null,
-  "evidence": "Browser 2026-10-02: tracker lead jobs.uber.com/en/jobs/160017 (SWE I, first seen 2026-07-09) and 159863 show 'Not found'. Engineer team list (8 pages) and University team show no SWE I/Graduate 2027 roles, only Sr/Staff, II and interns. Closed.",
+  "jobs_spec": "oracle:iaziqy.fa.ocs.oraclecloud.com/UberCareers",
+  "evidence": "jobs.uber.com runs on Oracle HCM (UberCareers); API 2026-10-05 keywords 'Software Engineer I','Graduate','University': no US SWE I/2027 grad; only interns, non-US, and 2026 PhD SWE II (AV Labs). Tracker lead 160017 (SWE I, Jul) shows Not found; NY SWE I (Aug 18) is closed per third party. Closed.",
   "confidence": "medium",
-  "checked": "2026-10-02"
+  "checked": "2026-10-05"
 }

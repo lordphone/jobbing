@@ -1,6 +1,7 @@
 {
   "company": "Cadence",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,18 +10,17 @@
       "location": "San Jose, CA",
       "opened": "on or before 2026-09-03",
       "date_source": "workday postedOn/startDate",
-      "deadline": null,
       "grad_window": "New college grad, December 2026 grad date",
-      "live_verified": "api"
+      "live_verified": "api",
+      "deadline": null
     }
   ],
   "last_cycle_opened": "2025-06-27",
   "last_cycle_basis": "jobs.py history: New Grad: C++ Software Engineer, Boston MA, first seen 2025-06-27 (C++ SWE NCG Burlington 2025-06-09; Software Development Engineer NCG 2025-12-09)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
   "jobs_spec": "wd:cadence/wd1/External_Careers",
-  "evidence": "Univ_Careers Workday re-read: SWE new college grad (Dec 2026 grad ideal), San Jose, live via API, start 2026-09-03, no citizenship bar or end date; MS or BS. Adams Recent Grad 2026 (Livonia) is a leftover, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Univ_Careers board and detail API 2026-10-05: SWE new college grad (Dec 2026), San Jose live, no end date, no citizenship line. Burnaby Distributed Systems Engineer needs 3+ yrs. Adams Application Software Developer (Recent Grad 2026, Livonia MI) live but 2026-titled, treated as leftover.",
+  "confidence": "medium"
 }

@@ -1,36 +1,36 @@
 {
   "company": "L.E.K. Consulting",
-  "status": "unknown",
-  "no_sponsorship": true,
+  "tier": 10,
+  "checked": "2026-10-05",
+  "status": "open",
   "postings": [
     {
       "title": "Associate Data & Automation Analyst",
       "url": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-86e3fabd2fdc/candidate/so/pm/1/pl/6/opp/4099-Associate-Data-Automation-Analyst/en-GB",
       "location": "Boston, MA",
       "opened": "on or before 2026-10-01",
-      "date_source": "page text (board shows no posted date; listed live on 2026-10-01)",
+      "date_source": "page text (board shows no posted date; listed live on 2026-10-01 and 2026-10-05)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     },
     {
       "title": "Associate Data & AI Analyst",
       "url": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-86e3fabd2fdc/candidate/so/pm/1/pl/6/opp/4100-Associate-Data-AI-Analyst/en-GB",
       "location": "Boston, MA",
       "opened": "on or before 2026-10-01",
-      "date_source": "page text (board shows no posted date; listed live on 2026-10-01)",
+      "date_source": "page text (board shows no posted date; listed live on 2026-10-01 and 2026-10-05)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history. Only consulting tracks (Consultant 2027, Summer DDA Associate 2027) are the firm's campus programs.",
+  "last_cycle_basis": "unknown; no tracker history. Firm campus programs are consulting tracks (U.S. Consultant 2027, Summer DDA Associate 2027).",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-f9ee24524658/candidate/jobboard/vacancy/3/adv/",
   "jobs_spec": null,
-  "evidence": "lek.tal.net now returns a \"confirm you're a real person\" bot check to scripts (not bypassed); lek.com/careers only links to it. Carried over 2026-10-01 read: two Boston Associate data roles (Analyst titles, borderline SWE), no sponsorship (F-1/OPT excluded). Not re-verified live.",
-  "confidence": "low",
-  "tier": 10,
-  "checked": "2026-10-02",
-  "excluded_reason": null
+  "evidence": "Board fetched 2026-10-05 (12 openings): only technical entry-ish roles are Boston Associate Data & Automation Analyst (1-3 yrs automation/data eng/DevOps) and Associate Data & AI Analyst (2-5 yrs ML); both close 2026-12-31; \"permanent basis without the need for employer sponsorship\". Borderline SWE; no Apply button viewed.",
+  "confidence": "low"
 }

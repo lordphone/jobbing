@@ -1,15 +1,15 @@
 {
   "company": "Nebius Group",
-  "tier": 7,
-  "checked": "2026-10-02",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "only US Early Talent role seen: ML Solution Architect (Early Talent), remote US, first 2026-06-17; not SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "only US Early Talent role seen: ML Solution Architect (Early Talent), remote US, first 2026-06-17 (tracker); a 3-month paid contract, not SWE",
   "jobs_page": "https://job-boards.greenhouse.io/nebius",
   "jobs_spec": "gh:nebius",
-  "evidence": "Greenhouse API (364 postings) 2026-10-02: Early Talent SWE/IAM roles are Prague/Amsterdam only; US roles are data center, sales, ops or senior. Nothing US entry SWE.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-05 (363 postings): only entry-titled role is Junior Identity & Access Engineer (Early Talent), Prague. No US entry SWE; US roles senior/staff or contract.",
+  "confidence": "high",
+  "tier": 7,
+  "checked": "2026-10-05",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

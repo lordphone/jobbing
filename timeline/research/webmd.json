@@ -1,15 +1,26 @@
 {
   "company": "WebMD (Internet Brands)",
   "tier": 9,
-  "checked": "2026-10-02",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Engineer (AI Automation Analyst)",
+      "url": "https://jobs.jobvite.com/webmd/job/oepEAfwB",
+      "location": "Newark, NJ",
+      "opened": "2026-09-02",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first seen 2025-11-14: Associate AI Software Engineer (El Segundo, CA), Internet Brands Jobvite",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/webmd",
   "jobs_spec": null,
-  "evidence": "Jobvite list 2026-10-01: no live software-engineer entry role; 'AI Engineer' page is an AI Automation Analyst (Newark, up to 3 yrs, analyst). Prior Associate AI Software Engineer (tracker 2025-11-14) not listed, so closed.",
+  "evidence": "Jobvite page opened 2026-10-05: 'AI Engineer' Newark NJ, Apply live; body says hybrid analyst/engineer 'AI Automation Analyst', up to 3 yrs, entry-level. Borderline SWE. El Segundo version closed. Other roles senior/lead.",
   "confidence": "medium"
 }

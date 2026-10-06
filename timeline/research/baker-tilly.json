@@ -1,15 +1,15 @@
 {
   "company": "Baker Tilly",
-  "status": "not_yet",
+  "tier": 10,
+  "checked": "2026-10-05",
+  "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2026-07-04",
-  "last_cycle_basis": "tracker first seen: Associate Data Engineer (Frisco TX), data engineering not core SWE",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker only lists data-consulting roles (Associate Data Engineer first seen 2026-07-04; RPA Developer Jan 2026), none entry SWE",
   "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers",
   "jobs_spec": "wd:bakertilly/wd5/BTCareers",
-  "evidence": "Workday API 2026-10-02, --all (92): no US entry SWE. Associate Data Engineer (JR106581; Frisco TX, Milwaukee, Tampa, Madison) live since ~Sep 2 but data engineering, not counted as SWE. Rest: 2027 interns, audit/tax, India test automation.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "Workday API 2026-10-05, --all (93): no US entry SWE. Associate Data Engineer (JR106581, Apply live in browser) is a Senior Consultant data role asking 2-3 yrs, Microsoft data stack; not counted. Rest India test automation, interns.",
+  "confidence": "medium"
 }

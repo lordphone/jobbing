@@ -1,23 +1,33 @@
 {
   "company": "Canonical",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
+      "location": "Remote (Worldwide, includes US)",
+      "opened": "2026-10-05",
+      "date_source": "greenhouse first_published (text says hiring 2025 and 2026 graduates)",
+      "deadline": null,
+      "grad_window": "2025 and 2026 graduates",
+      "live_verified": "api"
+    },
+    {
       "title": "Software Engineer - Python - Cloud - graduate level",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
-      "location": "Home Based - Americas; Home Based - EMEA",
+      "location": "Remote (Americas); Remote (EMEA)",
       "opened": "on or before 2026-08-05",
       "date_source": "greenhouse updated_at (evergreen listing, first_published 2021)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Junior Ubuntu Software Engineer",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/6707669",
-      "location": "Home based - Worldwide",
+      "location": "Remote (Worldwide, includes US)",
       "opened": "2025-11-07",
       "date_source": "greenhouse first_published (evergreen)",
       "deadline": null,
@@ -26,11 +36,11 @@
     }
   ],
   "last_cycle_opened": "2025-08-16",
-  "last_cycle_basis": "tracker history: 'Software Engineer - Python - Cloud' (Remote USA), same evergreen posting; https://job-boards.greenhouse.io/canonical/jobs/3257589",
+  "last_cycle_basis": "Tracker history: 'Software Engineer - Python - Cloud' (Remote USA), same evergreen posting; https://job-boards.greenhouse.io/canonical/jobs/3257589",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/canonical",
   "jobs_spec": "gh:canonical",
-  "evidence": "Greenhouse 2026-10-02: evergreen 'graduate level' Python Cloud SWE (Americas) opened by me, Apply button live, no grad-year limit; Junior Ubuntu SWE (worldwide remote) on API says it suits new grads. Graduate SWE Open Source (2026-08-24) is 2025/2026 grads only (leftover).",
+  "evidence": "Greenhouse 2026-10-05 (details read, pages return 200): evergreen graduate-level Python Cloud SWE (Americas) and Junior Ubuntu SWE live, no grad-year limit. Graduate SWE Open Source (first 2026-10-05) names 2025/2026 grads.",
   "confidence": "medium"
 }

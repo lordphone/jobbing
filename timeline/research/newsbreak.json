@@ -1,7 +1,7 @@
 {
   "company": "NewsBreak",
   "tier": 9,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -10,9 +10,9 @@
       "location": "Mountain View, CA",
       "opened": "2026-07-27",
       "date_source": "greenhouse first_published",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad)",
@@ -20,9 +20,9 @@
       "location": "Mountain View, CA",
       "opened": "2026-07-06",
       "date_source": "greenhouse first_published",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer, ML Infra (Junior & New Grad)",
@@ -30,17 +30,17 @@
       "location": "Mountain View, CA",
       "opened": "2025-11-05",
       "date_source": "greenhouse first_published",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "deadline": null
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-17",
-  "last_cycle_basis": "tracker first-seen: 'New Grad: Software Engineer' | Mountain View, CA, first seen 2025-09-17",
+  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Mountain View (job 4054592006), 2025-09-17; earlier rolling 2024-09-04",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/newsbreak",
   "jobs_spec": "gh:newsbreak",
-  "evidence": "Greenhouse API 2026-10-02 (57 reqs) plus detail: 3 live New Grad/Junior SWE/AI postings in Mountain View (first published 2026-07-27, 2026-07-06, 2025-11-05 rolling). No deadline or sponsorship limits stated. Unchanged.",
+  "evidence": "Greenhouse API lists three live New Grad/Junior postings in Mountain View; WebFetch of two shows Apply button. Application asks authorized to work in US without sponsorship now or future, so flagged no sponsorship. No deadline stated.",
   "confidence": "high"
 }

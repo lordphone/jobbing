@@ -1,6 +1,7 @@
 {
   "company": "Juniper Networks",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1",
       "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
       "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate 2026-08-28 (30+ days ago)",
+      "date_source": "workday startDate 2026-08-28 (postedOn 30+ days ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -18,17 +19,37 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1",
       "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
       "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate 2026-08-28 (30+ days ago)",
+      "date_source": "workday startDate 2026-08-28 (postedOn 30+ days ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     },
     {
-      "title": "Systems / Software Engineer I Graduate",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984",
-      "location": "Roseville, CA",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate 2026-08-28 (30+ days ago)",
+      "title": "Graduate Systems/Software Engineer I",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439",
+      "location": "Bloomington, MN",
+      "opened": "2026-10-05",
+      "date_source": "workday startDate (postedOn Today)",
+      "deadline": "2027-02-26",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Systems/Software Eng - Graduates",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Systems-Software-Eng---Graduates_1215861-2",
+      "location": "Aguadilla, Puerto Rico",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Cloud Engineer Graduate",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Engineer-Graduate_1215862-3",
+      "location": "Aguadilla, Puerto Rico",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -40,7 +61,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
   "jobs_spec": "wd:hpe/wd5/Jobsathpe",
-  "evidence": "Juniper hires under HPE. Workday API 2026-10-02: Software Engineer Graduate and Cloud Engineer Graduate live. Earlier AI/ML Engineer I Graduate (San Jose) page now gone in browser. Roseville Systems/Software I Graduate is VLSI text, skipped. Not Juniper-branded.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Juniper hires under HPE. Workday CXS 2026-10-05: Software Engineer Graduate and Cloud Engineer Graduate (10 US locations, 0-2 yrs, canApply true), Bloomington MN Graduate Systems/Software I (endDate 2027-02-26), Aguadilla PR graduate roles live. Roseville Systems/Software I Graduate is VLSI, skipped. Not Juniper-branded.",
+  "confidence": "medium"
 }

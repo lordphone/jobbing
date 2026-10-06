@@ -1,15 +1,26 @@
 {
   "company": "Nasdaq",
   "tier": 5,
-  "checked": "2026-10-02",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-05",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Analyst - Software Developer",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Analyst---Software-Developer_R0025662",
+      "location": "Atlanta, GA",
+      "opened": "on or before 2026-07-04",
+      "date_source": "workday startDate 2026-05-04; tracker first seen 2026-07-04",
+      "deadline": null,
+      "grad_window": "currently pursuing or recently completed degree (no class year)",
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2026-02-05",
   "last_cycle_basis": "tracker history: 'Graduate Software Engineer' (Toronto, ON) first seen 2026-02-05; no US new-grad SWE posting found in 2025-07..2026-01",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
   "jobs_spec": "wd:nasdaq/wd1/Global_External_Site",
-  "evidence": "Workday board (43 postings) 2026-10-02: US SWE roles are Data Software Engineer (Philadelphia) and Software Engineer Specialist (NYC), both experienced-level with no visa sponsorship; 2027 SWE is an intern role only. No entry-level FT SWE live.",
+  "evidence": "Browser 2026-10-05: Atlanta 'Analyst - Software Developer' (R0025662) shows Apply, 'start your career', recent grads, but asks 3+ yrs AWS API experience; unlisted on board list. No sponsorship. Other US SWE roles (Philadelphia, NYC) are experienced; 2027 SWE is intern only.",
   "confidence": "medium"
 }

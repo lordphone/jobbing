@@ -1,15 +1,15 @@
 {
   "company": "DuPont de Nemours",
   "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history; no SWE new-grad program found.",
   "jobs_page": "https://dupont.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:dupont/wd5/jobs",
-  "evidence": "Workday API --all 2026-10-02 (49): 2027 Full-time Engineering Opportunities is a chemical/mechanical/electrical engineering program, plus supply chain and co-ops; no software role. No SWE program.",
+  "evidence": "2026-10-05 Workday API --all (50 postings): 2027 Full-time Engineering Opportunities (posted 2026-09-15) is for chemical/mechanical/industrial plant engineers (ABET), plus supply chain and co-ops. No software engineering track. Engineering posting says no employer sponsorship.",
   "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-02",
-  "postings": [],
-  "excluded_reason": null,
   "no_sponsorship": false,
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or first-party board"
+  "checked": "2026-10-05",
+  "tier": 11,
+  "excluded_reason": null
 }

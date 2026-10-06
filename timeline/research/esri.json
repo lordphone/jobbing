@@ -1,7 +1,7 @@
 {
   "company": "Esri",
   "tier": 6,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -12,15 +12,15 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-25",
-  "last_cycle_basis": "Previous research file tracker_last_cycle (2025-07-25); not re-derived this run.",
+  "last_cycle_basis": "Tracker history: Software Development Engineer I, St. Louis MO, first seen 2025-07-25.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/esri",
   "jobs_spec": "gh:esri",
-  "evidence": "Greenhouse API 2026-10-01 lists DevOps Engineer I Redlands (build/CI software, 1+ yrs, rolling, first published 2026-01-05), counted. Product Engineer I roles are QA/test; SDE I St. Louis needs US citizenship and clearance.",
+  "evidence": "Greenhouse API 2026-10-05 (446 postings): DevOps Engineer I Redlands (1+ yrs, bachelor's, no citizenship text; rolling since Jan, updated 2026-09-11) is the only qualifying entry role. SDE I St. Louis (2026-06-24) requires US citizenship and clearance (excluded). Product Engineer I Redlands is automated test.",
   "confidence": "medium"
 }

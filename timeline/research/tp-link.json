@@ -1,6 +1,7 @@
 {
   "company": "TP-Link",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "leftover_2026",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/",
       "location": "Irvine, CA",
       "opened": "2026-05-12",
-      "date_source": "workable datePosted",
+      "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -17,10 +18,9 @@
   "last_cycle_opened": "2026-05",
   "last_cycle_basis": "2026 Early Career Embedded SWE posted 2026-05-12 on Workable; no earlier history found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.workable.com/company/qZcsEs6SLAUmDv4AbsPYFC/jobs-at-tp-link-systems-inc.",
   "jobs_spec": null,
-  "evidence": "Workable public jobs API 2026-10-02: Early Career Embedded SWE is titled 2026 and still published (recent-grad target). Other software roles are Cloud/Senior; Early Careers 2026 is a sales role. No 2027 posting.",
-  "confidence": "medium",
-  "checked": "2026-10-02"
+  "evidence": "Workable API (tp-link-usa-corp, 82 jobs) 2026-10-05: 2026 Early Career Embedded SWE (Irvine) published 2026-05-12 still listed; no 2027 posting. Other SWE roles need 2-5+ yrs and say no visa sponsorship.",
+  "confidence": "medium"
 }

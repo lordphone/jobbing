@@ -1,6 +1,7 @@
 {
   "company": "Micron",
   "tier": 7,
+  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -9,18 +10,17 @@
       "location": "San Jose, CA",
       "opened": "2026-08-13",
       "date_source": "tracker first seen (Workday startDate 2026-08-14)",
-      "deadline": null,
       "grad_window": "Master's/PhD new grads",
-      "live_verified": "api"
+      "live_verified": "api",
+      "deadline": null
     }
   ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first seen: New College Grad - IT Software Engineer (Boise, ID), micron.wd1.myworkdayjobs.com",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://micron.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:micron/wd1/External",
-  "evidence": "Workday CXS detail: AI Innovation Research Engineer (San Jose, Master's/PhD) canApply true, start 2026-08-14, no citizenship/sponsorship bar, no end date; absent from 163-posting list. Other NCG roles are fab/process, not SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday detail 2026-10-05: AI Innovation Research Engineer (San Jose, Master's/PhD) live, start 2026-08-14, no citizenship/sponsorship bar, no end date; absent from 169-posting list. Other US New College Grad roles are fab/process/hardware, not SWE.",
+  "confidence": "medium"
 }

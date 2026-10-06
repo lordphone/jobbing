@@ -1,16 +1,26 @@
 {
   "company": "McKinsey",
-  "status": "unknown",
+  "status": "open",
   "postings": [
     {
       "title": "AI Data Engineer - QuantumBlack, AI by McKinsey",
       "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
       "location": "Atlanta, GA; Boston, MA; Chicago, IL; Newark, NJ; New York, NY; Raleigh, NC; San Francisco, CA; Washington, DC",
-      "opened": "on or before 2026-09-30",
-      "date_source": "earlier browser check (prior run), not re-verified",
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (no posted date shown)",
       "deadline": null,
-      "grad_window": "Dec 2026 - Aug 2027",
-      "live_verified": "no"
+      "grad_window": "Dec 2026 \u2013 Aug 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "AI Data Engineer - QuantumBlack, AI by McKinsey (Toronto)",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112449",
+      "location": "Toronto, ON",
+      "opened": "on or before 2026-10-02",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": "Dec 2026 \u2013 Aug 2027",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -18,9 +28,9 @@
   "excluded_reason": null,
   "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
   "jobs_spec": null,
-  "evidence": "2026-10-02: mckinsey.com times out for WebFetch, curl gets HTTP/2 INTERNAL_ERROR, browser pane navigation denied. Prior run's browser check showed Apply Now live for AI Data Engineer (QuantumBlack), grad Dec 2026-Aug 2027; I could not re-open it. Retry in browser.",
-  "confidence": "low",
-  "checked": "2026-10-02",
+  "evidence": "Browser 2026-10-05: AI Data Engineer (QuantumBlack, 112288, US; Toronto 112449 listed) shows Apply Now, grad Dec 2026-Aug 2027, engineering degree; builds AI data pipelines (data engineering, borderline SWE). Search 'engineer' lists no other US new-grad SWE; AI Engineer is Europe only.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
   "tier": 10,
   "no_sponsorship": false
 }

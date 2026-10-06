@@ -1,15 +1,15 @@
 {
   "company": "Wing",
-  "status": "not_yet",
+  "tier": 8,
+  "checked": "2026-10-05",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first-seen 2025-10-30 (Web Software Engineer - Commerce Engineering, Palo Alto); level unverified",
+  "last_cycle_basis": "tracker first seen: Web Software Engineer - Commerce Engineering, Palo Alto (wing.com/careers/8183010002); level unverified, posting now gone. Android Software Engineer 2026-01-08 also tracked, closed",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/wing",
   "jobs_spec": "gh:wing",
-  "evidence": "Greenhouse API --all 2026-10-02, 32 postings: SWE-related are Staff MLE Simulation, MLE Perception, Mfg Software Test Engineer (5+ yrs), Data Scientist roles; no entry-level/new-grad. Last-cycle date from tracker (level unverified).",
-  "confidence": "high",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Greenhouse API (32, all read) 2026-10-05: software-related roles are Staff MLE Simulation, MLE Perception, Manufacturing Software Test Eng, HIL Sim Eng, Data Scientist Manager; none entry-level. No explicit new-grad program found; tracker last-cycle SWE postings are closed and their level is unverified.",
+  "confidence": "medium"
 }

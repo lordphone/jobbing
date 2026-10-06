@@ -1,26 +1,26 @@
 {
   "company": "Nuro",
-  "status": "closed",
+  "tier": 8,
+  "checked": "2026-10-05",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Engineer, AI Platform - New Grad",
-      "url": "https://nuro.ai/careersitem?gh_jid=7351066",
+      "title": "New Grad Software Engineer, Routing",
+      "url": "https://nuro.ai/careersitem?gh_jid=8248317",
       "location": "Mountain View, CA",
-      "opened": "2025-10-22",
+      "opened": "2026-10-05",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "graduating before December 2026 (last-cycle leftover)",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-14",
   "last_cycle_basis": "tracker first-seen date for 'New Grad: Software Engineer, Routing'",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nuro",
   "jobs_spec": "gh:nuro",
-  "evidence": "Greenhouse API: 'Performance Tooling New Grad' (8227399) returns 404, so gone (closed). Only live new grad is AI Platform (7351066, 'graduating by December 2026', updated 2026-09-21), a last-cycle leftover.",
-  "confidence": "medium",
-  "tier": 8,
-  "checked": "2026-10-02",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Greenhouse API 2026-10-05: 'New Grad Software Engineer, Routing' first published today (live via API; no class year or sponsorship text). Also live: AI Platform New Grad (7351066, graduating before Dec 2026), a last-cycle leftover.",
+  "confidence": "medium"
 }

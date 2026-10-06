@@ -1,7 +1,7 @@
 {
   "company": "Hadrian",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -13,34 +13,14 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
-    },
-    {
-      "title": "All Levels: Frontend Software Engineer",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc",
-      "location": "Los Angeles, CA",
-      "opened": "2026-06-29",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "All Levels: Backend Software Engineer",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/ec8cc324-bca9-4f27-812b-70416d6340a4",
-      "location": "Los Angeles, CA",
-      "opened": "2026-06-29",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-06-18",
-  "last_cycle_basis": "tracker first-seen: 'Fullstack Software Engineer New Grad' (LA), Ashby; page now shows 'Job not found' (browser-verified)",
+  "last_cycle_basis": "tracker first-seen: 'Fullstack Software Engineer New Grad' (LA), Ashby; page 'Job not found' per earlier browser check",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/hadrian-automation",
   "jobs_spec": "ashby:hadrian-automation",
-  "evidence": "Ashby: live 'All Levels' SWE roles (2026-06-29) quote ITAR \"you must be a U.S. citizen or national, lawful permanent resident\". New-grad Fullstack posting page shows 'Job not found'. Changed from not_yet: eligibility quote found.",
+  "evidence": "Ashby API (139 postings): live \"All Levels\" Fullstack/Frontend/Backend SWE roles carry an ITAR REQUIREMENTS section (\"you must be a U.S. citizen or national, lawful permanent resident, protected individual\"). New-grad Fullstack posting (2026-06) is gone; SWE interns only otherwise.",
   "confidence": "high"
 }

@@ -1,7 +1,5 @@
 {
   "company": "Sallie Mae (SLM Corporation)",
-  "tier": 5,
-  "checked": "2026-10-02",
   "status": "open",
   "postings": [
     {
@@ -9,7 +7,7 @@
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-DE/Engineer-I_R26_000505",
       "location": "Newark, DE",
       "opened": "2026-10-01",
-      "date_source": "workday page 'Posted Yesterday' (read 2026-10-02)",
+      "date_source": "workday page 'Posted 4 Days Ago' (read 2026-10-05)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
@@ -21,6 +19,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://sallie-mae.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": null,
-  "evidence": "Opened Workday site in browser 2026-10-02 (21 jobs; jobs.py API returns 422): Engineer I, Newark DE, posted 10/1, Apply shown, bachelor's preferred, 1-2 yrs preferred, no sponsorship or class-year text. Entry level, so open.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-05 (API 422): Engineer I, Newark DE, Apply shown, posted 4 days ago (~2026-10-01), entry software dev, 1-2 yrs preferred, no sponsorship or class-year text. Open.",
+  "confidence": "medium",
+  "checked": "2026-10-05",
+  "tier": 5
 }

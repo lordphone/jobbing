@@ -1,7 +1,7 @@
 {
   "company": "Edwards Lifesciences",
   "tier": 11,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.edwards.com/careers/jobsearch",
   "jobs_spec": null,
-  "evidence": "Job search page not readable (WebFetch no listings, no browser). Site search shows only senior software roles, engineering co-op/internship 2027 and University Engineering Program (not software-specific, no sponsorship). Kept prior no US entry SWE finding.",
-  "confidence": "low"
+  "evidence": "Browser read of edwards.com job search 2026-10-05: 'software' (7 results) all senior/principal/lead; 'data' (18) analysts and senior roles. No entry software role. 376 jobs total.",
+  "confidence": "medium"
 }

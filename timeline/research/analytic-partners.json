@@ -1,15 +1,15 @@
 {
   "company": "Analytic Partners",
+  "tier": 10,
+  "checked": "2026-10-05",
   "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "postings": [],
+  "last_cycle_opened": "2025-10-21",
+  "last_cycle_basis": "Tracker history: Marketing Science Analyst (Denver, Feb 2026 start) first seen 2025-10-21; an analytics role, not SWE",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/analyticpartners",
   "jobs_spec": "lever:analyticpartners",
-  "evidence": "Lever API (20 postings, all titles read): only Marketing Science Analyst/Consultant, director, designer, insights-manager roles. Marketing Science Analyst (Denver, Oct 2026 start) is analytics consulting, not SWE. No entry-level SWE.",
-  "confidence": "high",
-  "tier": 10,
-  "checked": "2026-10-02",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Lever API (20 postings, all titles read) 2026-10-05: only Marketing Science Analyst/Consultant, director, designer, insights roles. Analytics consulting, not SWE; no SWE postings.",
+  "confidence": "high"
 }

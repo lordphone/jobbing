@@ -1,7 +1,7 @@
 {
   "company": "Johns Hopkins University Applied Physics Laboratory (JHU APL)",
   "tier": 8,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://careers.jhuapl.edu/jobs/59653",
       "location": "Laurel, MD",
       "opened": "2026-09-08",
-      "date_source": "careers site create_date (kept from prior run)",
+      "date_source": "careers site create_date",
       "deadline": null,
       "grad_window": "2027",
       "live_verified": "browser"
@@ -19,7 +19,7 @@
       "url": "https://careers.jhuapl.edu/jobs/59654",
       "location": "Laurel, MD",
       "opened": "2026-08-25",
-      "date_source": "careers site create_date (kept from prior run)",
+      "date_source": "careers site create_date",
       "deadline": null,
       "grad_window": "2027",
       "live_verified": "browser"
@@ -27,10 +27,10 @@
   ],
   "last_cycle_opened": "2025-09-04",
   "last_cycle_basis": "careers site create_date of '2026 PhD Graduate - Algorithm Researcher - AI/ML' (req 57698); 2026 Data/Computer Scientist 57706 on 2025-09-11",
-  "excluded_reason": "citizenship",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.jhuapl.edu",
   "jobs_spec": null,
-  "evidence": "Browser read 2026-10-02 of 59653 and 59654: both show Apply, rolling basis, and 'Interim Secret clearance... Eligibility requirements include U.S. citizenship.' Many 2027 grad SWE/ML roles, all cleared.",
+  "evidence": "Browser 2026-10-05 of 59654: live with Apply, rolling basis; requires 'Interim Secret clearance by your start date' and ability to obtain Top Secret; previous check of 59653 and citizenship line. All 2027 grad roles cleared.",
   "confidence": "high"
 }

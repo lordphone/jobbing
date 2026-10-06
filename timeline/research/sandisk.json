@@ -1,7 +1,7 @@
 {
   "company": "Sandisk",
   "tier": 7,
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-07",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.smartrecruiters.com/Sandisk",
   "jobs_spec": null,
-  "evidence": "careers.smartrecruiters.com/Sandisk fetched 2026-10-02: 'No job postings are currently available'. jobs.py sr:Sandisk returns nothing. Sandisk NCG tracks (firmware, data platform) exist but none are live; web search suggests recruiting window around Jan 2027.",
+  "evidence": "SR careers page and API (Sandisk/SanDisk) empty 2026-10-05; tracker shows NCG roles Jan and Jun-Jul 2026, none SWE (firmware/FAE/product). Search suggests NCG window ~Jan 2027. No SWE new-grad live. 2 web searches.",
   "confidence": "medium"
 }

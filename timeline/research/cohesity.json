@@ -1,8 +1,8 @@
 {
   "company": "Cohesity",
   "tier": 6,
-  "checked": "2026-10-02",
-  "status": "not_yet",
+  "checked": "2026-10-05",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA (also New College Graduate 2026-04-09; New Grad 2026 posted 2026-08-10)",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
   "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
-  "evidence": "Workday cxs list via browser 2026-10-02: 40 postings, no entry SWE in US. Aug 2026 'Software Engineer (New Grad 2026)' Santa Clara (for May/June 2026 grads; aggregator says no longer accepting) is off the board; its page URL not recoverable to open. Recurring track.",
+  "evidence": "Workday cxs API 2026-10-05: 16 postings, no new grad; US SWE Staff/Sr only. Tracker 'Software Engineer New Grad' (Santa Clara, first seen 2026-08-10, R01282) now returns permission denied via API and is absent from board; browser page not opened.",
   "confidence": "medium"
 }
