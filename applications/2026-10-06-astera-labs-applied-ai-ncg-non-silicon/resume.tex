@@ -1,0 +1,54 @@
+% Astera Labs — Applied AI NCG (Non Silicon)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Machine Learning, Data Science for Software Engineering, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Software Engineering, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Designed and shipped a personalized LLM alert workflow as a Kubernetes CronJob (embed $\to$ LLM-classify and score $\to$ per-topic percentile select $\to$ LLM same-story dedupe $\to$ push; $\sim$1{,}200 LLM calls/day), with a decision log recording why each item fired or did not.
+  \item Evaluated it over 11 days of production shadow on 4{,}100+ logged decisions: hand-graded alerts showed filler and real events both scored 89--90, so added a categorical \textit{happened / speculative / no\_event} gate, checked it on a 127-alert holdout, and ran prompt ablations; rejected a rule that caught 91\% of filler but blocked the day's two highest-reach real alerts; shipped live with filler 34\% $\to$ 4\%.
+  \item Shipped RAG and agentic search on one SSE endpoint: turn 1 is deterministic RAG over hybrid retrieval (substring + text + vector, fused by RRF); follow-ups run a bounded tool-calling agent limited to 5 whitelisted tools ($\le$3 hops, 45\,s), with server-resolved citations the model cannot author.
+  \item Built an eval harness on real logged queries against the committed catalog; deterministic entity resolution took P@1 from 0\% to 100\% (28/28 recall) at 0.4\,ms, after measurements ruled out embeddings.
+  \item Diagnosed a 65\% failure rate in another team's LLM pipeline via Langfuse traces as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) and sized a 2{,}048-token cap against observed successes.
+  \item Built the FastAPI / MongoDB backend from the first commit to 89 endpoints on AWS EKS, with $\sim$1{,}450 fully-offline tests behind a ruff / pyright / pytest CI gate; moved nine third-party integrations (LLM, embeddings, data APIs) server-side so the client ships zero API credentials.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs); shipped a personalized LLM morning digest used by 5{,}026 users ($\sim$81\% of the base), tracked through a 72-event Amplitude analytics catalog.
+\end{itemize}
+
+\vspace{0.5pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; led PR reviews and mentored interns on Git workflows and testing.
+\end{itemize}
+
+\vspace{0.5pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview app (React, Next.js, Supabase); shaped AI scoring with recruiters and iterated from user testing until three 200--500-person companies signed.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{AI \& ML} & LLM tool calling / agents, RAG, hybrid retrieval (RRF), LangChain, Langfuse, PyTorch \\[1pt]
+  \textbf{Languages} & Python, TypeScript, SQL, JavaScript, Go, Swift \\[1pt]
+  \textbf{Full Stack \& Data} & FastAPI, REST APIs, SSE, React, Next.js, PostgreSQL, MongoDB, Supabase \\[1pt]
+  \textbf{Cloud \& Observability} & AWS, GCP, Kubernetes (EKS), Docker, GitHub~Actions, CI/CD, Amplitude \\[1pt]
+  \textbf{Practices} & pytest, Unit Testing, Git, Jira, Agile/Scrum, Claude Code / AI coding tools \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and tested KV caching, long context, and needle-in-a-haystack to expose nerfed caching and heavy quantization.
+\end{itemize}
+
+\end{document}

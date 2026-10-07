@@ -1,0 +1,56 @@
+% Salesforce — Software Engineering AMTS (College Grad) — JR355250
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Distributed Systems, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Data Structure \& Programming III, Algorithms, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built a FastAPI / MongoDB backend from the first commit to 89 endpoints with $\sim$1{,}450 fully-offline tests (0.17\,s, 1:1 with production lines) behind a ruff / pyright / pytest CI gate; a Motor fake reproduces a production failure as a regression guard.
+  \item Wrote tests for an AI agent-written catalog cache, then found it could never hit (13.2\,MB keyed per user) as pod memory neared its 512\,MiB limit; re-keyed it to a shared 10.9\,MB catalog (78$\times$ smaller) and cut the home-load copy 9.0\,ms $\to$ 0.89\,ms.
+  \item Replaced a 25--30 request client fan-out with one backend call under a 3-second per-source budget, and paged a 206-topic catalog so the first page fell from 2.8\,MB ($\sim$4.7\,s) to $\sim$0.27\,MB.
+  \item Designed a personalized news-alert pipeline that logs why every item fired or not, calibrated it in production shadow on 4{,}100+ decisions, and shipped it; an LLM same-story dedupe keeps users from two alerts for one event, and filler fell 34\% $\to$ 4\%.
+  \item Root-caused a 65\% failure rate in another team's LLM workers from Langfuse traces: one stalled read killed an \texttt{asyncio.gather} batch and an unbounded loop ran to 16{,}384 tokens; sized a 2{,}048-token cap.
+  \item Diagnosed a 5-day silent CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency skipping every later run) and fixed it with paired job and scheduler deadlines.
+  \item Built hybrid search (substring + text index + vector, fused by RRF) where any failing leg degrades to the survivors; deterministic entity resolution took real queries from 0\% to 100\% P@1 at 0.4\,ms per resolve.
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, 1{,}119 peak daily active users, a 72-event Amplitude analytics catalog); authored 344 pull requests across five repositories (340 merged).
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed its database schemas and REST APIs, led PR reviews, and mentored interns on Git workflows and testing protocols.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; demoed it until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, JavaScript, TypeScript, SQL, HTML, C, Go, Swift \\[1pt]
+  \textbf{Testing \& AI Tools} & Unit Testing, TDD, pytest, ruff, pyright, CI/CD, Git, Claude Code / AI coding tools \\[1pt]
+  \textbf{Data \& Backend} & PostgreSQL, MySQL, MongoDB, FastAPI, REST APIs, React, Next.js, asyncio \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, Helm, CronJobs, Jenkins, GitHub Actions \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Benchmarking paid LLM coding plans (Z.AI, MiniMax, Kimi) with KV-cache, long-context, and needle-in-a-haystack tests to show which providers nerfed caching or heavily quantized their models.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}
