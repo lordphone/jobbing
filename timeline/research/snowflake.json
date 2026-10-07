@@ -1,15 +1,42 @@
 {
   "company": "Snowflake",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history has no new-grad SWE posting 2025-07 to 2026-01; Toronto entry-level SWE opened 2026-04-28 (outside window, non-US). Unknown.",
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Database Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "opened": "2026-07-28",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years industry experience, BS required, MS/PhD preferred; $160K-$230K; duties are build/fix, no lead or mentor",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer – Mobile Team",
+      "url": "https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
+      "location": "Menlo Park, CA",
+      "opened": "2026-09-30",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years React Native; BS/MS/PhD; $160K-$230K; duties are feature building, no lead or mentor",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2026-04-28",
+  "last_cycle_basis": "tracker first seen: 'Software Engineer - Entry Level - Engineering Infrastructure' (Toronto, ON) on jobs.ashbyhq.com/snowflake; US entry-level SWE start unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/snowflake",
   "jobs_spec": "ashby:snowflake",
-  "evidence": "2026-10-06: ashby:snowflake 355 postings: only US new-grad is AI Research Scientist New Grad (Bellevue, 2026-09-03), not SWE; Berlin SWE interns; Toronto entry SWE gone. No US new-grad SWE.",
-  "confidence": "high"
+  "evidence": "ashby:snowflake full board (354). No 2027 new-grad SWE. Two US SWE postings ask only 2+ years with no senior duties (borderline, evergreen, not grad-targeted). AI Research Scientist New Grad (Bellevue) is PhD-only, not counted.",
+  "confidence": "low"
 }

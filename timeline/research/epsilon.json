@@ -1,7 +1,7 @@
 {
   "company": "Epsilon",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,25 +12,31 @@
       "date_source": "page text (Publicis API posted_date)",
       "deadline": "2026-11-09",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "1-3 years of experience and/or directly related college coursework; works under guidance of senior engineers",
+      "no_sponsorship": false
     },
     {
-      "title": "Associate, Client Integrations Engineer (New Grad Program, Entry; integration engineering, borderline SWE)",
+      "title": "Associate, Client Integrations Engineer (New Grad Program; integration engineering, borderline SWE)",
       "url": "https://careers.publicisgroupe.com/jobs/174428",
       "location": "Chicago, IL",
       "opened": "2026-10-05",
       "date_source": "page text (Publicis API posted_date)",
       "deadline": "2026-10-27",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-22",
-  "last_cycle_basis": "tracker first-seen: 'New Grad 2025: Associate, Software Engineer', Irving, TX, 2025-08-22",
+  "last_cycle_basis": "tracker first-seen: 'New Grad 2025: Associate, Software Engineer', Irving, TX, 2025-08-22; Chicago 2025-09-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicisgroupe.com/jobs?brand=Epsilon",
   "jobs_spec": null,
-  "evidence": "Publicis careers API 2026-10-06 (applyable true): req 166907 entry-level Software Engineer, posted 2026-09-09, deadline 11/9/2026, 1-3 yrs/coursework; req 174428 New Grad Program Associate Client Integrations Engineer (Chicago, deadline 10/27/2026). No sponsorship or citizenship limits seen.",
+  "evidence": "Publicis Groupe Jibe API 2026-10-07 (applyable true): req 166907 entry-level SWE (1-3 yrs/coursework, deadline 11/9/2026) and 174428 New Grad Program Client Integrations Engineer (deadline 10/27/2026). New req 174433 Software Engineer Irving needs 2-3 yrs Java, left out. Same as prior file.",
   "confidence": "high"
 }

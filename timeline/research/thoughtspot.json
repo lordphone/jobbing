@@ -1,15 +1,16 @@
 {
   "company": "ThoughtSpot",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker weak match 'Member of Technical Staff 2', Mountain View, 2026-04-09, not confirmed entry-level",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.thoughtspot.com/careers",
+  "jobs_page": "https://ats.rippling.com/thoughtspot/jobs",
   "jobs_spec": null,
-  "evidence": "Rechecked 2026-10-06 via Rippling API (53 jobs): no entry engineering role. Workday board is empty; real list is Rippling ATS (careers page API, 54 jobs, opened 2026-10-05). Engineering: Senior Security Eng, MTS-3, Staff Eng, Staff SRE, Staff FDE; no entry-level or new-grad role.",
-  "confidence": "medium"
+  "evidence": "Rippling board API 2026-10-07 (55 jobs): engineering is Senior Security/Cloud Reliability, Sr Technical Architect, Staff FDE, Staff Engineer, MTS-3 (India), solutions engineers. No US entry-level SWE or new-grad program; careers page lists none. 2026-04 MTS 2 Mountain View closed.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Careers page widget loads from Rippling ATS (public board API, 55 jobs); no jobs.py spec exists for Rippling."
 }

@@ -1,18 +1,21 @@
 {
   "company": "Stripe",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "location": "New York, NY; Seattle, WA; South San Francisco, CA",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Degree obtained by summer 2027",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, New Grad",
@@ -22,17 +25,23 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Degree obtained by summer 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, Early Career — Immediate Start",
       "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "location": "New York, NY; Seattle, WA; South San Francisco, CA",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "opened": "2026-09-17",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Degree obtained by summer 2026; start before Dec 1 2026",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, Early Career — Immediate Start",
@@ -41,8 +50,11 @@
       "opened": "2026-09-17",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "Degree obtained by summer 2026; start before Dec 1 2026",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-02",
@@ -51,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://stripe.com/jobs/search",
   "jobs_spec": "gh:stripe",
-  "evidence": "2026-10-06: gh:stripe lists US/Toronto New Grad SWE (2026-08-31) and Early Career Immediate Start (2026-09-17, degree by summer 2026, start before Dec 2026). Opened both pages: Apply now; New Grad needs degree by summer 2027. No deadline or sponsorship text.",
+  "evidence": "gh:stripe full board (720) and Greenhouse job API 2026-10-07: US and Toronto SWE New Grad (2026-08-31, degree by summer 2027, max 18 months experience) and Early Career Immediate Start (2026-09-17, degree by summer 2026, start before Dec 1 2026). No deadline, citizenship or sponsorship text. Other New Grad roles are non-US.",
   "confidence": "high"
 }

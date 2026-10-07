@@ -1,7 +1,6 @@
 {
   "company": "Trace3",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Years of Experience: 0-3; $60,000 to $75,000; 'Bachelors with 1 to 3 YOE'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: Software Engineer II (Colorado Springs) first seen 2026-01-22; earlier cleared Colorado Springs roles 2025-09/10",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/trace3",
   "jobs_spec": "gh:trace3",
-  "evidence": "Greenhouse API 2026-10-06 (87 postings): only entry-ish SWE roles are Colorado Springs on-site, cleared: Software Engineer (0-3 yrs) \"CLEARANCE REQUIRMENT: Secret\"; Software Engineer II \"ACTIVE Secret Clearance minimum REQUIRED\". Others are senior/ops/consulting.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-07 (83 postings, full): only entry-ish SWE is Colorado Springs on-site Software Engineer (0-3 yrs), 'CLEARANCE REQUIREMENT: Ability to Obtain Secret'. Others senior/ops/consulting.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "no_sponsorship": false
 }

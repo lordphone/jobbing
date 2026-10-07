@@ -1,7 +1,7 @@
 {
   "company": "ASSA ABLOY",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "careers site listing date (tracker first seen 2026-09-29)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://assaabloy.jobs2web.com/search/",
   "jobs_spec": null,
-  "evidence": "Posting fetched 2026-10-06: Associate Software Engineer, entry level, Apply now, bachelor's or bootcamp, no sponsorship/citizenship text. Unlabeled 16-Oct-2026 date on page (listing shows Sep 29; not recorded as deadline). Frontend/Backend SWE need 3+ yrs; others senior.",
+  "evidence": "jobs2web search + posting fetched 2026-10-07: Associate Software Engineer (PRO-TECH TITAN), entry level, Apply now, bachelor's or bootcamp, no sponsorship text. Unlabeled 16-Oct-2026 date on page not recorded as deadline. Frontend/Backend SWE need 3+ yrs; AI Scientist is mid-senior.",
   "confidence": "medium"
 }

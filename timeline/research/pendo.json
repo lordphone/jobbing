@@ -1,15 +1,21 @@
 {
   "company": "Pendo",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {"title": "Software Engineer, Full Stack", "url": "https://job-boards.greenhouse.io/pendo/jobs/8675727002", "location": "Raleigh, NC",
+     "opened": "2026-09-24", "date_source": "greenhouse first_published", "deadline": null,
+     "grad_window": null, "live_verified": "api", "level": "unlabeled",
+     "level_basis": "must-haves '2+ years of experience as a Software Engineer'; $108,000 - $131,000; 'own well-scoped features'",
+     "no_sponsorship": false}
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
+  "last_cycle_basis": "No tracker history or early-career program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/pendo",
   "jobs_spec": "gh:pendo",
-  "evidence": "Greenhouse API 23 postings: SWE Full Stack (Raleigh) must-have 2+ yrs; SWE (AI) NY 3+ yrs; others senior. No entry-level or new-grad track.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-07 (23 postings, full): Raleigh Full Stack SWE requires 2+ yrs, pay $108K-131K, well-scoped features: borderline entry. SWE (AI) NYC needs 3+ yrs ($148K+): not counted. No new-grad track.",
+  "confidence": "low"
 }

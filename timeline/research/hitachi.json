@@ -1,15 +1,42 @@
 {
   "company": "Hitachi (incl. Hitachi Vantara, GlobalLogic)",
-  "status": "closed",
-  "postings": [],
+  "tier": 7,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Analyst (Hitachi Rail Canada, railway signaling software)",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0139848",
+      "location": "Toronto, ON",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate / Date Posted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'Minimum 1 year of relevant professional experience'; works under guidance of a Senior Software Analyst; $68,000-$85,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Analyst (Hitachi Rail Canada, railway signaling software)",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0143365",
+      "location": "Toronto, ON",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate / Date Posted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "same role as R0139848: 1 year minimum, works under guidance of a Senior Software Analyst",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no 2025-07 to 2026-01 US new-grad SWE in tracker history (UK STEM Power+ 2025-10 only); Waltham Python Engineer Early-Career first seen 2026-07-07 (this cycle)",
   "jobs_page": "https://hitachi.wd1.myworkdayjobs.com/hitachi",
   "jobs_spec": "wd:hitachi/wd1/hitachi",
-  "evidence": "Workday search 2026-10-06 (860 postings paged): Python Engineer - Early-Career (Waltham MA, 2026-07-07) no longer returned. US software roles are 10+ yr Full Stack Developer; other US entry roles are electrical/mechanical/Power+. GlobalLogic not on this board.",
+  "evidence": "Workday cxs API 2026-10-07 (board too large to page fully; searched software/engineer/early career/graduate/junior/developer terms). Found two Toronto Software Analyst postings (1+ yr, junior). Waltham Python Engineer Early-Career no longer returned (closed). US software roles otherwise 3-10+ yrs. GlobalLogic not on this board.",
   "confidence": "medium",
-  "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "excluded_reason": null,
   "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "SingleStore",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2027 new grad",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer-Helios-New Grad 2027",
@@ -22,7 +25,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2027 new grad",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "MIT-Software Engineer-New Grad |Engine|",
@@ -32,7 +38,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "MIT-Software Engineer-New Grad |Helios|",
@@ -42,7 +51,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-19",
@@ -51,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/singlestore",
   "jobs_spec": "gh:singlestore",
-  "evidence": "Greenhouse board and detail 2026-10-06: four US new-grad SWE postings (Engine/Helios) published 2026-09-15 and 2026-09-21, still listed. Requires US work authorization; no sponsorship ban found.",
+  "evidence": "gh:singlestore 2026-10-07 (45, full) and detail: four US new-grad SWE postings (Engine/Helios; 2026-09-15 and 2026-09-21) still listed. Engine ones say must be legally authorized to work in US; no sponsorship ban, no deadline.",
   "confidence": "high"
 }

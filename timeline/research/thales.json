@@ -1,7 +1,7 @@
 {
   "company": "Thales",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://thales.wd3.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:thales/wd3/Careers",
-  "evidence": "Workday API + detail 2026-10-06: Orlando FL IFE Graduate DevSecOps role live (canApply), BS required; 'not eligible for visa sponsorship'; no citizenship/clearance line. Other 2027 graduate roles are UK/EU.",
+  "evidence": "Workday CXS + detail 2026-10-07: Orlando FL IFE Software DevSecOps Engineer - Graduate live (canApply), BS required, 'not eligible for visa sponsorship'; no citizenship/clearance line. Other 2027 graduate roles are UK/Ireland.",
   "confidence": "high"
 }

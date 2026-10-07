@@ -1,7 +1,7 @@
 {
   "company": "Rolls-Royce (aerospace; Rolls-Royce North America)",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,15 +12,18 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "Dec 2026 - Jun 2027",
-      "live_verified": "api"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-04",
   "last_cycle_basis": "tracker first seen 2026-01-04: Launch into Control System Configuration Management, Indianapolis (Workday Intern_Graduate)",
-  "excluded_reason": "citizenship",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate",
   "jobs_spec": "wd:rollsroyce/wd3/Intern_Graduate",
-  "evidence": "Workday API + detail 2026-10-06: Junior ML Engineering (Indianapolis, graduating Dec 2026-Jun 2027) says 'you must also be a U.S. Citizen'; Engineering and Technology Graduate Program says same. Others non-software.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-07 (92): Junior ML Engineering (kept from prior file; said 'you must also be a U.S. Citizen') no longer listed, CXS page 403, unverified. Only US entry SWE-ish post, Controls Operations Engineer (Indianapolis), says 'U.S. Citizen with the ability to obtain and maintain a high-level security clearance'. Rest interns/non-software/UK.",
+  "confidence": "medium"
 }

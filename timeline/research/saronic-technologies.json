@@ -1,15 +1,29 @@
 {
   "company": "Saronic Technologies",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Systems Software Engineer",
+      "url": "https://jobs.ashbyhq.com/saronic/e7e93e6e-1c61-45e6-8209-e6276564535d",
+      "location": "Austin, TX",
+      "opened": "2026-04-17",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"1+ years of experience in software development\"",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad posting in tracker history.",
+  "last_cycle_basis": "no new-grad tracker history found",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/saronic",
   "jobs_spec": "ashby:saronic",
-  "evidence": "Ashby API (203 postings): no entry-titled SWE; only Generalist, Forward Deployed, Systems Software and Summer 2027 intern. Software Engineer, Generalist says the role 'requires access to export-controlled information or items that require U.S. Person status'.",
-  "confidence": "high"
+  "evidence": "Ashby API 2026-10-07 (207, full): software postings say \"it requires access to export-controlled information or items that require 'U.S. Person' status\". Only entry-ish SWE: Systems Software Engineer (1+ yrs); others generalist/forward-deployed or 5+ yrs.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

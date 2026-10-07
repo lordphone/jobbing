@@ -1,9 +1,35 @@
 {
   "company": "HP",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Development Graduate Roles",
+      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
+      "location": "Spring, TX; Corvallis, OR; Vancouver, WA; Palo Alto, CA",
+      "opened": "2026-09-18",
+      "date_source": "workday startDate (posted ~19 days ago); pipeline requisition for 2027 intern conversion",
+      "deadline": null,
+      "grad_window": "2027 graduates / intern conversion",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
+      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009",
+      "location": "Fort Collins, CO; Spring, TX; Austin, TX",
+      "opened": "on or before 2026-08-25",
+      "date_source": "workday startDate; posted 30+ days ago; pipeline requisition for 2026 & 2027",
+      "deadline": null,
+      "grad_window": "2026 & 2027 graduates",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
     {
       "title": "Software Product Security Engineer",
       "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
@@ -12,7 +38,10 @@
       "date_source": "tracker first seen (Workday startDate 2026-08-25)",
       "live_verified": "api",
       "deadline": null,
-      "grad_window": null
+      "grad_window": null,
+      "level": "unlabeled",
+      "level_basis": "0-2 years of software development experience; Bachelor's or Master's in CS",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-11",
@@ -21,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
   "jobs_spec": "wd:hp/wd5/exteu-ac-careersite",
-  "evidence": "Workday board and cxs API 2026-10-06: Software Product Security Engineer (Spring TX, 0-2 yrs SWE experience) canApply true, no end date. Board has no other US entry SWE roles (only interns). Security-flavored SWE, so medium.",
+  "evidence": "Workday cxs 2026-10-07 (jobs.py board lists only 180 of 445; found via 'Graduate Roles' search): Software Development Graduate Roles and Software and Engineering Graduate Roles (HPS) live, canApply true, pipeline reqs; no sponsorship. Plus Software Product Security Engineer. Technical and Engineering Graduate Roles is hardware-leaning, left out.",
   "confidence": "medium"
 }

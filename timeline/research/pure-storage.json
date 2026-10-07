@@ -1,7 +1,7 @@
 {
   "company": "Pure Storage",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-02-17",
@@ -21,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/purestorage",
   "jobs_spec": "gh:purestorage",
-  "evidence": "Greenhouse API 2026-10-06: 'Software Engineer Grad 2027' (Santa Clara) first_published 2026-10-06, 'no application deadline', rolling. Not seen 2026-10-05, so it just opened. No sponsorship/citizenship text found. Page not opened in browser (tab cap).",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-07: 'Software Engineer Grad 2027' (Santa Clara, C++) first_published 2026-10-06, no application deadline, rolling; no sponsorship or citizenship text. Other Santa Clara SWE roles need 3+ yrs. Just opened; last cycle Feb 2026.",
+  "confidence": "high",
+  "jobs_spec_basis": "Company rebranded Everpure; careers opportunities page loads the purestorage Greenhouse board (boards-api purestorage)"
 }

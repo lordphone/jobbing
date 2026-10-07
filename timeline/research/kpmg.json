@@ -1,15 +1,29 @@
 {
   "company": "KPMG",
   "tier": 10,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate, Software Engineer",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135722",
+      "location": "Atlanta, GA; Denver, CO; Montvale, NJ; Orlando, FL",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires 'Minimum one year of recent full-time experience in software engineering'; Associate title; career level listed Experienced",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "unknown",
   "last_cycle_basis": "No KPMG entries in trackers; no dated prior-cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://www.kpmguscareers.com/job-search",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: Winter 2027 Tax Tech Engineer (jobId 138797, early-career) now 'Job Posting Not Found'. Live early-career tech role is only Associate, Audit Data Engineering Services (138223, grad Nov 2026-Jul 2027, no sponsorship): audit data/BI, borderline, not counted. Associate Software Engineer and Engineer Development are Experienced (1-2+ yrs).",
+  "evidence": "kpmguscareers.com search 'software engineer' (80 results): Associate, Software Engineer (Tax; jobId 135722) shows Apply Now, min one year experience, no senior duties. Winter 2027 Tax Tech Engineer 138797 now 'Job Not Found'. Only page 1 read. Page has no posting date. Company no-sponsorship flag kept from the earlier file; not seen in this posting.",
   "confidence": "medium"
 }

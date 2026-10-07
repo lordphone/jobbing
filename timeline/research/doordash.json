@@ -1,7 +1,7 @@
 {
   "company": "DoorDash",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-04",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Fall 2026 – Summer 2027",
-      "live_verified": "api"
+      "grad_window": "Fall 2026 - Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
@@ -21,8 +24,11 @@
       "opened": "2026-09-04",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Winter 2026 – Summer 2027",
-      "live_verified": "api"
+      "grad_window": "Fall 2026 - Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-06",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doordashusa",
   "jobs_spec": "gh:doordashusa",
-  "evidence": "gh:doordashusa and gh:doordashcanada 2026-10-06: both entry-level postings first published 2026-09-04, still on API (updated 2026-10-06 and 2026-09-29). No deadline or sponsorship text. Toronto wants a Canadian university grad.",
+  "evidence": "gh:doordashusa and gh:doordashcanada 2026-10-07: both entry-level postings first published 2026-09-04, live on API. No deadline or sponsorship text. Toronto role wants a Canadian university grad.",
   "confidence": "high"
 }

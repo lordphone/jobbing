@@ -1,7 +1,7 @@
 {
   "company": "GE HealthCare",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "Bachelor's completed by July 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer (C++ / GPU, CT reconstruction)",
@@ -22,17 +25,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer (C++ / GPU, CT reconstruction)",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Software-Engineer_R4045052-1",
-      "location": "Waukesha, WI",
-      "opened": "2026-09-03",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's in CS/engineering or equivalent, C++ on Linux, GPU familiarity; no years of experience asked",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-25",
@@ -41,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.gehealthcare.com/global/en/search-results",
   "jobs_spec": "wd:gehc/wd5/GEHC_ExternalSite",
-  "evidence": "Workday CXS 2026-10-06: EEDP (bachelor's by July 2027) and two Waukesha SWE reqs list canApply true, no sponsorship. Phenom mirror pages say 'filled' (conflict, so medium). Bellevue SWE needs years.",
+  "evidence": "Workday board 2026-10-07 (100 postings) plus searches: EEDP (bachelor's by July 2027; CS a preferred major) and Waukesha C++/GPU Software Engineer list canApply true, 'will not sponsor'. Second C++/GPU req R4045052 now 404 (gone). Other SWE reqs (Full stack 4+ yrs, Sr, Staff) not entry-level. Phenom mirror said filled earlier (conflict).",
   "confidence": "medium"
 }

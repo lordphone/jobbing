@@ -1,7 +1,7 @@
 {
   "company": "Qlik",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +9,8 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careerhub.qlik.com/careers",
-  "jobs_spec": null,
-  "evidence": "Browser search careerhub.qlik.com 2026-10-06: engineer results are Associate Release Engineer (Brazil), AI Agent Engineer (Canada, experienced customer-success role), senior roles. No US/Toronto/Vancouver entry SWE.",
-  "confidence": "medium"
+  "jobs_spec": "eightfold:careerhub.qlik.com/qlik.com",
+  "evidence": "Eightfold API 2026-10-07: 11 US postings, all sales/legal/marketing/consulting, none engineering. Canada search: only AI Agent Engineer (experienced customer-success role). No entry SWE.",
+  "confidence": "high",
+  "jobs_spec_basis": "careerhub.qlik.com is Eightfold; jobs.py board eightfold:careerhub.qlik.com/qlik.com returned 11 US postings"
 }

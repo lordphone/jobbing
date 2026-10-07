@@ -1,18 +1,21 @@
 {
   "company": "Wendy's",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Engineer – Reliability & Configuration",
+      "title": "Engineer \u2013 Reliability & Configuration",
       "url": "https://www.wendys-talent.com/jobs/46088",
       "location": "Dublin, OH (remote work expected)",
       "opened": "2026-08-17",
       "date_source": "wendys-talent Jibe API posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'This entry level position will assist in the development, deployment and maintenance of configuration management programs'; asks 2+ years",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.wendys-talent.com/jobs/categories/Information+Technology",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-06 (81 jobs): Engineer - Reliability & Configuration says 'This entry level position', develops config-management software (Puppet/Ruby) for restaurant systems, but asks BS CS or 4+ yrs and 2+ yrs experience. Borderline, not a grad program; other IT roles Sr/Manager.",
-  "confidence": "medium"
+  "evidence": "Jibe API 2026-10-07 (80, all read): Engineer - Reliability & Configuration still listed, says 'This entry level position' (config-management software, Ruby/PowerShell) but asks BS CS or 4+ yrs and 2+ yrs. Borderline, not a grad program; other tech roles are 3+ yrs, Lead, Manager.",
+  "confidence": "low"
 }

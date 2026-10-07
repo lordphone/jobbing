@@ -1,7 +1,7 @@
 {
   "company": "Jane Street",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "no experience required (\"little to no practical experience in OCaml\"; \"We don't expect you to have a background\"); base salary $300,000 matches new-grad pay",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-10",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.janestreet.com/join-jane-street/open-roles/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "Browser 2026-10-06: posting page live with Apply; generic NYC Software Engineer (tracker labels it Full-Time: New Grad); no class year, citizenship or sponsorship text, no deadline. Two other NYC SWE reqs same date.",
+  "evidence": "Greenhouse API 2026-10-07 lists 3 NYC Software Engineer reqs from 2026-07-06; two (8599644002, 8419303002) are Software Engineer Internships. 8594541002 page live with Apply, no years asked, no deadline or citizenship text. Tracker labels it New Grad.",
   "confidence": "medium"
 }

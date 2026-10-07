@@ -1,26 +1,15 @@
 {
   "company": "Cox Automotive",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Entry Level Software Engineer (Carmel, IN; Draper, UT) and Software Engineer 1 (Austin, TX)",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
-      "location": "Carmel, IN; Draper, UT; Austin, TX",
-      "opened": "2026-07-26",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-02-24",
   "last_cycle_basis": "tracker first-seen: Software Engineer I, Austin TX, 2025-02-24 (also Atlanta, Carmel May-Jun 2025)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
   "jobs_spec": "wd:cox/wd1/Cox_External_Career_Site_1",
-  "evidence": "Workday API 2026-10-06 (38 postings, --all): no entry-level SWE, only Summer 2027 interns/mechanics. Draper posting R202681804 returns 404 from Workday cxs API (gone); Carmel/Austin 2026 postings not listed. Opened Jul 26-Aug 25 2026.",
+  "evidence": "Tracker shows rolling 'Entry Level Software Engineer' postings through 2026-09-20 (Atlanta, Carmel, Draper). Workday search 2026-10-07 for software engineer / entry level lists none: only Sr/Lead SWE, Software Engineer II, Summer 2027 interns. Board listing is flaky; history URLs truncated so direct 404 check inconclusive.",
   "confidence": "medium"
 }

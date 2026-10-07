@@ -1,15 +1,15 @@
 {
   "company": "Light & Wonder",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-15",
   "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Reno/Las Vegas, 2025-09-15 (https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
   "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
-  "evidence": "Workday API 2026-10-06 (116 reqs): this-cycle Associate Software Engineer R322683 (Reno/Las Vegas, first seen 2026-08-18) gone: no JSON-LD on page, CXS 403 while live reqs return 200. Only SDET Reno remains (test, not counted).",
-  "confidence": "medium"
+  "evidence": "Workday board read in full (116 reqs, 2026-10-07): this-cycle Associate Software Engineer R322683 (Reno/Las Vegas, first seen 2026-08-18) is off the board and its CXS page now returns 403 while live reqs return 200. Remaining US roles: SDET Reno (test, not counted), seniors; entry roles are in Bulgaria/India/Greece.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

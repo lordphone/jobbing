@@ -1,7 +1,6 @@
 {
   "company": "Juniper Networks",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "workday startDate 2026-08-28 (postedOn 30+ days ago)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Cloud Engineer Graduate",
@@ -22,17 +24,49 @@
       "date_source": "workday startDate 2026-08-28 (postedOn 30+ days ago)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Systems/Software Engineer I - Graduate",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648",
+      "location": "Houston, TX",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": "2027-02-26",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Graduate Systems/Software Engineer I",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439",
       "location": "Bloomington, MN",
       "opened": "2026-10-05",
-      "date_source": "workday startDate (postedOn Today)",
+      "date_source": "workday startDate",
       "deadline": "2027-02-26",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI and Machine Learning Engineering Graduate",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
+      "location": "Durham, NC",
+      "opened": "2026-09-13",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Systems/Software Eng - Graduates",
@@ -42,7 +76,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -51,6 +88,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
   "jobs_spec": "wd:hpe/wd5/Jobsathpe",
-  "evidence": "Juniper hires under HPE. Workday detail 2026-10-06 confirmed Software Engineer Graduate and Cloud Engineer Graduate (10 US locations), Bloomington MN Graduate Systems/Software I (endDate 2027-02-26), Aguadilla PR Systems/Software Graduates. Aguadilla Cloud Engineer not re-opened, dropped. Not Juniper-branded.",
-  "confidence": "medium"
+  "evidence": "Juniper hires under HPE (no Juniper-branded board). Full Workday board (1512) read 2026-10-07; screened and detail-opened HPE US graduate SWE/cloud/AI postings, 0-2 yrs, live via API. Roseville VLSI graduate excluded as hardware. Houston and Durham are new vs prior file.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

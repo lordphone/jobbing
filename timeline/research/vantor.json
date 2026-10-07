@@ -1,36 +1,15 @@
 {
   "company": "Vantor (formerly Maxar Intelligence)",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Full Stack Software Engineer",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Full-Stack-Software-Engineer_R24741",
-      "location": "Herndon, VA",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Software-Engineer_R24593",
-      "location": "Colorado Springs, CO",
-      "opened": "2026-09-11",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-08-08",
   "last_cycle_basis": "tracker first seen 2025-08-08: Forward Deployed Software Engineer I, Herndon VA (Maxar board)",
-  "excluded_reason": "clearance",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://maxar.wd1.myworkdayjobs.com/Vantor",
   "jobs_spec": "wd:maxar/wd1/Vantor",
-  "evidence": "Workday API (44, --all) + detail 2026-10-06: Full Stack SWE (Herndon) 'you must be a U.S. Citizen', TS/SCI; AI/ML SWE and Front-end SDE (5+ yrs) say US Person/Citizen. Colorado Springs SWE no longer listed; detail hit 429.",
+  "evidence": "Workday API 2026-10-07 (140, full). Full Stack Software Engineer (Herndon, R24741) and Software Engineer (Colorado Springs, R24593): 'To be eligible for this position, you must be a U.S. Citizen'. Other SWE/ML roles ask 5+ yrs or TS/SCI.",
   "confidence": "high"
 }

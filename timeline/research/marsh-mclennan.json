@@ -1,18 +1,21 @@
 {
   "company": "Marsh McLennan",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Associate FinOps Engineer",
       "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Louisville---West-Market/Applications-Developer_R_355944",
-      "location": "Louisville, KY (hybrid)",
+      "location": "Louisville, KY",
       "opened": "2026-09-30",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Associate-level title; asks 2+ years professional experience (hybrid, 3 days in office)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-23",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://mmc.wd1.myworkdayjobs.com/mmc",
   "jobs_spec": "wd:mmc/wd1/mmc",
-  "evidence": "Workday mmc 2026-10-06: only US software-type entry role is Associate FinOps Engineer (Louisville; Python pipelines/APIs; asks 2+ yrs; canApply true), borderline. Tech grad programs are UK/Poland/Romania; US 2027 college programs are actuarial/finance/informatics analysts.",
+  "evidence": "Workday mmc 2026-10-07 (1140 postings, full): only US/Toronto/Vancouver software entry role is Associate FinOps Engineer (Louisville; Python pipelines/APIs; 2+ yrs; canApply true), borderline. NY Oracle TRCS dev needs 5+ yrs, Seattle aerospace dev 5+ yrs. Tech grad programs are UK/Poland/Romania.",
   "confidence": "low"
 }

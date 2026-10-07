@@ -1,7 +1,7 @@
 {
   "company": "EXL",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,17 +12,10 @@
       "date_source": "oracle posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Data Engineer",
-      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370",
-      "location": "Jersey City, NJ",
-      "opened": "2026-09-18",
-      "date_source": "oracle posted date",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "entry-level role ideal for recent college graduates; Experience 0-2 years (internships or academic projects acceptable); $45K-$55K",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
   "jobs_spec": "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/CX_2",
-  "evidence": "Oracle API 2026-10-06 (216): Junior Developer (remote US, 'entry-level role ideal for recent college graduates', 2026-06-16) and Data Engineer Jersey City ('0-2 years or recent graduate', 2026-09-18) both detail-load; no citizenship text. Rolling, no class year; Junior Dev opened pre-July but evergreen.",
+  "evidence": "Oracle board 2026-10-07 (2741, full): Junior Developer (remote US, 0-2 yrs, recent grads, posted 2026-06-16) still listed. Jersey City Data Engineer 20370 no longer returned by API, dropped. Other US dev/data roles need 5-10+ yrs; Full Stack Product Engineer (19363) has no years and reads independent, left out. Rolling, no class year.",
   "confidence": "medium"
 }

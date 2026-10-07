@@ -1,6 +1,7 @@
 {
   "company": "Snap",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,21 @@
       "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-3_Q426SWEML1",
       "location": "Palo Alto, CA; San Francisco, CA; Los Angeles, CA; New York, NY; Bellevue, WA",
       "opened": "on or before 2026-10-01",
-      "date_source": "workday postedOn / startDate 2026-10-01",
+      "date_source": "workday postedOn (Posted 6 Days Ago) / startDate 2026-10-01",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Level 3 (Snap's entry level); requires '1+ years of post-Bachelor's machine learning experience'; $118,000-$176,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2024-09-26",
-  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' Seattle first seen 2024-09-26 (no clear 2025-26 opening found)",
+  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer, Full Stack' Seattle first seen 2024-09-26; no 2025-07..2026-01 new-grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
   "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Workday detail API 2026-10-06: MLE Level 3 (5 US sites, start 2026-10-01) still resolves, but it is absent from the board list (only L4+ listed); browser blocked by Cloudflare check. L3 is Snap's entry level, not labeled new grad; counted open by inference. Low confidence.",
-  "confidence": "low",
-  "checked": "2026-10-06"
+  "evidence": "Workday board 2026-10-07 (203 postings, full coverage): MLE Level 3 is listed, 5 US sites, requires 1+ yr; all other US SWE roles are Level 4+/Staff. Tracker's 2026-07-23 'Software Engineer - Backend - Level 3' not on board now. L3 not labeled new grad, so medium confidence.",
+  "confidence": "medium"
 }

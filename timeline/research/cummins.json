@@ -1,15 +1,29 @@
 {
   "company": "Cummins",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Servicenow",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164",
+      "location": "Columbus, IN (allowable work locations: most US states)",
+      "opened": "on or before 2026-08-09",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "within 2 years of completing degree; start Sept 2026",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Posting: 'College Job type: Exempt Entry Level Full Time'; Masters / Computer Sciences; $108,720-$132,880; F-1 CPT/OPT students eligible",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "tracker history: Software Engineer I (Indiana) first seen 2025-11-03",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle board --all (222 reqs) 2026-10-06: no US entry SWE. Req 2435081 (SWE I, Jun 2027 start) now returns nothing from the requisition API; 2434164 (SWE ServiceNow, Sept 2026 start) is unlisted. Browser pane unavailable, so pages not opened.",
-  "confidence": "low"
+  "evidence": "Opened req 2434164 in browser 2026-10-07: live, APPLY NOW shown, Exempt Entry Level, start Sept 2026, though absent from board API and site search (unlisted but live). Req 2435081 (SWE I) shows 'no longer available'. Board shows no other US entry SWE. Previously marked closed; corrected.",
+  "confidence": "medium"
 }

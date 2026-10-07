@@ -1,18 +1,21 @@
 {
   "company": "Remitly",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'AI Native Software Engineer I'; no years asked; $124,000-$155,000",
+      "no_sponsorship": false,
       "title": "AI Native Software Engineer (I)",
       "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
       "location": "Seattle, WA",
       "opened": "2026-09-25",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "date_source": "workday startDate (postedOn 12 days ago)"
     }
   ],
   "last_cycle_opened": "2026-04-24",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "jobs_spec": "wd:remitly/wd5/Remitly_Careers",
-  "evidence": "Workday CXS API 2026-10-06: AI Native Software Engineer I Seattle (R_106966, start 2026-09-25) live, canApply true; SDE I IHUB (R_106706) now 'page doesn't exist' in browser, removed. Remitly posts SDE 1 year-round. No deadline.",
+  "evidence": "Workday CXS 2026-10-07: AI Native Software Engineer I Seattle (R_106966) listed, canApply true, no years or sponsorship text, no deadline. Other SWE roles are SDE II+/Senior/Staff or 3+ yrs. Remitly posts SDE 1 year-round.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Paylocity",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,15 +12,18 @@
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": "Graduated within the last 12 months (no class year)",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) now return Job Not Found, so no dated opening confirmed.",
+  "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) return Job Not Found, so no dated opening confirmed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
   "jobs_spec": null,
-  "evidence": "all-listings search 'engineer' (33 results) 2026-10-06: Associate Engineer Software 47607 (AI Labs, Pittsford NY) listed with Apply Now, posted 2026-09-25, wants graduate within last 12 months; no class year. Other engineers senior or Guadalajara.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-07: all-listings 'engineer' search (32) lists Associate Engineer Software 47607 (Pittsford NY, posted 2026-09-25, Apply, grad within 12 months). Other engineer roles are Guadalajara MX, senior, or interns. No other US entry SWE.",
+  "confidence": "high"
 }

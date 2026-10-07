@@ -1,7 +1,7 @@
 {
   "company": "Crowe",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
       "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Plano, TX; Livingston, NJ; Louisville, KY; Miami, FL; Los Angeles, CA; Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Boca Raton, FL; Houston, TX; Austin, TX; Charlotte, NC",
       "opened": "2026-08-13",
-      "date_source": "tracker first seen (Workday repost startDate 2026-09-30; endDate 2026-12-31)",
+      "date_source": "tracker first seen (Workday repost startDate 2026-09-30)",
       "deadline": "2026-12-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Level 1 title; no years required; pay band $62K-$100K",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://crowe.wd12.myworkdayjobs.com/external_careers",
   "jobs_spec": "wd:crowe/wd12/external_careers",
-  "evidence": "Workday API 2026-10-06: posting listed, canApply true, endDate 2026-12-31; level 1 ML software engineer, no years stated. 'Crowe is not sponsoring for work authorization at this time'. Same as prior file.",
+  "evidence": "Workday API+posting JSON 2026-10-07: ML Software Engineer 1 canApply true, endDate 2026-12-31, level 1, no years, pay near entry; 'Crowe is not sponsoring for work authorization'. ML Engineer R-71014 ($62-100K, no years) left out as unclear. Same as prior file.",
   "confidence": "high"
 }

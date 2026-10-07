@@ -1,7 +1,7 @@
 {
   "company": "BNY",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "oracle cloud posted date",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 or May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "2027 BNY Analyst Program - Engineering (Developer) - Pittsburgh, PA",
@@ -22,7 +25,10 @@
       "date_source": "oracle cloud posted date",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 or May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "2027 BNY Analyst Program - Engineering (Data Science) - New York, NY",
@@ -32,7 +38,10 @@
       "date_source": "oracle cloud posted date",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 or May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "2027 BNY Analyst Program - Engineering (Data Science) - Pittsburgh, PA",
@@ -42,7 +51,10 @@
       "date_source": "oracle cloud posted date",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 or May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-16",
@@ -51,6 +63,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://eofe.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:eofe.fa.us2.oraclecloud.com/CX_1001",
-  "evidence": "Oracle Cloud API 2026-10-06 still lists four US 2027 Analyst Program Engineering postings (Developer, Data Science; NY, Pittsburgh), posted 2026-09-16; detail 82247: grad Dec 2026/May 2027, 'Does not require sponsorship' line, no end date.",
+  "evidence": "Oracle Cloud full board (1367) 2026-10-07 lists four US 2027 Analyst Program Engineering postings (Developer, Data Science; NY, Pittsburgh), posted 2026-09-16; grad Dec 2026/May 2027, 'Does not require sponsorship' line, no end date. Other eng roles are VP/7+ yrs.",
   "confidence": "high"
 }

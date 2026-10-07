@@ -1,7 +1,6 @@
 {
   "company": "Nasdaq",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "workday startDate 2026-05-04; tracker first seen 2026-07-04",
       "deadline": null,
       "grad_window": "currently pursuing or recently completed degree (no class year)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Currently pursuing or recently completed a degree in Computer Science' (also asks 3 yrs AWS API experience)",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2026-02-05",
@@ -21,6 +23,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
   "jobs_spec": "wd:nasdaq/wd1/Global_External_Site",
-  "evidence": "Workday API 2026-10-06: Atlanta 'Analyst - Software Developer' (R0025662) canApply, recent grads, but asks 3+ yrs AWS API experience; no sponsorship. Other US SWE roles experienced; 2027 SWE is intern only. Board filter shows nothing else.",
-  "confidence": "medium"
+  "evidence": "Workday board full (60) 2026-10-07: Atlanta 'Analyst - Software Developer' canApply, aimed at recent grads but asks 3 yrs AWS API work; no sponsorship. Boston SWE (2-4 yrs) and Philadelphia Data SWE (2+ yrs) look mid-level, left out; 2027 SWE is intern only.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

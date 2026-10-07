@@ -1,7 +1,7 @@
 {
   "company": "Wyetech",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-15",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/wyetechllc",
   "jobs_spec": "lever:wyetechllc",
-  "evidence": "Lever API 2026-10-06 (270): many SWE 1 roles; posting says 'United States Citizenship and position appropriate security clearance is required' and 'Active TS/SCI security clearance with agency appropriate polygraph'.",
+  "evidence": "Lever API 2026-10-07 (270): ~20 Software Engineer 0/1/2 postings (Annapolis Junction, Ft. Meade, Laurel MD). Sampled postings say 'United States Citizenship and position appropriate security clearance is required' and 'Active TS/SCI ... with polygraph'. Excluded.",
   "confidence": "high"
 }

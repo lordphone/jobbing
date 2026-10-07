@@ -1,19 +1,9 @@
 {
   "company": "Markon",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
-    {
-      "title": "Junior Software Engineer",
-      "url": "https://careers-markon.icims.com/jobs/8694/junior-software-engineer/job",
-      "location": "McLean, VA",
-      "opened": "2026-09-21",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    },
     {
       "title": "Junior Software Engineer",
       "url": "https://careers-markon.icims.com/jobs/8693/junior-software-engineer/job",
@@ -22,7 +12,7 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-10",
@@ -31,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-markon.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS list and posting pages 2026-10-06: Junior Software Engineer 8694 and 8693 (McLean, posted 09-21) both say 'An Active TS/SCI with a FS Polygraph is required'. Excluded for clearance.",
+  "evidence": "iCIMS HTML 2026-10-07: Junior Software Engineer 8693 (McLean) still listed with Clearance Level 'TS/SCI FS Poly'; 8694 now 'no longer open'. Every listed software role shows the same clearance. Excluded for clearance.",
   "confidence": "high"
 }

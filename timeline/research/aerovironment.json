@@ -1,7 +1,7 @@
 {
   "company": "AeroVironment (AV)",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,23 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+      "location": "Moorpark, CA",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-16",
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://avav.wd1.myworkdayjobs.com/avav",
   "jobs_spec": "wd:avav/wd1/avav",
-  "evidence": "Workday detail 2026-10-06: Junior SWE (Jessup MD, 0-4 yrs) says applicants must provide documents to verify U.S. person status under ITAR/EAR; some roles need current US citizenship.",
+  "evidence": "Workday API search + detail 2026-10-07: Junior SWE (Jessup MD) and Associate SWE (Moorpark CA, 'entry level') both say applicants must qualify as a U.S. person under ITAR/EAR; Moorpark also needs ability to obtain a clearance.",
   "confidence": "high"
 }

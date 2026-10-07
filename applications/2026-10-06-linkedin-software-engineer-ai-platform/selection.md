@@ -46,10 +46,14 @@ Header: **Mountain View, CA** (JD location).
 
 - Pages: 1 (letter, 792 pt tall)
 - Bottom margin: 0.36 in = 25.92 pt (from `shared/preamble.tex`)
-- Last content bottom (pdftotext -bbox yMax): 759.50 pt
-- Unused height: 792 − 25.92 − 759.50 = 6.58 pt (passes 0–12 pt)
+- Last content bottom (pdftotext -bbox yMax): 759.83 pt
+- Unused height: 792 − 25.92 − 759.83 = 6.25 pt (passes 0–12 pt)
 - Visual review: rendered at 110 dpi; no empty bottom strip, clipping, overlap, or orphan lines.
 
 ## Revision — no semicolons
 
 Rewrote every bullet without semicolons (commas, "and", or a sentence break). Line breaks unchanged. Final PDF after this edit: 1 page, last content at 759.50 pt, unused 6.58 pt. Re-rendered and checked: no defects.
+
+## Revision 2026-10-07
+
+- Added a Certifications skills row (both AWS certs; strongly recommended per inventory/skills.md). To stay on one page, shortened my-av from 3 lines to 2 (dropped temporal windowing and streaming inference).

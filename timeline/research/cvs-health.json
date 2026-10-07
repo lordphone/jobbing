@@ -1,15 +1,29 @@
 {
   "company": "CVS Health",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer - Operational Analytics",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1",
+      "location": "Hartford, CT",
+      "opened": "on or before 2026-10-07",
+      "date_source": "workday startDate (latest repost; req R0944066 is older)",
+      "deadline": "2026-10-28",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years (internships, co-ops, or academic projects acceptable); 'assists in the design, development'; pay $79,310-$158,620",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-08-29",
   "last_cycle_basis": "tracker history: Associate Software Development Engineer, Hartford CT, first seen 2025-08-29",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
   "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
-  "evidence": "Workday API 2026-10-06: no Associate/entry SDE listed. Tracker's 2026-08-13 Associate Software Engineer (Farmers Branch TX) and base-level SDE R1051951 not on board. Live SDE roles are senior/lead/staff, Digital Provider SDE (5+ yrs, ends 2026-10-17) and Galway Ireland.",
+  "evidence": "Workday API 2026-10-07 (searched, not full 19k board): SDE Operational Analytics (Hartford) reads entry-level (1+ yrs incl. internships, works with guidance), canApply true, ends 2026-10-28. Other SDEs senior/7+ yrs, SDET deep-experience, Galway is Ireland. Intern-conversion associate SDE not public.",
   "confidence": "medium"
 }

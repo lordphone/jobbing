@@ -1,7 +1,7 @@
 {
   "company": "P&G",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate (repost; tracker first seen the 2027 Grads set 2026-08-16)",
       "deadline": null,
       "grad_window": "graduating Spring or Summer 2027, bachelor's in CS or related",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Data & AI Engineering (2027 Grads)",
@@ -22,7 +25,10 @@
       "date_source": "tracker first seen (workday startDate 2026-09-30)",
       "deadline": null,
       "grad_window": "graduating Spring or Summer 2027, bachelor's in CS, data science or related",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://pg.wd5.myworkdayjobs.com/1000",
   "jobs_spec": "wd:pg/wd5/1000",
-  "evidence": "Workday API + detail 2026-10-06: two 2027 Grads postings live in Cincinnati (IT Engineering software/platform; Data & AI Engineering incl. AI Engineers). Both say 'Immigration Sponsorship is not available'. Requires graduating Spring or Summer 2027 with bachelor's.",
+  "evidence": "Workday API + detail 2026-10-07: IT Engineering (Software, Platform, Network) and Data & AI Engineering 2027 Grads live in Cincinnati; both 'Immigration Sponsorship is not available'; graduating Spring/Summer 2027, bachelor's. Other 2027 Grads roles (IT security, PM, data science MS) not counted.",
   "confidence": "high"
 }

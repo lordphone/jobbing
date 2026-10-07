@@ -1,28 +1,34 @@
 {
   "company": "Indeed",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer I",
       "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374",
       "location": "Austin, TX",
-      "opened": "on or before 2026-10-06",
+      "opened": "on or before 2026-10-07",
       "date_source": "page text",
-      "deadline": null,
+      "deadline": "2026-10-04",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; bachelor's required; $94K-$142K tier 2",
+      "no_sponsorship": false
     },
     {
       "title": "Site Reliability Engineer I",
-      "url": "https://www.indeed.com/cmp/Indeed/jobs?q=Software+Engineer+I",
+      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=a2e2294a4c0bc885",
       "location": "Remote (US)",
-      "opened": "on or before 2026-10-06",
+      "opened": "on or before 2026-10-07",
       "date_source": "page text",
-      "deadline": null,
+      "deadline": "2026-10-04",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Site Reliability Engineer I; bachelor's required; $85K-$178K",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-06 (indeed.com/cmp/Indeed/jobs): Software Engineer I (Austin, TX; bachelor's, Java/Kotlin/React) and Site Reliability Engineer I (Remote) listed with details; 82 jobs. Posted date not shown; no deadline.",
+  "evidence": "Browser 2026-10-07 indeed.com/cmp/Indeed/jobs (79 jobs): Software Engineer I (Austin, TX) and Site Reliability Engineer I (Remote) both listed with Apply. Page text says deadline 10/04/2026 (already passed; may be extended) and not considering candidates based in Austin TX. No date shown.",
   "confidence": "medium"
 }

@@ -1,26 +1,42 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "2027 Graduate Talent Program - Technology - Raleigh",
       "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=349412",
       "location": "Raleigh, NC",
-      "opened": "on or before 2026-10-05",
-      "date_source": "page text (live on jobs.ubs.com; ref 341967BR; no posted date shown)",
+      "opened": "on or before 2026-09-18",
+      "date_source": "job board last-updated date (no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "2027 Graduate Talent Program - Technology - NY/ NJ",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622",
+      "location": "New York, NY; Weehawken, NJ",
+      "opened": "on or before 2026-10-05",
+      "date_source": "job board last-updated date (no posted date shown)",
+      "deadline": null,
+      "grad_window": "Graduating Dec 2026 - Jun 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "UBS says US Graduate Talent Program applications typically open in September; no tracker history hit for UBS.",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: Technology GTP Raleigh (341967BR) page loads with full text and Apply button; grad Dec 2026-Jun 2027, GPA 3.0. Tracks include Technology Engineer, Data Engineer graduate. NY/NJ 348622 previously expired. No posted date shown.",
-  "confidence": "medium"
+  "evidence": "UBS graduate board search endpoint 2026-10-07 lists both US Technology GTPs (Raleigh, NY/NJ); posting pages return full text (Technology Engineer / Data Engineer Graduate; Java/Python; grads Dec 2026-Jun 2027). States no employment-based sponsorship incl. OPT/CPT. No deadline or posted date shown.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "BNSF Railway",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29, likely repost)",
       "deadline": null,
       "grad_window": "recent grads or pursuing CS/IT/Data Science/AI degree; starts 2027-02-01, 2027-06-14, 2027-09-20; <3 yrs experience",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Product, Platform & Enterprise Full Stack Software Engineer I/II (Remote - US)",
@@ -22,15 +25,19 @@
       "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29)",
       "deadline": "approximately 2026-10-06 (posting: closes about 7 days after posting date 2026-09-29)",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I/II; bachelors in CS or 2 yrs software experience",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no last-cycle open date found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "2026-10-06 Phenom pages: both show Apply Now. bnsf tech Trainee 2027 (<3 yrs exp, requires no H-1B/OPT/TN assistance, now or future). SWE I/II open to H-1B transfer/STEM OPT; posting says closes about 7 days after 2026-09-29 posting date.",
-  "confidence": "high"
+  "evidence": "Phenom widgets search 2026-10-07 lists both: bnsf tech Trainee 2027 (<3 yrs, no OPT/H-1B assistance now or future) and Full Stack SWE I/II (open to H-1B transfers/STEM OPT; text says closes ~7 days after 2026-09-29, still listed). IT Audit trainee not SWE. Pages show Apply Now.",
+  "confidence": "high",
+  "jobs_spec_basis": "jobs.bnsf.com is Phenom; /widgets refineSearch API lists the board; no jobs.py spec"
 }

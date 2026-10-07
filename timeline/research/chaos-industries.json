@@ -1,15 +1,29 @@
 {
   "company": "CHAOS Industries",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "excluded",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Applied AI",
+      "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5209420007",
+      "location": "San Francisco, CA",
+      "opened": "2026-08-11",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of professional software development experience; $140,000 - $193,000 base",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker or board history found",
-  "excluded_reason": "us person / itar",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chaosindustries",
   "jobs_spec": "gh:chaosindustries",
-  "evidence": "Greenhouse API (130 postings): no new-grad title; SWE roles senior/mid. Backend SWE quotes \"Must be a U.S. Person (U.S. citizen or permanent resident)\"; Applied AI Engineer quotes \"US Citizen or Permanent Resident\".",
-  "confidence": "medium"
+  "evidence": "Greenhouse 2026-10-07 (134 postings, screened all SWE): only Software Engineer, Applied AI (SF) asks <=2 yrs, no citizenship text; pay is high so level is borderline. Applied AI Engineer requires 'US Citizen or Permanent Resident'; other SWE roles need 5-10+ yrs.",
+  "confidence": "low"
 }

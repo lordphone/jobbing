@@ -1,7 +1,6 @@
 {
   "company": "Leonardo DRS",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -9,18 +8,35 @@
       "url": "https://careers.leonardodrs.com/job/Beavercreek-Software-Engineer-II-OH-45431/1424881500/",
       "location": "Beavercreek, OH",
       "opened": "2026-09-29",
-      "date_source": "page text",
+      "date_source": "page text (earlier file)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires bachelor's plus a minimum of 2 years of experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer II - Front-End / Full-Stack Applications",
+      "url": "https://careers.leonardodrs.com/job/Germantown-Software-Engineer-II-Front-End-Full-Stack-Applications-MD-20876/1415370600/",
+      "location": "Germantown, MD",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no posting date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires bachelor's plus a minimum of 2 years of experience",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; only 2027 summer/spring internships and UK graduate roles in tracker",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "unknown; only 2027 summer internships and UK graduate roles in tracker",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.leonardodrs.com",
   "jobs_spec": null,
-  "evidence": "Careers site 2026-10-06: Software Engineer II (Beavercreek OH) live with Apply; page says 'Citizenship required.' plus active DOD clearance. Earlier entry Software Engineer posting (1397803200) now shows 'no longer posted'. Others mid/senior or interns.",
-  "confidence": "high"
+  "evidence": "careers.leonardodrs.com searches 2026-10-07 (software engineer, graduate, entry level, early career): Software Engineer II roles (2 yrs) are live, each stating 'Citizenship required' and 'This position requires an active DOD security clearance'. Others senior or 2027 summer interns.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

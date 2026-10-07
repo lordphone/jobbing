@@ -1,15 +1,15 @@
 {
   "company": "Fox Corporation",
   "tier": 9,
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-09-03",
-  "last_cycle_basis": "tracker first-seen: Software Engineer I - Android, Sharonville OH (fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Engineer-I--Android_R50029814)",
+  "last_cycle_basis": "tracker first seen 2025-09-03: Software Engineer I - Android, Sharonville OH (fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Engineer-I--Android_R50029814)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://fox.wd1.myworkdayjobs.com/Domestic",
   "jobs_spec": "wd:fox/wd1/Domestic",
-  "evidence": "Workday API (53 listed, searches for engineer/software/machine learning) 2026-10-06: no US entry SWE; only interns, India/Mexico and senior/staff roles. This-cycle ML Engineer I NYC (R50033083/R50033154, Jul 2026) absent from board and its API path returns 403. Page not opened myself; prior run saw it gone.",
-  "confidence": "medium",
-  "checked": "2026-10-06"
+  "evidence": "Workday board 2026-10-07 (328, full): no US entry SWE; only interns, India/Mexico, senior/staff. This-cycle ML Engineer I NYC (R50033154/R50033083, tracker first seen 2026-07-21, closed) absent from full board; posting page unreadable (cxs 403, SPA), so closure inferred from board and tracker.",
+  "confidence": "medium"
 }

@@ -1,15 +1,18 @@
 {
   "company": "Field AI",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {"title": "Humanoid Engineer, Manipulation", "url": "https://jobs.lever.co/field-ai/0d9c37e2-47ae-45f9-8e5d-cc0eccd499f4", "location": "Irvine, CA", "opened": "2026-06-25", "date_source": "tracker first seen / lever createdAt", "deadline": null, "grad_window": null, "live_verified": "api", "level": "unlabeled", "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement; C++/Python/ROS on real robots", "no_sponsorship": false},
+    {"title": "Robotics Engineer, Humanoid System Integration", "url": "https://jobs.lever.co/field-ai/95ff2df3-4408-47f3-a2c5-295d8067bb30", "location": "Irvine, CA", "opened": "2026-06-26", "date_source": "tracker first seen / lever createdAt", "deadline": null, "grad_window": null, "live_verified": "api", "level": "unlabeled", "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement; C++/Python/ROS", "no_sponsorship": false}
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history of a US new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/field-ai",
   "jobs_spec": "lever:field-ai",
-  "evidence": "Lever API 2026-10-06 (98 postings): SWE/autonomy postings are experienced or unlabeled mid-level; interns only hardware. No new-grad track.",
-  "confidence": "high"
+  "evidence": "Lever API 2026-10-07 (99 postings), screened 50 eng roles. No new-grad program, but two humanoid robotics roles say junior-to-mid, fresh MS grads welcome, no years asked. Hardware-heavy robotics; old file said no_program. Other roles need 2-10+ yrs.",
+  "confidence": "medium"
 }

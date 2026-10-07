@@ -1,7 +1,7 @@
 {
   "company": "Atlassian",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-14",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "graduating by August 2027",
-      "live_verified": "api"
+      "grad_window": "2027 Graduate",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Machine Learning Engineer, 2027 Graduate U.S.",
@@ -21,26 +24,32 @@
       "opened": "2026-09-24",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "graduating by August 2027",
-      "live_verified": "api"
+      "grad_window": "2027 Graduate",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer, 2027 Graduate Canada",
       "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
-      "location": "Canada (listing gives no city; tracker lists Burnaby, BC; Vancouver, BC)",
+      "location": "Burnaby, BC; Richmond, BC; Vancouver, BC",
       "opened": "2026-09-09",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "graduating by August 2027",
-      "live_verified": "api"
+      "grad_window": "2027 Graduate",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-03",
   "last_cycle_basis": "tracker history: 'New Grad 2026: Software Engineer' Seattle first seen 2025-09-03",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://www.atlassian.com/company/careers/all-jobs?team=Graduates",
   "jobs_spec": null,
-  "evidence": "Atlassian careers listings feed (atlassian.com/endpoint/careers/listings) 2026-10-06: SWE and ML Engineer 2027 Graduate U.S. (Seattle) and SWE 2027 Graduate Canada listed (updated 2026-09-15 to 09-29). US: not eligible for F1/J1 or any sponsorship; Canada: no sponsorship at hire. iCIMS pages are not rendered, so not opened.",
-  "confidence": "medium"
+  "evidence": "Atlassian listings feed 2026-10-07 plus icims pages (Apply button present): SWE and ML 2027 Graduate US (Seattle), SWE 2027 Graduate Canada. US postings: not eligible for any work sponsorship, F-1/J-1 not eligible. Data Engineer/Scientist 2027 grad roles also exist (not counted).",
+  "confidence": "high"
 }

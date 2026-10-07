@@ -1,7 +1,6 @@
 {
   "company": "Cantor Fitzgerald",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "oracle api posted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; 'Experience contributing to production or production-like software through work, internships, research, open source'; $140,000-$160,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs",
   "jobs_spec": "oracle:hdow.fa.us6.oraclecloud.com/CX_1003",
-  "evidence": "Oracle API 2026-10-06 (31 jobs): Machine Learning Engineer (Cantor Fitzgerald Technology Markets), NYC, posted 2026-09-02, no end date; Bachelor's, internships/projects count, no years. Not labeled new grad. SWE roles need 2-4+ yrs. Sponsorship unstated.",
-  "confidence": "medium"
+  "evidence": "Oracle full board 2026-10-07 (86): ML Engineer 249829 NYC live, posted 2026-09-02, no end date, qualifications ask no years. Software Engineer roles need 2-4+ yrs; Junior Systems Engineer is Windows admin; AI Product Associate needs 2+ yrs banking. Sponsorship unstated.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

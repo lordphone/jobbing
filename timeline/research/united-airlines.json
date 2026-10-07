@@ -1,7 +1,7 @@
 {
   "company": "United Airlines",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://careers.united.com/us/en/job/HSC00001080/Associate-Software-Developer",
       "location": "Houston, TX",
       "opened": "2026-09-14",
-      "date_source": "phenom dateCreated",
-      "deadline": null,
+      "date_source": "phenom postedDate",
+      "deadline": "2026-10-14",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Associate title; minimum quals: Bachelor's + 1+ year experience; $73,150-$95,224",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.united.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Browser + Phenom widgets API 2026-10-06: Associate Software Developer (Houston) reqStatus Open, bachelor's + 1 yr, C#/.NET backend, 'must be authorized to work without sponsorship'. Developer - IT (Chicago, Arlington Heights) wants 2+ yrs or ECDLP completion, not counted.",
-  "confidence": "high"
+  "evidence": "Phenom page data 2026-10-07: Associate Software Developer reqStatus Open, postingEndDate 2026-10-14, reopened 2026-10-07. Page HTML also carries a hidden-template 'no longer accepting' block (WebFetch can't render JS), so Apply state unconfirmed visually. Developer-IT roles want 2+ yrs or ECDLP, not counted.",
+  "confidence": "medium"
 }

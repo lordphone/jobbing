@@ -1,7 +1,6 @@
 {
   "company": "Hulu",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -9,10 +8,13 @@
       "url": "https://www.disneycareers.com/en/job/new-york/product-software-engineer-i/391/99357341552",
       "location": "New York, NY; San Francisco, CA; Seattle, WA",
       "opened": "2026-08-17",
-      "date_source": "earlier page text Date Posted (prior file)",
+      "date_source": "page text (prior file)",
       "deadline": "2026-10-05",
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Hulu posts under Disney. Product Software Engineer I (opened 2026-08-17, deadline 2026-10-05) returns HTTP 404 on disneycareers.com 2026-10-06. Disney Workday has only SWE II/Senior+ plus grad-student Decision Science and intern roles.",
-  "confidence": "high"
+  "evidence": "Hulu posts under Disney. Product Software Engineer I (opened 2026-08-17, deadline 2026-10-05) returns HTTP 404 on disneycareers.com 2026-10-07 and is absent from Disney Workday search; Workday shows only SWE II/Senior+, a Decision Science grad associate and interns.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

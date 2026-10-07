@@ -1,15 +1,42 @@
 {
   "company": "Bain",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 10,
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Platform Engineer",
+      "url": "https://careers.bain.com/jobs/FolderDetail/Engineer-PEG-Platform-Engineering/109001",
+      "location": "Atlanta, GA; Austin, TX; Chicago, IL; Dallas, TX; Houston, TX",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no posting date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; works 'under the guidance of senior engineers'; $64,000-$76,750",
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI/ML Engineer",
+      "url": "https://careers.bain.com/jobs/FolderDetail/Engineer-PEG-AI-and-Machine-Learning-Engineering/108806",
+      "location": "Atlanta, GA; Austin, TX; Chicago, IL; Dallas, TX; Houston, TX",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no posting date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; tasks 'under the direction of senior engineers'; $72,000-$86,500",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history and no dated first-party source found",
   "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.bain.com/jobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "careers.bain.com 'engineer' search 2026-10-06 (112 results): US roles are PEG Full Stack Engineer, Platform Engineer, AI/ML Engineer (2+ yrs), Lead AI Engineering, plus AI Engineering Intern Summer 2027. Associate engineer roles are Warsaw/India only. No US new-grad SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "careers.bain.com search 2026-10-07: US Platform Engineer and AI/ML Engineer both ask 2+ yrs with senior-guided duties (counted as unlabeled entry). Associate engineer roles are New Delhi/Warsaw only. Posted dates not shown.",
+  "confidence": "medium"
 }

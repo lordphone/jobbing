@@ -1,15 +1,15 @@
 {
   "company": "Joby Aviation",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Joby",
+  "last_cycle_basis": "jobs.py history: no tracker postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-jobyaviation.icims.com/jobs/intro",
   "jobs_spec": null,
-  "evidence": "iCIMS list pages read over HTTP 2026-10-06 (156 jobs, 8 pages). Software roles are senior/staff or need 3-5+ years (Embedded SWE 3+ yrs; Integrated Vehicle Simulator 5+ yrs). Several flight-software roles require 'US Person' (export control). No entry-level or new-grad SWE.",
-  "confidence": "medium"
+  "evidence": "iCIMS list read over HTTP 2026-10-07 (156 jobs, all pages). Embedded Software Engineer needs 3+ yrs (BS) or 1+ (MS); Simulator SWE 5+ yrs; Autonomy/Flight Research SWE roles require 'US Person'; rest Senior/Staff. Only entry post is a TPM Intern.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

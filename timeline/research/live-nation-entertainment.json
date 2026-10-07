@@ -1,15 +1,15 @@
 {
   "company": "Live Nation Entertainment (Ticketmaster)",
+  "tier": 9,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-07",
-  "last_cycle_basis": "tracker first-seen: Software Engineer 1, Reston VA, https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Reston-VA-USA/Software-Engineer-I_JR-85444",
+  "last_cycle_basis": "jobs.py history: Software Engineer 1 (Reston, VA) first seen 2026-01-07 on livenation.wd503.myworkdayjobs.com TMExternalSite",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite",
   "jobs_spec": "wd:livenation/wd503/LNExternalSite",
-  "evidence": "Workday LNExternalSite (104 postings) 2026-10-06: only Lead/Senior engineer and Forward Deployed Engineer roles; no entry SWE live. Software Engineer I (Reston VA, 2026-01-07) was last cycle's entry role; not found now.",
-  "confidence": "medium",
-  "tier": 9,
-  "checked": "2026-10-06"
+  "evidence": "Workday LNExternalSite (1410, full) and TMExternalSite (64) 2026-10-07: software roles are Software Engineer, Marketing Recommendations (5+ yrs), Forward Deployed Engineer (5+ yrs), Senior/Lead data and AI. No entry SWE live. Last cycle's Software Engineer 1 posted in January.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Southern Company",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "oracle posted start date",
       "deadline": "2026-10-14",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Developer I; requires Associates degree or vocational training, works 'with supervision'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-13",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
   "jobs_spec": "oracle:emje.fa.us6.oraclecloud.com/CX_1001",
-  "evidence": "Oracle board (50) + detail 2026-10-06: Application Developer I (Integrations) live, posted 2026-09-30, API end 2026-10-15 UTC (earlier check: apply before 10/14); junior role, no class-year text. Other developer roles senior.",
+  "evidence": "Oracle board (103) + posting text 2026-10-07: Application Developer I (Integrations) live, posted 2026-09-30, API end 2026-10-15 03:55 UTC (Oct 14 US); entry duties, associate degree. BI Developer is analytics; other developer roles 5+ yrs.",
   "confidence": "high"
 }

@@ -1,7 +1,6 @@
 {
   "company": "MathWorks",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "page text (earlier run; page shows no date)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": "New Career Program (EDG) for Bachelor's or Master's/PhD in Engineering or CS; strong programming skills; rotational dev/customer-facing, not pure SWE",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Rolling EDG requisition; no tracker history and no distinct last-cycle open date found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.mathworks.com/company/jobs/opportunities.html",
   "jobs_spec": null,
-  "evidence": "Job search 'New Career' 2026-10-06: Multiple Openings - Engineering Development Group - U.S. (req 16217, Natick MA) has an Apply link. Rotational dev plus customer support for BS/MS/PhD in engineering or CS; rolling, not pure SWE; no class year.",
-  "confidence": "medium"
+  "evidence": "Read all 4 pages of MathWorks job search via WebFetch 2026-10-07 (75 jobs): only entry track is EDG req 16217 (Natick), listed in search with Apply button (href not verifiable via fetch). Other engineering roles Senior/Principal. No work-auth text. EDG not pure SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

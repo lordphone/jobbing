@@ -1,15 +1,15 @@
 {
   "company": "Tower Research Capital",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting Jul 2025–Jan 2026 in tracker history; earlier US SWE new-grad postings 2025-01-06 (Software Engineer I, Charleston) and 2025-06-11 (New York)",
+  "last_cycle_basis": "no US new-grad SWE posting Jul 2025-Jan 2026 in tracker history; earlier US new-grad SWE postings 2025-01-06 (Software Engineer I, Charleston) and 2025-06-11 (New York)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/towerresearchcapital",
   "jobs_spec": "gh:towerresearchcapital",
-  "evidence": "gh:towerresearchcapital board --all 2026-10-06: new-grad SWE only in Montreal (0-2 yrs, 2026-09-15; not Toronto/Vancouver) and Hong Kong/Singapore. US 2027 roles are interns; London grad program is quant. No US new-grad SWE yet.",
-  "confidence": "high"
+  "evidence": "Full gh board (93) read 2026-10-07. New-grad SWE only Montreal (2026-09-15) and Hong Kong/Singapore (2026-10-01). US: 2027 Quant Dev intern; NY SWE roles need 2-5 yrs or no entry signal (read via API). No US/Toronto/Vancouver entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

@@ -1,18 +1,21 @@
 {
   "company": "Wellmark",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "closed",
+  "checked": "2026-10-07",
+  "status": "open",
   "postings": [
     {
-      "title": "Technology Associate Program - Upcoming Graduate (2-Year Rotation Program)",
-      "url": "https://jobs.smartrecruiters.com/wellmarkinc/744000146512109",
+      "title": "Software Engineer - Member Experience Delivery",
+      "url": "https://jobs.smartrecruiters.com/wellmarkinc/744000153843930",
       "location": "Des Moines, IA",
-      "opened": "2026-08-31",
-      "date_source": "tracker first seen (smartrecruiters releasedDate)",
+      "opened": "2026-10-06",
+      "date_source": "smartrecruiters releasedDate",
       "deadline": null,
-      "grad_window": "Dec 2026 - May 2027 graduates",
-      "live_verified": "browser"
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "SmartRecruiters level Associate; \"Bachelor's degree ... and at least 1 year of software development experience\"",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/WellmarkInc",
   "jobs_spec": "sr:wellmarkinc",
-  "evidence": "SmartRecruiters board 2026-10-06: TAP page says 'Sorry, this job has expired'. Live: SWE internships, senior/lead roles, and plain Software Engineer (posted 2026-10-06, needs 1+ yr dev experience; not counted as entry-level). Page: will not sponsor (F1-OPT, H-1B etc.).",
-  "confidence": "high"
+  "evidence": "SmartRecruiters 2026-10-07 (49, full): Technology Associate Program (2026-08-31) is now inactive (API active=false; TAP page expired). Open: Software Engineer - Member Experience Delivery, Associate level, requires 1+ yr, no sponsorship. Status changed from closed: old file excluded it as not entry-level; counted here per unlabeled-title rule.",
+  "confidence": "medium"
 }

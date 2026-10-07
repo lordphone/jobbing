@@ -1,7 +1,6 @@
 {
   "company": "John Deere",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,57 @@
       "date_source": "eightfold postedTs",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'work with experienced engineers... building your technical skills'; coursework/internship OK; $74,988-$112,476",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Engineer, Software",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482580263",
+      "location": "East Moline, IL",
+      "opened": "2026-09-01",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "no years asked; 'Collaborate with ... senior engineers'; $74,988-$112,476, same band as Software Developer",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://johndeere.eightfold.ai/careers/job/137480740906",
+      "location": "Iowa, US (no city listed)",
+      "opened": "2026-10-06",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'1 year of demonstrated experience'; $74,988-$112,476",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483241771",
+      "location": "Dubuque, IA",
+      "opened": "2026-10-07",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "no years asked; Bachelor's CS/EE; $74,988-$112,476",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2026-03-09",
   "last_cycle_basis": "tracker history: IT Development Program - Software Engineering (Des Moines/Chicago/Davenport) first seen 2026-03-09, a spring posting; fall 2025 postings were Data & Analytics Development Programs (2025-11-14)",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://johndeere.eightfold.ai/careers",
   "jobs_spec": "eightfold:johndeere.eightfold.ai/johndeere.com",
-  "evidence": "Eightfold API in browser 2026-10-06: Software Developer (East Moline) live, React/TypeScript, coursework or internships count, bachelor's in CS, 'VISA sponsorship NOT available'. Data & Analytics Development Program I/II (Moline, 2026-09-09) is data science/BI, not counted. Software Engineer II needs 3 yrs.",
-  "confidence": "medium"
+  "evidence": "Eightfold board 2026-10-07 (172 US) + posting API in browser: four entry-level-reading software roles live, all 'VISA Sponsorship is NOT available'. EDPs are non-software engineering; D&A Dev Program is BI. Part-time student roles and SWE II/Senior excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

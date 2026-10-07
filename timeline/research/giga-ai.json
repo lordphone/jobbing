@@ -1,7 +1,7 @@
 {
   "company": "Giga AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,20 +9,39 @@
       "url": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f",
       "location": "New York, NY",
       "opened": "2026-02-20",
-      "date_source": "ashby publishedAt",
+      "date_source": "ashby publishedAt (evergreen, rolling)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "early-career engineer, paired with senior engineers; 1-3 years of professional experience",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer I / II",
       "url": "https://jobs.ashbyhq.com/gigaml/96f0c2f8-3d97-4763-ab46-b6af6ad8b2e7",
       "location": "San Francisco, CA",
       "opened": "2025-05-14",
+      "date_source": "ashby publishedAt (evergreen, rolling)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "early-career engineer, paired with senior engineers; 1-3 years of professional experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Forward Deployed Engineer I/II",
+      "url": "https://jobs.ashbyhq.com/gigaml/ea4abfde-77d8-4a80-878b-c5132163c7f0",
+      "location": "San Francisco, CA",
+      "opened": "2026-06-12",
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Experience: 1+ years of experience; I/II level",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-02",
@@ -31,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gigaml",
   "jobs_spec": "ashby:gigaml",
-  "evidence": "2026-10-06: ashby:gigaml live in API and GraphQL: Software Engineer I / II (NYC, SF) early-career, paired with seniors, asks 1-3 yrs, no class year, rolling. Feb 2026 New Grads postings gone (GraphQL null). Page not opened in browser.",
+  "evidence": "Ashby API 2026-10-07 (32 postings): rolling Software Engineer I/II (NYC, SF; early-career, 1-3 yrs) and Forward Deployed Engineer I/II (SF, 1+ yrs); no class year or deadline. Feb 2026 New Grads postings gone. Not opened in browser.",
   "confidence": "medium"
 }

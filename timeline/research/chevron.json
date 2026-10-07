@@ -1,7 +1,7 @@
 {
   "company": "Chevron",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate 2026-07-16; tracker first seen 2026-07-15",
       "deadline": "2027-07-01",
       "grad_window": "degree by July 2027, or grads with <2 yrs experience",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://chevron.wd5.myworkdayjobs.com/University",
   "jobs_spec": "wd:chevron/wd5/University",
-  "evidence": "Workday CXS detail 2026-10-06: IT Software Engineer Full-Time (R000072400) canApply true, grads by July 2027 or <2 yrs exp; 'unable to sponsor employment Visas'. Not surfaced by keyword search but detail API live. Deadline is Workday endDate 2027-07-01, not a stated apply-by.",
-  "confidence": "medium"
+  "evidence": "Workday board lists it (36 postings, full); CXS detail 2026-10-07: canApply true, endDate 2027-07-01, degree by July 2027 or <2 yrs since degree; \"unable to sponsor employment Visas\". Other postings are non-SWE engineering and interns.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "PepsiCo",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's required, no years required; prefers 1 to 2 years; works alongside senior engineers",
+      "no_sponsorship": false
     },
     {
       "title": "Analytics Platform Engineer",
@@ -22,7 +25,10 @@
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'This entry-level role will contribute to platform development'; 1-2 years incl. internships",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-20",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://uscareers-pepsico.icims.com/jobs/search?searchKeyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "iCIMS mobile pages fetched 2026-10-06, both served with directApply true: SWE & App Arch Engineer (09-01, Bachelor's, prefers 1-2 yrs incl. internships) and Analytics Platform Engineer (09-08, 'entry-level role'), New York. No new-grad program; borderline entry roles.",
+  "evidence": "iCIMS posting pages fetched 2026-10-07: SWE & App Arch Engineer (posted 09-01) and Analytics Platform Engineer (09-08), New York, both show Apply; entry-level wording, no sponsorship statement. Dates from 2026-10-06 JSON-LD read. No formal new-grad program.",
   "confidence": "medium"
 }

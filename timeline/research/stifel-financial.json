@@ -1,15 +1,15 @@
 {
   "company": "Stifel Financial",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (builtin.com listing); no confirmed date",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS search (software, developer, technology, engineer; fetched) 2026-10-06: only Sr Full Stack Developer, Cloud/Security Engineer, Data Engineer III and IT service desk roles. No entry-level SWE or tech program; 2027 items are Venture Banking analysts.",
-  "confidence": "medium"
+  "evidence": "iCIMS search pages fetched 2026-10-07 (14 results per query, filters may be partial): tech roles are Sr Developer Full Stack, Cloud Engineer, Security Engineer/Architect, service desk; no entry-level SWE or tech program. Prior check same.",
+  "confidence": "low",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,5 +1,7 @@
 {
   "company": "DXC Technology",
+  "tier": 10,
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -7,20 +9,21 @@
       "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934",
       "location": "Connecticut, USA (no city listed)",
       "opened": "on or before 2026-09-18",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-20",
   "last_cycle_basis": "tracker: Associate Professional Application Programmer, Waterbury CT (first seen 2026-01-20)",
   "excluded_reason": "us person / itar",
+  "no_sponsorship": false,
   "jobs_page": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs",
   "jobs_spec": "wd:dxctechnology/wd1/dxcjobs",
-  "evidence": "Workday detail 2026-10-06: Analyst I Software Engineering (CT, posted 2026-09-18) says 'Must be a legal US Citizen on US Soil' and ITAR-compliant. Other US SWE roles are senior/mainframe. 2027 grad programs are NZ/Australia only.",
-  "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "Board list capped at 60; searched Workday API (406 total) for US entry roles. Only Analyst I Software Engineering (CT, startDate 2026-09-18): 'Must be a legal US Citizen on US Soil', ITAR-compliant. Other US SWE roles are Sr/mainframe.",
+  "confidence": "high"
 }

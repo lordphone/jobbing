@@ -1,7 +1,7 @@
 {
   "company": "Datalab USA",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Production Programmer - Entry Level SQL Developer",
@@ -22,7 +25,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.lever.co/datalabusa",
   "jobs_spec": "lever:datalabusa",
-  "evidence": "Lever API (14 postings) 2026-10-05, posting pages 200: two live entry-level Production Programmer / SQL Developer roles; \"NO sponsorship offered\". Borderline SWE (SQL/ETL programming); Apply button not viewed in a browser.",
+  "evidence": "Lever API full board (14 postings) 2026-10-07: two live entry-level Production Programmer / SQL Developer roles; 'NO sponsorship offered'. Borderline SWE (SQL/ETL programming); Apply button not viewed in browser.",
   "confidence": "medium"
 }

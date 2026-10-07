@@ -1,7 +1,7 @@
 {
   "company": "Pacific Life",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "first rotation starts July 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "18-month Technology Rotation Program, CS/IS/engineering degree preferred; IT rotation, not SWE-specific",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
   "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
-  "evidence": "Workday API + cxs 2026-10-06 (20): Technology Rotation Program Associate (18-month IT rotation, CS degree preferred, July 2027 start) posted 2026-09-25, canApply true. Borderline SWE: IT rotation, not SWE-specific. No deadline stated.",
+  "evidence": "Workday 2026-10-07 (116 postings, full) + posting read: Technology Rotation Program Associate (July 2027 start, posted 2026-09-25) still live with Apply; borderline SWE (IT rotation). Other engineering roles Senior/II; software internships Summer 2027 only.",
   "confidence": "medium"
 }

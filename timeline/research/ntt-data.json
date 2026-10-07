@@ -1,9 +1,22 @@
 {
   "company": "NTT DATA",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
+    {
+      "title": "Junior Developer",
+      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
+      "location": "Arlington, VA (remote)",
+      "opened": "2026-09-29",
+      "date_source": "page text (Date: Sep 29, 2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior title; text asks 3 yrs Python, 2 yrs dev; ability to obtain Public Trust",
+      "no_sponsorship": false
+    },
     {
       "title": "Junior Developer",
       "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425007800/",
@@ -12,7 +25,10 @@
       "date_source": "page text (Date: Sep 29, 2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior title; text asks 3 yrs Python, 2 yrs dev; ability to obtain Public Trust",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-02",
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "careers-inc search 2026-10-05: Junior Developer Arlington VA remote with Apply (lists 3+ yrs Python, Public Trust ability; not a security clearance). nttdata.eightfold.ai campus portal (last year's Pathways) was under maintenance, so no 2027 campus check.",
+  "evidence": "careers-inc search 2026-10-07 (software developer 360, junior developer, entry level, graduate): two Junior Developer reqs (Arlington VA remote, Sep 29) have Apply; 3 yrs Python asked, 'Public Trust' only (not a clearance). Campus entry-level list shows no SWE. Pathways Eightfold portal not checked.",
   "confidence": "low"
 }

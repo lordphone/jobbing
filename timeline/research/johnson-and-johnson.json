@@ -1,7 +1,7 @@
 {
   "company": "Johnson & Johnson",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-11",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Employer will accept a Master's degree in CS and 1 year of experience; duties not senior; pay $187,741-$193,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-01",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
   "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Workday API + detail 2026-10-06: Software Engineer DevOps (Santa Clara, Auris Health) still live, endDate 2026-10-11, master's + 1 yr, pay ~$188k so level borderline, not labeled new grad. RDLDP 2027 is R&D engineering, not SWE. Other US SWE roles senior/co-op.",
+  "evidence": "Workday board (280 postings) 2026-10-07: no new-grad titles; US software roles senior/co-op (SWE co-ops Spring/Summer 2027). Software Engineer DevOps (Auris, Santa Clara) not in list but CXS shows canApply true, close 2026-10-11; master's+1yr, ~$188k so borderline level.",
   "confidence": "low"
 }

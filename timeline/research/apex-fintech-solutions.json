@@ -1,7 +1,6 @@
 {
   "company": "Apex Fintech Solutions",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-14",
   "last_cycle_basis": "Tracker first-seen for 'Software Engineer I (ALDP)', Austin TX, marked 'Offers Sponsor'.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions",
   "jobs_spec": "wd:peak6group/wd1/apexfintechsolutions",
-  "evidence": "Workday 2026-10-06, ~24 titles over repeated pulls: no Software Engineer I; Platform Engineer asks 3-5 yrs. ALDP 'Software Engineer I - Shark' (tracker first seen 2026-08-25) is off the board and its Workday posting API returns 404, so closed.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-07 (45, full): no Software Engineer I. Data engineer (Austin) needs 2+ yrs and Platform Engineer 3-5 yrs, so not entry-level. ALDP Shark posting is off the board and its API returns 404, so closed.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

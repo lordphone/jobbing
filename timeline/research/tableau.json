@@ -1,7 +1,7 @@
 {
   "company": "Tableau",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen / Workday postedOn (repost shown as Posted Yesterday 2026-10-05)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-12",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "Salesforce Workday API 2026-10-06: college-grad Software Engineering AMTS JR355250 live, 7 US locations, no citizenship/deadline line. Salesforce-wide, not company-tagged. Tableau has no own board (Salesforce).",
+  "evidence": "Salesforce Workday API 2026-10-07 (1537 postings in full): Software Engineering AMTS (College Grad) JR355250-1 live, posted 2 days ago, 7 US locations, no citizenship/deadline line. Tableau has no board of its own; it posts on Salesforce's. Other early-career roles are non-US or non-SWE.",
   "confidence": "medium"
 }

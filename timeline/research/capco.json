@@ -1,56 +1,29 @@
 {
   "company": "Capco",
   "tier": 10,
-  "checked": "2026-10-06",
-  "status": "excluded",
+  "checked": "2026-10-07",
+  "status": "open",
   "postings": [
     {
-      "title": "Capco Associate Talent Program - Dallas Jan 2027",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/8152949",
-      "location": "Dallas, TX",
-      "opened": "2026-08-24",
+      "title": "AI Engineer",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/8258742",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-06",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "December 2026 graduate",
-      "live_verified": "api"
-    },
-    {
-      "title": "Capco Associate Talent Program - Dallas June 2027",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/8108838",
-      "location": "Dallas, TX",
-      "opened": "2026-08-24",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "June 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Capco Associate Talent Program - Houston June 2027",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/8108842",
-      "location": "Dallas, TX; Houston, TX",
-      "opened": "2026-08-24",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "June 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Capco Associate Talent Program - Houston Jan 2027",
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
-      "location": "Houston, TX",
-      "opened": "2026-02-17",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "Jan 2027",
-      "live_verified": "api"
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of relevant software, data, or AI engineering experience; no leadership or mentoring duties; no higher level in title",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-17",
-  "last_cycle_basis": "Tracker: Junior AI Engineer (Orlando, FL) first seen 2025-10-17, https://job-boards.greenhouse.io/capco/jobs/7335392; Associate Talent Program Dallas 2026-02-16.",
-  "excluded_reason": "green card",
+  "last_cycle_basis": "Tracker: Junior AI Engineer (Orlando, FL) first seen 2025-10-17, https://job-boards.greenhouse.io/capco/jobs/7335392",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/capco",
   "jobs_spec": "gh:capco",
-  "evidence": "Greenhouse API 2026-10-06 (714, --all): Associate Talent Program (Dallas/Houston, Jan/Jun 2027) says \"US Citizens or Permanent Residents ONLY\". Toronto dev roles (Backend Rust, Full Stack Python) are experienced; none entry-level.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board 2026-10-07 (701): Toronto AI Engineer (first published 2026-10-06, Apply live) requires 2+ yrs, no senior duties. Associate Talent Program (Dallas/Houston) is business consulting and says US Citizens or Permanent Residents ONLY. Other Toronto dev roles need 3-7 yrs.",
+  "confidence": "medium"
 }

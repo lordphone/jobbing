@@ -1,7 +1,7 @@
 {
   "company": "General Mills",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-10",
       "date_source": "workday startDate",
       "deadline": null,
-      "grad_window": "Dec 2026 or Spring 2027 grad; start Jan or Summer 2027",
-      "live_verified": "api"
+      "grad_window": "Grad date Dec 2026 or Spring 2027; start Jan 2027 or Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Campus Recruiting rotational program (two 12-month roles); full-time roles incl. Technical Analyst, Data Engineer, Platform Engineer, Machine Learning Engineer; base $90,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
   "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
-  "evidence": "2026-10-06 Workday CXS: Digital & Technology Associate rotational (Technical Analyst, Data/Platform/ML Engineer roles), canApply true, Dec 2026/Spring 2027 grads, no end date. Will not sponsor work visas.",
+  "evidence": "Workday full board 2026-10-07 (363 postings): Digital & Technology Associate rotational program (Minneapolis HQ) live, canApply true, no end date, 'will not sponsor applicants... for work visas'. Other tech roles are Powai Mumbai or senior. Rotational, not SWE-only.",
   "confidence": "high"
 }

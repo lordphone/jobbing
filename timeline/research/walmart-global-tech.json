@@ -1,15 +1,29 @@
 {
   "company": "Walmart Global Tech",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "(USA) Software Engineer II",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-II_R-2653356-1",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: 'Option 1: Bachelor's degree in computer science...' (or 3 yrs experience); pay from $104,000; Command & Control Center SRE-operations duties, no lead/mentor duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no new-grad SWE tracker history; FT new-grad hiring mostly via intern conversion",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
   "jobs_spec": "wd:walmart/wd504/WalmartExternal",
-  "evidence": "Workday API search 2026-10-06 (software engineer, I, II, early career, new grad, developer): US SWE are Senior/III/Staff/Distinguished or Summer 2027 SWE II intern (not counted). No US entry SWE live; new-grad hiring mostly via intern conversion.",
+  "evidence": "Workday CXS search 2026-10-07 (113 postings across software/new-grad queries): one US Software Engineer II (Sunnyvale CA, posted 2026-10-07, canApply true), bachelor's-only option, SRE/ops-flavored. Other US software roles are III/Senior/Staff or Summer 2027 interns. Level inferred; medium.",
   "confidence": "medium"
 }

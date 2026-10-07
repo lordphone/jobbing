@@ -1,7 +1,7 @@
 {
   "company": "IMC Trading",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,23 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating Sep 2026 – Jul 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Quant Performance Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823836101",
+      "location": "Chicago, IL",
+      "opened": "2026-08-27",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Graduating Sep 2026 – Jul 2027",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Current university student graduating between September 2026 – July 2027 (graduate performance-engineering role; borderline SWE)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-30",
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/imc",
   "jobs_spec": "gh:imc",
-  "evidence": "gh:imc API detail 2026-10-06: Graduate Software Engineer Chicago first_published 2026-07-01, updated 2026-10-06, grad window Sep 2026-Jul 2027. 'Software Engineer, Early Career' (Chicago) needs 1-3 yrs post-grad, not counted. Amsterdam/Aarhus non-US.",
+  "evidence": "gh:imc full board 2026-10-07 (175): Graduate SWE Chicago live, updated today. Quant Performance Engineer is a grad-window role, borderline SWE. 'Software Engineer, Early Career' needs 1-3 yrs post-grad, not counted. Amsterdam/Aarhus non-US.",
   "confidence": "high"
 }

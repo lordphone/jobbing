@@ -1,7 +1,7 @@
 {
   "company": "Shell plc (Shell USA)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "earlier file (postedOn 28 days before 2026-09-30); current Workday startDate 2026-10-01 is a repost",
       "deadline": "2027-02-01",
       "grad_window": "final year of study or <3 years experience; start months Feb and Aug 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Graduate programme (final year or <3 yrs); one posting covers Commercial, Technical, Trading & Supply, Information Digital Technologies and Finance; not SWE-specific",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "on or before 2026-06-13",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Workday cxs 2026-10-06: US Graduate Program 2027 live (canApply true, endDate 2027-02-01); one posting covers all functions incl. Information Digital Technologies, no SWE-specific req. Posting: temporary visas/sponsorship not eligible (some exceptions for PhD/Master's).",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-07 (136, full): US Graduate Program 2027 live (endDate 2027-02-01); one posting covers all functions incl. Information Digital Technologies, so SWE slots are uncertain. Other Houston tech roles need 8+ or 10+ yrs. Posting bars temporary visas; some PhD/Master's exceptions.",
+  "confidence": "low"
 }

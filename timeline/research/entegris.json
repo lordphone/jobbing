@@ -1,7 +1,7 @@
 {
   "company": "Entegris",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://entegris.wd1.myworkdayjobs.com/entegriscareers",
   "jobs_spec": "wd:entegris/wd1/entegriscareers",
-  "evidence": "Workday CXS 2026-10-06, full board (618): tracker Junior AI Engineer (Bedford MA, first seen 2026-08-05) is absent and its page returns not found. Remaining early roles are Leadership Development Program (engineering/supply chain), manufacturing, co-ops, not SWE.",
+  "evidence": "Workday full board 2026-10-07 (460) and a search for 'AI Engineer' (73): tracker Junior AI Engineer (Bedford MA, 2026-08-05) is gone; its CXS page returns 403, absent from search. Rest is Leadership Development Program (engineering), manufacturing, co-ops; not SWE.",
   "confidence": "medium"
 }

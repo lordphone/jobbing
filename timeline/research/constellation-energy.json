@@ -1,7 +1,7 @@
 {
   "company": "Constellation Energy",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.constellationenergy.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-06, 304 jobs: no Associate SWE-AI or Associate Data Scientist-AI; jobs/138264 returns 404 on page fetch (ids 138264, 138781 absent). Remaining: Manager SWE, analysts, 2027 interns.",
+  "evidence": "Jibe API 2026-10-07 (multiple keyword sweeps): no Associate SWE-AI or entry software role; only Manager SWE, analysts, 2027 interns. jobs/138264 and 138781 still 404 (page fetch), so the Aug-Sep Associate Software Engineer - AI postings are closed.",
   "confidence": "medium"
 }

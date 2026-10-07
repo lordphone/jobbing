@@ -1,7 +1,7 @@
 {
   "company": "Nutanix",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW",
       "location": "Vancouver, BC, Canada",
       "opened": "2026-09-25",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (page shows no date)",
+      "deadline": "about 2026-11-04 (page: 40 days from posting)",
       "grad_window": "Master's graduating by Dec 2026; start immediately or by Jan 2027",
       "live_verified": "browser",
-      "deadline": "about 2026-11-04 (page says 40 days from posting; posting first seen 2026-09-25)"
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Member of Technical Staff 1- Core Data Path",
@@ -20,9 +23,12 @@
       "location": "San Jose, CA",
       "opened": "on or before 2026-10-05",
       "date_source": "page text (no date shown)",
-      "grad_window": "BS CS; MTS 1 reads mid-level (distributed systems/storage experience), not labeled new grad; no visa sponsorship",
+      "deadline": null,
+      "grad_window": "BS CS required, no years stated; MTS 1 is the entry rung of the MTS ladder",
       "live_verified": "browser",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer 1 - OS Internals",
@@ -30,17 +36,20 @@
       "location": "San Jose, CA",
       "opened": "on or before 2026-10-05",
       "date_source": "page text (no date shown)",
-      "grad_window": "BS/MS CS, 1+ yrs (Software Engineer 1)",
+      "deadline": null,
+      "grad_window": "BS/MS CS, 1+ yrs",
       "live_verified": "browser",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": "Software Engineer 1; requires 1+ years; BS or MS CS",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-01",
   "last_cycle_basis": "tracker last-cycle first seen 2025-09-01 (worklist tracker_last_cycle)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/nutanix/search?c=Engineering",
   "jobs_spec": null,
-  "evidence": "Jobvite pages read 2026-10-06 (WebFetch): Vancouver Master's New Grad, MTS 1 Core Data Path and SWE 1 OS Internals show Apply; both San Jose roles say no visa sponsorship; Vancouver page says deadline 40 days from posting.",
+  "evidence": "Jobvite Engineering list (53 jobs) and postings read 2026-10-07 via WebFetch, Apply shown. Vancouver MTS (2-5 yrs), SWE AI Gateway (2-5), Flow dev (2-4), DevEx NKP (2-6) not counted; SJ Linux/Hypervisor MTS has no years stated, left out. SJ roles say no visa sponsorship.",
   "confidence": "medium"
 }

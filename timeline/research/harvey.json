@@ -1,7 +1,7 @@
 {
   "company": "Harvey",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Winter 2026 - Spring 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, New Grad (2027)",
@@ -22,7 +25,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Winter 2026 - Spring 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-22",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/harvey",
   "jobs_spec": "ashby:harvey",
-  "evidence": "Ashby API (331 postings) 2026-10-06: two live SWE New Grad (2027) postings, SF and NYC, published 2026-10-02; grad Winter 2026-Spring 2027. No citizenship, sponsorship or deadline line. Interns not counted.",
+  "evidence": "Ashby API full board (335) 2026-10-07: two live SWE New Grad (2027) postings, SF and NYC, published 2026-10-02, BS/MS graduating Winter 2026-Spring 2027, $165,000-$181,500. No citizenship, sponsorship or deadline text.",
   "confidence": "high"
 }

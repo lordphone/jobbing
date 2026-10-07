@@ -1,7 +1,7 @@
 {
   "company": "Wipro",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "careers.wipro.com RSS pubDate",
       "deadline": null,
       "grad_window": "Recent graduate of a STEM Master's program; no class year",
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "AI Developer (Entry Level)",
@@ -22,7 +25,10 @@
       "date_source": "careers.wipro.com RSS pubDate",
       "deadline": null,
       "grad_window": "Recent graduate of a STEM Master's program; no class year",
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Junior Forward Deployed Engineer",
@@ -32,7 +38,10 @@
       "date_source": "careers.wipro.com RSS pubDate",
       "deadline": null,
       "grad_window": "Recent graduate of a Master's program in CS/Engineering; 0-2 yrs; no class year",
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.wipro.com/search/?q=entry+level&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "careers.wipro.com RSS + posting pages 2026-10-06 (Apply now present): AI Developer (Entry Level) Charlotte/East Brunswick and Junior Forward Deployed Engineer Austin/Louisville/Plano, all posted 10-01; rolling, recent STEM Master's grad, 3.0 GPA. No sponsorship text seen. Cloud Administrator (Entry Level) Atlanta also open.",
-  "confidence": "high"
+  "evidence": "careers.wipro.com RSS 2026-10-07 plus posting pages (Apply now present): AI Developer (Entry Level) Charlotte NC and East Brunswick NJ, Junior Forward Deployed Engineer Austin TX (and Louisville, Plano), posted 10-01; recent STEM Master's grad, 3.0 GPA, rolling, no class year. No sponsorship text seen. Cloud Administrator (Entry Level) Atlanta not SWE.",
+  "confidence": "medium"
 }

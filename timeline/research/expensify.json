@@ -1,15 +1,15 @@
 {
   "company": "Expensify",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or company page found for last cycle; unknown.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
   "jobs_page": "https://jobs.ashbyhq.com/expensify",
   "jobs_spec": "ashby:expensify",
-  "evidence": "Ashby board 2026-10-06 (5 postings): enterprise account manager and channel sales only; no engineering roles.",
-  "confidence": "high"
+  "evidence": "Ashby board 2026-10-07 (5 postings, full): Enterprise Account Manager x3 and Channel Sales Manager x2 only; no engineering roles at all, so no entry-level SWE this cycle.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

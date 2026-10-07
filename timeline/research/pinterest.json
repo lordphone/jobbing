@@ -11,7 +11,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "degree expected by June 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
@@ -21,26 +24,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "PhD University Grad Machine Learning Engineer (USA)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
-      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA",
-      "opened": "2026-10-01",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-24",
-  "last_cycle_basis": "tracker history: 'Software Engineer University Grad', SF/Palo Alto/Seattle, first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+  "last_cycle_basis": "tracker history: 'Software Engineer University Grad', first seen 2025-09-24, https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.pinterestcareers.com",
   "jobs_spec": "gh:pinterest",
-  "evidence": "gh:pinterest API (174) 2026-10-06: University Grad SWE 2027 (first published 2026-10-01, SF/Remote US) plus Master's and PhD University Grad MLE listed. No citizenship/sponsorship exclusion.",
+  "evidence": "gh:pinterest full board (178) 2026-10-07: University Grad SWE 2027 and Master's UG MLE 2027 live, first published 2026-10-01. PhD UG MLE omitted (PhD-only). Toronto UG roles closed per tracker.",
   "confidence": "high",
-  "checked": "2026-10-06"
+  "checked": "2026-10-07"
 }

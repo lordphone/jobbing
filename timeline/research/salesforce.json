@@ -1,6 +1,7 @@
 {
   "company": "Salesforce",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,21 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
       "location": "San Francisco, CA; Palo Alto, CA; New York, NY; Seattle, WA; Bellevue, WA; Dallas, TX; Indianapolis, IN",
       "opened": "2026-08-05",
-      "date_source": "tracker first seen (workday postedOn is a repost: 'Posted Today', startDate 2026-10-05)",
+      "date_source": "tracker first seen (workday postedOn is a repost; startDate 2026-10-05)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-12",
-  "last_cycle_basis": "jobs.py history: 'Software Engineering AMTS \u2013 New Grad' first seen 2025-08-12 on Salesforce's own Workday board",
+  "last_cycle_basis": "jobs.py history: 'Software Engineering AMTS - New Grad' first seen 2025-08-12 on Salesforce's own Workday board",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "Workday API 2026-10-06: Software Engineering AMTS (College Grad) still listed in 7 US locations (postedOn repost; tracker first seen 2026-08-05). No citizenship/clearance/sponsorship or deadline lines.",
-  "confidence": "high",
-  "checked": "2026-10-06"
+  "evidence": "Workday board 2026-10-06/07 (1537, full): AMTS (College Grad) listed in 7 US cities, $110-153K, no clearance/sponsorship lines. Other US MTS ask 3+ yrs; Missionforce Associate FDE needs US citizen (excluded).",
+  "confidence": "high"
 }

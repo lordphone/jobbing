@@ -1,6 +1,7 @@
 {
   "company": "Netflix",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-12-05",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://explore.jobs.netflix.net/careers",
   "jobs_spec": null,
-  "evidence": "Netflix Eightfold apply/v2 API 2026-10-06: queries new grad/university/graduate/early career/entry level return no new-grad/entry SWE (only L4+ SWE roles). Last cycle's New Grad SWE appeared 2025-12-05; not_yet.",
-  "confidence": "medium",
-  "checked": "2026-10-06"
+  "evidence": "2026-10-07 browser, Netflix Eightfold API (95 engineering-keyword postings read): no new-grad/university/early-career SWE; only Winter 2027 PhD intern and L4+ roles (L4 is mid-level, not counted). Last cycle 'New Grad Software Engineer - 2026' appeared 2025-12-05, so not yet.",
+  "confidence": "high"
 }

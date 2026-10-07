@@ -1,7 +1,7 @@
 {
   "company": "Travelers",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Engineering Development Program (EDP) - Data Engineering",
@@ -22,7 +25,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer I",
@@ -32,7 +38,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I title; entry-level tier (posting lists 3 yrs preferred)",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer I (MERN, AWS)",
@@ -42,7 +51,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I title; entry-level tier (posting lists 3 yrs preferred)",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer I - Elixir, Python, AWS",
@@ -52,7 +64,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I title; entry-level tier (posting lists 3 yrs preferred)",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer I - MERN, AWS",
@@ -62,7 +77,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I title; entry-level tier (posting lists 3 yrs preferred)",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -71,6 +89,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://travelers.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:travelers/wd5/External",
-  "evidence": "Workday CXS search + detail 2026-10-06: EDP Software/Data Engineering and four Software Engineer I postings live, canApply true; no H-1B/TN/STEM OPT sponsorship. SWE I AI Agents (R-51943) and Data Engineer I SQL (R-52876) gone from search. No deadline.",
+  "evidence": "Workday CXS search + detail 2026-10-07: EDP Software/Data Engineering and four Software Engineer I postings still live, canApply true; none states a deadline; no H-1B/TN/STEM OPT sponsorship. Pure Data Engineer I roles not counted.",
   "confidence": "high"
 }

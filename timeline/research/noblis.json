@@ -1,26 +1,29 @@
 {
   "company": "Noblis",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "excluded",
+  "excluded_reason": "clearance",
   "postings": [
     {
-      "title": "Software Engineer (multi-level req incl. Entry Level)",
+      "title": "Software Engineer (multi-level req incl. Entry Level, 0 to 3 years)",
       "url": "https://careers.noblis.org/jobs/26643?icims=1",
       "location": "Philadelphia, PA",
       "opened": "2026-03-04",
-      "date_source": "page text (datePosted)",
+      "date_source": "page text datePosted (kept from earlier file); tracker first seen 2026-08-01",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker first seen 2026-08-01 (this cycle); no 2025 cycle found",
-  "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen 2026-08-01 (this cycle); no 2025 cycle found",
   "jobs_page": "https://careers.noblis.org",
   "jobs_spec": null,
-  "evidence": "Posting 26643 (Philadelphia), page loads 2026-10-06, datePosted 2026-03-04, 0-3 yrs tier: \"Active DoD Secret clearance or ability to achieve DoD Secret clearance and US citizenship\".",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-07: posting 26643 is live (Apply) and says \"Active DoD Secret clearance or ability to achieve DoD Secret clearance and US citizenship\". Other software listings (27825, 26962, 26761, 27954) are tagged Secret/Top Secret/TS-SCI or require citizenship.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "no_sponsorship": false
 }

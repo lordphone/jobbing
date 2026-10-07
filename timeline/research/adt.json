@@ -1,18 +1,21 @@
 {
   "company": "ADT",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Junior Software Engineer",
       "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021574",
       "location": "Irving, TX",
-      "opened": "2026-10-01",
-      "date_source": "oracle posted date (seen in list 2026-10-01 by earlier pass)",
+      "opened": "on or before 2026-10-06",
+      "date_source": "page text (no posted date shown; earlier pass saw it in list 2026-10-01)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Title 'Junior Software Engineer'; required: Bachelor's in CS or related, no years of experience asked",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle requisition API 2026-10-06: Junior Software Engineer 3021574 (Irving TX, hybrid, BS CS) still resolves; not in public list, no posted date (first seen 2026-10-01). No sponsorship (H-1B/TN/STEM OPT). Other SWE roles (iOS, Android, Full Stack) not entry-level.",
+  "evidence": "Oracle board (698) 2026-10-07: no entry-level SWE in public list; other SWE roles need 3+ yrs. Junior Software Engineer 3021574 (Irving TX) opened in browser: Apply Now shown, Java backend, no years required; posting says no sponsorship.",
   "confidence": "medium"
 }

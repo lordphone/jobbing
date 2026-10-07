@@ -1,15 +1,29 @@
 {
   "company": "American Family Insurance",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Technical Engineer (Hybrid)",
+      "url": "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Associate-Technical-Engineer--Hybrid-_R39566-1",
+      "location": "Madison, WI",
+      "opened": "on or before 2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": "2026-01-28",
   "last_cycle_basis": "kept from previous research file: Simplify tracker lead, Associate Salesforce Development Engineer, Madison",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://amfam.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:amfam/wd1/Careers",
-  "evidence": "Workday cxs POST 2026-10-06 (31 postings): Lead Guidewire Developer, senior/lead engineers, adjusters; no entry-level SWE. jobs.py board is flaky (returns 0-1). Entry associate dev reqs appear ad hoc (last Jan 2026).",
+  "evidence": "Workday full board (37) 2026-10-07: Associate Technical Engineer, Madison (posted 2026-10-06, canApply true, $69K-$115K): assists in developing software solutions, basic knowledge, no years required, 'sponsorship will not be considered'. Rest senior/lead. Cloud/tech-engineering, borderline SWE.",
   "confidence": "medium"
 }

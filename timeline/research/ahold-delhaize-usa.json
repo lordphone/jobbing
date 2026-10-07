@@ -1,15 +1,15 @@
 {
   "company": "Ahold Delhaize USA",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; only co-ops seen.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no tracker record. Tech co-ops (Software Development, AI/ML Engineer, Mobile, Distribution co-ops) posted 2026-08-31 are student roles.",
   "jobs_page": "https://aholddelhaizeusa.careerswithus.com/",
   "jobs_spec": null,
-  "evidence": "Own board JSON API 2026-10-06 (searches: software, developer, ML, data engineer, graduate, early career): software roles are Staff/Principal/III-IV; entry tech are Software Development, AI/ML, Mobile and Distribution co-ops (students only). No entry full-time SWE.",
-  "confidence": "high"
+  "evidence": "Careers site API (appvault requisitions, all 233 postings) read 2026-10-07: software roles are Staff/Principal/III-IV; entry tech roles are Co-Ops and Internships only. No entry full-time SWE or new-grad program.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

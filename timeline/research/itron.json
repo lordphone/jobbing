@@ -1,15 +1,15 @@
 {
   "company": "Itron",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: nothing in 2025-07..2026-01",
+  "last_cycle_basis": "jobs.py history: no tracker postings; no university-recruiting SWE program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://itron.wd5.myworkdayjobs.com/itron",
   "jobs_spec": "wd:itron/wd5/itron",
-  "evidence": "Workday API paged in full 2026-10-06 (65 postings): US roles are 2027 interns (finance, firmware, data science, sales), Associate R&D Technician, architects, seniors; entry SWE roles are India/Indonesia only. No US entry software posting.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-07 (63): US engineering roles are Systems Test (West Union SC), AI Manufacturing Eng, Sr roles; DevOps Chicago needs 4+ yrs. US entry roles are Summer/Spring 2027 interns only; all Software roles are India/Hungary/Israel Sr/Staff.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

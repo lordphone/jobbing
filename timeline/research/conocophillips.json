@@ -1,7 +1,7 @@
 {
   "company": "ConocoPhillips",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-09",
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
-      "grad_window": "Fall 2026 – Spring/Summer 2027",
-      "live_verified": "api"
+      "grad_window": "Fall 2026 \u2013 Spring/Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Graduate program, Fall 2026-Summer 2027 graduates; IT/Digital rotation (AI & data, apps), not SWE-specific",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://conocophillips.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:conocophillips/wd1/External",
-  "evidence": "Workday API+page 2026-10-06: Graduate, Information Technology 2027 live (Digital Rotation Program: AI & Data, apps; CS degree), apply by Oct 31 2026; says employment sponsorship NOT available. Engineering grad req is non-software.",
+  "evidence": "Workday board 2026-10-07 (49 postings, full) + posting read: Graduate, Information Technology 2027 live, apply by Oct 31 2026; says sponsorship for employment authorization not available. Graduate Engineering and Trading Analytics are non-software.",
   "confidence": "medium"
 }

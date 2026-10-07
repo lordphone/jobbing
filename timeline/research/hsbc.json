@@ -1,7 +1,6 @@
 {
   "company": "HSBC",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-06: find-a-programme (118 results) lists UK, France, Poland, APAC only (Engineering Graduate in Sheffield/Krakow); no US or Canada programme. Earlier browser check found only a US Markets graduate role.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-07: find-a-programme (117 results, all loaded) lists UK, Poland, France, HK, Taiwan, China only. apply.careers.hsbc.com US search (software, engineer, graduate, analyst, developer) shows only experienced roles (e.g. Python Specialist Engineering); no US/Canada grad SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

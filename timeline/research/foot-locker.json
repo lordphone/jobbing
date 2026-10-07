@@ -1,7 +1,7 @@
 {
   "company": "Foot Locker (part of Dick's Sporting Goods)",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-05",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.footlocker.com",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-06 (keyword searches): live engineer roles are Sr/Lead; Associate Software Engineer - Merchandise Technology (req 71916, first seen 2026-09-15) not listed and page 404, so closed.",
-  "confidence": "medium"
+  "evidence": "Jibe API 2026-10-07 (keywords engineer/software/developer/associate): live tech roles need 3+ yrs or are Sr/Lead. Associate Software Engineer - Merchandise Technology (req 71916, first seen 2026-09-15) is not listed and its page returns 404, so closed.",
+  "confidence": "high"
 }

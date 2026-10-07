@@ -1,15 +1,29 @@
 {
   "company": "Koch Inc. (Koch Industries)",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Flint Hills Resources, HIPE team)",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Software-Engineer/195062",
+      "location": "Wichita, KS",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no posted date shown; seen live with Apply button 2026-10-07)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualification: '2+ years of professional software engineering experience'; no leadership or mentoring duties",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://koch.avature.net/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Koch Avature 2026-10-06 (404 'software engineer' results): Wichita Software Engineer 195062 (2+ yrs) and 194348 are mid-level, both 'not eligible for visa sponsorship'. No new-grad program or Associate SWE found; only Summer 2027 interns.",
-  "confidence": "medium"
+  "evidence": "Koch Avature 2026-10-07 (software/developer/data/AI/cloud queries): Wichita Software Engineer 195062 requires only 2+ yrs, full-stack, no leadership duties, no visa sponsorship; counted as borderline entry. Other SWE roles need 3-5+ yrs or are non-US; Cloud Engineer 194957 (entry-welcome) is infra ops, left out; no new-grad SWE program.",
+  "confidence": "low"
 }

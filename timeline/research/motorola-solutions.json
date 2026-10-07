@@ -1,15 +1,42 @@
 {
   "company": "Motorola Solutions",
   "tier": 7,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Jr. Software Engineer, AI Agent Platform",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
+      "location": "Remote (Ontario, Canada); Remote (British Columbia, Canada) (no city listed)",
+      "opened": "2026-10-05",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Posting: 'Position Type New Grad'; 'We don't expect you to have shipped production systems'; Hyper (Motorola) AI Agent Platform team",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Android Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+      "location": "Plantation, FL",
+      "opened": "2026-09-10",
+      "date_source": "tracker first seen (Workday startDate 2026-10-06)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Posting: 'Position Type New Grad'; requires 1+ years Android; $73,800 - $97,600 (but text says 'mentor at heart')",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-08-19",
   "last_cycle_basis": "tracker first-seen for 'Entry Level Software Engineer' (Schaumburg/Chicago, IL)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:motorolasolutions/wd5/Careers",
-  "evidence": "Workday API 2026-10-06: US roles are 2027 interns, senior/mentor-level (Plantation Android SWE, SLC SWE no-sponsorship) or Silvus US-person; junior SWE reqs are Gatineau/Ottawa/remote Canada, not Toronto/Vancouver; graduate SWE is UK/Malaysia. Not open.",
+  "evidence": "Workday API 2026-10-07 (280 postings, full): Jr. SWE AI Agent Platform (Position Type New Grad; Ontario/BC remote, not a named Toronto/Vancouver) and Plantation FL Android SWE (New Grad type, 1+ yrs, low pay, mentor wording) counted. Changed from not_yet: both read in full this run.",
   "confidence": "medium"
 }

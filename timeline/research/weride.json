@@ -1,7 +1,7 @@
 {
   "company": "WeRide",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": "Dec 2026 - Jun 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
@@ -22,7 +25,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": "Dec 2026 - Jun 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-19",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/weride",
   "jobs_spec": "lever:weride",
-  "evidence": "Lever API (17 postings) lists two New Grads 2027 San Jose postings (created 2026-08-10); both pages opened 2026-10-06 with Apply button. Grad window Dec 2026 - Jun 2027; no citizenship, clearance or sponsorship text, no deadline. Two China-based 2026 postings ignored.",
+  "evidence": "Lever API (17 postings) 2026-10-07: two New Grads 2027 San Jose postings (created 2026-08-10) live; grad window Dec 2026 - Jun 2027; no citizenship, clearance or sponsorship text, no deadline. Older unlabeled SWE reqs ask 3+ yrs; China 2026 postings ignored.",
   "confidence": "high"
 }

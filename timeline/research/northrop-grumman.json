@@ -1,9 +1,35 @@
 {
   "company": "Northrop Grumman",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
+    {
+      "title": "2027 - Associate Cyber Software Engineer - Cincinnati OH",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027---Associate-Cyber-Software-Engineer---Cincinnati-OH_R10254990-1",
+      "location": "Cincinnati, OH",
+      "opened": "2026-10-07",
+      "date_source": "workday postedOn/startDate",
+      "deadline": "2026-10-10",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Level 1/2)",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer--Level-1-2-_R10251286",
+      "location": "El Segundo, CA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-13",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "Associate Software Engineer / Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088",
@@ -21,6 +47,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site",
   "jobs_spec": "wd:ngc/wd1/Northrop_Grumman_External_Site",
-  "evidence": "Workday 2026-10-06: Huntsville Associate SWE live; text 'Active Secret Clearance' and 'U.S. Citizenship is required for all positions with a government clearance'. Melbourne 2027 Associate SWE now 'page doesn't exist' (closed); Rolling Meadows and McClellan postings also gone (403). Re-checked 2026-10-06: remaining SWE postings all state clearance/U.S. citizenship.",
+  "evidence": "Workday 2026-10-07: new 2027 Associate Cyber SWE (Cincinnati) says 'US Citizenship and ability to obtain and maintain a Top Secret clearance'; El Segundo SWE 1/2 needs Secret; 'U.S. Citizenship is required for all positions with a government clearance'. Huntsville Associate SWE also clearance.",
   "confidence": "high"
 }

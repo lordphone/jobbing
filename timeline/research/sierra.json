@@ -1,7 +1,7 @@
 {
   "company": "Sierra",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-01",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Sierra",
   "jobs_spec": "ashby:Sierra",
-  "evidence": "Ashby API (197 postings) 2026-10-06: live Software Engineer, Agent (New Grad 2027) SF and NYC, published 2026-08-31 (Singapore duplicate not counted). APX (New Grad 2027) is not SWE. No citizenship or deadline line.",
+  "evidence": "Ashby API 2026-10-07 (198 postings, full): live Software Engineer, Agent (New Grad 2027) SF and NYC, published 2026-08-31 (Singapore duplicate excluded). APX (New Grad 2027) not SWE. No citizenship line or deadline.",
   "confidence": "high"
 }

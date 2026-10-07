@@ -1,15 +1,15 @@
 {
   "company": "Amadeus (US)",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history of US new-grad SWE roles",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; grad programs are in Europe/India",
   "jobs_page": "https://amadeus.wd502.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:amadeus/wd502/jobs",
-  "evidence": "Workday API 2026-10-06 (43 postings, --all): only entry SWE is Manila; others Erding/Nice/Bogota. US roles are sales/non-engineering (Miami, Dallas, Irving architect). No entry SWE in US/Toronto/Vancouver.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-07 (120 postings, full): entry SWE roles are in Erding, Manila/Taguig, Bogota, Nice, Bangalore; only US roles are BI Data Acquisition Analyst (Atlanta) and Head of Industry and Government Affairs (Miami). No US, Toronto or Vancouver SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

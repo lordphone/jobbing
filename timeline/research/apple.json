@@ -1,27 +1,34 @@
 {
   "company": "Apple",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
-      "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200677645/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
       "location": "Austin, TX",
       "opened": "2026-08-12",
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Frontend Engineer, EE&P - IS&T Early Career",
-      "url": "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career",
+      "url": "https://jobs.apple.com/en-us/details/200676168/frontend-engineer-ee-p-is-t-early-career",
       "location": "Austin, TX",
       "opened": "2026-08-10",
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
@@ -31,7 +38,23 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-2 years of experience in software engineering'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Core OS Software Engineer - USB4/Thunderbolt",
+      "url": "https://jobs.apple.com/en-us/details/200687151/core-os-software-engineer-usb4-thunderbolt",
+      "location": "Cupertino, CA",
+      "opened": "2026-10-07",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "required: C/C++, CS fundamentals, bachelor's; preferred: 'internship, co-op, or university lab experience'; 'partner closely with senior mentors'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -40,7 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.apple.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: reopened IS&T Early Career AiDP Reliability SWE (Aug 12), IS&T Early Career Frontend (Aug 10), both Austin, and Cellular Power Optimization SWE (Jul 30, San Diego, 0-2 yrs): all live with apply control, no citizenship/clearance text.",
-  "confidence": "high",
-  "checked": "2026-10-06"
+  "evidence": "Apple jobs search API + detail pages 2026-10-07: IS&T Early Career AiDP Reliability SWE opened and Apply present; Frontend (Aug 10) and Cellular Power (0-2 yrs) still return via API; added unlabeled Core OS USB4 SWE. Full board too large to enumerate; other entry-level reqs may exist.",
+  "confidence": "medium"
 }

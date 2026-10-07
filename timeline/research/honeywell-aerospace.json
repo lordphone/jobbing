@@ -1,7 +1,7 @@
 {
   "company": "Honeywell Aerospace",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -10,9 +10,12 @@
       "location": "United States (multiple locations; no city listed)",
       "opened": "2026-08-31",
       "date_source": "oracle posted",
-      "deadline": null,
+      "deadline": "estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)",
       "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Information Systems, Cyber Engineer & Data Science Full Time Employee - Recent Grad 2027",
@@ -20,9 +23,12 @@
       "location": "United States (multiple locations; no city listed)",
       "opened": "2026-08-31",
       "date_source": "oracle posted",
-      "deadline": null,
+      "deadline": "estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)",
       "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-26",
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/jobs",
   "jobs_spec": "oracle:icfcjb.fa.ocs.oraclecloud.com/Aerospace",
-  "evidence": "Aerospace Oracle board (174) 2026-10-06: Recent Grad 2027 SWE (120524) posted 2026-08-31, opened in browser with Apply; text says unable to consider applicants needing sponsorship; no citizenship text (separate 'U.S. Person Required' SWE 120265 exists). No deadline.",
+  "evidence": "Oracle API + browser 2026-10-07: Recent Grad 2027 SWE (120524) shows Apply Now; IS/Cyber/Data Science (120511) via API. Both say no sponsorship, no citizenship text. Sibling 120265 and SWE I Clearwater 125642 require US citizen/person (excluded). Honeywell Building Automation SWE I Duluth (157925) is a different business, not counted.",
   "confidence": "high"
 }

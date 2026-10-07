@@ -1,28 +1,34 @@
 {
   "company": "ID.me",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": "Graduating May/June 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false,
       "title": "Summer 2027- Software Development Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
       "location": "Mountain View, CA",
       "opened": "2026-09-04",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "Graduating May/June 2027",
-      "live_verified": "browser"
+      "date_source": "greenhouse first_published"
     },
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false,
       "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
       "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
       "location": "Mountain View, CA",
       "opened": "2026-10-05",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "date_source": "greenhouse first_published"
     }
   ],
   "last_cycle_opened": "2025-11-12",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/idmeuniversityrecruiting",
   "jobs_spec": "gh:idmeuniversityrecruiting",
-  "evidence": "Opened SDE New Grad page: Apply button live (published 2026-09-04). Developer Portal New Grad/Early Career SWE II listed on idme board. Earlier Life Hub SWE II posting now redirects (gone). No citizenship line found.",
+  "evidence": "gh:idmeuniversityrecruiting and gh:idme 2026-10-07: SDE New Grad (grad May/June 2027) and Developer Portal New Grad/Early Career SWE II listed via API; no citizenship text. Life Hub SWE II posting is gone.",
   "confidence": "high"
 }

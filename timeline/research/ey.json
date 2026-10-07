@@ -1,7 +1,7 @@
 {
   "company": "EY",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Analyst; requires 'a predicted undergraduate or graduate degree'; $100,000-$125,000",
+      "no_sponsorship": false
     },
     {
       "title": "SDC Front End Engineer - Analyst (min 1 yr experience)",
@@ -22,7 +25,10 @@
       "date_source": "page text (WebFetch)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Analyst; requires 'a minimum of 1 year of experience in technology software development'; Bachelor's",
+      "no_sponsorship": false
     },
     {
       "title": "Service Delivery Center - Full Stack Developer: Financial Services - Analyst (min 1 yr experience)",
@@ -32,7 +38,10 @@
       "date_source": "page text (WebFetch)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Analyst; requires 'a minimum of 1 year of experience in technology software development'; Bachelor's",
+      "no_sponsorship": false
     },
     {
       "title": "USA - Tax - TTT - Data Engineering - Analyst (data/ETL, borderline)",
@@ -42,17 +51,23 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Analyst; 'predicted undergraduate or graduate degree'; $78,000-$94,000 (data engineering, borderline for SWE)",
+      "no_sponsorship": false
     },
     {
-      "title": "Back-end .NET Developer (Toronto, entry-to-mid; no years stated)",
+      "title": "Back-end .NET Developer",
       "url": "https://careers.ey.com/ey/job/Toronto-Back-end-_net-Developer-ON-M5H-0B3/1418865833/",
       "location": "Toronto, ON",
       "opened": "on or before 2026-07-24",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires a CS degree, no years stated; 'eager to learn, grow'; entry-level developer wording",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-16",
@@ -61,6 +76,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: TTT AI Analyst and TTT Data Engineering Analyst (yello) show APPLY, 'predicted degree', 'Immigration sponsorship may be available'; SDC Front End (Sep 15), SDC Full Stack (Sep 9) and Toronto .NET Dev (reposted Oct 3) show Apply now. Rolling, no deadlines, no class-year program.",
+  "evidence": "Re-opened posting pages 2026-10-07 (yello and careers.ey.com), all show apply: TTT AI Analyst, TTT Data Engineering Analyst, SDC Front End (Sep 15), SDC Full Stack (Sep 9), Toronto .NET (reposted Oct 3). 'Immigration sponsorship may be available'. Rolling, no deadlines. San Antonio AI Solution Developer needs secret clearance, excluded.",
   "confidence": "medium"
 }

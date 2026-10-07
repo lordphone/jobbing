@@ -1,15 +1,15 @@
 {
   "company": "Consolidated Edison (Con Edison)",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker 'Associate IT BSD OMS Team' first seen 2025-12-11 (NYC); not a SWE role, not counted",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker shows IT associate roles (Associate IT BSD OMS Team NYC 2025-12-11, Associate GIS Analyst 2026-03-13) but not clearly software engineering",
   "jobs_page": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033",
   "jobs_spec": "oracle:ejcu.fa.us6.oraclecloud.com/CX_1033",
-  "evidence": "Oracle API --all 2026-10-06 (36 postings): IT roles are Computer Aide co-op, IT vendor mgmt, FinOps Engineer, Maximo analyst, data product owner; Management Associate LDP; SCADA associate is electrical engineering. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Oracle full board (54) read 2026-10-07: entry roles are electric-power engineering Associates, a Leadership Development Program and IT Computer Aide co-op; IT roles are Maximo analyst, FinOps engineer, vendor mgmt. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

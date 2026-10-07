@@ -1,7 +1,7 @@
 {
   "company": "Citizens (Citizens Financial Group)",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027 graduation (start 2027-06-28)",
-      "live_verified": "api"
+      "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Data Engineer | Enterprise Technology & Security Development Program",
@@ -21,16 +24,19 @@
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Spring 2027 graduation (start 2027-06-28)",
-      "live_verified": "api"
+      "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board)",
+  "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board job 41913)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "ETS Development Program reqs 49290/49291 absent from the Oracle list (14) but Oracle REST requisition detail returns both 2026-10-06 (Category Student & Recent Graduates); browser pane unavailable, apply page seen live 2026-10-05. Spring 2027 grads; permanent work authorization required, no CPT/OPT/visa sponsorship.",
-  "confidence": "medium"
+  "evidence": "Oracle list (455, full) omits the ETS Development Program reqs, but both pages opened in browser 2026-10-07 show full descriptions and Apply Now. Spring 2027 grads; text says permanent work authorization required and no CPT/OPT/visa sponsorship.",
+  "confidence": "high"
 }

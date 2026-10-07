@@ -1,7 +1,7 @@
 {
   "company": "Dexcom",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-01-21",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://dexcom.wd1.myworkdayjobs.com/Dexcom",
   "jobs_spec": "wd:dexcom/wd1/Dexcom",
-  "evidence": "Workday Dexcom 2026-10-06: SDE 1 postings (San Diego 2026-08-03, Remote US 2026-08-12) absent from board; remote req URL 404s. Only Software QA Engineer 2 and non-US SDE 1 (Bengaluru) remain. Previous run saw San Diego page gone in browser.",
+  "evidence": "Workday CXS searches 2026-10-07: SDE 1 postings (San Diego 2026-08-03, Remote US 2026-08-12) absent from board; San Diego posting API returns permission denied. Only Software QA Engineer 2, Staff SWE and non-US SDE 1 (Bengaluru) remain.",
   "confidence": "medium"
 }

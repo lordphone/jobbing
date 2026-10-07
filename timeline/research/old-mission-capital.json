@@ -1,7 +1,7 @@
 {
   "company": "Old Mission Capital",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2027 graduates, August start",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-14",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/oldmissioncapital",
   "jobs_spec": "gh:oldmissioncapital",
-  "evidence": "gh:oldmissioncapital (39 jobs) and Greenhouse API detail 2026-10-06: 2027 Graduate Program SWE live, first published 2026-07-13, Chicago. Junior Trading Ops/DevOps Engineer is ops-focused, not counted. No deadline, citizenship or sponsorship line.",
+  "evidence": "gh:oldmissioncapital (38, full) and API detail 2026-10-07: 2027 Graduate Program SWE live, first published 2026-07-13, Chicago. Junior Trading Ops/DevOps Engineer (2026-09-08) is ops, not counted. No deadline, citizenship or sponsorship line.",
   "confidence": "high"
 }

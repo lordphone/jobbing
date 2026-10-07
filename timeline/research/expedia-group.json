@@ -11,7 +11,10 @@
       "date_source": "workday startDate (tracker first seen 2026-10-01)",
       "deadline": "2026-11-01",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-12",
@@ -20,7 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://expedia.wd108.myworkdayjobs.com/search",
   "jobs_spec": "wd:expedia/wd108/search",
-  "evidence": "Workday API search + detail 2026-10-06: SDE I Vancouver live (startDate 2026-10-02, endDate 2026-11-01). Only SDE I of 113 postings; US roles are SDE II/III/Senior. Missing from jobs.py board list, found by search.",
-  "confidence": "medium",
-  "checked": "2026-10-06"
+  "evidence": "Workday API list + search + detail 2026-10-07: SDE I Vancouver live (startDate 2026-10-02, endDate 2026-11-01; CAD 65.5K-92K). Only SDE I of 173 postings; Seattle SDE roles are II/III/Senior.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

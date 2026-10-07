@@ -1,7 +1,7 @@
 {
   "company": "Lincoln Financial",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; bachelors + typically 1 to 3 years of relevant experience",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: Associate Data Engineer, AI Data Products (Sep 25 2026, req 76676) shows Apply now; 1-3 yrs, bachelor's, no class year; borderline SWE (AI data engineering). Sr Assoc Software Engineer is senior-associate, not counted. Entry-level page lists 9 non-tech jobs.",
-  "confidence": "medium"
+  "evidence": "WebFetch 2026-10-07 of careers search (37 tech hits) and posting pages: Associate Data Engineer, AI Data Products (req 76676, Sep 25 2026) shows Apply now; bachelor's + 1-3 yrs; Python/FastAPI services. Sr Assoc Software Engineer (1-3+ yrs, deadline 2/1/27) is senior-associate level, not counted. Borderline SWE.",
+  "confidence": "medium",
+  "jobs_spec_basis": "SuccessFactors site, no API; careers search pages read via WebFetch"
 }

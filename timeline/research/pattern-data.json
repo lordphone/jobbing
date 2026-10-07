@@ -1,7 +1,7 @@
 {
   "company": "Pattern Data",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -9,18 +9,21 @@
       "url": "https://job-boards.greenhouse.io/patterndata/jobs/5196699007",
       "location": "Richmond, VA",
       "opened": "2026-07-27",
-      "date_source": "greenhouse first_published",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-29",
-  "last_cycle_basis": "tracker first seen Software Engineer 1 https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
+  "last_cycle_basis": "tracker first seen Software Engineer 1 https://job-boards.greenhouse.io/patterndata/jobs/5012589007; also Software Engineer - Entry 2026-03-27",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/patterndata",
   "jobs_spec": "gh:patterndata",
-  "evidence": "Greenhouse API 2026-10-06 lists only 3 postings, none entry-level; browser opened the 2026-07-27 Software Engineer - Entry URL and was redirected to board with error=true (gone). Earlier file had it open on 2026-10-05.",
+  "evidence": "Greenhouse API 2026-10-07 lists 3 postings (only a Senior-Staff SWE, an AE, a CSM); the 2026-07-27 Software Engineer - Entry URL redirected to the board with error=true in browser (gone). Rolling hirer: reposts entry SWE periodically.",
   "confidence": "high"
 }

@@ -1,18 +1,20 @@
 {
   "company": "Disney",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Assoc Software Engineer",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Assoc-Software-Engineer_10161302",
-      "location": "Glendale, CA; Orlando, FL",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate (Posted Today)",
-      "deadline": "2026-10-08 (workday endDate)",
+      "title": "Product Software Engineer I",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-I_10157015-2",
+      "location": "New York, NY; Seattle, WA; San Francisco, CA",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-08",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareerdc",
-  "evidence": "Workday API 2026-10-06: Assoc Software Engineer (Req 10161302, full-stack, Glendale/Orlando) live, canApply true, endDate 2026-10-08, 1+ yr preferred, no sponsorship/citizenship line. Other US SWE are II/Sr or 3+ yrs; Graduate Associate Spring 2027 is internship.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-07 (120, full): Product Software Engineer I live, canApply true, endDate 2026-10-08, no citizenship or sponsorship line. Prior Assoc Software Engineer (Glendale/Orlando, endDate 10-08) no longer on board list; page lookup 403, so unverified. Other SWE are II/Sr/Lead or 3+ yrs.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

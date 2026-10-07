@@ -1,15 +1,16 @@
 {
   "company": "Wizards of the Coast",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found; company careers page lists internships only, no new-grad program",
   "jobs_page": "https://job-boards.greenhouse.io/hasbro",
   "jobs_spec": "gh:hasbro",
-  "evidence": "Hasbro Greenhouse API 2026-10-06, 123 postings: SWE roles Lead/Principal/Senior; Associate roles are design/brand/product; no entry SWE (WotC posts under Hasbro).",
-  "confidence": "high"
+  "jobs_spec_basis": "company.wizards.com/en/careers open-roles link goes to job-boards.greenhouse.io/hasbro",
+  "evidence": "Hasbro Greenhouse (118 postings, full) 2026-10-07: SWE roles are Principal/Senior/SDE II (D&D Beyond); Full Stack AI Character Platform is Montreal only. No entry-level SWE in US, Toronto or Vancouver.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

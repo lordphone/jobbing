@@ -1,7 +1,7 @@
 {
   "company": "TIAA",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,8 +9,8 @@
       "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Technology_R260900410",
       "location": "Charlotte, NC; Dallas, TX",
       "opened": "2026-09-28",
-      "date_source": "workday startDate/postedOn (first read Posted Today 2026-09-28; API startDate now 2026-09-29)",
-      "deadline": null,
+      "date_source": "workday startDate/postedOn (first read Posted Today 2026-09-28; API startDate refreshed 2026-10-07)",
+      "deadline": "2026-10-08",
       "grad_window": "Bachelor's; start Jan 2027 or Jul 2027",
       "live_verified": "api"
     }
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://tiaa.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:tiaa/wd1/Search",
-  "evidence": "Workday board+API 2026-10-06: 2027 Early Talent Rotational Program: Technology (Charlotte, Dallas) listed, startDate 2026-09-29, no end date; no sponsorship/citizenship line. Matches prior file.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-07: 2027 Early Talent Rotational Program: Technology (Charlotte, Dallas) listed, canApply true, API endDate 2026-10-08, bachelor's, no experience required, start Jan or Jul 2027. Other US tech reqs are 5+ yrs.",
+  "confidence": "high"
 }

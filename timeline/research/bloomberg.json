@@ -1,18 +1,21 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "2027 Software Engineer - New York",
       "url": "https://bloomberg.avature.net/careers/JobDetail/21414",
       "location": "New York, NY",
-      "opened": "on or before 2026-10-05",
+      "opened": "on or before 2026-10-07",
       "date_source": "page text (no posted date shown)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-25",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "2026-10-06 fetch: unlisted JobDetail/21414 '2027 Software Engineer - New York' still shows Apply Now (two buttons); page text shows no description, dates or sponsorship, so may be a pre-staged shell. Keyword search had listed nothing 2026-10-05. Verify manually.",
+  "evidence": "WebFetch 2026-10-07: unlisted JobDetail/21414 '2027 Software Engineer - New York' still shows Apply Now but no description/dates/sponsorship text; not in 2027 keyword search (US SWE absent). Page not read in browser; verify manually.",
   "confidence": "low"
 }

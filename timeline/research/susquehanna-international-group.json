@@ -1,36 +1,42 @@
 {
   "company": "Susquehanna International Group (SIG)",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Quantitative Strategy Developer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job",
-      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "location": "Bala Cynwyd, PA",
       "opened": "2026-08-19",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Graduate and start full-time by Aug 2027",
-      "live_verified": "browser"
+      "grad_window": "Intention to graduate and begin full-time by Aug 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Trading System Engineer - New Grad",
       "url": "https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job",
-      "location": "Bala Cynwyd (Philadelphia Area), PA",
+      "location": "Bala Cynwyd, PA",
       "opened": "2026-08-21",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Graduate and start full-time by Aug 2027",
-      "live_verified": "browser"
+      "grad_window": "Intention to graduate and begin full-time by Aug 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-26",
-  "last_cycle_basis": "tracker history first seen 2025-08-26",
+  "last_cycle_basis": "tracker history first seen 2025-08-26 (careers-sig.icims.com/jobs/9716 Software Developer New Grad)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-sig.icims.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: both iCIMS postings (11321, 11349) show 'Apply for this job online', Bala Cynwyd PA, begin full-time by Aug 2027; no citizenship/sponsorship/deadline text. Opened from tracker first seen 2026-08-19/21.",
-  "confidence": "high"
+  "evidence": "iCIMS new-grad search 2026-10-07 lists 5 jobs; 11321 and 11349 pages read (WebFetch) show Apply button, Bala Cynwyd PA, Aug 2027 start, no citizenship/sponsorship text. Others are Linux/Network/recruiter.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

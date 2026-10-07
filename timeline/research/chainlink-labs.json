@@ -1,7 +1,7 @@
 {
   "company": "Chainlink Labs",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/chainlink-labs",
   "jobs_spec": null,
-  "evidence": "Opened Ashby board in browser (24 jobs): senior engineers; SWE Data Feeds/Data Growth list only LatAm locations; no US/Canada entry-level SWE. SWE 1 posting no longer listed.",
-  "confidence": "medium"
+  "evidence": "Ashby board JSON (public posting API is off) 2026-10-07, 24 jobs: all engineers senior/manager; SWE Data Feeds/Data Growth list only LatAm; 'SWE 1' link 8485e325 is now 'Senior Software Engineer CCIP'. Only Research Internship. No US/Canada entry SWE.",
+  "confidence": "medium",
+  "jobs_spec_basis": "ashby posting API 404; board reachable via jobs.ashbyhq.com non-user-graphql, so no spec"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Applied Materials",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -10,17 +9,21 @@
       "location": "Gloucester, MA",
       "opened": "2026-09-19",
       "date_source": "tracker first seen (Workday startDate 2026-09-20)",
+      "deadline": null,
       "grad_window": "2027",
       "live_verified": "api",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-25",
   "last_cycle_basis": "tracker first seen: Software Engineer New College Grad - Masters Degree (Santa Clara, CA), amat.wd1.myworkdayjobs.com, 2025-09-25",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://amat.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:amat/wd1/External",
-  "evidence": "Workday board (99 postings, --all) and detail API 2026-10-06: 2027 Software Engineer New College Grad (Bachelor's), Gloucester MA, live, no end date, no citizenship/sponsorship text. Other 2027 roles are mechanical/electrical/systems/field service, not SWE.",
-  "confidence": "high"
+  "evidence": "Workday cxs API 2026-10-07 (first 2000 postings paged plus new-grad searches): 2027 Software Engineer NCG (Bachelor's), Gloucester MA, canApply true, no end date, no citizenship text. Other SWE are II/III/4-7+ yrs; other 2027 NCG roles are non-SWE or PhD; Data Scientist NCG not counted.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

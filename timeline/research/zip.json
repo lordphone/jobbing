@@ -1,7 +1,7 @@
 {
   "company": "Zip",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,18 +11,24 @@
       "opened": "2026-08-25",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "api"
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, New Grad (2027 Start)",
       "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
       "location": "San Francisco, CA",
       "opened": "2026-08-25",
-      "date_source": "tracker first seen (same date as Toronto twin)",
+      "date_source": "tracker first seen 2026-08-25 (ashby hosted-page API publishedDate 2026-10-02, likely repost)",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "browser"
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-22",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/zip",
   "jobs_spec": "ashby:zip",
-  "evidence": "Ashby API lists Toronto 2027-start new-grad (2026-08-25); SF twin unlisted on API but page opened in browser 2026-10-06 with grads Dec 2026-Jun 2027. No deadline or sponsorship text.",
+  "evidence": "Ashby board (126) lists Toronto 2027-start new-grad (2026-08-25); SF twin unlisted on board API but its page opened in browser 2026-10-07, hybrid SF, grads Dec 2026-Jun 2027, $165-170K. Other SWE roles ask 3-5+ yrs. No deadline or sponsorship text.",
   "confidence": "high"
 }

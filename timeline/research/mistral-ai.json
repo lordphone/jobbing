@@ -1,15 +1,29 @@
 {
   "company": "Mistral AI",
   "tier": 2,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Research Engineer, Full Stack",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c",
+      "location": "Palo Alto, CA",
+      "opened": "2026-09-11",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'You have 2+ years as a technical individual contributor'; no lead/mentor duties; degree in CS",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
+  "last_cycle_basis": "no new-grad history in trackers or board",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/mistral.ai",
   "jobs_spec": "ashby:mistral.ai",
-  "evidence": "Ashby board 2026-10-06: 208 postings; only internships (Paris/London, not counted); no new-grad label.",
-  "confidence": "medium"
+  "evidence": "ashby:mistral.ai full board 2026-10-07 (206): no new-grad/early-career SWE. One unlabeled US posting fits the rule: Research Engineer, Full Stack (Palo Alto) asks 2+ yrs, no senior duties. NY Backend SWE wants 'mid-level to senior'; FDE roles manage CEO/CTO customers. Borderline, low confidence.",
+  "confidence": "low"
 }

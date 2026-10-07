@@ -1,7 +1,7 @@
 {
   "company": "AspenTech",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (Workday startDate 2026-09-17)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Developer I; 0-2 years of software development experience, early-career",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-03",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aspentech.wd5.myworkdayjobs.com/aspentech",
   "jobs_spec": "wd:aspentech/wd5/aspentech",
-  "evidence": "Workday API + CXS 2026-10-06: Software Developer I (APM) Bedford MA live, early-career full-stack, 0-2 yrs, canApply true, startDate 2026-09-17, no end date, no citizenship text. Rolling, no class year.",
+  "evidence": "Workday board 2026-10-07 (173 postings, full) + CXS: Software Developer I (APM) Bedford MA live, canApply true, startDate 2026-09-17, no end date, 0-2 yrs required, no citizenship text. Medina SWE requires 2+ yrs (not counted). Rolling, no class year.",
   "confidence": "high"
 }

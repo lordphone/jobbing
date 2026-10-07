@@ -1,7 +1,7 @@
 {
   "company": "GE Appliances (a Haier company)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-12-13",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://haier.wd3.myworkdayjobs.com/ge_appliances",
   "jobs_spec": "wd:haier/wd3/ge_appliances",
-  "evidence": "Workday --all (67): only EEDP Electrical Jan/Jul 2027 live (not software); software are co-ops. EEDP Software (posted ~Jun 2026) not listed; its closure rests on prior file and tracker, not a page I opened.",
-  "confidence": "low"
+  "evidence": "Workday CXS 2026-10-07: only EEDP Electrical Jan/Jul 2027 live (PCB/soldering, hardware, no software text); software roles are co-ops. EEDP Software (~Jun 2026) not on board; closure rests on board absence and prior tracker date.",
+  "confidence": "medium"
 }

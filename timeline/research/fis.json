@@ -1,7 +1,7 @@
 {
   "company": "FIS",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (workday startDate 2026-09-11; reposted 2026-09-29)",
       "deadline": null,
       "grad_window": "2027 FIS University Program, two-year FT program starting 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Mainframe Software Engineer I, COBOL",
@@ -21,16 +24,19 @@
       "opened": "2026-09-14",
       "date_source": "workday startDate",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "1-3 years experience (entry-level 'I' title)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-23",
   "last_cycle_basis": "tracker: 'Entry Level Technical Systems Analyst', Jacksonville FL, first seen 2025-10-23 (closest entry-level tech role)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://fis.wd5.myworkdayjobs.com/searchjobs",
   "jobs_spec": "wd:fis/wd5/searchjobs",
-  "evidence": "Workday API 2026-10-06: FIS University Program 'Software Engineering Early Talent Pipeline' (#FISU2027) and Mainframe SWE I COBOL both still listed and resolve; no end dates; no sponsorship available.",
+  "evidence": "Workday API 2026-10-07: Software Engineering Early Talent Pipeline (FIS University Program 2027, canApply, no end date) and Mainframe SWE I COBOL (1-3 yrs, no sponsorship) both live; other university tracks are non-SWE.",
   "confidence": "high"
 }

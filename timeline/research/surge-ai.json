@@ -1,15 +1,15 @@
 {
   "company": "Surge AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad history; tracker lists only AI Operations Engineer first seen 2026-07-20, not labeled entry-level.",
+  "last_cycle_basis": "jobs.py history: no new-grad SWE posting at Surge",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/surge-ai",
   "jobs_spec": "ashby:surge-ai",
-  "evidence": "Ashby API 2026-10-06: 28 postings; SWE roles ask 2-7+ yrs; AI Operations Engineer (US remote, 2026-07-13) says suited to earlier-career but is ops-oriented, no entry label. No new-grad track.",
+  "evidence": "ashby:surge-ai full board (28) 2026-10-07: SWE roles ask 2-7+ yrs and own end-to-end projects. AI Operations Engineer (US remote, 2026-07-13, 'earlier in their career', no years) is an operations role, not SWE; left out. It is on the board, contrary to the prior note.",
   "confidence": "medium"
 }

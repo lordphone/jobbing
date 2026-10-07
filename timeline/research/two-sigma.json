@@ -1,7 +1,7 @@
 {
   "company": "Two Sigma",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineering Full-Time Campus Hire (NYC)",
@@ -22,7 +25,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.twosigma.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: both postings (14018 Houston, 14014 NYC) Early Careers with Apply link; bachelor's/master's/PhD, no citizenship or sponsorship text, no deadline. Tracker first seen 2026-09-08.",
+  "evidence": "2026-10-07 browser: InternshipsAndEarlyCareers list (9 roles) has two SWE Full-Time Campus Hire postings (NYC 14014, Houston 14018); both pages load with Apply, Early Careers level, no class year, citizenship, sponsorship or deadline text. Tracker first seen 2026-09-08.",
   "confidence": "high"
 }

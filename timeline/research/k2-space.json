@@ -1,7 +1,6 @@
 {
   "company": "K2 Space",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -12,15 +11,32 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires a bachelor's degree or 3+ years of professional experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Flight Software Engineer",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373556008",
+      "location": "Seattle, WA",
+      "opened": "2026-08-10",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires a bachelor's degree or 3+ years of professional experience",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No earlier new-grad posting in tracker history.",
+  "last_cycle_basis": "No earlier new-grad posting in tracker history",
   "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/k2spacecorporation",
   "jobs_spec": "gh:k2spacecorporation",
-  "evidence": "Greenhouse (248 postings): Ground Software Engineer (Seattle, live, bachelor's or 3+ yrs) and other SWE roles are unleveled; summer 2027 interns only otherwise. Posting says hire 'must therefore either be a U.S. person as defined by 22 C.F.R. 120.15 or otherwise eligible for a federally issued export control license'.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (250) 2026-10-07: SWE roles are unleveled (bachelor's or 3+ yrs); postings say hire 'must therefore either be a “U.S. person” as defined by 22 C.F.R.' (ITAR). No new-grad label.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

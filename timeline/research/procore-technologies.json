@@ -1,7 +1,7 @@
 {
   "company": "Procore Technologies",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.procore.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Procore search read partially 2026-10-06 (throttled after page 1 of 'engineer'): US titles Senior/Staff/Principal plus SWE 2 Austin (mid). BuiltIn showed SWE I (Datagrid) removed 2026-05. No live entry SWE seen; coverage incomplete.",
-  "confidence": "low"
+  "evidence": "careers.procore.com search list read in full 2026-10-07 (95 postings, 5 pages): US engineering titles Senior/Staff/Principal plus Software Engineer 2 (Austin; aggregators show 2+ or 5+ yrs, level 2, $113-155K). Page itself returned empty (bot challenge). No entry SWE or new-grad track.",
+  "confidence": "medium"
 }

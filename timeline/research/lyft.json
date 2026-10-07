@@ -1,15 +1,42 @@
 {
   "company": "Lyft",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "location": "San Francisco, CA",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires Bachelor's and 6 months of experience; duties: help design/build, assist with roadmaps",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002",
+      "location": "Seattle, WA",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires Master's and 2 years of experience; no lead or mentor duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-16",
   "last_cycle_basis": "Tracker: 'Software Engineer - Search & AI Entry' (Toronto) first seen 2026-01-16; US new-grad not found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lyft",
   "jobs_spec": "gh:lyft",
-  "evidence": "gh:lyft 2026-10-06 (193, --all): only Summer 2027 interns and experienced roles. Generic 'Software Engineer' SF/Seattle (2026-09-02) is a PERM-style posting asking 6 months experience, not labeled new grad.",
+  "evidence": "gh:lyft (191, full) 2026-10-07: generic Software Engineer SF and Seattle (2026-09-02) require only 6 months / 2 yrs, no senior duties, so counted as unlabeled; PERM-style wording, not labeled new grad. Toronto SWEs ask 1-5+ yrs; NY/SF MLE lead design; Montreal intern. Status changed from not_yet; unlabeled rule applied. Listed on API, not opened in browser.",
   "confidence": "medium"
 }

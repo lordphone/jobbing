@@ -1,15 +1,15 @@
 {
   "company": "Voya Financial",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-04-20",
-  "last_cycle_basis": "tracker first-seen date: Associate Software Developer, Hartford CT (godirect.wd5 board; tracker name 'voya' also matches unrelated Voyager Technologies, excluded)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker: Associate Software Developer (Hartford, CT) first seen 2026-04-20 (spring, off-cycle)",
   "jobs_page": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
   "jobs_spec": "wd:godirect/wd5/voya_jobs",
-  "evidence": "Workday API --all 2026-10-06 (25): AI Principal Engineer, AVP engineering roles, Summer 2027 Actuarial/Accounting interns only. Associate Software Developer (2026-04-20) no longer listed. No entry-level FT SWE live.",
-  "confidence": "high"
+  "evidence": "Workday full board (100) and 'software' search read 2026-10-07: only Senior Digital Software Engineer, AVP roles and Summer 2027 interns (incl. Technology Intern). Associate Software Developer posted spring 2026, none live now.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

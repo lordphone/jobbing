@@ -1,26 +1,16 @@
 {
   "company": "Dassault Systèmes",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer (3D CAD, AI-powered, SOLIDWORKS)",
-      "url": "https://www.3ds.com/careers/jobs/software-engineer-549418",
-      "location": "Waltham, MA",
-      "opened": "2026-09-17",
-      "date_source": "3ds.com search API req_open_dt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-07",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.3ds.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "3ds.com search API 2026-10-06 (663 careers): Waltham Software Engineer (3D CAD, AI) req 549418 opened 2026-09-17, still listed; asks 2-5 yrs, level 0-3 yrs, Master's preferred. Not labeled entry-level, so borderline. Other US roles senior or non-SWE.",
+  "jobs_spec_basis": "3ds.com careers page search API (/apisearch/card_search_api, 684 careers, 105 US/Canada) read in browser",
+  "evidence": "Read all 105 US/Canada postings 2026-10-07. Borderline, left out: Waltham Software Engineer 549418 (opened 2026-09-17; requires 2-5 yrs, board tags Senior, Master's preferred; https://www.3ds.com/careers/jobs/software-engineer-549418). Others senior, PhD, non-SWE, QA or intern. Previous file counted it open (low confidence).",
   "confidence": "low"
 }

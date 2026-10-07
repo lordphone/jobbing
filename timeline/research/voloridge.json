@@ -1,7 +1,6 @@
 {
   "company": "Voloridge",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2026/2027 grads",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no last-cycle grad SWE posting found in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement",
   "jobs_spec": "gh:voloridgeinvestmentmanagement",
-  "evidence": "Greenhouse API 2026-10-06 (11 postings): Quantitative Developer - 2026/2027 Grads, Jupiter FL on-site, C/C++ developer, first published 2026-09-24, updated 09-30; no deadline, no sponsorship text.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-07 (11 postings): Quantitative Developer - 2026/2027 Grads, Jupiter FL on-site, C/C++, requires 4-year degree, first published 2026-09-24, still listed; no deadline or sponsorship text.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

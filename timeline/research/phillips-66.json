@@ -1,7 +1,6 @@
 {
   "company": "Phillips 66",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "page metadata datePosted from earlier check (may be a repost); page shows no date",
       "deadline": null,
       "grad_window": "Winter 2026 or Spring/Summer 2027",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window; no IT university-hire timing known",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.phillips66.com/go/New-Hire-Opportunities/9494000/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: 2027 University New Hire - IT (req 62444) shows Apply now; assignments include Software Engineering; graduating Winter 2026 or Spring/Summer 2027; temporary visas/sponsorship not eligible. No stated deadline.",
-  "confidence": "high"
+  "evidence": "2026-10-07: New-Hire-Opportunities list shows 8 2027 University New Hire reqs; IT (req 62444) page has Apply now, lists Software Engineering assignment, grads Winter 2026/Spring-Summer 2027. Candidates needing sponsorship or on F-1/H-1/J/TN visas not eligible. No deadline stated.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null
 }

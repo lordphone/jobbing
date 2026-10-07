@@ -1,28 +1,99 @@
 {
   "company": "Vanguard",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Entry Level Application Engineer - 2027 Start Date",
+      "title": "Entry Level Application Engineer  - 2027 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
-      "location": "Charlotte, NC; Malvern, PA; Dallas, TX",
+      "location": "Charlotte, NC",
       "opened": "2026-08-16",
       "date_source": "tracker first seen; workday startDate 2026-08-17",
       "deadline": "2026-12-31",
       "grad_window": "2027 start date; 0-3 yrs experience",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Entry Level Application Engineer - 2027 Start Date - Malvern",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1",
+      "location": "Malvern, PA",
+      "opened": "2026-08-16",
+      "date_source": "tracker first seen; workday startDate 2026-08-17",
+      "deadline": "2026-12-31",
+      "grad_window": "2027 start date; 0-3 yrs experience",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Entry Level Application Engineer - Dallas - 2027 Start Date",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853",
+      "location": "Dallas/Ft. Worth, TX",
+      "opened": "on or before 2026-09-07",
+      "date_source": "workday postedOn (30+ days); startDate 2026-08-25",
+      "deadline": null,
+      "grad_window": "2027 start date; 0-3 yrs experience",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Technology Leadership Program - Application Development (PA)",
       "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Application-Development--PA-_181454",
-      "location": "Malvern, PA; Charlotte, NC; Dallas, TX",
+      "location": "Malvern, PA",
       "opened": "2026-08-16",
       "date_source": "tracker first seen (workday repost 2026-09-10)",
       "deadline": null,
       "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Technology Leadership Program - Application Development (NC)",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082",
+      "location": "Charlotte, NC",
+      "opened": "on or before 2026-09-10",
+      "date_source": "workday startDate 2026-09-10",
+      "deadline": null,
+      "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Technology Leadership Program - Application Development (TX)",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program---Application-Development--TX-_181647",
+      "location": "Dallas/Ft. Worth, TX",
+      "opened": "2026-08-18",
+      "date_source": "workday startDate 2026-08-18",
+      "deadline": "2026-12-17",
+      "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Technology Leadership Program, Investment Systems (PA)",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program--Investment-Systems--PA-_181452",
+      "location": "Malvern, PA",
+      "opened": "on or before 2026-09-10",
+      "date_source": "workday startDate 2026-09-10",
+      "deadline": null,
+      "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-14",
@@ -31,6 +102,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
   "jobs_spec": "wd:vanguard/wd5/vanguard_external",
-  "evidence": "Workday API 2026-10-06: Entry Level Application Engineer 2027 Start (Charlotte, Malvern, Dallas) canApply, ends 2026-12-31, 0-3 yrs, no visa sponsorship; Technology Leadership Program Application Development still listed. Same as previous file.",
+  "evidence": "Workday API 2026-10-07 (111 jobs searched): three Entry Level Application Engineer 2027 postings (0-3 yrs; Malvern/Charlotte end 2026-12-31) and Technology Leadership Program tracks (grads Dec 2026/Spring 2027), all canApply, no visa sponsorship.",
   "confidence": "high"
 }

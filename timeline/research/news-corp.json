@@ -1,15 +1,29 @@
 {
   "company": "News Corp",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Data Architecture & Platform Engineering",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer---Data-Architecture---Platform-Engineering-_Job_Req_55761",
+      "location": "New York, NY",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate (postedOn: Posted Yesterday)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1-2 years’ relevant experience in data engineering, software engineering'; $95,000 - $125,000; owns small-to-medium features, no leadership duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history: Dow Jones Software Engineer 1 AI & ML Foundation (NYC) first seen 2026-05-20, outside the window; not on the board now",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career",
   "jobs_spec": "wd:dowjones/wd1/Dow_Jones_Career",
-  "evidence": "Dow Jones Workday API 2026-10-06: SWE roles are Lead/Senior/Staff (Barcelona), Senior ML (NYC), SWE II Search (NYC, needs 2-4 yrs). Summer 2027 SWE Intern is internship only. No new-grad SWE. Other News Corp units hire separately.",
-  "confidence": "high"
+  "evidence": "Dow Jones Workday full board 2026-10-07 (260): new unlabeled SWE (Data Architecture, NYC, posted 2026-10-06) asks 1-2 yrs, $95-125K; read via CXS, not browser. Other SWE roles Senior/Staff/II; Summer 2027 SWE intern only. Replaces earlier no_program.",
+  "confidence": "medium"
 }

@@ -1,26 +1,15 @@
 {
   "company": "Marathon Petroleum",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Associate Software Engineer (closed)",
-      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Associate-Software-Engineer_00023623",
-      "location": "Findlay, OH; San Antonio, TX",
-      "opened": "2026-08-31",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no clear prior-cycle SWE posting found via jobs.py history; Associate Software Engineer first seen 2026-08-31 is this cycle",
+  "last_cycle_basis": "none found Jul 2025-Jan 2026; tracker first seen Associate Software Engineer (Findlay OH; San Antonio TX) 2026-08-31 (this cycle)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
   "jobs_spec": "wd:mpc/wd1/MPCCareers",
-  "evidence": "Workday --all 2026-10-06 (137): only interns/co-ops, senior SWE/data, an intern-to-FT business systems analyst; Associate Software Engineer (req 23623) absent from board and cxs detail returns not-found error (browser page hit a bot check).",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-07 (122 postings): Associate Software Engineer req 00023623 (2026-08-31) is no longer listed and its posting API returns permission denied. Remaining tech roles are managers, Senior engineers, and Summer/Fall 2027 intern/co-ops. Page not viewed in browser.",
+  "confidence": "medium"
 }

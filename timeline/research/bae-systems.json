@@ -1,46 +1,15 @@
 {
   "company": "BAE Systems (US)",
+  "tier": 8,
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US129314BREXTERNAL",
-      "location": "Hudson, NH; Nashua, NH; Merrimack, NH",
-      "opened": "2026-08-27",
-      "date_source": "page text (dateCreated; page datePosted 2026-09-20)",
-      "deadline": null,
-      "grad_window": "2027 entry level candidates",
-      "live_verified": "browser"
-    },
-    {
-      "title": "2027 Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US128864BREXTERNAL",
-      "location": "San Diego, CA",
-      "opened": "2026-09-14",
-      "date_source": "page text (dateCreated; page datePosted 2026-09-25)",
-      "deadline": null,
-      "grad_window": "Bachelor's by June 2027",
-      "live_verified": "browser"
-    },
-    {
-      "title": "2027 Entry Level Software Engineer - Hardware",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US128963BREXTERNAL",
-      "location": "San Diego, CA",
-      "opened": "2026-09-14",
-      "date_source": "page text (dateCreated; page datePosted 2026-09-25)",
-      "deadline": null,
-      "grad_window": "Bachelor's by June 2027",
-      "live_verified": "browser"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker first seen: Junior Software Engineer, Hill AFB UT (jobs.py history)",
+  "last_cycle_basis": "tracker_last_cycle from worklist (first seen 2025-08-17)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "Phenom pages 2026-10-06 live with Apply: 129314BR \"Must be eligible for a US DoD security clearance\"; 128864BR/128963BR \"Ability to obtain and maintain a security clearance\". No deadline stated.",
+  "evidence": "Phenom search API 2026-10-07 (US, 'software engineer' 1143 hits): entry roles Entry Level Software Engineer 129314BR ('Must be eligible for a US DoD security clearance'), SWE I 129394BR ('this specific position requires US citizenship status'), SWE I 127649BR/130128BR (job data isUsCitizenshipRequired Yes), Junior SWE 128932BR ('Able to obtain a Secret clearance').",
   "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 8
+  "checked": "2026-10-07"
 }

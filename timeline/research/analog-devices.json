@@ -1,7 +1,7 @@
 {
   "company": "Analog Devices",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,28 +9,34 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
       "location": "Wilmington, MA; San Jose, CA; Durham, NC",
       "opened": "2026-09-15",
-      "date_source": "workday startDate (posted 17 days ago)",
-      "grad_window": "Job Req Type: Graduate Job",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Job Req Type: Graduate Job; 0-2 years preferred",
       "live_verified": "api",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Associate Machine Learning Engineer",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1",
       "location": "Boston, MA",
       "opened": "2026-09-23",
-      "date_source": "workday startDate (posted 9 days ago)",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "Job Req Type: Graduate Job; prefers 2-5 yrs ML",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-23",
-  "last_cycle_basis": "tracker first-seen for Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), closed by this run's history check",
+  "last_cycle_basis": "tracker first-seen: Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), 2025-12-23 (UK Associate Engineer, Embedded Software 2025-10-23)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:analogdevices/wd1/External",
-  "evidence": "Workday cxs 2026-10-06: Associate Embedded Software Engineer (Wilmington/San Jose/Durham) and Associate ML Engineer (Boston), both Graduate Job, still listed, no end date. Export-licence note for non-US persons is not a bar. FY27 SWE grad roles are Ireland/UK.",
+  "evidence": "Workday cxs 2026-10-07, 836 postings (full): both Associate roles canApply true, Graduate Job, no end date. Embedded SW role is firmware-leaning but a software engineer title. Export-licence note for non-US persons is not a bar. Toronto/Vancouver embedded roles are interns. FY27 SWE grad roles are Ireland/UK.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Canonical",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "2025 and 2026 graduates (posting text)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer - Python - Cloud - graduate level",
@@ -22,7 +25,10 @@
       "date_source": "greenhouse updated_at (evergreen; first_published 2021-06-28)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Junior Ubuntu Software Engineer",
@@ -32,7 +38,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-16",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/canonical",
   "jobs_spec": "gh:canonical",
-  "evidence": "Greenhouse API 2026-10-05/06: three graduate/junior SWE postings listed and detail read; Graduate SWE posted 2026-10-05 (text says 2025 and 2026 grads), evergreen Americas graduate-level Python role live. Globally remote.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-07, 311 postings: Graduate SWE (posted 2026-10-05, text names 2025 and 2026 grads), evergreen Americas graduate-level Python role and Junior Ubuntu SWE all live; globally remote incl. US. Graduate-wide sales/HR roles not counted.",
+  "confidence": "medium"
 }

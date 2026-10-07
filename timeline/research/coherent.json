@@ -1,7 +1,7 @@
 {
   "company": "Coherent",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (Oracle ExternalPostedStartDate 2026-09-22)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-3 years of professional experience, internship experience, or equivalent project experience'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:hcwp.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-06 (109): Software Engineer, Santa Clara, 0-3 yrs, bachelor's CS, Python, data/dashboards/automation, listed on board. Embedded Systems Software & FPGA Programmer (Horseheads NY) is firmware/hardware, not counted. No citizenship text.",
+  "evidence": "Oracle API 2026-10-07 (296 postings, full): unlabeled Software Engineer, Santa Clara, 0-3 yrs, no senior duties found; still listed. Other software roles are Principal/Lead or firmware/FPGA. No citizenship text. Level inferred from years line only.",
   "confidence": "medium"
 }

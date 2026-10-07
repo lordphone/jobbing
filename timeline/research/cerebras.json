@@ -1,7 +1,7 @@
 {
   "company": "Cerebras",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -10,9 +10,12 @@
       "location": "Sunnyvale, CA",
       "opened": "2026-07-23",
       "date_source": "ashby publishedAt",
+      "deadline": null,
       "grad_window": "new graduate (no class year stated)",
       "live_verified": "api",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "CoDesign & NextGen - New College Grad",
@@ -22,7 +25,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "MS/BS new grad (no class year stated); evergreen, still listed",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-06",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/cerebras",
   "jobs_spec": "ashby:cerebras",
-  "evidence": "Ashby API 2026-10-06: Kernel Engineer - New Grad (Sunnyvale, 2026-07-23) and CoDesign & NextGen NCG (2026-01-07, still listed, no class year) live; no sponsorship/citizenship text. Toronto New Grad 2026 postings are leftovers.",
+  "evidence": "Ashby API 2026-10-07, 119 postings full: Kernel Engineer New Grad (Sunnyvale, 2026-07-23) and CoDesign & NextGen NCG (2026-01-07, still listed, no class year; kernel/perf modeling, C++/Python) live; no sponsorship/citizenship text. Toronto Software/DevOps New Grad 2026 (2026-05-11) are leftovers.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Mayo Clinic",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,39 @@
       "url": "https://jobs.mayoclinic.org/job/rochester/associate-ai-ml-engineer/33647/100348969504",
       "location": "Rochester, MN",
       "opened": "2026-09-08",
-      "date_source": "page text",
+      "date_source": "page text (Date posted)",
       "deadline": "2026-10-08",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Omniverse Simulation",
+      "url": "https://jobs.mayoclinic.org/job/rochester/software-engineer-omniverse-simulation/33647/100951617456",
+      "location": "Rochester, MN",
+      "opened": "2026-09-21",
+      "date_source": "page text (Date posted)",
+      "deadline": "2026-10-12",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's plus 'a minimum of internships and a minimum of 1 yr. of experience, or 2yrs'; $102,336-$143,270",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - Oracle Integration",
+      "url": "https://jobs.mayoclinic.org/job/rochester/software-engineer-oracle-integration/33647/99509280800",
+      "location": "Rochester, MN",
+      "opened": "2026-08-20",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's plus 'a minimum of internships and a minimum of 1 yr. of experience, or 2yrs'; $97,448-$143,270",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.mayoclinic.org/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "Posting page opened 2026-10-06: Associate AI/ML Engineer (Job ID 390863) shows Apply Now, posted 2026-09-08, expires 2026-10-08, Rochester MN, bachelor's, no years or class year, no sponsorship text. Other software roles mid/senior.",
+  "evidence": "Browser 2026-10-07, jobs.mayoclinic.org search 'software engineer' (3 pages) and posting pages (Apply Now shown): Associate AI/ML Engineer (expires 10-08), SWE Omniverse (expires 10-12), SWE Oracle Integration (1 yr incl. internships). Others senior. Omniverse and Oracle say no sponsorship.",
   "confidence": "medium"
 }

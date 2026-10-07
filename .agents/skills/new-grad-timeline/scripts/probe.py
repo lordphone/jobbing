@@ -2,7 +2,8 @@
 
 Board sources, in order: timeline/sources.csv specs (found by earlier research), board URLs seen in tracker postings,
 then slug guesses (Greenhouse guesses must match the board's company name). Writes timeline/data/boards.json.
-Takes ~20-30 minutes for all companies.  Usage: probe.py [--only "Company name" ...]
+Takes ~20-30 minutes for all companies.  Usage: probe.py [--only "Company name" ...] [--tier 1-4]
+--only / --tier redo just those companies and keep everyone else's results in boards.json.
 """
 import csv, json, os, re, sys, urllib.request, urllib.error, concurrent.futures as cf, datetime as dt
 from common import *
@@ -157,11 +158,18 @@ def probe(c):
 
 
 if __name__ == '__main__':
-    only = [a for a in sys.argv[1:] if a != '--only']
-    targets = [c for c in companies if not only or c['name'] in only]
+    argv = sys.argv[1:]
+    tiers = None
+    if '--tier' in argv:
+        t = argv[argv.index('--tier') + 1]
+        lo, hi = map(int, t.split('-')) if '-' in t else (int(t), int(t))
+        tiers = range(lo, hi + 1)
+        argv = [a for i, a in enumerate(argv) if a != '--tier' and (i == 0 or argv[i - 1] != '--tier')]
+    only = [a for a in argv if a != '--only']
+    targets = [c for c in companies if (not only or c['name'] in only) and (tiers is None or c['tier'] in tiers)]
     path = f'{DATA}/boards.json'
     res = {}
-    if only and os.path.exists(path):  # keep other companies' results; old files were keyed by list position
+    if (only or tiers) and os.path.exists(path):  # keep other companies' results; old files were keyed by list position
         names = [c['name'] for c in companies]
         res = {(names[int(k)] if k.isdigit() else k): v for k, v in json.load(open(path)).items()}
     with cf.ThreadPoolExecutor(24) as ex:

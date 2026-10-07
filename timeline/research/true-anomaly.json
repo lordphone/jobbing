@@ -1,18 +1,46 @@
 {
   "company": "True Anomaly",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
-      "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+      "title": "Data Engineer I",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-08-26",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "0-2 years of experience in data engineering, software engineering",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Flight Software Engineer I (Temp-to-hire)",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
       "location": "Denver, CO; Long Beach, CA",
       "opened": "2026-08-25",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "0 to 2 years experience; Level I",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I, Data Science (New Grad)",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-08-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer I, Elixir (New Grad)",
@@ -22,15 +50,58 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I, Full Stack (New Grad)",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-03-27",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I, Perception (New Grad)",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-08-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-08-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-26",
-  "last_cycle_basis": "tracker first-seen: Front End Software Engineer 1 (Nov 2025)",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "jobs.py history: Front End Software Engineer 1 first seen 2025-11-26 (Software Engineer 1 - Elixir 2025-11-27)",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/trueanomalyinc",
   "jobs_spec": "gh:trueanomalyinc",
-  "evidence": "Greenhouse API (201 postings): 8 live New Grad/I SWE and Data postings (Mar-Sep 2026); detail of 5 quote \"U.S. Citizen and eligible for DoD Secret or TS/SCI clearance\" plus ITAR text. Excluded.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (205, full) 2026-10-07, detail read: postings say 'U.S. Citizen and eligible for DoD Secret or TS/SCI clearance' / 'U.S. Citizen (required for facility access and government contracts)'; Data Engineer I: ITAR U.S. person and 'unable to provide visa sponsorship'. Also SWE I to III Digital Engineering (2026-10-06), US citizen or LPR.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

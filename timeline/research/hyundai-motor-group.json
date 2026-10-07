@@ -1,7 +1,6 @@
 {
   "company": "Hyundai Motor Group",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires \"Bachelor's degree in computer science, software engineering\" and \"0-10 years of professional experience\"; no senior duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-americas.hyundai.com/hatci/",
   "jobs_spec": null,
-  "evidence": "HATCI careers-americas 2026-10-06: Infotainment Application Developer (C++/Kotlin, AAOS) live with Apply now, BS in CS and 0-10 yrs, dated Sep 11. Infotainment Engineer I (Irvine) is QA, not SWE. Level borderline; no sponsorship text seen. HAEA not checked first-party.",
-  "confidence": "medium"
+  "evidence": "HATCI careers-americas full list read over HTTP 2026-10-07 (108): Infotainment Application Developer live with Apply now (0-10 yrs). Embedded SW Integration needs 3+ yrs; AI Control Systems 1-7 yrs research role; IT (AI) Strategy not SWE. HAEA search found only 3+ yr roles.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

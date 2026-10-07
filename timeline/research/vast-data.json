@@ -1,7 +1,7 @@
 {
   "company": "VAST Data",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "comeet time_updated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Top Graduate Software Engineer - V-Force - New York",
@@ -22,7 +25,10 @@
       "date_source": "comeet time_updated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.vastdata.com/careers",
   "jobs_spec": null,
-  "evidence": "Comeet 2026-10-05 API plus browser 2026-10-06: Top Graduate SWE V-Force RTP (updated 2026-09-02) and New York (2026-07-09), both Entry-level, pages live with apply. Application form asks 'Are you a US citizen?' as a screening question; no stated requirement. Dates are time_updated (lower bound).",
+  "evidence": "Comeet page data 2026-10-07 (258 positions): Top Graduate SWE V-Force RTP (updated 2026-09-02) and New York (2026-07-09), both Entry-level and listed; no citizenship or sponsorship text in the New York posting. Dates are time_updated (lower bound). Other Top Graduate roles are QA or Israel.",
   "confidence": "high"
 }

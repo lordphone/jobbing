@@ -1,15 +1,29 @@
 {
   "company": "Dow Jones",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Data Architecture & Platform Engineering",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer---Data-Architecture---Platform-Engineering-_Job_Req_55761",
+      "location": "New York, NY",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate / postedOn Posted Yesterday",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"1-2 years' relevant experience in data engineering, software engineering, or database development\"; owns small-to-medium features, no leadership",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Software Engineer 1 - AI & ML Foundation Technology NYC first seen 2026-05-20 (outside Jul-Jan window); none in window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no Jul 2025-Jan 2026 new-grad SWE posting found; tracker shows Software Engineer 1 - AI & ML Foundation Technology (NYC) first seen 2026-05-20, now closed",
   "jobs_page": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career",
   "jobs_spec": "wd:dowjones/wd1/Dow_Jones_Career",
-  "evidence": "Workday search 2026-10-06: engineering is Senior/Staff/Lead SWE (Barcelona), Senior ML Engineer (NYC); Summer 2027 interns not counted. SWE 1 AI&ML Foundation NYC (tracker 2026-05-20) not on board now.",
-  "confidence": "medium"
+  "evidence": "Workday cxs read 2026-10-07: new NYC Software Engineer (data platform, Snowflake/dbt/Airflow/Python) asks 1-2 yrs, Apply enabled. Other engineering roles are Senior/Staff/Lead (Barcelona). Summer 2027 SWE intern not counted. Previous file said not_yet; this posting appeared 2026-10-06. Borderline data-engineering flavor.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

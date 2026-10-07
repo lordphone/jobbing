@@ -1,15 +1,29 @@
 {
   "company": "Waabi",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Commercial Software",
+      "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
+      "location": "Toronto, ON",
+      "opened": "2026-09-15",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Qualifications: '2+ years of industry experience developing production quality software'; duties 'learn from the best developers', no lead/mentor/architecture ownership; CAD 149,000-220,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: 'New Grad: Software Engineer' Remote US first seen 2024-09-11 (two cycles ago); nothing for the 2025-26 cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/waabi",
   "jobs_spec": "lever:waabi",
-  "evidence": "Lever (91 postings): Toronto SWE roles are unleveled (Commercial Software, Labelling Data & Automation), HIL is Pittsburgh, others senior. No entry or new-grad posting now; a New Grad SWE posting appeared 2024-09-11.",
-  "confidence": "medium"
+  "evidence": "Lever API 2026-10-07 (91, full): Commercial Software SWE (Toronto, full-stack, 2+ yrs, no senior duties) counts as unlabeled entry-level, borderline. Labelling/Data SWE needs 4+; Research Engineers need MS and have senior pay; others senior or non-SWE.",
+  "confidence": "low",
+  "checked": "2026-10-07"
 }

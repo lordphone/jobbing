@@ -1,7 +1,7 @@
 {
   "company": "Blue Origin",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": "2027 starts",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
@@ -22,7 +25,10 @@
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": "2027 starts",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-14",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin",
   "jobs_spec": "wd:blueorigin/wd5/blueorigin",
-  "evidence": "Workday 2026-10-06: SDE I and Avionics/Embedded SWE I (2027 Starts, R71326/R71324) still live via detail, ongoing close. Text: 'must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted ... refugee or granted asylum' (export control).",
+  "evidence": "Workday 2026-10-07: SDE I and Avionics/Embedded SWE I (2027 Starts, R71326/R71324) live (canApply true, ongoing close). Both say applicants 'must be a U.S. citizen or national, U.S. permanent resident ... or lawfully admitted ... as a refugee or granted asylum' (export control). Same as prior.",
   "confidence": "high"
 }

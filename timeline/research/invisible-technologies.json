@@ -1,15 +1,16 @@
 {
   "company": "Invisible Technologies",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: no new-grad SWE; only 'Entry Level Specialist - AI Trainer' (2025-10, not SWE).",
+  "last_cycle_basis": "tracker history shows an old 2025-01 posting only; no SWE new-grad role in the 2025-26 cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/agency",
-  "jobs_spec": "gh:agency",
-  "evidence": "Greenhouse API 2026-10-06, 833 postings: freelance AI Trainer, language and ops projects; no entry-level SWE. Only engineering-adjacent history is entry-level AI trainer/generalist roles, not SWE.",
-  "confidence": "high"
+  "jobs_page": "https://job-boards.eu.greenhouse.io/invisibletech",
+  "jobs_spec": "gh:invisibletech",
+  "jobs_spec_basis": "invisible.co/careers page script loads greenhouse boards/invisibletech, not gh:agency (Meridial)",
+  "evidence": "gh:invisibletech 2026-10-07 (18 postings, full): US engineering roles are Research Engineer and Forward Deployed SWE (own projects end-to-end, multi-level, up to $217K) plus Senior/Staff/Principal; no entry-level or new-grad title. gh:agency (Meridial) holds freelance AI-trainer projects, not the careers page.",
+  "confidence": "medium"
 }

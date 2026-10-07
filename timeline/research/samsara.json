@@ -1,7 +1,7 @@
 {
   "company": "Samsara",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-27",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/samsara",
   "jobs_spec": "gh:samsara",
-  "evidence": "gh:samsara 2026-10-06 (241, --all): 'Software Engineer 1 New Grad' (SF 2026-08-03, London 2026-08-05) opened this cycle; Greenhouse API returns 404 'Job not found' for 8097343 and samsara.com redirects to roles list, so gone. Remaining new-grad roles are ADR sales.",
+  "evidence": "gh:samsara 2026-10-07 (242, full): 'Software Engineer 1 New Grad' (SF 2026-08-03, London 2026-08-05) no longer listed; Greenhouse API 404 for 8097343 and samsara.com 302-redirects to roles list, so gone. Other SWE/data roles ask 4+ yrs; new-grad roles left are ADR sales.",
   "confidence": "high"
 }

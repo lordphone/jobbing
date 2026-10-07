@@ -1,7 +1,7 @@
 {
   "company": "Berkshire Hathaway Energy",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,8 @@
       "date_source": "oracle cloud posted date",
       "deadline": "2026-10-16",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer 1",
@@ -22,7 +23,21 @@
       "date_source": "oracle cloud posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer 1/2/3",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
+      "location": "Des Moines, IA; Davenport, IA; Richmond, VA; Reno, NV; Las Vegas, NV; Portland, OR; Sioux City, IA; Omaha, NE; Salt Lake City, UT",
+      "opened": "2026-10-07",
+      "date_source": "oracle cloud posted date",
+      "deadline": "2026-11-06",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "multi-level posting; Software Engineer 1 level is entry (SE2 needs 4 yrs, SE3 6 yrs)",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-04",
@@ -31,6 +46,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
   "jobs_spec": "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle API + detail 2026-10-06: Software Engineer 1 reqs 10005734 (ends 2026-10-16) and 10004529 (no end) live. Text: not considering applicants needing immigration sponsorship now or in future. SE 2/3 also listed.",
+  "evidence": "Oracle CX_1 board 2026-10-07 (118 postings, full) and detail: Software Engineer 1 reqs 10005734 (ends 2026-10-16), 10004529 (no end) and new multi-level SE 1/2/3 req 10005871 (ends 2026-11-06) live. Postings state no immigration sponsorship now or in future.",
   "confidence": "high"
 }

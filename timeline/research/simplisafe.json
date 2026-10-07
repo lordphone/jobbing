@@ -1,28 +1,21 @@
 {
   "company": "SimpliSafe",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer I - Device Control",
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
-      "location": "Boston, MA",
-      "opened": "2026-07-07",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    },
-    {
-      "title": "Software Engineer I - User Systems",
+      "title": "Software Engineer I- User Systems",
       "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
       "location": "Boston, MA",
       "opened": "2026-08-03",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/simplisafe",
   "jobs_spec": "gh:simplisafe",
-  "evidence": "Greenhouse API 2026-10-06 lists two Software Engineer I postings (Boston); pages open with Apply form. Text: bachelor's completed or expected soon; no class year, no sponsorship restriction, no deadline.",
+  "evidence": "Greenhouse API 2026-10-07: SWE I User Systems live, page shows Apply form; bachelor's in CS, no years, no restriction, no deadline. SWE I Device Control (8049515) and Video Platform (8049510) are gone (redirect to board index), so dropped.",
   "confidence": "high"
 }

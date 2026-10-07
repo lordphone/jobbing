@@ -1,15 +1,29 @@
 {
   "company": "CoreWeave",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006",
+      "location": "Bellevue, WA; Sunnyvale, CA; San Francisco, CA; Livingston, NJ; New York, NY; Philadelphia, PA; Dallas, TX",
+      "opened": "2026-09-11",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years building production software, or equivalent depth from internships and substantial projects'; $101,000 to $134,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "history shows no new-grad-titled SWE posting 2025-07..2026-01 (tracker-listed 2025-11-05 posting not new-grad specific)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/coreweave",
   "jobs_spec": "gh:coreweave",
-  "evidence": "gh:coreweave (312, --all) 2026-10-06: only generic SWE (8-city, experience asked) and SWE II/senior; no new-grad/university titles. No entry-level SWE.",
+  "evidence": "gh:coreweave full board 2026-10-07 (316): no new-grad titles, but unlabeled 'Software Engineer' (8 US cities) reads entry-level: 2+ yrs 'or equivalent depth from internships and substantial projects', $101-134K. Other SWE roles are 3+ yrs or senior. Verified via API.",
   "confidence": "medium"
 }

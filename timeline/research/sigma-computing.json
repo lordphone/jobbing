@@ -1,7 +1,7 @@
 {
   "company": "Sigma Computing",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Recent grad within last 12 months",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-04",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/sigmacomputing",
   "jobs_spec": "gh:sigmacomputing",
-  "evidence": "Greenhouse API/detail 2026-10-06: live rolling New Grad Program SWE (SF/NYC), 12-week term for recent grads; 'visa sponsorship is not available'. No deadline.",
+  "evidence": "gh:sigmacomputing (73, full) 2026-10-07: Software Engineer (New Grad Program) still listed, SF/NYC, rolling, published 2026-04-06; 3-month temp-to-hire for recent grads; \"Visa sponsorship is not available\". Other SWE roles Senior/Staff or 5+ yrs. No deadline.",
   "confidence": "high"
 }

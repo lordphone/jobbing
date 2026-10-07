@@ -1,15 +1,29 @@
 {
   "company": "Riot Games",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Central Technology, Infrastructure (Optimize & Protect)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8234671?gh_jid=8234671",
+      "location": "Los Angeles, CA",
+      "opened": "2026-10-07",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: '2+ years experience as a software engineer'; duties 'execute on work with general direction from team tech leadership'; no senior/lead title",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history for Riot Games",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/riotgames",
   "jobs_spec": "gh:riotgames",
-  "evidence": "Greenhouse --all (167) 2026-10-06: US engineering roles senior-level; only Software Engineering Intern Summer 2027 (intern, not counted); entry SWE roles are contract in China. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse --all 2026-10-07 (164): new unlevelled Software Engineer, Infrastructure (LA) first published 2026-10-07, requires 2+ yrs, no senior duties; borderline mid-level, counted as unlabeled. All other US engineering roles are Senior/Staff/Principal/Manager; Summer 2027 intern not counted.",
+  "confidence": "medium"
 }

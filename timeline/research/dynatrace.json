@@ -1,15 +1,16 @@
 {
   "company": "Dynatrace",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or company page found for last cycle; unknown.",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.dynatrace.com/careers/jobs/",
   "jobs_spec": null,
-  "evidence": "Paged through all 110 positions on dynatrace.com/careers 2026-10-06: US/Canada roles sales, consulting, Developer Advocate, Principal/Lead; Software Engineer Early Career only in Linz, Austria.",
-  "confidence": "medium"
+  "jobs_spec_basis": "careers page job list is served by Coveo search API; no ATS spec",
+  "evidence": "Read all 114 postings via the careers site search API (dynatrace.com/api/coveo/search) 2026-10-07: US/Canada roles are sales, consulting, architects, Developer Advocate (senior). US early-career items are SDR and Renewal Desk Data Analyst only; no entry SWE.",
+  "confidence": "high"
 }

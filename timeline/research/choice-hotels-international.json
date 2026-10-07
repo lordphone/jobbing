@@ -1,7 +1,6 @@
 {
   "company": "Choice Hotels International",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,28 +8,35 @@
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22196",
       "location": "Scottsdale, AZ",
       "opened": "on or before 2026-09-05",
-      "date_source": "workday postedOn / startDate 2026-08-28",
+      "date_source": "workday postedOn 30+ days ago; startDate 2026-08-28",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer 1, Mobile Apps - Kotlin exposure required",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1--Mobile-Apps---Kotlin-exposure-required_R22195",
       "location": "Scottsdale, AZ",
       "opened": "on or before 2026-09-05",
-      "date_source": "workday postedOn / startDate 2026-08-24",
+      "date_source": "workday postedOn 30+ days ago; startDate 2026-08-24",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "Tracker first seen 2025-08-15: Software Engineer 1 (Scottsdale).",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "last_cycle_basis": "tracker first seen 2025-08-15: Software Engineer 1 (Scottsdale)",
   "jobs_page": "https://choicehotels.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:choicehotels/wd5/External",
-  "evidence": "Workday API 2026-10-06: two Software Engineer 1 postings (Scottsdale) still listed, apply enabled (startDate 2026-08-28 / 08-24); need 1-2 yrs; text says not eligible for sponsorship. Not new-grad branded; entry title counted. No deadline.",
-  "confidence": "high"
+  "evidence": "Workday cxs 2026-10-07: two Software Engineer 1 postings (Scottsdale, hybrid) still listed with canApply true; ask 1-2 yrs / 1+ yrs, bachelor's; each posting says \"not eligible for sponsorship\". Not a campus program; entry-level SWE 1 title.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,7 +1,6 @@
 {
   "company": "Intuitive Machines",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&lang=en_US",
   "jobs_spec": null,
-  "evidence": "ADP public API 2026-10-06 (90 reqs, all listed): software roles need 5-15+ yrs (Flight SW 15+, Data Engineer 8+ and 'U.S. citizenship is required'). Orbit Determination & Navigation Engineer I, II is entry-level GNC, not SWE, and says 'U.S. citizenship'. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "ADP public API, all 90 reqs read 2026-10-07: software roles need 15+ (Flight SW), 5-10 (Nebula FSW), 5+ preferred (Nebula/Simulation SW), 3+ (DevSecOps); Orbit Determination & Navigation Engineer I, II is GNC, not SWE; Design Engineer - Entry is not SWE. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

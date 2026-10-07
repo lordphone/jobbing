@@ -90,6 +90,7 @@ Union of resume skills plus NewsBreak skills that shipped. Reorder and drop to m
 - Bash — tags: infra
 - NGINX — tags: infra
 - Grafana — tags: infra
+- Prometheus — tags: infra
 - ruff — tags: infra, testing
 - pyright — tags: infra, testing
 - mitmproxy — tags: mobile, testing
@@ -107,6 +108,8 @@ Union of resume skills plus NewsBreak skills that shipped. Reorder and drop to m
 - Claude Code / AI coding tools — tags: llm
 
 ## Certifications
+
+Strongly recommended on every resume, as their own Skills row; most employers run on cloud. Drop only as a last resort for space.
 
 - AWS Certified Solutions Architect -- Associate
 - AWS Certified Cloud Practitioner

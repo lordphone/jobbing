@@ -1,15 +1,29 @@
 {
   "company": "Shield AI",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer - New Graduate",
+      "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
+      "location": "San Diego, CA; Washington, DC; Boston, MA",
+      "opened": "2026-10-06",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": "Dec 2026 \u2013 Aug 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-07-10",
   "last_cycle_basis": "tracker first seen: Software Engineer I - Hardware Test, Dallas (https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/shieldai",
   "jobs_spec": "lever:shieldai",
-  "evidence": "Lever API 2026-10-06 (593): Engineer I roles are electrical/PCB/RF/quality; SWE roles are 5+ yrs, Senior/Staff, or unleveled; only Summer 2027 interns. Mission Systems SWE says citizenship may be required (not a hard quote, no entry role).",
+  "evidence": "Lever API + posting text 2026-10-07: SDE New Graduate (C++/Python autonomy, grads Dec 2026-Aug 2027) live, created 2026-10-06; text has no citizenship/clearance line (only 'cleared background check'). Engineer I, Simulation Framework requires Secret and citizenship, so not counted.",
   "confidence": "medium",
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "tier": 8
 }

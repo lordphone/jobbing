@@ -1,7 +1,7 @@
 {
   "company": "Acuity Inc.",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "careers site listing (Sep 11, 2026); tracker first seen 2026-09-11",
       "deadline": null,
       "grad_window": "Start July 12, 2027; bachelor's, 0-2 yrs",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Specialist Software Engineering BUILD Program",
@@ -22,17 +25,23 @@
       "date_source": "careers site listing (Sep 12, 2026)",
       "deadline": null,
       "grad_window": "Start July 12, 2027; bachelor's in CS or related, under 2 yrs preferred",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Specialist Data & AI BUILD Program",
-      "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/",
+      "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Program-GA-30309/1429285300/",
       "location": "Atlanta, GA",
       "opened": "2026-09-12",
       "date_source": "careers site listing / tracker first seen 2026-09-12",
       "deadline": null,
       "grad_window": "Start July 12, 2027; bachelor's, 0-2 yrs",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-28",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.acuityinc.com/search/",
   "jobs_spec": null,
-  "evidence": "Careers pages fetched 2026-10-06: Atlanta G&T SWE, Conyers SWE (3 reqs listed) and Data & AI BUILD pages show Apply now, bachelor's, 0-2 yrs, 12 Jul 2027 start, no deadline, no sponsorship/citizenship line (E-Verify only).",
+  "evidence": "Careers pages opened 2026-10-07: Atlanta G&T SWE, Conyers SWE (3 reqs 1429301800/1429301900/1429302100) and Atlanta Data & AI BUILD all show Apply now; bachelor's CS, 0-2 yrs, 12 Jul 2027 start, no deadline. No sponsorship or citizenship line found. Other SWE roles are Senior/Lead.",
   "confidence": "high"
 }

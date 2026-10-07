@@ -1,18 +1,34 @@
 {
   "company": "Sherwin-Williams",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "closed",
+  "checked": "2026-10-07",
+  "status": "open",
   "postings": [
     {
-      "title": "Associate Full Stack Application Developer - Industrial Automation (now gone)",
-      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642",
+      "title": "SCADA Full Stack Application Developer - Industrial Automation",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622657",
       "location": "Cleveland, OH",
-      "opened": "2026-09-03",
-      "date_source": "tracker first seen",
-      "deadline": null,
+      "opened": "2026-10-05",
+      "date_source": "oracle posted start date (may be a repost of Associate Full Stack Application Developer 2622642, first seen 2026-09-03)",
+      "deadline": "2026-10-17",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years software development, bachelor's CS; 'developing understanding' of tools; Lead variant posted separately",
+      "no_sponsorship": true
+    },
+    {
+      "title": "B2B/EDI Developer",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625645",
+      "location": "Cleveland, OH",
+      "opened": "2026-10-07",
+      "date_source": "oracle posted start date",
+      "deadline": "2026-10-22",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires bachelor's CS/IS and 2+ years integration/middleware development; works 'with senior guidance as needed'",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
   "jobs_spec": "oracle:ejhp.fa.us6.oraclecloud.com/CX_2",
-  "evidence": "Oracle REST 2026-10-06: req 2622642 lookup returns nothing and is absent from 208 postings. Live full-stack roles are Senior or 2+/3+ years, no sponsorship (2622657, 2624433). Page not opened, so closed rests on API.",
-  "confidence": "medium"
+  "evidence": "Oracle REST 2026-10-07 (2391 postings, full): two unlabeled developer roles in Cleveland need 2+ yrs and state no sponsorship (OPT/CPT/H1B). Associate Full Stack 2622642 still absent (likely reposted as SCADA Full Stack 2622657, so opened kept at 09-03 is possible). Others Senior/Lead. Borderline entry level.",
+  "confidence": "low"
 }

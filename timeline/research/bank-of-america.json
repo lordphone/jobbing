@@ -1,15 +1,15 @@
 {
   "company": "Bank of America",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-20",
-  "last_cycle_basis": "tracker history: 'Software Engineer I' postings first seen 2025-11-20 across NYC/Plano/Charlotte (2024 cycle: New Grad SWE I 2024-08-25)",
+  "last_cycle_basis": "tracker history: 'Software Engineer I' postings (Year Up) first seen 2025-11-20 across NYC/Plano/Charlotte (2024 cycle: New Grad SWE I 2024-08-25)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ghr.wd1.myworkdayjobs.com/us-emplsv",
   "jobs_spec": "wd:ghr/wd1/us-emplsv",
-  "evidence": "Workday us-emplsv --all 2026-10-06 (143 postings): only SWE II/III/Lead roles, no entry-level SWE. Prior campus-site check: US Global Technology 2027 is Summer Analyst internship only; full-time 2027 tech not posted.",
-  "confidence": "medium"
+  "evidence": "Workday us-emplsv keyword-searched 2026-10-07 (396 hits of 3032; not full board): only SWE II/III/Lead/Senior (II roles ask 2+ to 6+ yrs, level II), no Software Engineer I or new-grad. Web search: 2027 Global Technology is Summer Analyst internship only.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

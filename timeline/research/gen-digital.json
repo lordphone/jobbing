@@ -1,15 +1,15 @@
 {
   "company": "Gen Digital",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: 'Machine Learning Engineer 1' / 'AI & Machine Learning Engineer 1' (Mountain View, CA) first seen Jun-Jul 2026, since closed",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gen-digital",
   "jobs_spec": "ashby:gen-digital",
-  "evidence": "Ashby API 2026-10-06 (reconfirmed) (119 postings): US roles Full Stack SWE (10+ yrs) and AI/ML Engineer II (5+ yrs, page read in browser), not entry. Mountain View AI & ML Engineer 1 (2026-07-08) page shows 'Job not found' in browser, so closed.",
-  "confidence": "medium"
+  "evidence": "Ashby board 2026-10-07 (115 postings, full): US engineering is Full Stack SWE (10+ yrs), Senior/Staff/Lead, AI/ML Engineer II (leads ML initiatives independently). Tracker ML Engineer 1 postings (Jun/Jul 2026) return null from Ashby posting API, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

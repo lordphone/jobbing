@@ -1,15 +1,15 @@
 {
   "company": "PEAK6",
   "tier": 4,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
+  "checked": "2026-10-07",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history",
+  "last_cycle_basis": "Careers ATS index (PEAK6 job search API): no entry-level SWE posted 2025-07..2026-01; last 'Software Engineer I - Campus Entry Level' (Chicago) created 2023-08-03, SWE I roles 2024-12/2025-02, all closed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://peak6.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page is JS-rendered; today's WebFetch/curl could not list openings and browser pane was unavailable. Carried forward 2026-10-05 browser read of all 81 titles: engineering roles are Platform/Support/IAM/Systems, mid/senior; early-career are trading roles. No entry-level SWE.",
-  "confidence": "low"
+  "evidence": "PEAK6 careers widget search API 2026-10-07, live=1 (79 jobs): US tech roles are Data engineer (2+ yrs), Platform Engineer (3-5 yrs), support/IAM/systems; 2027 roles are trading only (Trading Associate, internships). Campus page says new-grad tech openings exist; none live now.",
+  "confidence": "medium"
 }

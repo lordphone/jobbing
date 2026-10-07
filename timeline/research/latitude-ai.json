@@ -1,15 +1,15 @@
 {
   "company": "Latitude AI",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting in tracker history (only Triage Associate / contract roles)",
+  "last_cycle_basis": "jobs.py history shows no Latitude AI new-grad SWE posting; only contract Triage Associate 1 roles (2026-01)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/latitude",
   "jobs_spec": "gh:latitude",
-  "evidence": "Greenhouse API 2026-10-06 (37): software roles are Senior/Staff/Manager or Embedded SWE II (5+ yrs nice-to-have, visa sponsorship available). Entry-titled roles are contract Triage Associate; Software Engineer 1 (Feb 2026) is gone.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (37, full) 2026-10-07: software roles are Senior/Staff/Manager, plus Embedded Software Engineer II - High Level OS (2+ yrs or Master's, level II, not counted). Entry-titled roles are contract Triage Associate I and Bench Technician, not SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

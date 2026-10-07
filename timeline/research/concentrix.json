@@ -1,15 +1,15 @@
 {
   "company": "Concentrix",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; campus hiring (Associate Software Engineer) is India-based; no US tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.concentrix.com/job-search/?country=United+States+Of+America",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-06: 71 US jobs; Software Development category (8) is Lead/Senior/Sr iOS/Mainframe/group manager and a Java Full Stack developer needing Solr/NoSQL; others customer service, sales. No entry SWE or new-grad track.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-07: keyword 'software engineer' (US) gives 6 jobs, all Lead/Senior/Architect/Group Manager or experienced Java developer; 'graduate' gives only customer-service roles. No entry SWE or new-grad track.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

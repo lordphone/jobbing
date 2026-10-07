@@ -1,7 +1,6 @@
 {
   "company": "Lawrence Livermore National Laboratory (LLNL)",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "one-year Academic Graduate Appointee, no clearance required; page now says expired",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.llnl.gov/join-our-team/careers/find-your-job",
   "jobs_spec": "sr:LLNL",
-  "evidence": "Posting page 2026-10-05 said 'This job has expired' for the Sept 24 Academic Graduate Appointee (AI/software, no clearance); absent from SR list 2026-10-06. Other SWE roles (e.g. Conflict Simulation SWE) say 'Q-level clearance requires U.S. citizenship'.",
-  "confidence": "medium"
+  "evidence": "SmartRecruiters read in full 2026-10-07 (176). The Sept 24 Academic Graduate Appointee page says expired and is off the list. Remaining software/data roles (Conflict Simulation SWE, Optics Software Dev, ServiceNow Dev, Data Science Eng) say 'Q-level clearance requires U.S. citizenship'.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

@@ -1,15 +1,42 @@
 {
   "company": "Amplitude",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-07",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title Software Engineer I; requires 0-2 years of professional experience including internships; $125,000 - $188,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://jobs.ashbyhq.com/amplitude/a89d698b-f340-42a4-b8a6-81113c75fdce",
+      "location": "Vancouver, Canada",
+      "opened": "2026-10-07",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title Software Engineer I; requires 0-2 years of professional experience including internships",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-10-23",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I, Growth Platform' first seen 2025-10-23; 'Software Engineer 1 - Data Warehouse' 2025-12-01 (both Greenhouse, closed)",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer I, Growth Platform' first seen 2025-10-23; 'Software Engineer 1 - Data Warehouse' 2025-12-01 (Greenhouse, closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/amplitude",
   "jobs_spec": "ashby:amplitude",
-  "evidence": "Ashby API 2026-10-06: 36 postings, all Senior/Staff/Manager; no SWE I live. SWE I track opened 2025-10-23 and 2025-12-01 last cycle (closed). Not yet this cycle.",
-  "confidence": "medium"
+  "evidence": "Ashby board (39 postings, full) 2026-10-07: two Software Engineer I postings (SF, Vancouver) published today, both listed live via API and page fetch. Previous 2026-10-06 file had none, so they are newly posted. No sponsorship or deadline text found.",
+  "confidence": "high"
 }

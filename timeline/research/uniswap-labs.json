@@ -1,7 +1,7 @@
 {
   "company": "Uniswap Labs",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-08-12",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/uniswap",
   "jobs_spec": "ashby:uniswap",
-  "evidence": "Early-career SWE (NYC, 2026-08-12) is no longer on Ashby API (5 jobs, all senior/staff) and its page opens blank in browser; this-cycle posting existed and is gone. (was not_yet)",
+  "evidence": "Ashby board 2026-10-07 (5 postings, all senior/staff/exec). Early-career SWE (NYC, tracker first seen 2026-08-12) is gone: not on the board and the Ashby posting lookup returns null. This-cycle posting existed and is closed.",
   "confidence": "medium"
 }

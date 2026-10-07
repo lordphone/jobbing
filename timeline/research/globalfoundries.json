@@ -1,26 +1,17 @@
 {
   "company": "GlobalFoundries",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
-    {
-      "title": "AI/ML Analytics Engineer (2027 New College Graduate)",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
-      "location": "Malta, NY",
-      "opened": "on or before 2026-09-28",
-      "date_source": "workday postedOn (startDate 2026-09-28)",
-      "deadline": null,
-      "grad_window": "graduating with Bachelor's or Master's (2027 NCG)",
-      "live_verified": "api"
-    }
+    {"title": "AI/ML Analytics Engineer (2027 New College Graduate)", "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942", "location": "Malta, NY", "opened": "on or before 2026-09-28", "date_source": "workday postedOn (startDate 2026-09-28)", "deadline": null, "grad_window": "Graduating with Bachelor's or Master's (2027 NCG)", "live_verified": "api", "level": "new-grad title", "level_basis": "borderline ML-vs-analytics: builds predictive models and agentic solutions for fab data; Python/SQL preferred", "no_sponsorship": false}
   ],
-  "last_cycle_opened": "2026-08-18",
-  "last_cycle_basis": "tracker first seen: AI/ML Software Engineer New Grad (2026 NCG) Austin/Santa Clara/Richardson 2026-08-18; also 2025-08-17 Manufacturing Software Engineer Essex Junction",
+  "last_cycle_opened": "2025-08-17",
+  "last_cycle_basis": "tracker first seen: Manufacturing Software Engineer, Essex Junction VT 2025-08-17; AI/ML Software Engineer New Grad (2026 NCG) seen 2026-08-18 is a 2026-class leftover",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://globalfoundries.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:globalfoundries/wd1/External",
-  "evidence": "Workday API+CXS 2026-10-06: 2027 NCG AI/ML Analytics Engineer (Malta NY) live, canApply true; data-driven fab solutions, CS/DS degrees, no citizenship line. Borderline ML-vs-analytics. Fab Automation (Vermont) is robotics, not SWE. No deadline.",
+  "evidence": "Workday full board 2026-10-07 (734 postings) and CXS: 2027 NCG AI/ML Analytics Engineer (Malta) canApply true, no citizenship line. Fab Automation Engineer NCG (Vermont) is hardware/robotics, left out; Full Stack Agentic asks 7+ yrs; 2026 NCG roles are leftovers.",
   "confidence": "medium"
 }

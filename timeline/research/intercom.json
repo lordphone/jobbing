@@ -1,15 +1,16 @@
 {
   "company": "Intercom",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-10-26",
-  "last_cycle_basis": "Tracker first seen 2025-10-26: Graduate Product Engineer Dublin - 2026 (Dublin/London, not US) https://job-boards.greenhouse.io/intercom/jobs/7317849",
+  "last_cycle_basis": "Tracker first seen 2025-10-26: Graduate Product Engineer Dublin - 2026 (Dublin/London, not US)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/intercom",
   "jobs_spec": "gh:intercom",
-  "evidence": "Greenhouse API 2026-10-05..06 (106 jobs, --all scan): US roles only Forward Deployed/Solutions/IT Systems; engineering in Dublin/London/Berlin. No US new-grad SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "Intercom careers redirects to fin.ai/careers listing 107 roles, matching gh:intercom's 107 postings; board renamed Fin",
+  "evidence": "gh:intercom (107, full) 2026-10-07: US roles only Forward Deployed Engineer, IT Systems Engineer, support and sales; engineering in Dublin/London. Graduate program is Dublin/London only. No US new-grad SWE.",
+  "confidence": "medium"
 }

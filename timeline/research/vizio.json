@@ -1,8 +1,8 @@
 {
   "company": "Vizio (Walmart)",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "open",
+  "checked": "2026-10-07",
+  "status": "closed",
   "postings": [
     {
       "title": "Software Engineer III",
@@ -12,7 +12,10 @@
       "date_source": "workday startDate 2026-09-24",
       "deadline": "2026-10-07",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "no years required (earlier read); generic Walmart posting, not Vizio-specific",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer III",
@@ -22,7 +25,10 @@
       "date_source": "workday startDate 2026-09-24",
       "deadline": "2026-10-07",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "BS + 2 yrs (earlier read); generic Walmart posting, not Vizio-specific",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-19",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
   "jobs_spec": "wd:walmart/wd504/WalmartExternal",
-  "evidence": "Vizio posts on Walmart Workday. API 2026-10-06: SWE III Denver R-2644535 (no years required) and Bentonville R-2651385 (BS + 2 yrs) still live, endDate 2026-10-07; unlabeled new-grad, not Vizio-specific. Vizio-labeled Denver SWE III roles need 2+ yrs Golang.",
+  "evidence": "Vizio's own careers link goes to a dead iCIMS site; roles are on Walmart Workday. 2026-10-07: generic Walmart SWE III Denver R-2644535 and Bentonville R-2651385 (endDate 10-07, not Vizio-specific) now gone from search (403). Vizio-labeled SWE III Denver roles need 2+ yrs Golang and mentoring; not entry.",
   "confidence": "low"
 }

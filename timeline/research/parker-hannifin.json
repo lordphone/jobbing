@@ -1,7 +1,7 @@
 {
   "company": "Parker Hannifin",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://parkercareers.ttcportals.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "parkercareers.ttcportals.com returned 403 (Cloudflare) this run; search found nothing. Prior browser read 2026-10-05: Students listing (66 jobs) is interns, co-ops, Associate Quality Engineer; no software role. Software search not re-run.",
-  "confidence": "low"
+  "evidence": "Browser read 2026-10-07 of all 14 pages (~333 jobs, 308 US) at parkercareers.ttcportals.com: software roles are Sr Software Engineer, Engineering Manager, Embedded Engineer III; no entry-level SWE. Only Summer 2027 interns and 5+yr IT roles; no new-grad tracker history.",
+  "confidence": "medium"
 }

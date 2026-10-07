@@ -1,7 +1,7 @@
 {
   "company": "GM",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -83,14 +83,25 @@
       "deadline": "2026-10-30",
       "grad_window": "completing degree by June 2026 (leftover-style window)",
       "live_verified": "api"
+    },
+    {
+      "title": "Software Verification Engineer, AV Platform (Early Career)",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592",
+      "location": "Milford, MI; Warren, MI",
+      "opened": "2026-09-09",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-09",
+      "grad_window": "completing degree by August 2026 (leftover-style window)",
+      "live_verified": "api",
+      "level_basis": "early-career / new graduate role; degree by August 2026"
     }
   ],
   "last_cycle_opened": "2025-09-27",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer \u2013 Early Career - Software Development'",
+  "last_cycle_basis": "tracker first-seen date for 'Software Engineer – Early Career - Software Development'",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
   "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
-  "evidence": "Workday API, postings opened via detail 2026-10-06: Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, Sept 2026, no sponsorship) qualifies; AV postings have Dec 2025-Aug 2026 windows (deadlines Oct 9-30).",
+  "evidence": "Workday CXS searches + detail 2026-10-07: Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, 0-2 yrs, no sponsorship) qualifies; AV/ML early-career postings have degree windows ending Aug 2026 (deadlines Oct 9-30). Markham ON test developer skipped (test role, not Toronto).",
   "confidence": "high"
 }

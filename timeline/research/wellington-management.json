@@ -1,7 +1,6 @@
 {
   "company": "Wellington Management",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "tracker first seen (workday startDate 2026-09-10)",
       "deadline": "2026-10-02",
       "grad_window": "Fall 2026 - Summer 2027",
-      "live_verified": "no"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2026-02",
@@ -21,6 +23,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://wellington.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:wellington/wd5/Campus",
-  "evidence": "Technology Associate (Boston, Fall 2026-Summer 2027 grads, apply-by 2026-10-02) was open 2026-10-05; on 2026-10-06 the Campus (7) and external boards no longer list it and cxs returns no posting. Apply-by passed; no visa sponsorship.",
-  "confidence": "medium"
+  "evidence": "Technology Associate (Boston, Fall 2026-Summer 2027, apply-by 2026-10-02) was open 2026-10-05. Campus board 2026-10-07 (9 postings, full) no longer lists it; detail lookup and cxs return errors. Apply-by passed. Remaining roles are non-US interns/business associates. No visa sponsorship.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

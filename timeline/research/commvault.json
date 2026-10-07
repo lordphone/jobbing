@@ -1,15 +1,15 @@
 {
   "company": "Commvault",
+  "tier": 6,
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07..2026-01 posting found; this cycle's Entry-Level SWE AI/ML (Shrewsbury NJ) first seen 2026-07-16 per tracker.",
+  "last_cycle_basis": "No 2025-07..2026-01 posting found; this cycle's Entry-Level Software Engineer AI/ML (Shrewsbury NJ) first seen 2026-07-16 per tracker (jobs.py history).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/commvault",
   "jobs_spec": "gh:commvault",
-  "evidence": "Greenhouse API 2026-10-06: 57 postings, no US entry SWE. Entry-Level SWE AI/ML (5233620008, first seen 2026-07-16) and SWE AI/ML Tinton Falls (5233623008) redirect to the board with error=true, so closed.",
-  "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 6
+  "evidence": "Greenhouse API 2026-10-07, 55 postings: no US entry SWE (US eng is DLP Engineer 3-5 yrs; entry SWEs are Seoul/India). Entry-Level SWE AI/ML (5233620008, 2026-07-16) and SWE AI/ML Tinton Falls (5233623008, 2026-08-10) now 404 on API and redirect to board ?error=true: closed.",
+  "confidence": "medium"
 }

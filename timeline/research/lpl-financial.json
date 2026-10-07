@@ -1,7 +1,6 @@
 {
   "company": "LPL Financial",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,35 +11,45 @@
       "date_source": "tracker first seen (Workday: 30+ days)",
       "deadline": null,
       "grad_window": "New Grad 2027",
-      "live_verified": "api (resolves; not on board list)"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "New Grad 2027 - Data Engineer",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
       "location": "Fort Mill, SC; Charlotte, NC; Austin, TX",
-      "opened": "on or before 2026-08-31",
+      "opened": "on or before 2026-09-07",
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": "New Grad 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "New Grad 2027 - Platform Engineer",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1",
       "location": "Fort Mill, SC; Charlotte, NC; Austin, TX",
-      "opened": "on or before 2026-08-31",
+      "opened": "on or before 2026-09-07",
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": "New Grad 2027",
-      "live_verified": "api (resolves; not on board list)"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'New Grad 2026 - Technology - Software Development' first seen 2025-09-11",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://lplfinancial.wd1.myworkdayjobs.com/university",
   "jobs_spec": "wd:lplfinancial/wd1/university",
-  "evidence": "Workday university board 2026-10-06 lists New Grad 2027 Data Engineer; Software Engineer and Platform Engineer postings resolve via detail API but are absent from the list (possibly filled). Priority date passed, rolling; no sponsorship.",
-  "confidence": "medium"
+  "evidence": "Workday university board 2026-10-07 lists all 3 New Grad 2027 postings; each posting API returns canApply true. Priority application date Sept 21 passed, still rolling; early-career roles can't sponsor now or later.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "NextEra Energy",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-09-14",
       "date_source": "page text",
       "deadline": null,
-      "grad_window": "new or recent grads within two years of a bachelor's or master's",
-      "live_verified": "browser"
+      "grad_window": "new or recent grads within two years of a bachelor's or master's; starts Feb and Aug",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Programmer Analyst I",
@@ -22,7 +25,10 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Level I title; requires 2+ years; develops and tests application code",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-23",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.nexteraenergy.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Re-opened 2026-10-06: Ignite Digital (posted 2026-09-14) and Programmer Analyst I (2026-10-02) both show Apply; Associate SDE (Jan 2026) gone.",
+  "evidence": "Opened both posting pages 2026-10-07: Apply buttons present, no sponsorship statement. Ignite Digital is a 2-year IT rotation incl. app development (software mix). Search 'software' page 1 shows only Sr/Prin SWE roles besides these.",
   "confidence": "medium"
 }

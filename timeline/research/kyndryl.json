@@ -1,26 +1,43 @@
 {
   "company": "Kyndryl",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Early Career Consult Program - Associate AI Engineer",
-      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
       "location": "Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week)",
       "opened": "2026-08-12",
-      "date_source": "tracker first seen (Workday latest repost 2026-10-02)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - Development",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer---Development_R-63192-1",
+      "location": "Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week)",
+      "opened": "on or before 2026-10-07",
+      "date_source": "workday postedOn (Posted Today)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires \"2+ years experience working as a software engineer\"; pay band $63,360-$137,040; no lead/architect duties",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history before 2026-08",
+  "jobs_page": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers",
+  "jobs_spec": "wd:kyndryl/wd5/KyndrylEarlyCareers",
+  "jobs_spec_basis": "early-career roles live on the KyndrylEarlyCareers board; the Professional board also lists Frisco SWEs",
+  "evidence": "Workday KyndrylEarlyCareers (47) and KyndrylProfessionalCareers (40) read in full 2026-10-07: Associate AI Engineer (0-3 yrs, canApply) says it will not sponsor visas; Software Engineer - Development asks 2+ yrs. Generic Software Engineer (2 yrs, $92K-$210K band) left out as level unclear.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
   "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers",
-  "jobs_spec": "wd:kyndryl/wd5/KyndrylProfessionalCareers",
-  "evidence": "Workday API 2026-10-06: Early Career Consult Program - Associate AI Engineer (Frisco AI Hub) listed, canApply true, 0-3 yrs software/AI/ML. 'The company will not sponsor employment visas for this role.' Other early-career roles are cyber, ops, design.",
-  "confidence": "high"
+  "no_sponsorship": false
 }

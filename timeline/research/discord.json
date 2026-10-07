@@ -1,15 +1,29 @@
 {
   "company": "Discord",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Notifications",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8642213002",
+      "location": "San Francisco, CA",
+      "opened": "2026-09-11",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of professional software engineering experience'; 'own well-defined projects'; $160,000 to $200,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history",
+  "last_cycle_basis": "No tracker history or prior new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/discord",
   "jobs_spec": "gh:discord",
-  "evidence": "gh:discord --all 2026-10-06 (48): SWE roles ask 2+ to 3+ yrs; rest senior/manager/IT. No entry-level or new-grad posting.",
-  "confidence": "high"
+  "evidence": "gh:discord full board 2026-10-07 (49): no new-grad titles. Unlabeled Software Engineer, Notifications asks 2+ yrs, 'own well-defined projects', no senior duties (pay $160-200K; borderline). Consumer Revenue/Safety ask 3+; Distributed Systems is tier-0 infra.",
+  "confidence": "low"
 }

@@ -1,15 +1,29 @@
 {
   "company": "Beta Technologies",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Platform Software Engineer – Digital Operations Platform",
+      "url": "https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4265190009",
+      "location": "South Burlington, VT",
+      "opened": "2026-05-29",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; internal tooling duties, no lead/mentor; pay $100,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker first-seen in Jul 2025-Jan 2026 window; nothing found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/betatechnologiesinc",
   "jobs_spec": "gh:betatechnologiesinc",
-  "evidence": "Greenhouse API 2026-10-06 (115): Software Engineer Digital Ops needs 3-5 yrs, Platform SWE 2+ yrs, AI/ML Engineer 10-02 is mid-level; others Senior/Lead. No new-grad or entry SWE track.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-07 (115): Platform SWE (2+ yrs min, junior-level internal tooling) counted as borderline unlabeled; Digital Ops SWE 3-5 yrs, AI/ML Eng 3+ yrs, Embedded 3+ yrs not counted. No new-grad track; no ITAR text seen.",
+  "confidence": "low"
 }

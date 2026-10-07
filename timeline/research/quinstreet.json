@@ -1,15 +1,29 @@
 {
   "company": "QuinStreet",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Algorithms Engineer",
+      "url": "https://job-boards.greenhouse.io/quinstreet/jobs/8093165",
+      "location": "Foster City, CA; Remote (US, telecommuting permitted)",
+      "opened": "2026-07-28",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires a Bachelor's degree in Computer Science or a related field plus 2 years of experience; duties 'as directed by manager'; $129,302-$149,302",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": "2025-07-24",
   "last_cycle_basis": "tracker first seen: Entry Level Software Engineer, Foster City CA, https://www.quinstreet.com/careers/?gh_jid=7100468 (more entry-level SWE postings Nov 2025, Feb and Apr 2026, all closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/quinstreet",
   "jobs_spec": "gh:quinstreet",
-  "evidence": "Greenhouse API 2026-10-06 (28 postings, --all): only Algorithms Engineer (Foster City, mid-level), Sr ML Engineer, Eng Managers, India Java roles; no entry-level SWE now. Entry-level SWE reposts recur (Jul 2025-Apr 2026).",
+  "evidence": "Greenhouse API 2026-10-07 (29, full): Algorithms Engineer asks 2 yrs, no senior duties or level, so counted as unlabeled (earlier file called it mid-level). Text: 'authority to work permanently in the U.S.'. Entry-level SWE titles closed; others senior/India.",
   "confidence": "medium"
 }

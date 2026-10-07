@@ -1,7 +1,7 @@
 {
   "company": "Truist",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-18",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://truist.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:truist/wd1/Careers",
-  "evidence": "Workday API 2026-10-06: Associate Software Engineer (Python & Data Analytics) live, start 2026-10-01, bachelor's+3 yrs or equivalent; no visa sponsorship (H-1B/OPT/CPT). 2027 Analyst TD&O posting seen gone 2026-10-02.",
+  "evidence": "Workday keyword searches and detail 2026-10-07: Associate Software Engineer (Python & Data Analytics) live, start 2026-10-01, bachelor's+3 yrs or equivalent; no visa sponsorship (H-1B/OPT/CPT). 2027 TD&O analyst posting no longer found. Board listing is flaky (rate limited).",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "BlackRock",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (Workday postedOn today is a repost)",
       "deadline": "2026-11-30",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "no_sponsorship": false,
+      "level": "unlabeled",
+      "level_basis": "Associate; required quals ask only for one programming language, basic SQL, \"under the guidance of senior engineers\"; no years asked"
     },
     {
       "title": "2027 Full-Time Analyst Program - AMRS",
@@ -22,7 +25,10 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": "Sep 2026 - Jul 2027 (bachelor's or master's)",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "no_sponsorship": false,
+      "level": "new-grad title",
+      "level_basis": null
     }
   ],
   "last_cycle_opened": "2025-07-14",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
   "jobs_spec": "wd:blackrock/wd1/BlackRock_Professional",
-  "evidence": "2026-10-06: Workday Associate Database Platform Developer (Wilmington, no years asked, canApply, ends 2026-11-30) live; 2027 Full-Time Analyst Program page has Apply Now (Technology a function). Aladdin Graph SWE needs 3+ yrs, SMA 2-5 yrs. No sponsorship text.",
+  "evidence": "2026-10-07: Workday (240, full) Associate Database Platform Developer (Wilmington, no years, canApply, ends 2026-11-30) live; 2027 Full-Time Analyst Program page has Apply (Analytics & Risk, with Tech Career Paths and Technology pay band). Other US Associate SWE roles need 2-5+ yrs. No sponsorship text.",
   "confidence": "medium"
 }

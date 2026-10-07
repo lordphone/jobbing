@@ -1,7 +1,7 @@
 {
   "company": "Dimensional Fund Advisors",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate 2026-06-18 (tracker repost 2026-06-09)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years of experience required; bachelor's degree, Python tool building; Analyst/Associate title",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-12-02",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
   "jobs_spec": "wd:dimensional/wd5/dfa_careers",
-  "evidence": "Workday --all 2026-10-06 (34): Investment Engineering Analyst/Associate Analytics Platforms still listed (api); new Data Solutions (Austin, 3-5+ yrs) too. 'Not eligible for immigration sponsorship'. Borderline SWE fit; interns only otherwise.",
+  "evidence": "Workday API 2026-10-07 (76 postings): Analyst/Associate, Investment Engineering (Analytics Platforms) still listed, bachelor's and no years required, builds Python tools; 'not eligible for immigration sponsorship'. Data Solutions variant wants 3-5+ yrs. Borderline SWE fit.",
   "confidence": "medium"
 }

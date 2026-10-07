@@ -1,15 +1,15 @@
 {
   "company": "GameStop",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://gamestop.rec.pro.ukg.net/GAM1502GMSP/JobBoard/ae8509c9-9420-4e83-8b61-014deb2bb131",
   "jobs_spec": null,
-  "evidence": "UKG board API 2026-10-06: 21 postings, nearly all Grapevine TX; tech roles are Lead/Staff/Principal/Senior/Manager. No entry-level SWE or new-grad track.",
-  "confidence": "high"
+  "evidence": "UKG job board API 2026-10-07, all 21 postings read: tech roles (Grapevine TX) are Lead/Staff Mobile, Lead AI/ML, Lead/Principal Java, Sr/Manager; no entry-level SWE or new-grad track. No tracker history.",
+  "confidence": "medium"
 }

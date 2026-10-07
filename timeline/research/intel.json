@@ -1,18 +1,21 @@
 {
   "company": "Intel",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Foundry Cloud Services Developer",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
       "location": "Hillsboro, OR; Phoenix, AZ",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn (Posted 12 Days Ago); tracker first seen 2026-09-21",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate (API); tracker first seen 2026-09-21",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Job Type 'College Grad'; Bachelor's CS; $117,620-166,060. Caveat: asks 3+ yrs and mentions technical leadership of contractor teams",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-01",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://intel.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:intel/wd1/External",
-  "evidence": "Workday board 2026-10-06 (--all) has only intern/Penang grad/sales roles, but tracker lead page opened in browser: Apply button live, Job Type 'College Grad', bachelor's CS, asks 3+ yrs and reads mid-level ($117-166K). No citizenship text. Borderline level.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-07 (360, full) + cxs detail: Foundry Cloud Services Developer live, Job Type 'College Grad' but 3+ yrs and some lead duties (borderline). Datacenter SWE (Santa Clara) needs US citizenship/clearance; Toronto compiler roles are Experienced Hire; other SWE roles 3+ yrs or Penang grad.",
+  "confidence": "low"
 }

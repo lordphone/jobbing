@@ -1,7 +1,6 @@
 {
   "company": "Whatnot",
   "tier": 3,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +8,23 @@
       "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
       "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
       "opened": "2026-08-31",
-      "date_source": "ashby publishedDate",
+      "date_source": "ashby publishedDate (GraphQL)",
       "deadline": null,
       "grad_window": "degree by Summer 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "tracker first-seen for prior cycle (2024-09-02 also); no clean match in 2025-07..2026-01 history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first-seen for prior cycle (carried from earlier research file; not in current jobs.py history, which shows 2024-09-02 'New Grad 2025' and a 2026-07-13 NYC posting)",
   "jobs_page": "https://jobs.ashbyhq.com/whatnot",
   "jobs_spec": null,
-  "evidence": "Ashby board 2026-10-06 (GraphQL listing + posting API): 'Software Engineer, 2027 New Grad' live, hubs NYC/SF/LA/Seattle, degree by Summer 2027; no sponsorship or deadline text. Posted 2026-08-31 (tracker/earlier check). Other SWE roles experienced.",
-  "confidence": "high"
+  "jobs_spec_basis": "Ashby posting-api returns 404 for whatnot; board read via jobs.ashbyhq.com GraphQL (151 postings)",
+  "evidence": "Ashby GraphQL full list (151) 2026-10-07: 'Software Engineer, 2027 New Grad' listed and open, published 2026-08-31, degree by Summer 2027; no sponsorship or deadline text. Other SWE roles are Senior/Staff or unlabeled experienced.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

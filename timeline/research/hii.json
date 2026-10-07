@@ -1,26 +1,15 @@
 {
   "company": "HII",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Engineer Software 3",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-3-Virg/1426770100/",
-      "location": "Newport News, VA",
-      "opened": "2026-10-03",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2026-01-08",
   "last_cycle_basis": "tracker first seen 2026-01-08/09: Software Engineer 1 / Engineer Software 1, Newport News VA (careers.huntingtoningalls.com)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.huntingtoningalls.com",
   "jobs_spec": null,
-  "evidence": "Careers search 2026-10-06: only software job found is Engineer Software 3 (5 yrs, not entry), page says 'US Citizenship Required for this Position: Yes'. Otherwise 2027 summer intern/co-op roles. No entry SWE live.",
-  "confidence": "medium"
+  "evidence": "Careers site (TalentBrew) keyword filter did not apply in plain fetch; first 50 of 390 reviewed, no software roles. Only software job seen: Engineer Software 3 (Newport News, 2026-10-03; 3-5 yrs, not entry), page says 'US Citizenship Required for this Position: Yes'. 2027 summer interns/co-ops otherwise. No entry SWE found.",
+  "confidence": "low",
+  "checked": "2026-10-07"
 }

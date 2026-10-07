@@ -1,15 +1,15 @@
 {
   "company": "Rambus",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: Digital Design Engineer, Westlake Village CA, 2025-11-20 (hardware, not SWE)",
+  "last_cycle_basis": "history shows only hardware new-grad roles (Digital Design Engineer 2025-11-20, Verification New College 2025-09-26), not software",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-rambus.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS HTML listing 2026-10-06 (4 pages): US roles are verification, logic design, validation, product, sales. 'New Grads Welcome' Applications Engineering role (San Jose) is hardware bench validation, 5+ yrs listed. Only software role is SMTS Software Development, Rotterdam.",
-  "confidence": "medium"
+  "evidence": "iCIMS list read over HTTP 2026-10-07 (4 pages, 87 jobs): roles are chip design/verification/validation, MTS ladder hardware, SMTS Software Development (senior), Firmware Development Engineer. Lead MTS Applications (new grads welcome) needs 5+ yrs validation, hardware. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

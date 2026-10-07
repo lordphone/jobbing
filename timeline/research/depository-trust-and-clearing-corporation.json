@@ -1,7 +1,7 @@
 {
   "company": "Depository Trust & Clearing Corporation (DTCC)",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "oracle posted date",
       "grad_window": "Expected graduation May 2027; 18-month EDGE program",
       "live_verified": "api",
-      "deadline": "2026-10-30"
+      "deadline": "2026-10-30",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Infrastructure Engineer [2027 EDGE Program]",
@@ -22,7 +25,10 @@
       "date_source": "oracle posted date",
       "grad_window": "Expected graduation May 2027; 18-month EDGE program",
       "live_verified": "api",
-      "deadline": "2026-10-30"
+      "deadline": "2026-10-30",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-31",
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:ebxr.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API + detail 2026-10-06: both 2027 EDGE postings live, end date 2026-10-30. Requires 'Authorization to work permanently in the United States without current or future sponsorship'. Software Development Associate not entry.",
+  "evidence": "Oracle API (434, full) + detail 2026-10-07: both 2027 EDGE postings live, end 2026-10-30; require permanent US work authorization without sponsorship. Associate roles (Software Development, Software Engineer, DevOps) need 4+ yrs, not entry. Infrastructure Engineer EDGE is IT, borderline.",
   "confidence": "high"
 }

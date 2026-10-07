@@ -1,15 +1,29 @@
 {
   "company": "CAE",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "MTS Software Engineer",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969",
+      "location": "Charleston, SC",
+      "opened": "on or before 2026-08-10",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"1–3 years of experience in software development, systems integration, or engineering support roles\"",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-22",
-  "last_cycle_basis": "tracker first seen: Junior Machine Learning Engineer, Orlando/Tampa/Arlington (cae.wd3.myworkdayjobs.com/career/job/Tampa/Junior-Machine-Learning-Engineer_119505)",
-  "excluded_reason": null,
+  "last_cycle_basis": "jobs.py history: Junior Machine Learning Engineer (Orlando/Tampa/Arlington) first seen 2026-01-22",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://cae.wd3.myworkdayjobs.com/career",
   "jobs_spec": "wd:cae/wd3/career",
-  "evidence": "Workday API 2026-10-06 (85): only SWE is Software Engineer, Binghamton (5+ yrs, 'U.S. citizenship required'); Sr/Manager roles, interns/co-ops. Last cycle's Junior ML Engineer (Jan 2026) gone. No entry SWE now.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-07 (383, full): US entry-ish SWE (MTS Software Engineer Charleston, ATS Software Engineer Altus, 1-3 yrs) say \"Government contract requirements, only U.S. citizens are eligible for this role\"; Binghamton SWE 5+ yrs, citizenship required. Junior Software Developer is Mirabel/Montreal, Quebec only.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

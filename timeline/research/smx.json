@@ -1,7 +1,7 @@
 {
   "company": "SMX",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-22",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://www.smxtech.com/careers/",
   "jobs_spec": "gh:smxtech",
-  "evidence": "Greenhouse API 2026-10-05/06, 4 junior postings read: Junior SWE \"Clearance Required: Secret\"; Front End Developer (Junior) \"Public Trust clearance\", citizenship required; Junior Data Engineer 2+ yrs. SMX does not sponsor.",
+  "evidence": "Greenhouse API 2026-10-07, 122 postings; 4 junior roles read: Junior SWE 'Clearance Required: Secret'; Front End Junior x2 'requires a Public Trust clearance', citizenship required; Junior Data Engineer 'Active Secret Clearance'. SMX does not sponsor.",
   "confidence": "high"
 }

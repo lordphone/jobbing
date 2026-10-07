@@ -1,15 +1,15 @@
 {
   "company": "Maven Clinic",
   "tier": 3,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in history (tracker Maven hits are Maven Securities)",
+  "last_cycle_basis": "No tracker history; tracker 'Maven' hits are Maven Securities, not Maven Clinic.",
+  "jobs_page": "https://job-boards.greenhouse.io/mavenclinic",
+  "jobs_spec": "gh:mavenclinic",
+  "evidence": "Greenhouse full board (39) 2026-10-07 read: engineering roles are all Senior or Staff Software/Security Engineer; remaining postings non-engineering. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07",
   "excluded_reason": null,
-  "no_sponsorship": null,
-  "jobs_page": false,
-  "jobs_spec": "https://job-boards.greenhouse.io/mavenclinic",
-  "evidence": "gh:mavenclinic",
-  "confidence": "Greenhouse board (38, --all) 2026-10-06: no engineering roles at entry level; associates are non-engineering. No new-grad SWE."
+  "no_sponsorship": false
 }

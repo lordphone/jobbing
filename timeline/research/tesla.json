@@ -1,6 +1,7 @@
 {
   "company": "Tesla",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,7 +12,9 @@
       "date_source": "tracker first seen",
       "grad_window": null,
       "live_verified": "browser",
-      "deadline": null
+      "deadline": null,
+      "level": "unlabeled",
+      "level_basis": "'We hire at all levels, including recent graduates with strong controls or robotics fundamentals' (checked 2026-10-07)"
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -20,7 +23,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.tesla.com/careers/search/?site=US",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: careers state API (8431 listings) has no new-grad/entry-labeled US SWE (only 2027 interns and a Berlin associate). Optimus RL role (req 276000, Palo Alto) live with Apply; says 'We hire at all levels, including recent graduates'. ML/controls role, no formal program; low-confidence open.",
-  "confidence": "low",
-  "checked": "2026-10-06"
+  "evidence": "2026-10-07 browser: job 276000 (Palo Alto) page loads with Apply; text says 'We hire at all levels, including recent graduates'. Careers state API (8452 listings) has no title labeled new grad/entry for US SWE; roles are unleveled and no formal 2027 program. Opened date is a tracker bound.",
+  "confidence": "medium"
 }

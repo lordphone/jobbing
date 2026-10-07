@@ -1,7 +1,7 @@
 {
   "company": "PowerSchool",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "page text (JSON-LD datePosted) and tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Qualifications: '1 year or less of relevant and related work experience'; IC1 Associate Software Engineer",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-powerschool.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS posting fetched 2026-10-06 (curl): Apply for this job online present, datePosted 2026-09-14, requires 1 year or less experience, full-stack React/TypeScript/Java, Dallas TX. Other SWE reqs are Software Engineer/Senior/Lead.",
+  "evidence": "iCIMS posting fetched 2026-10-07: Apply for this job online present, datePosted 2026-09-14, validThrough 2027-09-14 (not a stated deadline), IC1, 1 yr or less. Software Engineer IC2 (2+ yrs) excluded; other roles Lead/Senior.",
   "confidence": "medium"
 }

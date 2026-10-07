@@ -1,15 +1,15 @@
 {
   "company": "Clipboard Health",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "Tracker first seen: Software Engineer, Backend (Remote) 2025-11-01 https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd (level not stated)",
+  "last_cycle_basis": "Tracker first seen: Software Engineer, Backend (Remote) 2025-11-01 https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd (not clearly new-grad)",
   "excluded_reason": null,
-  "no_sponsorship": null,
-  "jobs_page": false,
-  "jobs_spec": "https://jobs.ashbyhq.com/clipboard",
-  "evidence": "ashby:clipboard",
-  "confidence": "Ashby board (36, --all) 2026-10-06: no software engineering roles at all (ops/sales/analyst). Tracker SWE postings (2025-11, 2026-03) not stated entry-level; no new-grad evidence."
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.ashbyhq.com/clipboard",
+  "jobs_spec": "ashby:clipboard",
+  "evidence": "Ashby board (full) 2026-10-07: only ops, support, strategy and analyst roles; no engineering postings at all. Last cycle's Backend SWE (2025-11-01) is gone.",
+  "confidence": "high"
 }

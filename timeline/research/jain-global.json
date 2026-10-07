@@ -1,7 +1,7 @@
 {
   "company": "Jain Global",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Developer_JR100255",
       "location": "New York, NY",
       "opened": "on or before 2026-09-05",
-      "date_source": "tracker first seen 2026-07-04; workday 'Posted 30+ Days Ago'",
+      "date_source": "tracker first seen 2026-07-04; workday Posted 30+ Days Ago",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Qualifications: \"0-3 years of software development experience\"; base $185,000-$200,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite",
   "jobs_spec": "wd:jainglobal/wd5/ExternalSite",
-  "evidence": "Workday API 2026-10-06 (18 postings): Developer (Equity Arbitrage), NYC, 0-3 years experience, Python, still listed; tracker first seen 2026-07-04. Other NYC dev roles need more experience; London dev not US. Not a labeled new-grad program.",
+  "evidence": "Workday board 2026-10-07 omits this req but page is live with Apply (browser); asks 0-3 yrs, Python, NYC. Other NY dev roles senior/intern; Treasury Technology Developer (new 10-07) states no years, left out. Not a labeled program.",
   "confidence": "medium"
 }

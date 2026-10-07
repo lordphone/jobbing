@@ -1,15 +1,29 @@
 {
   "company": "Rubrik",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Product Platform Security",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737",
+      "location": "Palo Alto, CA",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"strong opportunity for new grads and early-career engineers\"; requires \"0-2 years of software development experience\"; $131,400-$197,200",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-10-31",
   "last_cycle_basis": "tracker first seen 'Software Engineer - Orchestrated Application Recovery' Palo Alto 2025-10-31; New Grad SWE 2024-09-08",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/rubrik",
   "jobs_spec": "gh:rubrik",
-  "evidence": "Rechecked 2026-10-06, same status. Greenhouse API 2026-10-05 --all (129): no entry SWE; Palo Alto SWE need 3+ yrs. No new-grad SWE live.",
+  "evidence": "Greenhouse API 2026-10-07 (133 postings, full): new Palo Alto SWE req first published 2026-10-06 explicitly targets new grads, 0-2 yrs. Other Palo Alto SWE reqs need 2-5+ or 3+ yrs; Winter internships not counted. Changed from not_yet.",
   "confidence": "high"
 }

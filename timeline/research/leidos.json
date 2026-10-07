@@ -1,56 +1,15 @@
 {
   "company": "Leidos",
+  "tier": 10,
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Entry-Level Computer Scientist",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248",
-      "location": "Huntsville, AL",
-      "opened": "on or before 2026-10-06",
-      "date_source": "workday postedOn (Posted Today)",
-      "deadline": null,
-      "grad_window": "2027 start (January or post-Spring graduation)",
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer I",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192469",
-      "location": "San Diego, CA",
-      "opened": "on or before 2026-09-22",
-      "date_source": "workday postedOn",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Junior Software Developer",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00193099",
-      "location": "Huntsville, AL",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Junior Software Engineer",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592",
-      "location": "Laurel, MD",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday postedOn",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-07-30",
-  "last_cycle_basis": "tracker first seen 2025-07-30 (Junior Software Engineer - Intel Sector, Laurel MD)",
+  "last_cycle_basis": "tracker first seen 2025-07-30 (Junior Software Engineer, Gaithersburg MD; U.S. citizenship required)",
   "excluded_reason": "clearance",
   "jobs_page": "https://leidos.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:leidos/wd5/External",
-  "evidence": "Workday API 2026-10-06: Entry-Level Computer Scientist 'Must be a U.S. citizen with the ability to obtain and maintain a Top Secret security clearance'; Junior Software Developer 'Must be a US citizen... Secret'; SWE I San Diego 'U.S. Citizen with an active SECRET'; Laurel junior SWE TS/SCI. All gated.",
+  "evidence": "Workday search 2026-10-07: every junior/entry SWE posting read requires clearance or citizenship, e.g. Huntsville Entry-Level Computer Scientist 'Must be a U.S. citizen with the ability to obtain and maintain a Top Secret security clearance'; Junior Software Developer 'Must be a US citizen'. board list is flaky.",
   "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 10,
+  "checked": "2026-10-07",
   "no_sponsorship": false
 }

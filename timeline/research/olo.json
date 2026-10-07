@@ -1,15 +1,15 @@
 {
   "company": "Olo",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Only entry-level tracker hit is Associate Software Engineer - Engage in Belfast, UK (2026-05-12), not US/Canada",
   "excluded_reason": null,
-  "no_sponsorship": null,
-  "jobs_page": false,
-  "jobs_spec": "https://jobs.lever.co/olo",
-  "evidence": "lever:olo",
-  "confidence": "Lever board (13, --all) 2026-10-06: all SWE roles Belfast/UK. No entry-level US SWE."
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.lever.co/olo",
+  "jobs_spec": "lever:olo",
+  "evidence": "lever:olo 2026-10-07 (13, full): SWE roles are all Belfast, UK; US roles are support/security/staff. No entry-level SWE in US/Toronto/Vancouver.",
+  "confidence": "high"
 }

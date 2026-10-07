@@ -1,56 +1,42 @@
 {
   "company": "Mastercard",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Site Reliability Engineer I, Launch Program 2027 - St. Louis, MO, US",
+      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
       "location": "O'Fallon, MO",
       "opened": "2026-09-24",
-      "date_source": "workday postedOn",
-      "grad_window": "anticipated graduation Dec 2026 - Jun 2027",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "api",
-      "deadline": null
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
-      "title": "Software Engineer, Launch Program 2027 - Toronto, Canada",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-24",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-06",
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer, Launch Program 2027 - Vancouver, Canada",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622",
-      "location": "Vancouver, BC, Canada",
-      "opened": "2026-09-24",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-06",
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Data Engineer I, Launch Program 2027 \u2013 Arlington, VA, US",
+      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
       "location": "Arlington, VA",
       "opened": "2026-09-30",
       "date_source": "workday startDate; tracker first seen 2026-08-24",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "api"
+      "grad_window": "Dec 2026 – Jun 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-12",
-  "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, campusapplyonly Workday site) first seen 2025-11-12",
+  "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, Campus Workday site) first seen 2025-11-12",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://mastercard.wd1.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mastercard/wd1/Campus",
-  "evidence": "Workday API/detail 2026-10-06: Toronto/Vancouver SWE Launch 2027 (deadline Oct 6 per posting; API end 2026-10-07), SRE I (O'Fallon) and Data Engineer I (Arlington) listed on board, grad Dec 2026-Jun 2027, no sponsorship (F1/OPT not eligible).",
+  "evidence": "Workday --all 2026-10-07 (77 postings) and detail: SRE I (O'Fallon) and Data Engineer I (Arlington) live, grad Dec 2026-Jun 2027, no sponsorship (F1/OPT ineligible). Prior Toronto/Vancouver SWE Launch postings (deadline 2026-10-06) now absent from board and API detail returns 403; dropped, page not opened.",
   "confidence": "high"
 }

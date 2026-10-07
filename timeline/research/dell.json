@@ -1,7 +1,7 @@
 {
   "company": "Dell",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (Oracle posting gives no posted date)",
       "grad_window": "Bachelor's with graduation date December 2026 or May 2027",
       "live_verified": "browser",
-      "deadline": null
+      "deadline": null,
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-03",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Oracle detail API 2026-10-06 still returns req 298784 (Software Engineer 1 - IT, Campus type, TX; grad Dec 2026/May 2027), ApplyWhenNotPostedFlag true, absent from list API. Browser Apply seen 2026-10-05; not re-opened (tab cap). No sponsorship text. Other 2027 programs Taipei/Limerick.",
-  "confidence": "medium"
+  "evidence": "Oracle list API (433 postings, full): no US campus SWE listed; req 298784 absent from list but opened in browser 2026-10-07 with Apply Now (Round Rock TX, ITDP AI-Native SWE, grad Dec 2026/May 2027). Other 2027 programs are Taipei/Limerick. Opened date from tracker.",
+  "confidence": "high"
 }

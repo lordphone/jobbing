@@ -1,36 +1,15 @@
 {
   "company": "New York Life Insurance Company",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate - Full-Stack AI Engineer",
-      "url": "https://careers.newyorklife.com/careers/job/44173452",
-      "location": "New York, NY (hybrid)",
-      "opened": "2026-08-26",
-      "date_source": "eightfold apply API t_create",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Associate - Full Stack Developer",
-      "url": "https://careers.newyorklife.com/careers/job/42989249",
-      "location": "New York, NY (hybrid)",
-      "opened": "2026-07-07",
-      "date_source": "eightfold apply API t_create (reposted 2026-09-03)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "checked": "2026-10-07",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker hits and no dated university-recruiting record found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.newyorklife.com/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold apply API 2026-10-06 still serves both postings (updated 2026-09-23 / 2026-09-22): Full-Stack AI Engineer 1-3 yrs SWE, Full Stack Developer 1+ yrs; Associate-level NYC hybrid; no sponsorship text. Not in keyword search results, so liveness is uncertain.",
-  "confidence": "medium"
+  "evidence": "Eightfold apply API 2026-10-07: full live listing (65 jobs) no longer includes Associate - Full-Stack AI Engineer (44173452, created 2026-08-26) or Associate - Full Stack Developer (42989249, created 2026-07-07), though direct id lookups still return them. Treated as closed; page Apply state unseen (pane unavailable). Other roles senior.",
+  "confidence": "low"
 }

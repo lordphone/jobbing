@@ -1,7 +1,7 @@
 {
   "company": "General Atomics",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "brassring lastupdated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2026-01-13",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25539&siteid=5313",
   "jobs_spec": null,
-  "evidence": "BrassRing search + job pages 2026-10-06: ~15 Software Developer I/II postings (GA-ASI). Every one checked shows 'US Citizenship Required?: Yes' and 'Clearance Required?: Desired' (Secret), plus 'Ability to obtain and maintain DoD security clearance is required'.",
+  "evidence": "BrassRing (JS-only; browser pane unavailable) 2026-10-07: WebFetch of Salina Software Developer I shows 'US Citizenship Required?: Yes', DoD clearance ability required; direct link now says expired. Earlier 2026-10-06 browser check of ~15 GA-ASI Software Developer I/II found the same on every one. 2026-10-07 web search of GA Software Developer I listings (Poway, Salina) agreed: citizenship required, DoD clearance; brassring search form could not be driven in browser.",
   "confidence": "high"
 }

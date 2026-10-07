@@ -1,7 +1,7 @@
 {
   "company": "Providence",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "earlier run (sitemap lastmod now 2026-10-04)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Data Engineer I; asks 1+ year Snowflake/Ctrl-M/ADF; ops/on-call and pipeline work, mentions mentoring junior engineers",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-23",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://providence.jobs/jobs/?q=software+engineer",
   "jobs_spec": null,
-  "evidence": "Opened Seattle posting in browser 2026-10-06: APPLY NOW shown. Data Engineer I, pipelines/Snowflake/Python, asks 1+ yr Snowflake/Ctrl-M/ADF, on-call ops flavor. Data engineering, not pure SWE; other SWE roles are senior/principal.",
+  "evidence": "Browser 2026-10-07: Data Engineer I IS - Remote (ReqID 456122) shows APPLY NOW. Search 'software engineer' (38) otherwise only Senior/Principal; data engineering, not pure SWE, so borderline.",
   "confidence": "low"
 }

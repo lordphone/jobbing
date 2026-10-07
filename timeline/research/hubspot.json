@@ -1,15 +1,16 @@
 {
   "company": "HubSpot",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "not_yet",
+  "checked": "2026-10-07",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": "2025-09-08",
-  "last_cycle_basis": "tracker first seen 'Software Engineer' Cambridge MA/Remote (RippleMatch listing) 2025-09-08",
+  "last_cycle_basis": "jobs.py history: Software Engineer (Cambridge, MA; Remote) first seen 2025-09-08 on RippleMatch (https://app.ripplematch.com/v2/public/job/c730fa3b)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.hubspot.com/careers/jobs?department=engineering&office=north-america",
   "jobs_spec": null,
-  "evidence": "hubspotjobs Greenhouse API now 404 (137 jobs on 2026-10-05, no US entry SWE). Careers page shows 'No jobs are currently listed' for North America; emerging-talent page lists no SWE entry roles; RippleMatch page shows no listings without login. Listing page may be unreliable.",
+  "jobs_spec_basis": "Greenhouse hubspotjobs API now returns 404; careers job list renders empty",
+  "evidence": "Browser 2026-10-07: careers jobs page (engineering, North America) says 'No jobs are currently listed'; Greenhouse boards API 404 (137 jobs seen 10-05), so the feed looks broken. Emerging Talent page has a Software Engineering NA track via RippleMatch, whose company page shows no postings. Retry later.",
   "confidence": "low"
 }

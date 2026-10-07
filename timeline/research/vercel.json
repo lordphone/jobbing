@@ -1,15 +1,29 @@
 {
   "company": "Vercel",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, CDN Content",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004",
+      "location": "San Francisco, CA",
+      "opened": "2026-07-07",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of experience building and operating backend services'; 'well-scoped projects... grow into owning larger pieces'; on-call 'with support from senior engineers'; $172K-$258K",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker's only Vercel entry (SWE CDN Content, 2026-07-07) is a 2+ yr role; no new-grad posting found in 2025-07 to 2026-01.",
+  "last_cycle_basis": "none found: no new-grad posting in 2025-07 to 2026-01; tracker's only Vercel entry is this CDN Content role (2026-07-07)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/vercel",
   "jobs_spec": "gh:vercel",
-  "evidence": "gh:vercel 2026-10-06 (--all): only experienced SWE/FDE roles plus Summer '27 and Winter '27 SWE interns; no new-grad or early-career full-time title.",
-  "confidence": "medium"
+  "evidence": "Greenhouse board (85, full) screened 2026-10-07: no new-grad title; only Summer/Winter '27 interns. CDN Content SWE is a junior-scoped role asking 2+ yrs (borderline, pay high); all other SWE roles ask 3-8+ yrs. Status differs from 2026-10-06 file.",
+  "confidence": "low"
 }

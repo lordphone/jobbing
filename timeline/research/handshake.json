@@ -1,15 +1,29 @@
 {
   "company": "Handshake",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I, Build Review & Test",
+      "url": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-07",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-09-07",
   "last_cycle_basis": "Tracker first seen 'Fullstack Engineer I (TypeScript focused)' SF/NYC 2025-09-08, https://jobs.ashbyhq.com/handshake/cf0cac2a-75c7-4872-aa6e-0d78ed98301f",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/handshake",
   "jobs_spec": "ashby:handshake",
-  "evidence": "Ashby board (81): no live US entry-level SWE (SWE II RL and FDE I are India; FDE Enterprise AI SF asks 1-4+ yrs). Associate SWE (2026-08-11) and iOS Engineer 1 (2026-07-07) pages open blank, unlike live postings: gone.",
+  "evidence": "ashby:handshake full board (81) 2026-10-07: new 'Software Engineer I' (SF) published today, level I by title but asks about 3-5 yrs; judgement call. Earlier status was closed. FDE Enterprise AI SF asks 1-4+ yrs, not counted; SWE II and FDE I are India.",
   "confidence": "medium"
 }

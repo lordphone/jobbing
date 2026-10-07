@@ -1,7 +1,7 @@
 {
   "company": "Viasat",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "viasat jibe api posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-06-07",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-06: only US early-career SWE (6723, 0-3 yrs) says 'This position requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Other US SWE roles need 2+ to 5+ yrs or clearance; Data Engineer Early Career is London.",
+  "evidence": "Jibe API 2026-10-07 (258 jobs): only US early-career SWE (6723, 0-3 yrs) says 'requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Other US SWE roles need 2-8 yrs (6907 is US Citizenship-tagged) or clearance.",
   "confidence": "high"
 }

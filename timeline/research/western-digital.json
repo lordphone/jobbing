@@ -1,26 +1,42 @@
 {
   "company": "Western Digital",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (early career development program)",
+      "title": "Software Engineer (early career: System Tools / Applications Software Engineering)",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
       "location": "San Jose, CA; Irvine, CA; Fremont, CA; Longmont, CO; Colorado Springs, CO; Rochester, MN",
       "opened": "2026-07-20",
       "date_source": "smartrecruiters releasedDate",
-      "deadline": "2026-10-20 (stated; may close sooner)",
-      "grad_window": "currently pursuing or recently completed BS/MS; ~0-2+ yrs",
-      "live_verified": "api"
+      "deadline": "2026-10-20 (anticipated; may close sooner)",
+      "grad_window": "currently pursuing or recently completed BS/MS",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "SmartRecruiters experience level Entry Level; posting supports early-career hiring",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Apps)",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
+      "location": "San Jose, CA",
+      "opened": "2026-08-11",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": "2026-11-11 (anticipated; may close sooner)",
+      "grad_window": "requires currently pursuing a BS in CS or related field",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "SmartRecruiters experience level Entry Level, full-time; requires 'Currently pursuing a BS degree', no years asked; may skew to students",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first seen: New College Grad Software Engineer - Software Engineering Development, San Jose CA, jobs.smartrecruiters.com/WesternDigital/744000076460273, 2025-08-15",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/WesternDigital",
   "jobs_spec": "sr:WesternDigital",
-  "evidence": "SR API 2026-10-06: Software Engineer (early career, released 2026-07-20) still listed; text says application deadline anticipated 10/20/26. No sponsorship text. Browser Apply seen 2026-10-05; not reopened (tab cap). Interns and Apps role not counted.",
-  "confidence": "high"
+  "evidence": "SR API 2026-10-07 (339 postings, full), posting text read: two Entry Level US SWE postings still listed. Apps role says right to work in US without sponsorship required and wants a student pursuing BS; included as borderline (prior file left it out). Other US SWE are staff/principal; interns excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

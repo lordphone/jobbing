@@ -1,7 +1,6 @@
 {
   "company": "Arrow Electronics",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +9,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://arrow.wd1.myworkdayjobs.com/ac",
   "jobs_spec": "wd:arrow/wd1/ac",
-  "evidence": "Workday API paged in full 2026-10-06 (475 postings): US roles are field applications, finance, warehouse, ops, IT (RPA Developer, Infrastructure Engineer II) and eInfochips hardware/verification; no entry-level SWE. Entry software roles are Egypt/India only.",
-  "confidence": "high"
+  "evidence": "Workday API paged in full 2026-10-07 (476 postings; earlier passes were partial from rate limiting). US roles: field applications, finance, ops, RPA Developer (3+ yrs), eInfochips hardware/verification/embedded; no entry-level SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

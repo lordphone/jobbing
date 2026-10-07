@@ -1,15 +1,16 @@
 {
   "company": "Nextdoor",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-22",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer - New Grad 2026', Dallas TX at https://about.nextdoor.com/careers-list/?gh_jid=6978039",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/nextdoorcampus",
-  "jobs_spec": "gh:nextdoorcampus",
-  "evidence": "Nextdoor Campus Greenhouse has 0 jobs 2026-10-06; main board (21) has only mid/senior Software Engineer - Fullstack (SF/Dallas, 2026-09-14), Senior roles. Last cycle's new-grad roles posted Sep-Oct.",
-  "confidence": "high"
+  "jobs_page": "https://about.nextdoor.com/careers-list/",
+  "jobs_spec": "gh:nextdoor",
+  "evidence": "gh:nextdoor (21, full) 2026-10-07: no new-grad title. Software Engineer - Fullstack (SF/Dallas, 2026-09-14) needs 2+ yrs, 'own projects', $135K-$200K: mid-level, left out. Senior Backend and ML Ads (2024) old. Campus board has 0 jobs; last cycle's new-grad roles posted Sep-Oct.",
+  "confidence": "medium",
+  "jobs_spec_basis": "careers-list page embeds Greenhouse board for=nextdoor; nextdoorcampus lists 0 jobs and is not linked there"
 }

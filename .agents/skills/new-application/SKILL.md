@@ -27,6 +27,7 @@ description: >-
    - Research: 1–2 if the JD cares; if it does not, keep it as fill before leaving empty space
    - Projects / leadership: 1–2 lines
    - Skills: reorder so JD keywords sit in the first two rows; drop the rest
+   - Certifications: strongly recommended. Keep both AWS certifications as their own Skills row (`Certifications`); most employers run on cloud. Cut them only as a last resort to fit the page, and say so in `selection.md`
    - Coursework: 2–4 per school, JD-relevant first
    - Section lengths above are defaults. To fill the page, add the next-best unused inventory item or expand a selected bullet with relevant unused facts (second Haddee/ZenAI line, research, project details, extra project); do not repeat claims. Only after useful inventory content is exhausted may you modestly loosen itemsep / titlespacing. Preserve the shared margins and font size; do not use blank lines, manual vertical padding, or stretched spacing to disguise missing content. If it spills to two pages, cut the lowest-value line.
 4. Write the bullets from the picked facts. Header city (`\header{City}`): prefer Mountain View, CA whenever the JD allows the SF Bay (including multi-office postings that list New York or Seattle alongside SF / South San Francisco / Bay). Canada-only → Toronto, ON. New York only if the JD is New York–only with no Bay option. Otherwise Mountain View, CA.

@@ -1,7 +1,7 @@
 {
   "company": "Cigna",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen 2026-08-12 (earlier req, reposted); current req workday startDate 2026-09-09",
       "deadline": "mid-October 2026 or once filled (posting text)",
       "grad_window": "start date July 12, 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Technology Development Program (TECDP) - Artificial Intelligence Track - Start Date: July 12, 2027",
@@ -22,7 +25,10 @@
       "date_source": "tracker first seen 2026-08-11 (earlier req, reposted); current req workday startDate 2026-09-09",
       "deadline": "mid-October 2026 or once filled (posting text)",
       "grad_window": "start date July 12, 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027",
@@ -32,7 +38,10 @@
       "date_source": "tracker first seen 2026-08-12 (earlier req, reposted); current req workday startDate 2026-09-09",
       "deadline": "mid-October 2026 or once filled (posting text)",
       "grad_window": "start date July 12, 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-04",
@@ -41,6 +50,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
   "jobs_spec": "wd:cigna/wd5/cignacareers",
-  "evidence": "Workday board and detail 2026-10-06: 2027 TECDP Software Eng, Data & Analytics, AI tracks live (canApply true, start July 12 2027). 'do not now, or in the future, require visa sponsorship' incl. H-1B, CPT/OPT/STEM. Posting: application window closes by mid-October 2026 or once filled.",
+  "evidence": "Workday CXS 2026-10-07: TECDP Software, AI, Data & Analytics tracks (start Jul 12 2027) live; details read via jobs.py. 'do not now, or in the future, require visa sponsorship' incl. H-1B, CPT/OPT/STEM. Deadline mid-Oct per prior reading.",
   "confidence": "high"
 }

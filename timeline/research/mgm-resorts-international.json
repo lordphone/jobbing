@@ -1,7 +1,6 @@
 {
   "company": "MGM Resorts International",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Associate title; requires '1 Year of Prior Relevant Experience' and Bachelors in CS; no senior duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
   "jobs_spec": "wd:mgmresorts/wd5/MGMCareers",
-  "evidence": "Workday API + cxs detail 2026-10-06: Digital Software Engineer Associate (Home Office NV) startDate 2026-10-05, Bachelor's CS, 1 yr exp, Apply live, no sponsorship text. Single entry posting, not a named program.",
-  "confidence": "medium"
+  "evidence": "Workday cxs search 2026-10-07 (jobs.py board lists only 60 of the board; keyword searches show more): Digital Software Engineer Associate canApply true, startDate 2026-10-05, 1 yr, no sponsorship text. Others are Sr/Lead/Director. Single posting, not a named program.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

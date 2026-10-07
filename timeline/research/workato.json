@@ -1,15 +1,15 @@
 {
   "company": "Workato",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows no US new-grad SWE postings",
+  "last_cycle_basis": "tracker history shows no US new-grad SWE postings (jobs.py history empty)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/workato",
   "jobs_spec": "gh:workato",
-  "evidence": "Rechecked 2026-10-06, same status. Greenhouse API 2026-10-05: 74 postings; no entry-level SWE. FDE (Boston/NY/Palo Alto) not entry; interns are Singapore/Tokyo/SF AI intern only.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board 2026-10-07 (73): only US engineering roles are Forward Deployed Engineer (Boston/NY/Palo Alto, requires 4+ yrs) and a San Francisco AI Engineering intern; rest are Senior/Staff/Manager or non-US. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

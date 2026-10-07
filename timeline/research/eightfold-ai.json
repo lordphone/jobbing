@@ -1,15 +1,55 @@
 {
   "company": "Eightfold AI",
   "tier": 2,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - AI Agentic Product Dev Team (US)",
+      "url": "https://app.eightfold.ai/careers/job/68763148348",
+      "location": "Santa Clara, CA",
+      "opened": "2026-08-04",
+      "date_source": "eightfold board posting date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1-2 years of professional software engineering experience'; duties are feature building and code review, no leading or architecture ownership",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - AI Agentic Product Dev Team (US)",
+      "url": "https://app.eightfold.ai/careers/job/68761482276",
+      "location": "Santa Clara, CA",
+      "opened": "2026-05-25",
+      "date_source": "eightfold board posting date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1-2 years of professional software engineering experience'; duties are feature building and code review, no leading or architecture ownership",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - AI Agentic Product Dev Team (US)",
+      "url": "https://app.eightfold.ai/careers/job/68760523722",
+      "location": "Santa Clara, CA",
+      "opened": "2026-05-11",
+      "date_source": "eightfold board posting date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1-2 years of professional software engineering experience'; duties are feature building and code review, no leading or architecture ownership",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history for Eightfold.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://app.eightfold.ai/careers/search",
   "jobs_spec": "eightfold:app.eightfold.ai/eightfold.ai",
-  "evidence": "Own board API 2026-10-06 (14 postings): Santa Clara 'Software Engineer - AI Agentic Product Dev Team (US)' x3 and Data Platform SWE are not labeled new grad/entry-level; others senior/lead.",
+  "evidence": "Board API 2026-10-07 (30 US postings): three Santa Clara Software Engineer, AI Agentic Product Dev roles require 1-2 yrs, no senior duties; live via job API. Not labeled new grad (changed from earlier no_program_found). Data Platform SWE and MLE ask 1-3+ yrs, left out.",
   "confidence": "medium"
 }

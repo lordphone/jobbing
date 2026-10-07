@@ -1,7 +1,6 @@
 {
   "company": "Superhuman (Grammarly)",
   "tier": 3,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "graduating in 2026 or 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, Full-Stack - GPTZero, Early Career",
@@ -22,15 +24,19 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "graduating in 2026 or 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history only shows this cycle's postings; no 2025-07 to 2026-01 posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker history shows only this cycle's postings; no 2025-07 to 2026-01 new-grad posting found.",
   "jobs_page": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc",
   "jobs_spec": "ashby:Superhuman%20Platform%20Inc",
-  "evidence": "ashby board 2026-10-06 (73 postings): both Early Career SWE postings listed live via API and opened with detail. Grad 2026 or 2027. No sponsorship, citizenship or deadline text found.",
-  "confidence": "high"
+  "evidence": "Ashby full board (75) 2026-10-07: both Early Career SWE postings live via API (SF/Seattle 2026-09-14; Toronto 2026-09-29), grad 2026 or 2027. All other SWE roles ask 5+ yrs. No sponsorship, citizenship or deadline text.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

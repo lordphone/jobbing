@@ -1,15 +1,29 @@
 {
   "company": "Paramount Skydance",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - AI Tooling & Quality Engineering Platforms",
+      "url": "https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1433499400/",
+      "location": "New York, NY; Burbank, CA; Los Angeles, CA; San Francisco, CA",
+      "opened": "2026-09-24",
+      "date_source": "page text (posted date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; 'under senior guidance'; unlabeled title 'Software Engineer'; no lead duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-05-16",
   "last_cycle_basis": "tracker first seen: Machine Learning Engineer - Entry, Burbank/NYC (careers.paramount.com, later closed); spring opening outside Jul-Jan window, no fixed program",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.paramount.com/go/Technology/8710300/",
   "jobs_spec": null,
-  "evidence": "careers.paramount.com (SuccessFactors) read via WebFetch 2026-10-06 (all-jobs list and software engineer search): US software roles are Lead/Senior; Data Engineer ETL Burbank unlabeled, not SWE. No entry-labeled SWE live. ML Engineer - Entry (May 2026) closed.",
-  "confidence": "medium"
+  "evidence": "SuccessFactors search 'software engineer' 2026-10-07 (116; first 25 read, rest Lead/Senior). One unlabeled Software Engineer (AI Tooling, 2+ yrs, 'under senior guidance') fits the entry rule but is borderline. No entry-labeled SWE; ML Engineer - Entry (May 2026) closed.",
+  "confidence": "low",
+  "checked": "2026-10-07"
 }

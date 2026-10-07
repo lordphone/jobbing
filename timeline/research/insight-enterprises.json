@@ -1,7 +1,7 @@
 {
   "company": "Insight Enterprises",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.insight.com/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold JSON API (careers.insight.com, 77 US jobs, all titles read) 2026-10-06: technicians, warehouse, sales, architects; software/AI roles are Senior/architect level. No entry-level SWE or new-grad program.",
+  "evidence": "careers.insight.com blocks plain requests (403); jobsearch.insight.com search 'software engineer' (39) and 'developer' (70, page 1) 2026-10-07: technicians, sales, architects, senior AI roles; no entry-level SWE or program. Matches 2026-10-06 Eightfold read.",
   "confidence": "medium"
 }

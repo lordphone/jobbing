@@ -1,5 +1,7 @@
 {
   "company": "BCG X",
+  "tier": 10,
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -10,17 +12,18 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Dec 2026 - Aug 2027 (per search summaries)",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-24",
-  "last_cycle_basis": "tracker: BCG X 'AI Engineer' (general, Boston/Seattle/SF etc.) first seen 2025-11-24, https://careers.bcg.com/global/en/job/55995; campus 'New Grad 2025: AI Software Engineer' was 2024-08-06",
+  "last_cycle_basis": "tracker: BCG X 'AI Engineer' (general, Boston/Seattle/SF etc.) first seen 2025-11-24, https://careers.bcg.com/global/en/job/55995",
   "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.bcg.com/global/en/search-results",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: campus Forward Deployed AI Engineer job/59067 says the job 'has been filled' (first seen 2026-08-19). Search 'engineer' shows only the general all-level US FDE posting 59461 (datePosted 2026-10-04, levels I-Senior, no class year); not counted as new-grad.",
-  "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 10,
-  "no_sponsorship": false
+  "evidence": "Phenom search API 2026-10-07, all 899 jobs read: campus Forward Deployed AI Engineer 59067 (first seen 2026-08-19) no longer listed. Only live FDE is the US experienced-hire posting 59461 (levels I-Senior, no years or class year stated); not counted as new-grad.",
+  "confidence": "medium"
 }

@@ -1,15 +1,29 @@
 {
   "company": "ICF",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Computer Scientist / Software Developer, Junior - Security Clearance Required",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Adelphi-MD/Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165",
+      "location": "Adelphi, MD",
+      "opened": "on or before 2026-08-13",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; 'Citizenship is required'; 'active US Government required Security clearance'",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-09-25",
   "last_cycle_basis": "Tracker last-cycle first seen 2025-09-25; ICF posted May/Dec 2025 grad SWE roles in Oct-Nov 2024 (tracker history)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site",
   "jobs_spec": "wd:icf/wd5/icfexternal_career_site",
-  "evidence": "Workday API 2026-10-06 (38, --all): Computer Scientist / Software Developer, Junior (Adelphi MD): \"U.S. Citizenship is required\" plus active clearance; Software Developer Journeyman, Associate ServiceNow Developer need clearance. 2027 postings are interns or non-SWE.",
-  "confidence": "medium"
+  "evidence": "Workday CXS 2026-10-07 (searched software/developer/engineer/data/junior/AI; jobs.py board returns not found): only entry SWE is Junior Software Developer (Adelphi MD) quoting 'Citizenship is required' plus clearance. Other SWE/data/Salesforce roles need 3-6+ yrs; several also require US citizenship.",
+  "confidence": "high"
 }

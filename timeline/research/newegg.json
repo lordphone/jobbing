@@ -1,7 +1,6 @@
 {
   "company": "Newegg",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "leftover_2026",
   "postings": [
     {
@@ -9,18 +8,22 @@
       "url": "https://myjobs.adp.com/newegg/cx/job-details?reqId=5001202827206",
       "location": "Diamond Bar, CA",
       "opened": "2026-06-02",
-      "date_source": "page text (ADP postingDate)",
+      "date_source": "adp postingDate",
       "deadline": null,
       "grad_window": "Graduating in or before Dec 2026, or graduated within the last 12 months",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP API 2026-10-06 lists 'Newegg Early Career Talent Program - Temp to hire' (Diamond Bar CA, IT, 30 openings, posted 2026-06-02): requires graduation in or before Dec 2026 or grad within 12 months; multi-BU, not SWE-specific; third-party shows removed 2026-09-04.",
-  "confidence": "medium"
+  "evidence": "ADP public API (header orgoid 09FCEF350B10124A) lists 89 reqs 2026-10-07: only the multi-BU Early Career Talent Program (IT category, grad by Dec 2026, not SWE-specific; recorded as leftover) plus Business System Developer (Ontario, logistics systems; asks \"proven experience\"), no entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

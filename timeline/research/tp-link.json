@@ -1,7 +1,7 @@
 {
   "company": "TP-Link",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "leftover_2026",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-05-12",
       "date_source": "workable published",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "2026 class",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-05",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.workable.com/company/qZcsEs6SLAUmDv4AbsPYFC/jobs-at-tp-link-systems-inc.",
   "jobs_spec": null,
-  "evidence": "Workable API (tp-link-usa-corp, 82 jobs) 2026-10-06: 2026 Early Career Embedded SWE (Irvine, published 2026-05-12) still published; no 2027 posting. Other SWE roles need 2-5+ yrs.",
+  "evidence": "Workable API (tp-link-usa-corp, 82 jobs) 2026-10-07: 2026 Early Career Embedded SWE (Irvine, published 2026-05-12) still published; no 2027 posting. Other SWE roles ask 2-5+ yrs (Wireless embedded needs 2+ yrs Wi-Fi driver work; Cloud SWE Backend 2+ yrs, Feb 2026), left out.",
   "confidence": "medium"
 }

@@ -1,15 +1,16 @@
 {
   "company": "Integral Ad Science",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no new-grad history in trackers; unknown",
   "jobs_page": "https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/",
   "jobs_spec": "wd:integralads/wd1/IAScareers",
-  "evidence": "Workday CXS API 2026-10-06 (12 reqs read): Publisher Growth Manager, Technical Account Manager, Solutions Architect only; no engineering postings.",
-  "confidence": "high"
+  "jobs_spec_basis": "jobs.py board says not found, but Workday cxs API answers directly (12 postings)",
+  "evidence": "Workday cxs 2026-10-07 (12 postings): publisher growth, technical account manager, solutions architect, client partner, recruiter, VP product; no engineering postings.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,15 +1,15 @@
 {
+  "company": "Temu (PDD Holdings)",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
+  "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no this-cycle or last-cycle new-grad SWE posting found",
+  "last_cycle_basis": "No new-grad history found.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "company": "Temu (PDD Holdings)",
-  "status": "unknown",
   "jobs_page": "https://careers.temu.com",
   "jobs_spec": null,
-  "evidence": "careers.temu.com returns error_code 40003 (403) to curl and the browser pane 2026-10-06; web search shows only third-party listings of US SWE roles, no new-grad program. Could not read the board, so not concluding no program.",
+  "evidence": "careers.temu.com returns error_code 40003 (403) in WebFetch, curl and the browser pane (/ and /home) 2026-10-07. Two web searches found only third-party aggregator listings of US SWE roles, none new-grad. Not read first-party; retry later.",
   "confidence": "low"
 }

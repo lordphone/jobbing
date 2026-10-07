@@ -7,21 +7,27 @@
       "title": "2027 University Graduate - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
       "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday postedOn",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate (API)",
       "grad_window": "December 2026 - June 2027",
       "live_verified": "api",
-      "deadline": null
+      "deadline": "2026-12-31",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 University Graduate - Machine Learning Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
       "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "opened": "2026-09-23",
-      "date_source": "tracker first seen",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate (API)",
       "grad_window": "December 2026 - June 2027",
       "live_verified": "api",
-      "deadline": null
+      "deadline": "2026-12-31",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-22",
@@ -30,7 +36,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
   "jobs_spec": "wd:adobe/wd5/external_experienced",
-  "evidence": "Workday API 2026-10-06: both 2027 University Graduate postings (SWE, MLE) listed; grad window Dec 2026-Jun 2027; no deadline, rolling basis. No citizenship/sponsorship exclusion.",
+  "evidence": "Workday CXS 2026-10-07: both 2027 University Graduate postings (SWE 0-1 yrs; MLE PhD or MS) canApply=true, startDate 2026-09-24, endDate 2026-12-31 (API end date). Grad window Dec 2026-Jun 2027. No citizenship or sponsorship language found.",
   "confidence": "high",
-  "checked": "2026-10-06"
+  "checked": "2026-10-07"
 }

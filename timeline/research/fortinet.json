@@ -1,7 +1,6 @@
 {
   "company": "Fortinet",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "oracle posted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; 'Frontend experience from an internship, co-op, coursework, or personal projects'; Bachelor's or Master's; $123,000-$151,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-01",
   "last_cycle_basis": "tracker first seen 'New Grad Jobs 2025' Ottawa 2025-08-01; later 'Applied AI Engineer - PhD New Graduate' Sunnyvale 2026-02-11",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:edel.fa.us2.oraclecloud.com/CX_2001",
-  "evidence": "Rechecked 2026-10-06, same status. Oracle API 2026-10-05: SDE (GUI) Sunnyvale posted 2026-09-17, BS/MS, coursework ok (entry); must work without sponsorship. 'New Grads 2026 (US)' pipeline (2025/2026 grads, 2026-07-02) is last-cycle, not counted.",
-  "confidence": "medium"
+  "evidence": "Oracle board (995, full) 2026-10-07; screened US/Canada software roles since July: only SDE (GUI) reads entry-level; others need 3+ yrs or are mid-level. Must work without sponsorship. 'New Grads 2026 (US)' pipeline (2026-07-02) and Network Support New Grads 2026 are last-cycle/non-SWE, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null
 }

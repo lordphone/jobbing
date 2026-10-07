@@ -1,7 +1,6 @@
 {
   "company": "Caris Life Sciences",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "tracker first seen (Workday startDate 2026-08-24)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-13",
-  "last_cycle_basis": "tracker first seen: Associate Software Engineer - Clinical Systems, Irving TX (carislifesciences.wd12.myworkdayjobs.com)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker: Associate Software Engineer - Clinical Systems (Irving, TX) first seen 2025-10-13",
   "jobs_page": "https://carislifesciences.wd12.myworkdayjobs.com/cls",
   "jobs_spec": "wd:carislifesciences/wd12/cls",
-  "evidence": "Workday API/CXS + detail 2026-10-06: Associate Software Engineer live, startDate 2026-08-24, no endDate, Irving TX hybrid. Posting text has no sponsorship line (tracker flags 'does not offer'). Software Engineer (non-associate) also listed.",
-  "confidence": "high"
+  "evidence": "Workday full board (124) read 2026-10-07: Associate Software Engineer (Irving, TX; 0-2 yrs, canApply true, no end date) is live. Software Engineer asks 2+ yrs with no entry signal, left out. Posting text has no sponsorship line (tracker flagged 'does not offer').",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

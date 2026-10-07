@@ -1,7 +1,7 @@
 {
   "company": "Merck & Co. (MSD)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://jobs.merck.com/us/en/job/MERCUSR404472ENUS/2027-Future-Talent-Program-IT-Emerging-Talent-Rotational-ETR-Program-Hybrid",
       "location": "Rahway, NJ; West Point, PA; North Wales, PA",
       "opened": "2026-09-21",
-      "date_source": "page text (JSON-LD datePosted); workday posted 2026-09-22",
+      "date_source": "page text (JSON-LD datePosted); workday startDate 2026-09-22",
       "deadline": "2026-10-09",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "start July 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "'This is an entry-level full-time position'; 3 rotations across IT incl. Software Development, AI/ML, Data",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.merck.com/us/en/search-results",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Workday CXS + detail 2026-10-06: 2027 IT Emerging Talent Rotational (R404472) live, endDate 2026-10-09, entry-level, 'No Visa Sponsorship', start July 2027. Rotational IT, not SWE-only. Other US IT roles need experience.",
+  "evidence": "Workday CXS detail 2026-10-07: R404472 canApply true, ends 2026-10-09 (not in the 260-posting board list, but posting API and merck page still serve it), 'No Visa Sponsorship'. Rotational IT program, not SWE-only. No other entry-level US SWE on board.",
   "confidence": "medium"
 }

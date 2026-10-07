@@ -18,7 +18,7 @@
 - SportsBreak App Store link: https://apps.apple.com/app/id6762649287 — on every resume, hyperlink the name "SportsBreak" in the iOS / SwiftUI bullet to this page (`\href{https://apps.apple.com/app/id6762649287}{SportsBreak}`); name the app there rather than "a consumer sports app"
 - secondary: DramaBreak (iOS + `aigc-service`), `nbot-curator-server`, newsletter tool
 - DramaBreak App Store link: https://apps.apple.com/app/id6758861738 — when a resume names DramaBreak, hyperlink the name to this page (`\href{https://apps.apple.com/app/id6758861738}{DramaBreak}`)
-- stack: Python 3.12, FastAPI, MongoDB/Motor, Pydantic, Swift/SwiftUI, Firebase, APNs, Amplitude, AppLovin MAX, Kubernetes/EKS, Helm, Jenkins, Docker, GitHub Actions, Langfuse, RAG
+- stack: Python 3.12, FastAPI, MongoDB/Motor, Pydantic, Swift/SwiftUI, Firebase, APNs, Amplitude, AppLovin MAX, Kubernetes/EKS, Helm, Jenkins, Docker, GitHub Actions, Langfuse, Prometheus, Grafana, RAG
 - grew the app with the team
 
 ---
@@ -120,6 +120,18 @@ facts:
 - fixed the mechanism, not the detection (no cron success/duration metrics)
 approved:
 - default: Diagnosed a 5-day silent Live Activity CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency) and fixed it with paired job and scheduler deadlines.
+
+## nb-observability
+
+tags: infra, kubernetes, observability
+facts:
+- he set up Prometheus and Grafana for the SportsBreak backend
+- Prometheus collected metrics from the AWS EC2 instances (EKS nodes) the backend ran on
+- Grafana for dashboards
+- which metrics, how many dashboards, and any alerts are not recorded yet; do not invent them
+- not CronJob success/duration metrics (see nb-cronjob-outage)
+approved:
+- default: Set up Prometheus metrics and Grafana dashboards for the SportsBreak backend on EKS.
 
 ---
 

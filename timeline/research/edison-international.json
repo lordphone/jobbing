@@ -1,7 +1,7 @@
 {
   "company": "Edison International (Southern California Edison)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-05-17",
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.edisoncareers.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "apply.edisoncareers.com tile-search listing (150 jobs): only 2027 summer internships (incl. Computer Science, Software/Data Engineering) and senior/advisor tech roles; no entry SWE live. Entry SWE posted ad hoc.",
-  "confidence": "medium"
+  "evidence": "SCE jobs API (m-cloud, org companies/3f187166..., all 216 jobs) 2026-10-07: only 2027 summer internships (incl. Software/Data Engineering, Chino) and advisor/senior tech roles (Data Engineering Advisor 7+ yrs, Grid Mgmt Developer 3+ yrs). No entry SWE live; entry SWE posted ad hoc (spring 2026).",
+  "confidence": "medium",
+  "jobs_spec_basis": "edisoncareers.com job search is backed by jobsapi-google.m-cloud.io (org companies/3f187166-f813-42e8-b28c-afdaec98d345); no jobs.py spec"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Accenture",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -10,29 +10,12 @@
       "location": "San Antonio, TX",
       "opened": "on or before 2026-08-12",
       "date_source": "tracker first seen (API releasedDate 2014 is a reused template ad)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "deadline": null
-    },
-    {
-      "title": "Associate Software Engineer-Hire-to-Train Program (Pega) (Accenture Federal Services; requires US citizen + Top Secret eligibility)",
-      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006",
-      "location": "Washington, DC; Arlington, VA",
-      "opened": "2026-09-03",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Junior Forward Deployed Engineer (Accenture Federal Services; requires US citizen + clearance)",
-      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4715182006",
-      "location": "Arlington, VA",
-      "opened": "2026-09-21",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "level": "new-grad title",
+      "level_basis": "experienceLevel entry_level; basic qualification is a 2 or 4 year STEM degree",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-12-03",
@@ -41,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
   "jobs_spec": "wd:accenture/wd103/AccentureCareers",
-  "evidence": "Workday 2026-10-06: US NAELFY27 roles are Technology Summer Analyst (intern-style, grad Dec 2027-Aug 2028), no full-time SWE. AFS SmartRecruiters Java Associate (San Antonio) active via API, no clearance quoted, no sponsorship. AFS Pega/FDE Greenhouse roles quote U.S. citizen/clearance.",
+  "evidence": "Workday 2026-10-07: NAELFY27 US roles are Summer Analyst internships (not counted). AFS SmartRecruiters Java Associate (San Antonio) active via API and page; no clearance quoted; no sponsorship. AFS Pega, Junior FDE, Analyst and Full Stack roles quote U.S. citizenship/clearance (excluded).",
   "confidence": "medium"
 }

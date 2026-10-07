@@ -1,5 +1,6 @@
 {
   "company": "NCR Voyix",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -7,10 +8,13 @@
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
       "location": "Atlanta, GA",
       "opened": "on or before 2026-06-26",
-      "date_source": "workday startDate 2026-06-26; 'Posted 30+ Days Ago'; posting text marks it (Evergreen)",
+      "date_source": "workday startDate 2026-06-26; 'Posted 30+ Days Ago'; earlier browser read marked it Evergreen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Entry-level 'I' title; bachelor's in CS plus Java/SQL knowledge, no years required",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-04",
@@ -19,8 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://ncr.wd1.myworkdayjobs.com/ext_us",
   "jobs_spec": "wd:ncr/wd1/ext_us",
-  "evidence": "Workday API+detail 2026-10-06 still lists SW Engineer I, Atlanta (startDate 2026-06-26), same as prior file; earlier browser read showed Apply and Evergreen. Other SWE roles II/III+ (Software Engineer asks 2 yrs).",
+  "evidence": "Workday full board 2026-10-07 (176): SW Engineer I Atlanta listed, cxs canApply true, startDate 2026-06-26, entry-level requirements. Others are II/III/Senior or need 2-5+ yrs (Software Engineer 2 yrs + mentoring; System Software Developer 1-6 yrs, not counted).",
   "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 5
+  "checked": "2026-10-07"
 }

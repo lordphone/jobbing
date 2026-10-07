@@ -1,6 +1,7 @@
 {
   "company": "Microsoft",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -8,20 +9,13 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "location": "Redmond, WA",
       "opened": "2026-10-01",
-      "date_source": "page text (Date posted)",
-      "deadline": null,
-      "grad_window": "Summer 2027 (May-Sep) start date per posting",
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer (IC2), Redmond",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
-      "location": "Redmond, WA",
-      "opened": "2026-10-01",
       "date_source": "eightfold postedTs",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "Summer 2027 (May-Sep) start date per posting",
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "IC2 #EiP tag; targets Summer 2027 start; preferred (not required) 1+ yr",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer (IC2, #EiP), AI infrastructure",
@@ -31,17 +25,23 @@
       "date_source": "eightfold postedTs",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "#EiP tag; required: bachelor's degree plus coding experience, no years stated",
+      "no_sponsorship": false
     },
     {
-      "title": "Software Engineering (IC2, #EiP)",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
+      "title": "Software Engineering IC2",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
       "location": "Redmond, WA",
-      "opened": "2026-10-02",
+      "opened": "2026-10-07",
       "date_source": "eightfold postedTs",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's in CS with proven coding experience, no years stated; IC2 entry level",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-07",
@@ -50,7 +50,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.careers.microsoft.com",
   "jobs_spec": "eightfold:apply.careers.microsoft.com/microsoft.com",
-  "evidence": "Eightfold search + position_details API 2026-10-06: four IC2 SWE postings Oct 1-2 in Redmond still resolve (two tagged #EiP, CoreAI targets Summer 2027 start); FDE IC2 posting no longer resolves. No citizenship text. No new-grad label; IC2 entry track.",
-  "confidence": "medium",
-  "checked": "2026-10-06"
+  "jobs_spec_basis": "jobs.py eightfold spec returned no response; used site's own /api/pcsx search and position_details in the browser pane",
+  "evidence": "pcsx search + position_details in browser 2026-10-07: three IC2/#EiP SWE postings in Redmond resolve (Oct 1-7). Two earlier IC2 postings (\u202622395, \u2026999325) no longer resolve. 'Software Engineer II' roles ask 2+ yrs, not counted. Cloud background check only; no deadline.",
+  "confidence": "medium"
 }

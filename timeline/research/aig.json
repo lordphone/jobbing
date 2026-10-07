@@ -1,7 +1,7 @@
 {
   "company": "AIG (American International Group)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
       "grad_window": "within one year of completing degree",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 Early Careers: Analyst, Gen AI Engineering",
@@ -22,7 +25,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
       "grad_window": "within one year of completing degree",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 Early Careers: Analyst, Data Office: Data Engineering",
@@ -32,7 +38,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-11-15",
       "grad_window": "within one year of completing degree",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-20",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aig.wd1.myworkdayjobs.com/early_careers",
   "jobs_spec": "wd:aig/wd1/early_careers",
-  "evidence": "Workday early_careers 2026-10-06: three 2027 Early Careers analyst postings (Technology, Gen AI Engineering, Data Engineering) read via detail API; endDate 2026-10-31 / 2026-11-15; no citizenship or sponsorship limit seen. Pages not opened in browser.",
+  "evidence": "Workday early_careers board (53, full) 2026-10-07: three live 2027 Early Careers analyst postings (Technology, Gen AI Engineering, Data Engineering) read via detail API; start July 2027; closes 2026-10-31 / 2026-11-15; Technology wants prior internship; no citizenship/sponsorship limit seen. Data Science, BI not counted.",
   "confidence": "high"
 }

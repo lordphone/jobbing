@@ -1,7 +1,6 @@
 {
   "company": "Truveta",
   "tier": 3,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'seeking enthusiastic new graduates'; lists 3+ yrs; $110,000-$145,000",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer - Clinical Analytics",
@@ -22,15 +24,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'seeking enthusiastic new graduates'; 2+ yrs; $110,000-$145,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-09",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer - Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
+  "last_cycle_basis": "jobs.py history: 'Software Engineer – Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/truveta",
   "jobs_spec": "gh:truveta",
-  "evidence": "Greenhouse API and detail 2026-10-06: both Seattle SWE postings say 'seeking enthusiastic new graduates' (2-3+ yrs listed, not disqualifying) and 'unable to sponsor work visas'. Listed live on board; Apply page not opened.",
-  "confidence": "medium"
+  "evidence": "Full Greenhouse board (38) read 2026-10-07; screened 8 unlabeled SWE. Two Seattle SWE postings say 'seeking enthusiastic new graduates' (2+/3+ yrs not disqualifying), 'unable to sponsor work visas'. Others senior or India. Apply page not opened.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

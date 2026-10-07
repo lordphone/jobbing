@@ -1,36 +1,43 @@
 {
   "company": "MITRE",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "excluded",
+  "checked": "2026-10-07",
+  "status": "open",
   "postings": [
     {
-      "title": "Associate Embedded Software Engineer - Summer 2027",
-      "url": "https://careers.mitre.org/us/en/job/R117606",
-      "location": "Bedford, MA",
-      "opened": "2026-09-24",
-      "date_source": "phenom postedDate",
-      "deadline": null,
-      "grad_window": "Starting Summer 2027",
-      "live_verified": "api"
-    },
-    {
       "title": "Software Engineer",
-      "url": "https://careers.mitre.org/us/en/job/R117614",
-      "location": "McLean, VA",
+      "url": "https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Software-Engineer_R117614-1",
+      "location": "McLean, VA; Bedford, MA",
       "opened": "2026-09-24",
-      "date_source": "phenom postedDate",
+      "date_source": "workday startDate (cxs)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'early-career Software Engineer'; requires '0-2 years of relevant experience'; $86,000-$129,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Cloud Developer",
+      "url": "https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Cloud-Developer_R117424-1",
+      "location": "McLean, VA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate (cxs)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Associate title; basic quals are a bachelor's plus internships, no years; $79,200-$118,800",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for MITRE; no dated last-cycle posting found",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "no tracker history for MITRE; no dated last-cycle posting found",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.mitre.org/us/en",
-  "jobs_spec": "wd:mitre/wd5/MITRE",
-  "evidence": "Phenom widgets API + posting pages 2026-10-06: R117606 says 'must be able to obtain and maintain a Department of Defense SECRET clearance, which requires U.S. citizenship'; R117614 SWE (0-2 yrs) requires 'Active or current DoD or federal government security clearance'.",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Saved wd:mitre/wd5/MITRE lists 0 jobs; careers page is Phenom (POST careers.mitre.org/widgets), apply links go to mitre.wd5.myworkdayjobs.com/MITRE",
+  "evidence": "Phenom widgets API 2026-10-07 (348 jobs, full) + Workday cxs posting pages. Both postings state clearance 'None' required at hire and no citizenship line (clearance only preferred). Other Associate roles (AI Solutions Architect, Data Scientist) require Secret/US citizen. R117606 Summer 2027 Embedded SWE now HTTP 410, gone.",
   "confidence": "high"
 }

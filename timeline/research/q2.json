@@ -1,7 +1,7 @@
 {
   "company": "Q2",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,23 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'up to 2+ years of related experience'; Bachelor's; works with experienced engineers",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Machine-Learning-Engineer_REQ-12736",
+      "location": "Cary, NC; Austin, TX; Charlotte, NC",
+      "opened": "2026-09-03",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Bachelor's degree in related field and 2+ years of relevant experience'",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-09-19",
@@ -21,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
   "jobs_spec": "wd:q2ebanking/wd5/Q2",
-  "evidence": "Workday cxs 2026-10-06: Software Engineer (Risk & Fraud, Cary NC), req 12745, canApply true, startDate 2026-09-03; Bachelor's, up to 2+ yrs, works with experienced engineers; says unable to sponsor. No deadline or class year; 2027 SWE internships also open.",
+  "evidence": "Workday 2026-10-07 (49, full): Software Engineer (Cary, req 12745) and ML Engineer (Cary/Austin/Charlotte, req 12736) need up to 2+ yrs, canApply true; 'unable to sponsor'. Other US SWE/ML roles need 5+ yrs or senior. 2027 interns also open.",
   "confidence": "medium"
 }

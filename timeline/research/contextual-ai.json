@@ -1,7 +1,7 @@
 {
   "company": "Contextual AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: contextual.ai/careers #open-roles section is only a heading, no listings or ATS link. Old Greenhouse slug contextualai (2023 postings) now 404; Ashby/Lever slugs absent. Likely no open roles, but board unreadable.",
+  "evidence": "2026-10-07 browser: contextual.ai/careers OPEN ROLES shows only a heading; no ATS link, iframe or job API request in page resources. Ashby/Greenhouse/Lever slugs contextual, contextual-ai, contextualai, contextual_ai return 404. Third-party listings show only MTS/senior roles. Board unreadable; retry.",
   "confidence": "low"
 }

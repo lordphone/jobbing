@@ -1,36 +1,24 @@
 {
   "company": "Microchip Technology",
+  "tier": 7,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
-    {
-      "title": "Engineer I-Software Development",
-      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3962-26",
-      "location": "Houston, TX",
-      "opened": "2026-09-18",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Engineer I-Software Development (second req)",
-      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26",
-      "location": "Houston, TX",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
+    {"title": "Engineer I-Software Development (C++ QA automation framework)", "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26", "location": "Houston, TX",
+     "opened": "2026-10-01", "date_source": "workday startDate",
+     "deadline": null, "grad_window": null, "live_verified": "api",
+     "level": "new-grad title", "level_basis": null, "no_sponsorship": false},
+    {"title": "Engineer I-IS (Equipment Automation)", "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/OR---Gresham/Engineer-I-IS--Equipment-Automation-_R4094-26", "location": "Gresham, OR",
+     "opened": "2026-10-06", "date_source": "workday startDate",
+     "deadline": "2026-10-20", "grad_window": null, "live_verified": "api",
+     "level": "new-grad title", "level_basis": null, "no_sponsorship": false}
   ],
   "last_cycle_opened": "2025-10-17",
   "last_cycle_basis": "tracker first seen: Engineer I - Software (FPGA Place and Route), San Jose CA",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://microchiphr.wd5.myworkdayjobs.com/external",
   "jobs_spec": "wd:microchiphr/wd5/external",
-  "evidence": "Workday CXS 2026-10-06: Houston Engineer I-Software Development (C++ QA automation) live as R3961 and R3962, canApply true, no deadline or citizenship line. Santa Rosa Engineer I-Software (2026-08-25) requires proof of US citizenship/PR, so not counted.",
-  "confidence": "medium",
-  "tier": 7,
-  "checked": "2026-10-06",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday cxs 2026-10-07 (488 postings read): Houston Engineer I-Software Development R3961 (2+ yrs C++, QA automation) and Gresham Engineer I-IS Equipment Automation R4094 (0-2 yrs, endDate 2026-10-20; fab automation software, borderline). Second Houston req R3962 not on board and page blank; dropped.",
+  "confidence": "medium"
 }

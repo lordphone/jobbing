@@ -1,7 +1,6 @@
 {
   "company": "Audible",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +8,74 @@
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
       "location": "Cambridge, MA",
       "opened": "2026-09-04",
-      "date_source": "amazon.jobs search posted_date",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": "Currently enrolled in a Bachelor's or above, or completed a Bachelor's or Graduate degree (no class year)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, Consumer Domains",
+      "url": "https://www.amazon.jobs/en/jobs/10560727/software-development-engineer-consumer-domains",
+      "location": "Newark, NJ",
+      "opened": "2026-09-25",
+      "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications: \"1+ years of non-internship professional software development experience\"",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, FinTech/Customer Service Tech",
+      "url": "https://www.amazon.jobs/en/jobs/10564323/software-development-engineer-fintech-customer-service-tech",
+      "location": "Newark, NJ",
+      "opened": "2026-09-29",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications: \"1+ years of non-internship professional software development experience\"",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10539152/software-development-engineer",
+      "location": "Newark, NJ",
+      "opened": "2026-09-14",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications: programming language and Bachelor's in CS only; no years of experience asked; no senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10566605/software-development-engineer",
+      "location": "Newark, NJ",
+      "opened": "2026-10-01",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications: \"Bachelor's degree in Computer Science ... 1+ years of software development experience\"",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "prior hint: Newark NJ early-career SWE existed last cycle but was 404; no tracker confirmation",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "prior hint: a Newark NJ early-career SWE existed last cycle but its page was 404; no tracker confirmation, so unknown.",
   "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs 2026-10-06 lists SDE Early Career (Audible, Cambridge MA) posted 2026-09-04; fetched page shows Apply now, enrolled or completed degree, no class year. Newark SDE roles ask 1+ yrs non-internship.",
-  "confidence": "medium"
+  "evidence": "amazon.jobs search for Audible (2026-10-07, US): SDE Early Career (Cambridge) plus four unlabeled Newark SDE roles asking 0-1+ yrs; pages show Apply now. Excluded SDE II/III/Senior/Lead, SDE Creator Marketplace (3+ yrs), SDE iOS (unclear level).",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

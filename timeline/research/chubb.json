@@ -1,7 +1,7 @@
 {
   "company": "Chubb",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "oracle posted date",
       "deadline": null,
       "grad_window": "June 2027 start",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-26",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001",
-  "evidence": "Oracle API 2026-10-06 (147): Technology Associate - June 2027 live, posted 2026-09-18, TAP Software Engineer track; 'Sponsorship, now or in the future, is not available'. No end date.",
+  "evidence": "Oracle API full board (718) 2026-10-07: Technology Associate - June 2027 (TAP software/data/cyber tracks) live, posted 2026-09-18, no end date; 'Sponsorship, now or in the future, is not available'. Other US roles senior, embedded test or unclear Programmer Analyst.",
   "confidence": "high"
 }

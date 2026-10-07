@@ -1,15 +1,15 @@
 {
   "company": "Seismic",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": "2025-10-01",
   "last_cycle_basis": "tracker first seen: Data Engineer 1 (Toronto, ON) https://ca-careers-seismic.icims.com/jobs/2053/job",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.seismic.com/careers/job-listings/",
   "jobs_spec": null,
-  "evidence": "WebFetch of job-listings page 2026-10-06: engineering is Senior SRE, Quality Engineer I (Hyderabad), Director TPM (Vancouver). No US/Canada entry-level SWE. Toronto Data Engineer 1 opened Oct 2025.",
-  "confidence": "medium"
+  "evidence": "iCIMS boards read via WebFetch 2026-10-07: careers-seismic.icims.com (16 US jobs, all sales/product/marketing) and ca-careers-seismic.icims.com (3 jobs: PM, Director TPM, Renewals). No engineering roles in US/Canada; Hyderabad-only engineers on seismic.com listings. Toronto Data Engineer 1 opened Oct 2025, now gone.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "Decagon",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,15 +12,18 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Dec 2026 – Jul 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2025-09-05",
-  "last_cycle_basis": "jobs.py history: Software Engineer - New Grad first seen 2025-09-05 (tracker tagged no sponsorship)",
+  "last_cycle_opened": "2025-09-03",
+  "last_cycle_basis": "jobs.py history: 'Agent Software Engineer - New Grad - 2026 Start' first seen 2025-09-03 (tracker tagged no sponsorship)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/decagon",
   "jobs_spec": "ashby:decagon",
-  "evidence": "Ashby API (146 postings) 2026-10-06: live MTS New Grad (2027 Start), SF/NYC, published 2026-08-18, Dec 2026-Jul 2027 grads (leading space in title misses default filter). No sponsorship line this cycle; last cycle tracker tagged no sponsorship.",
+  "evidence": "Ashby board (145, full) 2026-10-07: listed MTS New Grad (2027 Start), SF/NYC, published 2026-08-18, Dec 2026-Jul 2027 grads; detail fetched, no sponsorship line. Other engineer roles ask 2-6+ yrs.",
   "confidence": "high"
 }

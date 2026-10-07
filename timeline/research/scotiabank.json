@@ -1,18 +1,20 @@
 {
   "company": "Scotiabank (Bank of Nova Scotia)",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Junior Software Engineer, Global Payments Engineering",
+      "title": "Junior Software Engineer-Global Payments Engineering",
       "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
       "location": "Toronto, ON",
       "opened": "on or before 2026-10-04",
       "date_source": "page text datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.scotiabank.com/go/Student-&-New-Grad-Jobs/2298417/",
   "jobs_spec": null,
-  "evidence": "Careers site 2026-10-06 (browse/search via curl): Junior Software Engineer, Global Payments Engineering (Toronto) has Apply button, datePosted 2026-10-04, asks basic language/DB familiarity, no years. Other SWE roles need 5-7+ yrs. US roles are NYC banking analysts; SOAR is non-SWE.",
+  "evidence": "Careers site fetched 2026-10-07: Junior Software Engineer, Global Payments Engineering (Toronto, req 267400) shows Apply now, datePosted 2026-10-04, no years asked. Other Toronto SWE roles need 3-7+ yrs. US roles are NYC banking analysts; no US SWE.",
   "confidence": "medium"
 }

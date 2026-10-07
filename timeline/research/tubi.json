@@ -1,15 +1,15 @@
 {
   "company": "Tubi",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE posting in tracker history; only non-engineering coordinator roles.",
+  "last_cycle_basis": "no tracker history for entry SWE roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/tubitv",
   "jobs_spec": "gh:tubitv",
-  "evidence": "Greenhouse API 2026-10-06 (--all): every engineering role is Senior/Staff/Principal (SF, NYC, Toronto); no entry-level SWE or new-grad program.",
-  "confidence": "high"
+  "evidence": "Greenhouse API read in full 2026-10-07 (30): every engineering role is Senior/Staff/Principal/Director (SF, NYC, LA, Toronto); no entry-level SWE or new-grad program. Fox parent board not separately checked.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

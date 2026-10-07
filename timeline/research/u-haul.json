@@ -1,15 +1,55 @@
 {
   "company": "U-Haul (U-Haul Holding Company)",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Developer",
+      "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Software-Developer_R255136",
+      "location": "Tempe, AZ",
+      "opened": "on or before 2026-09-09",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1-3 years of experience developing software in .net'; duties test, debug, maintain and enhance internal web apps; no pay listed",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Development Test Engineer (SDET)",
+      "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Test-Engineer--SDTE-_R257125",
+      "location": "Phoenix, AZ",
+      "opened": "on or before 2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires bachelor's and '1-2+ years experience as Software Engineer test or similar role'",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Development Test Engineer",
+      "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Test-Engineer_R251790",
+      "location": "Phoenix, AZ",
+      "opened": "on or before 2026-09-14",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires bachelor's and '1-2+ years experience as Software Engineer test or similar role'",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history shows ETL Developer/BI Analyst/App Support in 2026, none new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs",
   "jobs_spec": "wd:uhaul/wd1/UhaulJobs",
-  "evidence": "Workday 2026-10-06: Software Developer (Phoenix, 2026-10-02) has no level and states no employer sponsorship; no entry-level title. Workday UhaulJobs (50) 2026-10-05: Software Developer (Phoenix, posted 2026-10-02) has no level in title, experienced wording, no sponsorship; judged not a grad program. Others senior/QA. No new-grad SWE program.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-07 (board + software/developer/engineer searches): three unlabeled roles ask 1-3 / 1-2+ yrs and say no employer sponsorship; borderline entry-level (SDET is test). Phoenix Software Developer R256644 (3 yrs, Kafka) and Senior excluded. Not a campus program.",
+  "confidence": "low"
 }

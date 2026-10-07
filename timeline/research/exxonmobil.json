@@ -1,7 +1,7 @@
 {
   "company": "ExxonMobil",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
       "location": "Spring, TX",
       "opened": "2026-08-10",
-      "date_source": "tracker first seen (careers site lists it as Sep 8, 2026)",
+      "date_source": "tracker first seen 2026-08-10 (careers site now shows post date Oct 7, 2026, a repost)",
       "deadline": null,
       "grad_window": "graduating 2026/2027 or within last three years",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-31",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.exxonmobil.com/search/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06: posting 1417890600 page loads with Apply now; the Trading Data, Analytics and AI (Trading Fusion) track does data engineering, software development and AI work, Python/C#/SQL. Other US tech roles are experienced (Sr. Fullstack Developer, HPC). Track is within a trading program, so borderline SWE.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-07: posting 1417890600 live with Apply now; Trading Fusion track does data engineering/software/AI (Python/C#/SQL). 'software' search: other US tech roles experienced. Generic 'STEM Early Career Full-Time' pool (Sep 30) lists IT career area; not SWE-specific, not counted.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Traba",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/traba",
   "jobs_spec": "ashby:traba",
-  "evidence": "Tracker saw New Grad SWE (NYC) 2026-07-22; Ashby posting API returns null and board (31) lists only Senior/Staff SWE. Gone per API; browser pane unavailable to view page.",
-  "confidence": "medium"
+  "evidence": "Posting page opened in browser 2026-10-07: 'Job not found'. Ashby board (31, full) lists only Senior/Staff SWE (NYC, 2026-09-29). New Grad SWE (NYC) first seen 2026-07-22 is gone.",
+  "confidence": "high"
 }

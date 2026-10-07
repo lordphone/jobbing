@@ -1,7 +1,7 @@
 {
   "company": "Edwards Lifesciences",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +9,8 @@
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.edwards.com/careers/jobsearch",
-  "jobs_spec": null,
-  "evidence": "Edwards job search index (Algolia behind edwards.com/careers/jobsearch, 372 jobs) 2026-10-06: US software/data/IT roles are Senior/Principal/Director; Application Developer, Business Systems needs 3+ years. Graduate programs listed are non-US.",
-  "confidence": "medium"
+  "jobs_spec": "wd:edwards/wd5/EdwardsCareers",
+  "evidence": "Workday board wd:edwards/wd5/EdwardsCareers (260, full) 2026-10-07, same jobs as Algolia index behind edwards.com/careers/jobsearch: US software/data/AI roles are Senior/Principal/Distinguished/Director; Application Developer, Business Systems needs 3+ yrs. No SWE new-grad track.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Algolia job index ApplyUrl links go to edwards.wd5.myworkdayjobs.com/EdwardsCareers; board lists 260 jobs"
 }

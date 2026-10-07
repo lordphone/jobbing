@@ -1,7 +1,7 @@
 {
   "company": "TransMarket Group",
   "tier": 4,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Junior Data Engineer",
@@ -22,7 +25,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/transmarketgroup",
   "jobs_spec": "gh:transmarketgroup",
-  "evidence": "Greenhouse API 2026-10-06: Junior SWE and Junior Data Engineer live (bachelor's, on-site Chicago), rolling, no class year or deadline; no sponsorship text. Posted before Jul 1 but evergreen.",
+  "evidence": "Greenhouse API and full posting text 2026-10-07: Junior SWE and Junior Data Engineer live (bachelor's, on-site Chicago), rolling, no class year, deadline or sponsorship text. Posted before Jul 1 but evergreen junior roles.",
   "confidence": "medium"
 }

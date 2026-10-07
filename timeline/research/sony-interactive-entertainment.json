@@ -1,6 +1,7 @@
 {
   "company": "Sony Interactive Entertainment (PlayStation)",
   "tier": 9,
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-01-24",
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal",
   "jobs_spec": "gh:sonyinteractiveentertainmentglobal",
-  "evidence": "Greenhouse API 204 --all 2026-10-06: US/Canada software roles are II/Senior/Manager only. This-cycle Software Engineer I San Diego 6104600004 (Jul 2026) absent from board and its page redirects to the board list; no live entry role.",
-  "confidence": "medium",
-  "checked": "2026-10-06"
+  "evidence": "Greenhouse full board (201) 2026-10-07: US/Canada software roles are II/Senior/Manager/SDET 3-5 yrs; AI Engineer San Diego needs 2+ yrs and opened 2026-06-03. Prior-file Software Engineer I San Diego 6104600004 (Jul 2026) is 404 on API and its page redirects to the board list: closed. No live entry role.",
+  "confidence": "medium"
 }

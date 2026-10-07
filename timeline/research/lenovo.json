@@ -1,7 +1,7 @@
 {
   "company": "Lenovo",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -10,9 +10,51 @@
       "location": "Morrisville, NC",
       "opened": "2026-09-08",
       "date_source": "page text",
-      "grad_window": "currently completing or recently completed degree; onboarding Spring/Summer 2027",
-      "live_verified": "browser",
-      "deadline": "2026-10-23"
+      "deadline": "2026-10-23",
+      "grad_window": "recent graduates; onboarding Spring/Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Cloud Platform Engineer",
+      "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Cloud-Platform-Engineer/82261",
+      "location": "Morrisville, NC",
+      "opened": "2026-10-02",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'early-career engineer'; requires '0-2+ years of software engineering experience; internships, academic projects ... considered'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Data and AI-ML Engineer",
+      "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Data-and-AI-ML-Engineer/82262",
+      "location": "Morrisville, NC",
+      "opened": "2026-10-02",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Junior' title; basic quals '2+ years of experience in Data Engineering, Data Science, or Machine Learning'; Bachelor's, Master's preferred",
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Enterprise Engineer",
+      "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Enterprise-Engineer/80609",
+      "location": "Chicago, IL",
+      "opened": "2026-08-08",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'2+ years of professional software engineering experience'; $98K-$110K; 'work alongside senior engineers ... while growing'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-31",
@@ -21,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lenovo.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Posting fetched 2026-10-06: AI Platform Engineer 2027 Global Future Leaders (Morrisville NC), dated 2026-09-08, Apply active, applications Sept 1 to Oct 23, recent-grad profile, Spring/Summer 2027 start, no sponsorship text. Other GFL roles are analyst/architect/PM.",
-  "confidence": "high"
+  "evidence": "Lenovo SearchJobs HTTP pages 2026-10-07 (no API; searched GFL, software, engineer, junior, developer, AI, associate); each posting page fetched with Apply. GFL AI Platform Engineer (apply Sep 1-Oct 23 2026, onboarding Spring/Summer 2027); Junior Cloud Platform (0-2 yrs); Junior Data/AI-ML (2+ yrs); AI Enterprise Engineer (2+ yrs, borderline). Other software roles need 3-5+ yrs or are outside US.",
+  "confidence": "medium"
 }

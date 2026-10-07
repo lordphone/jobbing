@@ -1,7 +1,7 @@
 {
   "company": "Yardi",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.yardi.com/openings/",
   "jobs_spec": null,
-  "evidence": "careers.yardi.com now 403 (Cloudflare) to WebFetch/curl; browser pane unavailable. 2026-10-05 browser read showed no software roles. A search hit lists SDE I Santa Barbara (RES25425895), unverifiable live. Past SDE I Oct-Dec 2024.",
-  "confidence": "low"
+  "evidence": "Browser read careers.yardi.com/openings 2026-10-07 (all 66 listed jobs): none are software/SDE; only Senior Security Analyst in Cloud & IT. Past SDE I Santa Barbara posted Oct-Dec 2024; nothing found for 2025 cycle. A search hit RES25425895 SDE I unverified.",
+  "confidence": "medium",
+  "jobs_spec_basis": "no API; careers.yardi.com/openings blocks curl/WebFetch (403) but reads in browser"
 }

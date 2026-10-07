@@ -1,26 +1,42 @@
 {
   "company": "Relativity Space",
+  "tier": 8,
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
-      "title": "Full Stack Software Engineer I",
+      "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/relativity/jobs/8834005002",
       "location": "Long Beach, CA",
       "opened": "2026-09-22",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "AI Software Engineer",
+      "url": "https://job-boards.greenhouse.io/relativity/jobs/8726261002",
+      "location": "Long Beach, CA",
+      "opened": "2026-08-18",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's degree; '1+ years' is only a nice-to-have; hiring timeline for candidates finishing degree within 30-60 days; $115K-$173K",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "tracker first seen: GNC Simulation Engineer 1 (Long Beach); earlier Software Engineer I - Factory Platform 2025-06-06",
+  "last_cycle_basis": "tracker first seen: GNC Simulation Engineer 1 (Long Beach), jobs.py history; earlier Software Engineer I - Factory Platform 2025-06-06",
   "excluded_reason": "us person / itar",
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/relativity",
   "jobs_spec": "gh:relativity",
-  "evidence": "Full Stack SWE I (live, Apply button, 2026-09-22) and AI SWE postings say hire \"must either be a U.S. person as defined by [ITAR] or otherwise eligible for a federally issued export control license\"; OPT/CPT/H-4 do not qualify.",
-  "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 8
+  "evidence": "Greenhouse full board (347) 2026-10-07; SWE I page has Apply button. Its application form says 'must either be a \"U.S. person\" as defined by those regulations' (ITAR) and 'OPT, CPT, H-4 ... do NOT qualify'. Same status as prior file.",
+  "confidence": "high"
 }

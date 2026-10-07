@@ -1,7 +1,7 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "on or before 2026-08-17",
       "date_source": "page text (Last update 17.08.2026)",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "browser"
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "Posting page returned 403 / blocked this run; web search confirms 2027 Full Time AVP Analytics Lab ML Engineer (Jersey City) exists. Earlier browser read today showed Apply, grad Dec 2026-Jun 2027, Master's. Live not re-opened. 2026-10-06: group.bnpparibas pages 403 again; search again lists the 2027 FT AVP ML Engineer (Jersey City); live not re-opened.",
+  "evidence": "Browser 2026-10-07: posting page (type Graduate Programme, grad window Dec 2026-Jun 2027, master's) shows APPLY and no filled notice. Listing filters did not apply, so full board not scanned; search found no other 2027 US tech full-time role (other 2027 FT analysts are banking/consulting).",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Hippocratic AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "front door to FDE track: 6 months Resident then 6 months Associate FDE; requires bachelor's and '2+ years' (not enforced for entry roles)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Hippocratic%20AI",
   "jobs_spec": "ashby:Hippocratic%20AI",
-  "evidence": "Ashby API 2026-10-06 (45 postings): FDE Residency (6mo resident then 6mo Associate FDE), listed, Menlo Park; asks bachelor's and 2+ yrs experience. Forward-deployed entry track; judgement call. No sponsorship line.",
+  "evidence": "Ashby board 2026-10-07 (47, full): FDE Residency (Menlo Park, published 2026-09-19) is the entry track; builds prompts and EHR integrations in Python. Other SWE/ML/FDE roles are mid or senior. Judgement call on SWE fit. No sponsorship line.",
   "confidence": "medium"
 }

@@ -1,9 +1,22 @@
 {
   "company": "Emerson Electric",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Solutions Development Program (SDP)",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904",
+      "location": "Elyria, OH",
+      "opened": "2026-10-02",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
@@ -12,7 +25,23 @@
       "date_source": "oracle ExternalPostedStartDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "seeking an entry level Software Engineer for embedded and driver software products",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - AI Enablement & Engineering Productivity",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
+      "location": "Austin, TX",
+      "opened": "2026-10-01",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "excellent opportunity for someone early in their career; no senior duties",
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer",
@@ -22,17 +51,23 @@
       "date_source": "oracle ExternalPostedStartDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires Zero (0) years of applicable experience; $75,000-$80,000",
+      "no_sponsorship": false
     },
     {
-      "title": "Software Solutions Development Program (SDP)",
-      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904",
-      "location": "Elyria, OH",
-      "opened": "2026-10-02",
+      "title": "Manufacturing Software Engineer",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009561",
+      "location": "Shakopee, MN",
+      "opened": "2026-09-10",
       "date_source": "oracle ExternalPostedStartDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires Zero (0) years of applicable experience; $75,000-$80,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-07",
@@ -41,6 +76,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:hdjq.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-06 re-run: Austin SWE, Shakopee SWE and Elyria Software SDP live, no end dates; Austin/AI-enablement postings state no sponsorship incl F-1/OPT. Co-ops/interns excluded.",
+  "evidence": "Oracle board 2026-10-07 (1049, full) and posting texts: SDP Elyria (new, 10-02), two Austin SWEs, two Shakopee 0-yr SWEs live, no end dates. Austin T&M postings bar F-1/OPT. Left out: Austin SWE needing 2+ yrs DevOps, Marshalltown embedded, co-ops/interns.",
   "confidence": "high"
 }

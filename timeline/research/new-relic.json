@@ -1,15 +1,29 @@
 {
   "company": "New Relic",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - IAM (Java)",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5416517008",
+      "location": "Portland, OR; Remote (US)",
+      "opened": "2026-09-04",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"This role requires 1+ years of experience building and shipping reliable software services\"; base $114,000-$142,000; no senior/lead duties",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history or program found.",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/newrelic",
   "jobs_spec": "gh:newrelic",
-  "evidence": "Greenhouse --all 2026-10-06 (47): SE II in Barcelona; Portland US SWE reqs are on-call IAM (Java, 1+ yrs) and K8s Container Fabric, mid-level, no sponsorship. No entry title or new-grad program.",
+  "evidence": "Greenhouse API 2026-10-07, 50 postings (full). Counted: SWE-IAM (Java) Portland, requires 1+ yrs, unlabeled level (borderline, on-call). Excluded: Container Fabric SWE (deep K8s/Go expertise, $126-158K). Both say no visa sponsorship. No new-grad program.",
   "confidence": "medium"
 }

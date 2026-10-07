@@ -1,5 +1,7 @@
 {
   "company": "Cognizant",
+  "tier": 10,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -10,7 +12,10 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": "start Oct/Nov 2026 or Jan/Feb 2027",
-      "live_verified": "browser"
+      "live_verified": "no",
+      "level": "unlabeled",
+      "level_basis": "no years of experience stated; $65,000 salary; bachelor's or master's degree; start Oct/Nov 2026 or Jan/Feb 2027",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -19,8 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.cognizant.com/us-en/jobs/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-06 posting 47777: Apply now present, published 2026-09-10, Dallas, $65k, bachelor's/master's, start Oct/Nov 2026 or Jan/Feb 2027; level unlabeled (inferred entry). Cannot sponsor. Earlier entry SWE req 47256 now 404.",
-  "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 10
+  "evidence": "Posting 47777 re-opened 2026-10-07 (WebFetch): Apply now link present, published 2026-09-10, Dallas, $65k, no years stated, cannot sponsor. Entry level inferred from pay and start dates. Earlier entry SWE req 47256 was 404 on 10-06. Board search unavailable via fetch; other roles not enumerated.",
+  "confidence": "medium"
 }

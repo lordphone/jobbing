@@ -1,15 +1,29 @@
 {
   "company": "Dolby Laboratories",
   "tier": 7,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Video Software Engineer",
+      "url": "https://jobs.dolby.com/careers/job/43795426",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-08-12",
+      "date_source": "eightfold t_create (board lists 2026-10-06 refresh)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requirements: \"Bachelor's or Master's in Computer Science and/or Electrical Engineering\"; no years of experience required; $137,100-$188,300",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only 2024-07-12 New Grad Software Engineer Intern (Fall 24), an internship; nothing 2025-07 to 2026-01",
+  "last_cycle_basis": "jobs.py history: only 2024-07-12 New Grad Software Engineer Intern (Fall 24); nothing 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.dolby.com/careers",
   "jobs_spec": "eightfold:jobs.dolby.com/dolby.com",
-  "evidence": "Eightfold API 2026-10-06 (22): US SWE roles are Staff/Sr Staff; Video Software Engineer (Sunnyvale, posted 2026-10-06) is generic, BS/MS, C++, no new-grad label or years; only entry-type post is PhD Research Intern (Summer 2027).",
-  "confidence": "medium"
+  "evidence": "Eightfold full board (53 US): Video Software Engineer requires BS/MS, no years, no senior duties (counted as unlabeled; prior pass judged it generic and said no_program). DVIP QA needs 5+ yrs; rest Staff/Sr. No new-grad program.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Symbotic",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-30",
-  "last_cycle_basis": "jobs.py history: 'New Grad-Software Engineer' (Burlington, MA) first seen 2026-01-30; earlier New Grad SWE 2024-11-11; New Grad SWE/ML Ops/3D Graphics postings 2026-05-18/19",
+  "last_cycle_basis": "earlier research: 'New Grad-Software Engineer' (Burlington, MA) first seen 2026-01-30; jobs.py history also shows New Grad SWE/ML Ops/3D Graphics 2026-05-18/19 and New Grad SWE 2024-11-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://symbotic.wd504.myworkdayjobs.com/Symbotic",
   "jobs_spec": "wd:symbotic/wd504/Symbotic",
-  "evidence": "Workday API paged in full 2026-10-06 (134): only Co-op/Intern SWE, Staff/Senior SWE/ML, Software Support Engineer (2+ yrs ops) and a New Grad Onsite Project Manager live. New Grad SWE postings from 2026-01 and 2026-05 are gone; no 2027-cycle SWE posting yet.",
-  "confidence": "high"
+  "evidence": "Workday board paged in full 2026-10-07 (133): US SWE roles are Co-op/Intern, Staff/Senior, and Software Support Engineer (requires 2+ yrs support/NOC/SRE; ops role, not counted); New Grad Onsite Project Manager is not SWE. Prior New Grad SWE postings are gone; no 2027-cycle SWE posting yet.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

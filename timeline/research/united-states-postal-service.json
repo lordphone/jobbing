@@ -1,15 +1,15 @@
 {
   "company": "United States Postal Service (USPS)",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; no new-grad SWE program found.",
   "excluded_reason": "green card",
   "no_sponsorship": false,
-  "jobs_page": "https://about.usps.com/careers/working-usps",
+  "jobs_page": "https://jobs.usps.com/",
   "jobs_spec": null,
-  "evidence": "about.usps.com/careers/working-usps 2026-10-06 still lists 'United States citizen, permanent resident, or citizen of American Samoa or other U.S. territory'; no software new-grad program on the page.",
+  "evidence": "about.usps.com/careers/working-usps 2026-10-07 employment requirements: 'United States citizen, permanent resident, or citizen of American Samoa or other U.S. territory'. No software new-grad program; student/grad postings sit in eCareer / jobs.usps.com (not read; students page returned 403).",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Perplexity",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,15 +12,18 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "Students and recent graduates (no year stated)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "GitHub tracker history: no SWE new-grad posting 2025-07 to 2026-01; only Associate Product Manager Program",
+  "last_cycle_basis": "GitHub tracker history: no SWE new-grad posting 2025-07 to 2026-01; only Associate Product Manager Program (2025-07-25)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Perplexity",
   "jobs_spec": "ashby:Perplexity",
-  "evidence": "Ashby API (130 postings, --all) 2026-10-06: general MTS (New Grad) portal for students/recent grads, SF, published 2026-09-29. Title filter misses it. Early Career - Industry role needs industry experience, not counted.",
+  "evidence": "Ashby board 2026-10-07 (129, full): general MTS (New Grad) portal for students/recent grads, SF, published 2026-09-29. 'AI Products (Early Career - Industry)' says new grads should NOT apply, not counted. Other MTS ask 3+ yrs. No sponsorship text.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Keysight",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-08-27",
       "date_source": "keysight jibe API posted_date",
       "deadline": null,
-      "grad_window": "BS/MS CS/CE/EE; Campus category; completed within last 12 months",
-      "live_verified": "api"
+      "grad_window": "BS/MS CS/CE/EE; Campus job type; recent graduate",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer – Oscilloscope & Measurement Solutions (Job Type: Campus)",
@@ -22,7 +25,10 @@
       "date_source": "keysight jibe API posted_date",
       "deadline": null,
       "grad_window": "BS/MS CE/EE/CS; Job Type Campus",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Job Type: Campus; required BS or MS, no years of experience listed; pay $89,600-149,330",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Keysight Jibe API 2026-10-06: R&D Software Engineer, Recent Graduate (Santa Rosa, req 54048, 2026-08-27) and Software Engineer Oscilloscope (Campus, req 54394, 2026-09-23) both listed with iCIMS apply links. 54048 has export-control note (non-US persons need authorization, not barred); both say visa sponsorship not available.",
+  "evidence": "Keysight jibe API 2026-10-07 (696 jobs, read all): two Campus SWE roles (54048, 54394), both say visa sponsorship not available; 54048 has export-control note (non-US persons need authorization, not barred). Left out: R&D Engineer 1 (Campus, manufacturing test), Signal Processing SWE (level unclear).",
   "confidence": "medium"
 }

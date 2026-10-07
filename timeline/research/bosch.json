@@ -1,19 +1,9 @@
 {
   "company": "Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
-    {
-      "title": "Rotational Development Program \u2013 Software Engineer \u2013 Power Solutions",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134464179",
-      "location": "Farmington Hills, MI",
-      "opened": "2026-06-26",
-      "date_source": "smartrecruiters releasedDate (a sibling posting 744000131227160 was first seen 2026-06-09 by trackers)",
-      "deadline": null,
-      "grad_window": "Bachelor's degree received within the last 2 years",
-      "live_verified": "browser"
-    },
     {
       "title": "Software Engineer (entry to mid, E2/E3)",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137750719",
@@ -22,25 +12,31 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "SmartRecruiters experience level 'Entry Level'; 'Potential to be either an E2 or E3'; BS degree; $82,000 - $110,000",
+      "no_sponsorship": true
     },
     {
-      "title": "Associate Motorsport Connectivity Engineer (earlier titled Associate Motorsport Software Engineer)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153551929",
-      "location": "Farmington Hills, MI",
-      "opened": "2026-10-05",
-      "date_source": "smartrecruiters releasedDate (reposted under new id; earlier id 744000151463391 first 2026-09-23)",
+      "title": "Software Engineer, Vehicle Diagnostics",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143562859",
+      "location": "Owatonna, MN",
+      "opened": "2026-08-14",
+      "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "SmartRecruiters experience level 'Associate'; requires a bachelor's degree, no years of experience required; $82,000 - $112,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No US new-grad SWE posting found Jul 2025-Jan 2026; tracker history shows only UK/Europe graduate placements in that window",
+  "last_cycle_basis": "No US new-grad SWE posting found Jul 2025-Jan 2026; tracker history shows only UK/Europe graduate placements. RDP SWE Power Solutions (Farmington Hills) opened 2026-06-09/26, now expired.",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/BoschGroup",
   "jobs_spec": "sr:BoschGroup",
-  "evidence": "SmartRecruiters API (1100) plus posting pages 2026-10-06. RDP SWE, Owatonna Software Engineer (entry to mid) and Associate Motorsport Connectivity show 'I'm interested'; all say 'Future sponsorship for work authorization unavailable'. Other US SWE roles are 3-5+ yrs.",
+  "evidence": "SmartRecruiters API (4888 listed) 2026-10-07, US filtered, posting pages checked: Owatonna Software Engineer (Entry Level) and Vehicle Diagnostics (Associate) active, no sponsorship. RDP SWE Power Solutions now 'expired' (closed). Motorsport Connectivity/Customer Application roles are application engineering, left out.",
   "confidence": "medium"
 }

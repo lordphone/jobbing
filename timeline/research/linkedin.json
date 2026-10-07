@@ -1,6 +1,7 @@
 {
   "company": "LinkedIn",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,17 +12,10 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "JavaScript Software Engineer - Web Infrastructure",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000153600155",
-      "location": "Mountain View, CA",
-      "opened": "2026-10-05",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications 1+ years; $108,900-$147,400",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer - AI Platform",
@@ -31,7 +25,10 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications 1+ years; $120,000-$195,000",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer - Systems and Infrastructure",
@@ -41,7 +38,36 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications 1+ years; $120,000-$195,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Web Infrastructure",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000153600155",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-06",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications 1+ years; $104,000-$171,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000153827538",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-06",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualifications 1+ years; $120,000-$195,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-02",
@@ -50,7 +76,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://linkedin.com/jobs",
   "jobs_spec": "sr:LinkedIn3",
-  "evidence": "SmartRecruiters API 2026-10-06 (--all): no 2027 grad/APB/new-grad posting. Four unlabeled 'Software Engineer' Mountain View roles (1+ yrs, not Senior/Staff) remain the only entry-level-looking US SWE; not labeled new grad. Counted open, low confidence.",
-  "confidence": "low",
-  "checked": "2026-10-06"
+  "evidence": "sr:LinkedIn3 full board (330) 2026-10-07: no 2027/new-grad SWE title. Five unlabeled US SWE/AI roles require 1+ years (preferred 2+), no senior duties; counted. Not labeled new grad.",
+  "confidence": "low"
 }

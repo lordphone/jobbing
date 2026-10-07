@@ -1,7 +1,7 @@
 {
   "company": "Virtusa",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "phenom dateCreated (reposted 2026-09-19)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "experience 0-2 years; 'Ideal for recent graduates or early-career professionals'",
+      "no_sponsorship": false
     },
     {
       "title": "Associate Engineer (Data Engineer) P-103578",
@@ -22,7 +25,10 @@
       "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "experience 0-2 years; 'Ideal for recent graduates or those with up to two years'",
+      "no_sponsorship": false
     },
     {
       "title": "AI Engineer (Agentic AI Engineer) P-104407",
@@ -32,7 +38,10 @@
       "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "experience 0-2 years; 'Ideal for recent graduates or early-career professionals'",
+      "no_sponsorship": false
     },
     {
       "title": "Associate (Agentic AI Engineer) P-104367",
@@ -42,15 +51,18 @@
       "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "experience 0-2 years",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Not found: Virtusa API 2026-10-03 shows only Associate (Chicago, 2025-05-07), outside the Jul 2025-Jan 2026 window; tracker history empty.",
+  "last_cycle_basis": "Not found: Virtusa API shows only Associate (Chicago, 2025-05-07), outside the Jul 2025-Jan 2026 window; tracker history empty.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.virtusa.com/careers/job-search/global/en",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API via browser 2026-10-06: 4 US entry-level SWE/data/AI reqs listed, detail endpoint returns each ('0-2 years, recent graduates'); no citizenship text (a separate Associate ML req, CREQ254224, says no sponsorship and 2025 master's batch, not listed). Posting pages not opened.",
+  "evidence": "Phenom widgets API via browser 2026-10-07 (4815 jobs, ~600 US): four entry reqs listed, experience 0-2 yrs, 'recent graduates'; posting pages not opened. Also listed: CREQ254224 and CREQ252585 ML Associate (Master's in AI/ML; CREQ254224 earlier said no sponsorship, 2025 batch), left out.",
   "confidence": "medium"
 }

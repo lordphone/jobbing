@@ -1,7 +1,6 @@
 {
   "company": "AssetMark",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "tracker first seen (workday startDate 2026-09-11)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "'0-3 years of software engineering experience or recent graduate with relevant project work or internships'; $90,000-$107,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-10",
   "last_cycle_basis": "Tracker first seen 'Associate Data Engineer' Charlotte NC (assetmark.wd5.myworkdayjobs.com/AssetMark_Careers)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers",
   "jobs_spec": "wd:assetmark/wd5/AssetMark_Careers",
-  "evidence": "Workday API 2026-10-06 (18 postings): Associate Engineer Charlotte live (canApply via API), '0-3 years or recent graduate'; 'unable to provide visa sponsorship'. Junior AWS Operations Engineer (Austin) is ops.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-07 (42): Associate Engineer Charlotte listed, posting says unable to provide visa sponsorship. Software Engineer needs 3-5 yrs; Junior AWS Operations Engineer (Austin, 0-3 yrs, ops/infra) not counted as SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

@@ -1,48 +1,86 @@
 {
   "company": "Qualcomm",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Machine Learning Engineer - College Graduate",
-      "url": "https://careers.qualcomm.com/careers/job/446717859953",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446717859953",
       "location": "San Diego, CA",
-      "opened": "2026-04-07",
+      "opened": "2026-04-08",
       "date_source": "eightfold api creationTs 2026-04-08 (tracker first seen 2026-08-04; board shows 2026-09-16); earlier file date kept",
       "live_verified": "api",
       "deadline": null,
-      "grad_window": null
+      "grad_window": null,
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Entry level & Senior Software Engineer, Core AI Software (Onsite)",
-      "url": "https://careers.qualcomm.com/careers/job/446718018413",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446718018413",
       "location": "San Diego, CA",
       "opened": "2026-04-11",
       "date_source": "eightfold api creationTs",
       "live_verified": "api",
       "deadline": null,
-      "grad_window": null
+      "grad_window": null,
+      "level": "new-grad title",
+      "level_basis": "Title says Entry level; min quals allow Master's + 1 yr or PhD; entry level needs only projects/internships",
+      "no_sponsorship": false
     },
     {
       "title": "Entry Level & Senior Software Engineer, AI Software Platform (Onsite)",
-      "url": "https://careers.qualcomm.com/careers/job/446718120116",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446718120116",
       "location": "San Diego, CA",
       "opened": "2026-04-16",
       "date_source": "eightfold api creationTs",
       "live_verified": "api",
       "deadline": null,
-      "grad_window": null
+      "grad_window": null,
+      "level": "new-grad title",
+      "level_basis": "Title says Entry Level; entry level needs only projects/internships",
+      "no_sponsorship": false
     },
     {
       "title": "Backend Software Engineer (entry-level; not eligible for immigration sponsorship)",
-      "url": "https://careers.qualcomm.com/careers/job/446721162271",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721162271",
       "location": "San Diego, CA",
       "opened": "2026-09-16",
       "date_source": "eightfold board date",
       "live_verified": "api",
       "deadline": null,
-      "grad_window": null
+      "grad_window": null,
+      "level": "new-grad title",
+      "level_basis": "Posting: 'entry-level role ideal for a recent graduate'; min qual Bachelor's only",
+      "no_sponsorship": true
+    },
+    {
+      "title": "#AI Infrastructure Software Engineer",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446720212566",
+      "location": "San Diego, CA",
+      "opened": "2026-07-30",
+      "date_source": "eightfold creationTs (board shows 2026-09-16)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Min quals: Bachelor's degree only, no years of experience; no senior duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "#Wireless Software Engineer",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721159585",
+      "location": "Boulder, CO",
+      "opened": "2026-09-18",
+      "date_source": "eightfold creationTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Min quals: Bachelor's degree only, no years of experience; no senior duties; modem firmware (C/C++)",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -51,6 +89,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://qualcomm.eightfold.ai",
   "jobs_spec": "eightfold:qualcomm.eightfold.ai/qualcomm.com",
-  "evidence": "Eightfold board (43 postings, --all) 2026-10-06: ML Engineer College Graduate, two Entry Level & Senior AI SWE roles and Backend SWE all still listed in San Diego; bachelor's ok. Backend SWE says not eligible for immigration sponsorship. No deadline stated.",
+  "evidence": "Eightfold search/position API 2026-10-07: ML Eng College Graduate, two Entry Level & Senior AI SWE, entry-level Backend SWE still listed in San Diego; added #AI Infrastructure SWE (San Diego) and #Wireless SWE (Boulder), bachelor's-only, no sponsorship. Markham Ontario ML new-grad not Toronto. No deadline.",
   "confidence": "high"
 }

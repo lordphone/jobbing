@@ -1,15 +1,16 @@
 {
   "company": "Vail Resorts",
   "tier": 9,
-  "checked": "2026-10-06",
-  "status": "not_yet",
+  "status": "no_program_found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; tracker 2025 entries (Software Engineer, Test & Infrastructure I) are Vail Systems (Chicago IVR company, lever:vailsys), a different company",
+  "jobs_page": "https://jobs.vailresortscareers.com/search/",
+  "jobs_spec": null,
+  "jobs_spec_basis": "lever:vailsys is Vail Systems, not Vail Resorts; jobs.vailresorts.com redirects to jobs.vailresortscareers.com (SuccessFactors)",
+  "evidence": "Searched jobs.vailresortscareers.com 2026-10-07 for software, developer, engineer, data, analyst: corporate tech roles are Senior Full-Stack Lead Developer, Principal ML Engineer, Sr IT Manager, Director Hospitality Applications. No entry SWE or new-grad program.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
   "postings": [],
-  "last_cycle_opened": "2025-08-21",
-  "last_cycle_basis": "tracker first seen: Software Engineer, Test & Infrastructure I, https://jobs.lever.co/vailsys/aac4a828-c88d-4bc1-bf94-324e7ba4ddc9",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.lever.co/vailsys",
-  "jobs_spec": "lever:vailsys",
-  "evidence": "Lever API 2026-10-06: 3 postings (SWE Test & Infrastructure II and III, TPM II). No level I live. Level I seen 2025-08-21 and 2025-10-10; likely to reopen.",
-  "confidence": "high"
+  "no_sponsorship": false
 }

@@ -1,15 +1,15 @@
 {
   "company": "DailyPay",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in tracker history",
+  "last_cycle_basis": "jobs.py history: no entry",
   "excluded_reason": null,
-  "no_sponsorship": null,
-  "jobs_page": false,
-  "jobs_spec": "https://jobs.ashbyhq.com/dailypay",
-  "evidence": "ashby:dailypay",
-  "confidence": "Ashby board (24, --all) 2026-10-06: US roles are Data Engineer II (NYC) and AI Solutions FDE; Placement Software Engineer is Belfast only. No entry-titled US SWE."
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.ashbyhq.com/dailypay",
+  "jobs_spec": "ashby:dailypay",
+  "evidence": "ashby:dailypay full board (23) 2026-10-07: only Belfast Placement SWE (UK, not counted), Senior SWE, Data Engineer II; no US entry-level SWE.",
+  "confidence": "high"
 }

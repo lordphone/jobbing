@@ -1,7 +1,7 @@
 {
   "company": "Deutsche Bank",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Complete studies 1 Jan 2026 - 31 Jul 2027, start Jul 2027",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Deutsche Bank Graduate Programme - Technology, Data and Innovation (TDI) - New York 2027",
@@ -22,7 +25,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Complete studies 1 Jan 2026 - 31 Jul 2027, start Jul 2027",
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-26",
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://db.wd3.myworkdayjobs.com/DBWebsite",
   "jobs_spec": "wd:db/wd3/DBWebsite",
-  "evidence": "WebFetch 2026-10-06: recsolu TDI Graduate Programme 2027 New York shows Apply (Cary seen live 2026-10-05); studies complete 1 Jan 2026-31 Jul 2027, start Jul 2027; no visa sponsorship now or future. No deadline stated.",
+  "evidence": "2026-10-07: WebFetch of both recsolu TDI Graduate Programme 2027 pages (New York, Cary) show Apply; studies complete 1 Jan 2026-31 Jul 2027, start Jul 2027, ~$100K; no work visa sponsorship now or future; no deadline. Workday (1174, full) US roles are AVP/VP/Associate experienced.",
   "confidence": "high"
 }

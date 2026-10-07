@@ -1,15 +1,15 @@
 {
   "company": "Etched",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for new-grad SWE",
+  "last_cycle_basis": "No tracker history; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/etched",
   "jobs_spec": "ashby:etched",
-  "evidence": "Ashby API 2026-10-06 (108 postings): software roles carry no entry label (Core Software Engineer asks 1-5 yrs); student roles are interns only. No new-grad SWE.",
-  "confidence": "high"
+  "evidence": "Ashby API 2026-10-07 (109 postings, full): no new-grad label; software roles (Core SWE asks 1-5 yrs, others need deep systems/kernel experience) are not clearly entry-level; interns are mostly hardware. Left out as unclear.",
+  "confidence": "medium"
 }

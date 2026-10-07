@@ -1,15 +1,42 @@
 {
   "company": "National Information Solutions Cooperative (NISC)",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows only Software Developer - Provisioning (2026-01-15) and Database Conversion ETL; no clear entry-level SWE in window",
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Developer - Full Stack (Work Management Software)",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8247532",
+      "location": "Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND (any NISC location, hybrid)",
+      "opened": "2026-10-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Generally, requires 1+ years' experience in software development'; no senior duties or level in title",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer - Financials (Full Stack, Angular)",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8213668",
+      "location": "Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND (any NISC location, hybrid)",
+      "opened": "2026-09-18",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Generally, requires 1+ years' experience in software development'; no senior duties or level in title",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2026-01-15",
+  "last_cycle_basis": "tracker first seen Software Developer - Provisioning 2026-01-15; no clear new-grad label",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nisc",
   "jobs_spec": "gh:nisc",
-  "evidence": "Greenhouse API + postings 2026-10-06: Software Developer full-stack roles (2026-09-18, 10-01) say 1+ yrs, no entry/new-grad title or class year; interns not counted. Not counted as new-grad.",
+  "evidence": "Greenhouse API 2026-10-07 (37 postings): two full-stack Software Developer postings (2026-09-18, 2026-10-01) ask 1+ yrs, no senior duties, no level in title, counted as unlabeled entry-level. No class year; no sponsorship text. Old file did not count them.",
   "confidence": "medium"
 }

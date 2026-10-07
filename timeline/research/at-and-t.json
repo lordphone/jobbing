@@ -1,7 +1,7 @@
 {
   "company": "AT&T",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-11-14",
       "grad_window": "STEM degree completed before start; available to begin by July 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2024-10-18",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "attcollege Workday board (4 postings) and posting 2026-10-06: TDP has Software Engineer and Data Science Engineer tracks, canApply true, endDate 2026-11-14. 'Will not hire any applicants ... who require employer sponsorship'. TDP Internship listed separately (not counted).",
+  "evidence": "Workday attcollege board (7 postings, full) and detail 2026-10-07: TDP (recent grads, 4 tracks incl. Software Engineer/Data Science Engineer) live, endDate 2026-11-14. 'will not hire ... who require employer sponsorship'. Internship listing not counted.",
   "confidence": "high"
 }

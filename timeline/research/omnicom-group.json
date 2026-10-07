@@ -1,18 +1,34 @@
 {
   "company": "Omnicom Group (merged with IPG in 2025)",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Credera Technology Solutions Analyst",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713",
       "location": "Addison, TX; Denver, CO; Atlanta, GA; New York, NY; Houston, TX; Chicago, IL",
-      "opened": "on or before 2026-09-05",
-      "date_source": "workday postedOn",
+      "opened": "2026-09-01",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Credera Experience Design Analyst (Design Engineering)",
+      "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Experience-Design-Analyst--Design-Engineering-_R14049",
+      "location": "Addison, TX; Denver, CO; Atlanta, GA; New York, NY; Houston, TX; Chicago, IL",
+      "opened": "2026-09-01",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://interpublic.wd5.myworkdayjobs.com/omc",
   "jobs_spec": "wd:interpublic/wd5/omc",
-  "evidence": "Workday API 2026-10-06 (85): Credera Technology Solutions Analyst, entry-level (bachelor's CS, SDLC/software/cloud/AI), apply enabled, 6 US cities. Not a SWE title; borderline. No other tech entry roles.",
+  "evidence": "Workday API 2026-10-07, full board (1770): Credera Technology Solutions Analyst and Credera Experience Design Analyst (front-end design engineering), both entry-level, apply enabled, 6 US cities. Credera Data Engineer (Consultant) needs 1+ yrs and states no sponsorship; not counted (data eng).",
   "confidence": "medium"
 }

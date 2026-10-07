@@ -1,7 +1,7 @@
 {
   "company": "Credo Technology Group",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://credosemi.com/about-credo/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page 2026-10-06 (45 jobs): no new-grad/intern software roles. Only US SWE is 'Software Engineer' (San Jose, product marketing); Software Field Application Engineer; rest senior/hardware. HiBob board, no API.",
-  "confidence": "medium"
+  "evidence": "HiBob job list 2026-10-07 (42 jobs): US SWE-like roles are Senior Staff SWE, Software FAE, and 'Software Engineer' (San Jose, Corporate Strategy internal automation; 2+ yrs production, end-to-end ownership, $100-135K; not counted as entry-level). No new-grad/intern SWE.",
+  "confidence": "high",
+  "jobs_spec_basis": "Careers page is HiBob; public JSON at credo.careers.hibob.com/api/job-ad (header companyidentifier: credo) lists all 42 jobs"
 }

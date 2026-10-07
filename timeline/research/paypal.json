@@ -1,15 +1,42 @@
 {
   "company": "PayPal",
   "tier": 5,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Android",
+      "url": "https://paypal.eightfold.ai/careers/job/274922740164",
+      "location": "San Jose, CA; Austin, TX",
+      "opened": "2026-10-06",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Qualifications: 1+ years relevant experience and a Bachelor's degree; 'receiving structure and oversight from more experienced staff'; $106,000-$173,250",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer- Cloud Infrastructure and DevOps",
+      "url": "https://paypal.eightfold.ai/careers/job/274920488372",
+      "location": "Austin, TX",
+      "opened": "2026-09-02",
+      "date_source": "eightfold postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Qualifications: 1+ years relevant experience and a Bachelor's degree; 'under guidance of senior engineers'; $106,000-$173,250",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": "2025-08-16",
   "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' first seen 2025-08-16 (San Jose/Chicago/Omaha/Scottsdale, via paypal.eightfold.ai)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://paypal.eightfold.ai/careers",
   "jobs_spec": "eightfold:paypal.eightfold.ai/paypal.com",
-  "evidence": "Eightfold board 2026-10-06 (36 jobs): only mid/senior/staff SWE; no recent-grad title. 'Software Engineer - Recent Graduate' (R0137237, first seen 2026-09-04) read 'No longer accepting applications' on 2026-10-05 and is absent from the board. Austin Cloud Infra SWE reads mid-level.",
+  "evidence": "Eightfold board 2026-10-07 (177 US): no new-grad title; Software Engineer New Grad (274921995088, seen 2026-09-04) now 404 and Recent Graduate closed. Two unlabeled entry-level SWE postings read via position API (1+ yrs, junior duties). Text: visa sponsorship not available.",
   "confidence": "medium"
 }

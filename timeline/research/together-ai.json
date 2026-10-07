@@ -1,7 +1,7 @@
 {
   "company": "Together AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Degree by Summer 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-21",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/togetherai",
   "jobs_spec": "gh:togetherai",
-  "evidence": "Greenhouse API (79 postings) 2026-10-06: live Software Engineer, New Grad (2027), SF, first published 2026-09-18, recent grads. No citizenship, sponsorship or deadline line.",
+  "evidence": "gh:togetherai 2026-10-07 (78 postings, full): Software Engineer, New Grad (2027) SF first published 2026-09-18, 'ideal for recent graduates'; no citizenship, sponsorship or deadline line. Other engineers are unlabeled experienced roles.",
   "confidence": "high"
 }

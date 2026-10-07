@@ -1,26 +1,55 @@
 {
   "company": "Texas Instruments",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
+    {
+      "title": "Career Accelerator Program - Software Engineer",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577",
+      "location": "Dallas, TX; Richardson, TX",
+      "opened": "2026-09-09",
+      "grad_window": "Campus requisition, new grads (Career Accelerator Program); BS/MS EE, CompE, CS",
+      "deadline": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false,
+      "date_source": "oracle posting date (requisition API)"
+    },
+    {
+      "title": "Software Engineer - Full Stack Developer (Career Accelerator Program, Toronto)",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-01",
+      "grad_window": "Campus requisition, new grads (Career Accelerator Program); BS CS/Math/EE/CompE",
+      "deadline": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false,
+      "date_source": "oracle posting date (requisition API)"
+    },
     {
       "title": "Career Accelerator Program - Data Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
       "location": "Richardson, TX",
       "opened": "2026-09-15",
-      "date_source": "oracle posting date (page 09/15/2026)",
-      "grad_window": "new college graduates (12-month TMG Development program)",
-      "live_verified": "browser",
-      "deadline": null
+      "grad_window": "new college graduates (12-month TMG Development program); BS",
+      "deadline": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false,
+      "date_source": "oracle posting date (requisition API)"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no new-grad SWE posting between 2025-07 and 2026-01; TI software dev programs posted Jun and Sep 2026 (Career Accelerator Program - Software Engineer 2026-06-16, Software Development Engineer - Development Program 2026-09-10, both now off the board)",
+  "last_cycle_basis": "tracker history has no new-grad SWE posting between 2025-07 and 2026-01; TI software dev programs posted Jun and Sep 2026 (Career Accelerator Program - Software Engineer 2026-06-16, Software Development Engineer - Development Program 2026-09-10, both earlier reqs now off the board)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:edbz.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board plus page 2026-10-06: CAP Data Engineer (Richardson TX, BS EE/CompE, 12-month new-grad program) shows Apply Now. No sponsorship or citizenship text; page notes 'ECL/GTC Required: Yes' export-control flag. CAP/SDE software posts from Jun and Sep 2026 are gone. Borderline title.",
-  "confidence": "medium"
+  "evidence": "Oracle board (832 postings, full) + requisition API 2026-10-07: three Campus-type CAP software/data reqs live (Dallas/Richardson TX, Toronto). No sponsorship or clearance text; export-control note only. Not counted: Software Applications Engineer (Experienced req type, no sponsorship), Toronto QA SWE (professional experience).",
+  "confidence": "high"
 }

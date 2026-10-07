@@ -1,5 +1,6 @@
 {
   "company": "Booz Allen Hamilton",
+  "tier": 10,
   "status": "excluded",
   "postings": [
     {
@@ -7,30 +8,39 @@
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0251336",
       "location": "Huntsville, AL",
       "opened": "2026-10-06",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": "2027-01-03",
       "grad_window": "Bachelor's by Fall 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "University - Data Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Data-Engineer_R0248336",
       "location": "Huntsville, AL",
-      "opened": "on or before 2026-08-31",
+      "opened": "2026-08-31",
       "date_source": "workday startDate",
       "deadline": "2026-11-29",
       "grad_window": "Bachelor's by Winter 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "University, Software Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0250368",
       "location": "McLean, VA; Crane, IN",
-      "opened": "on or before 2026-09-25",
-      "date_source": "workday postedOn",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
       "deadline": "2026-12-23",
       "grad_window": "Master's by Summer 2028",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-11",
@@ -38,9 +48,9 @@
   "excluded_reason": "clearance",
   "jobs_page": "https://bah.wd1.myworkdayjobs.com/bah_jobs",
   "jobs_spec": "wd:bah/wd1/bah_jobs",
-  "evidence": "Workday API 2026-10-06: Full-Stack Developer and Data Engineer (Huntsville) quote 'Ability to obtain a Top Secret clearance'; Software Developer (McLean/Crane) 'Ability to obtain a Secret clearance'. Older Full-Stack posting R0248330 no longer on board (reposted as R0251336).",
+  "jobs_spec_basis": "jobs.py board says not found (huge board); Workday cxs search API works directly",
+  "evidence": "Workday cxs 2026-10-07, canApply true: Full-Stack Developer and Data Engineer (Huntsville) quote 'Ability to obtain a Top Secret clearance'; Software Developer (McLean/Crane) 'Ability to obtain a Secret clearance'. Junior SWE roles also cleared defense.",
   "confidence": "high",
-  "checked": "2026-10-06",
-  "tier": 10,
+  "checked": "2026-10-07",
   "no_sponsorship": false
 }

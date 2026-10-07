@@ -1,7 +1,7 @@
 {
   "company": "AMERICAN SYSTEMS",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,9 @@
       "date_source": "page text (iCIMS datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer/Developer; clearance required so excluded"
     }
   ],
   "last_cycle_opened": "2026-01-06",
@@ -21,6 +23,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS pages 2026-10-06: SWE 4783 \"Clearance Required Secret\", \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\"; 4977/4974 need active Secret; NAVAIR SWE 4982 U.S. citizen. All software postings cleared.",
+  "evidence": "iCIMS pages re-read 2026-10-07: SWE 4783 \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\"; 4974/4977 need active DoD Secret; NAVAIR 4982 \"Must be a U.S. Citizen\". All software postings need clearance.",
   "confidence": "high"
 }

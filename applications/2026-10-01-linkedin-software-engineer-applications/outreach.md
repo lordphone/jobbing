@@ -35,3 +35,4 @@ Hi [Name]! I'm a CMU master's student and just applied for LinkedIn's SWE - Appl
 
 | Name | Link | Type | Sent | Status | Notes |
 |------|------|------|------|--------|-------|
+| Wenyu Liu |  |  | 10-07 | referred 10-07 |  |

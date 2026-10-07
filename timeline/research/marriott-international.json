@@ -11,7 +11,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires 0 - 3 years of relevant experience; 'well-suited for an early-career professional'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-05",
@@ -20,7 +23,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle requisition API 2026-10-06: req 26085377 still returns full details (BeFirstToApply, early-career wording), though absent from the list. Aug 2026 Associate SWE Android/iOS reqs return nothing (gone). FLEX = flexible/temp role. FLEX Full Stack and AI SDET not counted.",
+  "evidence": "Browser 2026-10-07: req 26085377 page loads with Apply button ('Be the first to apply'), early-career wording, 0-3 yrs, though absent from the searched board list (board is search-only, 6629 of 13339). Aug Associate SWE Android/iOS reqs gone. FLEX Full Stack (6+ yrs) and AI SDET (2+ yrs QA/test) not counted.",
   "confidence": "medium",
-  "checked": "2026-10-06"
+  "checked": "2026-10-07",
+  "jobs_spec_basis": "Oracle board over 3000: searched keywords only; CDP req confirmed by direct page open"
 }

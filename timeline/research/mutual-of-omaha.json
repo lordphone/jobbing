@@ -1,36 +1,15 @@
 {
   "company": "Mutual of Omaha",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Full Stack Engineer I/II (Java, APIs, AWS)",
-      "url": "https://www.mutualofomaha.com/careers/jobs/detail/505205",
-      "location": "Remote (US / Puerto Rico)",
-      "opened": "2026-09-09",
-      "date_source": "page text",
-      "deadline": "2026-10-09",
-      "grad_window": null,
-      "live_verified": "browser"
-    },
-    {
-      "title": "Engineer I/II (Cloud Development and Data Warehouse)",
-      "url": "https://www.mutualofomaha.com/careers/jobs/detail/505274",
-      "location": "Remote (US)",
-      "opened": "2026-10-02",
-      "date_source": "page text",
-      "deadline": "2026-10-30",
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "checked": "2026-10-07",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker record; not found",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://www.mutualofomaha.com/careers/jobs/search",
   "jobs_spec": null,
-  "evidence": "Postings 505205 and 505274 fetched 2026-10-06: remote, close 2026-10-09 / 2026-10-30; 505205 asks 3+ yrs backend; 505274 states no years. Both bar applicants needing sponsorship. Level I/II borderline entry; no grad program.",
-  "confidence": "low"
+  "evidence": "All 7 search pages read 2026-10-07 (88 jobs): tech roles are Engineer I/II to III, 3+ to 7+ yrs, $110-160K, no sponsorship; only interns and Financial Representative Trainee (sales) are early-career. Engineer I/II 505274 (closes 2026-10-30) states no years but $110K+ pay and II title, so not counted. 505205 asks 3+ yrs, dropped.",
+  "confidence": "medium"
 }

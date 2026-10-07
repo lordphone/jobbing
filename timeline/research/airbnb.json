@@ -1,15 +1,15 @@
 {
   "company": "Airbnb",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-04-28",
-  "last_cycle_basis": "jobs.py history on Airbnb's own Greenhouse board: 'iOS Software Engineer \u2013 New Grad' first seen 2026-04-28 (https://careers.airbnb.com/positions/7859317?gh_jid=7859317); 'Software Engineer New Grad' 2026-04-30; Airbnb posts new-grad roles in spring",
+  "last_cycle_basis": "jobs.py history on Airbnb Greenhouse: 'iOS Software Engineer \u2013 New Grad' first seen 2026-04-28 (https://careers.airbnb.com/positions/7859317); 'Software Engineer New Grad' 2026-04-30; also Apr 2025. Posts new grad in spring",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/airbnb",
   "jobs_spec": "gh:airbnb",
-  "evidence": "gh:airbnb --all 2026-10-06: only Brazil 'Early Career' SWE postings (Sao Paulo); US SWE are experienced. No US new-grad live. Opened new grad Apr 2025 and Apr 2026; expect ~Apr 2027.",
-  "confidence": "high",
-  "checked": "2026-10-06"
+  "evidence": "gh:airbnb full board 2026-10-07 (164): only Brazil Early Career SWE roles; US Android/iOS SWE posting asks 3+ yrs, $162-186K (not entry). No US new-grad live; Airbnb posts new grad in spring.",
+  "confidence": "high"
 }

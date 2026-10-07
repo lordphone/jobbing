@@ -1,9 +1,22 @@
 {
   "company": "TD Bank (TD Bank Group)",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1514704-1",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-10",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I; 'Up to two years of relevant software development experience, including internships'; $69,700-$98,400 CAD",
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer I",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
@@ -12,7 +25,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-10",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I, no years required; $69,700-$98,400 CAD",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer I",
@@ -22,17 +38,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-08",
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer I (Cobol Developer)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-15",
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I; $69,700-$98,400 CAD; lists 3 yrs for MQ/Kafka only (borderline)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-25",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday (148) 2026-10-06: three Toronto Software Engineer I reqs listed, End Dates Oct 8, 10, 15 (API). Entry-level title, no class year. 2027 Technology Graduate Programme is Dublin only; no US entry-level SWE.",
+  "evidence": "Workday full board 2026-10-07 (1713). Toronto SWE I reqs 1514704, 1511144, 1508757 counted (end dates Oct 10, 10, 8). Not counted: SWE I Dev & Quality 1514695 (2-3 yrs), SWE I Cobol (5+ yrs, dropped from earlier file). Graduate Programme 2027 is Dublin only; NY SWE roles need 3-5 yrs.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Dollar Tree",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.dollartree.com/us/en/search-results",
   "jobs_spec": "wd:dollartree/wd5/dollartreeus",
-  "evidence": "Workday API 2026-10-06 (23 listed now; 64 seen last run): retail/store roles plus Applied AI Lead Developer; earlier Network Engineer III, Mobile Application Developer (3+ yrs, no sponsorship). No entry SWE or grad program.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-07 (board is 25k+ postings; searched software, developer, data engineer, ML, associate engineer): Data Engineer needs 3+ yrs, Mobile Application Developer 3+ yrs, Applied AI Lead Developer senior; rest managers/directors/retail. No entry SWE or grad program.",
+  "confidence": "medium",
+  "jobs_spec_basis": "board lists 25k+ postings so keyword-searched; jobs_page careers.dollartree.com leads to this Workday site"
 }

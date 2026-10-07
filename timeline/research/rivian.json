@@ -1,15 +1,30 @@
 {
   "company": "Rivian",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Rivian's own board had 'Early Career - Software Engineer, Enterprise Software' (req 30795, approx May 2026, now gone); tracker lists it first seen 2026-09-03 closed; no dated Jul 2025-Jan 2026 SWE new-grad posting found",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Edge AI",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0",
+      "location": "Palo Alto, CA",
+      "opened": "2026-09-18",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'2-4 years of software engineering experience, or a BS or MS in Computer Science... with equivalent demonstrated building experience' (hackathons, internships count); $116,300-$159,950",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-12-03",
+  "last_cycle_basis": "tracker first seen: Software Engineer - Engineering Productivity - Infotainment Platform, Palo Alto (careers.rivian.com/jobs/27934)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.rivian.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "careers.rivian.com API 2026-10-06: Early Career roles are mechanical/electrical/systems/dev plus AppSec (May 2026), no SWE; software roles are Sr/Staff/II embedded, plus Spring 2027 co-op interns. Rivian-VW Ashby: 'Systems Architecture Software Engineer' not entry-labeled.",
-  "confidence": "medium"
+  "jobs_spec_basis": "main board has no jobs.py spec; careers.rivian.com/api/jobs read directly; Rivian-VW JV roles are on ashby:rivianvw.tech",
+  "evidence": "careers.rivian.com API (813 jobs) 2026-10-07: only Early Career mechanical/electrical/systems/cloud-ops/AppSec (2+ yrs) and Spring 2027 co-op interns; no entry SWE. Rivian-VW JV Ashby: Edge AI SWE accepts BS/MS in lieu of 2-4 yrs, counted; Embedded Lighting (1 yr, firmware) and Systems Architecture (systems eng) not counted. JV board, not Rivian's own: medium.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

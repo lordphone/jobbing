@@ -1,26 +1,15 @@
 {
   "company": "CIBC",
   "tier": 5,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "Technology Graduate Rotational Program Associate - TGRP",
-      "url": "https://cibc.wd3.myworkdayjobs.com/campus",
-      "location": "Toronto, ON",
-      "opened": "2026-08-05",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-03-25",
-  "last_cycle_basis": "tracker 'Associate Technology Graduate Rotational Program' Toronto 2026-03-25 (spring; TGRP is for former co-ops); Chicago Software Engineer I 2026-04-07 and SWE Apprentice 2026-03-23 (no sponsorship)",
+  "last_cycle_basis": "tracker 'Associate Technology Graduate Rotational Program' Toronto 2026-03-25 (TGRP is for former CIBC co-ops); Chicago Software Engineer I 2026-04-07 and SWE Apprentice 2026-03-23 (no sponsorship)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cibc.wd3.myworkdayjobs.com/search",
   "jobs_spec": "wd:cibc/wd3/search",
-  "evidence": "Tracker shows TGRP Toronto posted 2026-08-05 and 2026-08-24 (closed); neither is on the Workday campus (29) or search (110) boards, searches for it return nothing. Tracker URL truncated so page unopened. No entry SWE live; Chicago SWE I was spring 2026.",
-  "confidence": "low"
+  "evidence": "Full search (580) and campus (41) boards read 2026-10-07: only 2027 Summer Intern SWE (Chicago), co-ops, banking analysts; Toronto 'Consultant' devs need 5+ yrs. Tracker TGRP Toronto (2026-08-05/24, co-op-only) is on neither board; page unopened so not called closed. Chicago SWE I was spring 2026.",
+  "confidence": "low",
+  "checked": "2026-10-07"
 }

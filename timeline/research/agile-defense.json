@@ -1,7 +1,7 @@
 {
   "company": "Agile Defense",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/agile-defense",
   "jobs_spec": "lever:agile-defense",
-  "evidence": "Lever API (123 postings) 2026-10-06: only entry SWE is Software Developer I (Aberdeen Proving Ground, MD, 0-2 yrs): \"Must possess at minimum an Interim Secret clearance\", \"Must Have Clearance to Start\".",
+  "evidence": "Lever API (134 postings) 2026-10-07: only entry SWE is Software Developer I (0-2 yrs); posting says \"Must possess at minimum an Interim Secret clearance\". Java/Software Engineer 1-3 yrs roles also need Secret.",
   "confidence": "high"
 }

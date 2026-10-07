@@ -1,15 +1,15 @@
 {
   "company": "Dropbox",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "not_yet",
+  "checked": "2026-10-07",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Dropbox; no new-grad SWE posting found in the 2025-07 to 2026-01 window. Unknown.",
+  "last_cycle_basis": "No tracker history for Dropbox; no new-grad SWE posting found in the 2025-07 to 2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/dropbox",
   "jobs_spec": "gh:dropbox",
-  "evidence": "gh:dropbox 2026-10-06 (39, --all): no new-grad or entry SWE titles; only experienced roles. No tracker history, so program existence unknown; web says hiring is mainly intern conversion.",
-  "confidence": "low"
+  "evidence": "gh:dropbox full board 2026-10-07 (31): no US engineering roles at all; only Poland infra SWE and sales/marketing/product. No tracker history of a new-grad SWE program.",
+  "confidence": "medium"
 }

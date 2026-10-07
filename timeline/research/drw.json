@@ -1,7 +1,6 @@
 {
   "company": "DRW",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduation Dec 2026 – Jun 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-07",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/drweng",
   "jobs_spec": "gh:drweng",
-  "evidence": "gh:drweng API detail 2026-10-06: Software Developer Chicago (first_published 2026-07-13, updated 2026-09-12, grad Dec 2026-Jun 2027) live; listed on board and job page 200. Other SWE roles senior. No deadline.",
-  "confidence": "high"
+  "evidence": "gh:drweng full board (180) 2026-10-07: Chicago Software Developer (grad Dec 2026-Jun 2027) on board, page 200. London Software Developer is UK. Other US SWE roles need 2-7+ yrs. No deadline.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

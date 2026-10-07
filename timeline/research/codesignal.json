@@ -1,15 +1,15 @@
 {
   "company": "CodeSignal",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history found.",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "Gem API api.gem.com/job_board/v0/codesignal/job_posts returns [] 2026-10-06; board shows no open positions. Greenhouse and Ashby have no CodeSignal board.",
-  "confidence": "medium"
+  "evidence": "Gem job board API for codesignal returns an empty list 2026-10-07; codesignal.com/careers links only to that board and mentions no university or new-grad program. About 125 employees.",
+  "confidence": "high"
 }

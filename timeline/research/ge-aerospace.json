@@ -1,15 +1,15 @@
 {
   "company": "GE Aerospace",
+  "tier": 8,
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-06-02",
-  "last_cycle_basis": "tracker first seen: Digital Technology Leadership Program - DTLP (Sharonville, OH), now closed; UK DTLP first seen 2025-11-25",
+  "last_cycle_basis": "tracker first seen: DTLP (Sharonville, OH), now closed; UK DTLP first seen 2025-11-25",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite",
   "jobs_spec": "wd:geaerospace/wd5/ge_externalsite",
-  "evidence": "Workday --all 2026-10-06: US software roles are Lead/Senior/Staff; early-career items are only 2027 interns/co-ops, MOLP, UK apprenticeships. No 2027 full-time US new-grad SWE posting live.",
-  "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 8
+  "evidence": "Workday API 2026-10-07 (60 postings, full): US software roles are Lead/Senior; early-career items are UK/other apprenticeships and trainees, none US SWE. Search: 2027 US EEDP listing says US citizenship required, 2027 DTLP listed closed; neither on the board. Not excluded: no board quote.",
+  "confidence": "medium"
 }

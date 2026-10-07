@@ -1,15 +1,30 @@
 {
   "company": "Tata Consultancy Services (TCS)",
-  "status": "unknown",
-  "postings": [],
+  "tier": 10,
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior FDE",
+      "url": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/431331J",
+      "location": "Milford, OH",
+      "opened": "on or before 2026-10-07",
+      "date_source": "page text (no posted date shown; first seen 2026-10-07)",
+      "deadline": "2026-11-05",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Experience 0 - 2 Years; Bachelor of Computer Information Systems; $85,000-$100,000; 'Junior' title",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no dated first-party source found; campus boards (Handshake, Rice CDO) list TCS Software Engineer (Entry-Level), undated",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://ibegin.tcsapps.com/candidate/?geography=US&language=EN",
+  "jobs_page": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/search",
   "jobs_spec": null,
-  "evidence": "iBegin (ibegin.tcsapps.com, Angular app) has no public job-list API in its bundles and the shared browser pane was unusable 2026-10-05; web search shows only campus-board TCS entry-level Software Engineer listings (no dates). First-party board not read, so unknown.",
-  "confidence": "low",
-  "checked": "2026-10-05",
-  "tier": 10
+  "evidence": "Browser iBegin US 2026-10-07: pulled all 2350 US postings. Only Junior FDE (Milford OH, 0-2 yrs, apply by 2026-11-05) fits. Other software roles are banded 2-4/2-5 yrs (Java Python Dev, Android/iOS, Gen AI Eng, SWE AI Native), left out.",
+  "confidence": "medium",
+  "jobs_spec_basis": "iBegin US search works in browser (en-US locale); pulled all 2350 US postings via its search API"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Revolut",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no first-party or tracker date found",
+  "last_cycle_basis": "unknown; no tracker history or dated first-party source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.revolut.com/careers/team/engineering/",
   "jobs_spec": null,
-  "evidence": "Careers pages blocked here (403/security check). Search of revolut.com position pages: Graduate Programme 2027 SWE (iOS, Java, Frontend, Python, Android) only in Barcelona, Dubai, Krakow, Lisbon, London, Madrid. Prior browser read 2026-10-05 found none in US/Toronto/Vancouver.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-07: full careers list (356 positions, read from page data) has no US, Toronto or Vancouver engineering role (US/NY roles are sales, finance, risk). Graduate Programme 2027 SWE roles are Europe/UAE only.",
+  "confidence": "high"
 }

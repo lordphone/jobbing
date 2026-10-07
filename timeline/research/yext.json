@@ -1,7 +1,7 @@
 {
   "company": "Yext",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1+ years of professional software engineering experience'; no lead/mentor duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-02",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/yext",
   "jobs_spec": "gh:yext",
-  "evidence": "Greenhouse API and posting page 2026-10-06: Software Engineer, Rosslyn VA/DC, first published 2026-09-24, 1+ yrs professional experience, Apply form live, no citizenship text or deadline. Not labelled entry-level; Senior roles listed separately.",
+  "evidence": "Greenhouse API and posting 2026-10-07: Software Engineer, DC/Rosslyn VA, first published 2026-09-24, 1+ yrs required, listed on board, no citizenship text or deadline. London SE non-US; Senior roles separate.",
   "confidence": "medium"
 }

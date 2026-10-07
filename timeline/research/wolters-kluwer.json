@@ -1,8 +1,8 @@
 {
   "company": "Wolters Kluwer",
   "tier": 6,
-  "checked": "2026-10-06",
-  "status": "closed",
+  "checked": "2026-10-07",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-26",
   "last_cycle_basis": "tracker history: 'Associate Product Software Engineer' (Waltham, MA) first seen 2025-11-26",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://wk.wd3.myworkdayjobs.com/External",
   "jobs_spec": "wd:wk/wd3/External",
-  "evidence": "Workday --all and cxs search 2026-10-06: no entry-level US SWE; US Product SWE reqs need 2-5+ yrs. Kennesaw Product SWE Full Stack .Net (tracker 2026-07-23) no longer listed; its page URL not openable, so closed is unverified.",
-  "confidence": "low"
+  "evidence": "Workday API 2026-10-07 (446 postings, full): US SWE are Senior/Lead/Principal, Product SWE Coppell needs 5+ yrs, FDE 7+ yrs. No live entry SWE. Past 'Associate Product Software Engineer' postings (Waltham 2025-11, Kennesaw 2026-05) are gone; no verified 2027-cycle entry posting, so not_yet rather than closed.",
+  "confidence": "medium"
 }

@@ -1,15 +1,13 @@
 {
   "company": "BJ's Wholesale Club",
   "tier": 9,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no entry-level SWE in tracker history or on board; unknown",
   "jobs_page": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers",
   "jobs_spec": "wd:bjswholesaleclub/wd1/BJsCareers",
-  "evidence": "Workday search 2026-10-06: tech side only Senior Digital Engineer, Engineering Manager, Principal, Lead/Sr SAP and POS engineers; 2027 postings are summer interns. No entry SWE; no tracker history.",
-  "confidence": "medium"
+  "jobs_spec_basis": "jobs.py board returned 'not found' but Workday cxs API answers directly (1534 postings)",
+  "evidence": "Workday cxs search 2026-10-07 (software engineer, engineer, developer, graduate, new grad, associate software, data engineer): tech roles are Senior/Lead/Principal/Manager at Marlborough MA; no entry SWE or new-grad program.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

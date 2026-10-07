@@ -1,7 +1,7 @@
 {
   "company": "TRM Labs",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "leftover_2026",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": "degree completed by Summer 2026",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-30",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/trm-labs",
   "jobs_spec": "ashby:trm-labs",
-  "evidence": "Ashby board 2026-10-06: only 'University Grad - Product Engineer (2026-2027)' (posted 2025-09-30, degree by Summer 2026) is entry-level; 2027 class not posted. Other SWE roles unlevelled.",
-  "confidence": "medium"
+  "evidence": "Ashby board (full) 2026-10-07: 'University Grad - Product Engineer (2026-2027)' (degree by Summer 2026, posted 2025-09-30) is still listed: last-cycle leftover. 2027 class not posted. Other SWE roles are $180K+ and unlevelled.",
+  "confidence": "high"
 }

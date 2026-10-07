@@ -1,15 +1,15 @@
 {
   "company": "AQR",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting found in tracker history (Junior Software Engineer-Quantitative Research seen 2024-09-30)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no dated last-cycle full-time US new-grad SWE posting in tracker history (Junior Software Engineer-Quantitative Research seen 2024-09-30)",
   "jobs_page": "https://careers.aqr.com",
   "jobs_spec": "gh:aqr",
-  "evidence": "gh:aqr board --all 2026-10-06: US engineering roles are Associate (3-5 yrs, checked 8088187)/VP (Greenwich). Only entry-level tech is 2027 Engineering Summer Analyst (internship); 2027 Trading and Business Development Analyst are non-SWE. No new-grad SWE yet.",
-  "confidence": "high"
+  "evidence": "gh:aqr full board 2026-10-07 (54): Greenwich engineering roles are Associate (3-5 yrs, API checked 8088187), SIG engineer (3+ yrs) and VP. Entry-level only 2027 Engineering Summer Analyst (internship); Bengaluru roles are non-US. No new-grad SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

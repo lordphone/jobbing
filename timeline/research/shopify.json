@@ -1,7 +1,7 @@
 {
   "company": "Shopify",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.shopify.com/careers",
   "jobs_spec": null,
-  "evidence": "shopify.com/careers (WebFetch) 2026-10-06: only 4-month internships, Dev Degree, APM and design apprentice programs; no full-time new-grad SWE posting. Web says hiring is mainly intern conversion, no sponsorship.",
+  "evidence": "2026-10-07 browser: shopify.com/careers lists 34 open postings, none engineering or entry-level (keyword param ignored; search URL is Cloudflare-blocked). Engineering page offers only Dev Degree, internships, APM, apprenticeships. Tracker's SWE posting returned 410.",
   "confidence": "medium"
 }

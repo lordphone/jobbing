@@ -1,26 +1,26 @@
 {
   "company": "TSMC",
+  "tier": 7,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer (New Graduate) - North America Software Center",
-      "url": "https://ro.careers.tsmc.com/job/Vancouver-Software-Engineer-%28New-Graduate%29-North-America-Software-Center-WA-98607/1366233766/",
-      "location": "Vancouver, WA",
-      "opened": "2026-08-21",
-      "date_source": "earlier browser check (kept from prior file); page now shows Date: Sep 19, 2026",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
+    {"title": "Software Engineer (New Graduate) - North America Software Center", "url": "https://ro.careers.tsmc.com/job/Vancouver-Software-Engineer-%28New-Graduate%29-North-America-Software-Center-WA-98607/1366233766/", "location": "Vancouver, WA",
+     "opened": "2026-08-21", "date_source": "earlier browser check kept from prior file; page and list show Date: Sep 19, 2026 (TSMC re-dates)",
+     "deadline": null, "grad_window": null, "live_verified": "browser",
+     "level": "new-grad title", "level_basis": null, "no_sponsorship": true},
+    {"title": "Fullstack Software Engineer (TSMC Arizona fab automation)", "url": "https://ro.careers.tsmc.com/job/Phoenix-Fullstack-Software-Engineer-AZ-85083/1210813601/", "location": "Phoenix, AZ",
+     "opened": "2026-08-26", "date_source": "careers search list date (page now shows Sep 24, 2026)",
+     "deadline": null, "grad_window": null, "live_verified": "browser",
+     "level": "unlabeled", "level_basis": "Minimum: Bachelor's degree in a related IT field or equivalent work experience; no years of experience listed; no lead or mentor duties",
+     "no_sponsorship": false}
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.tsmc.com",
   "jobs_spec": null,
-  "no_sponsorship": true,
-  "evidence": "Posting page opened 2026-10-06: Software Engineer (New Graduate), Vancouver WA, Apply now present, Date Sep 19 2026; states 'We cannot provide visa sponsorship at this time'. Phoenix fullstack role not entry-labeled.",
-  "confidence": "high",
-  "tier": 7,
-  "checked": "2026-10-06",
-  "excluded_reason": null
+  "jobs_spec_basis": "no API; careers site ro.careers.tsmc.com read in browser (search q=software, 63 results)",
+  "evidence": "Browser 2026-10-07: Vancouver WA Software Engineer (New Graduate) page has Apply now, says cannot provide visa sponsorship. Phoenix Fullstack Software Engineer lists no years (counted, unlabeled). Left out: Fab Automation and Software Engineer (no years, 'guide work' wording, unclear), AI FDE (3 yrs).",
+  "confidence": "medium"
 }

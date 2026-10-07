@@ -1,15 +1,42 @@
 {
   "company": "Visa",
   "tier": 5,
-  "checked": "2026-10-06",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "SW Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/SW-Engineer_REF088996W",
+      "location": "Bellevue, WA",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "basic quals: Bachelor's degree; 'Works under close guidance to implement basic enhancements'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer- Operations and Infrastructure",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+      "location": "Austin, TX",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'excellent opportunity for an early-career engineer'; basic quals Bachelor's degree, preferred 1-2 years",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'Software Engineer - New College Grad' (Austin, TX, SmartRecruiters) first seen 2025-09-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://visa.wd5.myworkdayjobs.com/Visa",
   "jobs_spec": "wd:visa/wd5/Visa",
-  "evidence": "Workday search 2026-10-06: 'new college grad', 'New Grad', '2027 college grad' return no SWE new-grad reqs; 2027 hits only PhD interns/finance. Tracker's 2026-09-16 2027 SWE New College Grad reqs (Austin, Foster City, Bellevue) are no longer listed. Denver 'SW Engineer' asks BS or 3+ yrs: experienced req.",
+  "evidence": "Workday board 2026-10-07 (801, full) has no 'New College Grad' title. The three 2027 NCG reqs (Austin, Foster City, Bellevue; first seen 2026-09-16) show 'page doesn't exist' in browser, so closed. Two unlabeled early-career SWE reqs are live; not labeled new-grad. Denver SW Engineer prefers 2+ yrs, left out.",
   "confidence": "medium"
 }

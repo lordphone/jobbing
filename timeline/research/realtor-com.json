@@ -1,7 +1,7 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "careers.realtor.com blocks fetch. Greenhouse rdccareers lists 0 jobs; Backend SWE Austin (7800190003) redirects to search page with error. Closed.",
+  "evidence": "Greenhouse rdccareers API 0 jobs 2026-10-07; job URL for Backend SWE Austin (7800190003) redirects to careers.realtor.com search page (Cloudflare blocked page fetch). Closed; Built In mirror of a similar junior SWE listing was removed 2026-03-09.",
   "confidence": "medium"
 }

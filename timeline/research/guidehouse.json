@@ -1,26 +1,30 @@
 {
   "company": "Guidehouse",
+  "tier": 10,
   "status": "excluded",
   "postings": [
     {
       "title": "Palantir Foundry Engineer I",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Palantir-Foundry-Engineer-I_42897",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Palantir-Foundry-Engineer-I_42897",
       "location": "San Antonio, TX; Houston, TX; Charlotte, NC; Huntsville, AL; Atlanta, GA",
-      "opened": "on or before 2026-09-21",
-      "date_source": "workday postedOn",
+      "opened": "2026-09-21",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Engineer I\"; requires 2+ years Palantir Foundry",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-08",
-  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA)",
+  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA; US-citizenship flagged)",
   "excluded_reason": "clearance",
-  "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/external",
-  "jobs_spec": "wd:guidehouse/wd1/external",
-  "evidence": "Workday API 2026-10-06 (34 reqs, --all): only entry SWE-ish role Palantir Foundry Engineer I (2+ yrs Foundry): 'Ability to obtain and maintain a Public Trust or higher federal security clearance'. Campus 2027 roles are consulting analysts/interns only.",
+  "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/External",
+  "jobs_spec": "wd:guidehouse/wd1/External",
+  "jobs_spec_basis": "board name is case-sensitive: lowercase \"external\" returns nothing, \"External\" lists 400 postings",
+  "evidence": "Workday External board read in full (400 postings, 2026-10-07): only entry SWE-ish role is Palantir Foundry Engineer I, which says \"Ability to obtain and maintain a Public Trust or higher federal security clearance\". Other developer roles need 4-5+ yrs or US citizenship/green card.",
   "confidence": "medium",
-  "checked": "2026-10-06",
-  "tier": 10,
+  "checked": "2026-10-07",
   "no_sponsorship": false
 }

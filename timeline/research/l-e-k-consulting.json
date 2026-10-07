@@ -1,36 +1,15 @@
 {
   "company": "L.E.K. Consulting",
   "tier": 10,
-  "checked": "2026-10-06",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "Associate Data & Automation Analyst",
-      "url": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-86e3fabd2fdc/candidate/so/pm/1/pl/6/opp/4099-Associate-Data-Automation-Analyst/en-GB",
-      "location": "Boston, MA",
-      "opened": "on or before 2026-10-01",
-      "date_source": "page text (board shows no posted date; listed live on 2026-10-01 and 2026-10-05)",
-      "deadline": "2026-12-31",
-      "grad_window": null,
-      "live_verified": "no"
-    },
-    {
-      "title": "Associate Data & AI Analyst",
-      "url": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-86e3fabd2fdc/candidate/so/pm/1/pl/6/opp/4100-Associate-Data-AI-Analyst/en-GB",
-      "location": "Boston, MA",
-      "opened": "on or before 2026-10-01",
-      "date_source": "page text (board shows no posted date; listed live on 2026-10-01 and 2026-10-05)",
-      "deadline": "2026-12-31",
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "checked": "2026-10-07",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history. Firm campus programs are consulting tracks (U.S. Consultant 2027, Summer DDA Associate 2027).",
+  "last_cycle_basis": "unknown; no tracker history. Campus programs are consulting tracks (U.S. Consultant 2027, Summer DDA Associate 2027).",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-f9ee24524658/candidate/jobboard/vacancy/3/adv/",
   "jobs_spec": null,
-  "evidence": "2026-10-06 board and posting pages blocked by an \"I'm not a robot\" check (not bypassed). 2026-10-05 read: only Boston Associate Data & Automation / Data & AI Analyst (1-3 / 2-5 yrs), close 2026-12-31, no sponsorship. Borderline SWE; unverified today.",
-  "confidence": "low"
+  "evidence": "Browser read of full Americas board 2026-10-07 (14 jobs, no bot check this time). No SWE new-grad track. Borderline, left out: Associate Data & Automation Analyst (Boston, 1-3 yrs, 'early-career', Python/Azure automation, closes 2026-12-31); Data & AI Analyst needs 2-5 yrs.",
+  "confidence": "medium"
 }

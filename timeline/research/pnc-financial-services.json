@@ -1,7 +1,6 @@
 {
   "company": "PNC Financial Services",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "workday postedOn (30+ days; startDate 2026-08-05)",
       "deadline": null,
       "grad_window": "recent graduates, no class year",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-04",
@@ -21,6 +23,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://pnc.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:pnc/wd5/External",
-  "evidence": "Workday board+API 2026-10-06: Technology Development Program Analyst/Associate listed and resolves, recent-grad level, no end date. 'will not provide sponsorship for employment visas or participate in STEM OPT'. Matches prior file.",
-  "confidence": "high"
+  "evidence": "Workday board (640) and cxs searches 2026-10-07: Technology Development Program Analyst/Associate resolves via detail, 'filled by recent university/college graduates', no end date; 'will not provide sponsorship... STEM OPT'. No other entry SWE. Matches prior file.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

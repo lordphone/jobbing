@@ -1,15 +1,15 @@
 {
   "company": "Sandisk",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2026-01-07",
-  "last_cycle_basis": "tracker first seen: Field Application Engineer - New College Graduate (not SWE), https://jobs.smartrecruiters.com/Sandisk/744000102169088; no SWE-titled NCG posting found in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "SmartRecruiters NCG postings last cycle were firmware (Senior Firmware Dev NCG Masters, Milpitas, 2025-08-19), FAE (2026-01-07) and automation dev (Batu Kawan, Malaysia); no US new-grad SWE found.",
   "jobs_page": "https://careers.smartrecruiters.com/Sandisk",
   "jobs_spec": null,
-  "evidence": "SR careers page (WebFetch) and API (Sandisk/SanDisk) show 'No job postings are currently available' 2026-10-06; tracker NCG roles Jan and Jun-Jul 2026 were FAE/product/firmware, none SWE. Search says 2027 NCG window opens ~Jan 2027. 1 web search.",
-  "confidence": "medium"
+  "evidence": "SmartRecruiters careers page and API 2026-10-07: 'No job postings are currently available' (totalFound 0); the NCG postings seen are all active=false. Third-party guide expects NCG window ~Jan 2027. New-grad roles lean firmware/FAE, not SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

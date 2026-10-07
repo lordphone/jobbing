@@ -1,7 +1,7 @@
 {
   "company": "Scale AI",
   "tier": 2,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Fall 2026 or Spring 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, Public Sector - New Grad",
@@ -22,7 +25,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Fall 2026 or Spring 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-08",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/scaleai",
   "jobs_spec": "gh:scaleai",
-  "evidence": "gh:scaleai (188 postings) 2026-10-06: two US New Grad SWE postings live in SF (London, Doha variants not US). Grad window Fall 2026/Spring 2027; no citizenship, clearance or deadline text, including Public Sector.",
+  "evidence": "gh:scaleai (188 postings) 2026-10-07: two US New Grad SWE postings live in SF (London, Doha variants not US). Fall 2026/Spring 2027 grads; no citizenship, clearance, sponsorship or deadline text, including Public Sector.",
   "confidence": "high"
 }

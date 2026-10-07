@@ -1,15 +1,15 @@
 {
   "company": "Sophos",
-  "tier": 6,
-  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only UK entry-level roles (Junior Software Engineer - Linux, Software Engineer 1), all Remote in UK, none in the US.",
+  "last_cycle_basis": "Tracker history shows only UK entry-level roles (Junior Software Engineer - Linux 2025-03, Software Engineer 1 2026-07), Remote in UK, none in the US.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/sophos",
   "jobs_spec": "lever:sophos",
-  "evidence": "Lever API 2026-10-06 (reconfirmed) (83 postings, --all): no US entry SWE; only Incident Response Engineer 2 (UK) and Security Engineer (Canada). Entry SWE history is UK-remote only.",
-  "confidence": "high"
+  "evidence": "Lever API 2026-10-07, 86 postings, full coverage: no US/Toronto/Vancouver entry SWE; only Security Engineer (Canada, threat response) and UK/India roles. Entry SWE history is UK-remote only.",
+  "confidence": "high",
+  "tier": 6,
+  "checked": "2026-10-07"
 }

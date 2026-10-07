@@ -1,15 +1,29 @@
 {
   "company": "CLEAR (Clear Secure)",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Infrastructure",
+      "url": "https://job-boards.greenhouse.io/clear/jobs/7901600",
+      "location": "New York, NY",
+      "opened": "2026-05-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "We're looking for an early career Software Engineer; 0-2 years of experience; base $105,000-$125,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-11-27",
   "last_cycle_basis": "Tracker first seen 2025-11-27: Software Engineer New Grad Web/Backend/Fullstack on job-boards.greenhouse.io/clear (now closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/clear",
   "jobs_spec": "gh:clear",
-  "evidence": "Greenhouse API (48 jobs): SDE III, Senior, Staff, Data Eng II, ML Eng II; no new-grad role. Last cycle three new-grad postings (2025-11-27) are gone; expect Nov repost.",
-  "confidence": "high"
+  "evidence": "gh:clear full board (47) 2026-10-07: Software Engineer, Infrastructure (NYC) says early career, 0-2 yrs, $105-125K; no class year. Other SWE roles ask 3+ yrs. Last cycle's labeled new-grad postings are gone; expect a Nov repost.",
+  "confidence": "medium"
 }

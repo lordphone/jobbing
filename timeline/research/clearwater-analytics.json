@@ -1,7 +1,7 @@
 {
   "company": "Clearwater Analytics",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Engineers at entry-level work on coding, debugging'; requires 1+ years building software; $105,000-$120,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers",
   "jobs_spec": "wd:clearwateranalytics/wd1/Clearwater_Analytics_Careers",
-  "evidence": "Workday cxs 2026-10-06: Quantitative Developer I (New York) live, canApply true, startDate 2026-09-22; text is the entry-level SDE track (1+ yrs). Associate SDE June 2027 roles are London only; Boise Associate SDE postings closed. No deadline; title borderline.",
+  "evidence": "Workday cxs 2026-10-07 (272 jobs, keyword-searched): Quantitative Developer I (New York) live, canApply true, entry-level text, 1+ yrs. Associate SDE June 2027 roles are London only; US SDE roles are II/III/Senior. No deadline; title borderline.",
   "confidence": "medium"
 }

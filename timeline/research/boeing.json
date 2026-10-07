@@ -1,7 +1,7 @@
 {
   "company": "Boeing",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Associate Software Engineer",
@@ -22,7 +25,10 @@
       "deadline": "2026-10-09",
       "date_source": "workday startDate",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Associate Software Engineer - Developers",
@@ -32,7 +38,10 @@
       "deadline": "2026-10-08",
       "date_source": "workday startDate",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Associate Software Engineer",
@@ -42,15 +51,70 @@
       "date_source": "workday postedOn",
       "deadline": "2026-10-31",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026525833-1",
+      "location": "Berkeley, MO",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-31",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131",
+      "location": "Berkeley, MO",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-21",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Associate-Software-Engineer_JR2026526261-1",
+      "location": "Heath, OH",
+      "opened": "2026-10-06",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-10",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1",
+      "location": "Maryland Heights, MO; Hazelwood, MO",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-31",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-02",
   "last_cycle_basis": "tracker first-seen date, kept from previous research file",
-  "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "excluded_reason": "us person / itar",
+  "no_sponsorship": true,
   "jobs_page": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
   "jobs_spec": "wd:boeing/wd1/EXTERNAL_CAREERS",
-  "evidence": "Workday API (151 postings) 2026-10-06, opened ~10 Associate/entry SWE postings via detail: all need clearance or U.S. Person: 'Secret Security Clearance (U.S. Citizenship Required)', 'a \"U.S. Person\" as defined by 22 C.F.R.'; Hazelwood also no visa sponsorship. Deadlines are Workday endDate.",
+  "evidence": "Workday API search + detail 2026-10-07: ~10 Associate SWE postings (MO, AL, OK, NE, OH, CA, CO, VA) all say 'U.S. Person' per 22 C.F.R., several need Secret clearance, and 'will not sponsor'. Vancouver Greenfield Full Stack Developer is senior (mentoring) and export-controlled.",
   "confidence": "high"
 }

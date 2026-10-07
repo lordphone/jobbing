@@ -1,28 +1,34 @@
 {
   "company": "Huron",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Forward Deployed Engineer Associate (AI Capability Center)",
       "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
-      "location": "Chicago, IL; Toronto, ON, Canada",
+      "location": "Chicago, IL; Toronto, Canada",
       "opened": "on or before 2026-09-06",
-      "date_source": "workday postedOn (30+ days ago); startDate 2026-09-02",
+      "date_source": "workday postedOn (30+ days) / startDate 2026-09-02",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Position Level Associate; asks 3+ years; $105,000-$130,000",
+      "no_sponsorship": false
     },
     {
       "title": "Data Platform Engineer (Associate)",
       "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Platform-Engineer--Associate-_JR-0015729",
       "location": "Chicago, IL",
       "opened": "2026-09-16",
-      "date_source": "workday startDate (postedOn 20 days ago)",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Position Level Associate; asks 3+ years; $100,000-$130,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://huron.wd1.myworkdayjobs.com/huroncareers",
   "jobs_spec": "wd:huron/wd1/huroncareers",
-  "evidence": "Workday API 2026-10-06: FDE Associate (Chicago/Toronto) and Data Platform Engineer Associate (Chicago) both listed, detail loads; no class year, new-grad label or citizenship/clearance text (borderline entry-level 'Associate').",
+  "evidence": "Workday API 2026-10-07 (60, full): both Associate-level engineer postings still listed with apply. Level label Associate but both ask 3+ yrs, so weak match. No class year or new-grad program.",
   "confidence": "medium"
 }

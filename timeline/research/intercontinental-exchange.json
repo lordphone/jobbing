@@ -1,18 +1,21 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Full Stack Developer",
+      "title": "Associate Full Stack Developer (Full Stack Developer I)",
       "url": "https://careers-ice.icims.com/jobs/13433/associate-full-stack-developer/job",
       "location": "Jacksonville, FL",
       "opened": "2026-10-01",
       "date_source": "icims datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title, 'Full Stack Developer I'; requires 1+ years; works on well-defined features under guidance of senior engineers",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-02-24",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS fetch 2026-10-06: Associate Full Stack Developer 13433 Jacksonville shows Apply (1+ yrs, no sponsorship text; posted 2026-10-01 per earlier check). Engineer 1 req 13435 closed. Engineer II roles are mid-level; others Java 3+ yrs/Senior.",
+  "evidence": "iCIMS search pages and postings fetched 2026-10-07 (221 jobs scanned): Associate Full Stack Developer 13433 Jacksonville shows Apply, posted 2026-10-01. NYSE Full Stack SWE (NY, 2+ yrs, owns problems with limited direction) and Junior SDET (Atlanta, test) not counted; other dev roles 3+ yrs/Senior.",
   "confidence": "medium"
 }

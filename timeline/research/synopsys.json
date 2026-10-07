@@ -1,15 +1,29 @@
 {
   "company": "Synopsys",
   "tier": 7,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "HPC Software Engineer",
+      "url": "https://careers.synopsys.com/job/canonsburg/hpc-software-engineer/44408/87085299616",
+      "location": "Canonsburg, PA",
+      "opened": "2026-09-24",
+      "date_source": "page text (Date posted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires \"Bachelor's degree ... with 2+ years of experience, or Master's degree in a related field\"; $101,000-$151,000; no lead/mentor duties (borderline: posting reads experienced)",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in the 2025-07..2026-01 window",
+  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in the 2025-07..2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.synopsys.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.synopsys.com in browser 2026-10-06: keyword searches (location filter loose) show only staff/senior/principal US SWE roles; entry 'Engineer' titles are Korea/Taiwan/China/India. A search-surfaced Vancouver 'R&D Engineering, Engineer' URL redirects to homepage (gone). No US/Canada new-grad SWE live.",
+  "evidence": "careers.synopsys.com results endpoint 2026-10-07, 598 of 628 listed read; US/Canada titles are staff/senior/principal or hardware, except HPC Software Engineer (Canonsburg, Master's path, borderline) and Data Engineer (5+ yrs). Page fetched over HTTP, no Apply-button check. Interns only otherwise.",
   "confidence": "low"
 }

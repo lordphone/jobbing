@@ -1,7 +1,7 @@
 {
   "company": "CBRE Group",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.cbre.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "careers.cbre.com blocked fetches this run; search snippets show US Software Engineer (Richardson/Dallas, 2026-03-20) needs 5-8+ yrs. Prior browser read 2026-10-05: US software roles Director/Sr; 2027 items interns or UK/EU schemes. No entry SWE.",
-  "confidence": "medium"
+  "evidence": "careers.cbre.com keyword searches in browser 2026-10-07 (999+ jobs, not fully listable): US Software Engineer Analyst / HVAC Controls (Remote US) want 2-5 yrs, no sponsorship, and are building-controls programming; Software Engineer Director/Principal roles senior; only Digital & Technology Intern Summer 2027. No entry SWE found.",
+  "confidence": "medium",
+  "jobs_spec_basis": "careers.cbre.com (Avature) has no usable API; read keyword searches in the browser pane"
 }

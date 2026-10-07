@@ -1,15 +1,42 @@
 {
   "company": "Siemens",
   "tier": 11,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - C++ / Compiler",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524948",
+      "location": "Burlington, MA",
+      "opened": "2026-10-06",
+      "date_source": "page text (Posted since 06-Oct-2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Experience level Early Professional; requires BS/MS/PhD and 0 to 3 years C++ experience. Posting notes ITAR/EAR: employment contingent on verifying U.S. Person status or obtaining an export license",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Power Systems Software Engineer - Optimization",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/507651",
+      "location": "Schenectady, NY",
+      "opened": "2026-05-22",
+      "date_source": "page text (Posted since 22-May-2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Early Professional; pathways: bachelor's + 2+ yrs OR graduate degree with academic coding OR Siemens internship",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker first seen 2024-10-28 'New Grad 2025: Software Engineer' (Wilsonville, OR, two cycles ago); Junior Software Development Engineer (Grand Prairie TX) first seen 2026-09-01, closed; nothing in 2025-26 window",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "WebFetch of Siemens search 2026-10-06: 'new grad software' 0 results; 'junior software' shows only Junior Software Engineer - Automation PLC (523883, location unseen, PLC/not verified). Posting pages unreadable (browser pane unavailable). Prior: borderline Software Engineer - Associate 519244, 1-3 yrs, no sponsorship. Not fully enumerated.",
+  "evidence": "Siemens Avature search pages fetched 2026-10-07 (keyword software ~900 results, junior, early career, graduate, entry level), US list read. Two early-professional SWE postings found (Burlington MA with ITAR/EAR note; Schenectady NY). Other US SWE are Senior/5+ yrs/mid-level. Not exhaustively enumerated.",
   "confidence": "low"
 }

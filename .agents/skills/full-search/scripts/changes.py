@@ -2,7 +2,7 @@
 """Compare the snapshot taken before a run with its results and write timeline/CHANGES.md.
 
   changes.py snapshot   # before the run: copy status.csv, postings.csv and COMPANY_LIST.md into timeline/data/prev/
-  changes.py            # after the run: write timeline/CHANGES.md
+  changes.py [--run "Top-tier search (tiers 1–4)"]   # after the run: write timeline/CHANGES.md (--run names the run)
 """
 import csv, os, re, shutil, sys, datetime as dt
 
@@ -10,6 +10,7 @@ REPO = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 
 T = os.path.join(REPO, 'timeline')
 PREV = os.path.join(T, 'data', 'prev')
 
+RUN = sys.argv[sys.argv.index('--run') + 1] if '--run' in sys.argv else 'Full search'
 if sys.argv[1:] == ['snapshot']:
     os.makedirs(PREV, exist_ok=True)
     shutil.copy(f'{T}/status.csv', f'{PREV}/status.csv')
@@ -133,7 +134,7 @@ else:
     posting_sections = [('Postings: no snapshot', ['No postings snapshot from the last run; compared from the next run on.'])]
     posting_counts = 'no postings snapshot'
 
-out = [f'# Changes — {dt.date.today()}', '',
+out = [f'# Changes — {dt.date.today()} ({RUN})', '',
        f"Compared with the snapshot taken before this run. Open now: {sum(r['Status'] == 'open' for r in new.values())} "
        f"companies, {len(new_p)} postings.", '']
 for title, items in [('Newly open', newly_open), ('No longer open', closed), ('Other status changes', other)] + \

@@ -1,15 +1,15 @@
 {
   "company": "Genesys",
   "tier": 6,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or company page found for last cycle; unknown.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
   "jobs_page": "https://genesys.wd1.myworkdayjobs.com/Genesys",
   "jobs_spec": "wd:genesys/wd1/Genesys",
-  "evidence": "Workday API 2026-10-06 (43): US SWE roles are Principal/Sr; Associate roles are non-US solutions/support; no entry-level FT SWE in US/Toronto/Vancouver.",
-  "confidence": "high"
+  "evidence": "Workday cxs API paged 2026-10-07 (189 postings, full). Unlabeled 'Software Engineer' roles are Galway, Ireland / Budapest only; US/Canada SWE roles are Lead/Senior/Principal/Staff. No entry-level SWE in US, Toronto or Vancouver.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

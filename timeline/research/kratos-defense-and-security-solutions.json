@@ -1,7 +1,7 @@
 {
   "company": "Kratos Defense & Security Solutions",
   "tier": 8,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,9 @@
       "date_source": "page text (Date Updated 10/05/2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no",
+      "level": "unlabeled",
+      "level_basis": "<2 yrs per 2026-10-06 read"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.kratosdefense.com/careers/open-roles/",
   "jobs_spec": null,
-  "evidence": "Read the full Pereless list (apps3.pereless.com/templates/magnetolive, cid 85347) in the browser. Only entry-level software role is Manufacturing Software Engineer (<2 yrs), which says 'US Citizen with Secret clearance eligibility'. Other Software Engineer roles are mid-career with clearance.",
-  "confidence": "high"
+  "evidence": "2026-10-07 submit4jobs/Pereless list did not render in browser (blank), so not re-read. 2026-10-06 full list read: only entry-level software role is Manufacturing Software Engineer (<2 yrs) saying \"US Citizen with Secret clearance eligibility\"; web search found other Kratos SWE roles 5+ yrs, citizenship/Secret.",
+  "confidence": "medium"
 }

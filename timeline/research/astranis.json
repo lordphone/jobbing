@@ -1,7 +1,6 @@
 {
   "company": "Astranis",
   "tier": 8,
-  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -11,8 +10,11 @@
       "opened": "2026-09-22",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "already graduated (new-grad associate, start Summer/Winter 2027)",
-      "live_verified": "api"
+      "grad_window": "Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Flight Software Associate (Winter 2027)",
@@ -21,8 +23,11 @@
       "opened": "2026-09-22",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "already graduated (new-grad associate, start Summer/Winter 2027)",
-      "live_verified": "api"
+      "grad_window": "Winter 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Developer, Network Software Associate (Summer 2027)",
@@ -31,8 +36,11 @@
       "opened": "2026-09-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "already graduated (new-grad associate, start Summer/Winter 2027)",
-      "live_verified": "api"
+      "grad_window": "Summer 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Developer, Network Software Associate (Winter 2027)",
@@ -41,16 +49,20 @@
       "opened": "2026-09-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "already graduated (new-grad associate, start Summer/Winter 2027)",
-      "live_verified": "api"
+      "grad_window": "Winter 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-22",
-  "last_cycle_basis": "tracker first-seen (2025-12-22 cycle); earlier 2024-06 Associate Program",
-  "excluded_reason": "us person / itar",
+  "last_cycle_basis": "tracker first seen 2025-12-22 (Software Developer, Network Software Associate); earlier Associate Program 2024-06",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/astranis/jobs",
   "jobs_spec": "gh:astranis",
-  "evidence": "Greenhouse API: Flight Software and Network Software Associate (Summer/Winter 2027, new-grad 12-week roles, 2026-09-22/24) live, each quoting \"U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required\" (export regs).",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (184) 2026-10-07: Associate roles (12-week, for new grads) are live; postings state 'U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required' (export regs). Other SWE roles ask 3+ yrs.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

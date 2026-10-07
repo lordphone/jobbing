@@ -1,7 +1,7 @@
 {
   "company": "Commure",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
       "location": "Mountain View, CA; Los Angeles, CA",
       "opened": "2026-09-24",
-      "date_source": "ashby posting API publishedDate",
+      "date_source": "ashby posting API publishedDate (page first seen by tracker 2026-09-11)",
       "deadline": null,
       "grad_window": "graduating recently or within the upcoming academic year (2027 cohort)",
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-27",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Commure",
   "jobs_spec": "ashby:Commure",
-  "evidence": "Ashby posting API 2026-10-06 returns Early Career 2027 SWE (published 2026-09-24, MV/LA) though it is unlisted on the board; previously opened in browser 2026-10-05 with Apply present. Browser pane unavailable this run (tab cap).",
-  "confidence": "medium"
+  "evidence": "Early Career 2027 SWE is unlisted on the Ashby board but its page loads with Apply (browser 2026-10-07); posting API gives published 2026-09-24. Scribe AI SWE asks 1-4 yrs (new grads encouraged), left out as unclear.",
+  "confidence": "high"
 }

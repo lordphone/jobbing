@@ -1,15 +1,29 @@
 {
   "company": "MUFG",
   "tier": 5,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": ".NET Developer, Analyst",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/XMLNAME-NET-Developer--Analyst_10079740-WD-1",
+      "location": "New York, NY",
+      "opened": "2026-10-07",
+      "date_source": "workday postedOn (Posted Today; startDate 2026-10-07)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Analyst-level title; requires 'Minimum 2 years' .NET Core and 2 years Angular; $89k - $141k; no lead/mentor duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows ML Engineer - Data Pipelines 2025-12-29 (experienced, closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers",
   "jobs_spec": "wd:mufgub/wd3/mufg-careers",
-  "evidence": "Workday (140, --all) 2026-10-06: US software titles are AVP/VP/Director; 2027 programs are analyst/summer interns or Europe/Asia. No entry-level US SWE.",
+  "evidence": "Workday full board (685) 2026-10-07: .NET Developer, Analyst (New York) posted today, canApply true, 2 yrs required, Analyst level, borderline entry fit. Other US software titles are AVP/VP; 2027 programs are banking/operations analyst or summer interns.",
   "confidence": "medium"
 }

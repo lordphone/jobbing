@@ -1,7 +1,7 @@
 {
   "company": "Nelnet",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,23 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "IT Software Engineer",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/IT-Software-Engineer_R23145",
+      "location": "Lincoln, NE; Madison, WI; Centennial, CO",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Junior-level software engineers are encouraged to apply'; experience 'preferably 2+ years'; $70k - $100k",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-17",
@@ -21,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet",
   "jobs_spec": "wd:nelnet/wd1/MyNelnet",
-  "evidence": "Workday API 2026-10-06 (34 postings): only junior-level SWE posting, Junior/Mid-Level IT Software Engineer .NET/Web (2026-09-09), says 'Nelnet will be unable to hire applicants without United States citizenship' and requires federal clearance.",
+  "evidence": "Workday full board (70) 2026-10-07: both junior-level SWE postings (Junior/Mid-Level .NET/Web; IT Software Engineer) say 'Nelnet will be unable to hire applicants without United States citizenship' and need federal clearance. Others need 3+ yrs. Interns only otherwise.",
   "confidence": "medium"
 }

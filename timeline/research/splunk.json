@@ -1,15 +1,15 @@
 {
   "company": "Splunk",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Splunk early-career SWE tracker history 2024-09 to 2025-03 only; Cisco US Software Engineer I first seen 2025-08-20 (San Jose) not Splunk-tagged. No Splunk-tagged posting 2025-07 to 2026-01.",
+  "last_cycle_basis": "Splunk early-career SWE tracker history 2024-09 to 2025-03 only; no Splunk-tagged posting 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.cisco.com/global/en/entry-level-careers",
   "jobs_spec": "wd:cisco/wd5/cisco_careers",
-  "evidence": "Cisco Workday 2026-10-06: Splunk-tagged entry SWE only Krakow; US entry roles are Software Consulting Engineer I (RTP) and TME I, not SWE. Cisco board partial, detail lookup failed, so US posting could be missed.",
-  "confidence": "low"
+  "evidence": "Cisco Workday 2026-10-07 (320, full): Splunk-tagged engineering is Krakow (Junior/SWE) or Senior/Staff/Sales; no Splunk-tagged US entry SWE. Cisco's own untagged US entry roles (Full Stack/Backend II, FedRAMP ones need US citizen) belong to the Cisco file.",
+  "confidence": "medium"
 }

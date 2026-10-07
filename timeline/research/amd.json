@@ -1,15 +1,16 @@
 {
   "company": "AMD",
   "tier": 7,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-24",
-  "last_cycle_basis": "tracker first seen: Software Developer - GPU IO Libraries (Calgary, Canada), careers.amd.com, active 2025-07-24",
+  "last_cycle_basis": "tracker last cycle 2025-07-24 (Software Developer - GPU IO Libraries, Calgary/Remote); 2027 intern/co-op wave opened 2026-08-20",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.amd.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "AMD careers JSON API (careers.amd.com/api/jobs, 1282 postings scanned 2026-10-06): only 2027 interns/co-ops, FAE/Technical Sales Graduate Rotational (San Jose, 2026-09-24) and a Markham RTL/Firmware new-grad (hardware); SWE titles carry no level. No entry-level SWE.",
+  "jobs_spec_basis": "careers.amd.com/api/jobs JSON returns all 1310 postings with description, pay bands and city",
+  "evidence": "AMD careers JSON 2026-10-07, all 1310 postings read. 2027 SWE/ML/compiler intern-co-op roles live (not counted); no new-grad SWE. Unlabeled SWEs (e.g. SDE Secaucus $110K-158K, SWE AI Productivity Markham) state no years or level, so left out as unclear.",
   "confidence": "medium"
 }

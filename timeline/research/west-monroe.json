@@ -1,36 +1,55 @@
 {
   "company": "West Monroe",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "2027 Software Engineering (AI Concentration) Consultant",
       "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183016004",
-      "location": "Chicago, IL; New York, NY; Seattle, WA (separate posting per city)",
+      "location": "Chicago, IL",
       "opened": "2026-10-05",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Dec 2026 - Aug 2027",
-      "live_verified": "api"
+      "grad_window": "Dec 2026 – Aug 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
-      "title": "2027 Platforms & Technology Consultant",
-      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172577004",
-      "location": "Chicago, IL; Dallas, TX; New York, NY; San Francisco, CA; Seattle, WA (separate posting per city)",
-      "opened": "2026-10-03",
+      "title": "2027 Software Engineering (AI Concentration) Consultant",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+      "location": "New York, NY",
+      "opened": "2026-10-05",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Dec 2026 - Aug 2027",
-      "live_verified": "api"
+      "grad_window": "Dec 2026 – Aug 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "2027 Software Engineering (AI Concentration) Consultant",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+      "location": "Seattle, WA",
+      "opened": "2026-10-05",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Aug 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "No earlier new-grad software posting found in tracker history or search (only 2026 internships).",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://www.westmonroe.com/careers/job-search-students",
   "jobs_spec": "gh:westmonroe5",
-  "evidence": "gh:westmonroe5 API 2026-10-06: 2027 SWE (AI Concentration) Consultant (first 10-05; Chicago, NY, Seattle) and Platforms & Technology Consultant (10-03) live; posting says grad Dec 2026-Aug 2027, no sponsorship now or future. Consulting-firm SWE track.",
+  "evidence": "Greenhouse API 2026-10-07: 2027 Software Engineering (AI Concentration) Consultant, entry-level, Chicago / New York / Seattle, first published 10-05; postings say no sponsorship now or later. Platforms & Technology Consultant (Salesforce/ServiceNow config) and intern roles not counted. Dropped Platforms posting vs old file as non-SWE.",
   "confidence": "high"
 }

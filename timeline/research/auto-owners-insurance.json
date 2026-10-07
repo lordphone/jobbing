@@ -1,7 +1,7 @@
 {
   "company": "Auto-Owners Insurance",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday postedOn (Posted Today)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"no previous programming experience is required\"; full training provided",
+      "no_sponsorship": true
     },
     {
       "title": "Math Major Software Developer (COBOL, no prior programming experience required)",
@@ -22,7 +25,10 @@
       "date_source": "workday postedOn (tracker first seen 2025-12-17, reposted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"no previous programming experience is required\"; Math/Actuarial/Econ background; full training provided",
+      "no_sponsorship": true
     },
     {
       "title": "Software Developer",
@@ -32,7 +38,10 @@
       "date_source": "workday postedOn (tracker first seen 2025-11-01, reposted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires bachelor's in CS/IS/IT or equivalent; no years of experience asked; structured training and mentoring",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-01",
@@ -41,6 +50,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://aoins.wd5.myworkdayjobs.com/AutoOwners",
   "jobs_spec": "wd:aoins/wd5/AutoOwners",
-  "evidence": "Workday CXS+detail 2026-10-06: COBOL (startDate 2026-10-05), Math Major and plain Software Developer reqs live in Lansing, no end date, rolling reposts. All require no current or future sponsorship. Tracker BI Developer lead is a data role, not counted.",
+  "evidence": "Workday board 2026-10-07 (277 postings, full) plus detail: COBOL (startDate 2026-10-05), Math Major and plain Software Developer reqs live in Lansing, no end date, rolling reposts; none ask for years. All require no current or future sponsorship. BI Developer (entry-level) is a data role, not counted. Summer 2027 interns excluded.",
   "confidence": "high"
 }

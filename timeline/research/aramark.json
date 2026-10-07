@@ -1,7 +1,7 @@
 {
   "company": "Aramark",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "aramark sitemap lastmod (earlier run)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "no_sponsorship": true,
+      "level_basis": "BS/MS CS expected; 'writing code... working closely with senior engineers to build strong technical fundamentals'"
     },
     {
       "title": "Junior Data Engineer (req 675584)",
@@ -22,7 +25,10 @@
       "date_source": "aramark careers listing date (kept from earlier run)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "no_sponsorship": true,
+      "level_basis": "Junior title; qualifications ask 2+ years building data pipelines"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://aramarkcareers.com/UnitedStates/search/",
   "jobs_spec": null,
-  "evidence": "Fetched both Junior Data Engineer pages 2026-10-06: Apply now shown; no visa sponsorship. 677288 is an entry point into data engineering (dbt, Snowflake, Python); 675584 asks 2+ yrs pipelines. Data engineering is borderline SWE; no SWE new-grad track.",
+  "evidence": "Aramark careers RSS search + both posting pages 2026-10-07: Junior Data Engineer 677288 and 675584 (Philadelphia) show Apply now; no visa sponsorship. 677288 is entry-level coding on a data engineering team; 675584 asks 2+ yrs. Data engineering is borderline SWE; other tech roles are 2027 IT intern or senior.",
   "confidence": "low"
 }

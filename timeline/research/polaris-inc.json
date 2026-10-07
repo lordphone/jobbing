@@ -1,8 +1,7 @@
 {
   "company": "Polaris Inc.",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "open",
+  "status": "excluded",
   "postings": [
     {
       "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
@@ -12,25 +11,19 @@
       "date_source": "workday startDate",
       "deadline": "2026-11-30",
       "grad_window": "Graduating Aug 2026 – May 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
-      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
-      "location": "Medina, MN; Plymouth, MN",
-      "opened": "on or before 2026-08-24",
-      "date_source": "workday startDate",
-      "deadline": "2026-11-30",
-      "grad_window": "Graduating Aug 2026 – May 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first seen 2025-11-01: Digital & Information Technology Leadership Development Program Associate, Wayzata MN",
-  "excluded_reason": null,
+  "excluded_reason": "us person / itar",
   "no_sponsorship": true,
   "jobs_page": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs",
   "jobs_spec": "wd:polaris/wd5/PolarisJobs",
-  "evidence": "Workday API + detail 2026-10-06: D&IT Leadership Development Program (Digital Product Development includes software engineering; Data Science track) live, end date 2026-11-30, grad Aug 2026-May 2027. 'Not eligible for sponsorship'. Rotational program, not pure SWE.",
-  "confidence": "high"
+  "evidence": "Workday API + posting 2026-10-07 (60, full): D&IT Leadership Development Program (rotational; track includes software engineering) live to 2026-11-30, but says \"Must be a U.S. person (U.S. citizen, national, lawful permanent resident, asylee, or refugee)\" and \"not eligible for sponsorship\". Data Science track not counted. No other entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-07"
 }

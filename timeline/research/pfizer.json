@@ -1,7 +1,6 @@
 {
   "company": "Pfizer",
   "tier": 11,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +8,21 @@
       "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Digital---Technology-Rotational-Program---Associate_4955575",
       "location": "New York, NY; Tampa, FL; Groton, CT; Collegeville, PA",
       "opened": "2026-10-05",
-      "date_source": "workday postedOn (Posted Today)",
+      "date_source": "workday startDate",
       "deadline": "2026-10-10",
       "grad_window": "graduated by Spring 2027; start July 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 new-grad record (earlier 'Ireland only' note)",
-  "excluded_reason": null,
+  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 new-grad record found in tracker history",
   "no_sponsorship": true,
   "jobs_page": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
   "jobs_spec": "wd:pfizer/wd1/PfizerCareers",
-  "evidence": "Workday detail 2026-10-06: 2-year D&T Rotational Program - Associate posted 10-05, endDate 2026-10-10, graduate by Spring 2027, start July 2027. Borderline: rotational, not SWE-only, requires Pfizer early-talent pipeline. No visa sponsorship now or future.",
-  "confidence": "medium"
+  "evidence": "Workday search 2026-10-07 (rotational, software engineer, graduate): only US early-career tech role is the 2-year D&T Rotational Program, endDate 2026-10-10. Borderline: rotational not SWE-only; requires eligible Pfizer early-talent pipeline; 'sponsorship not available now or in future'. Other software roles senior.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

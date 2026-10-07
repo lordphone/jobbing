@@ -1,15 +1,29 @@
 {
   "company": "AppLovin",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "ML Infrastructure Engineer",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4655740006",
+      "location": "Palo Alto, CA",
+      "opened": "2026-02-18",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Who You Are: Have 0-2 years of experience and a minimum of a BS and/or MS in Computer Science; pay $124,000-$250,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-11-19",
   "last_cycle_basis": "tracker: 'Backend Engineer, New Grad' Palo Alto first seen 2025-11-19 (earlier New Grad postings 2025-03)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/applovin",
   "jobs_spec": "gh:applovin",
-  "evidence": "gh:applovin (43, --all) 2026-10-06: only 2027 summer interns and Full Stack (Singapore), plus experienced ML roles in Palo Alto. No US new-grad SWE posting; last cycle New Grad backend 2025-11-19.",
-  "confidence": "high"
+  "evidence": "gh:applovin full board (43) 2026-10-07: ML Infrastructure Engineer (Palo Alto) asks 0-2 yrs, counted as unlabeled entry-level; ML Data Infrastructure asks 1-3 yrs, not counted. No labeled new-grad SWE posting; posting says window closes ~30 days after posting.",
+  "confidence": "medium"
 }

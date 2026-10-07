@@ -1,7 +1,6 @@
 {
   "company": "Crusoe",
   "tier": 7,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "tracker first seen (Ashby publishedAt 2026-09-16, likely repost)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; 'some hands-on experience (internships, school projects, or ~1 year of professional work)'; pay up to $117K-$138K",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-12",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer - New College Graduate 2026' (SF)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Crusoe",
   "jobs_spec": "ashby:Crusoe",
-  "evidence": "Ashby board+posting API 2026-10-06: 'Software Engineer I, Network' live, early-career text (~1 yr or internships), no citizenship/sponsorship restriction, no deadline. Not labeled new grad; SE II roles mid-level.",
-  "confidence": "high"
+  "evidence": "Ashby board (354 postings, full) and posting API 2026-10-07: 'Software Engineer I, Network' live, early-career text, no citizenship/sponsorship restriction, no deadline. All other SWE are II (3-5+ yrs), Senior or Staff. Not labeled new grad.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

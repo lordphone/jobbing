@@ -1,7 +1,7 @@
 {
   "company": "Kitware",
   "tier": 6,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": "new grads incl. Dec 2026",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-04",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/kitware",
   "jobs_spec": "lever:kitware",
-  "evidence": "Lever API 2026-10-06, 19 postings: OSTP Software Developer (new grads) says 'this position requires U.S. citizenship and a willingness and ability to obtain and maintain a security clearance'. Other SWE roles also citizen-only.",
+  "evidence": "Lever full board 2026-10-07 (19): OSTP Software Developer (new grads) says 'this position requires U.S. citizenship and a willingness and ability to obtain and maintain a security clearance'. Software Engineer and ML Engineer roles also citizen-only.",
   "confidence": "high"
 }

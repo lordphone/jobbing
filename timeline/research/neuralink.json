@@ -1,38 +1,47 @@
 {
   "company": "Neuralink",
   "tier": 3,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's degree only, no years ask; 'hiring at all levels, both junior and senior'",
+      "no_sponsorship": false,
       "title": "Software Engineer - HIL",
       "url": "https://job-boards.greenhouse.io/neuralink/jobs/8005730003",
       "location": "Austin, TX; South San Francisco, CA",
       "opened": "2026-09-25",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "date_source": "greenhouse first_published"
     },
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's degree only, no years ask; 'hiring at all levels, both junior and senior'",
+      "no_sponsorship": false,
       "title": "Software Engineer - Simulation",
       "url": "https://job-boards.greenhouse.io/neuralink/jobs/8005762003",
       "location": "Austin, TX; South San Francisco, CA",
       "opened": "2026-09-25",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "date_source": "greenhouse first_published"
     },
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's degree only; 'hiring software engineers at every level, junior to senior'",
+      "no_sponsorship": false,
       "title": "Software Engineer, BCI Applications",
       "url": "https://job-boards.greenhouse.io/neuralink/jobs/6596365003",
       "location": "Austin, TX; South San Francisco, CA",
       "opened": "2025-06-02",
-      "date_source": "greenhouse first_published (still listed; says hiring all levels junior to senior)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "date_source": "greenhouse first_published"
     }
   ],
   "last_cycle_opened": "2025-07-24",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/neuralink",
   "jobs_spec": "gh:neuralink",
-  "evidence": "gh:neuralink API 2026-10-06: HIL and Simulation (published 2026-09-25) and BCI Applications say hiring 'at all levels, both junior and senior'; no years ask or citizenship text. Level unlabeled, so medium.",
+  "evidence": "gh:neuralink 2026-10-07 (79 postings): HIL, Simulation (2026-09-25) and BCI Applications say junior-to-senior hiring, no years ask, no citizenship text. Medical Imaging (2026-10-06) also bachelor's-only but no junior wording, left out. Unlabeled, so medium.",
   "confidence": "medium"
 }

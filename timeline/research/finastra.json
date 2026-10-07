@@ -1,15 +1,15 @@
 {
   "company": "Finastra",
   "tier": 5,
-  "checked": "2026-10-06",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: no Finastra new-grad SWE postings found; only Paris developer apprentices and non-US entry roles on the board.",
   "jobs_page": "https://finastra.wd3.myworkdayjobs.com/FINC",
   "jobs_spec": "wd:finastra/wd3/FINC",
-  "evidence": "Workday API 2026-10-06, 45 postings: US SWE roles (Atlanta, Virtual US) are Senior; only entry dev roles are Lisbon, Manila, Pune. No US/Canada entry SWE or new-grad track.",
-  "confidence": "high"
+  "evidence": "Workday board (119, full) 2026-10-07: US/Canada engineering is Senior/Expert (Atlanta SoftwareEngineer needs 3+ yrs, Platform Engineer 7+); apprentices are Paris; entry developers are Lisbon, Manila, Pune. No US/Canada entry SWE or new-grad track found.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "Hearst",
   "tier": 9,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "oracle ExternalPostedStartDate",
       "deadline": "2027-01-04",
       "grad_window": "college graduates; no class year stated",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-26",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
   "jobs_spec": "oracle:eevd.fa.us6.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-06 (87 jobs): 2027 Hearst AI Newsroom Developer Fellowship (SF hybrid, 1-yr full-time, journalism/AI background wanted) live, deadline Jan 4 2027; borderline SWE track. Software Engineer (US) 3+ yrs no sponsorship; Full Stack Ad Tech Developer 3+ yrs.",
+  "evidence": "Oracle API 2026-10-07 (368 jobs, full): 2027 Hearst AI Newsroom Developer Fellowship (SF, college grads, deadline Jan 4 2027) live and counted as borderline SWE track. Other developer roles (Application Developer, Full Stack Ad Tech, Software Engineer US) need 3+ yrs.",
   "confidence": "medium"
 }

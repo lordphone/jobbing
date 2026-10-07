@@ -1,15 +1,29 @@
 {
   "company": "Verily",
   "tier": 3,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Participant Ops",
+      "url": "https://verily.wd1.myworkdayjobs.com/verily_careers/job/Raleigh-North-Carolina/Software-Engineer---Participant-Ops_REQ-926",
+      "location": "Raleigh, NC",
+      "opened": "2026-09-09",
+      "date_source": "workday postedOn (Posted 28 Days Ago)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; $125,000 - $178,000; full-stack feature work, no leading or mentoring",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history or program page showing a new-grad SWE posting in the 2025-07 to 2026-01 window.",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://verily.wd1.myworkdayjobs.com/verily_careers",
   "jobs_spec": "wd:verily/wd1/verily_careers",
-  "evidence": "Workday (29) 2026-10-06: SWE roles are III/Senior or Software Engineer (Participant Ops, Raleigh) asking 2+ yrs; that posting says applicants must not require sponsorship. No new-grad track.",
-  "confidence": "high"
+  "evidence": "Workday full board (77) 2026-10-07: no new-grad track; all other SWE are III/Senior/Staff/Lead or 3+ yrs. Software Engineer - Participant Ops (Raleigh) meets the unlabeled test (2+ yrs, unlevelled, no senior duties) but says applicants must not require sponsorship. Judgment call; unlabeled, not a new-grad program.",
+  "confidence": "medium"
 }

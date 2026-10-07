@@ -1,18 +1,20 @@
 {
   "company": "Arrowstreet Capital",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Quantitative Developer",
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer_R1433",
       "location": "Boston, MA",
-      "opened": "on or before 2026-09-05",
-      "date_source": "workday postedOn (30+ days; startDate 2026-04-17)",
+      "opened": "on or before 2026-04-17",
+      "date_source": "workday startDate (postedOn is 30+ days)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1 - 3 years of relevant experience'; $155,000 - $260,000; no lead/mentor duties; listed on Campus_Careers board",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-12",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers",
   "jobs_spec": "wd:arrowstreetcapital/wd5/Campus_Careers",
-  "evidence": "Workday Campus_Careers 2026-10-06: Quantitative Developer (Python/R data platform, 1-3 yrs, canApply true, no class year) live on campus site; other roles are Quant Researcher and Summer 2027 interns. Entry-level fit uncertain.",
-  "confidence": "medium"
+  "evidence": "Workday Campus_Careers full board (4) 2026-10-07: Quantitative Developer (Python/R research data platform, canApply true, no class year) is the only dev role; others are Quant Researcher and Summer 2027 interns. Entry-level fit borderline (1-3 yrs).",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

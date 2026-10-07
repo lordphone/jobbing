@@ -1,36 +1,29 @@
 {
   "company": "Altamira Technologies",
   "tier": 8,
-  "checked": "2026-10-06",
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Junior Algorithm Developer",
-      "url": "https://jobs.jobvite.com/altamiracorps/job/oOgKAfw8",
-      "location": "Warrenton, VA; Fort Eisenhower (Augusta), GA",
-      "opened": "on or before 2026-06-29",
-      "date_source": "tracker first seen (Junior Software Engineer, same Augusta/State College/Centennial listing family)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Junior Dev Ops Engineer",
-      "url": "https://jobs.jobvite.com/altamiracorps/job/o6PQAfw5",
+      "title": "AI/ML Engineer (Research & Development)",
+      "url": "https://jobs.jobvite.com/altamiracorps/job/oGqGAfw6",
       "location": "Fairborn, OH",
-      "opened": "unknown",
-      "date_source": "page text (no date shown)",
+      "opened": "2026-08-21",
+      "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Qualifications: 'Entry level to 10+ years of experience in software or AI/ML development roles'; page states no clearance or citizenship requirement",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-18",
   "last_cycle_basis": "tracker first seen: Junior Software Engineer, Wright-Patterson AFB OH (jobs.jobvite.com/altamiracorps/job/oms6yfwc), later closed",
-  "excluded_reason": "clearance",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/altamiracorps/jobs",
   "jobs_spec": null,
-  "evidence": "Greenhouse board is EU-only. Jobvite list (~50 jobs, read 2026-10-06). Junior SWE/Algorithm roles say 'TS/SCI clearance w/polygraph (U.S. Citizenship required for clearance)'; Junior DevOps and SWE L1-3 need TS/SCI; others 2+ yrs active TS/SCI. 2027 items are internships only.",
-  "confidence": "medium"
+  "evidence": "Jobvite list (~50) read 2026-10-07. AI/ML Engineer (R&D, Fairborn) says 'Entry level to 10+ years', no clearance text on page (DoD/IC customer, so likely needed in practice; borderline). Junior Algorithm Developer says 'Must hold TS/SCI clearance w/polygraph (U.S. Citizenship required)'; Junior Dev Ops needs TS/SCI + 2+ yrs. 2027 items are internships.",
+  "confidence": "low",
+  "checked": "2026-10-07"
 }

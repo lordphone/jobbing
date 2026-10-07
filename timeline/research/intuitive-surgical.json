@@ -1,15 +1,13 @@
 {
   "company": "Intuitive Surgical",
+  "tier": 11,
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2024-10-01",
-  "last_cycle_basis": "tracker first-seen: RISE Software Engineer (Sunnyvale), 2024-10-01 (two cycles ago); no 2025 RISE SWE in history; this-cycle RISE SWE opened 2026-09-21 (tracker) / released 2026-09-29, now inactive",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker: RISE Software Engineer (Sunnyvale) first seen 2024-10-01; no 2025 posting found",
   "jobs_page": "https://jobs.smartrecruiters.com/Intuitive",
   "jobs_spec": "sr:Intuitive",
-  "evidence": "SmartRecruiters API (--all, 758 postings) 2026-10-06: no RISE or entry SWE listed. RISE Software Engineer 744000152472854 (Sunnyvale, released 2026-09-29) still active=false. Only Senior/Staff/Embedded SWE live.",
-  "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-06"
+  "evidence": "SmartRecruiters full board (762): no entry SWE listed (Full Stack 3+ yrs, Embedded 4+). RISE Software Engineer (744000152472854 / 744000150746589, Sunnyvale, released 2026-09-29) page says 'Sorry, this job has expired'. Intuitive Research & Technology (Huntsville WD) is a different company.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }

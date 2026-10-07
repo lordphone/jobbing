@@ -1,7 +1,7 @@
 {
   "company": "Mizuho Financial Group",
   "tier": 5,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "tracker first seen (workday startDate 2026-09-25)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: 0–2 years of experience (internships and academic projects count); 'This is a hands-on software development role'; works under guidance of senior engineers; $88K–$115K",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas",
   "jobs_spec": "wd:mizuho/wd1/mizuhoamericas",
-  "evidence": "Workday cxs 2026-10-06: Data Engineer (MetroPark NJ, startDate 2026-09-25) still listed, 0-2 yrs (internships count). Borderline SWE title; other engineer roles senior/VP. No deadline or sponsorship line.",
+  "evidence": "Workday full board (122) + cxs detail 2026-10-07: Data Engineer (MetroPark NJ) live, 0-2 yrs, software-development role under senior guidance. Other engineers need 3-12+ yrs. No deadline or sponsorship line. Data-engineering title is borderline.",
   "confidence": "medium"
 }

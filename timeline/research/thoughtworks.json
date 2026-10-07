@@ -1,26 +1,16 @@
 {
   "company": "Thoughtworks",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Graduate Developer",
-      "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
-      "location": "Chicago, IL",
-      "opened": "2026-07-08",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first seen: Consultant Graduate Developer, Chicago IL (also Graduate Developer, Toronto); repeats Feb, Mar, Apr, Jul 2026",
+  "jobs_page": "https://www.thoughtworks.com/en-us/careers/jobs",
+  "jobs_spec": "gh:thoughtworks",
+  "jobs_spec_basis": "careers job URLs use ?gh_jid ids; gh:thoughtworks (37 postings, named Thoughtworks) is the real board, not the referral-only board",
+  "evidence": "gh:thoughtworks full list 2026-10-07: no graduate developer; US roles lead/senior. Chicago Graduate Developer (first seen 2026-07-08, id 8037730) returns 404 on API and careers page; TWU page says no TWU jobs available. Graduate postings recur through the year.",
+  "confidence": "medium",
+  "checked": "2026-10-07",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/thoughtworksreferral",
-  "jobs_spec": "gh:thoughtworksreferral",
-  "evidence": "Greenhouse API 2026-10-06 (24 postings, --all): no graduate developer live; US roles lead/senior. Chicago Graduate Developer (first seen 2026-07-08) returns 404 on the careers page and is not on the board. Graduate postings recur through the year.",
-  "confidence": "medium"
+  "no_sponsorship": false
 }

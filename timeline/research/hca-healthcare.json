@@ -1,7 +1,7 @@
 {
   "company": "HCA Healthcare",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,9 @@
       "date_source": "page text (JSON-LD datePosted), seen 2026-10-05; page reopened 2026-10-06",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; 'Less than one year's experience'; ServiceNow System Administrator cert required"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +23,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcahealthcare.com/search/jobs?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "2026-10-06 browser: posting page loads with Apply button, CereCore (HCA) Associate Application Developer ServiceNow, Nashville WFH, <1 yr exp, ServiceNow Sys Admin cert required. Search 'software engineer' (225) shows no other entry-level SWE. Borderline ServiceNow dev; no class-year.",
+  "evidence": "Browser 2026-10-07: posting page loads with Apply, CereCore (HCA) Associate Application Developer ServiceNow, Nashville WFH, <1 yr exp, HS diploma+ServiceNow Sys Admin cert. Search 'software engineer'/'developer': other tech roles Senior/Staff/Consulting or 5 yrs. Borderline ServiceNow dev; no class year.",
   "confidence": "medium"
 }

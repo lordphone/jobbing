@@ -1,15 +1,29 @@
 {
   "company": "SpaceXAI (xAI)",
   "tier": 2,
-  "checked": "2026-10-06",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-07",
+  "status": "open",
+  "postings": [
+    {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'early-career engineers can take on real ownership'; basic quals ask only fundamentals and internship/project experience; $150,000-$350,000",
+      "no_sponsorship": false,
+      "title": "Software Engineer, Ads Product",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
+      "location": "Palo Alto, CA",
+      "opened": "2026-06-01",
+      "date_source": "greenhouse first_published"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no xAI new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xai",
   "jobs_spec": "gh:xai",
-  "evidence": "Full gh:xai board (304 postings) 2026-10-06: no new-grad or entry SWE; only Spring/Summer 2027 SWE internships (Palo Alto). Tracker lead Software Engineer - Evals is live but requires 3+ years, not entry-level.",
+  "evidence": "Full gh:xai board (305): Ads Product SWE (Palo Alto, listed via API) is early-career, no years asked, no citizenship text. Other SWE roles need 2-5+ yrs; Evals says 'all levels' but needs 3+ years. Only 2027 interns otherwise.",
   "confidence": "medium"
 }

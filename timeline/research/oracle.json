@@ -1,6 +1,7 @@
 {
   "company": "Oracle",
   "tier": 1,
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -8,19 +9,21 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346357",
       "location": "Nashville, TN",
       "opened": "2026-09-30",
-      "date_source": "oracle posted date",
+      "date_source": "oracle API posted date",
       "deadline": null,
-      "grad_window": "Bachelor's by January 2027 or graduated within 12 months before Feb 2027 start",
-      "live_verified": "api"
+      "grad_window": "Bachelor's completed by Jan 2027, or graduated within 12 months before Feb 2027 start",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-07",
   "last_cycle_basis": "tracker first-seen 'Undergrad Software Engineer' (Seattle, WA), job/304100, via jobs.py history",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:eeho.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle HCM API (183, CX_1) 2026-10-06: Feb 2027 Undergrad SWE OCI Nashville live (posted 2026-09-30, no end date); visa sponsorship not available. No other entry-level SWE postings.",
-  "confidence": "high",
-  "checked": "2026-10-06"
+  "evidence": "oracle:CX_1 full board (2149) 2026-10-07: only entry-level SWE is the Feb 2027 Undergrad SWE (OCI, Nashville), no end date; posting says no visa sponsorship. Support/Interface Engineer 1 and OCI Core Infrastructure Engineer 2 not SWE/entry SWE.",
+  "confidence": "high"
 }

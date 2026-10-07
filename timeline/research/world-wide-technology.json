@@ -1,15 +1,16 @@
 {
   "company": "World Wide Technology (WWT)",
   "tier": 10,
-  "checked": "2026-10-06",
   "status": "no_program_found",
-  "postings": [],
+  "no_sponsorship": true,
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; WWT 2027 early-career postings found are internships (Technology & Analytics Intern 2027, apps open Aug-Oct 2026).",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP MyJobs API read 2026-10-05 (694 reqs): SWE roles need 3+ yrs or clearance; only 2027 postings are internships; Technical Solutions Architect I is pre-sales. Not re-read 2026-10-06 (carried over).",
-  "confidence": "medium"
+  "evidence": "ADP MyJobs API read in browser 2026-10-07 (669 reqs, orgoid header): US developer/engineer roles need 3+ yrs, 5+ yrs or clearance; only 2027 early-career postings are internships. No entry-level SWE. no_sponsorship carried over from earlier read, not rechecked.",
+  "confidence": "high",
+  "checked": "2026-10-07",
+  "excluded_reason": null,
+  "postings": [],
+  "jobs_spec_basis": "ADP MyJobs board works with orgoid header G3EZHP2WRRMJSRJM in browser; no jobs.py spec"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Cleveland Clinic",
   "tier": 11,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no first-party posting between 2025-07 and 2026-01; entry-level Software Developer I recurs (2026-04-08, 2026-09-16)",
+  "last_cycle_basis": "none in Jul 2025-Jan 2026; tracker shows entry developer reqs posted in spring (EBI Database Developer 1 2026-03-10, Software Developer 1 Cleveland 2026-04-08) and Software Developer 1 Weston FL 2026-09-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
   "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
-  "evidence": "Workday ccf 2026-10-06: only Software Developer II/III and Research Data Scientist I; Software Developer I (Weston FL/Ohio, 2026-09-16) absent from board and previously seen gone in browser. No class-year labeling, so closed.",
+  "evidence": "Workday full board 2026-10-07 (360 postings): Software Developer 1 (Weston FL, req 334982, ~2026-09-16) no longer listed and its posting API returns permission denied; remaining developers are II/III, plus Research Data Scientist I (not counted as SWE). Page not viewed in browser.",
   "confidence": "medium"
 }

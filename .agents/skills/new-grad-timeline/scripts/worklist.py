@@ -5,7 +5,9 @@ Reads timeline/data/merged.json (run merge.py first). Companies that already hav
 are skipped unless --redo is given. Order is tier, then list order.
 
   worklist.py [--status open,tracker_lead,unknown,...] [--source first-pass,tracker,api,none]
-              [--tier 1-5] [--names "A|B|C"] [--limit 100] [--redo]
+              [--tier 1-5] [--names "A|B|C"] [--limit 100] [--redo] [--blind]
+
+--blind leaves out previous_result, so a second-opinion run (the top-tier check) researches without the last answer.
 
 --source picks by where the current answer came from: first-pass (first-pass agents), tracker (tracker only),
 api (job-board API check), research (timeline/research files; implies --redo), none.
@@ -83,7 +85,8 @@ for r in pick:
     items.append({'name': r['Company'], 'tier': r['Tier'], 'slug': slug(r['Company']),
                   'jobs_spec': s.get('jobs.py spec') or None, 'jobs_page': s.get('Jobs page') or None,
                   'board_flag': flags.get(r['Company']),
-                  'previous_result': f"{r['Status']} ({r['Source'] or 'no source'}); {r['Notes'][:200]}",
+                  'previous_result': None if '--blind' in sys.argv else
+                  f"{r['Status']} ({r['Source'] or 'no source'}); {r['Notes'][:200]}",
                   'tracker_lead': r.get('Tracker lead') or None,
                   'tracker_last_cycle': r['Last year opened'] or None})
 json.dump(items, open(f'{DATA}/worklist.json', 'w'), indent=1)

@@ -1,7 +1,7 @@
 {
   "company": "Publicis Sapient",
   "tier": 10,
-  "checked": "2026-10-06",
+  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "careers.publicissapient.com search API releasedDate",
       "deadline": null,
       "grad_window": "No class year; labeled Entry Level",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "careers site Experience Level: Entry Level; no years required; Strong Java and SQL skills; $80,000-$100,000 (production support role)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicissapient.com/job-search",
   "jobs_spec": null,
-  "evidence": "Site search API 2026-10-06 (106 US jobs): only Entry Level tech role is Java Application Support Engineer (Boston; borderline SWE, production support). Software Engineer Intern is Class of 2028 (not counted); other tech roles are Senior Associate. No new-grad SWE program posting.",
+  "evidence": "Site search API 2026-10-07 (104 US + 3 Canada, full): only Entry Level tech role is Java Application Support Engineer (Boston, trade-ops production support; borderline SWE, read via iCIMS). Software Engineer Intern is Class of 2028. Others Senior/Associate. Early-career page lists a 3-yr graduate Software Engineer program but no live posting (Apply links to Internship search).",
   "confidence": "low"
 }

@@ -1,74 +1,675 @@
-# Changes — 2026-10-06
+# Changes — 2026-10-07 (Full search)
 
-Compared with the snapshot taken before this run. Open now: 371.
+Compared with the snapshot taken before this run. Open now: 448 companies, 947 postings.
 
-## Newly open (12)
+## Newly open (92)
 
-- **Scotiabank (Bank of Nova Scotia)** (tier 5): no_program → open · Junior Software Engineer, Global Payments Engineering · https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/
-- **Astera Labs** (tier 7): not_yet → open · Applied AI NCG (Non Silicon) · https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005
-- **Intel** (tier 7): not_yet → open · Foundry Cloud Services Developer · https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203
-- **Lam Research** (tier 7): no_program → open · Software Engineer 2 · https://careers.lamresearch.com/careers/job/1099552273052
-- **Pure Storage** (tier 7): not_yet → open · Software Engineer Grad 2027 · https://job-boards.greenhouse.io/purestorage/jobs/8249851
-- **QuEra Computing** (tier 7): no_program → open · Scientific Software Engineer - Developer Experience · https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008
-- **Teradyne** (tier 7): not_yet → open · Software Engineer (Memory Test, San Jose, CA) · https://jobs.teradyne.com/Teradyne/job/San-Jose-Software-Engineer-(Memory-Test,-San-Jose,-CA)-CA-95101/1409221500/
-- **Toyota** (tier 8): closed → open · AI/ML Platform Engineer · https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/AI-ML-Platform-Engineer_10337203
-- **Indeed** (tier 9): unknown → open · Software Engineer I · https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374
-- **Take-Two Interactive** (tier 9): not_yet → open · 2K Games - Engineering Graduate Program - Dublin · https://job-boards.greenhouse.io/2kearlycareers/jobs/7992140003
-- **Dow Inc.** (tier 11): not_yet → open · 2026-2027 Campus Graduate - Research & Development (BS/MS) · https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809
-- **FedEx** (tier 11): no_program → open · Full Stack Developer II · https://careers.fedex.com/full-stack-developer-ii/job/P25-354137-3
+- **Nvidia** (tier 1): closed → open · Systems Software Engineer, AI and Cloud - New College Grad 2026 · https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458
+- **Eightfold AI** (tier 2): no_program → open · Software Engineer - AI Agentic Product Dev Team (US) · https://app.eightfold.ai/careers/job/68763148348
+- **Glean** (tier 2): not_yet → open · Machine Learning Engineer, Assistant Quality · https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
+- **Mistral AI** (tier 2): no_program → open · Research Engineer, Full Stack · https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c
+- **Otter.ai** (tier 2): closed → open · Software Engineer, Front-End (New Grad) · https://otter.ai/careers?gh_jid=8016078003
+- **SpaceXAI (xAI)** (tier 2): no_program → open · Software Engineer, Ads Product · https://job-boards.greenhouse.io/xai/jobs/5152408007
+- **AppLovin** (tier 3): not_yet → open · ML Infrastructure Engineer · https://boards.greenhouse.io/applovin/jobs/4655740006
+- **Asana** (tier 3): not_yet → open · Software Engineer, Data Loading Infrastructure · https://job-boards.greenhouse.io/asana/jobs/7962412
+- **CLEAR (Clear Secure)** (tier 3): not_yet → open · Software Engineer, Infrastructure · https://job-boards.greenhouse.io/clear/jobs/7901600
+- **Chime** (tier 3): not_yet → open · Full-Stack Engineer, Human Agent Tooling · https://boards.greenhouse.io/chime/jobs/8606649002
+- **Coalition** (tier 3): not_yet → open · Frontend Engineer, Underwriting · https://www.coalitioninc.com/job-posting?gh_jid=4734028005
+- **Compass** (tier 3): not_yet → open · Software Engineer - Mobile, iOS · https://www.compass.com/careers?gh_jid=8042532
+- **CoreWeave** (tier 3): no_program → open · Software Engineer · https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006
+- **Discord** (tier 3): no_program → open · Software Engineer, Notifications · https://job-boards.greenhouse.io/discord/jobs/8642213002
+- **Field AI** (tier 3): no_program → open · Humanoid Engineer, Manipulation · https://jobs.lever.co/field-ai/0d9c37e2-47ae-45f9-8e5d-cc0eccd499f4
+- **Handshake** (tier 3): closed → open · Software Engineer I, Build Review & Test · https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58
+- **Lyft** (tier 3): not_yet → open · Software Engineer · https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002
+- **Snowflake** (tier 3): not_yet → open · Software Engineer - Database Engineering · https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995
+- **Vercel** (tier 3): no_program → open · Software Engineer, CDN Content · https://job-boards.greenhouse.io/vercel/jobs/6105394004
+- **Verily** (tier 3): no_program → open · Software Engineer - Participant Ops · https://verily.wd1.myworkdayjobs.com/verily_careers/job/Raleigh-North-Carolina/Software-Engineer---Participant-Ops_REQ-926
+- **Verkada** (tier 3): not_yet → open · Backend Engineer - Connectivity · https://job-boards.greenhouse.io/verkada/jobs/5194598007
+- **Graham Capital Management** (tier 4): no_program → open · Quantitative Trading and Research Operations Developer · https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005
+- **Axos Bank** (tier 5): not_yet → open · JBATA - AI Engineer · https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526
+- **BMO (Bank of Montreal)** (tier 5): closed → open · Software Developer · https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260019384
+- **Experian** (tier 5): not_yet → open · Full Stack Software Engineer (Hybrid) · https://jobs.smartrecruiters.com/Experian/744000151688469
+- **Jack Henry & Associates** (tier 5): closed → open · Software Engineer II · https://careers.jackhenry.com/job/springfield/software-engineer-ii/42859/101037757424
+- **MUFG** (tier 5): not_yet → open · .NET Developer, Analyst · https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/XMLNAME-NET-Developer--Analyst_10079740-WD-1
+- **PayPal** (tier 5): closed → open · Software Engineer - Android · https://paypal.eightfold.ai/careers/job/274922740164
+- **T. Rowe Price** (tier 5): closed → open · AI Software Engineer- T. Rowe Price Labs (NY or MD) · https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/New-York-NY/Full-Stack-Software-Engineer--T-Rowe-Price-AI-Lab-_83089
+- **The Carlyle Group** (tier 5): no_program → open · Forward Deployed Product Engineer, Global Private Equity Technology · https://carlyle.wd1.myworkdayjobs.com/Carlyle/job/Washington-DC/Senior-Analyst_R-00290
+- **Visa** (tier 5): closed → open · Software Engineer- Operations and Infrastructure · https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W
+- **Alteryx** (tier 6): not_yet → open · Software Engineer (Orchestration & Job Execution, Cloud Platform) · https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Software-Engineer_R12529
+- **Amplitude** (tier 6): not_yet → open · Software Engineer I · https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be
+- **Autodesk** (tier 6): not_yet → open · MCP/AI Developer · https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/MCP-AI-Developer_26WD99785-1
+- **Automation Anywhere** (tier 6): no_program → open · Software Engineer (JR1492, customer-facing sustaining/production engineering) · https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/San-Jose-California/Software-Engineer_JR1492
+- **Chainguard** (tier 6): no_program → open · Software Engineer (Repositories) · https://job-boards.greenhouse.io/chainguard/jobs/4714568006
+- **National Information Solutions Cooperative (NISC)** (tier 6): not_yet → open · Software Developer - Full Stack (Work Management Software) · https://job-boards.greenhouse.io/nisc/jobs/8247532
+- **New Relic** (tier 6): no_program → open · Software Engineer - IAM (Java) · https://job-boards.greenhouse.io/newrelic/jobs/5416517008
+- **Pendo** (tier 6): no_program → open · Software Engineer, Full Stack · https://job-boards.greenhouse.io/pendo/jobs/8675727002
+- **Rubrik** (tier 6): not_yet → open · Software Engineer - Product Platform Security · https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737
+- **Thomson Reuters** (tier 6): not_yet → open · Research Engineer (Thomson Reuters Labs) · https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Research-Engineer_JREQ198562
+- **Tyler Technologies** (tier 6): not_yet → open · Application Developer · https://jobs.jobvite.com/tylertech/job/o45IAfwb
+- **ASML** (tier 7): not_yet → open · Embedded Software Engineer · https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Embedded-Software-Engineer_J-00352651
+- **Dolby Laboratories** (tier 7): no_program → open · Video Software Engineer · https://jobs.dolby.com/careers/job/43795426
+- **Hitachi (incl. Hitachi Vantara, GlobalLogic)** (tier 7): closed → open · Software Analyst (Hitachi Rail Canada, railway signaling software) · https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0139848
+- **Monolithic Power Systems** (tier 7): no_program → open · Software Engineer, Building Automation · https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037
+- **Motorola Solutions** (tier 7): not_yet → open · Jr. Software Engineer, AI Agent Platform · https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
+- **Seagate** (tier 7): closed → open · Embedded Software Engineer (Bachelor's Level, Early Career) · https://seagatecareers.com/job/Longmont-Embedded-Software-Engineer-%28Bachelor%27s-Level%2C-Early-Career%29-CO-80501/1437750000/
+- **Supermicro** (tier 7): not_yet → open · Software Engineer (Req 30179, data center infrastructure software) · https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1428832000/
+- **Synopsys** (tier 7): not_yet → open · HPC Software Engineer · https://careers.synopsys.com/job/canonsburg/hpc-software-engineer/44408/87085299616
+- **Altamira Technologies** (tier 8): excluded → open · AI/ML Engineer (Research & Development) · https://jobs.jobvite.com/altamiracorps/job/oGqGAfw6
+- **Aurora Innovation** (tier 8): not_yet → open · Software Engineer, Performance Engineering Optimization · https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553
+- **Beta Technologies** (tier 8): no_program → open · Platform Software Engineer – Digital Operations Platform · https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4265190009
+- **CHAOS Industries** (tier 8): excluded → open · Software Engineer, Applied AI · https://job-boards.greenhouse.io/chaosindustries/jobs/5209420007
+- **Kodiak AI** (tier 8): not_yet → open · Fullstack Engineer, UI Tools · https://job-boards.greenhouse.io/kodiak/jobs/4320932009
+- **MITRE** (tier 8): excluded → open · Software Engineer · https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Software-Engineer_R117614-1
+- **PlusAI** (tier 8): no_program → open · Software Engineer - Data · https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36
+- **Rivian** (tier 8): not_yet → open · Software Engineer, Edge AI · https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0
+- **Shield AI** (tier 8): no_program → open · Software Development Engineer - New Graduate · https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583
+- **Waabi** (tier 8): not_yet → open · Software Engineer, Commercial Software · https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f
+- **Dow Jones** (tier 9): not_yet → open · Software Engineer - Data Architecture & Platform Engineering · https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer---Data-Architecture---Platform-Engineering-_Job_Req_55761
+- **DraftKings** (tier 9): not_yet → open · Software Engineer, iOS · https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Software-Engineer--iOS_JR14809
+- **News Corp** (tier 9): no_program → open · Software Engineer - Data Architecture & Platform Engineering · https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer---Data-Architecture---Platform-Engineering-_Job_Req_55761
+- **Nordstrom** (tier 9): closed → open · Engineer 1 (Hybrid - Seattle, WA) · https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936
+- **Paramount Skydance** (tier 9): not_yet → open · Software Engineer - AI Tooling & Quality Engineering Platforms · https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1433499400/
+- **QuinStreet** (tier 9): not_yet → open · Algorithms Engineer · https://job-boards.greenhouse.io/quinstreet/jobs/8093165
+- **Riot Games** (tier 9): no_program → open · Software Engineer - Central Technology, Infrastructure (Optimize & Protect) · https://www.riotgames.com/en/work-with-us/job/8234671?gh_jid=8234671
+- **Target** (tier 9): not_yet → open · Engineer – Trend Brain Team (Backend/GenAI) · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Trend-Brain-Team--Backend-GenAI-_R0000454429
+- **WHOOP** (tier 9): closed → open · Android Engineer I · https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173
+- **Walmart Global Tech** (tier 9): not_yet → open · (USA) Software Engineer II · https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-II_R-2653356-1
+- **Wingstop** (tier 9): no_program → open · Data Engineer · https://iaxmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Wingstop-GSC/job/1043
+- **Bain** (tier 10): no_program → open · Platform Engineer · https://careers.bain.com/jobs/FolderDetail/Engineer-PEG-Platform-Engineering/109001
+- **CACI International** (tier 10): excluded → open · Web Application Developer – Early Career · https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158
+- **Capco** (tier 10): excluded → open · AI Engineer · https://job-boards.greenhouse.io/capco/jobs/8258742
+- **Deloitte** (tier 10): excluded → open · Agentic Software Engineer I · https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-Software-Engineer-I/370314
+- **KPMG** (tier 10): closed → open · Associate, Software Engineer · https://www.kpmguscareers.com/jobdetail/?jobId=135722
+- **Tata Consultancy Services (TCS)** (tier 10): unknown → open · Junior FDE · https://ibegin.tcsapps.com/candidate/next/en-US/jobs/431331J
+- **Abbott Laboratories** (tier 11): not_yet → open · Associate Software Engineer · https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1
+- **American Airlines** (tier 11): not_yet → open · Sr Associate Engineer/Engineer, IT Software · https://jobs.aa.com/job/x/88440-en_US
+- **American Family Insurance** (tier 11): not_yet → open · Associate Technical Engineer (Hybrid) · https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Associate-Technical-Engineer--Hybrid-_R39566-1
+- **Boehringer Ingelheim** (tier 11): no_program → open · Software Engineer AI · https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Software-Engineer-AI-Unit/1386962833/
+- **Bristol Myers Squibb** (tier 11): closed → open · Software Engineer, AI Engineering and Enablement · https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1
+- **CVS Health** (tier 11): closed → open · Software Development Engineer - Operational Analytics · https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1
+- **Cummins** (tier 11): closed → open · Software Engineer - Servicenow · https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164
+- **H&R Block** (tier 11): not_yet → open · Machine Learning Engineer · https://careers-hrblock.icims.com/jobs/76907/machine-learning-engineer/job
+- **Koch Inc. (Koch Industries)** (tier 11): no_program → open · Software Engineer (Flint Hills Resources, HIPE team) · https://koch.avature.net/en_US/careers/JobDetail/United-States-Software-Engineer/195062
+- **Sherwin-Williams** (tier 11): closed → open · SCADA Full Stack Application Developer - Industrial Automation · https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622657
+- **Siemens** (tier 11): not_yet → open · Software Engineer - C++ / Compiler · https://jobs.siemens.com/en_US/externaljobs/JobDetail/524948
+- **U-Haul (U-Haul Holding Company)** (tier 11): no_program → open · Software Developer · https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Software-Developer_R255136
+- **Wellmark** (tier 11): closed → open · Software Engineer - Member Experience Delivery · https://jobs.smartrecruiters.com/wellmarkinc/744000153843930
+- **XPO, Inc.** (tier 11): no_program → open · Machine Learning Engineer - Hybrid · https://jobs.xpo.com/job/Boston-Machine-Learning-Engineer-Hybrid-MA-02110/1422078600/
+- **Yum! Brands** (tier 11): no_program → open · Applications Developer · https://eczd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5630
 
-## No longer open (10)
+## No longer open (15)
 
-- **Nvidia** (tier 1): open → closed
-- **Broadridge Financial Solutions** (tier 5): open → closed
-- **Wellington Management** (tier 5): open → closed
-- **Pattern Data** (tier 6): open → closed
-- **Ayar Labs** (tier 7): open → closed
-- **MITRE** (tier 8): open → excluded
-- **Gartner** (tier 10): open → no_program
-- **L.E.K. Consulting** (tier 10): open → unknown
-- **Cummins** (tier 11): open → closed
-- **T-Mobile** (tier 11): open → closed
+- **Retell AI** (tier 2): open → closed
+- **Dassault Systèmes** (tier 6): open → no_program
+- **Everlaw** (tier 6): open → closed
+- **Cadence** (tier 7): open → not_yet
+- **Lam Research** (tier 7): open → not_yet
+- **QuEra Computing** (tier 7): open → no_program
+- **Polaris Inc.** (tier 8): open → excluded
+- **Vizio (Walmart)** (tier 9): open → closed
+- **Infosys** (tier 10): open → not_yet
+- **Dow Inc.** (tier 11): open → no_program
+- **Mutual of Omaha** (tier 11): open → no_program
+- **Nationwide** (tier 11): open → closed
+- **New York Life Insurance Company** (tier 11): open → closed
+- **Optimum Communications (formerly Altice USA)** (tier 11): open → closed
+- **Pacific Gas and Electric Company (PG&E)** (tier 11): open → closed
 
-## Other status changes (37)
+## Other status changes (18)
 
-- **EliseAI** (tier 2): not_yet → no_program
-- **Uniswap Labs** (tier 3): not_yet → closed
-- **Elliott Investment Management** (tier 4): unknown → no_program
-- **Bain Capital** (tier 5): not_yet → no_program
-- **CIBC** (tier 5): not_yet → closed
-- **Jack Henry & Associates** (tier 5): not_yet → closed
-- **Neuberger Berman** (tier 5): not_yet → no_program
-- **Northern Trust** (tier 5): unknown → closed
-- **Wells Fargo** (tier 5): unknown → not_yet
-- **Elastic** (tier 6): not_yet → no_program
-- **New Relic** (tier 6): not_yet → no_program
-- **Sprout Social** (tier 6): not_yet → no_program
-- **Strategy (formerly MicroStrategy)** (tier 6): not_yet → no_program
-- **VMware** (tier 6): no_program → not_yet
-- **Zendesk** (tier 6): not_yet → no_program
-- **ZoomInfo** (tier 6): not_yet → no_program
-- **CommScope** (tier 7): not_yet → no_program
-- **Graphcore** (tier 7): not_yet → no_program
-- **Qorvo** (tier 7): not_yet → no_program
-- **TE Connectivity** (tier 7): not_yet → no_program
-- **Axon Enterprise** (tier 8): closed → not_yet
-- **Kratos Defense & Security Solutions** (tier 8): unknown → excluded
-- **Best Buy** (tier 9): unknown → no_program
-- **BuzzFeed** (tier 9): unknown → no_program
-- **Caesars Entertainment** (tier 9): no_program → not_yet
-- **Carvana** (tier 9): not_yet → no_program
-- **DreamWorks Animation** (tier 9): closed → not_yet
-- **ESPN** (tier 9): closed → not_yet
-- **Magnite** (tier 9): no_program → not_yet
-- **Newegg** (tier 9): no_program → not_yet
-- **KPMG** (tier 10): not_yet → closed
-- **RSM US** (tier 10): not_yet → no_program
-- **Abbott Laboratories** (tier 11): closed → not_yet
-- **Cencora** (tier 11): closed → no_program
-- **Centene** (tier 11): closed → not_yet
-- **Highmark Health** (tier 11): not_yet → excluded
-- **Linde plc** (tier 11): not_yet → no_program
+- **Dropbox** (tier 3): not_yet → no_program
+- **PEAK6** (tier 4): no_program → not_yet
+- **CIBC** (tier 5): closed → not_yet
+- **Charles Schwab** (tier 5): closed → not_yet
+- **RBC (Royal Bank of Canada)** (tier 5): not_yet → closed
+- **Western Alliance** (tier 5): not_yet → closed
+- **Harness** (tier 6): not_yet → no_program
+- **HubSpot** (tier 6): not_yet → unknown
+- **LaunchDarkly** (tier 6): not_yet → no_program
+- **Wolters Kluwer** (tier 6): closed → not_yet
+- **Ayar Labs** (tier 7): closed → no_program
+- **CAE** (tier 8): not_yet → excluded
+- **Hadrian** (tier 8): excluded → not_yet
+- **Tubi** (tier 9): not_yet → no_program
+- **Vail Resorts** (tier 9): not_yet → no_program
+- **L.E.K. Consulting** (tier 10): unknown → no_program
+- **Protiviti (Robert Half subsidiary)** (tier 10): not_yet → no_program
+- **McKesson** (tier 11): not_yet → no_program
+
+## New postings (378)
+
+- **Amazon/AWS** (tier 1) · EFA Network Software Engineer I, Annapurna Labs · Seattle, WA · https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs
+- **Amazon/AWS** (tier 1) · Software Dev Engineer I, Graviton Software, Annapurna Labs · Austin, TX · https://www.amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs
+- **Amazon/AWS** (tier 1) · Software Engineer I, Memberships (Twitch) · San Francisco, CA · https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships
+- **Amazon/AWS** (tier 1) · Software Engineer I, Payments (Twitch) · San Francisco, CA · https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments
+- **Apple** (tier 1) · Core OS Software Engineer - USB4/Thunderbolt · Cupertino, CA · https://jobs.apple.com/en-us/details/200687151/core-os-software-engineer-usb4-thunderbolt
+- **ByteDance / TikTok** (tier 1) · (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7665994926887291189
+- **ByteDance / TikTok** (tier 1) · (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2 · San Jose, CA · https://lifeattiktok.com/search/7669691374918011141
+- **ByteDance / TikTok** (tier 1) · (General Hire)Machine Learning Engineer Graduate (TikTok Recommendation) - 2027  · San Jose, CA · https://lifeattiktok.com/search/7663389745178757429
+- **ByteDance / TikTok** (tier 1) · (General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7664533229944178949
+- **ByteDance / TikTok** (tier 1) · AI Engineer Graduate (Client Arch) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7664978367107713333
+- **ByteDance / TikTok** (tier 1) · AI Infra Engineer Graduate (Recommendation & LLM) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7672654026594093317
+- **ByteDance / TikTok** (tier 1) · AI Software Engineer Graduate (TikTok-PGC-OGC&Creator Strategy) - 2027 Start - G · San Jose, CA · https://lifeattiktok.com/search/7672976491146004741
+- **ByteDance / TikTok** (tier 1) · AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Star · San Jose, CA · https://lifeattiktok.com/search/7665989305914984709
+- **ByteDance / TikTok** (tier 1) · Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 S · San Jose, CA · https://lifeattiktok.com/search/7672532801686571317
+- **ByteDance / TikTok** (tier 1) · Backend Engineer Graduate (User Growth) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7665986019233958197
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Business Governance) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7663042453461600517
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Creation Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670292836050422021
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Creation Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673669198965278981
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7663036952090347829
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Feed Safety) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7663028952600807733
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Global E-commerce) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668824169648097541
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Global E-commerce) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7668827379083823413
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7663036950303050037
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 S · San Jose, CA · https://lifeattiktok.com/search/7670391173613160757
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2 · San Jose, CA · https://lifeattiktok.com/search/7670387719826786565
+- **ByteDance / TikTok** (tier 1) · Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 St · San Jose, CA · https://lifeattiktok.com/search/7668843238309824773
+- **ByteDance / TikTok** (tier 1) · Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7672518398222387461
+- **ByteDance / TikTok** (tier 1) · Data Engineer Graduate (Data Platform - Global Live) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7675484418022181173
+- **ByteDance / TikTok** (tier 1) · Data Engineer Graduate (Data Platform E-commerce) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7676253726624024837
+- **ByteDance / TikTok** (tier 1) · Data Engineer Graduate (Data Platform Global Live) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7678120538997098805
+- **ByteDance / TikTok** (tier 1) · Data Engineer Graduate (Data Platfrom TikTok BP) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7681779180341709109
+- **ByteDance / TikTok** (tier 1) · Data Engineer Graduate (Monetization Data) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668550561096665397
+- **ByteDance / TikTok** (tier 1) · Frontend Software Engineer Graduate (Ads Interface) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668569995571726597
+- **ByteDance / TikTok** (tier 1) · Frontend Software Engineer Graduate (Global CRM) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668561079544154373
+- **ByteDance / TikTok** (tier 1) · Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7668828193675036981
+- **ByteDance / TikTok** (tier 1) · LLM Post-Training Engineer Graduate (Research & Product) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673672141012093189
+- **ByteDance / TikTok** (tier 1) · LLM Post-training Engineer Graduate (Research & Product) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670285949976201477
+- **ByteDance / TikTok** (tier 1) · ML Infra Engineer Graduate (Ads Infra) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668693662561634613
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Ads Delivery) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668660365135808821
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7669700358734170373
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668629846058223877
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7669709290431236357
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Brand Ads) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668663594419374341
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Commerce Ads) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7669711968024430853
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Commercial AI-CRM and Transaction) - 2027 St · San Jose, CA · https://lifeattiktok.com/search/7669702699627661573
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7668390999147776309
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7674023327725373701
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7674025781001062709
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7679156878833682693
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) - 2027 · San Jose, CA · https://lifeattiktok.com/search/7672882500030138629
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) - 2027 · Seattle, WA · https://lifeattiktok.com/search/7672880386574338309
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670285495593273605
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7670285949553707317
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7672915427278457141
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7672911151560296709
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Star · San Jose, CA · https://lifeattiktok.com/search/7686999927260105013
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Star · Seattle, WA · https://lifeattiktok.com/search/7678145401619237173
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - · San Jose, CA · https://lifeattiktok.com/search/7669913085331409205
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - · Seattle, WA · https://lifeattiktok.com/search/7669910326745434421
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027  · San Jose, CA · https://lifeattiktok.com/search/7675844938504702213
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027  · Seattle, WA · https://lifeattiktok.com/search/7675843332462872885
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Lead Ads) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7669707604717209861
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Monetization Technology - Ads Core Global) - · San Jose, CA · https://lifeattiktok.com/search/7668592348941273349
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (Search Ads) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7669698543896054069
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7665991852209932597
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7665994926854555909
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7672532275557583157
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Basic Ranking) - 2027 Sta · San Jose, CA · https://lifeattiktok.com/search/7667344113001384197
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Local Service) - 2027 Sta · Seattle, WA · https://lifeattiktok.com/search/7668376903708281141
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation) - 2027 St · San Jose, CA · https://lifeattiktok.com/search/7667346543553710389
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation-Global E-C · Seattle, WA · https://lifeattiktok.com/search/7668384123840514309
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 St · San Jose, CA · https://lifeattiktok.com/search/7665797203155896581
+- **ByteDance / TikTok** (tier 1) · Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Sta · San Jose, CA · https://lifeattiktok.com/search/7667349591747758341
+- **ByteDance / TikTok** (tier 1) · Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668700671828707589
+- **ByteDance / TikTok** (tier 1) · Recommendation Architecture AI/ML Infrastructure Engineer Graduate (Data-Arch-Ti · San Jose, CA · https://lifeattiktok.com/search/7670876337129425205
+- **ByteDance / TikTok** (tier 1) · Research Engineer Graduate (Monetization Technology - Business Integrity) - 2027 · San Jose, CA · https://lifeattiktok.com/search/7667769079948347701
+- **ByteDance / TikTok** (tier 1) · Self-Built Engineer Graduate (CDN Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670364187265255733
+- **ByteDance / TikTok** (tier 1) · Self-Built Engineer Graduate (CDN Platform) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7670364202242427189
+- **ByteDance / TikTok** (tier 1) · Self-Built Engineer Graduate (CDN Platform) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7673612865722599733
+- **ByteDance / TikTok** (tier 1) · Site Reliability Engineer Graduate (Global SRE) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668701361741007109
+- **ByteDance / TikTok** (tier 1) · Software Development Engineer Graduate (Global E-Commerce-Quality Platform & AI  · San Jose, CA · https://lifeattiktok.com/search/7668827381435517237
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (AI Agent & Global Revenue Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668566347702569269
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Ads Delivery) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668662545059023157
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Ads Interface) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668855346857019701
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668717356843977013
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668724383120804149
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Business Integrity) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668592494649690421
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7668582542044072245
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7668582086900680965
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Foundation Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670276769459456309
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Foundation Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673674252889246005
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Global CRM) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668554579301124357
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Global E-commerce-Search) - 2027 Start · Seattle, WA · https://lifeattiktok.com/search/7670558992960358661
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Media Engine) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670367152357673221
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Media Engine) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673667938889009461
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Recommendation Architecture, Feeds Infrastructure) - · Seattle, WA · https://lifeattiktok.com/search/7672530785573980421
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673284715407886597
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (TikTok AI Search & Visual Search Infra Team) - 2027  · San Jose, CA · https://lifeattiktok.com/search/7672517471946000645
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7675829388634392837
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Transaction Platform) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668557209047894325
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7670282906426476853
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7673674249270839557
+- **ByteDance / TikTok** (tier 1) · Software Engineer Graduate(Ads Infrastructure) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668879883938203957
+- **ByteDance / TikTok** (tier 1) · Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start · San Jose, CA · https://lifeattiktok.com/search/7668701834807101749
+- **IBM** (tier 1) · 2027 Entry-Level - Software Developer, AI & Marketing Platforms · New York, NY · https://careers.ibm.com/careers/JobDetail?jobId=133448
+- **IBM** (tier 1) · Associate Application Developer 2027 - ServiceNow · Dallas, TX · https://careers.ibm.com/careers/JobDetail?jobId=128530
+- **IBM** (tier 1) · Associate Application Developer Oracle - 2027 · Baton Rouge, LA · https://careers.ibm.com/careers/JobDetail?jobId=128773
+- **IBM** (tier 1) · Entry Level Back-End Developer - Dallas, TX - 2027 · Dallas, TX · https://careers.ibm.com/careers/JobDetail?jobId=131027
+- **IBM** (tier 1) · Entry Level Back-End Developer-Tucson-AZ · Tucson, AZ · https://careers.ibm.com/careers/JobDetail?jobId=131023
+- **IBM** (tier 1) · Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engi · San Jose, CA · https://careers.ibm.com/careers/JobDetail?jobId=131308
+- **IBM** (tier 1) · Entry Level Software Developer 2027 - Durham · Durham, NC · https://careers.ibm.com/careers/JobDetail?jobId=133630
+- **IBM** (tier 1) · Entry-Level Software Developer 2027 - LOWELL · Lowell, MA · https://careers.ibm.com/careers/JobDetail?jobId=133928
+- **IBM** (tier 1) · SW Developer | AI Center of Excellence - Austin, TX - 2027 · Austin, TX · https://careers.ibm.com/careers/JobDetail?jobId=131165
+- **LinkedIn** (tier 1) · AI Engineer · Mountain View, CA · https://jobs.smartrecruiters.com/LinkedIn3/744000153827538 · **in TRACKER.md: applied (2026-10-01)**
+- **Nvidia** (tier 1) · Systems Software Engineer, AI and Cloud - New College Grad 2026 · Santa Clara, CA · https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458
+- **Deepgram** (tier 2) · People AI & Automation Engineer · Remote (US) · https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316
+- **Eightfold AI** (tier 2) · Software Engineer - AI Agentic Product Dev Team (US) · Santa Clara, CA · https://app.eightfold.ai/careers/job/68763148348
+- **Eightfold AI** (tier 2) · Software Engineer - AI Agentic Product Dev Team (US) · Santa Clara, CA · https://app.eightfold.ai/careers/job/68761482276
+- **Eightfold AI** (tier 2) · Software Engineer - AI Agentic Product Dev Team (US) · Santa Clara, CA · https://app.eightfold.ai/careers/job/68760523722
+- **Giga AI** (tier 2) · Forward Deployed Engineer I/II · San Francisco, CA · https://jobs.ashbyhq.com/gigaml/ea4abfde-77d8-4a80-878b-c5132163c7f0
+- **Glean** (tier 2) · Machine Learning Engineer, Assistant Quality · San Francisco, CA · https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
+- **Mistral AI** (tier 2) · Research Engineer, Full Stack · Palo Alto, CA · https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c
+- **Otter.ai** (tier 2) · Software Engineer, Front-End (New Grad) · Mountain View, CA · https://otter.ai/careers?gh_jid=8016078003
+- **SpaceXAI (xAI)** (tier 2) · Software Engineer, Ads Product · Palo Alto, CA · https://job-boards.greenhouse.io/xai/jobs/5152408007
+- **AppLovin** (tier 3) · ML Infrastructure Engineer · Palo Alto, CA · https://boards.greenhouse.io/applovin/jobs/4655740006
+- **Asana** (tier 3) · Software Engineer, Data Loading Infrastructure · San Francisco, CA · https://job-boards.greenhouse.io/asana/jobs/7962412
+- **CLEAR (Clear Secure)** (tier 3) · Software Engineer, Infrastructure · New York, NY · https://job-boards.greenhouse.io/clear/jobs/7901600
+- **Chime** (tier 3) · Full-Stack Engineer, Human Agent Tooling · San Francisco, CA · https://boards.greenhouse.io/chime/jobs/8606649002
+- **Coalition** (tier 3) · Frontend Engineer, Underwriting · Remote (US) · https://www.coalitioninc.com/job-posting?gh_jid=4734028005
+- **Compass** (tier 3) · Software Engineer - Mobile, iOS · Boston, MA · https://www.compass.com/careers?gh_jid=8042532
+- **Compass** (tier 3) · Software Engineer - Mobile, iOS · New York, NY · https://www.compass.com/careers?gh_jid=8042533
+- **Compass** (tier 3) · Software Engineer - Mobile, iOS · Seattle, WA · https://www.compass.com/careers?gh_jid=8048038
+- **Compass** (tier 3) · Software Engineer - Mobile, iOS · Boca Raton, FL · https://www.compass.com/careers?gh_jid=8081848
+- **CoreWeave** (tier 3) · Software Engineer · Bellevue, WA; Sunnyvale, CA; San Francisco, CA; Livingston, NJ; New York, NY; Ph · https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006
+- **Discord** (tier 3) · Software Engineer, Notifications · San Francisco, CA · https://job-boards.greenhouse.io/discord/jobs/8642213002
+- **Field AI** (tier 3) · Humanoid Engineer, Manipulation · Irvine, CA · https://jobs.lever.co/field-ai/0d9c37e2-47ae-45f9-8e5d-cc0eccd499f4
+- **Field AI** (tier 3) · Robotics Engineer, Humanoid System Integration · Irvine, CA · https://jobs.lever.co/field-ai/95ff2df3-4408-47f3-a2c5-295d8067bb30
+- **Handshake** (tier 3) · Software Engineer I, Build Review & Test · San Francisco, CA · https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58
+- **Lyft** (tier 3) · Software Engineer · San Francisco, CA · https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002
+- **Lyft** (tier 3) · Software Engineer · Seattle, WA · https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002
+- **Snowflake** (tier 3) · Software Engineer - Database Engineering · Menlo Park, CA; Bellevue, WA · https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995
+- **Snowflake** (tier 3) · Software Engineer – Mobile Team · Menlo Park, CA · https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d
+- **Vercel** (tier 3) · Software Engineer, CDN Content · San Francisco, CA · https://job-boards.greenhouse.io/vercel/jobs/6105394004
+- **Verily** (tier 3) · Software Engineer - Participant Ops · Raleigh, NC · https://verily.wd1.myworkdayjobs.com/verily_careers/job/Raleigh-North-Carolina/Software-Engineer---Participant-Ops_REQ-926
+- **Verkada** (tier 3) · Backend Engineer - Connectivity · San Mateo, CA · https://job-boards.greenhouse.io/verkada/jobs/5194598007
+- **Graham Capital Management** (tier 4) · Quantitative Trading and Research Operations Developer · Norwalk, CT; Rowayton, CT · https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005
+- **IMC Trading** (tier 4) · Quant Performance Engineer · Chicago, IL · https://job-boards.eu.greenhouse.io/imc/jobs/4823836101
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Tech · Atlanta, GA · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013258
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Tech · New York, NY · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Tech · Phoenix, AZ · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Tech · Sunrise, FL · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterpri · Charlotte, NC · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2601
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterpri · New York, NY · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260129
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterpri · Sunrise, FL · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technol · Atlanta, GA · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technol · New York, NY · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technol · Palo Alto, CA · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technol · Phoenix, AZ · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technol · Sunrise, FL · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise T · Charlotte, NC · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise T · New York, NY · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise T · Phoenix, AZ · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259
+- **American Express** (tier 5) · Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise T · Sunrise, FL · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801
+- **Axos Bank** (tier 5) · JBATA - AI Automation Developer · San Diego, CA · https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Automation-Developer_JR4837
+- **Axos Bank** (tier 5) · JBATA - AI Engineer · San Diego, CA · https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526
+- **Axos Bank** (tier 5) · JBATA - Application Developer · San Diego, CA · https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Application-Developer_JR4464
+- **BMO (Bank of Montreal)** (tier 5) · Software Developer · Toronto, ON, Canada · https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260019384
+- **Experian** (tier 5) · Full Stack Software Engineer (Hybrid) · Phoenix, AZ · https://jobs.smartrecruiters.com/Experian/744000151688469
+- **Intuit** (tier 5) · Software Developer 1, Canada Tax Content · Toronto, ON, Canada · https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200
+- **Jack Henry & Associates** (tier 5) · Software Engineer II · Springfield, MO; Birmingham, AL; Branson, MO; Monett, MO · https://careers.jackhenry.com/job/springfield/software-engineer-ii/42859/101037757424
+- **Jack Henry & Associates** (tier 5) · Software Engineer II · Allen, TX · https://careers.jackhenry.com/job/allen/software-engineer-ii/42859/101400623712
+- **MUFG** (tier 5) · .NET Developer, Analyst · New York, NY · https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/XMLNAME-NET-Developer--Analyst_10079740-WD-1
+- **PayPal** (tier 5) · Software Engineer - Android · San Jose, CA; Austin, TX · https://paypal.eightfold.ai/careers/job/274922740164
+- **PayPal** (tier 5) · Software Engineer- Cloud Infrastructure and DevOps · Austin, TX · https://paypal.eightfold.ai/careers/job/274920488372
+- **Q2** (tier 5) · Machine Learning Engineer · Cary, NC; Austin, TX; Charlotte, NC · https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Machine-Learning-Engineer_REQ-12736
+- **State Street** (tier 5) · Full Stack Software Engineer, Officer · Toronto, ON · https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060
+- **State Street** (tier 5) · Software Developer - Officer · Quincy, MA; Princeton, NJ · https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Developer---Officer_R-798966-1
+- **T. Rowe Price** (tier 5) · AI Software Engineer- T. Rowe Price Labs (NY or MD) · New York, NY; Baltimore, MD · https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/New-York-NY/Full-Stack-Software-Engineer--T-Rowe-Price-AI-Lab-_83089
+- **T. Rowe Price** (tier 5) · Software Engineer- Multi-Asset Technology (Hybrid- Baltimore, MD) · Baltimore, MD · https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Software-Engineer--Multi-Asset-Technology_83573
+- **T. Rowe Price** (tier 5) · Software Engineer_Python (Hybrid Baltimore, MD) · Baltimore, MD · https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Software-Engineer-Python--Hybrid---Baltimore--MD-_82209
+- **The Carlyle Group** (tier 5) · Forward Deployed Product Engineer, Global Private Equity Technology · Washington, DC · https://carlyle.wd1.myworkdayjobs.com/Carlyle/job/Washington-DC/Senior-Analyst_R-00290
+- **UBS** (tier 5) · 2027 Graduate Talent Program - Technology - NY/ NJ · New York, NY; Weehawken, NJ · https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622
+- **Vanguard** (tier 5) · Entry Level Application Engineer - 2027 Start Date - Malvern · Malvern, PA · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1
+- **Vanguard** (tier 5) · Entry Level Application Engineer - Dallas - 2027 Start Date · Dallas/Ft. Worth, TX · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853
+- **Vanguard** (tier 5) · Technology Leadership Program - Application Development (NC) · Charlotte, NC · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082
+- **Vanguard** (tier 5) · Technology Leadership Program - Application Development (TX) · Dallas/Ft. Worth, TX · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program---Application-Development--TX-_181647
+- **Vanguard** (tier 5) · Technology Leadership Program, Investment Systems (PA) · Malvern, PA · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program--Investment-Systems--PA-_181452
+- **Visa** (tier 5) · SW Engineer · Bellevue, WA · https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/SW-Engineer_REF088996W
+- **Visa** (tier 5) · Software Engineer- Operations and Infrastructure · Austin, TX · https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W
+- **Alteryx** (tier 6) · Software Engineer (Orchestration & Job Execution, Cloud Platform) · Remote (US) · https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Software-Engineer_R12529
+- **Amplitude** (tier 6) · Software Engineer I · San Francisco, CA · https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be
+- **Amplitude** (tier 6) · Software Engineer I · Vancouver, Canada · https://jobs.ashbyhq.com/amplitude/a89d698b-f340-42a4-b8a6-81113c75fdce
+- **Autodesk** (tier 6) · MCP/AI Developer · Toronto, ON, Canada · https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/MCP-AI-Developer_26WD99785-1
+- **Automation Anywhere** (tier 6) · Software Engineer (JR1492, customer-facing sustaining/production engineering) · San Jose, CA · https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/San-Jose-California/Software-Engineer_JR1492
+- **Chainguard** (tier 6) · Software Engineer (Repositories) · Remote (US) · https://job-boards.greenhouse.io/chainguard/jobs/4714568006
+- **Esri** (tier 6) · Application Developer - JavaScript · Redlands, CA · https://www.esri.com/careers/5197121007?gh_jid=5197121007
+- **Esri** (tier 6) · Application Developer - JavaScript · Philadelphia, PA · https://www.esri.com/careers/5197144007?gh_jid=5197144007
+- **Esri** (tier 6) · Application Developer - JavaScript · St. Louis, MO · https://www.esri.com/careers/5197148007?gh_jid=5197148007
+- **Esri** (tier 6) · Application Developer - JavaScript · Vienna, VA · https://www.esri.com/careers/5197151007?gh_jid=5197151007
+- **Esri** (tier 6) · Application Developer - JavaScript · Minneapolis, MN · https://www.esri.com/careers/5197139007?gh_jid=5197139007
+- **Esri** (tier 6) · Application Developer - JavaScript · Louisville, CO · https://www.esri.com/careers/5197137007?gh_jid=5197137007
+- **Esri** (tier 6) · Application Developer - JavaScript · Charlotte, NC · https://www.esri.com/careers/5197131007?gh_jid=5197131007
+- **Esri** (tier 6) · Application Developer - JavaScript · Olympia, WA · https://www.esri.com/careers/5197142007?gh_jid=5197142007
+- **Esri** (tier 6) · Application Developer - JavaScript · San Antonio, TX · https://www.esri.com/careers/5197146007?gh_jid=5197146007
+- **Esri** (tier 6) · Product Engineer I - ArcGIS Workflow Manager · Redlands, CA · https://www.esri.com/careers/5222666007?gh_jid=5222666007
+- **Esri** (tier 6) · Software Engineer I - Front-End Engineer for ArcGIS Enterprise · Redlands, CA · https://www.esri.com/careers/5190253007?gh_jid=5190253007
+- **National Information Solutions Cooperative (NISC)** (tier 6) · Software Developer - Financials (Full Stack, Angular) · Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND (any NISC location, hybrid) · https://job-boards.greenhouse.io/nisc/jobs/8213668
+- **National Information Solutions Cooperative (NISC)** (tier 6) · Software Developer - Full Stack (Work Management Software) · Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND (any NISC location, hybrid) · https://job-boards.greenhouse.io/nisc/jobs/8247532
+- **Netsmart** (tier 6) · Software Engineer Programming Knowledge- Onsite Great River, NY · Great River, NY · https://ntst.wd1.myworkdayjobs.com/careers/job/Great-River-NY/Software-Engineer-Programming-Knowledge--Onsite-Great-River--NY_R015853
+- **Netsmart** (tier 6) · Software Engineer- .NET Experience (Onsite, Overland Park, KS) · Overland Park, KS · https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--NET-Experience--Onsite--Overland-Park--KS-_R015550
+- **New Relic** (tier 6) · Software Engineer - IAM (Java) · Portland, OR; Remote (US) · https://job-boards.greenhouse.io/newrelic/jobs/5416517008
+- **OneStream** (tier 6) · AI Engineer · Birmingham (state not listed); Chicago, IL; Fort Lauderdale, FL; New York, NY · https://job-boards.greenhouse.io/onestream/jobs/4424953009
+- **OneStream** (tier 6) · AI Forward Deployed Engineer · United States (remote; no city listed) · https://job-boards.greenhouse.io/onestream/jobs/4425208009
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011505
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011511
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011517
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011521
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011523
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011526
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011535
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539
+- **Palo Alto Networks** (tier 6) · Software Engineer (new-grad: degree earned recently or within 12 months) · Santa Clara, CA (Office - USA - CA - Headquarters) · https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011544
+- **Pendo** (tier 6) · Software Engineer, Full Stack · Raleigh, NC · https://job-boards.greenhouse.io/pendo/jobs/8675727002
+- **Rubrik** (tier 6) · Software Engineer - Product Platform Security · Palo Alto, CA · https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737
+- **Thomson Reuters** (tier 6) · Research Engineer (Thomson Reuters Labs) · Eagan, MN; Toronto, ON; New York, NY; Ann Arbor, MI; Frisco, TX · https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Research-Engineer_JREQ198562
+- **Tyler Technologies** (tier 6) · Application Developer · Augusta, ME; Yarmouth, ME · https://jobs.jobvite.com/tylertech/job/o45IAfwb
+- **ASML** (tier 7) · Embedded Software Engineer · Wilton, CT · https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Embedded-Software-Engineer_J-00352651
+- **Cisco** (tier 7) · Machine Learning Engineer - CTO innovations · San Francisco, CA; San Jose, CA · https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806
+- **Cisco** (tier 7) · Software Engineer Full Stack / Backend II (Full-Time) - United States · San Jose, CA; New York, NY; Boston, MA; Knoxville, TN; Austin, TX; Milpitas, CA; · https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2023953
+- **Cisco** (tier 7) · Software Engineer Full Stack / Backend II (Full-Time) - United States · RTP, NC; Boulder, CO · https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2026779
+- **Dolby Laboratories** (tier 7) · Video Software Engineer · Sunnyvale, CA · https://jobs.dolby.com/careers/job/43795426
+- **Garmin** (tier 7) · Embedded Software Engineer 1 · Yarmouth, Maine · https://careers.garmin.com/jobs/19680?icims=1
+- **Garmin** (tier 7) · Embedded Software Engineer 1 · Cary, North Carolina · https://careers.garmin.com/jobs/17783?icims=1
+- **Garmin** (tier 7) · Software Engineer 1 - Aviation Database · Olathe, Kansas · https://careers.garmin.com/jobs/17162?icims=1
+- **Garmin** (tier 7) · Software Engineer 1 - Embedded Aviation · Olathe, Kansas · https://careers.garmin.com/jobs/18513?icims=1
+- **Garmin** (tier 7) · Software Engineer 1 - Web Applications · Olathe, Kansas · https://careers.garmin.com/jobs/20219?icims=1
+- **Garmin** (tier 7) · Software Engineer 1 - Web Development/Applications · Olathe, Kansas · https://careers.garmin.com/jobs/18510?icims=1
+- **HP** (tier 7) · Software Development Graduate Roles · Spring, TX; Corvallis, OR; Vancouver, WA; Palo Alto, CA · https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699
+- **HP** (tier 7) · Software and Engineering Graduate Roles - HP Solutions (HPS) · Fort Collins, CO; Spring, TX; Austin, TX · https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009
+- **Hitachi (incl. Hitachi Vantara, GlobalLogic)** (tier 7) · Software Analyst (Hitachi Rail Canada, railway signaling software) · Toronto, ON · https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0139848
+- **Hitachi (incl. Hitachi Vantara, GlobalLogic)** (tier 7) · Software Analyst (Hitachi Rail Canada, railway signaling software) · Toronto, ON · https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0143365
+- **Juniper Networks** (tier 7) · AI and Machine Learning Engineering Graduate · Durham, NC · https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475
+- **Juniper Networks** (tier 7) · Systems/Software Engineer I - Graduate · Houston, TX · https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648
+- **Lenovo** (tier 7) · AI Enterprise Engineer · Chicago, IL · https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Enterprise-Engineer/80609
+- **Lenovo** (tier 7) · Junior Cloud Platform Engineer · Morrisville, NC · https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Cloud-Platform-Engineer/82261
+- **Lenovo** (tier 7) · Junior Data and AI-ML Engineer · Morrisville, NC · https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Data-and-AI-ML-Engineer/82262
+- **Microchip Technology** (tier 7) · Engineer I-IS (Equipment Automation) · Gresham, OR · https://microchiphr.wd5.myworkdayjobs.com/external/job/OR---Gresham/Engineer-I-IS--Equipment-Automation-_R4094-26
+- **Micron** (tier 7) · New College Grad - IT Software Support Engineer · Boise, ID · https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038
+- **Monolithic Power Systems** (tier 7) · Software Engineer, Building Automation · San Jose, CA · https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037
+- **Motorola Solutions** (tier 7) · Android Software Engineer · Plantation, FL · https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561
+- **Motorola Solutions** (tier 7) · Jr. Software Engineer, AI Agent Platform · Remote (Ontario, Canada); Remote (British Columbia, Canada) (no city listed) · https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
+- **NetApp** (tier 7) · Software Engineer (Systems - C/C++) - ONTAP · San Jose, CA · https://careers.netapp.com/job/san-jose/software-engineer-systems-c-c/27600/100727361824
+- **Qualcomm** (tier 7) · #AI Infrastructure Software Engineer · San Diego, CA · https://qualcomm.eightfold.ai/careers/job/446720212566
+- **Qualcomm** (tier 7) · #Wireless Software Engineer · Boulder, CO · https://qualcomm.eightfold.ai/careers/job/446721159585
+- **Seagate** (tier 7) · Embedded Software Engineer (Bachelor's Level, Early Career) · Longmont, CO; Shakopee, MN · https://seagatecareers.com/job/Longmont-Embedded-Software-Engineer-%28Bachelor%27s-Level%2C-Early-Career%29-CO-80501/1437750000/
+- **Seagate** (tier 7) · Embedded Software Engineer (Master's Level, Early Career) · Longmont, CO; Shakopee, MN · https://seagatecareers.com/job/Longmont-Embedded-Software-Engineer-%28Master%27s-Level%2C-Early-Career%29-CO-80501/1437729300/
+- **Supermicro** (tier 7) · Software Engineer (Req 30179, data center infrastructure software) · San Jose, CA · https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1428832000/
+- **Synopsys** (tier 7) · HPC Software Engineer · Canonsburg, PA · https://careers.synopsys.com/job/canonsburg/hpc-software-engineer/44408/87085299616
+- **TSMC** (tier 7) · Fullstack Software Engineer (TSMC Arizona fab automation) · Phoenix, AZ · https://ro.careers.tsmc.com/job/Phoenix-Fullstack-Software-Engineer-AZ-85083/1210813601/
+- **Texas Instruments** (tier 7) · Career Accelerator Program - Software Engineer · Dallas, TX; Richardson, TX · https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577
+- **Texas Instruments** (tier 7) · Software Engineer - Full Stack Developer (Career Accelerator Program, Toronto) · Toronto, ON, Canada · https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161
+- **Western Digital** (tier 7) · Software Engineer (Apps) · San Jose, CA · https://jobs.smartrecruiters.com/WesternDigital/744000142878952
+- **Altamira Technologies** (tier 8) · AI/ML Engineer (Research & Development) · Fairborn, OH · https://jobs.jobvite.com/altamiracorps/job/oGqGAfw6
+- **Aurora Innovation** (tier 8) · Software Engineer, Performance Engineering Optimization · Mountain View, CA · https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553
+- **Beta Technologies** (tier 8) · Platform Software Engineer – Digital Operations Platform · South Burlington, VT · https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4265190009
+- **Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)** (tier 8) · Software Engineer, Vehicle Diagnostics · Owatonna, MN · https://jobs.smartrecruiters.com/BoschGroup/744000143562859
+- **Bot Auto** (tier 8) · Software Engineer, Security Engineering · Houston, TX · https://job-boards.greenhouse.io/botauto/jobs/5433415008
+- **CHAOS Industries** (tier 8) · Software Engineer, Applied AI · San Francisco, CA · https://job-boards.greenhouse.io/chaosindustries/jobs/5209420007
+- **GM** (tier 8) · Software Verification Engineer, AV Platform (Early Career) · Milford, MI; Warren, MI · https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592
+- **Kodiak AI** (tier 8) · Fullstack Engineer, UI Tools · Mountain View, CA · https://job-boards.greenhouse.io/kodiak/jobs/4320932009
+- **L3Harris** (tier 8) · Associate, Software Engineering · Fort Wayne, IN · https://careers.l3harris.com/en/job/fort-wayne/associate-software-engineering/4832/101667662592
+- **L3Harris** (tier 8) · Senior Associate, Software Engineer · Richardson, TX · https://careers.l3harris.com/en/job/richardson/senior-associate-software-engineer/4832/101624040064
+- **L3Harris** (tier 8) · Senior Associate, Software Engineer · Richardson, TX · https://careers.l3harris.com/en/job/richardson/senior-associate-software-engineer/4832/101624040032
+- **L3Harris** (tier 8) · Senior Associate, Software Engineering · Nashville, TN · https://careers.l3harris.com/en/job/nashville/senior-associate-software-engineering/4832/100033499824
+- **L3Harris** (tier 8) · Sr Associate, Software Engineer · Salt Lake City, UT · https://careers.l3harris.com/en/job/salt-lake-city/sr-associate-software-engineer/4832/100498294368
+- **L3Harris** (tier 8) · Sr Associate, Software Engineer · Carlsbad, CA · https://careers.l3harris.com/en/job/carlsbad/sr-associate-software-engineer/4832/100511557632
+- **MITRE** (tier 8) · Associate Cloud Developer · McLean, VA · https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Cloud-Developer_R117424-1
+- **MITRE** (tier 8) · Software Engineer · McLean, VA; Bedford, MA · https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Software-Engineer_R117614-1
+- **Nuro** (tier 8) · Software Engineer, Performance Tooling and Infrastructure New Grad · Mountain View, CA · https://nuro.ai/careersitem?gh_jid=8227399
+- **PlusAI** (tier 8) · Software Engineer - Data · Santa Clara, CA · https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36
+- **PlusAI** (tier 8) · Software Engineer, Simulation · Santa Clara, CA · https://jobs.lever.co/plus-2/3e6f5196-a87d-402a-8bbf-b6dd14a82c78
+- **Rivian** (tier 8) · Software Engineer, Edge AI · Palo Alto, CA · https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0
+- **Shield AI** (tier 8) · Software Development Engineer - New Graduate · San Diego, CA; Washington, DC; Boston, MA · https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583
+- **Toyota** (tier 8) · Data Platform Engineer · Plano, TX (listed as Plano North) · https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/Data-Platform-Engineer_10336396
+- **Waabi** (tier 8) · Software Engineer, Commercial Software · Toronto, ON · https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f
+- **Audible** (tier 9) · Software Development Engineer · Newark, NJ · https://www.amazon.jobs/en/jobs/10539152/software-development-engineer
+- **Audible** (tier 9) · Software Development Engineer · Newark, NJ · https://www.amazon.jobs/en/jobs/10566605/software-development-engineer
+- **Audible** (tier 9) · Software Development Engineer, Consumer Domains · Newark, NJ · https://www.amazon.jobs/en/jobs/10560727/software-development-engineer-consumer-domains
+- **Audible** (tier 9) · Software Development Engineer, FinTech/Customer Service Tech · Newark, NJ · https://www.amazon.jobs/en/jobs/10564323/software-development-engineer-fintech-customer-service-tech
+- **Disney** (tier 9) · Product Software Engineer I · New York, NY; Seattle, WA; San Francisco, CA · https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-I_10157015-2
+- **DraftKings** (tier 9) · Software Engineer, iOS · Boston, MA; Remote (US) · https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Software-Engineer--iOS_JR14809
+- **Home Depot** (tier 9) · Software Engineer - Workforce Management · Remote (US); Georgia-virtual · https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer---Workforce-Management_Req190607
+- **News Corp** (tier 9) · Software Engineer - Data Architecture & Platform Engineering · New York, NY · https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer---Data-Architecture---Platform-Engineering-_Job_Req_55761
+- **Nordstrom** (tier 9) · Engineer 1 (Hybrid - Seattle, WA) · Seattle, WA · https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936
+- **Omnicom Group (merged with IPG in 2025)** (tier 9) · Credera Experience Design Analyst (Design Engineering) · Addison, TX; Denver, CO; Atlanta, GA; New York, NY; Houston, TX; Chicago, IL · https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Experience-Design-Analyst--Design-Engineering-_R14049
+- **Paramount Skydance** (tier 9) · Software Engineer - AI Tooling & Quality Engineering Platforms · New York, NY; Burbank, CA; Los Angeles, CA; San Francisco, CA · https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1433499400/
+- **QuinStreet** (tier 9) · Algorithms Engineer · Foster City, CA; Remote (US, telecommuting permitted) · https://job-boards.greenhouse.io/quinstreet/jobs/8093165
+- **Redfin (Rocket Companies)** (tier 9) · Software Engineer (Agentic AI Applications) · Detroit, MI · https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer--Agentic-AI-Applications-_R-083562
+- **Riot Games** (tier 9) · Software Engineer - Central Technology, Infrastructure (Optimize & Protect) · Los Angeles, CA · https://www.riotgames.com/en/work-with-us/job/8234671?gh_jid=8234671
+- **Roku** (tier 9) · Software Engineer (Advertising, React/Node) · San Jose, CA · https://www.weareroku.com/jobs/8221686?gh_jid=8221686
+- **Roku** (tier 9) · Software Engineer (Roku OS, C/C++) · San Jose, CA · https://www.weareroku.com/jobs/8221787?gh_jid=8221787
+- **Target** (tier 9) · Android Engineer - Flagship Mobile App · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000453889
+- **Target** (tier 9) · Engineer · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer_R0000448064
+- **Target** (tier 9) · Engineer - Hardware Observability · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Hardware-Observability_R0000449637
+- **Target** (tier 9) · Engineer - IoT Platform · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---IoT-Platform_R0000449229
+- **Target** (tier 9) · Engineer - Stores & Supply Chain · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Stores---Supply-Chain_R0000476444
+- **Target** (tier 9) · Engineer – Cloud and Compute Platform Teams · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Cloud-and-Compute-Platform-Teams_R0000449986
+- **Target** (tier 9) · Engineer – Trend Brain Team (Backend/GenAI) · Brooklyn Park, MN · https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Trend-Brain-Team--Backend-GenAI-_R0000454429
+- **WHOOP** (tier 9) · Android Engineer I · Boston, MA · https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173
+- **WHOOP** (tier 9) · Software Engineer I (Frontend, AI Platform) · Boston, MA · https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3
+- **Walmart Global Tech** (tier 9) · (USA) Software Engineer II · Sunnyvale, CA · https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-II_R-2653356-1
+- **Wingstop** (tier 9) · Data Engineer · Dallas, TX · https://iaxmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Wingstop-GSC/job/1043
+- **Bain** (tier 10) · AI/ML Engineer · Atlanta, GA; Austin, TX; Chicago, IL; Dallas, TX; Houston, TX · https://careers.bain.com/jobs/FolderDetail/Engineer-PEG-AI-and-Machine-Learning-Engineering/108806
+- **Bain** (tier 10) · Platform Engineer · Atlanta, GA; Austin, TX; Chicago, IL; Dallas, TX; Houston, TX · https://careers.bain.com/jobs/FolderDetail/Engineer-PEG-Platform-Engineering/109001
+- **CACI International** (tier 10) · Web Application Developer – Early Career · Chantilly, VA; Reston, VA · https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158
+- **CGI** (tier 10) · Software Developer - Entry Level · New Brunswick, NJ · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0726-2202&BRID=1320638&lang=1
+- **CGI** (tier 10) · Software Developer - Entry Level · Atlanta, GA · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1365&BRID=1326953&lang=1
+- **CGI** (tier 10) · Software Developer - Entry Level · Knoxville, TN · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1487&BRID=1327517&lang=1
+- **CGI** (tier 10) · Software Developer - Entry Level · Mobile, AL · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1390&BRID=1326978&lang=1
+- **CGI** (tier 10) · Software Developer - Entry Level · Chattanooga, TN · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1385&BRID=1326970&lang=1
+- **CGI** (tier 10) · Software Developer - Entry Level · Houston, TX · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1504&BRID=1327583&lang=1
+- **CGI** (tier 10) · Technical Analyst - Entry Level · Lebanon, VA · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1545&BRID=1327804&lang=1
+- **CGI** (tier 10) · Technical Analyst - Entry Level · Houston, TX · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1514&BRID=1327585&lang=1
+- **Capco** (tier 10) · AI Engineer · Toronto, ON, Canada · https://job-boards.greenhouse.io/capco/jobs/8258742
+- **Deloitte** (tier 10) · Agentic Software Engineer I · Austin, TX; Chicago, IL; Dallas, TX; Jacksonville, FL; Miami, FL; Morristown, NJ · https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-Software-Engineer-I/370314
+- **KPMG** (tier 10) · Associate, Software Engineer · Atlanta, GA; Denver, CO; Montvale, NJ; Orlando, FL · https://www.kpmguscareers.com/jobdetail/?jobId=135722
+- **Kyndryl** (tier 10) · Software Engineer - Development · Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week) · https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer---Development_R-63192-1
+- **NTT DATA** (tier 10) · Junior Developer · Arlington, VA (remote) · https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/
+- **Tata Consultancy Services (TCS)** (tier 10) · Junior FDE · Milford, OH · https://ibegin.tcsapps.com/candidate/next/en-US/jobs/431331J
+- **West Monroe** (tier 10) · 2027 Software Engineering (AI Concentration) Consultant · New York, NY · https://westmonroe.com/careers/job-details-students?gh_jid=6181199004
+- **West Monroe** (tier 10) · 2027 Software Engineering (AI Concentration) Consultant · Seattle, WA · https://westmonroe.com/careers/job-details-students?gh_jid=6183029004
+- **Abbott Laboratories** (tier 11) · Associate Software Engineer · Plymouth, MN · https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1
+- **American Airlines** (tier 11) · Engineer, IT AI · Fort Worth, TX · https://jobs.aa.com/job/x/88617-en_US
+- **American Airlines** (tier 11) · Sr Associate Engineer/Engineer, IT Software · Phoenix, AZ · https://jobs.aa.com/job/x/88440-en_US
+- **American Family Insurance** (tier 11) · Associate Technical Engineer (Hybrid) · Madison, WI · https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Associate-Technical-Engineer--Hybrid-_R39566-1
+- **Berkshire Hathaway Energy** (tier 11) · Software Engineer 1/2/3 · Des Moines, IA; Davenport, IA; Richmond, VA; Reno, NV; Las Vegas, NV; Portland,  · https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871
+- **Boehringer Ingelheim** (tier 11) · Software Engineer AI · Ridgefield, CT · https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Software-Engineer-AI-Unit/1386962833/
+- **Bristol Myers Squibb** (tier 11) · Software Engineer, AI Engineering and Enablement · Seattle, WA; Princeton, NJ · https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1
+- **CVS Health** (tier 11) · Software Development Engineer - Operational Analytics · Hartford, CT · https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1
+- **Comcast** (tier 11) · Machine Learning Engineer 1 · New York, NY · https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Machine-Learning-Engineer-1_R445311
+- **Cummins** (tier 11) · Software Engineer - Servicenow · Columbus, IN (allowable work locations: most US states) · https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164
+- **Emerson Electric** (tier 11) · Manufacturing Software Engineer · Shakopee, MN · https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009561
+- **Emerson Electric** (tier 11) · Software Engineer - AI Enablement & Engineering Productivity · Austin, TX · https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922
+- **H&R Block** (tier 11) · Machine Learning Engineer · Remote (US, Missouri-based listing) · https://careers-hrblock.icims.com/jobs/76907/machine-learning-engineer/job
+- **Illinois Tool Works (ITW)** (tier 11) · Software Engineer (embedded, ITW Welding) · Appleton, WI · https://itw.wd5.myworkdayjobs.com/External/job/Appleton-822-Comm/Software-Engineer_JR6591
+- **John Deere** (tier 11) · Embedded Software Engineer · Iowa, US (no city listed) · https://johndeere.eightfold.ai/careers/job/137480740906
+- **John Deere** (tier 11) · Embedded Software Engineer · Dubuque, IA · https://johndeere.eightfold.ai/careers/job/137483241771
+- **John Deere** (tier 11) · Engineer, Software · East Moline, IL · https://johndeere.eightfold.ai/careers/job/137482580263
+- **Koch Inc. (Koch Industries)** (tier 11) · Software Engineer (Flint Hills Resources, HIPE team) · Wichita, KS · https://koch.avature.net/en_US/careers/JobDetail/United-States-Software-Engineer/195062
+- **Mayo Clinic** (tier 11) · Software Engineer - Omniverse Simulation · Rochester, MN · https://jobs.mayoclinic.org/job/rochester/software-engineer-omniverse-simulation/33647/100951617456
+- **Mayo Clinic** (tier 11) · Software Engineer - Oracle Integration · Rochester, MN · https://jobs.mayoclinic.org/job/rochester/software-engineer-oracle-integration/33647/99509280800
+- **Rockwell Automation** (tier 11) · Software Engineer - C++ · Milwaukee, WI · https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---C--_R26-7383-1
+- **Sherwin-Williams** (tier 11) · B2B/EDI Developer · Cleveland, OH · https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625645
+- **Sherwin-Williams** (tier 11) · SCADA Full Stack Application Developer - Industrial Automation · Cleveland, OH · https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622657
+- **Siemens** (tier 11) · Power Systems Software Engineer - Optimization · Schenectady, NY · https://jobs.siemens.com/en_US/externaljobs/JobDetail/507651
+- **Siemens** (tier 11) · Software Engineer - C++ / Compiler · Burlington, MA · https://jobs.siemens.com/en_US/externaljobs/JobDetail/524948
+- **U-Haul (U-Haul Holding Company)** (tier 11) · Software Developer · Tempe, AZ · https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Software-Developer_R255136
+- **U-Haul (U-Haul Holding Company)** (tier 11) · Software Development Test Engineer · Phoenix, AZ · https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Test-Engineer_R251790
+- **U-Haul (U-Haul Holding Company)** (tier 11) · Software Development Test Engineer (SDET) · Phoenix, AZ · https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Test-Engineer--SDTE-_R257125
+- **Wellmark** (tier 11) · Software Engineer - Member Experience Delivery · Des Moines, IA · https://jobs.smartrecruiters.com/wellmarkinc/744000153843930
+- **Westinghouse Electric Company** (tier 11) · Safety SW I&C Engineer HMI Systems (req 33451) · Warrendale, PA (hybrid) · https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410687800/
+- **Westinghouse Electric Company** (tier 11) · Safety SW I&C Engineer HMI Systems (req 33454) · Warrendale, PA (hybrid) · https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/
+- **Westinghouse Electric Company** (tier 11) · Safety SW I&C Engineer HMI Systems (req 33471) · Warrendale, PA (hybrid) · https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410681600/
+- **XPO, Inc.** (tier 11) · Machine Learning Engineer - Hybrid · Boston, MA · https://jobs.xpo.com/job/Boston-Machine-Learning-Engineer-Hybrid-MA-02110/1422078600/
+- **XPO, Inc.** (tier 11) · Machine Learning Engineer - Hybrid · Boston, MA · https://jobs.xpo.com/job/Boston-Machine-Learning-Engineer-Hybrid-MA-02110/1422080400/
+- **Yum! Brands** (tier 11) · Applications Developer · Louisville, KY · https://eczd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5630
+- **Yum! Brands** (tier 11) · Site Reliability Engineer I · Plano, TX; Louisville, KY · https://eczd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5629
+
+## Removed postings (43)
+
+- **Microsoft** (tier 1) · Software Engineer (IC2), Redmond · Redmond, WA · https://apply.careers.microsoft.com/careers/job/1970393557022395 · was in Apply now
+- **Retell AI** (tier 2) · Software Engineer, Internal Deployed · Redwood City, CA · https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87 · **in TRACKER.md: applied (2026-10-05)**
+- **Hudson River Trading** (tier 4) · Algorithm Developer (Quant Research & Trading) – 2027 Grads · New York, NY; London, UK; Singapore · https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050 · was in Apply now
+- **AllianceBernstein** (tier 5) · Software Development Associate (excluded: US citizen or permanent resident requi · Nashville, TN · https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0019882 · was in Apply now
+- **Mastercard** (tier 5) · Software Engineer, Launch Program 2027 - Toronto, Canada · Toronto, ON, Canada · https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621 · was in Apply now
+- **Mastercard** (tier 5) · Software Engineer, Launch Program 2027 - Vancouver, Canada · Vancouver, BC, Canada · https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622 · was in Apply now
+- **Dassault Systèmes** (tier 6) · Software Engineer (3D CAD, AI-powered, SOLIDWORKS) · Waltham, MA · https://www.3ds.com/careers/jobs/software-engineer-549418 · was in Apply now
+- **Everlaw** (tier 6) · Software Engineer I · Oakland, CA · https://job-boards.greenhouse.io/everlaw/jobs/4705236006 · was in Apply now
+- **ServiceNow** (tier 6) · Software Engineer (beginning-career, AI Control Tower) · Santa Clara, CA · https://jobs.smartrecruiters.com/ServiceNow/744000151949130 · was in Apply now
+- **Cadence** (tier 7) · Software Engineer (new college grad Dec 2026) · San Jose, CA · https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2 · was in Apply now
+- **Lam Research** (tier 7) · Software Engineer 2 · Fremont, CA · https://careers.lamresearch.com/careers/job/1099552273052 · **in TRACKER.md: applied (2026-10-06)**
+- **Microchip Technology** (tier 7) · Engineer I-Software Development · Houston, TX · https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3962-26 · was in Apply now
+- **QuEra Computing** (tier 7) · Scientific Software Engineer - Developer Experience · Boston, MA · https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008 · was in Apply now
+- **Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)** (tier 8) · Associate Motorsport Connectivity Engineer (earlier titled Associate Motorsport  · Farmington Hills, MI · https://jobs.smartrecruiters.com/BoschGroup/744000153551929 · was in Apply now
+- **Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)** (tier 8) · Rotational Development Program – Software Engineer – Power Solutions · Farmington Hills, MI · https://jobs.smartrecruiters.com/BoschGroup/744000134464179 · was in Apply now
+- **Honda** (tier 8) · Software & System Dev. Engineer · Raymond, OH · https://careers.honda.com/us/en/job/12510 · was in Apply now
+- **Polaris Inc.** (tier 8) · Digital & IT Leadership Development Program Associate - Digital Product Developm · Medina, MN; Plymouth, MN · https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565 · was in Apply now
+- **Polaris Inc.** (tier 8) · Digital & IT Leadership Development Program Associate - Predictive Data Science · Medina, MN; Plymouth, MN · https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564 · was in Apply now
+- **Pony.ai** (tier 8) · Software Engineer, Decision Making & Path Planning · Fremont, CA · https://apply.workable.com/pony-dot-ai/j/6137A19FBD/ · was in Apply now
+- **Toyota** (tier 8) · AI/ML Platform Engineer · Plano, TX · https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/AI-ML-Platform-Engineer_10337203 · was in Apply now
+- **Disney** (tier 9) · Assoc Software Engineer · Glendale, CA; Orlando, FL · https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Assoc-Software-Engineer_10161302 · was in Apply now
+- **SimpliSafe** (tier 9) · Software Engineer I - Device Control · Boston, MA · https://job-boards.greenhouse.io/simplisafe/jobs/8049515 · was in Apply now
+- **Vizio (Walmart)** (tier 9) · Software Engineer III · Denver, CO · https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-III_R-2644535-1 · was in Apply now
+- **Vizio (Walmart)** (tier 9) · Software Engineer III · Bentonville, AR · https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2651385-1 · was in Apply now
+- **AHEAD** (tier 10) · Associate Cloud Engineer · Chicago, IL · https://jobs.lever.co/thinkahead/56aabe54-b161-4d82-bf13-b99cccc2c8c9 · was in Apply now
+- **Accenture** (tier 10) · Associate Software Engineer-Hire-to-Train Program (Pega) (Accenture Federal Serv · Washington, DC; Arlington, VA · https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006 · was in Apply now
+- **Accenture** (tier 10) · Junior Forward Deployed Engineer (Accenture Federal Services; requires US citize · Arlington, VA · https://boards.greenhouse.io/accenturefederalservices/jobs/4715182006 · was in Apply now
+- **EXL** (tier 10) · Data Engineer · Jersey City, NJ · https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370 · was in Apply now
+- **Infosys** (tier 10) · Specialist Programmer · Austin, TX; Charlotte, NC; Phoenix, AZ; Raleigh, NC; Richardson, TX; Somerset, N · https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/145643BR · was in Apply now
+- **West Monroe** (tier 10) · 2027 Platforms & Technology Consultant · Chicago, IL; Dallas, TX; New York, NY; San Francisco, CA; Seattle, WA (separate  · https://westmonroe.com/careers/job-details-students?gh_jid=6172577004 · was in Apply now
+- **ZS Associates** (tier 10) · AI Engineer Associate Consultant · Princeton, NJ; Bellevue, WA; South San Francisco, CA; Thousand Oaks, CA · https://careers-zs.icims.com/jobs/67605/login · was in Apply now
+- **Comcast** (tier 11) · Entry Level Software Engineer- Englewood, CO- ONSITE 4 Days per Week- FreeWheel · Englewood, CO · https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Entry-Level-Software-Engineer--Englewood--CO--ONSITE-4-Days-per-Week--FreeWheel_R445138 · was in Apply now
+- **Dow Inc.** (tier 11) · 2026-2027 Campus Graduate - Research & Development (BS/MS) · Midland, MI; Wilmington, DE; Carrollton, KY; Houston, TX; Plaquemine, LA; Freepo · https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809 · was in Apply now
+- **GE HealthCare** (tier 11) · Software Engineer (C++ / GPU, CT reconstruction) · Waukesha, WI · https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Software-Engineer_R4045052-1 · was in Apply now
+- **Mutual of Omaha** (tier 11) · Engineer I/II (Cloud Development and Data Warehouse) · Remote (US) · https://www.mutualofomaha.com/careers/jobs/detail/505274 · was in Apply now
+- **Mutual of Omaha** (tier 11) · Full Stack Engineer I/II (Java, APIs, AWS) · Remote (US / Puerto Rico) · https://www.mutualofomaha.com/careers/jobs/detail/505205 · **in TRACKER.md: applied (2026-10-05)**
+- **Nationwide** (tier 11) · Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - · Columbus, OH · https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567 · was in Apply now
+- **New York Life Insurance Company** (tier 11) · Associate - Full Stack Developer · New York, NY (hybrid) · https://careers.newyorklife.com/careers/job/42989249 · was in Apply now
+- **New York Life Insurance Company** (tier 11) · Associate - Full-Stack AI Engineer · New York, NY (hybrid) · https://careers.newyorklife.com/careers/job/44173452 · was in Apply now
+- **Optimum Communications (formerly Altice USA)** (tier 11) · Software Dev Engineer I · Bethpage, NY; Plano, TX · https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors · was in Apply now
+- **Pacific Gas and Electric Company (PG&E)** (tier 11) · Product Engineer, Associate · Oakland, CA · https://jobs.pge.com/job/oakland/product-engineer-associate/29673/101372166400 · was in Apply now
+- **Rockwell Automation** (tier 11) · EDGE, Information Technology Rotational Program · Milwaukee, WI · https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/EDGE-Associate--Information-Technology-Rotational-Program_R26-5375-1 · was in Apply now
+- **Stanley Black & Decker** (tier 11) · Engineer 1, Software Engineering - Motor Control (embedded firmware) · Towson, MD · https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-1--Software-Engineering---Motor-Control_REQ-1000052383 · was in Apply now
+
+## Changed postings (68)
+
+- **Adobe** (tier 1) · 2027 University Graduate - Machine Learning Engineer · San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; · https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085 · deadline none → 2026-12-31
+- **Adobe** (tier 1) · 2027 University Graduate - Software Engineer · San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY · https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083 · deadline none → 2026-12-31
+- **LinkedIn** (tier 1) · Software Engineer - Web Infrastructure · Mountain View, CA · https://jobs.smartrecruiters.com/LinkedIn3/744000153600155 · role JavaScript Software Engineer - Web Infrastructure → Software Engineer - Web Infrastructure
+- **Abridge** (tier 2) · Member of Technical Staff, Early Career · San Francisco, CA · https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace · location San Francisco, CA (onsite 5 days) → San Francisco, CA
+- **Domino Data Lab** (tier 2) · Forward Deployed Engineer - New Grad, 2027 · New York City, NY · https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530 · location New York City, NY; Remote (US) → New York City, NY
+- **Domino Data Lab** (tier 2) · Software Engineer - New Grad, 2027 · New York City, NY · https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556 · location New York City, NY; Remote (US) → New York City, NY
+- **Affirm** (tier 3) · Software Engineer, Early Career (NYC) · New York, NY · https://job-boards.greenhouse.io/affirm/jobs/8008649003 · role Software Engineer I (New Grad 2027) (NYC) → Software Engineer, Early Career (NYC)
+- **Affirm** (tier 3) · Software Engineer, Early Career (SF) · San Francisco, CA · https://job-boards.greenhouse.io/affirm/jobs/8010617003 · role Software Engineer I (New Grad 2027) (SF) → Software Engineer, Early Career (SF)
+- **Atlassian** (tier 3) · Software Engineer, 2027 Graduate Canada · Burnaby, BC; Richmond, BC; Vancouver, BC · https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job · location Canada (listing gives no city; tracker lists Burnaby, BC; Vancouver, BC) → Burnaby, BC; Richmond, BC; Vancouver, BC
+- **Garner Health** (tier 3) · Associate Software Engineer · New York, NY · https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004 · location New York City, NY → New York, NY
+- **Stripe** (tier 3) · Software Engineer, Early Career — Immediate Start · San Francisco, CA; Seattle, WA; New York, NY · https://stripe.com/jobs/search?gh_jid=8212508 · location New York, NY; Seattle, WA; South San Francisco, CA → San Francisco, CA; Seattle, WA; New York, NY
+- **Stripe** (tier 3) · Software Engineer, New Grad · San Francisco, CA; Seattle, WA; New York, NY · https://stripe.com/jobs/search?gh_jid=8128744 · location New York, NY; Seattle, WA; South San Francisco, CA → San Francisco, CA; Seattle, WA; New York, NY
+- **DV Trading** (tier 4) · Graduate Software Engineer (DV Commodities) · New York, NY · https://job-boards.greenhouse.io/dvtrading/jobs/4719126005 · role 2027 Graduate Software Engineer (DV Commodities) → Graduate Software Engineer (DV Commodities)
+- **Susquehanna International Group (SIG)** (tier 4) · Quantitative Strategy Developer - New Grad · Bala Cynwyd, PA · https://careers-sig.icims.com/jobs/11321/quantitative-strategy-developer---new-grad/job · location Bala Cynwyd (Philadelphia Area), PA → Bala Cynwyd, PA
+- **Susquehanna International Group (SIG)** (tier 4) · Trading System Engineer - New Grad · Bala Cynwyd, PA · https://careers-sig.icims.com/jobs/11349/trading-system-engineer---new-grad/job · location Bala Cynwyd (Philadelphia Area), PA → Bala Cynwyd, PA
+- **AllianceBernstein** (tier 5) · Software Developer · Nashville, TN · https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2 · role Software Developer (Wealth Planning Tools) → Software Developer
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Tech · Palo Alto, CA · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256 · role Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services → Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Palo Alto, CA
+- **American Express** (tier 5) · Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterpri · Phoenix, AZ · https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264 · role Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services → Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Phoenix, AZ
+- **First Citizens BancShares (Silicon Valley Bank, a division of First Citizens Bank)** (tier 5) · Data Engineer I - Data Platform · Raleigh, NC; Remote (hire only in NC, AZ, FL, TX) · https://jobs.firstcitizens.com/jobs/34606 · location Raleigh, NC; remote hire only in NC, AZ, FL, TX → Raleigh, NC; Remote (hire only in NC, AZ, FL, TX)
+- **Global Lending Services** (tier 5) · Data Developer · Greenville, SC (hybrid) · https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238 · location Greenville, SC → Greenville, SC (hybrid)
+- **Global Lending Services** (tier 5) · Software Developer · Greenville, SC (hybrid) · https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c · location Greenville, SC → Greenville, SC (hybrid)
+- **Intercontinental Exchange (ICE)** (tier 5) · Associate Full Stack Developer (Full Stack Developer I) · Jacksonville, FL · https://careers-ice.icims.com/jobs/13433/associate-full-stack-developer/job · role Associate Full Stack Developer → Associate Full Stack Developer (Full Stack Developer I)
+- **Mastercard** (tier 5) · Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US · O'Fallon, MO · https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642 · role Site Reliability Engineer I, Launch Program 2027 - St. Louis, MO, US → Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US
+- **Prelim** (tier 5) · Software Engineer, Product · San Francisco, CA; New York, NY; Chicago, IL; Los Angeles, CA; Seattle, WA; Atla · https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409 · location Remote (US) → San Francisco, CA; New York, NY; Chicago, IL; Los Angeles, CA; Seattle, WA; Atlanta, GA; Austin, TX; Boston, MA; fully remote within continental US
+- **Scotiabank (Bank of Nova Scotia)** (tier 5) · Junior Software Engineer-Global Payments Engineering · Toronto, ON · https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/ · role Junior Software Engineer, Global Payments Engineering → Junior Software Engineer-Global Payments Engineering
+- **TIAA** (tier 5) · 2027 Early Talent Rotational Program: Technology · Charlotte, NC; Dallas, TX · https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Technology_R260900410 · deadline none → 2026-10-08
+- **Vanguard** (tier 5) · Entry Level Application Engineer  - 2027 Start Date · Charlotte, NC · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412 · role Entry Level Application Engineer - 2027 Start Date → Entry Level Application Engineer  - 2027 Start Date; location Charlotte, NC; Malvern, PA; Dallas, TX → Charlotte, NC
+- **Vanguard** (tier 5) · Technology Leadership Program - Application Development (PA) · Malvern, PA · https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Application-Development--PA-_181454 · location Malvern, PA; Charlotte, NC; Dallas, TX → Malvern, PA
+- **Mailchimp** (tier 6) · Software Engineer 1 (Early Career / New College Grad, general posting) · Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA · https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720 · role Software Engineer 1 (New College Grad) → Software Engineer 1 (Early Career / New College Grad, general posting)
+- **Mimecast** (tier 6) · Software Engineer I · Minneapolis, MN · https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1 · role Software Engineer I (Endpoint Sensor) → Software Engineer I
+- **OneStream** (tier 6) · Software Engineer I · United States (remote; no city listed) · https://job-boards.greenhouse.io/onestream/jobs/4425162009 · location United States (Remote; no city listed) → United States (remote; no city listed)
+- **OneStream** (tier 6) · Software Engineer I · United States (remote; no city listed) · https://job-boards.greenhouse.io/onestream/jobs/4425139009 · location United States (Remote; no city listed) → United States (remote; no city listed)
+- **ServiceNow** (tier 6) · Software Engineer (IC2, beginning-career; 2-5 yrs listed) · Santa Clara, CA · https://jobs.smartrecruiters.com/ServiceNow/744000152723759 · role Software Engineer (beginning-career; 2-5 yrs listed) → Software Engineer (IC2, beginning-career; 2-5 yrs listed)
+- **Garmin** (tier 7) · Embedded Software Engineer 1 · Chandler, Arizona · https://careers.garmin.com/jobs/19134?icims=1 · location Chandler, AZ → Chandler, Arizona
+- **Garmin** (tier 7) · Software Engineer 1 · Olathe, Kansas · https://careers.garmin.com/jobs/19695?icims=1 · location Olathe, KS → Olathe, Kansas
+- **Garmin** (tier 7) · Software Engineer 1 (Android) · Yarmouth, Maine · https://careers.garmin.com/jobs/16587?icims=1 · location Yarmouth, ME → Yarmouth, Maine
+- **Garmin** (tier 7) · Software Engineer 1 - Aviation Backend Web · Olathe, Kansas · https://careers.garmin.com/jobs/19142?icims=1 · location Olathe, KS → Olathe, Kansas
+- **Garmin** (tier 7) · Software Engineer 1 - Aviation Core Java · Olathe, Kansas · https://careers.garmin.com/jobs/19098?icims=1 · location Olathe, KS → Olathe, Kansas
+- **Garmin** (tier 7) · Software Engineer 1 - Connect IQ Applications · Olathe, Kansas · https://careers.garmin.com/jobs/18475?icims=1 · location Olathe, KS → Olathe, Kansas
+- **Microchip Technology** (tier 7) · Engineer I-Software Development (C++ QA automation framework) · Houston, TX · https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software-Development_R3961-26 · role Engineer I-Software Development (second req) → Engineer I-Software Development (C++ QA automation framework)
+- **Nutanix** (tier 7) · Software Engineer – Master's New Grad / Bachelor's + 2–3 Years Experience · Vancouver, BC, Canada · https://jobs.jobvite.com/nutanix/job/oZPOAfwW · deadline about 2026-11-04 (page says 40 days from posting; posting first seen 2026-09-25) → about 2026-11-04 (page: 40 days from posting)
+- **Silicon Labs** (tier 7) · Software Engineer I (embedded C/C++ firmware, RAIL team; Master's EE/CE) - embed · Austin, TX · https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1 · role Software Engineer I (embedded C/C++ firmware, RAIL team; Master's EE/CE) → Software Engineer I (embedded C/C++ firmware, RAIL team; Master's EE/CE) - embedded firmware, counted as a software title
+- **Western Digital** (tier 7) · Software Engineer (early career: System Tools / Applications Software Engineerin · San Jose, CA; Irvine, CA; Fremont, CA; Longmont, CO; Colorado Springs, CO; Roche · https://jobs.smartrecruiters.com/WesternDigital/744000138717897 · deadline 2026-10-20 (stated; may close sooner) → 2026-10-20 (anticipated; may close sooner); role Software Engineer (early career development program) → Software Engineer (early career: System Tools / Applications Software Engineering)
+- **Honeywell Aerospace** (tier 8) · Information Systems, Cyber Engineer & Data Science Full Time Employee - Recent G · United States (multiple locations; no city listed) · https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120511 · deadline none → estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)
+- **Honeywell Aerospace** (tier 8) · Software Engineering Full Time Employee - Recent Grad 2027 · United States (multiple locations; no city listed) · https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524 · deadline none → estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)
+- **Epsilon** (tier 9) · Associate, Client Integrations Engineer (New Grad Program; integration engineeri · Chicago, IL · https://careers.publicisgroupe.com/jobs/174428 · role Associate, Client Integrations Engineer (New Grad Program, Entry; integration engineering, borderline SWE) → Associate, Client Integrations Engineer (New Grad Program; integration engineering, borderline SWE)
+- **Indeed** (tier 9) · Software Engineer I · Austin, TX · https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374 · deadline none → 2026-10-04
+- **Lowe's** (tier 9) · Associate Data Engineering - Launchpad · Charlotte, NC · https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02641572 · location Charlotte, NC (Lowe's Charlotte Technology Hub) → Charlotte, NC
+- **Lowe's** (tier 9) · Associate Software Engineer - Launchpad · Charlotte, NC · https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559 · location Charlotte, NC (Lowe's Charlotte Technology Hub) → Charlotte, NC
+- **Redfin (Rocket Companies)** (tier 9) · Software Engineer I · Detroit, MI; Cypress Waters, TX · https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975 · role Software Engineer I (Servicing Technology) → Software Engineer I
+- **SimpliSafe** (tier 9) · Software Engineer I- User Systems · Boston, MA · https://job-boards.greenhouse.io/simplisafe/jobs/8095181 · role Software Engineer I - User Systems → Software Engineer I- User Systems
+- **AHEAD** (tier 10) · Associate ServiceNow Developer · Chicago, IL; Atlanta, GA · https://jobs.lever.co/thinkahead/a599a882-b8af-41b3-82d0-a72dc58524c7 · location Chicago, IL → Chicago, IL; Atlanta, GA
+- **CGI** (tier 10) · Technical Analyst - Entry Level · Knoxville, TN · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1484&BRID=1327481&lang=1 · location Knoxville, TN; Lebanon, VA; Houston, TX (listed under Software Development / Engineering) → Knoxville, TN
+- **Conduent** (tier 10) · Java Developer (Entry Level) · Atlanta, GA, United States · https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22738 · location Atlanta, GA → Atlanta, GA, United States
+- **EPAM Systems** (tier 10) · Junior Android Engineer · Sunnyvale, CA · https://careers.epam.com/en/vacancy/junior-android-engineer-blt0i089vi7bj2ibpdv_en · location Sunnyvale, CA (hybrid) → Sunnyvale, CA
+- **EY** (tier 10) · Back-end .NET Developer · Toronto, ON · https://careers.ey.com/ey/job/Toronto-Back-end-_net-Developer-ON-M5H-0B3/1418865833/ · role Back-end .NET Developer (Toronto, entry-to-mid; no years stated) → Back-end .NET Developer
+- **Huron** (tier 10) · Forward Deployed Engineer Associate (AI Capability Center) · Chicago, IL; Toronto, Canada · https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1 · location Chicago, IL; Toronto, ON, Canada → Chicago, IL; Toronto, Canada
+- **West Monroe** (tier 10) · 2027 Software Engineering (AI Concentration) Consultant · Chicago, IL · https://westmonroe.com/careers/job-details-students?gh_jid=6183016004 · location Chicago, IL; New York, NY; Seattle, WA (separate posting per city) → Chicago, IL
+- **Caterpillar** (tier 11) · Software Engineer · Chicago, IL; Peoria, IL; Irving, TX · https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873 · role Software Engineer (Cat Digital) → Software Engineer
+- **Illinois Tool Works (ITW)** (tier 11) · Software Engineer · Rogers, MN · https://itw.wd5.myworkdayjobs.com/External/job/Rogers---55374/Software-Engineer_JR8874-1 · role Software Engineer (early career, North Star Imaging) → Software Engineer
+- **John Hancock (Manulife)** (tier 11) · Associate Applied AI Engineer – GenAI Systems · Toronto, ON, Canada · https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-2 · location Toronto, ON → Toronto, ON, Canada
+- **Marsh McLennan** (tier 11) · Associate FinOps Engineer · Louisville, KY · https://mmc.wd1.myworkdayjobs.com/mmc/job/Louisville---West-Market/Applications-Developer_R_355944 · location Louisville, KY (hybrid) → Louisville, KY
+- **Optum (UnitedHealth Group)** (tier 11) · Associate Software Engineer · Basking Ridge, NJ; Remote (US) · https://careers.unitedhealthgroup.com/job/basking-ridge/associate-software-engineer/34088/101072065280 · deadline at least 2026-10-06 → at least 2026-10-07
+- **Stanley Black & Decker** (tier 11) · Engineer I, Digital · Towson, MD; Remote (US) · https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830 · location Towson, MD → Towson, MD; Remote (US)
+- **UPMC** (tier 11) · Information Technology Rotation (ITR) Program · Pittsburgh, PA · https://careers.upmc.com/job/23684048/information-technology-rotation-itr-program/ · deadline approx 2026-10-31, or until positions are filled (posting says subject to change) → none; role Information Technology Rotation (ITR) Program (software engineering among rotations; job 260001MI) → Information Technology Rotation (ITR) Program
+- **UPMC** (tier 11) · Information Technology Rotation (ITR) Program- Winter Cohort · Pittsburgh, PA · https://careers.upmc.com/job/23684047/information-technology-rotation-itr-program-winter-cohort/ · deadline approx 2026-10-31, or until positions are filled (posting says subject to change) → none; role Information Technology Rotation (ITR) Program - Winter Cohort (job 260001MH) → Information Technology Rotation (ITR) Program- Winter Cohort
+- **United Airlines** (tier 11) · Associate Software Developer · Houston, TX · https://careers.united.com/us/en/job/HSC00001080/Associate-Software-Developer · deadline none → 2026-10-14
+- **Verizon** (tier 11) · Junior Data Security Engineer · Alpharetta, GA; Remote (US) (posting says remote role) · https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1 · location Alpharetta, GA → Alpharetta, GA; Remote (US) (posting says remote role)
+
+## Reposted under a new link (27)
+
+- **Apple** (tier 1) · Frontend Engineer, EE&P - IS&T Early Career · Austin, TX · https://jobs.apple.com/en-us/details/200676168/frontend-engineer-ee-p-is-t-early-career · was https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career
+- **Apple** (tier 1) · Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportuniti · Austin, TX · https://jobs.apple.com/en-us/details/200677645/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities · was https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities
+- **IBM** (tier 1) · Entry Level Back End Developer - Poughkeepsie, NY - 2027 · Poughkeepsie, NY · https://careers.ibm.com/careers/JobDetail?jobId=130872 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=130872
+- **IBM** (tier 1) · Entry Level Cloud Developer - Chicago, IL - 2027 · Chicago, IL · https://careers.ibm.com/careers/JobDetail?jobId=131212 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=131212
+- **IBM** (tier 1) · Entry Level Software Developer (multiple sites) · Poughkeepsie, NY; Rochester, MN; Tucson, AZ; San Jose, CA; Austin, TX · https://careers.ibm.com/careers/JobDetail?jobId=130369 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=130369
+- **IBM** (tier 1) · Entry Level Software Developer 2027 · Poughkeepsie, NY; Durham, NC · https://careers.ibm.com/careers/JobDetail?jobId=129784 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=129784
+- **IBM** (tier 1) · Entry Level Software Developer 2027 - DURHAM · Durham, NC · https://careers.ibm.com/careers/JobDetail?jobId=133642 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=133630
+- **IBM** (tier 1) · Entry level Backend Developer - San Jose, CA - 2027 · San Jose, CA · https://careers.ibm.com/careers/JobDetail?jobId=131805 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=131805
+- **IBM** (tier 1) · Entry-Level Software Developer 2027 - LOWELL · Lowell, MA · https://careers.ibm.com/careers/JobDetail?jobId=134970 · was https://careers.ibm.com/en_US/careers/JobDetail?jobId=133928
+- **Goldman Sachs** (tier 5) · 2027 | Americas | Bellevue | Engineering | New Analyst · Seattle, WA · https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/180807 · was https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807
+- **Red Hat** (tier 6) · Associate Software Engineer · Raleigh, NC; Boston, MA; Lowell, MA · https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573 · was https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Associate-Software-Engineer_R-059573
+- **SAS Institute** (tier 6) · C Software Developer (Emerging Careers) · Cary, NC · https://globalcareers-sas.icims.com/jobs/42286/job · was https://careers-sas.icims.com/jobs/42286/c-software-developer-%28emerging-careers%29/job
+- **SAS Institute** (tier 6) · Software Developer (Emerging Careers) - Generative AI · Cary, NC · https://globalcareers-sas.icims.com/jobs/42297/job · was https://careers-sas.icims.com/jobs/42297/software-developer-%28emerging-careers%29/job
+- **Corning** (tier 7) · Engineer, Software Developer · Corning, NY · https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/?ats=successfactors · was https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/
+- **Intel** (tier 7) · Foundry Cloud Services Developer · Hillsboro, OR; Phoenix, AZ · https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203 · was https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203
+- **Qualcomm** (tier 7) · Backend Software Engineer (entry-level; not eligible for immigration sponsorship · San Diego, CA · https://qualcomm.eightfold.ai/careers/job/446721162271 · was https://careers.qualcomm.com/careers/job/446721162271
+- **Qualcomm** (tier 7) · Entry Level & Senior Software Engineer, AI Software Platform (Onsite) · San Diego, CA · https://qualcomm.eightfold.ai/careers/job/446718120116 · was https://careers.qualcomm.com/careers/job/446718120116
+- **Qualcomm** (tier 7) · Entry level & Senior Software Engineer, Core AI Software (Onsite) · San Diego, CA · https://qualcomm.eightfold.ai/careers/job/446718018413 · was https://careers.qualcomm.com/careers/job/446718018413
+- **Qualcomm** (tier 7) · Machine Learning Engineer - College Graduate · San Diego, CA · https://qualcomm.eightfold.ai/careers/job/446717859953 · was https://careers.qualcomm.com/careers/job/446717859953
+- **Indeed** (tier 9) · Site Reliability Engineer I · Remote (US) · https://www.indeed.com/cmp/Indeed/jobs?jk=a2e2294a4c0bc885 · was https://www.indeed.com/cmp/Indeed/jobs?q=Software+Engineer+I
+- **CGI** (tier 10) · Software Developer - Entry Level · Austin, TX · https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0826-1503&BRID=1327581&lang=1 · was https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&lang=1&Jobid=J0826-1365&BRID=1326953
+- **Capgemini** (tier 10) · Associate Software Engineer · Nashville, TN · https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/ · was https://careers.capgemini.com/job/Nashville%2C-TN-Associate-Software-Engineer-TN-37201/1444508633/
+- **Capgemini** (tier 10) · Junior Frontend Developer · Atlanta, GA · https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/ · was https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-Frontend-Developer-GA-30301/1435951433/
+- **Kyndryl** (tier 10) · Early Career Consult Program - Associate AI Engineer · Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week) · https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739 · was https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2
+- **Acuity Inc.** (tier 11) · Specialist Data & AI BUILD Program · Atlanta, GA · https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Program-GA-30309/1429285300/ · was https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/
+- **GE Vernova** (tier 11) · AI Engineer · Greenville, SC · https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2 · was https://careers.gevernova.com/ai-engineer/job/R5051916
+- **GE Vernova** (tier 11) · GE Vernova Advanced Research Development Program (Edison, Master's Level) - US 2 · Niskayuna, NY · https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Development-Program--Edison--Master-s-Level----US-2027_R5047236-2 · was https://careers.gevernova.com/ge-vernova-advanced-research-development-program-edison-master-s-level-us-2027/job/R5047236
+
+## Possible reposts: check (4)
+
+- **Microsoft** (tier 1) · Software Engineering IC2 · Redmond, WA · https://apply.careers.microsoft.com/careers/job/1970393557022926 · maybe the same job as "Software Engineering (IC2, #EiP)" · was https://apply.careers.microsoft.com/careers/job/1970393556999325
+- **TD Bank (TD Bank Group)** (tier 5) · Software Engineer I · Toronto, ON, Canada · https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1514704-1 · maybe the same job as "Software Engineer I (Cobol Developer)" · was https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398
+- **Cisco** (tier 7) · Software Engineer II (Full Time) - United States · San Jose, CA; Milpitas, CA · https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-II--Full-Time----United-States_2026694 · maybe the same job as "Software Engineer Embedded Systems I (Full Time) - United St" · was https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1
+- **L3Harris** (tier 8) · Sr Associate, Software Engineer · Salt Lake City, UT · https://careers.l3harris.com/en/job/salt-lake-city/sr-associate-software-engineer/4832/100498294560 · maybe the same job as "Associate, Software Engineer" · was https://jobs.l3harris.com/job/Melbourne-Associate%2C-Software-Engineer-FL-32919/1388173900/
 
 ## Added to the company list (0)
 
@@ -80,5 +681,4 @@ None.
 
 ## Company list edits
 
-- No edits. The unmatched tracker names changed only slightly since the 2026-10-05 review (a few one-to-two-posting names: Teserac, Foundation Health, ZS, UCSF, Innovative Defense Technologies, Southern Star Central Gas Pipeline), all below the reviewed top ~260, and no research file reports a rename, merger or shutdown.
-- Research not refreshed this run: NTT DATA and Tata Consultancy Services (TCS). Their agent was stopped partway at his request; both keep the 2026-10-05 result.
+- No edits. Unmatched tracker names since the 2026-10-06 review show only count shifts among already-reviewed names (Wash U, University of Rochester, Eurofins, Medpace, Watershed …) plus a few new one-posting names (Sigma Design, D'Addario, Provectus, TaxRise), all below the reviewed top ~260. No research file reports a rename, merger or shutdown.

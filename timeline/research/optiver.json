@@ -1,7 +1,6 @@
 {
   "company": "Optiver",
   "tier": 4,
-  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "2027 start",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Graduate Software Engineer (2027 Start)",
@@ -22,7 +24,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "2027 start",
-      "live_verified": "browser"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-01",
@@ -31,6 +36,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/optiverprivate",
   "jobs_spec": "gh:optiverprivate",
-  "evidence": "2026-10-06: optiver.com job list (160 roles) has no US graduate SWE; 2027 Chicago/Austin Graduate SWE (8401042002, 8604899002) return 404 and are absent from gh:optiverprivate. Grad SWE only London/Amsterdam/Sydney; US grad FPGA is hardware. Closed.",
-  "confidence": "medium"
+  "evidence": "2026-10-07: gh:optiverprivate (8 postings) has no SWE grad role; optiver.com pages for 2027 Chicago/Austin Graduate SWE (8401042002, 8604899002) return 404 and are absent from the board. Remaining grad SWE is London. Postings listed are the closed ones.",
+  "confidence": "medium",
+  "checked": "2026-10-07"
 }
