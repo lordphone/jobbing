@@ -1,7 +1,7 @@
 {
   "company": "ID.me",
   "tier": 3,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,17 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating May/June 2027",
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Development Engineer II \u2013 Life Hub (Super App) (New Grad / Early Career)",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
-      "location": "Mountain View, CA",
-      "opened": "2026-10-05",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     },
     {
       "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
@@ -36,11 +26,11 @@
     }
   ],
   "last_cycle_opened": "2025-11-12",
-  "last_cycle_basis": "Tracker history: 'Software Development Engineer' first seen 2025-11-12 on same board https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7031610003",
+  "last_cycle_basis": "Tracker history: Software Development Engineer first seen 2025-11-12 on same university board https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7031610003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/idmeuniversityrecruiting",
   "jobs_spec": "gh:idmeuniversityrecruiting",
-  "evidence": "Greenhouse API 2026-10-05: university board SDE New Grad (graduating May/June 2027, published 2026-09-04, updated 2026-09-30) plus two New Grad / Early Career SWE II roles on idme board (2026-10-05). Pages returned 200; no deadline or sponsorship text.",
+  "evidence": "Opened SDE New Grad page: Apply button live (published 2026-09-04). Developer Portal New Grad/Early Career SWE II listed on idme board. Earlier Life Hub SWE II posting now redirects (gone). No citizenship line found.",
   "confidence": "high"
 }

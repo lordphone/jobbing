@@ -1,8 +1,8 @@
 {
   "company": "Wellington Management",
   "tier": 5,
-  "checked": "2026-10-05",
-  "status": "open",
+  "checked": "2026-10-06",
+  "status": "closed",
   "postings": [
     {
       "title": "Technology Associate",
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (workday startDate 2026-09-10)",
       "deadline": "2026-10-02",
       "grad_window": "Fall 2026 - Summer 2027",
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2026-02",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://wellington.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:wellington/wd5/Campus",
-  "evidence": "Workday Campus (12) 2026-10-05: Technology Associate (Boston) for Fall 2026-Summer 2027 grads, canApply true but posting states apply-by Oct 2, 2026 (passed). No visa sponsorship. May come down soon.",
+  "evidence": "Technology Associate (Boston, Fall 2026-Summer 2027 grads, apply-by 2026-10-02) was open 2026-10-05; on 2026-10-06 the Campus (7) and external boards no longer list it and cxs returns no posting. Apply-by passed; no visa sponsorship.",
   "confidence": "medium"
 }

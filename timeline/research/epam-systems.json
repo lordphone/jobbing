@@ -1,17 +1,17 @@
 {
   "company": "EPAM Systems",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Junior Android Engineer",
       "url": "https://careers.epam.com/en/vacancy/junior-android-engineer-blt0i089vi7bj2ibpdv_en",
-      "location": "Sunnyvale, CA (hybrid, 3 days on-site)",
-      "opened": "unknown (no date on page)",
-      "date_source": "page text (none shown)",
+      "location": "Sunnyvale, CA (hybrid)",
+      "opened": "2026-09-29",
+      "date_source": "epam careers API created_at",
       "deadline": null,
-      "grad_window": "No class year; min 6 months Android production experience",
+      "grad_window": null,
       "live_verified": "browser"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.epam.com/en/jobs/united_states_of_america",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: paged ~190 of 223 US listings; only junior-level title is Junior Android Engineer, Apply live, 'No sponsorship or relocation available'. Needs 6+ months production experience; client site hybrid. Not a campus program; rest are senior/lead.",
-  "confidence": "low"
+  "evidence": "EPAM careers API 2026-10-06 (139 US/Canada postings via multiple queries): only entry-level title is Junior Android Engineer (Sunnyvale, needs 6 months production Android; Apply live; 'No sponsorship'). Rest are Middle/Senior. Weak match, rolling.",
+  "confidence": "medium"
 }

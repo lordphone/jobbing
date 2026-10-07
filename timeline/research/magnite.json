@@ -1,8 +1,8 @@
 {
   "company": "Magnite",
   "tier": 9,
-  "checked": "2026-10-05",
-  "status": "no_program_found",
+  "checked": "2026-10-06",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "jobs.py history: Engineer 1 - Automation and Custom Applications (NYC) first seen 2025-11-03, closed 2026-04; entry Belfast UK roles Oct-Dec 2025",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": "wd:osv-rubicon/wd5/MagniteCareers",
-  "evidence": "Workday CXS API returns 422 and the page is JS-only; browser pane was hijacked by other agents, so I could not read the list. Earlier same-day read of page 1 of 32 reqs showed Engineer II/Senior/Rust (Belfast), no Engineer 1. Aggregators show no live entry US SWE. Board unread in full.",
-  "confidence": "low"
+  "evidence": "Workday CXS (tenant osv_rubicon) 2026-10-06, 35 reqs read: Engineer II (3+ yrs, Broomfield/LA/NY), Senior, Belfast student placements; no US Engineer 1 live. Entry Engineer 1 track existed (NYC 2025-11, closed 2026-04).",
+  "confidence": "high"
 }

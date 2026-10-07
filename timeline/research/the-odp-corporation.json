@@ -1,7 +1,7 @@
 {
   "company": "The ODP Corporation (Office Depot)",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.officedepot.com/search/jobs",
   "jobs_spec": null,
-  "evidence": "careers.officedepot.com browser 2026-10-05: 'software' gives 8 merchandising/HR jobs, none engineering. No entry-level SWE or new-grad track.",
-  "confidence": "medium"
+  "evidence": "careers.officedepot.com is behind Cloudflare and blocked my fetches 2026-10-06. Earlier browser read 2026-10-05 of a 'software' search showed no engineering jobs. Web search shows only SWE internships and a senior SDE. Not re-verified.",
+  "confidence": "low"
 }

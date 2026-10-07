@@ -1,15 +1,15 @@
 {
   "company": "CommScope",
   "tier": 7,
-  "checked": "2026-10-05",
-  "status": "not_yet",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found; Early Careers page lists Global Internship, Global Campus and Graduate Rotational programs with no dates",
+  "last_cycle_basis": "no tracker history or recruiting-page evidence found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.commscope.com/go/Early-Career-jobs/9128600/",
   "jobs_spec": null,
-  "evidence": "SuccessFactors job list read 2026-10-05 (~78 unique listings): software/data developer roles are India (Hyderabad, Goa); US roles are mechanical, electrician, technician, accounting. Early Career page lists internship/campus/rotational programs with no open entry SWE.",
+  "evidence": "SuccessFactors site read 2026-10-06 (WebFetch): early-career page shows only Application Developer, AI (Hyderabad) among software; US 'software' search returns 5 mechanical/PM/CAD roles, 'engineer' search 19 non-software. Programs are global rotational, sales, India new grad.",
   "confidence": "medium"
 }

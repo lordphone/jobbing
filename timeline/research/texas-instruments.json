@@ -1,7 +1,7 @@
 {
   "company": "Texas Instruments",
   "tier": 7,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
       "location": "Richardson, TX",
       "opened": "2026-09-15",
-      "date_source": "oracle ExternalPostedStartDate",
+      "date_source": "oracle posting date (page 09/15/2026)",
       "grad_window": "new college graduates (12-month TMG Development program)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "deadline": null
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:edbz.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (157 postings, --all) plus requisition API 2026-10-05: only live US new-grad software-type role is CAP Data Engineer (Richardson TX, BS EE/CompE, 12-month program); no sponsorship text found, no end date. Tracker SWE dev-program posts (Sep 2026) no longer returned by API. Borderline title.",
+  "evidence": "Oracle board plus page 2026-10-06: CAP Data Engineer (Richardson TX, BS EE/CompE, 12-month new-grad program) shows Apply Now. No sponsorship or citizenship text; page notes 'ECL/GTC Required: Yes' export-control flag. CAP/SDE software posts from Jun and Sep 2026 are gone. Borderline title.",
   "confidence": "medium"
 }

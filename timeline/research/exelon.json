@@ -1,15 +1,15 @@
 {
   "company": "Exelon",
   "tier": 11,
+  "checked": "2026-10-06",
   "status": "no_program_found",
-  "last_cycle_basis": "no tracker history; no new-grad SWE posting found",
-  "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
-  "jobs_spec": null,
-  "evidence": "Exelon careers API 2026-10-05 (software, developer, data engineer, new graduate, 2027, associate, IT): no software developer or data engineer postings; only utility engineering, ServiceNow/Oracle senior IT roles and a 2027 cyber security summer internship.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
   "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history; no new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "last_cycle_opened": null
+  "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
+  "jobs_spec": null,
+  "evidence": "Exelon careers JSON API 2026-10-06 (software, developer, data engineer, graduate, early career, IT category): only utility engineering, Associate Engineer New Graduate, senior IT, and 2027 internships. No SWE new-grad.",
+  "confidence": "high"
 }

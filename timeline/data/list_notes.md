@@ -1,12 +1,2 @@
-- Added Alkami Technology (tier 5): digital-banking software company posting Software Engineer roles (US remote).
-- Added Pattern Data (tier 6): posts "Software Engineer - Entry" roles in Richmond, VA.
-- Added OpenEye (tier 6): cloud video-security software company posting Software Engineer I roles in Liberty Lake, WA.
-- Added Altamira Technologies (tier 8): defense contractor posting Junior Software Engineer roles (Dayton/Wright-Patterson, Augusta, Centennial).
-- Added Scientific Research Corporation (tier 8): defense R&D contractor posting Software Engineer 1 / Software Developer 1 roles in Suffolk, VA and North Charleston, SC.
-- Added QuinStreet (tier 9): performance-marketing company posting Entry Level Software Engineer roles in Foster City, CA.
-- Added Avalore (tier 10): government tech contractor posting Software Engineer and AI/ML Engineer roles in Annapolis Junction, MD and Arlington, VA.
-- Added Agile Defense (tier 10): government IT contractor posting Software Developer 1 roles in Aberdeen, MD.
-- Added Trace3 (tier 10): IT solutions provider posting Software Engineer roles in Colorado Springs.
-- Added NOV (tier 11): oilfield-equipment company posting "Software Engineer - Pathway" roles in Houston.
-- Added tracker override: "1X" → 1X Technologies.
-- Skipped the rest of the top ~260 unmatched names: staffing agencies, universities, hospitals, utilities and engineering firms without software roles, non-US employers (Sainsbury's, Trustpilot, Hawk-Eye, Konrad Group, Sun Life, Intact, Jonas Software, D2L), AI-data gig work (Innodata, Prolific, Welocalize), national labs with only postdoc postings (Brookhaven, Savannah River, Fermilab, National Laboratory of the Rockies), and companies with no entry SWE postings (Xometry, PGIM, Dyna Robotics, X Development, LMI). Solana Labs stays on the list (research still says "largely wound down" but there's no shutdown notice on its own site).
+- No edits. The unmatched tracker names changed only slightly since the 2026-10-05 review (a few one-to-two-posting names: Teserac, Foundation Health, ZS, UCSF, Innovative Defense Technologies, Southern Star Central Gas Pipeline), all below the reviewed top ~260, and no research file reports a rename, merger or shutdown.
+- Research not refreshed this run: NTT DATA and Tata Consultancy Services (TCS). Their agent was stopped partway at his request; both keep the 2026-10-05 result.

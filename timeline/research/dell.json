@@ -1,7 +1,7 @@
 {
   "company": "Dell",
   "tier": 7,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Browser 2026-10-05: posting 298784 (Software Engineer 1 - IT, Round Rock TX, ITDP AI-Native SWE, bachelor's grad Dec 2026/May 2027) shows Apply Now, though absent from list API and no posted date. No sponsorship/citizenship text found. Other 2027 SWE programs are Taipei/Limerick only.",
-  "confidence": "high"
+  "evidence": "Oracle detail API 2026-10-06 still returns req 298784 (Software Engineer 1 - IT, Campus type, TX; grad Dec 2026/May 2027), ApplyWhenNotPostedFlag true, absent from list API. Browser Apply seen 2026-10-05; not re-opened (tab cap). No sponsorship text. Other 2027 programs Taipei/Limerick.",
+  "confidence": "medium"
 }

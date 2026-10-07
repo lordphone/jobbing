@@ -1,7 +1,7 @@
 {
   "company": "Edward Jones",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.edwardjones.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: keyword 'software engineer' gives 9 HQ results, all Engineer II-IV/senior/architect (Engineer II mid-level). Earlier 2026-10-02 Students & Recent Grads check: business rotational program and internships, no SWE. Browser pane contention prevented a re-check of that filter.",
-  "confidence": "medium"
+  "evidence": "Job board is JS-rendered; browser pane unavailable (tab cap) and WebFetch truncated 2026-10-06. Web search of careers.edwardjones.com shows only Engineer III/IV roles. 2026-10-05 browser check: 9 HQ results, all II-IV/senior. No entry SWE seen.",
+  "confidence": "low"
 }

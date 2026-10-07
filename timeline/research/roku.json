@@ -1,9 +1,6 @@
 {
   "company": "Roku",
   "tier": 9,
-  "checked": "2026-10-05",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "status": "open",
   "postings": [
     {
@@ -14,7 +11,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer, Early Careers AI/UI",
@@ -24,13 +21,16 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no US new-grad SWE posting in tracker history; only UK roles (Cambridge UK 2025-11-20)",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roku",
   "jobs_spec": "gh:roku",
-  "evidence": "Greenhouse API and both posting pages in browser 2026-10-05: Apply shown, early-careers SWE (up to 3-4 yrs), San Jose. Text says 'We are not able to sponsor visas for this role', so no_sponsorship true.",
-  "confidence": "high"
+  "evidence": "Greenhouse API and detail 2026-10-06: both Early Careers SWE postings listed, updated 2026-10-06, San Jose. Text says 'We are not able to sponsor visas for this role', so no_sponsorship true. Other SWE postings ask 2+ years.",
+  "confidence": "high",
+  "checked": "2026-10-06"
 }

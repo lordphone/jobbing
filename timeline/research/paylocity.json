@@ -1,7 +1,7 @@
 {
   "company": "Paylocity",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-09-25",
       "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
-      "grad_window": "Graduated within the last 12 months",
+      "grad_window": "Graduated within the last 12 months (no class year)",
       "live_verified": "browser"
     }
   ],
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
   "jobs_spec": null,
-  "evidence": "2026-10-05: fetched posting 47607 on 2000recruiting.paylocity.com; Apply button live, JSON-LD datePosted 2026-09-25, Pittsford NY, for grads within last 12 months, no sponsorship text. Prior Associate SWE ids 42240/41451 are gone. Full listing not enumerable (Cloudflare).",
+  "evidence": "all-listings search 'engineer' (33 results) 2026-10-06: Associate Engineer Software 47607 (AI Labs, Pittsford NY) listed with Apply Now, posted 2026-09-25, wants graduate within last 12 months; no class year. Other engineers senior or Guadalajara.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Wise",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -11,8 +11,8 @@
       "opened": "2026-09-22",
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
-      "grad_window": "graduating 2026 or 2027",
-      "live_verified": "browser"
+      "grad_window": "Graduating 2026 or 2027",
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/Wise",
   "jobs_spec": "sr:Wise",
-  "evidence": "Austin Graduate Software Engineer (released 2026-09-22): page opened in browser 2026-10-05 says 'This job has expired'; absent from live board. Requires US work authorization, no sponsorship. No other US entry-level SWE.",
+  "evidence": "Austin Graduate Software Engineer (released 2026-09-22): posting page says job expired (WebFetch 2026-10-06); absent from live SmartRecruiters board (405). Requires US work authorization, no sponsorship. No other US entry-level SWE.",
   "confidence": "high"
 }

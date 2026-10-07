@@ -1,15 +1,15 @@
 {
   "company": "Dyson",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US software new-grad posting found; tracker history has none; US early-careers page https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states lists no software track",
+  "last_cycle_basis": "no tracker history; US early-careers page https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states lists no software track",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.dyson.com/en-gb/search-results?keywords=software+engineer&location=united+states",
+  "jobs_page": "https://careers.dyson.com/en-gb/search-results/?countries=1440",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: keyword/US URL filters still not applied (460 global jobs, none US SWE seen); US early-careers page lists marketing, sales, finance, direct, supply chain only; no US SWE grad track.",
+  "evidence": "Browser 2026-10-06 on careers.dyson.com with US (34 jobs) and Canada (9) country filters; keyword searches (software, data, graduate, machine learning, embedded, early careers) returned 0 US/Canada hits. Roles are retail, supply chain, compliance, HR. Engineering grad programs are UK/Asia.",
   "confidence": "medium"
 }

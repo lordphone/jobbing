@@ -1,15 +1,15 @@
 {
   "company": "Axon Enterprise",
-  "tier": 8,
-  "checked": "2026-10-05",
-  "status": "closed",
+  "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-08-28",
-  "last_cycle_basis": "evergreen Embedded Software Engineer I first_published 2025-08-28 (Greenhouse, now 404); tracker 2026 SWE 1 postings Seattle all closed",
+  "last_cycle_basis": "tracker first seen 2025-08-28 (SWE I); Axon also posted many Software Engineer 1 roles Feb-Jun 2026 (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/axon",
   "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse API 2026-10-05 (493 jobs): Embedded SWE I (6289451003) now 404/redirects. Remaining US roles are QA Engineer I (Axon VR), Sr/II level or SRE; Graduate SWE roles are Vietnam/Australia only. No live qualifying US posting.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-06 (493 jobs): no live US SWE I. Only Software QA Engineer I (Seattle, test role, not counted); SWE I/Graduate SWE roles are Vietnam/Romania/Australia/UK. Old Embedded SWE I 6289451003 redirects to list; ID suggests 2025 posting.",
+  "confidence": "medium",
+  "checked": "2026-10-06",
+  "tier": 8
 }

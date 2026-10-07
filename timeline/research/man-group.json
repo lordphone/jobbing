@@ -1,26 +1,26 @@
 {
   "company": "Man Group",
   "tier": 4,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
       "title": "Technology Rotational Program - Associate Engineer",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
-      "location": "Boston, MA (posting lists Massachusetts)",
+      "location": "Boston, MA",
       "opened": "2026-09-24",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Join Summer 2027; currently studying for a degree",
-      "live_verified": "api"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "tracker first seen: Technology Rotational Program - Associate Engineer (Boston) 2025-11-13",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/mangroup",
+  "jobs_page": "https://job-boards.eu.greenhouse.io/mangroup",
   "jobs_spec": "gh:mangroup",
-  "evidence": "Technology Rotational Program - Associate Engineer (Boston, first seen 2026-09-24) is gone: page redirects to board with error=true, API 404, absent from 55-job list. No other US entry SWE (Junior Quant MBS is quant).",
+  "evidence": "Technology Rotational Program - Associate Engineer (Boston, first seen 2026-09-24) is gone: API 404, absent from the 54-job board list, posting URL shows only the job list. No other US entry SWE (Junior Quant MBS is quant). Browser pane unavailable; page check via WebFetch.",
   "confidence": "medium"
 }

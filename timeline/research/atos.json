@@ -1,15 +1,15 @@
 {
   "company": "Atos",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows only UK graduate roles and US analyst/engineer roles (2026-02 to 2026-07), none new-grad SWE",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.atos.net/search/?q=&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05, jobs.atos.net US search (99, mostly UK): only junior US title is Junior NOC Analyst (ops). AI Engineer (Troy) is advanced MLOps/GKE; Application Developer (Phoenix) asks 5+ yrs. 2027 degree apprenticeship is UK. No US new-grad SWE.",
+  "evidence": "jobs.atos.net US search 2026-10-06 via WebFetch (~10 US roles of 47): only junior title is Junior NOC Analyst (ops). AI Engineer (Troy) and architects are experienced. No entry SWE; US operations small.",
   "confidence": "medium"
 }

@@ -8,8 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/commvault",
   "jobs_spec": "gh:commvault",
-  "evidence": "Greenhouse API 2026-10-05 (56 postings): no entry SWE in US. Entry-Level SWE AI/ML (5233620008) and SWE AI/ML Tinton Falls (5233623008) return 404 from the board API, gone.",
+  "evidence": "Greenhouse API 2026-10-06: 57 postings, no US entry SWE. Entry-Level SWE AI/ML (5233620008, first seen 2026-07-16) and SWE AI/ML Tinton Falls (5233623008) redirect to the board with error=true, so closed.",
   "confidence": "medium",
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "tier": 6
 }

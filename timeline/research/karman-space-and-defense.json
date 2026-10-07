@@ -1,15 +1,15 @@
 {
   "company": "Karman Space & Defense",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Karman.",
+  "last_cycle_basis": "No tracker history; no software new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://karman-sd.com/job-openings/",
   "jobs_spec": null,
-  "evidence": "Job list is an ADP WorkforceNow widget behind Cloudflare; this run could not re-read it. Earlier first-party read found 237 openings, all manufacturing, Development Engineer I-III or business roles, no software titles. Kept; retry to confirm.",
-  "confidence": "low"
+  "evidence": "Job list is an ADP WorkforceNow widget (cid 82153303-7d5a-4833-b767-9cb13d965e09). Read all 241 postings via its public requisitions JSON: none has software, ML or data engineer in the title; entry roles are mechanical, design, quality and technician. No citizenship line checked.",
+  "confidence": "high"
 }

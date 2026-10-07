@@ -1,15 +1,15 @@
 {
   "company": "Zendesk",
   "tier": 6,
-  "checked": "2026-10-05",
-  "status": "not_yet",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for Zendesk (0 postings).",
+  "last_cycle_basis": "No tracker history.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://zendesk.wd1.myworkdayjobs.com/zendesk",
   "jobs_spec": "wd:zendesk/wd1/zendesk",
-  "evidence": "Workday --all 2026-10-05 (12 postings): no US entry SWE; SWE II only Krakow, Staff in Pune. No tracker history.",
+  "evidence": "Workday cxs paged 2026-10-06 (128 total, flaky): no US entry SWE; engineers are Krakow ML, Singapore FDE; US intern roles are finance/ops. No program.",
   "confidence": "medium"
 }

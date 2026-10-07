@@ -1,26 +1,26 @@
 {
   "company": "Renaissance Technologies",
   "tier": 4,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Data Programmer",
       "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=dataProgrammer",
       "location": "East Setauket, NY",
-      "opened": "on or before 2026-10-05",
+      "opened": "on or before 2026-10-06",
       "date_source": "page text (evergreen, no date shown)",
       "deadline": null,
-      "grad_window": "None stated; application form asks graduation year",
-      "live_verified": "browser"
+      "grad_window": "None stated",
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2026-01-06",
-  "last_cycle_basis": "tracker_last_cycle 2026-01-06 (from earlier research; not re-confirmed)",
+  "last_cycle_basis": "tracker_last_cycle 2026-01-06 (earlier research; not re-confirmed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.rentec.com/Careers.action?jobs=true",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: 13 evergreen roles; Data Programmer shows Apply Now, asks degree and strong academic record, no experience or citizenship line. Not labeled new grad or entry-level, so open is a judgment call. Research/Infra/Real-Time Programmer pages likewise list no years. No deadline.",
+  "evidence": "WebFetch 2026-10-06: 13 evergreen roles; Data Programmer shows Apply Now, asks degree and outstanding academic record, no years, citizenship or sponsorship line. Not labeled new grad, so open is a judgment call. Browser pane was unavailable today; 2026-10-05 browser check agreed.",
   "confidence": "low"
 }

@@ -1,7 +1,5 @@
 {
   "company": "Zipline",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +8,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/flyzipline",
   "jobs_spec": "gh:flyzipline",
-  "evidence": "gh:flyzipline (349, --all, 2026-10-05): SWE roles ask 3-5+ yrs or are unleveled senior-style (Airspace Platform, Embedded Validation); only Spring/Summer 2027 interns are entry-level. No new-grad full-time SWE.",
-  "confidence": "medium"
+  "evidence": "gh:flyzipline --all 2026-10-06 with full text: SWE roles ask 3-5+ yrs or are unleveled senior-style (Airspace Platform, Embedded Validation); only Spring/Summer 2027 interns are entry-level. No full-time new-grad SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-06",
+  "tier": 8
 }

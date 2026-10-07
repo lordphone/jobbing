@@ -1,7 +1,7 @@
 {
   "company": "Ibotta",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ashby board (45, --all) 2026-10-05: only SWE Intern, Data Eng Intern, Data Engineer, Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) shows 'Job not found' in browser and null from Ashby API: gone, so closed.",
-  "confidence": "high"
+  "evidence": "Ashby (51 postings) 2026-10-06: only SWE Intern, Data Eng Intern, Data Engineer, Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) is gone from the board and Ashby returns null for it.",
+  "confidence": "medium"
 }

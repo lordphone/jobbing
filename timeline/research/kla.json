@@ -1,7 +1,7 @@
 {
   "company": "KLA",
   "tier": 7,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -10,7 +10,7 @@
       "location": "Ann Arbor, MI",
       "opened": "2026-09-21",
       "date_source": "tracker first seen (Workday startDate 2026-09-22)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "deadline": null,
       "grad_window": null
     },
@@ -22,7 +22,7 @@
       "date_source": "tracker first seen (Workday startDate 2026-09-30)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-06-29",
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://kla.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:kla/wd1/Search",
-  "evidence": "Search and annarbor Workday sites 2026-10-05: Engr, Software 2 (4 reqs; MS 0 yrs or BS 1 yr) and Engr, Software 1 (BS 0 yrs; Workday timeType part-time) live in Ann Arbor via API, no citizenship/sponsorship text, no end date; not labeled new grad. Milpitas has only interns and senior SWE.",
+  "evidence": "Browser 2026-10-06: Engr, Software 2 (Full time, MS 0 yrs or BS 1 yr) and Engr, Software 1 (BS, 0 yrs; Part time) in Ann Arbor both show Apply; no citizenship/sponsorship text, no end date. Not labeled new grad. Search board lists only senior SWE in Milpitas.",
   "confidence": "medium"
 }

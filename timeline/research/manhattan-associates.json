@@ -1,5 +1,7 @@
 {
   "company": "Manhattan Associates",
+  "tier": 6,
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -8,8 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://manh.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:manh/wd5/External",
-  "evidence": "Workday API 2026-10-05 (--all, 15 postings): only associate roles are Paris consultants; US roles are non-SWE (HR, IT architect). No US/Toronto/Vancouver entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
-  "tier": 6
+  "evidence": "Workday API 2026-10-06 (--all, 16 postings): only associate role is Paris Technology Associate Consultant; US roles non-SWE. No US/Toronto/Vancouver entry SWE.",
+  "confidence": "medium"
 }

@@ -1,26 +1,26 @@
 {
   "company": "ExxonMobil",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Students Seeking Full-Time Employment in Trading (track: Trading Data, Analytics and AI - data engineering, software development, data science)",
+      "title": "Students Seeking Full-Time Employment in Trading (track: Trading Data, Analytics and AI)",
       "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
-      "location": "Spring, TX (Houston area)",
-      "opened": "2026-09-08",
-      "date_source": "page text (datePosted meta), posting page shows Apply now",
+      "location": "Spring, TX",
+      "opened": "2026-08-10",
+      "date_source": "tracker first seen (careers site lists it as Sep 8, 2026)",
       "deadline": null,
       "grad_window": "graduating 2026/2027 or within last three years",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "tracker first-seen: 'Engineering Students Seeking Full-Time Employment' (generic engineering, not SWE-specific), 2025-10-31",
+  "last_cycle_basis": "tracker history: 'Engineering Students Seeking Full-Time Employment' (generic engineering, not SWE-specific) first seen 2025-10-31; 'New Grad: Software Developer' Calgary 2025-01-01",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.exxonmobil.com/search-jobs",
+  "jobs_page": "https://jobs.exxonmobil.com/search/",
   "jobs_spec": null,
-  "evidence": "jobs.exxonmobil.com posting page fetched 2026-10-05: Global Trading students-seeking-full-time posting (Apply now, grads 2026/2027 or within 3 yrs) includes a Trading Data, Analytics and AI track (software dev/data engineering). Track-level, not pure SWE, so medium. No SWE-specific entry roles in search; others experienced-hire.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-06: posting 1417890600 page loads with Apply now; the Trading Data, Analytics and AI (Trading Fusion) track does data engineering, software development and AI work, Python/C#/SQL. Other US tech roles are experienced (Sr. Fullstack Developer, HPC). Track is within a trading program, so borderline SWE.",
+  "confidence": "low"
 }

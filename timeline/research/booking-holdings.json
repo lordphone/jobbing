@@ -1,7 +1,6 @@
 {
   "company": "Booking Holdings",
   "tier": 9,
-  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -16,11 +15,12 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no Booking Holdings new-grad SWE history found; KAYAK Associate Software Engineer (MA) first seen 2026-07-20, now closed; Priceline Associate Data Developer Toronto 2026-04-27",
+  "last_cycle_basis": "no Booking Holdings new-grad SWE history found; KAYAK Associate Software Engineer (MA) first seen 2026-07-20, no longer on Ashby board; Priceline Associate Data Developer Toronto 2026-04-27",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://priceline.wd1.myworkdayjobs.com/priceline",
   "jobs_spec": "wd:priceline/wd1/priceline",
-  "evidence": "Priceline Workday API 2026-10-05: Associate Java Developer (Associate Software Engineer - Java) Toronto live, canApply true, 2+ yrs Core Java, no deadline. Other Toronto dev roles are non-entry. OpenTable board: only IT System Engineer I; KAYAK board has no entry SWE.",
-  "confidence": "medium"
+  "evidence": "Priceline Workday API search/detail 2026-10-06: Associate Java Developer Toronto still listed (2+ yrs Core Java, no deadline). Other Toronto dev roles are 4-5+ yrs; Mumbai associate SWE out of scope. KAYAK board no entry SWE; OpenTable only System Engineer I (Toronto, IT).",
+  "confidence": "medium",
+  "checked": "2026-10-06"
 }

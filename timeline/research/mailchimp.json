@@ -1,7 +1,7 @@
 {
   "company": "Mailchimp",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "Mailchimp posts on Intuit's board. Intuit SWE 1 (New College Grad) page fetched 2026-10-05 shows Apply Now, no sponsorship/citizenship text; evergreen, Intuit-wide, not Mailchimp-tagged (Atlanta included).",
+  "evidence": "Intuit page fetched 2026-10-06 shows Apply Now, New College Grad category, no sponsorship/citizenship text; evergreen Intuit-wide, not Mailchimp-tagged (Atlanta included). Fetched by plain request, not browser; page also shows datePosted 2026-02-09.",
   "confidence": "medium"
 }

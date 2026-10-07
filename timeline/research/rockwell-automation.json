@@ -1,7 +1,7 @@
 {
   "company": "Rockwell Automation",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/EDGE-Associate--Information-Technology-Rotational-Program_R26-5375-1",
       "location": "Milwaukee, WI",
       "opened": "2026-09-10",
-      "date_source": "workday startDate (postedOn: Posted 25 Days Ago)",
+      "date_source": "workday startDate (Posted 26 Days Ago)",
       "deadline": null,
-      "grad_window": "Graduating or graduated before ~June/July 2027 start",
+      "grad_window": "Graduating or graduated before ~Jun/Jul 2027 start (Dec 2026 or Spring 2027 preferred)",
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-13",
-  "last_cycle_basis": "jobs.py history: 'Associate Engineer Embedded Software' (Mayfield Heights, OH), first seen 2025-11-13",
+  "last_cycle_basis": "jobs.py history: Associate Engineer Embedded Software (Mayfield Heights, OH) first seen 2025-11-13",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
   "jobs_spec": "wd:rockwellautomation/wd1/External_Rockwell_Automation",
-  "evidence": "Workday board (89) + detail 2026-10-05: EDGE IT Rotational Program (application dev, data/AI, cloud rotations) live, graduating before ~Jun/Jul 2027, 'will not sponsor... now or anytime', no end date. Other US software roles (Software Engineer, C++) not entry-titled; AI SWE intern/co-op only.",
+  "evidence": "Workday API + detail: EDGE IT rotation (application dev, data/AI, cloud rotations) canApply true, no end date; \"will not sponsor now or anytime\". Other Rockwell programs are LDP engineering; SWE otherwise interns.",
   "confidence": "medium"
 }

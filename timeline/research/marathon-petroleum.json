@@ -1,7 +1,7 @@
 {
   "company": "Marathon Petroleum",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
   "jobs_spec": "wd:mpc/wd1/MPCCareers",
-  "evidence": "Workday --all 2026-10-05 (51): only interns/co-ops and senior SWE/data roles. Browser 2026-10-05: Associate Software Engineer page says 'The page you are looking for doesn't exist'; absent from board.",
+  "evidence": "Workday --all 2026-10-06 (137): only interns/co-ops, senior SWE/data, an intern-to-FT business systems analyst; Associate Software Engineer (req 23623) absent from board and cxs detail returns not-found error (browser page hit a bot check).",
   "confidence": "high"
 }

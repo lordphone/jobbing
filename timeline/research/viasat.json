@@ -1,5 +1,7 @@
 {
   "company": "Viasat",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -16,11 +18,9 @@
   "last_cycle_opened": "2025-06-07",
   "last_cycle_basis": "tracker first seen: Full Stack Software Engineer, Early Career (Carlsbad, CA; Remote) https://careers.viasat.com/jobs/4457",
   "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-05: only US early-career SWE (6723, 0-3 yrs) says it requires U.S. Citizenship and an active SECRET or TOP SECRET clearance. Other US SWE roles need 2+ to 5+ yrs or clearance; Data Engineer Early Career is London.",
-  "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-05",
-  "no_sponsorship": false
+  "evidence": "Jibe API 2026-10-06: only US early-career SWE (6723, 0-3 yrs) says 'This position requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Other US SWE roles need 2+ to 5+ yrs or clearance; Data Engineer Early Career is London.",
+  "confidence": "high"
 }

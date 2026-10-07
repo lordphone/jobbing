@@ -1,15 +1,26 @@
 {
   "company": "Astera Labs",
   "tier": 7,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Applied AI NCG (Non Silicon)",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
+      "location": "San Jose, CA",
+      "opened": "2026-09-15",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "degree completed recently or expected by start of role",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/asteralabs",
-  "jobs_spec": "gh:asteralabs",
-  "evidence": "Greenhouse API 2026-10-05: no entry/new-grad SWE in US/Canada; US software roles are Senior/Tech Lead (embedded, firmware, AI for RTL) and Vancouver Senior tools. No tracker history.",
-  "confidence": "high"
+  "jobs_page": "https://job-boards.greenhouse.io/asteraearlycareer2027",
+  "jobs_spec": "gh:asteraearlycareer2027",
+  "evidence": "Separate early-career board asteraearlycareer2027 (82 postings, API 2026-10-06, page 200): Applied AI NCG (Non Silicon) is new-grad ML/GenAI/full-stack software role, San Jose; no citizenship/sponsorship text, no deadline. Main board gh:asteralabs has no entry SWE. Others are interns/hardware.",
+  "confidence": "medium"
 }

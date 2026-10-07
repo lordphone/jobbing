@@ -1,6 +1,7 @@
 {
   "company": "Wolverine Trading",
   "tier": 4,
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
       "location": "Chicago, IL",
       "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "date_source": "page text (JobPosting datePosted)",
       "deadline": null,
       "grad_window": "Spring 2027",
       "live_verified": "browser"
@@ -17,8 +18,8 @@
       "title": "Entry Level C++ Software Engineer",
       "url": "https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8",
       "location": "Chicago, IL",
-      "opened": "2026-09-18",
-      "date_source": "tracker first seen",
+      "opened": "2026-08-14",
+      "date_source": "page text (JobPosting datePosted)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
@@ -28,7 +29,7 @@
       "url": "https://careers.wolve.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e",
       "location": "Chicago, IL",
       "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "date_source": "page text (JobPosting datePosted)",
       "deadline": null,
       "grad_window": "December 2026",
       "live_verified": "browser"
@@ -40,7 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.wolve.com/",
   "jobs_spec": "pinpoint:wolve",
-  "evidence": "Pinpoint API 2026-10-05 lists all three; pages fetched with Apply Now, no deadline. Postings state only candidates authorized to work in the US without sponsorship now or later are considered.",
-  "confidence": "high",
-  "checked": "2026-10-05"
+  "evidence": "Pinpoint API 2026-10-06 lists all three; pages fetched with Apply Now, no deadline. Each states only candidates authorized to work in the US without sponsorship now or in the future are considered.",
+  "confidence": "high"
 }

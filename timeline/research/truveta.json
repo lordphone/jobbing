@@ -1,7 +1,7 @@
 {
   "company": "Truveta",
   "tier": 3,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer - Clinical Analytics",
@@ -22,7 +22,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-09",
@@ -31,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/truveta",
   "jobs_spec": "gh:truveta",
-  "evidence": "Greenhouse API and posting pages 2026-10-05: Apply buttons live; both say 'seeking enthusiastic new graduates', list 2-3+ yrs (not disqualifying); no visa sponsorship. Seattle only.",
+  "evidence": "Greenhouse API and detail 2026-10-06: both Seattle SWE postings say 'seeking enthusiastic new graduates' (2-3+ yrs listed, not disqualifying) and 'unable to sponsor work visas'. Listed live on board; Apply page not opened.",
   "confidence": "medium"
 }

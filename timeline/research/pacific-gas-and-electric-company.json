@@ -1,7 +1,7 @@
 {
   "company": "Pacific Gas and Electric Company (PG&E)",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://jobs.pge.com/job/oakland/product-engineer-associate/29673/101372166400",
       "location": "Oakland, CA",
       "opened": "2026-09-30",
-      "date_source": "page metadata datePosted 2026-09-30 (earlier check); tracker first seen same",
+      "date_source": "tracker first seen (page shows no date)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-11-12",
-  "last_cycle_basis": "jobs.py history: 'AI and Automation Programmer Analyst, Associate' (Oakland CA), first seen 2025-11-12; other associate data/programmer roles posted ad hoc Apr-Jun 2026",
+  "last_cycle_basis": "jobs.py history: AI and Automation Programmer Analyst, Associate (Oakland CA) first seen 2025-11-12",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.pge.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05 jobs.pge.com 'software' search: Product Engineer, Associate (req 174349, IT Integration Platforms; mobile/full-stack/API/MuleSoft) is the only entry role; posting page open with I'm Interested button; no deadline stated.",
-  "confidence": "high"
+  "evidence": "jobs.pge.com search \"software\" (30) and \"associate\" (58): Product Engineer, Associate (req 174349) is entry IT role (mobile, REST API, BS CS); page has Apply, no deadline or sponsorship text. Others senior/expert.",
+  "confidence": "medium"
 }

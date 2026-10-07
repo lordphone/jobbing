@@ -1,7 +1,7 @@
 {
   "company": "Federal Reserve System",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://rb.wd5.myworkdayjobs.com/FRS",
   "jobs_spec": "wd:rb/wd5/FRS",
-  "evidence": "Workday API --all 2026-10-05: no entry FT SWE (2027 interns; Advanced Software Engineer, CADRE Data/SWE). CADRE posting: 'United States citizenship or lawful permanent resident alien status'; no sponsorship.",
-  "confidence": "medium"
+  "evidence": "Workday API --all 2026-10-06 (93): 2027 interns; AI Solutions Engineer - Associate (Richmond) says 'Candidates must be U.S. citizen or lawful permanent resident' and no sponsorship; CADRE and Advanced SWE similar/senior.",
+  "confidence": "high"
 }

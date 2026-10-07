@@ -1,78 +1,86 @@
 {
   "company": "L3Harris",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "open",
   "postings": [
+    {
+      "title": "Associate, Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate%2C-Software-Engineer-FL-32919/1388173900/",
+      "location": "Melbourne, FL",
+      "opened": "2026-10-06",
+      "date_source": "page text (datePosted metadata)",
+      "deadline": "2026-10-13",
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
+    },
+    {
+      "title": "Associate, Software Engineer 1",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate%2C-Software-Engineer-1-FL-32919/1416023200/",
+      "location": "Melbourne, FL",
+      "opened": "2026-08-05",
+      "date_source": "page text (datePosted metadata)",
+      "deadline": "2026-10-14",
+      "grad_window": "pursuing or completed Master's degree within last 12 months (no class year)",
+      "live_verified": "browser"
+    },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate%2C-Software-Engineer-UT-84116/1429205000/",
       "location": "Salt Lake City, UT",
       "opened": "2026-09-11",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-11-02",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
     },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/Clifton-Associate%2C-Software-Engineer-NJ-07014/1434794500/",
       "location": "Clifton, NJ",
       "opened": "2026-09-29",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-10-16",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
     },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/Richardson-Associate%2C-Software-Engineer-TX-75080/1435709900/",
       "location": "Richardson, TX",
       "opened": "2026-10-01",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-10-10",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's/Master's/PhD degree within last 12 months (no class year)",
+      "live_verified": "browser"
     },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate%2C-Software-Engineer-CA-92887/1434953800/",
       "location": "Yorba Linda, CA",
       "opened": "2026-09-29",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-10-10",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
     },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/San-Diego-Associate%2C-Software-Engineer-CA-92123/1429222700/",
       "location": "San Diego, CA",
       "opened": "2026-09-11",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-11-02",
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
     },
     {
       "title": "Associate, Software Engineer",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate%2C-Software-Engineer-FL-32905/1435324600/",
       "location": "Palm Bay, FL",
       "opened": "2026-09-30",
-      "date_source": "page datePosted",
+      "date_source": "page text (datePosted metadata)",
       "deadline": "2026-10-08",
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Engineering Leadership Development Program - Software Engineer (Various Locations)",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-%28Various-Locations%29-FL-32919/1426639800/",
-      "location": "Melbourne, FL (various locations; no other city listed)",
-      "opened": "2026-10-02",
-      "date_source": "page datePosted",
-      "deadline": "2026-11-01",
-      "grad_window": "Bachelor's in progress or completed within last 12 months",
-      "live_verified": "api"
+      "grad_window": "pursuing or completed Bachelor's degree within last 12 months (no class year)",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-11-23",
@@ -81,6 +89,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.l3harris.com",
   "jobs_spec": null,
-  "evidence": "jobs.l3harris.com 2026-10-05 (page fetch): all six Associate SWE postings and ELDP SWE show Apply now; datePosted/validThrough from page metadata. Page text has no citizenship, clearance or ITAR wording (checked all). Deadlines are page validThrough.",
-  "confidence": "medium"
+  "evidence": "jobs.l3harris.com pages fetched 2026-10-06: 8 live Associate Software Engineer new-grad postings with Apply now and validThrough dates; no citizenship, clearance or ITAR wording on them. Several others (Chantilly, Reston) now say position filled.",
+  "confidence": "high",
+  "checked": "2026-10-06",
+  "tier": 8
 }

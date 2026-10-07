@@ -1,17 +1,26 @@
 {
   "company": "Sandia National Laboratories",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
-    {"title": "Early Career Computer Scientist - Remote Sensing Systems, Onsite", "url": "https://sandia.jobs/albuquerque-nm/early-career-computer-scientist-remote-sensing-systems-onsite/B206B9F335F04926B1F94221B7139A87/job/", "location": "Albuquerque, NM", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "no"}
+    {
+      "title": "Early Career Computer Science - Satellite Ground Stations, Onsite",
+      "url": "https://sandia.jobs/albuquerque-nm/early-career-computer-science-satellite-ground-stations-onsite/9061B767C0F34A1C8F50B3416A51BCEA/job/",
+      "location": "Albuquerque, NM",
+      "opened": "on or before 2026-10-06",
+      "date_source": "sitemap listing (no posted date on page)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Sandia",
+  "last_cycle_basis": "No tracker history for Sandia; no dated last-cycle posting found",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://sandia.jobs",
   "jobs_spec": null,
-  "evidence": "sandia.jobs sitemap (184 jobs) 2026-10-05 lists several Early Career computer science roles (Remote Sensing Systems, Space Grounds Systems, Satellite Ground Stations, Software Development Testing). Sandia postings state applicants must be 'able to obtain and maintain a DOE Q-level security clearance and SCI access, both of which require US citizenship'. Posting body is JS-rendered; not opened directly this run.",
-  "confidence": "medium"
+  "evidence": "sandia.jobs sitemap (184 jobs) + posting page in browser 2026-10-06: Early Career Computer Science role (Bachelor's) says 'Ability to obtain and maintain DOE Q and SCI clearances which may require a polygraph test'; Early Career entries are Albuquerque.",
+  "confidence": "high"
 }

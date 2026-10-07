@@ -1,7 +1,7 @@
 {
   "company": "Walgreens",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (page data shows 30-Jun-2026 field, meaning unclear)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://sjobs.brassring.com",
   "jobs_spec": null,
-  "evidence": "Opened posting in browser pane 2026-10-05: Software Engineer I (Full Stack) Java, req 1810437BR, Deerfield IL hybrid, 'Apply to job' present; 'Work visa sponsorship is not available'. Bachelor's CS (or HS + 4 yrs), entry level, not labeled new grad.",
-  "confidence": "high"
+  "evidence": "Raw page fetch 2026-10-06 of req 1810437BR (Deerfield IL hybrid): embedded job data isActive true; 'expired' text is only a hidden template. 'Work visa sponsorship is not available'. Entry level, not labeled new grad. Browser pane unavailable, so Apply button not seen.",
+  "confidence": "medium"
 }

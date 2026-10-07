@@ -1,7 +1,7 @@
 {
   "company": "American Airlines",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "jobs.aa.com returned 403 to WebFetch/curl and the shared browser pane was unusable this run, so no fresh read. Earlier same-day browser read (kept): searches showed only Engineer/Sr, Manager, non-tech roles; no ADEPT/new-grad posting yet. Retry via browser.",
+  "evidence": "jobs.aa.com returns 403 (WebFetch, curl) and browser pane unavailable 2026-10-06; no fresh read. Kept 2026-10-05 browser read: no ADEPT/new-grad posting yet. Search snippets say ADEPT is 2-year new-hire program; no dated posting. Retry via browser.",
   "confidence": "low"
 }

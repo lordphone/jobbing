@@ -1,38 +1,36 @@
 {
   "company": "BAE Systems (US)",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
-      "title": "2027 Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/128864BR/2027-Entry-Level-Software-Engineer",
-      "location": "San Diego, CA",
-      "opened": "2026-09-14",
-      "date_source": "page text (dateCreated)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer I",
-      "url": "https://jobs.baesystems.com/global/en/job/130128BR/Software-Engineer-I",
-      "location": "Hudson, NH",
-      "opened": "2026-09-18",
-      "date_source": "page text (postedDateTrack)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
       "title": "Entry Level Software Engineer",
-      "url": "https://jobs.baesystems.com/global/en/job/129314BR/Entry-Level-Software-Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US129314BREXTERNAL",
       "location": "Hudson, NH; Nashua, NH; Merrimack, NH",
       "opened": "2026-08-27",
-      "date_source": "page text (dateCreated)",
+      "date_source": "page text (dateCreated; page datePosted 2026-09-20)",
       "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "grad_window": "2027 entry level candidates",
+      "live_verified": "browser"
+    },
+    {
+      "title": "2027 Entry Level Software Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US128864BREXTERNAL",
+      "location": "San Diego, CA",
+      "opened": "2026-09-14",
+      "date_source": "page text (dateCreated; page datePosted 2026-09-25)",
+      "deadline": null,
+      "grad_window": "Bachelor's by June 2027",
+      "live_verified": "browser"
+    },
+    {
+      "title": "2027 Entry Level Software Engineer - Hardware",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US128963BREXTERNAL",
+      "location": "San Diego, CA",
+      "opened": "2026-09-14",
+      "date_source": "page text (dateCreated; page datePosted 2026-09-25)",
+      "deadline": null,
+      "grad_window": "Bachelor's by June 2027",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08-17",
@@ -41,6 +39,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "Phenom pages (curl, 2026-10-05) for 128864BR, 129314BR, 130128BR still serve full text with Apply. 128864BR: 'Ability to obtain and maintain a security clearance'; 129314BR: 'Must be eligible for a US DoD security clearance'; 130128BR: 'Secret Clearance'. No deadline.",
-  "confidence": "medium"
+  "evidence": "Phenom pages 2026-10-06 live with Apply: 129314BR \"Must be eligible for a US DoD security clearance\"; 128864BR/128963BR \"Ability to obtain and maintain a security clearance\". No deadline stated.",
+  "confidence": "high",
+  "checked": "2026-10-06",
+  "tier": 8
 }

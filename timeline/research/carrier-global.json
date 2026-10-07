@@ -1,7 +1,7 @@
 {
   "company": "Carrier Global",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -16,11 +16,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no 2025-07..2026-01 new-grad SWE posting in jobs.py history; the DTLP first seen 2026-08-23 is this cycle",
+  "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting in jobs.py history; DTLP first seen 2026-08-23 is this cycle",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:carrier/wd5/jobs",
-  "evidence": "Workday API + detail 2026-10-05: DTLP 30216139 live with endDate 2026-10-16; 2-year digital-technology leadership rotation for 2026/27 grads, must work without sponsorship. IT rotation, not pure SWE; no other US entry SWE (Validation Software Engineer not entry-titled).",
+  "evidence": "Workday API + detail: DTLP canApply true, endDate 2026-10-16; two-year digital rotation (data/AI, digital products, enterprise systems), must work without sponsorship. Leadership program, not pure SWE. Otherwise no entry SWE.",
   "confidence": "medium"
 }

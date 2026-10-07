@@ -1,15 +1,15 @@
 {
   "company": "QuantumScape",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found no tracker entries; no 2025-cycle new-grad SWE seen",
+  "last_cycle_basis": "No tracker history for QuantumScape",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.quantumscape.com/search/",
   "jobs_spec": null,
-  "evidence": "careers.quantumscape.com SuccessFactors list read over HTTP, all 29 roles, 2026-10-05: process, cell, hardware, firmware, senior infrastructure/data/IT; no entry-level SWE or new-grad program.",
-  "confidence": "high"
+  "evidence": "SuccessFactors list read in browser + HTTP 2026-10-06 (28 roles, both pages): process, cell, hardware, firmware, mechanical, director/senior roles in San Jose CA. Closest are Firmware Engineer, Battery System and SMTS Failure Analysis - Data Science (senior). No entry-level SWE.",
+  "confidence": "medium"
 }

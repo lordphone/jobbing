@@ -1,9 +1,29 @@
 {
   "company": "Affirm",
   "tier": 3,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer I (New Grad 2027) (NYC)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+      "location": "New York, NY",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Class of 2027",
+      "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer I (New Grad 2027) (SF)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Class of 2027",
+      "live_verified": "api"
+    },
     {
       "title": "Software Engineer I, Frontend (Upfunnel)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
@@ -21,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/affirm",
   "jobs_spec": "gh:affirm",
-  "evidence": "gh:affirm (184, --all) 2026-10-05: only North America entry-level SWE is SWE I Frontend, Remote Canada (AB/BC/MB/NB/NL/NS/ON/PE/SK residents; no city), API-listed live. Other SWE I Poland/Spain; US SWE roles are intern or II+. Borderline on location.",
-  "confidence": "medium"
+  "evidence": "gh:affirm 2026-10-06: new 'Software Engineer I (New Grad 2027)' NYC and SF first published 2026-10-06 and listed via API/detail. Also SWE I Frontend remote Canada (2026-09-11). No sponsorship or deadline text found. Changed from previous open-Canada-only result.",
+  "confidence": "high"
 }

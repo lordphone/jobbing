@@ -11,7 +11,7 @@
       "date_source": "workday postedOn / startDate 2026-10-01",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2024-09-26",
@@ -20,7 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
   "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Workday search API + browser 2026-10-05: MLE Level 3 (5 US sites, Apply shown; Bachelor's + 1+ yrs or Master's) live. Earlier SWE C++ Level 3 LA posting now 'page doesn't exist' (removed). L3 is Snap's entry level, not labeled new grad; counted open on that inference. Low confidence.",
+  "evidence": "Workday detail API 2026-10-06: MLE Level 3 (5 US sites, start 2026-10-01) still resolves, but it is absent from the board list (only L4+ listed); browser blocked by Cloudflare check. L3 is Snap's entry level, not labeled new grad; counted open by inference. Low confidence.",
   "confidence": "low",
-  "checked": "2026-10-05"
+  "checked": "2026-10-06"
 }

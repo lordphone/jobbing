@@ -1,7 +1,7 @@
 {
   "company": "John Deere",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://johndeere.eightfold.ai/careers/job/137483152431",
       "location": "East Moline, IL",
       "opened": "2026-09-16",
-      "date_source": "eightfold position_details postedTs",
+      "date_source": "eightfold postedTs",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2026-03-09",
-  "last_cycle_basis": "tracker first-seen: 'IT Development Program - Software Engineering' (Des Moines/Chicago/Davenport), 2026-03-09 (spring); D&A Development Program 2025-11-14",
+  "last_cycle_basis": "tracker history: IT Development Program - Software Engineering (Des Moines/Chicago/Davenport) first seen 2026-03-09, a spring posting; fall 2025 postings were Data & Analytics Development Programs (2025-11-14)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://johndeere.eightfold.ai/careers",
   "jobs_spec": "eightfold:johndeere.eightfold.ai/johndeere.com",
-  "evidence": "Eightfold API 2026-10-05: Software Developer (East Moline) still returns, bachelor's, no years required, visa sponsorship NOT available. Not on search board list. EDP/D&A programs not SWE; embedded SWE roles need experience; part-time student roles not counted.",
+  "evidence": "Eightfold API in browser 2026-10-06: Software Developer (East Moline) live, React/TypeScript, coursework or internships count, bachelor's in CS, 'VISA sponsorship NOT available'. Data & Analytics Development Program I/II (Moline, 2026-09-09) is data science/BI, not counted. Software Engineer II needs 3 yrs.",
   "confidence": "medium"
 }

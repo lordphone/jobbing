@@ -1,15 +1,26 @@
 {
   "company": "Iridium Communications",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Engineer 1 - Software Engineer",
+      "url": "https://careers-iridium.icims.com/jobs/5047/job",
+      "location": "Reston, VA; Chandler, AZ",
+      "opened": "2026-07-24",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "no"
+    }
+  ],
   "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "jobs.py history: Engineer I - Software Developer, Reston VA;Chandler AZ, first tracked 2025-07-01 (careers-iridium.icims.com/jobs/4605/job)",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "Tracker first seen 2025-07-01: Engineer I - Software Developer, Reston VA / Chandler AZ (https://careers-iridium.icims.com/jobs/4605/job)",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-iridium.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS list read over HTTP, 3 pages, 2026-10-05: no Software Engineer I; only a Summer 2027 intern. Req 5047 (Engineer 1 - Software Engineer, tracked 2026-07-24) says job no longer open. Earlier postings said US citizens required.",
-  "confidence": "high"
+  "evidence": "iCIMS list (3 pages) 2026-10-06: no entry-level SWE; only Summer 2027 ops internship and senior/III roles. Engineer 1 - Software Engineer (jobs/5047, tracker 2026-07-24) now returns 'requested job could not be found'. Iridium reposts SWE 1 roles repeatedly.",
+  "confidence": "medium"
 }

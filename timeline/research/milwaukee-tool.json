@@ -1,15 +1,15 @@
 {
   "company": "Milwaukee Tool (Techtronic Industries)",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker: 'Software Engineer - .NET/React' Menomonee Falls WI, first seen 2025-11-01",
+  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker: Software Engineer - .NET/React, Menomonee Falls WI, first seen 2025-11-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://tti.wd1.myworkdayjobs.com/Milwaukee",
   "jobs_spec": "wd:tti/wd1/Milwaukee",
-  "evidence": "Workday cxs 2026-10-05 (Milwaukee, tti_pe): only Sr/Staff/II SWE, firmware, ML Engineer II; no entry SWE/ML. Tracker SWE 1 Anderson (R76960, 2026-08-18) and Applied ML Eng 1 (2026-07-12) now 404 on cxs, so this-cycle roles closed.",
-  "confidence": "high",
-  "checked": "2026-10-05",
-  "tier": 11,
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday Milwaukee board 2026-10-06 shows only 5 postings, none SWE. Prior tracker roles SWE 1 Anderson (R76960, 2026-08-18) and Applied ML Eng 1 (2026-07-12) were 404 on cxs 2026-10-05; closed rests on that. No entry SWE/ML live.",
+  "confidence": "medium"
 }

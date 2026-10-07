@@ -1,15 +1,15 @@
 {
   "company": "Mount Sinai Health System",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no new-grad SWE program found.",
+  "last_cycle_basis": "no tracker history; no last-cycle posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejis.fa.us6.oraclecloud.com/CX",
-  "evidence": "2026-10-05 Oracle API --all (189 postings): tech roles are Data Engineer II/III, ML Engineer III, Technology Specialist II, Applications Analyst II; research Associate Researcher/Computational Scientist. No entry-level SWE or new-grad program.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
-  "tier": 11,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "2026-10-06 Oracle API --all (189 postings): tech roles are Data Engineer II/III, ML Engineer III, Data Architect, Applications Analyst II, bioinformatician; no entry-level SWE or new-grad program.",
+  "confidence": "high"
 }

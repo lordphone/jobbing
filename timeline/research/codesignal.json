@@ -1,7 +1,7 @@
 {
   "company": "CodeSignal",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "Gem board shows no open positions (prior browser check 'Open positions (0)'; WebFetch 2026-10-05 also shows none). No entry-level SWE.",
+  "evidence": "Gem API api.gem.com/job_board/v0/codesignal/job_posts returns [] 2026-10-06; board shows no open positions. Greenhouse and Ashby have no CodeSignal board.",
   "confidence": "medium"
 }

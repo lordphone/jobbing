@@ -1,15 +1,15 @@
 {
   "company": "Memorial Sloan Kettering Cancer Center",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history shows only closed Data Scientist 1 (2026-06-10) and Epic Application Analyst 1 (2026-06-17), not SWE.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary",
   "jobs_spec": "wd:msk/wd108/MSKCC_Careers_Primary",
-  "evidence": "2026-10-05 Workday API --all (36 postings): technologists, nurse externship, Technology Architect III HPC; no entry-level SWE. Tracker shows only non-SWE entry analyst/data roles in June 2026.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
-  "tier": 11,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "2026-10-06 Workday search (software, data, engineer, analyst): only Epic Application Analyst I (not SWE), physicist, clinical and research roles. Tracker shows only closed Data Scientist 1 and Epic analyst in Jun 2026.",
+  "confidence": "high"
 }

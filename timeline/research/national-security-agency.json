@@ -1,7 +1,7 @@
 {
   "company": "National Security Agency (NSA)",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.intelligencecareers.gov/nsa/development-program",
   "jobs_spec": null,
-  "evidence": "NSA application-process page lists \"U.S. citizenship\" as basic eligibility. CS Development Program and ACDP exist; listings portal not readable by fetch. Excluded on citizenship.",
+  "evidence": "Computer Science Development Program page points to apply.intelligencecareers.gov (not readable by fetch). NSA USAJOBS posting 878177000 says 'open to U.S. Citizens, Nationals or those who owe allegiance to the U.S.'; NSA roles require clearance. Excluded on citizenship.",
   "confidence": "high"
 }

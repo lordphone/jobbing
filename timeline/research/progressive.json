@@ -1,15 +1,15 @@
 {
   "company": "Progressive",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - trackers have no history; no dated new-grad SWE posting found",
+  "last_cycle_basis": "unknown; no Progressive SWE new-grad postings in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.progressive.com/search/jobs/",
   "jobs_spec": null,
-  "evidence": "Earlier same-day browser read of careers.progressive.com: Technology category had 2 jobs, none SWE or new-grad. Re-check this run hit a Cloudflare bot check; web search found no 2027 new-grad program. Not verified twice, so low confidence.",
-  "confidence": "low"
+  "evidence": "Browser 2026-10-06 on careers.progressive.com (314 jobs): Technology category has 4 (Cribl DevOps Lead, IT Systems Engineer Consultant, ServiceNow consultant, cyber analyst), Data Analytics 4, all senior/lead. Entry-level filter only shows claims/admin roles. No new-grad SWE.",
+  "confidence": "medium"
 }

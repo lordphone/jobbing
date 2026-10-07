@@ -1,7 +1,7 @@
 {
   "company": "Magic Leap",
   "tier": 7,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://resources.magicleap.cloud/careers",
   "jobs_spec": null,
-  "evidence": "Careers redirects to resources.magicleap.cloud (expired certificate, browser pane and WebFetch blocked); Greenhouse boards-api for 'magicleap' returns 404. Web search shows only Sr/Staff SWE roles; an Associate SWE (Graphics) listing dates from 2023. Could not read the board; retry.",
+  "evidence": "magicleap.com/careers redirects to resources.magicleap.cloud/careers, which returned a server-side exception in browser and HTTP 500 on 2026-10-06; no ATS board found. Web search showed only senior/staff SWE roles. First-party list unreadable; retry later.",
   "confidence": "low"
 }

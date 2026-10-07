@@ -1,7 +1,7 @@
 {
   "company": "LPL Financial",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (Workday: 30+ days)",
       "deadline": null,
       "grad_window": "New Grad 2027",
-      "live_verified": "api"
+      "live_verified": "api (resolves; not on board list)"
     },
     {
       "title": "New Grad 2027 - Data Engineer",
@@ -32,7 +32,7 @@
       "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": "New Grad 2027",
-      "live_verified": "api"
+      "live_verified": "api (resolves; not on board list)"
     }
   ],
   "last_cycle_opened": "2025-09-11",
@@ -41,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://lplfinancial.wd1.myworkdayjobs.com/university",
   "jobs_spec": "wd:lplfinancial/wd1/university",
-  "evidence": "Workday university board+detail 2026-10-05: New Grad 2027 Software/Data/Platform Engineer postings still listed, no end date. Posting: priority date passed, rolling; 'unable to consider candidates who require sponsorship now or in the future'. Matches prior file.",
-  "confidence": "high"
+  "evidence": "Workday university board 2026-10-06 lists New Grad 2027 Data Engineer; Software Engineer and Platform Engineer postings resolve via detail API but are absent from the list (possibly filled). Priority date passed, rolling; no sponsorship.",
+  "confidence": "medium"
 }

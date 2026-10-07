@@ -1,26 +1,26 @@
 {
   "company": "Relativity Space",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "excluded",
   "postings": [
     {
       "title": "Full Stack Software Engineer I",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8834005002",
+      "url": "https://job-boards.greenhouse.io/relativity/jobs/8834005002",
       "location": "Long Beach, CA",
       "opened": "2026-09-22",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "degree complete and available to start within 30-60 days of applying",
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "tracker first seen: 'GNC Simulation Engineer 1', Long Beach (https://boards.greenhouse.io/relativity/jobs/8236930002)",
+  "last_cycle_basis": "tracker first seen: GNC Simulation Engineer 1 (Long Beach); earlier Software Engineer I - Factory Platform 2025-06-06",
   "excluded_reason": "us person / itar",
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/relativity",
   "jobs_spec": "gh:relativity",
-  "evidence": "Full Stack SWE I (first published 2026-09-22) live on Greenhouse API 2026-10-05. Application questions: hired person 'must either be a \"U.S. person\" ... or otherwise eligible for a federally issued export control license' (ITAR); earlier note says OPT/CPT/H-4 do not qualify. AI Software Engineer is unleveled.",
-  "confidence": "medium"
+  "evidence": "Full Stack SWE I (live, Apply button, 2026-09-22) and AI SWE postings say hire \"must either be a U.S. person as defined by [ITAR] or otherwise eligible for a federally issued export control license\"; OPT/CPT/H-4 do not qualify.",
+  "confidence": "high",
+  "checked": "2026-10-06",
+  "tier": 8
 }

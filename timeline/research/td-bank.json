@@ -1,7 +1,7 @@
 {
   "company": "TD Bank (TD Bank Group)",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -22,7 +22,7 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-08",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "Software Engineer I (Cobol Developer)",
@@ -32,7 +32,7 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-15",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-08-25",
@@ -41,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday (148) 2026-10-05: three Toronto Software Engineer I reqs with End Dates Oct 8, 10, 15; R_1508757 and Cobol R_1512398 opened in browser with Apply. Entry-level title, no class year. 2027 Technology Graduate Programme is Dublin only; no US entry-level SWE.",
+  "evidence": "Workday (148) 2026-10-06: three Toronto Software Engineer I reqs listed, End Dates Oct 8, 10, 15 (API). Entry-level title, no class year. 2027 Technology Graduate Programme is Dublin only; no US entry-level SWE.",
   "confidence": "high"
 }

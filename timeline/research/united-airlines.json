@@ -1,7 +1,7 @@
 {
   "company": "United Airlines",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://careers.united.com/us/en/job/HSC00001080/Associate-Software-Developer",
       "location": "Houston, TX",
       "opened": "2026-09-14",
-      "date_source": "page data postedDate",
+      "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no 2025-26 new-grad SWE entry in tracker history",
+  "last_cycle_basis": "unknown; tracker shows only 2026 analyst roles and Developer - IT Front End (Houston, 2026-07-23, closed); United runs an Early Career Digital Leadership Program (ECDLP) for tech",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.united.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API + posting page 2026-10-05: Associate Software Developer (Houston) reqStatus Open, posted 2026-09-14, bachelor's + 1+ yr, authorized without sponsorship. No deadline. Developer - IT, Software Developer - Customer Care (2+ yrs) are mid-level, not counted.",
-  "confidence": "medium"
+  "evidence": "Browser + Phenom widgets API 2026-10-06: Associate Software Developer (Houston) reqStatus Open, bachelor's + 1 yr, C#/.NET backend, 'must be authorized to work without sponsorship'. Developer - IT (Chicago, Arlington Heights) wants 2+ yrs or ECDLP completion, not counted.",
+  "confidence": "high"
 }

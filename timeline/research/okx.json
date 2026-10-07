@@ -19,8 +19,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/okx",
   "jobs_spec": "gh:okx",
-  "evidence": "Greenhouse API --all 2026-10-05 (330): no entry-level SWE in US. Tracker's 2026-08-18 AI-Native Mobile Engineer New Grad (7897680003) not on API and its page now shows only the job list (WebFetch): gone, so closed.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
+  "evidence": "Greenhouse API --all 2026-10-06: no entry-level US SWE. Tracker's 2026-08-18 AI-Native Mobile Engineer New Grad (7897680003) returns 404 from Greenhouse job API and is absent from board: gone, so closed.",
+  "confidence": "high",
+  "checked": "2026-10-06",
   "tier": 5
 }

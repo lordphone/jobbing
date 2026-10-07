@@ -1,7 +1,7 @@
 {
   "company": "OneStream",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://job-boards.greenhouse.io/onestream/jobs/4425162009",
       "location": "United States (Remote; no city listed)",
       "opened": "2026-10-01",
-      "date_source": "greenhouse first_published (postings share 2026-10-01 dates, likely ATS migration)",
+      "date_source": "greenhouse first_published (whole board republished 2026-09-30 to 10-01, so true open date may be earlier)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -19,17 +19,7 @@
       "url": "https://job-boards.greenhouse.io/onestream/jobs/4425139009",
       "location": "United States (Remote; no city listed)",
       "opened": "2026-10-01",
-      "date_source": "greenhouse first_published (postings share 2026-10-01 dates, likely ATS migration)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Associate AI Engineer",
-      "url": "https://job-boards.greenhouse.io/onestream/jobs/4426260009",
-      "location": "United States (Remote); Birmingham, AL; Chicago, IL; Fort Lauderdale, FL; New York, NY",
-      "opened": "2026-10-01",
-      "date_source": "greenhouse first_published (postings share 2026-10-01 dates, likely ATS migration)",
+      "date_source": "greenhouse first_published (whole board republished 2026-09-30 to 10-01, so true open date may be earlier)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -41,6 +31,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/onestream",
   "jobs_spec": "gh:onestream",
-  "evidence": "Greenhouse API 71 postings, all first_published 2026-09-30 to 10-05. Opened SWE I x2 and Associate AI Engineer pages: Apply live, remote US; no sponsorship. No class-year language.",
+  "evidence": "Greenhouse API lists two Software Engineer I postings (US remote, first published 2026-10-01); WebFetch showed live application form. Asks 2-4 yrs, no new-grad wording; no sponsorship. Associate AI Engineer from prior run is gone (404).",
   "confidence": "medium"
 }

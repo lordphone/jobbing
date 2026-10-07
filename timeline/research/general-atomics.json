@@ -1,15 +1,26 @@
 {
   "company": "General Atomics",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Developer I",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25539&siteid=5313&PageType=JobDetails&jobid=5223310",
+      "location": "Salina, KS",
+      "opened": "on or before 2026-09-24",
+      "date_source": "brassring lastupdated",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2026-01-13",
-  "last_cycle_basis": "tracker first seen: Associate Software Developer, Poway CA (GA BrassRing posting); earlier 2024-12-03",
+  "last_cycle_basis": "Tracker first seen 2026-01-13: Associate Software Developer, Poway CA (citizenship required)",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25539&siteid=5313",
   "jobs_spec": null,
-  "evidence": "GA BrassRing posting 5223310 (Software Developer, 0-2 yrs, Salina KS) fetched 2026-10-05: 'US Citizenship Required? Yes' and 'Ability to obtain and maintain DoD security clearance is required'; the page was expired. BrassRing list not enumerable without a browser. Entry SWE postings appear gated by citizenship.",
-  "confidence": "medium"
+  "evidence": "BrassRing search + job pages 2026-10-06: ~15 Software Developer I/II postings (GA-ASI). Every one checked shows 'US Citizenship Required?: Yes' and 'Clearance Required?: Desired' (Secret), plus 'Ability to obtain and maintain DoD security clearance is required'.",
+  "confidence": "high"
 }

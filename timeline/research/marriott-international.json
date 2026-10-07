@@ -1,7 +1,6 @@
 {
   "company": "Marriott International",
   "tier": 9,
-  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-05",
@@ -21,6 +20,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Opened req 26085377 in browser 2026-10-05: live ('Be the first to apply'), early-career, 0-3 yrs, FLEX (flexible/temp) role. Absent from Oracle API list (unlisted). FLEX Full Stack Engineer and AI SDET not counted.",
-  "confidence": "medium"
+  "evidence": "Oracle requisition API 2026-10-06: req 26085377 still returns full details (BeFirstToApply, early-career wording), though absent from the list. Aug 2026 Associate SWE Android/iOS reqs return nothing (gone). FLEX = flexible/temp role. FLEX Full Stack and AI SDET not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-06"
 }

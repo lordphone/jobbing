@@ -1,6 +1,6 @@
 # Company List
 
-1811 companies.
+1821 companies.
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
@@ -407,7 +407,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Valkyrie Trading
 - BlackEdge Capital
 
-## 5. Banks, payments & financial data (185)
+## 5. Banks, payments & financial data (186)
 
 - JPMorgan Chase
 - Goldman Sachs
@@ -594,8 +594,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - Veterans United Home Loans
 - Nelnet
 - Snap Finance
+- Alkami Technology
 
-## 6. Enterprise software & security (243)
+## 6. Enterprise software & security (245)
 
 - SAP
 - ServiceNow
@@ -840,6 +841,8 @@ A company owned by another company gets its own entry if it hires under its own 
 - Pylon
 - Kitware
 - Flashpoint
+- Pattern Data
+- OpenEye
 
 ## 7. Chips, hardware & infrastructure (150)
 
@@ -994,7 +997,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Cognex
 - Rigetti Computing
 
-## 8. Auto, aerospace & defense (155)
+## 8. Auto, aerospace & defense (157)
 
 - Waymo
 - Zoox
@@ -1151,8 +1154,10 @@ A company owned by another company gets its own entry if it hires under its own 
 - Analytical Mechanics Associates
 - Cubic
 - Beacon AI
+- Altamira Technologies
+- Scientific Research Corporation
 
-## 9. Consumer, media, gaming & retail tech (317)
+## 9. Consumer, media, gaming & retail tech (318)
 
 - Walmart Global Tech
 - Target
@@ -1471,8 +1476,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - NewsBreak
 - Cox Automotive
 - iSpot.tv
+- QuinStreet
 
-## 10. Consulting & IT services (89)
+## 10. Consulting & IT services (92)
 
 - Accenture
 - Deloitte
@@ -1563,8 +1569,11 @@ A company owned by another company gets its own entry if it hires under its own 
 - Quest Global
 - Centific
 - MetroStar
+- Avalore
+- Agile Defense
+- Trace3
 
-## 11. Traditional companies with large tech orgs (281)
+## 11. Traditional companies with large tech orgs (282)
 
 - Verizon
 - AT&T
@@ -1847,3 +1856,4 @@ A company owned by another company gets its own entry if it hires under its own 
 - Viridien
 - Primetals Technologies
 - Caris Life Sciences
+- NOV

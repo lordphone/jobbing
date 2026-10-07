@@ -1,6 +1,8 @@
 {
+  "company": "ZipRecruiter",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer - New Grad",
@@ -10,17 +12,15 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Expected 2027 graduation, or graduated Spring 2025 - Fall 2026",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-10-02",
   "last_cycle_basis": "tracker first seen 'Software Engineer - New Grad - Multiple Teams' https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "company": "ZipRecruiter",
-  "status": "open",
   "jobs_page": "https://job-boards.greenhouse.io/ziprecruiter",
   "jobs_spec": "gh:ziprecruiter",
-  "evidence": "Greenhouse board and job API 2026-10-05 list the live posting, first_published 2026-09-24; text says expected 2027 graduation. No sponsorship or citizenship line, no stated deadline.",
+  "evidence": "Greenhouse API and posting page opened 2026-10-06: Apply form present, first_published 2026-09-24, minimum qualification expected 2027 graduation. No sponsorship/citizenship restriction, no deadline stated.",
   "confidence": "high"
 }

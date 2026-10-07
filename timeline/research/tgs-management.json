@@ -1,6 +1,7 @@
 {
   "company": "TGS Management",
   "tier": 4,
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.tgsmc.com/join-our-team/",
   "jobs_spec": null,
-  "evidence": "Careers page 2026-10-05 lists no roles or early-career program, only a general Lever resume link; Lever API for tgsmc returns an empty list.",
-  "confidence": "medium",
-  "checked": "2026-10-05"
+  "evidence": "Careers page 2026-10-06 lists no roles or early-career program, only a general Lever resume link; Lever tgsmc API returns nothing; web search found no new-grad posting.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Chegg",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
+  "last_cycle_basis": "No tracker history of a US new-grad SWE posting; tracker row Data Engineer 2026-01-08 is London/Madrid.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://osv-chegg.wd5.myworkdayjobs.com/Chegg",
   "jobs_spec": "wd:osv-chegg/wd5/Chegg",
-  "evidence": "Workday API failed in this run (not found/blocked; Cloudflare check in browser). Same-day earlier browser read: 12 jobs, engineering India/Spain, only US job UX/UI coach. Kept no_program_found.",
-  "confidence": "medium"
+  "evidence": "Workday site osv-chegg/Chegg read in browser 2026-10-06 (11 jobs): engineering roles India/Spain only; only US job is UX/UI Industry Coach. API tool returns not found, site name is case-sensitive 'Chegg'.",
+  "confidence": "high"
 }

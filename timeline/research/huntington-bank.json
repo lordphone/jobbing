@@ -1,7 +1,7 @@
 {
   "company": "Huntington Bank (Huntington Bancshares)",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-11-28",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
   "jobs_spec": "wd:huntington/wd12/HNBcareers",
-  "evidence": "Workday (88) 2026-10-05: no 2027 SWE program (2027 items are internships). Junior Backend Java Developer opened in browser with Apply. Asks 1-3+ yrs Java (apprenticeship in lieu); will not sponsor. Borderline entry-level.",
+  "evidence": "Workday (90) 2026-10-06: no 2027 SWE program (2027 items are internships/finance). Junior Backend Java Developer live (canApply true via API). Asks 1-3+ yrs Java (apprenticeship in lieu); will not sponsor; must be authorized. Borderline entry-level.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "careers.realtor.com blocks fetch and browser. Greenhouse rdccareers lists 0 jobs; Backend SWE Austin (7800190003, first seen 2026-07-10) returns 404 and redirects to search page. Only 2027 interns otherwise.",
+  "evidence": "careers.realtor.com blocks fetch. Greenhouse rdccareers lists 0 jobs; Backend SWE Austin (7800190003) redirects to search page with error. Closed.",
   "confidence": "medium"
 }

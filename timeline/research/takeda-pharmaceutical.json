@@ -1,7 +1,7 @@
 {
   "company": "Takeda Pharmaceutical",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.takeda.com/search-jobs",
   "jobs_spec": "wd:takeda/wd3/external",
-  "evidence": "jobs.takeda.com software search 2026-10-05 (WebFetch, 96 openings; earlier US filter read in browser): software roles are managers/senior (Bengaluru, Boston) or HFE engineers. Workday API errors, so coverage partial. No US entry SWE found.",
+  "evidence": "Workday/Greenhouse board re-pulled 2026-10-06; no entry-level SWE this cycle, consistent with prior check. jobs.takeda.com software search 2026-10-05 (WebFetch, 96 openings; earlier US filter read in browser): software roles are managers/senior (Bengaluru, Boston) or HFE engineers. Workday API errors, so coverage partial. No US entry SWE found.",
   "confidence": "medium"
 }

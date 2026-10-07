@@ -1,7 +1,7 @@
 {
   "company": "Palo Alto Networks",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "bachelor's degree earned recently or within next 12 months",
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-10-17",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
   "jobs_spec": "wd:paloaltonetworks/wd5/panwexternalcareers",
-  "evidence": "Re-read JR-011506 via Workday CXS 2026-10-05: canApply true, degree earned recently or within 12 months, will not sponsor. Board filter misses it; tracker shows ~20 similar reqs from 2026-07-01. No deadline.",
+  "evidence": "Workday CXS 2026-10-06: JR-011506 canApply true, 'degree earned recently or within next 12 months', no sponsorship. Board list filter misses it; tracker shows ~20 similar reqs since 2026-07-01 (unverified). No deadline; rolling.",
   "confidence": "medium"
 }

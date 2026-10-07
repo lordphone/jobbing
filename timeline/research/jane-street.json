@@ -1,17 +1,26 @@
 {
   "company": "Jane Street",
   "tier": 4,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer (Full-Time: New Grad)", "url": "https://www.janestreet.com/join-jane-street/position/8594541002", "location": "New York, NY", "opened": "2026-07-06", "date_source": "greenhouse first_published (tracker first seen 2026-07-06)", "deadline": null, "grad_window": null, "live_verified": "browser"}
+    {
+      "title": "Software Engineer",
+      "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
+      "location": "New York, NY",
+      "opened": "2026-07-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
   ],
   "last_cycle_opened": "2025-07-10",
   "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-10 for prior cycle's full-time postings (SWE-titled posting 2025-08-01 NYC).",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.janestreet.com/join-jane-street/",
+  "jobs_page": "https://www.janestreet.com/join-jane-street/open-roles/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "2026-10-05 boards-api detail: Software Engineer NYC first_published 2026-07-06, updated 2026-09-28; posting page on janestreet.com shows Apply, no citizenship/sponsorship text, no deadline. Earlier browser check saw the 'Full-Time: New Grad' label in the student list.",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-06: posting page live with Apply; generic NYC Software Engineer (tracker labels it Full-Time: New Grad); no class year, citizenship or sponsorship text, no deadline. Two other NYC SWE reqs same date.",
+  "confidence": "medium"
 }

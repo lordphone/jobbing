@@ -1,7 +1,7 @@
 {
   "company": "Deloitte",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
     {
@@ -23,6 +23,16 @@
       "deadline": "2026-10-25",
       "grad_window": "Graduating by Summer 2027 or completed bachelor's",
       "live_verified": "browser"
+    },
+    {
+      "title": "Consultative Offerings - GPS - Analyst - Cyber Software Engineering (entry-level; requires ability to obtain US security clearance)",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
+      "location": "Huntsville, AL; Arlington, VA",
+      "opened": "2026-08-10",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-25",
+      "grad_window": "Graduating by Summer 2027 or completed bachelor's",
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": "2025-08",
@@ -31,6 +41,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://apply.deloitte.com",
   "jobs_spec": null,
-  "evidence": "Fetched 2026-10-05: GPS SWE Analyst 350277 and Delivery Analyst 362516 live, quote 'Ability to obtain and maintain a U.S. Security Clearance'. Non-GPS SWE Analyst (Chicago 350472, 2026-07-31) now page not found (closed). Tech Transformation Analyst 350487 is live (no clearance) but SAP/Salesforce consulting, not SWE.",
+  "evidence": "Browser 2026-10-06: GPS SWE Analyst 350277, Delivery Analyst 362516 and Cyber SWE Analyst 362393 live (Apply now, recruiting ends 10/25/2026), all quote 'Ability to obtain and maintain a U.S. Security Clearance'. Non-GPS SWE Analyst Chicago 350472 now page not found. Search lists only GPS SWE roles.",
   "confidence": "medium"
 }

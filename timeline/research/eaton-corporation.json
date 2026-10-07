@@ -1,15 +1,15 @@
 {
   "company": "Eaton Corporation",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "jobs.py history: Eaton Distributed Infrastructure Technical Support Engineer and Product Engineer postings first seen 2025-10-30; no dedicated SWE new-grad posting",
+  "last_cycle_basis": "jobs.py history: Eaton Technical Support Engineer and Product Engineer postings first seen 2025-10-30; no dedicated SWE new-grad found",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://eaton.eightfold.ai",
   "jobs_spec": "eightfold:eaton.eightfold.ai/eaton.com",
-  "evidence": "Eightfold board (68 jobs, --all) 2026-10-05: US Development Programs are Applications, Operations, Field Service, Marketing, Technical Sales and Digital Integrated Solutions (opened in browser: power monitoring/SCADA/HMI integration, not SWE). Software roles are senior/specialist or internships. No US entry SWE.",
+  "evidence": "Eightfold API (67 jobs): US Development Programs are Applications, Operations, Field Service and Digital Integrated Solutions (HMI/SCADA integration, electrical/mechanical degrees); posting says no immigration sponsorship. No entry SWE.",
   "confidence": "medium"
 }

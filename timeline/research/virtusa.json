@@ -1,47 +1,47 @@
 {
   "company": "Virtusa",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Associate Engineer (Software Developer, Gen AI) CREQ254231",
-      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate%20Engineer",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=CREQ254231",
       "location": "New York, NY",
-      "opened": "2026-09-19",
-      "date_source": "virtusa phenom search API postedDate",
+      "opened": "2026-06-04",
+      "date_source": "phenom dateCreated (reposted 2026-09-19)",
       "deadline": null,
-      "grad_window": "recent graduates or early-career, 0-2 years",
-      "live_verified": "api"
-    },
-    {
-      "title": "Associate (Agentic AI Engineer) P-104407",
-      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate",
-      "location": "Piscataway, NJ",
-      "opened": "2026-09-22",
-      "date_source": "virtusa phenom search API postedDate",
-      "deadline": null,
-      "grad_window": "recent graduates or early-career, 0-2 years",
-      "live_verified": "api"
-    },
-    {
-      "title": "Associate (Agentic AI Engineer) P-104367",
-      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate",
-      "location": "Dallas, TX",
-      "opened": "2026-09-22",
-      "date_source": "virtusa phenom search API postedDate",
-      "deadline": null,
-      "grad_window": "recent graduates or early-career, 0-2 years",
+      "grad_window": null,
       "live_verified": "api"
     },
     {
       "title": "Associate Engineer (Data Engineer) P-103578",
-      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=Associate%20Engineer",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=P-103578",
       "location": "New York, NY",
       "opened": "2026-09-10",
-      "date_source": "virtusa phenom search API postedDate",
+      "date_source": "phenom dateCreated",
       "deadline": null,
-      "grad_window": "recent graduates, 0-2 years",
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "AI Engineer (Agentic AI Engineer) P-104407",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=P-104407",
+      "location": "Piscataway, NJ",
+      "opened": "2026-09-22",
+      "date_source": "phenom dateCreated",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Associate (Agentic AI Engineer) P-104367",
+      "url": "https://www.virtusa.com/careers/job-search/global/en?keyword=P-104367",
+      "location": "Dallas, TX",
+      "opened": "2026-09-22",
+      "date_source": "phenom dateCreated",
+      "deadline": null,
+      "grad_window": null,
       "live_verified": "api"
     }
   ],
@@ -51,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.virtusa.com/careers/job-search/global/en",
   "jobs_spec": null,
-  "evidence": "Not re-opened this run: virtusa.com blocks plain requests (Akamai 403) and the shared browser pane was hijacked; WebFetch of job URLs returns 'filled' even for a control req, so unreliable. Carried over earlier 2026-10-05 Phenom API read: 4 US Associate/Associate Engineer postings (0-2 yrs, recent grads, Sep 2026); no class year, no citizenship text. Needs live re-check.",
-  "confidence": "low"
+  "evidence": "Phenom widgets API via browser 2026-10-06: 4 US entry-level SWE/data/AI reqs listed, detail endpoint returns each ('0-2 years, recent graduates'); no citizenship text (a separate Associate ML req, CREQ254224, says no sponsorship and 2025 master's batch, not listed). Posting pages not opened.",
+  "confidence": "medium"
 }

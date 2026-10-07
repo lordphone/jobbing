@@ -1,15 +1,26 @@
 {
   "company": "Pure Storage",
   "tier": 7,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer Grad 2027",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+      "location": "Santa Clara, CA",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-02-17",
   "last_cycle_basis": "jobs.py history: Graduate Software Engineer, Santa Clara CA, greenhouse 7258968, first seen 2026-02-17 (closed); before that Software Engineer Grad, Hyperscale 2024-07-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/purestorage",
   "jobs_spec": "gh:purestorage",
-  "evidence": "Greenhouse board (--all, 363) re-read 2026-10-05: no grad/entry US SWE. Associate Security Engineer (Santa Clara, 2026-09-17) is security, not SWE; Santa Clara Software Engineer roles need 3-6 yrs. Last grad posting 2026-02 closed.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-06: 'Software Engineer Grad 2027' (Santa Clara) first_published 2026-10-06, 'no application deadline', rolling. Not seen 2026-10-05, so it just opened. No sponsorship/citizenship text found. Page not opened in browser (tab cap).",
+  "confidence": "medium"
 }

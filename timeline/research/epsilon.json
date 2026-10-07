@@ -1,15 +1,15 @@
 {
   "company": "Epsilon",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (Entry level, Data Practice)",
       "url": "https://careers.publicisgroupe.com/jobs/166907",
-      "location": "Westminster, CO (hybrid)",
+      "location": "Westminster, CO",
       "opened": "2026-09-09",
-      "date_source": "page text",
+      "date_source": "page text (Publicis API posted_date)",
       "deadline": "2026-11-09",
       "grad_window": null,
       "live_verified": "api"
@@ -17,9 +17,9 @@
     {
       "title": "Associate, Client Integrations Engineer (New Grad Program, Entry; integration engineering, borderline SWE)",
       "url": "https://careers.publicisgroupe.com/jobs/174428",
-      "location": "Chicago, IL (hybrid)",
+      "location": "Chicago, IL",
       "opened": "2026-10-05",
-      "date_source": "page text",
+      "date_source": "page text (Publicis API posted_date)",
       "deadline": "2026-10-27",
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicisgroupe.com/jobs?brand=Epsilon",
   "jobs_spec": null,
-  "evidence": "Publicis careers jobs API and posting pages (2026-10-05): req 166907 Entry-level Software Engineer live, posted 2026-09-09, deadline 11/9/2026, 1-3 yrs/coursework; also new New Grad Program req 174428 (Chicago, deadline 10/27/2026). No sponsorship or citizenship limits seen. Other US SWE reqs are Senior+.",
+  "evidence": "Publicis careers API 2026-10-06 (applyable true): req 166907 entry-level Software Engineer, posted 2026-09-09, deadline 11/9/2026, 1-3 yrs/coursework; req 174428 New Grad Program Associate Client Integrations Engineer (Chicago, deadline 10/27/2026). No sponsorship or citizenship limits seen.",
   "confidence": "high"
 }

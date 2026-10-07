@@ -1,9 +1,6 @@
 {
   "company": "Chewy",
   "tier": 9,
-  "checked": "2026-10-05",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "status": "open",
   "postings": [
     {
@@ -11,7 +8,7 @@
       "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Bellevue-WA/Software-Engineer-I_R30985-1",
       "location": "Bellevue, WA; Boston, MA; Plantation, FL",
       "opened": "2026-10-05",
-      "date_source": "workday startDate / postedOn Today",
+      "date_source": "workday startDate / postedOn Yesterday",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -39,8 +36,11 @@
   ],
   "last_cycle_opened": "2025-07-07",
   "last_cycle_basis": "tracker history: Software Engineer I posted 2025-07-07 (Boston, MA; Fort Lauderdale, FL); reqs repost rolling",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://chewy.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:chewy/wd5/External",
-  "evidence": "Workday API/detail 2026-10-05: three Software Engineer I reqs, canApply true, no deadline. Rolling SWE I reqs, not labeled new grad; one Boston req asks 2+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday API/detail 2026-10-06: three Software Engineer I reqs listed, no deadline. Rolling SWE I reqs, not labeled new grad; Boston req asks 2+ yrs JavaScript.",
+  "confidence": "medium",
+  "checked": "2026-10-06"
 }

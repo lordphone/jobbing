@@ -1,28 +1,38 @@
 {
   "company": "Wipro",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "AI Developer (Entry Level)",
-      "url": "https://careers.wipro.com/job/AI-Developer-%28Entry-Level%29/159939-en_US",
-      "location": "Charlotte, NC; Dallas, TX; Jersey City, NJ; Pennington, NJ; St Louis, MO",
-      "opened": "on or before 2026-10-04",
-      "date_source": "page text (Posting Start Date 4/10/26, day/month order unclear)",
+      "url": "https://careers.wipro.com/job/Charlotte-AI-Developer-%28Entry-Level%29-USA-5445/1348579255/",
+      "location": "Charlotte, NC",
+      "opened": "2026-10-01",
+      "date_source": "careers.wipro.com RSS pubDate",
       "deadline": null,
-      "grad_window": "Recent STEM Master's graduate; no class year",
-      "live_verified": "browser"
+      "grad_window": "Recent graduate of a STEM Master's program; no class year",
+      "live_verified": "api"
     },
     {
       "title": "AI Developer (Entry Level)",
-      "url": "https://careers.wipro.com/job/AI-Developer-%28Entry-Level%29/159942-en_US",
+      "url": "https://careers.wipro.com/job/East-Brunswick-AI-Developer-%28Entry-Level%29-USA-8816/1348581955/",
       "location": "East Brunswick, NJ",
-      "opened": "on or before 2026-10-04",
-      "date_source": "page text (Posting Start Date 4/10/26, day/month order unclear)",
+      "opened": "2026-10-01",
+      "date_source": "careers.wipro.com RSS pubDate",
       "deadline": null,
-      "grad_window": "Recent STEM Master's graduate; no class year",
-      "live_verified": "browser"
+      "grad_window": "Recent graduate of a STEM Master's program; no class year",
+      "live_verified": "api"
+    },
+    {
+      "title": "Junior Forward Deployed Engineer",
+      "url": "https://careers.wipro.com/job/Austin-Junior-Forward-Deployed-Engineer-USA-78753/1348579355/",
+      "location": "Austin, TX; Louisville, KY; Plano, TX (separate posting per city)",
+      "opened": "2026-10-01",
+      "date_source": "careers.wipro.com RSS pubDate",
+      "deadline": null,
+      "grad_window": "Recent graduate of a Master's program in CS/Engineering; 0-2 yrs; no class year",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -31,6 +41,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.wipro.com/search/?q=entry+level&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05 (SuccessFactors): 'entry level' US search lists AI Developer (Entry Level) x2 with Apply; requires recent STEM Master's grad, 3.0 GPA, rolling, no class year, no sponsorship/citizenship text. Cloud Administrator (Entry Level) also listed.",
-  "confidence": "medium"
+  "evidence": "careers.wipro.com RSS + posting pages 2026-10-06 (Apply now present): AI Developer (Entry Level) Charlotte/East Brunswick and Junior Forward Deployed Engineer Austin/Louisville/Plano, all posted 10-01; rolling, recent STEM Master's grad, 3.0 GPA. No sponsorship text seen. Cloud Administrator (Entry Level) Atlanta also open.",
+  "confidence": "high"
 }

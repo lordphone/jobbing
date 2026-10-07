@@ -1,7 +1,7 @@
 {
   "company": "American Family Insurance",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-01-28",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://amfam.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:amfam/wd1/Careers",
-  "evidence": "Workday cxs POST 2026-10-05 (27 postings): Lead Guidewire Developer, senior engineers, adjusters, actuary; no entry-level SWE. jobs.py board returns 0 but direct POST works. Entry associate dev reqs appear ad hoc.",
+  "evidence": "Workday cxs POST 2026-10-06 (31 postings): Lead Guidewire Developer, senior/lead engineers, adjusters; no entry-level SWE. jobs.py board is flaky (returns 0-1). Entry associate dev reqs appear ad hoc (last Jan 2026).",
   "confidence": "medium"
 }

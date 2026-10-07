@@ -1,15 +1,15 @@
 {
   "company": "Huron",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Forward Deployed Engineer Associate (AI Capability Center)",
       "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Forward-Deployed-Engineer-Associate--AI-Capability-Center----2-Openings_JR-0016510-1",
       "location": "Chicago, IL; Toronto, ON, Canada",
-      "opened": "2026-09-02",
-      "date_source": "workday startDate",
+      "opened": "on or before 2026-09-06",
+      "date_source": "workday postedOn (30+ days ago); startDate 2026-09-02",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -19,7 +19,7 @@
       "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Platform-Engineer--Associate-_JR-0015729",
       "location": "Chicago, IL",
       "opened": "2026-09-16",
-      "date_source": "workday startDate",
+      "date_source": "workday startDate (postedOn 20 days ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://huron.wd1.myworkdayjobs.com/huroncareers",
   "jobs_spec": "wd:huron/wd1/huroncareers",
-  "evidence": "Workday 2026-10-05 re-read: FDE Associate (Chicago/Toronto, start 2026-09-02) and Data Platform Engineer Associate (Chicago, 2026-09-16) both live, canApply true; no class year or new-grad label (borderline), no citizenship/clearance text.",
+  "evidence": "Workday API 2026-10-06: FDE Associate (Chicago/Toronto) and Data Platform Engineer Associate (Chicago) both listed, detail loads; no class year, new-grad label or citizenship/clearance text (borderline entry-level 'Associate').",
   "confidence": "medium"
 }

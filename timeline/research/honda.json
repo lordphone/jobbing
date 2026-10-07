@@ -1,19 +1,9 @@
 {
   "company": "Honda",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
-    {
-      "title": "Software & System Dev. Engineer",
-      "url": "https://careers.honda.com/us/en/job/12379",
-      "location": "Raymond, OH",
-      "opened": "2026-08-21",
-      "date_source": "page text (Honda dateCreated)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
     {
       "title": "Software & System Dev. Engineer (102178)",
       "url": "https://careers.honda.com/us/en/job/12764",
@@ -33,14 +23,34 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
+    },
+    {
+      "title": "Software & System Dev. Engineer",
+      "url": "https://careers.honda.com/us/en/job/12510",
+      "location": "Raymond, OH",
+      "opened": "2026-09-03",
+      "date_source": "page text (Honda dateCreated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    },
+    {
+      "title": "Software & System Dev. Engineer",
+      "url": "https://careers.honda.com/us/en/job/12379",
+      "location": "Raymond, OH",
+      "opened": "2026-08-21",
+      "date_source": "page text (Honda dateCreated)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2025-01-06",
-  "last_cycle_basis": "Tracker first seen: New Grad 2025: Engineering Development Program, Marysville OH, 2025-01-06 (ME-oriented, not software); no 2025-07..2026-01 SWE posting found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker: Engineering Development Program (manufacturing engineering, not SWE) first seen 2025-01-06; no earlier SWE new-grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API (142 software hits) plus posting pages 2026-10-05. Raymond OH roles: SW & System Dev Engineer (BS CS/EE, 0-3 yrs), second SW & System Dev (0-2 yrs), Electrical Powertrain SW Engineer (0-2 yrs). No sponsorship or citizenship line found. Senior and ADAS test roles not counted.",
+  "evidence": "Phenom widgets API plus posting pages 2026-10-06: four Raymond OH entry-level SWE roles (BS, 0-2 or 0-3 yrs, no class year, rolling). No sponsorship line on these; Cloud Applications Engineer says no visa sponsorship (5 yrs, not counted). EDP 2027 is manufacturing.",
   "confidence": "medium"
 }

@@ -1,15 +1,26 @@
 {
   "company": "Newegg",
   "tier": 9,
-  "checked": "2026-10-05",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Newegg Early Career Talent Program - Temp to hire",
+      "url": "https://myjobs.adp.com/newegg/cx/job-details?reqId=5001202827206",
+      "location": "Diamond Bar, CA",
+      "opened": "2026-06-02",
+      "date_source": "page text (ADP postingDate)",
+      "deadline": null,
+      "grad_window": "Graduating in or before Dec 2026, or graduated within the last 12 months",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE cycle.",
+  "last_cycle_basis": "unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP board (JS app) not readable this run. Web search: Early Career Talent Program (Junior Analyst/Developer/Specialist) needs grad by Dec 2026, on-site Diamond Bar CA, not SWE-specific. Prior API read showed no SWE new-grad role.",
-  "confidence": "low"
+  "evidence": "ADP API 2026-10-06 lists 'Newegg Early Career Talent Program - Temp to hire' (Diamond Bar CA, IT, 30 openings, posted 2026-06-02): requires graduation in or before Dec 2026 or grad within 12 months; multi-BU, not SWE-specific; third-party shows removed 2026-09-04.",
+  "confidence": "medium"
 }

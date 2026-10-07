@@ -1,15 +1,15 @@
 {
   "company": "New Relic",
   "tier": 6,
-  "checked": "2026-10-05",
-  "status": "not_yet",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for New Relic (0 postings).",
+  "last_cycle_basis": "No tracker history or program found.",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/newrelic",
   "jobs_spec": "gh:newrelic",
-  "evidence": "Greenhouse --all 2026-10-05 (47): SE II in Barcelona; US SWE II Query Gateway (Portland) requires 3+ yrs, mid-level. No entry title or new-grad program.",
-  "confidence": "high"
+  "evidence": "Greenhouse --all 2026-10-06 (47): SE II in Barcelona; Portland US SWE reqs are on-call IAM (Java, 1+ yrs) and K8s Container Fabric, mid-level, no sponsorship. No entry title or new-grad program.",
+  "confidence": "medium"
 }

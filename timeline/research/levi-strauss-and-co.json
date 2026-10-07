@@ -1,15 +1,15 @@
 {
+  "company": "Levi Strauss & Co.",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no this-cycle or last-cycle new-grad SWE posting found",
+  "last_cycle_basis": "No 2025-07 to 2026-01 posting found; no tracker history or first-party evidence of a prior new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "company": "Levi Strauss & Co.",
-  "status": "no_program_found",
   "jobs_page": "https://levistraussandco.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:levistraussandco/wd5/External",
-  "evidence": "Workday API 2026-10-05, 50 postings: engineering is Lead/Senior/Staff/Engineer III, located in India, Mexico, Brazil. No entry-level SWE in US, Toronto or Vancouver; no tracker history.",
-  "confidence": "high"
+  "evidence": "Workday API in browser 2026-10-06, 345 postings searched: US engineering is Lead/Staff/Senior/Director (SF, remote); junior engineering only outside US. No entry-level SWE in US, Toronto or Vancouver.",
+  "confidence": "medium"
 }

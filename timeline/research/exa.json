@@ -1,15 +1,15 @@
 {
   "company": "Exa",
   "tier": 2,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No evidence of a past new-grad cycle; tracker history only Research, ML (2026-02).",
+  "last_cycle_basis": "Tracker history only Research, ML (2026-02), not new-grad.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/exa",
   "jobs_spec": "ashby:exa",
-  "evidence": "Ashby API 2026-10-05, 57 postings (--all): SWE and Research Engineer roles not entry-labeled; only 'Software Engineer, Intern' (SF). No new-grad role.",
+  "evidence": "ashby:exa --all 2026-10-06 (57 postings): SWE and Research Engineer roles not entry-labeled; only 'Software Engineer, Intern' (SF). No new-grad role.",
   "confidence": "high"
 }

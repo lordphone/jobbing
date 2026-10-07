@@ -1,15 +1,26 @@
 {
   "company": "FedEx",
   "tier": 11,
-  "checked": "2026-10-05",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Full Stack Developer II",
+      "url": "https://careers.fedex.com/full-stack-developer-ii/job/P25-354137-3",
+      "location": "Plano, TX",
+      "opened": "on or before 2026-10-06",
+      "date_source": "page text (JSON-LD datePosted refreshes daily, so only a bound)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history only shows 'Software Engineer I and II - Gen AI' (Memphis) first seen 2025-01-25, outside the last-cycle window",
+  "last_cycle_basis": "unknown; tracker shows only Software Engineer I and II - Gen AI (Memphis) first seen 2025-01-25, outside the last-cycle window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.fedex.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.fedex.com (4,370 results) search fetched 2026-10-05: tech roles are Full Stack Developer II (Plano), Senior I, Advisor, Architect levels; no entry-level SWE or new-grad program found; summer 2027 interns only. Coverage moderate.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-06, keyword search 'software engineer' (43), 'developer' (1190): no new-grad program or Engineer I in US. Full Stack Developer II (Plano): Apply live, 'under general supervision', min bachelor's + 1 yr, borderline entry level. Others are Advisor/Principal/India.",
+  "confidence": "low"
 }

@@ -1,15 +1,26 @@
 {
   "company": "Uniswap Labs",
   "tier": 3,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+      "location": "New York, NY",
+      "opened": "2026-08-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2026-08-12",
-  "last_cycle_basis": "Ashby publishedAt: 'Software Engineer - Early Career' NYC, first new-grad cohort, https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+  "last_cycle_basis": "Tracker first seen 2026-08-12: Software Engineer - Early Career NYC (first early-career posting) https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/uniswap",
   "jobs_spec": "ashby:uniswap",
-  "evidence": "Ashby board 2026-10-05 (5): Staff/Senior engineers and Head of Institutions. 'Software Engineer - Early Career' NYC (2026-08-12, degree window Dec 2024-Sept 2026, a last-cycle window) is gone: board and posting page empty in browser. No 2027 role yet.",
+  "evidence": "Early-career SWE (NYC, 2026-08-12) is no longer on Ashby API (5 jobs, all senior/staff) and its page opens blank in browser; this-cycle posting existed and is gone. (was not_yet)",
   "confidence": "medium"
 }

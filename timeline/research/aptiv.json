@@ -1,15 +1,15 @@
 {
   "company": "Aptiv",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no Aptiv entry SWE posting in trackers or on Workday for last cycle",
+  "last_cycle_basis": "unknown; tracker hits are Captivation (different company)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers",
   "jobs_spec": "wd:aptiv/wd5/aptiv_careers",
-  "evidence": "Workday API --all 2026-10-05 (112 postings): only entry-labeled software roles are two Associate Cloud Engineer in Kanata, ON (not Toronto/Vancouver). US software roles are senior/market development; no US entry SWE, grad or 2027 posting.",
-  "confidence": "medium"
+  "evidence": "Workday API --all 2026-10-06: US software roles are RTOS dev/managers/Senior; only entry-labeled software roles are two Associate Cloud Engineer in Kanata, ON (not Toronto/Vancouver). US early-talent items are interns only.",
+  "confidence": "medium",
+  "checked": "2026-10-06",
+  "tier": 8
 }

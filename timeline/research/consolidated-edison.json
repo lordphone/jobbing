@@ -1,15 +1,15 @@
 {
   "company": "Consolidated Edison (Con Edison)",
   "tier": 11,
+  "checked": "2026-10-06",
   "status": "no_program_found",
-  "last_cycle_basis": "tracker 'Associate IT BSD OMS Team' first seen 2025-12-11 (NYC); unclear if SWE, not counted",
-  "jobs_page": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033",
-  "jobs_spec": "oracle:ejcu.fa.us6.oraclecloud.com/CX_1033",
-  "evidence": "Oracle API --all 2026-10-05 (39 postings): IT roles are Computer Aide co-op, IT vendor mgmt, FinOps Engineer, Maximo analyst, data product owner; Management Associate LDP; Associate (EP) Engineering SCADA is electrical engineering. No entry-level SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
   "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker 'Associate IT BSD OMS Team' first seen 2025-12-11 (NYC); not a SWE role, not counted",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "last_cycle_opened": null
+  "jobs_page": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033",
+  "jobs_spec": "oracle:ejcu.fa.us6.oraclecloud.com/CX_1033",
+  "evidence": "Oracle API --all 2026-10-06 (36 postings): IT roles are Computer Aide co-op, IT vendor mgmt, FinOps Engineer, Maximo analyst, data product owner; Management Associate LDP; SCADA associate is electrical engineering. No entry-level SWE.",
+  "confidence": "high"
 }

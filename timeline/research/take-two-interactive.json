@@ -1,15 +1,26 @@
 {
   "company": "Take-Two Interactive",
   "tier": 9,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2K Games - Engineering Graduate Program - Dublin",
+      "url": "https://job-boards.greenhouse.io/2kearlycareers/jobs/7992140003",
+      "location": "Dublin, Ireland (board location); posting text says program is based out of Dublin, Vancouver, BC and US offices (no US city listed)",
+      "opened": "2026-09-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Graduated Jan 2025 - Jul 2027; program starts July 2027",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2025-09-03",
   "last_cycle_basis": "tracker first-seen: 'Engineering Graduate Program', Novato CA (2K), https://job-boards.greenhouse.io/2k/jobs/6688546003",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/taketwo",
-  "jobs_spec": "gh:taketwo",
-  "evidence": "gh:taketwo (33) and gh:2k (124, --all) read 2026-10-05: no entry/graduate SWE in US or Toronto/Vancouver (Vancouver Technical Test Analyst I/II is test; Junior Engineer is Shanghai). 2K US Engineering Graduate Program opened 2025-09-03; not reposted yet.",
+  "jobs_page": "https://job-boards.greenhouse.io/2kearlycareers",
+  "jobs_spec": "gh:2kearlycareers",
+  "evidence": "gh:2kearlycareers 2026-10-06: Engineering Graduate Program (C++/Unreal, starts Jul 2027, first published 2026-09-14) live with apply form; board location Dublin only, text says Dublin, Vancouver and US offices. Main boards gh:taketwo / gh:2k have no entry SWE. No sponsorship line seen.",
   "confidence": "medium"
 }

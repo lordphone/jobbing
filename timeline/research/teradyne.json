@@ -1,15 +1,26 @@
 {
   "company": "Teradyne",
   "tier": 7,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Memory Test, San Jose, CA)",
+      "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Software-Engineer-(Memory-Test,-San-Jose,-CA)-CA-95101/1409221500/",
+      "location": "San Jose, CA",
+      "opened": "2026-08-13",
+      "date_source": "page text (Date: Aug 13, 2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: only 2024 NCG SWE postings (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing in 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.teradyne.com",
   "jobs_spec": null,
-  "evidence": "jobs.teradyne.com 2026-10-05: 'College Graduate' US results are Factory Applications Engineer (San Jose), Test Engineer (North Reading), not SWE. Plain 'Software Engineer' reqs (Compute Test, posted 2026-10-02) say 'Experienced', no sponsorship; others need 2-5+ yrs. No NCG SWE live yet.",
+  "evidence": "jobs.teradyne.com search 2026-10-06: San Jose Memory Test Software Engineer requires CS degree with 0-2 years, Apply live, no visa sponsorship. Other Software Engineer reqs are Experienced/5+ yrs; NCG postings (Factory Apps, Test Eng) are not SWE. Not a labeled new-grad program.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "PEAK6",
   "tier": 4,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://peak6.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page in browser pane 2026-10-05, all 81 titles read (incl. Apex Fintech, We Insure). Engineering roles are Platform/Application Support/IAM/Systems, mid/senior or support; early-career are Trading Associate 2027 and trading internships. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Careers page is JS-rendered; today's WebFetch/curl could not list openings and browser pane was unavailable. Carried forward 2026-10-05 browser read of all 81 titles: engineering roles are Platform/Support/IAM/Systems, mid/senior; early-career are trading roles. No entry-level SWE.",
+  "confidence": "low"
 }

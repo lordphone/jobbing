@@ -1,7 +1,7 @@
 {
   "company": "USAA",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,16 +9,6 @@
       "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0120279-1",
       "location": "San Antonio, TX",
       "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Software Engineer I - Cloud",
-      "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I---Cloud_R0120157",
-      "location": "San Antonio, TX",
-      "opened": "2026-09-21",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
@@ -36,11 +26,11 @@
     }
   ],
   "last_cycle_opened": "2025-08-27",
-  "last_cycle_basis": "tracker history: 'Software Engineer Entry Level' (Plano, TX) first seen 2025-08-27; older early-careers SWE postings Nov 2024-Feb 2025",
+  "last_cycle_basis": "tracker history: Software Engineer Entry Level (Plano) first seen 2025-08-27; Data Engineer Cloud Solutions Entry Level 2025-07-11",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
   "jobs_spec": "wd:usaa/wd1/USAAJOBSWD",
-  "evidence": "Workday CXS + detail 2026-10-05: three Software Engineer I postings live (San Antonio x2 incl. Cloud, Phoenix Claims), ~2 yrs preferred, 'does not provide visa sponsorship'. I-level counts; not labeled new grad.",
+  "evidence": "Workday API + detail 2026-10-06: two Software Engineer I postings live (San Antonio, Phoenix Claims), ~2 yrs preferred, 'USAA does not provide visa sponsorship'. I-level counts; not labeled new grad. Intermediate/Mid roles not counted.",
   "confidence": "medium"
 }

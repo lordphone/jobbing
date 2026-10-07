@@ -1,26 +1,26 @@
 {
   "company": "PowerSchool",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Software Engineer",
+      "title": "Associate Software Engineer - IC1",
       "url": "https://careers-powerschool.icims.com/jobs/53084/associate-software-engineer/job",
       "location": "Dallas, TX",
       "opened": "2026-09-14",
-      "date_source": "tracker first seen",
+      "date_source": "page text (JSON-LD datePosted) and tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No prior-cycle tracker history found for PowerSchool other than this posting.",
+  "last_cycle_basis": "No last-cycle posting found in tracker history or board.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-powerschool.icims.com",
   "jobs_spec": null,
-  "evidence": "Posting page fetched 2026-10-05 (curl): 'Apply for this job online' present; Associate Software Engineer IC1, Dallas TX, full-stack React/TypeScript; no grad-year, sponsorship or deadline text. Only entry-level SWE on iCIMS.",
-  "confidence": "high"
+  "evidence": "iCIMS posting fetched 2026-10-06 (curl): Apply for this job online present, datePosted 2026-09-14, requires 1 year or less experience, full-stack React/TypeScript/Java, Dallas TX. Other SWE reqs are Software Engineer/Senior/Lead.",
+  "confidence": "medium"
 }

@@ -1,6 +1,7 @@
 {
-  "tier": 11,
   "company": "AT&T",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -15,12 +16,11 @@
     }
   ],
   "last_cycle_opened": "2024-10-18",
-  "last_cycle_basis": "Tracker history: 'New Grad 2025: Technology Development Program' (Atlanta) first seen 2024-10-18; 2025-10-30 Software Developer SWE I Government (Columbia, MD) listed on ATTGeneral board",
+  "last_cycle_basis": "Tracker history: 'New Grad 2025: Technology Development Program' (Atlanta) first seen 2024-10-18; no 2025-26 TDP seen in trackers",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "attcollege Workday board (6 postings) + posting 2026-10-05: TDP has Software Engineer and Data Science Engineer tracks, canApply true, endDate 2026-11-14, start by July 2027. 'Will not hire ... who require employer sponsorship'. TDP Internship also listed (not counted).",
-  "confidence": "high",
-  "checked": "2026-10-05",
-  "excluded_reason": null
+  "evidence": "attcollege Workday board (4 postings) and posting 2026-10-06: TDP has Software Engineer and Data Science Engineer tracks, canApply true, endDate 2026-11-14. 'Will not hire any applicants ... who require employer sponsorship'. TDP Internship listed separately (not counted).",
+  "confidence": "high"
 }

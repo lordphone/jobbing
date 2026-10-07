@@ -1,15 +1,15 @@
 {
   "company": "Parker Hannifin",
-  "status": "no_program_found",
-  "last_cycle_basis": "no tracker history",
-  "jobs_page": "https://parkercareers.ttcportals.com/jobs/search",
-  "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: Students listing (66 jobs, 57 US) is interns, co-ops and Associate Quality Engineer; no software role. General software keyword search could not be rerun (shared browser pane hijacked); earlier pass found only Sr/III/manager software roles.",
-  "confidence": "medium",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://parkercareers.ttcportals.com/jobs/search",
+  "jobs_spec": null,
+  "evidence": "parkercareers.ttcportals.com returned 403 (Cloudflare) this run; search found nothing. Prior browser read 2026-10-05: Students listing (66 jobs) is interns, co-ops, Associate Quality Engineer; no software role. Software search not re-run.",
+  "confidence": "low"
 }

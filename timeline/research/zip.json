@@ -1,17 +1,17 @@
 {
   "company": "Zip",
   "tier": 3,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad (2027 Start)",
       "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "location": "Toronto, Canada",
+      "location": "Toronto, ON, Canada",
       "opened": "2026-08-25",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "api"
     },
     {
@@ -19,9 +19,9 @@
       "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
       "location": "San Francisco, CA",
       "opened": "2026-08-25",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (same date as Toronto twin)",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "browser"
     }
   ],
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/zip",
   "jobs_spec": "ashby:zip",
-  "evidence": "Ashby API: Toronto 2027-start new-grad listed (2026-08-25). SF twin is unlisted on API but its page opened in browser 2026-10-05 with Apply button; grads Dec 2026-Jun 2027. No deadline or sponsorship text.",
+  "evidence": "Ashby API lists Toronto 2027-start new-grad (2026-08-25); SF twin unlisted on API but page opened in browser 2026-10-06 with grads Dec 2026-Jun 2027. No deadline or sponsorship text.",
   "confidence": "high"
 }

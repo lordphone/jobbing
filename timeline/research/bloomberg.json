@@ -1,7 +1,7 @@
 {
   "company": "Bloomberg",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -21,6 +21,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://bloomberg.avature.net/careers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-05: Avature keyword search '2027 Software Engineer' lists no jobs, but unlisted JobDetail/21414 '2027 Software Engineer - New York' still shows APPLY NOW; no description, dates or sponsorship text, so may be a pre-staged shell. Verify manually.",
+  "evidence": "2026-10-06 fetch: unlisted JobDetail/21414 '2027 Software Engineer - New York' still shows Apply Now (two buttons); page text shows no description, dates or sponsorship, so may be a pre-staged shell. Keyword search had listed nothing 2026-10-05. Verify manually.",
   "confidence": "low"
 }

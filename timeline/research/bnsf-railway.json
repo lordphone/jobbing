@@ -1,6 +1,7 @@
 {
   "company": "BNSF Railway",
   "tier": 11,
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -8,29 +9,28 @@
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95881EXTERNALENUS",
       "location": "Remote (US, contiguous 48 states; onboarding Fort Worth, TX)",
       "opened": "2026-09-04",
-      "date_source": "phenom board listing postedDate (page JSON-LD datePosted 2026-09-29, likely repost)",
+      "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29, likely repost)",
       "deadline": null,
       "grad_window": "recent grads or pursuing CS/IT/Data Science/AI degree; starts 2027-02-01, 2027-06-14, 2027-09-20; <3 yrs experience",
-      "live_verified": "api"
+      "live_verified": "browser"
     },
     {
       "title": "Product, Platform & Enterprise Full Stack Software Engineer I/II (Remote - US)",
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95574EXTERNALENUS",
       "location": "Remote (US, contiguous 48 states)",
       "opened": "2026-07-28",
-      "date_source": "phenom board listing postedDate (page JSON-LD datePosted 2026-09-29)",
+      "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29)",
       "deadline": "approximately 2026-10-06 (posting: closes about 7 days after posting date 2026-09-29)",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "web search shows a 'bnsf tech trainee 2026' and 'Technology Services Management Trainee 2025' posting but no open date found",
+  "last_cycle_basis": "no tracker history; no last-cycle open date found",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "BNSF Phenom page 2026-10-05: both postings show Apply Now. Tech Trainee 2027 (<3 yrs exp, 30 positions, requires no H-1B/OPT/TN assistance, now or future). SWE I/II open to H-1B transfer and STEM OPT, closing about 2026-10-06.",
-  "confidence": "high",
-  "checked": "2026-10-05",
-  "excluded_reason": null
+  "evidence": "2026-10-06 Phenom pages: both show Apply Now. bnsf tech Trainee 2027 (<3 yrs exp, requires no H-1B/OPT/TN assistance, now or future). SWE I/II open to H-1B transfer/STEM OPT; posting says closes about 7 days after 2026-09-29 posting date.",
+  "confidence": "high"
 }

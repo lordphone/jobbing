@@ -1,26 +1,26 @@
 {
   "company": "Caterpillar",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer",
+      "title": "Software Engineer (Cat Digital)",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873",
-      "location": "Chicago, Illinois; Peoria, Illinois; Irving, Texas",
-      "opened": "2026-09-07",
-      "date_source": "tracker first seen (Workday startDate 2026-09-11)",
+      "location": "Chicago, IL; Peoria, IL; Irving, TX",
+      "opened": "2026-09-11",
+      "date_source": "workday startDate",
       "deadline": "2026-11-14",
-      "grad_window": "first 24 months of career; degree complete by start date",
+      "grad_window": "degree completed by start date",
       "live_verified": "api"
     }
   ],
-  "last_cycle_opened": "2025-02-18",
-  "last_cycle_basis": "tracker first-seen: 'Early Career Software Engineer' (Cat Digital; Chicago/Peoria/Irving), 2025-02-18; also Aftermarket Data Engineer I 2025-07-17",
+  "last_cycle_opened": "2026-01-26",
+  "last_cycle_basis": "tracker history: Software Engineer (Peoria/Chicago/Irving) first seen 2026-01-26; Early Career Software Engineer 2025-02-18 (spring cycle before)",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
   "jobs_spec": "wd:cat/wd5/CaterpillarCareers",
-  "evidence": "Workday detail 2026-10-05: Cat Digital Software Engineer (R0000392873) still live, startDate 2026-09-11, endDate 2026-11-14, no sponsorship now or future; early-career (0-2 yrs). 2027 interns/co-ops not counted. No other entry SWE on board.",
+  "evidence": "Workday API + detail 2026-10-06: Software Engineer R0000392873 live, canApply true, endDate 2026-11-14, 0-2 yrs, degree by start date, 'sponsorship NOT available'. Software Engineer (.NET & AI, Cary NC, ends 2026-10-11) not clearly entry-level, not counted.",
   "confidence": "high"
 }

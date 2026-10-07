@@ -1,15 +1,15 @@
 {
   "company": "Chan Zuckerberg Initiative (CZI)",
   "tier": 2,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only two non-new-grad Applied AI Engineer - Investments postings (2026-06, 2026-07); no new-grad SWE track.",
+  "last_cycle_basis": "jobs.py history: only two Applied AI Engineer - Investments postings (2026-06/07), not new-grad.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chanzuckerberginitiative",
   "jobs_spec": "gh:chanzuckerberginitiative",
-  "evidence": "Greenhouse API 2026-10-05, 8 postings (--all): Senior SWE (Internal Tools), Senior TPM, analyst/comms roles. No entry-level SWE. History shows only Applied AI Engineer - Investments (2026-06/07), not new grad.",
+  "evidence": "gh:chanzuckerberginitiative --all 2026-10-06 (8 postings): Senior SWE Internal Tools, Senior TPM, analyst/comms roles. No entry-level SWE.",
   "confidence": "high"
 }

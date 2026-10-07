@@ -1,7 +1,7 @@
 {
   "company": "SAP",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-09-13",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
   "jobs_spec": null,
-  "evidence": "jobs.sap.com (WebFetch 2026-10-05): US/Canada early-career results are intern/iXp roles only; SAP North America University page lists one US intern. Earlier browser read: careers.sap.com US software jobs senior/expert. SAP Academy grad roles seen outside US only; search filters did not apply, so low coverage.",
-  "confidence": "medium"
+  "evidence": "jobs.sap.com blocks plain requests (Cloudflare); WebFetch 2026-10-06 ignored filters (86 jobs, none US/Canada early-career); search showed only 2024 Palo Alto New Grad SWE and non-US Academy roles. No 2027 US SWE grad posting seen; low coverage.",
+  "confidence": "low"
 }

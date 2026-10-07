@@ -1,15 +1,26 @@
 {
   "company": "Dow Inc.",
-  "status": "not_yet",
+  "tier": 11,
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "2026-2027 Campus Graduate - Research & Development (BS/MS)",
+      "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809",
+      "location": "Midland, MI; Wilmington, DE; Carrollton, KY; Houston, TX; Plaquemine, LA; Freeport, TX; Auburn, MI; Collegeville, PA; South Charleston, WV",
+      "opened": "2026-09-29",
+      "date_source": "workday startDate (Posted 7 Days Ago)",
+      "deadline": "2026-12-01",
+      "grad_window": "2026-27 graduates",
+      "live_verified": "api"
+    }
+  ],
   "last_cycle_opened": "2026-02-11",
-  "last_cycle_basis": "SimplifyJobs/vanshb03 tracker: 'Associate Data Engineer' on Dow's own board, first seen 2026-02-11 (closest entry-level software-adjacent role)",
+  "last_cycle_basis": "Tracker: Associate Data Engineer on Dow board, first seen 2026-02-11 (spring; closest entry software-adjacent role)",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://dow.wd1.myworkdayjobs.com/ExternalCareers",
   "jobs_spec": "wd:dow/wd1/ExternalCareers",
-  "evidence": "Workday --all 2026-10-05: 2026-27 Campus Graduate roles are Accounting/Finance, US Operations, R&D BS/MS (R2068809; ends 2026-12-01, no sponsorship; science R&D track, lists data science/engineering among areas), PhD. No SWE new-grad posting; Data Engineer roles are interns.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
-  "tier": 11,
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday cxs: R&D BS/MS campus program (canApply, ends 2026-12-01, no sponsorship) accepts CS/Data Science degrees; areas include data science/engineering, but mostly chemistry R&D. No dedicated SWE new-grad role; borderline.",
+  "confidence": "low"
 }

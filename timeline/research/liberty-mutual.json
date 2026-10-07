@@ -1,7 +1,7 @@
 {
   "company": "Liberty Mutual",
   "tier": 11,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,18 +9,18 @@
       "url": "https://searchjobs.libertymutualgroup.com/careers/job/618519062757",
       "location": "Portsmouth, NH; Boston, MA; Plano, TX; Indianapolis, IN",
       "opened": "2026-08-11",
-      "date_source": "eightfold api t_create",
+      "date_source": "eightfold t_create (updated 2026-09-29)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found; trackers have no history",
+  "last_cycle_basis": "unknown; no TechStart or entry SWE posting in tracker history for Jul 2025 - Jan 2026 (tracker shows only analyst/data science roles)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://searchjobs.libertymutualgroup.com/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold API 2026-10-05: 2027 TechStart Full-Time Program still returns, software track, 0-2 yrs, bachelor's in CS or completing, created 2026-08-11, no deadline stated; requires full U.S. work authorization without restrictions. Other SWE roles senior or co-ops.",
+  "evidence": "Eightfold API in browser 2026-10-06: 2027 TechStart Full-Time Program (req 2026-77144) still listed, entry-level software engineering, 0-2 yrs, bachelor's in CS or related; no sponsorship or citizenship text found. TechStart Summer Internship and co-ops not counted.",
   "confidence": "high"
 }

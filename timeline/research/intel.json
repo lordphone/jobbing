@@ -1,15 +1,26 @@
 {
   "company": "Intel",
   "tier": 7,
-  "checked": "2026-10-05",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-06",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Foundry Cloud Services Developer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
+      "location": "Hillsboro, OR; Phoenix, AZ",
+      "opened": "on or before 2026-09-24",
+      "date_source": "workday postedOn (Posted 12 Days Ago); tracker first seen 2026-09-21",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first seen: Software Application Development Engineer (Phoenix, AZ), intel.wd1.myworkdayjobs.com, active 2025-11-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://intel.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:intel/wd1/External",
-  "evidence": "Workday board 2026-10-05 (--all): only intern/graduate-intern SWE roles, Penang graduate roles and sales/other. Phoenix Software Application Development Engineer is experienced-hire and requires US citizenship plus TS clearance. Foundry Cloud tracker lead not entry-level. No US new-grad SWE live.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-06 (--all) has only intern/Penang grad/sales roles, but tracker lead page opened in browser: Apply button live, Job Type 'College Grad', bachelor's CS, asks 3+ yrs and reads mid-level ($117-166K). No citizenship text. Borderline level.",
+  "confidence": "medium"
 }

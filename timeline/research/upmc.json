@@ -1,36 +1,36 @@
 {
   "company": "UPMC",
   "tier": 11,
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
-      "title": "Information Technology Rotation (ITR) Program - Winter Cohort (software engineering among rotations)",
-      "url": "https://careers.upmc.com/job/23684047/",
+      "title": "Information Technology Rotation (ITR) Program (software engineering among rotations; job 260001MI)",
+      "url": "https://careers.upmc.com/job/23684048/information-technology-rotation-itr-program/",
       "location": "Pittsburgh, PA",
       "opened": "2026-08-25",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": "Degree completed in or before January 2027; cohort starts January 2027",
-      "live_verified": "api"
+      "date_source": "page text / listing posted date",
+      "deadline": "approx 2026-10-31, or until positions are filled (posting says subject to change)",
+      "grad_window": "degree completion in or before June 2027; cohort starts July 2027",
+      "live_verified": "browser"
     },
     {
-      "title": "Information Technology Rotation (ITR) Program (software engineering among rotations)",
-      "url": "https://careers.upmc.com/job/23684048/",
+      "title": "Information Technology Rotation (ITR) Program - Winter Cohort (job 260001MH)",
+      "url": "https://careers.upmc.com/job/23684047/information-technology-rotation-itr-program-winter-cohort/",
       "location": "Pittsburgh, PA",
       "opened": "2026-08-25",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": "Degree completed in or before June 2027; cohort starts July 2027",
-      "live_verified": "api"
+      "date_source": "listing posted date",
+      "deadline": "approx 2026-10-31, or until positions are filled (posting says subject to change)",
+      "grad_window": null,
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; UPMC students page says applications run early August to end of October or until filled; no tracker history",
-  "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=software%20engineer",
-  "jobs_spec": null,
-  "evidence": "Fetched both ITR posting pages 2026-10-05: Apply shown, datePosted 2026-08-25. Two-year, four-rotation entry-level IT program; rotations include software engineering, custom application development, plus PM/analyst/infra (mixed IT track). Pittsburgh required. No sponsorship text found.",
-  "confidence": "medium",
-  "checked": "2026-10-05",
+  "last_cycle_basis": "unknown; posting timeline says applications run early August to end of October",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=information%20technology%20rotation",
+  "jobs_spec": null,
+  "evidence": "Opened ITR page in browser 2026-10-06: APPLY NOW, entry-level two-year rotation incl. software engineering and custom application development, mixed IT track. Pittsburgh required. 'software engineer' search shows only facilities roles. No sponsorship text found.",
+  "confidence": "medium"
 }

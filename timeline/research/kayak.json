@@ -1,13 +1,13 @@
 {
   "company": "KAYAK",
   "tier": 9,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
       "title": "Associate Software Engineer (closed)",
       "url": "https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320",
-      "location": "Cambridge, MA; Concord, MA",
+      "location": "Concord, MA; Cambridge, MA",
       "opened": "2026-07-20",
       "date_source": "tracker first seen",
       "deadline": null,
@@ -17,9 +17,9 @@
     {
       "title": "Software Engineer, Ads (Backend) (closed)",
       "url": "https://jobs.ashbyhq.com/KAYAK/85165d45-de15-444d-8a5e-b7fdb8f3cf1e",
-      "location": "Concord, MA",
+      "location": "United States (no city listed)",
       "opened": "2026-10-02",
-      "date_source": "ashby published (prior run)",
+      "date_source": "ashby published",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api"
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/KAYAK",
   "jobs_spec": "ashby:KAYAK",
-  "evidence": "Ashby API (33 postings): only Senior/Staff/Manager engineers in Kaunas, Berlin, Concord. Associate SWE (2026-07-20) and Software Engineer, Ads (Backend) (2026-10-02) both return null from Ashby posting lookup and are off the board. Closed; was open at last check.",
+  "evidence": "Ashby board (34): only Senior/Staff/Manager engineers plus Associate Security Engineer (Berlin). Associate Software Engineer (2026-07-20) and Software Engineer, Ads (Backend) (2026-10-02) are off the board (NOT ON THE BOARD from API); not confirmed in a browser.",
   "confidence": "medium"
 }

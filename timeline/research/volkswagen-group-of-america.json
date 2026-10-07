@@ -1,15 +1,15 @@
 {
   "company": "Volkswagen Group of America",
-  "tier": 8,
-  "checked": "2026-10-05",
   "status": "no_program_found",
+  "last_cycle_basis": "No tracker history for VW Group of America",
+  "jobs_page": "https://jobs.volkswagen-group.com/search/?locationsearch=United+States",
+  "evidence": "jobs.volkswagen-group.com sitemap read 2026-10-06 (search page is JS-rendered), US entries filtered: Belmont CA (Sr Android Automotive, contract DevOps, Director), Auburn Hills, Reston, Oxnard, PDC managers. All senior, contract or non-software. No entry-level SWE.",
+  "tier": 8,
+  "checked": "2026-10-06",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for VW Group of America",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.volkswagen-group.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "jobs.volkswagen-group.com sitemap (950 jobs; search page is JS-rendered) read 2026-10-05, US entries filtered: Belmont CA (Sr Android Automotive, Sr DevOps contract, Director), Reston/Ashburn (Electrify America), Chattanooga, Auburn Hills. No entry-level or graduate SWE; US roles are senior, contract or non-software.",
   "confidence": "medium"
 }

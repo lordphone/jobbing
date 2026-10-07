@@ -5,7 +5,7 @@
    "kind": "ashby",
    "slug": "1password",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 69,
    "board_name": "",
    "hits": []
   }
@@ -15,12 +15,21 @@
    "kind": "ashby",
    "slug": "1x",
    "guessed": false,
-   "n_jobs": 95,
+   "n_jobs": 98,
    "board_name": "",
    "hits": []
   }
  ],
- "23andMe (owned by TTAM Research Institute since 2025)": [],
+ "23andMe (owned by TTAM Research Institute since 2025)": [
+  {
+   "kind": "workday",
+   "slug": "23andme/wd5/23",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "2U (edX)": [
   {
    "kind": "greenhouse",
@@ -56,7 +65,7 @@
    "kind": "workday",
    "slug": "maersk/wd3/maersk_careers",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -66,7 +75,7 @@
    "kind": "workday",
    "slug": "aaamidatlantic/wd5/AAAMidAtlantic",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 24,
    "board_name": "",
    "hits": []
   },
@@ -74,7 +83,7 @@
    "kind": "workday",
    "slug": "ace/wd5/careers",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   },
@@ -82,7 +91,7 @@
    "kind": "workday",
    "slug": "aaaie/wd1/csaacareers",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -92,14 +101,14 @@
    "kind": "workday",
    "slug": "abb/wd3/external_career_page",
    "guessed": false,
-   "n_jobs": 111,
+   "n_jobs": 115,
    "board_name": "",
    "hits": [
     {
      "title": "Junior Software Engineer (Application Development Engineer )",
      "loc": "2 Locations",
      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Junior-Software-Engineer_JR00043012",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -121,7 +130,7 @@
    "kind": "lever",
    "slug": "thinkahead",
    "guessed": false,
-   "n_jobs": 147,
+   "n_jobs": 146,
    "board_name": "",
    "hits": []
   }
@@ -132,13 +141,29 @@
    "kind": "workday",
    "slug": "aig/wd1/early_careers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 24,
    "board_name": "",
    "hits": [
     {
      "title": "2027 Early Careers: Analyst, Data Office: Data Engineering \u2013 United States, Multiple Locations",
      "loc": "4 Locations",
      "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249",
+     "date": "2026-10-01",
+     "date_kind": "exact"
+    }
+   ]
+  },
+  {
+   "kind": "workday",
+   "slug": "aig/wd1/aig",
+   "guessed": false,
+   "n_jobs": 58,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "2027 Early Careers: Analyst, Data Office: Data Engineering \u2013 United States, Multiple Locations",
+     "loc": "4 Locations",
+     "url": "https://aig.wd1.myworkdayjobs.com/aig/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249-1",
      "date": "2026-10-01",
      "date_kind": "exact"
     }
@@ -173,7 +198,7 @@
    "kind": "workday",
    "slug": "asml/wd3/asmlext1",
    "guessed": false,
-   "n_jobs": 73,
+   "n_jobs": 71,
    "board_name": "",
    "hits": []
   }
@@ -184,7 +209,7 @@
    "kind": "greenhouse",
    "slug": "astspacemobile",
    "guessed": false,
-   "n_jobs": 232,
+   "n_jobs": 227,
    "board_name": "AST SpaceMobile",
    "hits": [
     {
@@ -215,7 +240,7 @@
    "kind": "workday",
    "slug": "att/wd1/ATTGeneral",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -225,7 +250,7 @@
    "kind": "workday",
    "slug": "aveva/wd3/AVEVA_careers",
    "guessed": false,
-   "n_jobs": 57,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -234,9 +259,17 @@
  "Abbott Laboratories": [
   {
    "kind": "workday",
+   "slug": "abbott/wd5/abbottcareers",
+   "guessed": false,
+   "n_jobs": 48,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
    "slug": "abbott/wd5/abbottcareers2",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -278,27 +311,36 @@
    "hits": []
   }
  ],
- "Academy Sports + Outdoors": [],
+ "Academy Sports + Outdoors": [
+  {
+   "kind": "workday",
+   "slug": "academy/wd1/careers",
+   "guessed": false,
+   "n_jobs": 28,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Accenture": [
   {
    "kind": "workday",
    "slug": "accenture/wd103/AccentureCareers",
    "guessed": false,
-   "n_jobs": 153,
+   "n_jobs": 154,
    "board_name": "",
    "hits": [
     {
      "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
      "loc": "",
      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Software Engineering New Associate (Fresh Diploma Graduate Program)",
      "loc": "",
      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00263654",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -319,21 +361,21 @@
      "title": "Mid-Level Springboot Developer I Cebu",
      "loc": "",
      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Mid-Level-Springboot-Developer-I-Cebu_R00305268",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Mid-Level Java Enterprise Edition Developer I Cebu",
      "loc": "",
      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Mid-Level-Java-Enterprise-Edition-Developer-I-Cebu_R00319439",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Mid-Level Java Enterprise Edition Developer I Cebu",
      "loc": "",
      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Jakarta-Enterprise-Edition---Java-Enterprise-Edition---Cebu_R00271525-25",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -342,7 +384,7 @@
    "kind": "greenhouse",
    "slug": "accenturefederalservices",
    "guessed": false,
-   "n_jobs": 593,
+   "n_jobs": 596,
    "board_name": "Accenture Federal Services",
    "hits": [
     {
@@ -392,7 +434,7 @@
    "kind": "workday",
    "slug": "acuityinternational/wd5/external",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 5,
    "board_name": "",
    "hits": []
   }
@@ -402,7 +444,7 @@
    "kind": "greenhouse",
    "slug": "addepar1",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 112,
    "board_name": "Addepar",
    "hits": []
   }
@@ -413,7 +455,7 @@
    "kind": "workday",
    "slug": "adobe/wd5/external_experienced",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 55,
    "board_name": "",
    "hits": [
     {
@@ -438,7 +480,7 @@
    "kind": "greenhouse",
    "slug": "adyen",
    "guessed": false,
-   "n_jobs": 225,
+   "n_jobs": 229,
    "board_name": "Adyen",
    "hits": []
   }
@@ -448,15 +490,22 @@
    "kind": "workday",
    "slug": "avav/wd1/avav",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 61,
    "board_name": "",
    "hits": [
     {
      "title": "Junior Software Engineer",
      "loc": "420 National Business Parkway, Jessup, MD",
      "url": "https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
-     "date": "2026-09-05",
-     "date_kind": "on or before"
+     "date": "2026-10-06",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Associate Software Engineer",
+     "loc": "Moorpark, CA",
+     "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+     "date": "2026-10-06",
+     "date_kind": "exact"
     }
    ]
   }
@@ -466,9 +515,15 @@
    "kind": "greenhouse",
    "slug": "affirm",
    "guessed": false,
-   "n_jobs": 184,
+   "n_jobs": 187,
    "board_name": "Affirm",
    "hits": [
+    {
+     "title": "Software Engineer I, Backend (Collections)",
+     "loc": "Remote Spain",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+     "date": "2026-07-22"
+    },
     {
      "title": "Software Engineer I, Backend (Collections)",
      "loc": "Remote Poland",
@@ -476,10 +531,16 @@
      "date": "2026-07-22"
     },
     {
-     "title": "Software Engineer I, Backend (Collections)",
-     "loc": "Remote Spain",
-     "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-     "date": "2026-07-22"
+     "title": "Software Engineer I (New Grad 2027) (NYC)",
+     "loc": "New York, New York, United States",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+     "date": "2026-10-06"
+    },
+    {
+     "title": "Software Engineer I (New Grad 2027) (SF)",
+     "loc": "San Francisco, California, United States",
+     "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+     "date": "2026-10-06"
     }
    ]
   }
@@ -490,7 +551,7 @@
    "kind": "lever",
    "slug": "agile-defense",
    "guessed": false,
-   "n_jobs": 123,
+   "n_jobs": 129,
    "board_name": "",
    "hits": [
     {
@@ -515,7 +576,7 @@
    "kind": "workday",
    "slug": "agilent/wd5/Agilent_Careers",
    "guessed": false,
-   "n_jobs": 50,
+   "n_jobs": 49,
    "board_name": "",
    "hits": []
   }
@@ -525,7 +586,7 @@
    "kind": "greenhouse",
    "slug": "agilityrobotics",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 77,
    "board_name": "Agility Robotics",
    "hits": []
   }
@@ -535,7 +596,7 @@
    "kind": "greenhouse",
    "slug": "agoda",
    "guessed": false,
-   "n_jobs": 300,
+   "n_jobs": 295,
    "board_name": "Agoda",
    "hits": []
   }
@@ -557,7 +618,7 @@
    "kind": "greenhouse",
    "slug": "airbnb",
    "guessed": false,
-   "n_jobs": 151,
+   "n_jobs": 160,
    "board_name": "Airbnb",
    "hits": []
   }
@@ -567,7 +628,7 @@
    "kind": "workday",
    "slug": "ag/wd3/Airbus",
    "guessed": false,
-   "n_jobs": 125,
+   "n_jobs": 126,
    "board_name": "",
    "hits": []
   }
@@ -639,7 +700,7 @@
    "kind": "ashby",
    "slug": "alchemy",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   }
@@ -649,7 +710,7 @@
    "kind": "greenhouse",
    "slug": "algolia",
    "guessed": false,
-   "n_jobs": 39,
+   "n_jobs": 40,
    "board_name": "Algolia",
    "hits": []
   }
@@ -661,7 +722,7 @@
    "kind": "greenhouse",
    "slug": "alixpartners",
    "guessed": false,
-   "n_jobs": 114,
+   "n_jobs": 115,
    "board_name": "AlixPartners",
    "hits": []
   }
@@ -681,7 +742,7 @@
    "kind": "workday",
    "slug": "allegromicro/wd5/allegrocareers",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 20,
    "board_name": "",
    "hits": []
   }
@@ -699,7 +760,7 @@
    "kind": "workday",
    "slug": "abglobal/wd1/alliancebernsteincareers",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -710,7 +771,15 @@
    "kind": "workday",
    "slug": "allstate/wd5/allstate_careers",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 65,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "allstate/wd5/sourcing_event",
+   "guessed": false,
+   "n_jobs": 8,
    "board_name": "",
    "hits": []
   }
@@ -720,7 +789,7 @@
    "kind": "workday",
    "slug": "ally/wd1/Ally",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 37,
    "board_name": "",
    "hits": []
   }
@@ -730,7 +799,7 @@
    "kind": "greenhouse",
    "slug": "alpaca",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 72,
    "board_name": "Alpaca ",
    "hits": []
   }
@@ -740,7 +809,7 @@
    "kind": "greenhouse",
    "slug": "alphasense",
    "guessed": false,
-   "n_jobs": 197,
+   "n_jobs": 199,
    "board_name": "AlphaSense",
    "hits": []
   }
@@ -760,7 +829,7 @@
    "kind": "workday",
    "slug": "altera/wd1/altera",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   }
@@ -811,14 +880,14 @@
    "kind": "workday",
    "slug": "pae/wd1/amentum_careers",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 119,
    "board_name": "",
    "hits": [
     {
      "title": "Applied Multiphysics Engineer I",
      "loc": "US-SC-Greenville",
      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-SC-Greenville/Applied-Multiphysics-Engineer-I_R0167814",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -831,28 +900,19 @@
    "kind": "workday",
    "slug": "aep/wd1/AEPCareerSite",
    "guessed": false,
-   "n_jobs": 63,
+   "n_jobs": 65,
    "board_name": "",
    "hits": []
   }
  ],
  "American Express": [],
- "American Family Insurance": [
-  {
-   "kind": "workday",
-   "slug": "amfam/wd1/Careers",
-   "guessed": false,
-   "n_jobs": 0,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "American Family Insurance": [],
  "Ameriprise Financial": [
   {
    "kind": "workday",
    "slug": "ameriprise/wd5/Ameriprise",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 26,
    "board_name": "",
    "hits": []
   }
@@ -862,7 +922,7 @@
    "kind": "workday",
    "slug": "amgen/wd1/careers",
    "guessed": false,
-   "n_jobs": 102,
+   "n_jobs": 119,
    "board_name": "",
    "hits": []
   }
@@ -913,7 +973,7 @@
    "kind": "workday",
    "slug": "amainc/wd12/ama_careers",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -933,7 +993,7 @@
    "kind": "workday",
    "slug": "ancestry/wd501/Careers",
    "guessed": false,
-   "n_jobs": 8,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   }
@@ -948,13 +1008,65 @@
    "hits": []
   }
  ],
- "Anduril": [],
+ "Anduril": [
+  {
+   "kind": "greenhouse",
+   "slug": "andurilindustries",
+   "guessed": false,
+   "n_jobs": 2463,
+   "board_name": "Anduril Industries",
+   "hits": [
+    {
+     "title": "2026 Early Career Software Engineer",
+     "loc": "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
+     "date": "2025-08-11"
+    },
+    {
+     "title": "2027 Early Career Flight Software Engineer",
+     "loc": "Costa Mesa, California, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "2027 Early Career Software Engineer ",
+     "loc": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+     "date": "2026-06-11"
+    },
+    {
+     "title": "Entry Level Systems Engineer, C2 Integration, Clearance Eligible",
+     "loc": "Costa Mesa, California, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007",
+     "date": "2026-09-21"
+    },
+    {
+     "title": "Entry Level Systems Engineer, C2 Networking, Clearance Eligible",
+     "loc": "Costa Mesa, California, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007",
+     "date": "2026-09-21"
+    },
+    {
+     "title": "New Grad Systems Engineer, C2 Integration, Clearance Eligible",
+     "loc": "Costa Mesa, California, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007",
+     "date": "2026-09-21"
+    },
+    {
+     "title": "Systems Engineer, Space Emerging Talent",
+     "loc": "Costa Mesa, California, United States",
+     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
  "AngelList": [
   {
    "kind": "lever",
    "slug": "angellist",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 26,
    "board_name": "",
    "hits": []
   }
@@ -964,7 +1076,7 @@
    "kind": "ashby",
    "slug": "angi",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -974,7 +1086,7 @@
    "kind": "workday",
    "slug": "abinbev/wd1/USA",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 16,
    "board_name": "",
    "hits": []
   },
@@ -992,7 +1104,7 @@
    "kind": "workday",
    "slug": "ankura/wd5/ankura",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -1003,7 +1115,7 @@
    "kind": "greenhouse",
    "slug": "anthropic",
    "guessed": false,
-   "n_jobs": 646,
+   "n_jobs": 641,
    "board_name": "Anthropic",
    "hits": []
   }
@@ -1032,7 +1144,7 @@
    "kind": "workday",
    "slug": "peak6group/wd1/apexfintechsolutions",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -1062,7 +1174,7 @@
    "kind": "greenhouse",
    "slug": "apolloio",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 46,
    "board_name": "Apollo.io",
    "hits": []
   }
@@ -1073,7 +1185,7 @@
    "kind": "greenhouse",
    "slug": "applovin",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 43,
    "board_name": "AppLovin",
    "hits": []
   }
@@ -1083,7 +1195,7 @@
    "kind": "greenhouse",
    "slug": "appian",
    "guessed": false,
-   "n_jobs": 167,
+   "n_jobs": 166,
    "board_name": "Appian Corporation ",
    "hits": []
   }
@@ -1094,7 +1206,7 @@
    "kind": "ashby",
    "slug": "applied",
    "guessed": false,
-   "n_jobs": 310,
+   "n_jobs": 316,
    "board_name": "",
    "hits": [
     {
@@ -1141,7 +1253,7 @@
    "kind": "workday",
    "slug": "amat/wd1/External",
    "guessed": false,
-   "n_jobs": 117,
+   "n_jobs": 118,
    "board_name": "",
    "hits": [
     {
@@ -1155,7 +1267,7 @@
      "title": "2027 Engineer Development Rotation Program - Systems Engineer I New College Grad - BS or MS (Gloucester, MA)",
      "loc": "Gloucester,MA",
      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Systems-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625758-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -1166,7 +1278,7 @@
    "kind": "greenhouse",
    "slug": "appsflyer",
    "guessed": false,
-   "n_jobs": 45,
+   "n_jobs": 43,
    "board_name": "AppsFlyer",
    "hits": []
   }
@@ -1186,7 +1298,7 @@
    "kind": "workday",
    "slug": "aptiv/wd5/aptiv_careers",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -1207,7 +1319,7 @@
    "kind": "lever",
    "slug": "arcteryx.com",
    "guessed": false,
-   "n_jobs": 274,
+   "n_jobs": 272,
    "board_name": "",
    "hits": []
   }
@@ -1223,13 +1335,22 @@
    "hits": []
   }
  ],
- "Arctic Wolf": [],
+ "Arctic Wolf": [
+  {
+   "kind": "workday",
+   "slug": "arcticwolf/wd1/External",
+   "guessed": false,
+   "n_jobs": 11,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Ares Management": [
   {
    "kind": "workday",
    "slug": "aresmgmt/wd1/External",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 43,
    "board_name": "",
    "hits": []
   }
@@ -1298,7 +1419,7 @@
    "kind": "workday",
    "slug": "arrowstreetcapital/wd5/Arrowstreet",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -1309,13 +1430,22 @@
    "kind": "greenhouse",
    "slug": "asana",
    "guessed": false,
-   "n_jobs": 101,
+   "n_jobs": 96,
    "board_name": "Asana",
    "hits": []
   }
  ],
  "Ascension": [],
- "AspenTech": [],
+ "AspenTech": [
+  {
+   "kind": "workday",
+   "slug": "aspentech/wd5/aspentech",
+   "guessed": false,
+   "n_jobs": 48,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "AssemblyAI": [
   {
    "kind": "greenhouse",
@@ -1331,7 +1461,7 @@
    "kind": "workday",
    "slug": "assetmark/wd5/AssetMark_Careers",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 16,
    "board_name": "",
    "hits": []
   }
@@ -1361,7 +1491,7 @@
    "kind": "greenhouse",
    "slug": "astranis",
    "guessed": false,
-   "n_jobs": 182,
+   "n_jobs": 183,
    "board_name": "Astranis",
    "hits": [
     {
@@ -1398,7 +1528,7 @@
    "kind": "ashby",
    "slug": "aurora-operations-inc",
    "guessed": false,
-   "n_jobs": 96,
+   "n_jobs": 99,
    "board_name": "",
    "hits": []
   }
@@ -1414,30 +1544,39 @@
   }
  ],
  "AutoZone": [],
- "Autodesk": [],
- "Automation Anywhere": [],
+ "Autodesk": [
+  {
+   "kind": "workday",
+   "slug": "autodesk/wd1/Ext",
+   "guessed": false,
+   "n_jobs": 74,
+   "board_name": "",
+   "hits": []
+  }
+ ],
+ "Automation Anywhere": [
+  {
+   "kind": "workday",
+   "slug": "automationanywhere/wd5/AutomationAnywhereJobs",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Automattic": [
   {
    "kind": "greenhouse",
    "slug": "automatticcareers",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 12,
    "board_name": "Automattic Careers",
    "hits": []
   }
  ],
  "Avalara": [],
  "Avalore": [],
- "Avis Budget Group": [
-  {
-   "kind": "workday",
-   "slug": "avisbudget/wd1/abg_careers",
-   "guessed": false,
-   "n_jobs": 14,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Avis Budget Group": [],
  "Avnet": [
   {
    "kind": "workday",
@@ -1463,7 +1602,7 @@
    "kind": "workday",
    "slug": "axcelis/wd1/axcelis",
    "guessed": false,
-   "n_jobs": 16,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
@@ -1493,7 +1632,7 @@
    "kind": "greenhouse",
    "slug": "axon",
    "guessed": false,
-   "n_jobs": 493,
+   "n_jobs": 491,
    "board_name": "Axon",
    "hits": [
     {
@@ -1520,7 +1659,7 @@
    "kind": "workday",
    "slug": "axos/wd5/Axos",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 17,
    "board_name": "",
    "hits": []
   }
@@ -1533,7 +1672,7 @@
    "kind": "workday",
    "slug": "bbva/wd3/bbva",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -1544,7 +1683,7 @@
    "kind": "workday",
    "slug": "bdx/wd1/EXTERNAL_CAREER_SITE_USA",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 64,
    "board_name": "",
    "hits": []
   }
@@ -1554,7 +1693,7 @@
    "kind": "greenhouse",
    "slug": "billcom",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 45,
    "board_name": "BILL",
    "hits": []
   }
@@ -1574,7 +1713,7 @@
    "kind": "workday",
    "slug": "bmo/wd3/External",
    "guessed": false,
-   "n_jobs": 70,
+   "n_jobs": 69,
    "board_name": "",
    "hits": []
   },
@@ -1590,7 +1729,7 @@
    "kind": "workday",
    "slug": "bmo/wd3/Privileged",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 12,
    "board_name": "",
    "hits": []
   }
@@ -1635,7 +1774,7 @@
    "kind": "workday",
    "slug": "bakertilly/wd5/BTCareers",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 37,
    "board_name": "",
    "hits": []
   }
@@ -1646,7 +1785,7 @@
    "kind": "greenhouse",
    "slug": "bandwidth",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 21,
    "board_name": "Bandwidth",
    "hits": []
   }
@@ -1656,7 +1795,7 @@
    "kind": "workday",
    "slug": "ghr/wd1/us-emplsv",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 93,
    "board_name": "",
    "hits": []
   },
@@ -1682,7 +1821,7 @@
    "kind": "workday",
    "slug": "barclays/wd3/External_Career_Site_Barclays",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 92,
    "board_name": "",
    "hits": []
   }
@@ -1713,7 +1852,7 @@
    "kind": "workday",
    "slug": "basspro/wd1/careers",
    "guessed": false,
-   "n_jobs": 3,
+   "n_jobs": 37,
    "board_name": "",
    "hits": []
   }
@@ -1725,7 +1864,7 @@
    "kind": "workday",
    "slug": "baxter/wd1/baxter",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -1763,19 +1902,28 @@
    "kind": "ashby",
    "slug": "benchling",
    "guessed": false,
-   "n_jobs": 53,
+   "n_jobs": 54,
    "board_name": "",
    "hits": []
   }
  ],
- "Bentley Systems": [],
+ "Bentley Systems": [
+  {
+   "kind": "workday",
+   "slug": "bentleysystems/wd5/bentley",
+   "guessed": false,
+   "n_jobs": 17,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Berkshire Hathaway Energy": [],
  "Best Buy": [
   {
    "kind": "workday",
    "slug": "bestbuycanada/wd3/BestBuyCA_Career",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   }
@@ -1805,7 +1953,7 @@
    "kind": "ashby",
    "slug": "better-mortgage",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -1815,7 +1963,7 @@
    "kind": "greenhouse",
    "slug": "betterment",
    "guessed": false,
-   "n_jobs": 29,
+   "n_jobs": 28,
    "board_name": "Betterment",
    "hits": []
   }
@@ -1825,7 +1973,7 @@
    "kind": "greenhouse",
    "slug": "beyondtrust",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 45,
    "board_name": "BeyondTrust",
    "hits": []
   }
@@ -1837,7 +1985,7 @@
    "kind": "workday",
    "slug": "biibhr/wd3/external",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 26,
    "board_name": "",
    "hits": []
   }
@@ -1857,7 +2005,7 @@
    "kind": "greenhouse",
    "slug": "bitwarden",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 37,
    "board_name": "Bitwarden",
    "hits": []
   }
@@ -1904,7 +2052,7 @@
    "kind": "workday",
    "slug": "blackrock/wd1/BlackRock_Professional",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 76,
    "board_name": "",
    "hits": []
   }
@@ -1915,7 +2063,7 @@
    "kind": "workday",
    "slug": "blackstone/wd1/bx_external_site",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   },
@@ -1943,7 +2091,7 @@
    "kind": "greenhouse",
    "slug": "block",
    "guessed": false,
-   "n_jobs": 227,
+   "n_jobs": 229,
    "board_name": "Block",
    "hits": []
   }
@@ -1977,7 +2125,16 @@
   }
  ],
  "Blue Shield of California": [],
- "Blue Yonder (Panasonic subsidiary)": [],
+ "Blue Yonder (Panasonic subsidiary)": [
+  {
+   "kind": "workday",
+   "slug": "jda/wd5/JDA_Careers",
+   "guessed": false,
+   "n_jobs": 11,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "BlueCross BlueShield of South Carolina": [
   {
    "kind": "workday",
@@ -1989,13 +2146,82 @@
   }
  ],
  "Boehringer Ingelheim": [],
- "Boeing": [],
+ "Boeing": [
+  {
+   "kind": "workday",
+   "slug": "boeing/wd1/EXTERNAL_CAREERS",
+   "guessed": false,
+   "n_jobs": 102,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Associate Software Engineer",
+     "loc": "USA - Omaha, NE",
+     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Associate Software Engineer",
+     "loc": "USA - Hazelwood, MO",
+     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1",
+     "date": "2026-09-28",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Associate Software Engineer",
+     "loc": "2 Locations",
+     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1",
+     "date": "2026-09-22",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Associate Software Engineer",
+     "loc": "USA - Huntsville, AL",
+     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254-1",
+     "date": "2026-09-24",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Associate Software Engineer - Developers",
+     "loc": "USA - Oklahoma City, OK",
+     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1",
+     "date": "2026-09-24",
+     "date_kind": "exact"
+    }
+   ]
+  },
+  {
+   "kind": "workday",
+   "slug": "boeing/wd1/external_subsidiary",
+   "guessed": false,
+   "n_jobs": 75,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Associate Software Engineer",
+     "loc": "USA - Omaha, NE",
+     "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    }
+   ]
+  },
+  {
+   "kind": "workday",
+   "slug": "boeing/wd1/INTERN",
+   "guessed": false,
+   "n_jobs": 25,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Booking Holdings": [
   {
    "kind": "workday",
    "slug": "priceline/wd1/priceline",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   }
@@ -2006,7 +2232,7 @@
    "kind": "greenhouse",
    "slug": "boomilp",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 25,
    "board_name": "Boomi ",
    "hits": []
   }
@@ -2024,35 +2250,28 @@
    "kind": "workday",
    "slug": "bah/wd1/Confidential",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 26,
    "board_name": "",
    "hits": [
     {
      "title": "University, Software Developer",
      "loc": "11 Locations",
      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "University, Systems Engineer",
      "loc": "11 Locations",
      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0248389",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "University, Data Engineer",
      "loc": "Atlanta, GA",
      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University--Data-Engineer_R0248107",
-     "date": "2026-09-05",
-     "date_kind": "on or before"
-    },
-    {
-     "title": "University - Applied AI Software Developer",
-     "loc": "McLean, VA",
-     "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Software-Developer_R0248109",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -2070,7 +2289,7 @@
    "kind": "workday",
    "slug": "borgwarner/wd5/BorgWarner_Careers",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 73,
    "board_name": "",
    "hits": []
   }
@@ -2112,7 +2331,7 @@
    "kind": "greenhouse",
    "slug": "boxinc",
    "guessed": false,
-   "n_jobs": 127,
+   "n_jobs": 126,
    "board_name": "Box",
    "hits": []
   }
@@ -2132,7 +2351,7 @@
    "kind": "greenhouse",
    "slug": "braze",
    "guessed": false,
-   "n_jobs": 350,
+   "n_jobs": 351,
    "board_name": "Braze",
    "hits": []
   }
@@ -2153,7 +2372,7 @@
    "kind": "greenhouse",
    "slug": "brex",
    "guessed": false,
-   "n_jobs": 284,
+   "n_jobs": 287,
    "board_name": "Brex",
    "hits": []
   }
@@ -2173,7 +2392,7 @@
    "kind": "lever",
    "slug": "brilliant",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -2183,7 +2402,7 @@
    "kind": "workday",
    "slug": "bristolmyerssquibb/wd5/bms",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 70,
    "board_name": "",
    "hits": []
   }
@@ -2194,7 +2413,7 @@
    "kind": "workday",
    "slug": "broadcom/wd1/External_Career",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -2204,17 +2423,9 @@
    "kind": "workday",
    "slug": "broadridge/wd5/careers",
    "guessed": false,
-   "n_jobs": 47,
+   "n_jobs": 46,
    "board_name": "",
-   "hits": [
-    {
-     "title": "Junior Full Stack Software Engineer (Hybrid)",
-     "loc": "Newark, NJ",
-     "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388",
-     "date": "2026-10-02",
-     "date_kind": "exact"
-    }
-   ]
+   "hits": []
   }
  ],
  "Brookfield Corporation / Brookfield Asset Management": [
@@ -2260,7 +2471,7 @@
    "kind": "ashby",
    "slug": "bumbleinc",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 24,
    "board_name": "",
    "hits": []
   }
@@ -2315,7 +2526,7 @@
    "kind": "workday",
    "slug": "caci/wd1/external",
    "guessed": false,
-   "n_jobs": 101,
+   "n_jobs": 100,
    "board_name": "",
    "hits": [
     {
@@ -2340,7 +2551,7 @@
    "kind": "workday",
    "slug": "cae/wd3/career",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 58,
    "board_name": "",
    "hits": []
   }
@@ -2372,7 +2583,7 @@
    "kind": "workday",
    "slug": "cibc/wd3/search",
    "guessed": false,
-   "n_jobs": 56,
+   "n_jobs": 55,
    "board_name": "",
    "hits": []
   },
@@ -2400,7 +2611,7 @@
    "kind": "workday",
    "slug": "cmegroup/wd1/cme_careers",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 23,
    "board_name": "",
    "hits": [
     {
@@ -2418,7 +2629,7 @@
    "kind": "workday",
    "slug": "cna/wd1/cna_Careers",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 28,
    "board_name": "",
    "hits": []
   }
@@ -2430,7 +2641,7 @@
    "kind": "workday",
    "slug": "cvshealth/wd1/CVS_Health_Careers",
    "guessed": false,
-   "n_jobs": 105,
+   "n_jobs": 104,
    "board_name": "",
    "hits": []
   },
@@ -2448,7 +2659,23 @@
    "kind": "workday",
    "slug": "cadence/wd1/External_Careers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 62,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "cadence/wd1/Univ_Careers",
+   "guessed": false,
+   "n_jobs": 1,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "cadence/wd1/University_Talent_NCG",
+   "guessed": false,
+   "n_jobs": 2,
    "board_name": "",
    "hits": []
   }
@@ -2459,7 +2686,7 @@
    "kind": "greenhouse",
    "slug": "calendly",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 9,
    "board_name": "Calendly",
    "hits": []
   }
@@ -2502,7 +2729,7 @@
    "kind": "greenhouse",
    "slug": "capco",
    "guessed": false,
-   "n_jobs": 715,
+   "n_jobs": 714,
    "board_name": "Capco",
    "hits": []
   }
@@ -2513,7 +2740,7 @@
    "kind": "workday",
    "slug": "capgroup/wd1/capitalgroupcareers",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   },
@@ -2521,7 +2748,7 @@
    "kind": "lever",
    "slug": "capital",
    "guessed": true,
-   "n_jobs": 55,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -2531,7 +2758,7 @@
    "kind": "workday",
    "slug": "capitalone/wd12/Capital_One",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 80,
    "board_name": "",
    "hits": [
     {
@@ -2559,7 +2786,7 @@
    "kind": "greenhouse",
    "slug": "captivation",
    "guessed": false,
-   "n_jobs": 73,
+   "n_jobs": 72,
    "board_name": "Captivation Software",
    "hits": [
     {
@@ -2610,16 +2837,7 @@
   }
  ],
  "Carbon Health": [],
- "Cardinal Health": [
-  {
-   "kind": "workday",
-   "slug": "cardinalhealth/wd1/EXT",
-   "guessed": false,
-   "n_jobs": 45,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Cardinal Health": [],
  "Care.com (IAC)": [
   {
    "kind": "ashby",
@@ -2643,7 +2861,7 @@
      "title": "Associate Software Engineer",
      "loc": "Irving, TX - 75039",
      "url": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Associate-Software-Engineer_JR105464",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -2655,7 +2873,7 @@
    "kind": "workday",
    "slug": "carrier/wd5/jobs",
    "guessed": false,
-   "n_jobs": 92,
+   "n_jobs": 89,
    "board_name": "",
    "hits": []
   }
@@ -2665,7 +2883,7 @@
    "kind": "workday",
    "slug": "cars/wd12/cars",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -2685,7 +2903,7 @@
    "kind": "ashby",
    "slug": "cartesia",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 30,
    "board_name": "",
    "hits": []
   }
@@ -2695,7 +2913,7 @@
    "kind": "greenhouse",
    "slug": "carvana",
    "guessed": false,
-   "n_jobs": 1813,
+   "n_jobs": 1831,
    "board_name": "Carvana",
    "hits": []
   }
@@ -2705,7 +2923,7 @@
    "kind": "greenhouse",
    "slug": "castelioncorporation",
    "guessed": false,
-   "n_jobs": 195,
+   "n_jobs": 197,
    "board_name": "Castelion Corporation",
    "hits": []
   }
@@ -2715,7 +2933,7 @@
    "kind": "workday",
    "slug": "cat/wd5/CaterpillarCareers",
    "guessed": false,
-   "n_jobs": 98,
+   "n_jobs": 99,
    "board_name": "",
    "hits": []
   }
@@ -2725,7 +2943,7 @@
    "kind": "greenhouse",
    "slug": "catonetworks",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 92,
    "board_name": "Cato Networks",
    "hits": []
   }
@@ -2746,7 +2964,7 @@
    "kind": "greenhouse",
    "slug": "celonis",
    "guessed": false,
-   "n_jobs": 226,
+   "n_jobs": 224,
    "board_name": "Celonis",
    "hits": []
   }
@@ -2756,7 +2974,7 @@
    "kind": "workday",
    "slug": "myhrabc/wd5/Global",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 92,
    "board_name": "",
    "hits": [
     {
@@ -2774,7 +2992,7 @@
    "kind": "workday",
    "slug": "centene/wd5/Centene_External",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 23,
    "board_name": "",
    "hits": []
   }
@@ -2784,7 +3002,7 @@
    "kind": "workday",
    "slug": "centific/wd1/Centific_Global",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 18,
    "board_name": "",
    "hits": []
   }
@@ -2794,7 +3012,7 @@
    "kind": "ashby",
    "slug": "cerebras",
    "guessed": false,
-   "n_jobs": 117,
+   "n_jobs": 119,
    "board_name": "",
    "hits": [
     {
@@ -2817,7 +3035,7 @@
    "kind": "ashby",
    "slug": "chainalysis-careers",
    "guessed": false,
-   "n_jobs": 50,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -2827,7 +3045,7 @@
    "kind": "greenhouse",
    "slug": "chainguard",
    "guessed": false,
-   "n_jobs": 79,
+   "n_jobs": 78,
    "board_name": "Chainguard",
    "hits": []
   }
@@ -2881,7 +3099,7 @@
    "kind": "ashby",
    "slug": "checkout.com",
    "guessed": false,
-   "n_jobs": 181,
+   "n_jobs": 178,
    "board_name": "",
    "hits": []
   }
@@ -2891,7 +3109,7 @@
    "kind": "greenhouse",
    "slug": "checkr",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 43,
    "board_name": "Checkr",
    "hits": []
   }
@@ -2910,7 +3128,7 @@
      "title": "2026-2027 Information Technology - Software Engineer - Full-Time",
      "loc": "6 Locations",
      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -2921,14 +3139,14 @@
    "kind": "workday",
    "slug": "chewy/wd5/External",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 11,
    "board_name": "",
    "hits": [
     {
      "title": "Software Engineer I",
      "loc": "Boston, MA",
      "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I_R30757",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -2984,7 +3202,7 @@
    "kind": "workday",
    "slug": "choicehotels/wd5/External",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -2996,7 +3214,7 @@
    "kind": "workday",
    "slug": "ciena/wd5/Careers",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -3006,7 +3224,7 @@
    "kind": "workday",
    "slug": "cigna/wd5/cignacareers",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 53,
    "board_name": "",
    "hits": [
     {
@@ -3074,7 +3292,7 @@
    "kind": "workday",
    "slug": "citi/wd5/Citi_Early_Careers_Events_Site",
    "guessed": false,
-   "n_jobs": 13,
+   "n_jobs": 12,
    "board_name": "",
    "hits": []
   }
@@ -3133,9 +3351,17 @@
    "kind": "workday",
    "slug": "clearwateranalytics/wd1/Clearwater_Analytics_Careers",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 55,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "Quantitative Developer I",
+     "loc": "Office - New York",
+     "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quantitative-Developer-I_R12180",
+     "date": "2026-09-22",
+     "date_kind": "exact"
+    }
+   ]
   }
  ],
  "Clera": [
@@ -3143,21 +3369,12 @@
    "kind": "ashby",
    "slug": "clera",
    "guessed": false,
-   "n_jobs": 275,
+   "n_jobs": 276,
    "board_name": "",
    "hits": []
   }
  ],
- "Cleveland Clinic": [
-  {
-   "kind": "workday",
-   "slug": "ccf/wd1/ClevelandClinicCareers",
-   "guessed": false,
-   "n_jobs": 76,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Cleveland Clinic": [],
  "ClickHouse": [
   {
    "kind": "ashby",
@@ -3173,7 +3390,7 @@
    "kind": "ashby",
    "slug": "clickup",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 48,
    "board_name": "",
    "hits": []
   }
@@ -3183,7 +3400,7 @@
    "kind": "workday",
    "slug": "clio/wd3/ClioCareerSite",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -3193,7 +3410,7 @@
    "kind": "ashby",
    "slug": "clipboard",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   }
@@ -3204,7 +3421,7 @@
    "kind": "greenhouse",
    "slug": "cloudflare",
    "guessed": false,
-   "n_jobs": 415,
+   "n_jobs": 417,
    "board_name": "Cloudflare",
    "hits": []
   }
@@ -3214,7 +3431,7 @@
    "kind": "lever",
    "slug": "cloudinary",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
@@ -3224,7 +3441,7 @@
    "kind": "greenhouse",
    "slug": "cloverhealth",
    "guessed": false,
-   "n_jobs": 65,
+   "n_jobs": 62,
    "board_name": "Clover Health",
    "hits": []
   }
@@ -3234,7 +3451,7 @@
    "kind": "workday",
    "slug": "costar/wd1/CoStarCareers",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 17,
    "board_name": "",
    "hits": [
     {
@@ -3275,6 +3492,14 @@
      "date_kind": "exact"
     }
    ]
+  },
+  {
+   "kind": "workday",
+   "slug": "costar/wd1/confidential",
+   "guessed": false,
+   "n_jobs": 1,
+   "board_name": "",
+   "hits": []
   }
  ],
  "Coalition": [
@@ -3282,7 +3507,7 @@
    "kind": "greenhouse",
    "slug": "coalition",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 38,
    "board_name": "Coalition, Inc.",
    "hits": []
   }
@@ -3292,7 +3517,7 @@
    "kind": "greenhouse",
    "slug": "cockroachlabs",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 18,
    "board_name": "Cockroach Labs",
    "hits": []
   }
@@ -3308,7 +3533,16 @@
    "hits": []
   }
  ],
- "Cognex": [],
+ "Cognex": [
+  {
+   "kind": "workday",
+   "slug": "cognex/wd1/External_Career_Site",
+   "guessed": false,
+   "n_jobs": 6,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Cognition": [
   {
    "kind": "ashby",
@@ -3325,19 +3559,28 @@
    "kind": "ashby",
    "slug": "cohere",
    "guessed": false,
-   "n_jobs": 135,
+   "n_jobs": 130,
    "board_name": "",
    "hits": []
   }
  ],
  "Coherent": [],
- "Cohesity": [],
+ "Cohesity": [
+  {
+   "kind": "workday",
+   "slug": "cohesity/wd5/Cohesity_Careers",
+   "guessed": false,
+   "n_jobs": 8,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Coinbase": [
   {
    "kind": "greenhouse",
    "slug": "coinbase",
    "guessed": false,
-   "n_jobs": 226,
+   "n_jobs": 224,
    "board_name": "Coinbase",
    "hits": []
   }
@@ -3358,7 +3601,7 @@
    "kind": "workday",
    "slug": "collegeboard/wd1/Careers",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 8,
    "board_name": "",
    "hits": []
   }
@@ -3368,7 +3611,7 @@
    "kind": "greenhouse",
    "slug": "collibra",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 32,
    "board_name": "Collibra",
    "hits": []
   }
@@ -3395,7 +3638,7 @@
    "kind": "workday",
    "slug": "columbiasportswearcompany/wd5/CSC_Careers",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -3416,7 +3659,7 @@
    "kind": "workday",
    "slug": "bigcommerce/wd12/Commerce",
    "guessed": false,
-   "n_jobs": 3,
+   "n_jobs": 4,
    "board_name": "",
    "hits": []
   }
@@ -3427,7 +3670,7 @@
    "kind": "lever",
    "slug": "cfsenergy",
    "guessed": false,
-   "n_jobs": 115,
+   "n_jobs": 114,
    "board_name": "",
    "hits": []
   }
@@ -3437,7 +3680,7 @@
    "kind": "ashby",
    "slug": "Commure",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 76,
    "board_name": "",
    "hits": []
   }
@@ -3447,7 +3690,7 @@
    "kind": "greenhouse",
    "slug": "commvault",
    "guessed": false,
-   "n_jobs": 56,
+   "n_jobs": 57,
    "board_name": "Commvault",
    "hits": []
   }
@@ -3457,7 +3700,7 @@
    "kind": "greenhouse",
    "slug": "urbancompass",
    "guessed": false,
-   "n_jobs": 206,
+   "n_jobs": 201,
    "board_name": "Compass",
    "hits": []
   }
@@ -3489,7 +3732,7 @@
    "kind": "workday",
    "slug": "conocophillips/wd1/External",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   }
@@ -3510,7 +3753,7 @@
    "kind": "workday",
    "slug": "cbrands/wd5/CBI_External_Careers",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
@@ -3521,7 +3764,7 @@
    "kind": "greenhouse",
    "slug": "contentful",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 18,
    "board_name": "Contentful",
    "hits": []
   }
@@ -3532,7 +3775,7 @@
    "kind": "greenhouse",
    "slug": "coreweave",
    "guessed": false,
-   "n_jobs": 313,
+   "n_jobs": 312,
    "board_name": "CoreWeave",
    "hits": []
   }
@@ -3543,7 +3786,7 @@
    "kind": "workday",
    "slug": "corpay/wd103/ext_001",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -3573,8 +3816,8 @@
   {
    "kind": "greenhouse",
    "slug": "couchbaseinc",
-   "guessed": false,
-   "n_jobs": 18,
+   "guessed": true,
+   "n_jobs": 20,
    "board_name": "Couchbase, Inc.",
    "hits": []
   }
@@ -3584,7 +3827,7 @@
    "kind": "lever",
    "slug": "coupa",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 34,
    "board_name": "",
    "hits": []
   }
@@ -3594,7 +3837,7 @@
    "kind": "greenhouse",
    "slug": "coupang",
    "guessed": false,
-   "n_jobs": 688,
+   "n_jobs": 677,
    "board_name": "Coupang",
    "hits": []
   }
@@ -3604,12 +3847,21 @@
    "kind": "greenhouse",
    "slug": "coursera",
    "guessed": false,
-   "n_jobs": 16,
+   "n_jobs": 17,
    "board_name": "Coursera",
    "hits": []
   }
  ],
- "Cox": [],
+ "Cox": [
+  {
+   "kind": "workday",
+   "slug": "cox/wd1/Cox_External_Career_Site_1",
+   "guessed": false,
+   "n_jobs": 42,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Cox Automotive": [
   {
    "kind": "workday",
@@ -3647,12 +3899,21 @@
    "kind": "workday",
    "slug": "criteo/wd3/Criteo_Career_Site",
    "guessed": false,
-   "n_jobs": 8,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
  ],
- "CrowdStrike": [],
+ "CrowdStrike": [
+  {
+   "kind": "workday",
+   "slug": "crowdstrike/wd5/crowdstrikecareers",
+   "guessed": false,
+   "n_jobs": 57,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Crowe": [
   {
    "kind": "workday",
@@ -3676,7 +3937,7 @@
    "kind": "greenhouse",
    "slug": "crunchyroll",
    "guessed": false,
-   "n_jobs": 86,
+   "n_jobs": 88,
    "board_name": "Crunchyroll, LLC",
    "hits": []
   }
@@ -3686,7 +3947,7 @@
    "kind": "ashby",
    "slug": "Crusoe",
    "guessed": false,
-   "n_jobs": 348,
+   "n_jobs": 352,
    "board_name": "",
    "hits": [
     {
@@ -3703,7 +3964,7 @@
    "kind": "lever",
    "slug": "crypto",
    "guessed": false,
-   "n_jobs": 77,
+   "n_jobs": 80,
    "board_name": "",
    "hits": []
   }
@@ -3713,7 +3974,7 @@
    "kind": "workday",
    "slug": "cubic/wd1/cubic_USA_careers",
    "guessed": false,
-   "n_jobs": 16,
+   "n_jobs": 15,
    "board_name": "",
    "hits": []
   },
@@ -3721,7 +3982,7 @@
    "kind": "workday",
    "slug": "cubic/wd1/cubic_global_careers",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -3749,7 +4010,7 @@
    "kind": "workday",
    "slug": "curtisswright/wd1/cw_external_career_site",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 50,
    "board_name": "",
    "hits": []
   }
@@ -3759,14 +4020,23 @@
    "kind": "workday",
    "slug": "cw/wd1/external",
    "guessed": false,
-   "n_jobs": 87,
+   "n_jobs": 86,
    "board_name": "",
    "hits": []
   }
  ],
  "CyberArk": [],
  "Cyera": [],
- "CyrusOne": [],
+ "CyrusOne": [
+  {
+   "kind": "workday",
+   "slug": "cyrusone/wd1/CyrusOneCareerPortal",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "D-Wave Quantum": [],
  "D.E. Shaw": [],
  "DAT Freight & Analytics": [
@@ -3774,7 +4044,7 @@
    "kind": "greenhouse",
    "slug": "datsolutions",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 33,
    "board_name": "DAT",
    "hits": []
   }
@@ -3796,7 +4066,7 @@
    "kind": "greenhouse",
    "slug": "drweng",
    "guessed": false,
-   "n_jobs": 169,
+   "n_jobs": 175,
    "board_name": "DRW ",
    "hits": []
   }
@@ -3806,7 +4076,7 @@
    "kind": "greenhouse",
    "slug": "dvtrading",
    "guessed": false,
-   "n_jobs": 72,
+   "n_jobs": 73,
    "board_name": "DV Trading",
    "hits": [
     {
@@ -3823,7 +4093,7 @@
    "kind": "workday",
    "slug": "dxctechnology/wd1/dxcjobs",
    "guessed": false,
-   "n_jobs": 89,
+   "n_jobs": 87,
    "board_name": "",
    "hits": []
   }
@@ -3833,7 +4103,7 @@
    "kind": "workday",
    "slug": "davita/wd1/DKC_External",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 58,
    "board_name": "",
    "hits": []
   }
@@ -3843,18 +4113,35 @@
    "kind": "ashby",
    "slug": "dailypay",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 24,
    "board_name": "",
    "hits": []
   }
  ],
- "Daimler Truck": [],
+ "Daimler Truck": [
+  {
+   "kind": "workday",
+   "slug": "dtna/wd5/dtna_affiliate",
+   "guessed": false,
+   "n_jobs": 5,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "dtna/wd5/DTNA_external",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Danaher": [
   {
    "kind": "workday",
    "slug": "danaher/wd1/DanaherJobs",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 94,
    "board_name": "",
    "hits": []
   }
@@ -3886,7 +4173,7 @@
    "kind": "greenhouse",
    "slug": "databricks",
    "guessed": false,
-   "n_jobs": 888,
+   "n_jobs": 887,
    "board_name": "Databricks",
    "hits": []
   }
@@ -3896,7 +4183,7 @@
    "kind": "greenhouse",
    "slug": "datadog",
    "guessed": false,
-   "n_jobs": 442,
+   "n_jobs": 434,
    "board_name": "Datadog",
    "hits": []
   }
@@ -3930,6 +4217,12 @@
      "loc": "Germantown, MD",
      "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
      "date": "2026-08-19"
+    },
+    {
+     "title": "Programmer Analyst - (entry-level data analyst/data scientist) Marketing Analytics",
+     "loc": "Germantown, MD",
+     "url": "https://jobs.lever.co/datalabusa/4bc04d86-bef3-40c8-a410-b0d0c41a683d",
+     "date": "2026-10-05"
     }
    ]
   }
@@ -3989,7 +4282,16 @@
  "Dell": [],
  "Deloitte": [],
  "Delta": [],
- "Depop": [],
+ "Depop": [
+  {
+   "kind": "workday",
+   "slug": "etsy/wd5/Depop_Careers",
+   "guessed": false,
+   "n_jobs": 6,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Depository Trust & Clearing Corporation (DTCC)": [],
  "Descript": [
   {
@@ -4006,7 +4308,7 @@
    "kind": "workday",
    "slug": "db/wd3/DBWebsite",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 70,
    "board_name": "",
    "hits": []
   }
@@ -4016,7 +4318,7 @@
    "kind": "workday",
    "slug": "dexcom/wd1/Dexcom",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 47,
    "board_name": "",
    "hits": []
   }
@@ -4067,16 +4369,9 @@
    "kind": "greenhouse",
    "slug": "digitalocean98",
    "guessed": false,
-   "n_jobs": 166,
+   "n_jobs": 179,
    "board_name": "DigitalOcean",
-   "hits": [
-    {
-     "title": "Systems Engineer I",
-     "loc": "Seattle",
-     "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8162756",
-     "date": "2026-08-27"
-    }
-   ]
+   "hits": []
   }
  ],
  "Diligent": [
@@ -4094,7 +4389,7 @@
    "kind": "workday",
    "slug": "dimensional/wd5/dfa_careers",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 26,
    "board_name": "",
    "hits": []
   }
@@ -4104,7 +4399,7 @@
    "kind": "greenhouse",
    "slug": "discord",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 48,
    "board_name": "Discord",
    "hits": []
   }
@@ -4114,7 +4409,7 @@
    "kind": "workday",
    "slug": "disney/wd5/disneycareerdc",
    "guessed": false,
-   "n_jobs": 83,
+   "n_jobs": 82,
    "board_name": "",
    "hits": []
   },
@@ -4142,7 +4437,7 @@
    "kind": "greenhouse",
    "slug": "divergent",
    "guessed": false,
-   "n_jobs": 124,
+   "n_jobs": 125,
    "board_name": "Divergent",
    "hits": []
   }
@@ -4165,7 +4460,7 @@
    "kind": "workday",
    "slug": "dollartree/wd5/dollartreeus",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -4200,7 +4495,7 @@
    "kind": "greenhouse",
    "slug": "doordashusa",
    "guessed": false,
-   "n_jobs": 459,
+   "n_jobs": 465,
    "board_name": "DoorDash USA",
    "hits": [
     {
@@ -4235,7 +4530,7 @@
    "kind": "workday",
    "slug": "dow/wd1/ExternalCareers",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 65,
    "board_name": "",
    "hits": []
   }
@@ -4245,7 +4540,7 @@
    "kind": "workday",
    "slug": "dowjones/wd1/Dow_Jones_Career",
    "guessed": false,
-   "n_jobs": 52,
+   "n_jobs": 53,
    "board_name": "",
    "hits": []
   }
@@ -4312,7 +4607,7 @@
    "kind": "greenhouse",
    "slug": "dropbox",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 35,
    "board_name": "Dropbox",
    "hits": []
   }
@@ -4322,7 +4617,7 @@
    "kind": "greenhouse",
    "slug": "druva",
    "guessed": false,
-   "n_jobs": 34,
+   "n_jobs": 35,
    "board_name": "Druva",
    "hits": []
   }
@@ -4332,7 +4627,7 @@
    "kind": "workday",
    "slug": "dupont/wd5/jobs",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -4342,7 +4637,7 @@
    "kind": "ashby",
    "slug": "duck-duck-go",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
@@ -4352,7 +4647,7 @@
    "kind": "workday",
    "slug": "dukeenergy/wd1/search",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   }
@@ -4362,7 +4657,7 @@
    "kind": "lever",
    "slug": "dnb",
    "guessed": false,
-   "n_jobs": 106,
+   "n_jobs": 110,
    "board_name": "",
    "hits": []
   }
@@ -4377,16 +4672,7 @@
    "hits": []
   }
  ],
- "Dutch Bros Coffee": [
-  {
-   "kind": "workday",
-   "slug": "dutchbros/wd1/DBShops",
-   "guessed": false,
-   "n_jobs": 37,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Dutch Bros Coffee": [],
  "Dynatrace": [],
  "Dyson": [],
  "EPAM Systems": [],
@@ -4431,7 +4717,7 @@
    "kind": "workday",
    "slug": "ecolab/wd1/ecolab_external",
    "guessed": false,
-   "n_jobs": 84,
+   "n_jobs": 86,
    "board_name": "",
    "hits": []
   }
@@ -4457,7 +4743,7 @@
    "kind": "greenhouse",
    "slug": "elastic",
    "guessed": false,
-   "n_jobs": 402,
+   "n_jobs": 408,
    "board_name": "Elastic",
    "hits": []
   }
@@ -4469,7 +4755,7 @@
    "kind": "workday",
    "slug": "elevancehealth/wd1/ELV-ET",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 5,
    "board_name": "",
    "hits": []
   }
@@ -4489,7 +4775,7 @@
    "kind": "workday",
    "slug": "lilly/wd115/LLY",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 95,
    "board_name": "",
    "hits": []
   }
@@ -4499,7 +4785,7 @@
    "kind": "ashby",
    "slug": "EliseAI",
    "guessed": false,
-   "n_jobs": 123,
+   "n_jobs": 124,
    "board_name": "",
    "hits": []
   }
@@ -4511,7 +4797,7 @@
    "kind": "workday",
    "slug": "empower/wd12/empower",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   }
@@ -4521,7 +4807,7 @@
    "kind": "greenhouse",
    "slug": "engineersgate",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 11,
    "board_name": "Engineers Gate",
    "hits": []
   }
@@ -4532,7 +4818,7 @@
    "kind": "workday",
    "slug": "entegris/wd1/entegriscareers",
    "guessed": false,
-   "n_jobs": 61,
+   "n_jobs": 89,
    "board_name": "",
    "hits": []
   }
@@ -4543,7 +4829,7 @@
    "kind": "workday",
    "slug": "entrust/wd1/entrustcareers",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -4554,19 +4840,28 @@
    "kind": "greenhouse",
    "slug": "epicgames",
    "guessed": false,
-   "n_jobs": 145,
+   "n_jobs": 146,
    "board_name": "Epic Games",
    "hits": []
   }
  ],
  "Epic Systems": [],
- "Epicor": [],
+ "Epicor": [
+  {
+   "kind": "workday",
+   "slug": "epicorsoftware/wd5/epicorjobs",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Epirus": [
   {
    "kind": "greenhouse",
    "slug": "epirus",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 41,
    "board_name": "Epirus",
    "hits": []
   }
@@ -4584,14 +4879,14 @@
      "title": "Site Reliability Engineer - Rotational Development Program",
      "loc": "USA - Missouri - St. Louis - Lackland",
      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00170527",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Site Reliability Engineer - Rotational Development Program",
      "loc": "USA - Missouri - St. Louis - Lackland",
      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -4600,7 +4895,7 @@
    "kind": "workday",
    "slug": "equifax/wd5/external",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 47,
    "board_name": "",
    "hits": []
   }
@@ -4610,7 +4905,7 @@
    "kind": "workday",
    "slug": "equinix/wd1/External",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 33,
    "board_name": "",
    "hits": []
   }
@@ -4620,7 +4915,7 @@
    "kind": "greenhouse",
    "slug": "equipmentsharecom",
    "guessed": false,
-   "n_jobs": 1021,
+   "n_jobs": 1043,
    "board_name": "EquipmentShare",
    "hits": []
   }
@@ -4632,7 +4927,7 @@
    "kind": "greenhouse",
    "slug": "esri",
    "guessed": false,
-   "n_jobs": 446,
+   "n_jobs": 448,
    "board_name": "Esri",
    "hits": [
     {
@@ -4666,7 +4961,7 @@
    "kind": "greenhouse",
    "slug": "ethoslife",
    "guessed": false,
-   "n_jobs": 72,
+   "n_jobs": 71,
    "board_name": "Ethos Life",
    "hits": []
   }
@@ -4738,15 +5033,7 @@
    "guessed": false,
    "n_jobs": 45,
    "board_name": "",
-   "hits": [
-    {
-     "title": "Software Development Engineer I",
-     "loc": "Canada - British Columbia - Vancouver",
-     "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
-     "date": "2026-10-02",
-     "date_kind": "exact"
-    }
-   ]
+   "hits": []
   },
   {
    "kind": "workday",
@@ -4761,8 +5048,8 @@
   {
    "kind": "ashby",
    "slug": "expensify",
-   "guessed": false,
-   "n_jobs": 6,
+   "guessed": true,
+   "n_jobs": 5,
    "board_name": "",
    "hits": []
   }
@@ -4786,15 +5073,7 @@
    "guessed": false,
    "n_jobs": 35,
    "board_name": "",
-   "hits": [
-    {
-     "title": "Site Reliability Engineer I I",
-     "loc": "Seattle",
-     "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Site-Reliability-Engineer-I-I_RP1038818",
-     "date": "2026-10-01",
-     "date_kind": "exact"
-    }
-   ]
+   "hits": []
   }
  ],
  "FICO": [
@@ -4822,7 +5101,7 @@
    "kind": "workday",
    "slug": "fis/wd5/searchjobs",
    "guessed": false,
-   "n_jobs": 61,
+   "n_jobs": 59,
    "board_name": "",
    "hits": []
   }
@@ -4850,7 +5129,7 @@
    "kind": "workday",
    "slug": "factset/wd108/FactSetCareers",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -4870,7 +5149,7 @@
    "kind": "greenhouse",
    "slug": "faire",
    "guessed": false,
-   "n_jobs": 75,
+   "n_jobs": 76,
    "board_name": "Faire",
    "hits": []
   }
@@ -4880,7 +5159,7 @@
    "kind": "greenhouse",
    "slug": "falconx",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 16,
    "board_name": "FalconX",
    "hits": []
   }
@@ -4890,7 +5169,7 @@
    "kind": "greenhouse",
    "slug": "fanduel",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 82,
    "board_name": "FanDuel",
    "hits": []
   },
@@ -4906,7 +5185,7 @@
    "kind": "workday",
    "slug": "flutterbe/wd3/FlutterInt_External",
    "guessed": false,
-   "n_jobs": 16,
+   "n_jobs": 17,
    "board_name": "",
    "hits": []
   }
@@ -4916,7 +5195,7 @@
    "kind": "greenhouse",
    "slug": "fanaticscollectibles",
    "guessed": false,
-   "n_jobs": 177,
+   "n_jobs": 180,
    "board_name": "Fanatics Collectibles",
    "hits": []
   }
@@ -4926,7 +5205,7 @@
    "kind": "workday",
    "slug": "fanniemae/wd1/FannieMaeCareers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -4947,7 +5226,7 @@
    "kind": "greenhouse",
    "slug": "fastly",
    "guessed": false,
-   "n_jobs": 43,
+   "n_jobs": 44,
    "board_name": "Fastly",
    "hits": []
   }
@@ -4958,7 +5237,7 @@
    "kind": "workday",
    "slug": "rb/wd5/FRS",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 71,
    "board_name": "",
    "hits": []
   }
@@ -4978,7 +5257,7 @@
    "kind": "workday",
    "slug": "fmr/wd1/targeted",
    "guessed": false,
-   "n_jobs": 80,
+   "n_jobs": 79,
    "board_name": "",
    "hits": [
     {
@@ -4992,14 +5271,21 @@
      "title": "October 2027 - Leap Software Engineer",
      "loc": "3 Locations",
      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "July 2027 - Leap Software Engineer",
      "loc": "3 Locations",
      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/July-2027---Leap-Software-Engineer_2133877",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "April 2027 - Leap Software Engineer",
+     "loc": "3 Locations",
+     "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -5008,7 +5294,7 @@
    "kind": "workday",
    "slug": "fmr/wd1/fidelitycareers",
    "guessed": false,
-   "n_jobs": 86,
+   "n_jobs": 85,
    "board_name": "",
    "hits": [
     {
@@ -5046,7 +5332,7 @@
    "kind": "greenhouse",
    "slug": "figma",
    "guessed": false,
-   "n_jobs": 163,
+   "n_jobs": 157,
    "board_name": "Figma",
    "hits": []
   }
@@ -5056,7 +5342,7 @@
    "kind": "greenhouse",
    "slug": "figureai",
    "guessed": false,
-   "n_jobs": 85,
+   "n_jobs": 79,
    "board_name": "Figure",
    "hits": []
   }
@@ -5066,7 +5352,7 @@
    "kind": "greenhouse",
    "slug": "figure",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 20,
    "board_name": "Figure Lending",
    "hits": []
   }
@@ -5076,7 +5362,7 @@
    "kind": "greenhouse",
    "slug": "financialtimes33",
    "guessed": false,
-   "n_jobs": 60,
+   "n_jobs": 58,
    "board_name": "Financial Times",
    "hits": []
   }
@@ -5086,7 +5372,7 @@
    "kind": "workday",
    "slug": "finastra/wd3/FINC",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 41,
    "board_name": "",
    "hits": []
   }
@@ -5096,7 +5382,7 @@
    "kind": "greenhouse",
    "slug": "fireblocks",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 27,
    "board_name": "Fireblocks",
    "hits": []
   }
@@ -5108,7 +5394,7 @@
    "kind": "ashby",
    "slug": "fireworks",
    "guessed": false,
-   "n_jobs": 84,
+   "n_jobs": 85,
    "board_name": "",
    "hits": []
   }
@@ -5119,7 +5405,7 @@
    "kind": "workday",
    "slug": "fiserv/wd5/ext",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -5157,7 +5443,7 @@
    "kind": "greenhouse",
    "slug": "fivetran",
    "guessed": false,
-   "n_jobs": 184,
+   "n_jobs": 190,
    "board_name": "Fivetran ",
    "hits": []
   }
@@ -5195,7 +5481,7 @@
    "kind": "greenhouse",
    "slug": "flex",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 33,
    "board_name": "Flex",
    "hits": []
   }
@@ -5248,7 +5534,7 @@
    "kind": "workday",
    "slug": "formfactor/wd1/FFI-Careers",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -5258,7 +5544,7 @@
    "kind": "greenhouse",
    "slug": "formlabs",
    "guessed": false,
-   "n_jobs": 233,
+   "n_jobs": 231,
    "board_name": "Formlabs",
    "hits": []
   }
@@ -5278,7 +5564,7 @@
    "kind": "greenhouse",
    "slug": "forter",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 24,
    "board_name": "Forter",
    "hits": []
   }
@@ -5299,7 +5585,7 @@
    "kind": "workday",
    "slug": "fox/wd1/Domestic",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   },
@@ -5345,7 +5631,7 @@
    "kind": "workday",
    "slug": "freddiemac/wd5/External",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -5366,7 +5652,7 @@
    "kind": "workday",
    "slug": "gresearch/wd103/G-Research",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   }
@@ -5376,7 +5662,7 @@
    "kind": "workday",
    "slug": "geaerospace/wd5/ge_externalsite",
    "guessed": false,
-   "n_jobs": 85,
+   "n_jobs": 84,
    "board_name": "",
    "hits": []
   }
@@ -5406,15 +5692,7 @@
    "kind": "workday",
    "slug": "gevernova/wd5/vernova_externalsite",
    "guessed": false,
-   "n_jobs": 57,
-   "board_name": "",
-   "hits": []
-  },
-  {
-   "kind": "workday",
-   "slug": "gevernova/wd5/only_confidential_executive_recruiting",
-   "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 60,
    "board_name": "",
    "hits": []
   }
@@ -5424,7 +5702,7 @@
    "kind": "workday",
    "slug": "geico/wd1/External",
    "guessed": false,
-   "n_jobs": 52,
+   "n_jobs": 64,
    "board_name": "",
    "hits": []
   }
@@ -5434,7 +5712,7 @@
    "kind": "workday",
    "slug": "generalmotors/wd5/Careers_GM",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 112,
    "board_name": "",
    "hits": [
     {
@@ -5504,7 +5782,7 @@
    "kind": "workday",
    "slug": "gsk/wd5/GSKCareers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 77,
    "board_name": "",
    "hits": []
   }
@@ -5525,7 +5803,7 @@
    "kind": "greenhouse",
    "slug": "galaxydigitalservices",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 38,
    "board_name": "Galaxy",
    "hits": []
   }
@@ -5536,7 +5814,7 @@
    "kind": "ashby",
    "slug": "gamma",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 23,
    "board_name": "",
    "hits": []
   }
@@ -5557,7 +5835,7 @@
    "kind": "greenhouse",
    "slug": "garnerhealth",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 73,
    "board_name": "Garner Health",
    "hits": [
     {
@@ -5594,7 +5872,7 @@
    "kind": "ashby",
    "slug": "gecko-robotics",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -5614,7 +5892,7 @@
    "kind": "ashby",
    "slug": "gen-digital",
    "guessed": false,
-   "n_jobs": 114,
+   "n_jobs": 116,
    "board_name": "",
    "hits": []
   }
@@ -5624,7 +5902,7 @@
    "kind": "workday",
    "slug": "roche/wd3/ROG-A2O-GENE",
    "guessed": false,
-   "n_jobs": 45,
+   "n_jobs": 47,
    "board_name": "",
    "hits": []
   }
@@ -5652,7 +5930,7 @@
      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
      "loc": "USA MD Annapolis Junction",
      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -5670,7 +5948,7 @@
      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
      "loc": "USA MD Annapolis Junction",
      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -5699,7 +5977,7 @@
    "kind": "greenhouse",
    "slug": "generatebiomedicines",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 17,
    "board_name": "Generate Biomedicines",
    "hits": []
   }
@@ -5709,7 +5987,7 @@
    "kind": "workday",
    "slug": "genesys/wd1/Genesys",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -5719,7 +5997,7 @@
    "kind": "greenhouse",
    "slug": "genevatrading",
    "guessed": false,
-   "n_jobs": 13,
+   "n_jobs": 15,
    "board_name": "Geneva Trading",
    "hits": []
   }
@@ -5739,7 +6017,7 @@
    "kind": "workday",
    "slug": "genpact/wd108/External_Careers",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 69,
    "board_name": "",
    "hits": []
   }
@@ -5769,7 +6047,7 @@
    "kind": "lever",
    "slug": "gettyimages",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -5789,7 +6067,7 @@
    "kind": "workday",
    "slug": "gilead/wd1/gileadcareers",
    "guessed": false,
-   "n_jobs": 66,
+   "n_jobs": 61,
    "board_name": "",
    "hits": []
   }
@@ -5820,7 +6098,7 @@
    "kind": "greenhouse",
    "slug": "gleanwork",
    "guessed": false,
-   "n_jobs": 131,
+   "n_jobs": 132,
    "board_name": "Glean",
    "hits": []
   }
@@ -5848,7 +6126,7 @@
    "kind": "workday",
    "slug": "tsys/wd1/TSYS",
    "guessed": false,
-   "n_jobs": 50,
+   "n_jobs": 51,
    "board_name": "",
    "hits": []
   }
@@ -5858,17 +6136,9 @@
    "kind": "workday",
    "slug": "globalfoundries/wd1/External",
    "guessed": false,
-   "n_jobs": 57,
+   "n_jobs": 53,
    "board_name": "",
-   "hits": [
-    {
-     "title": "AI/ML Analytics Engineer (2027 New College Graduate)",
-     "loc": "USA - New York - Malta",
-     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
-     "date": "2026-09-28",
-     "date_kind": "exact"
-    }
-   ]
+   "hits": []
   }
  ],
  "Globant": [],
@@ -5877,7 +6147,7 @@
    "kind": "greenhouse",
    "slug": "godaddy",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 30,
    "board_name": "GoDaddy",
    "hits": []
   }
@@ -5898,7 +6168,7 @@
    "kind": "greenhouse",
    "slug": "gongio",
    "guessed": false,
-   "n_jobs": 95,
+   "n_jobs": 97,
    "board_name": "Gong.io",
    "hits": []
   }
@@ -5908,7 +6178,7 @@
    "kind": "workday",
    "slug": "goodrx/wd1/Careers",
    "guessed": false,
-   "n_jobs": 3,
+   "n_jobs": 4,
    "board_name": "",
    "hits": []
   }
@@ -5919,7 +6189,7 @@
    "kind": "lever",
    "slug": "gopuff",
    "guessed": false,
-   "n_jobs": 782,
+   "n_jobs": 787,
    "board_name": "",
    "hits": []
   }
@@ -5930,7 +6200,7 @@
    "kind": "greenhouse",
    "slug": "grafanalabs",
    "guessed": false,
-   "n_jobs": 125,
+   "n_jobs": 135,
    "board_name": "Grafana Labs",
    "hits": []
   }
@@ -5950,7 +6220,7 @@
    "kind": "workday",
    "slug": "ukgrantt/wd3/careersgrantthornton",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -5960,7 +6230,7 @@
    "kind": "greenhouse",
    "slug": "graphcore",
    "guessed": false,
-   "n_jobs": 177,
+   "n_jobs": 178,
    "board_name": "Graphcore",
    "hits": []
   }
@@ -6022,7 +6292,7 @@
    "kind": "workday",
    "slug": "wonder/wd1/Grubhub_Careers",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 1,
    "board_name": "",
    "hits": []
   }
@@ -6052,19 +6322,28 @@
    "kind": "workday",
    "slug": "guidehouse/wd1/external",
    "guessed": false,
-   "n_jobs": 72,
+   "n_jobs": 74,
    "board_name": "",
    "hits": []
   }
  ],
- "Guidewire Software": [],
+ "Guidewire Software": [
+  {
+   "kind": "workday",
+   "slug": "guidewire/wd5/external",
+   "guessed": false,
+   "n_jobs": 10,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Gulfstream": [],
  "Gusto": [
   {
    "kind": "greenhouse",
    "slug": "gusto",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 95,
    "board_name": "Gusto, Inc.",
    "hits": []
   }
@@ -6089,14 +6368,14 @@
    "kind": "workday",
    "slug": "hp/wd5/exteu-ac-careersite",
    "guessed": false,
-   "n_jobs": 103,
+   "n_jobs": 98,
    "board_name": "",
    "hits": [
     {
      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
      "loc": "3 Locations",
      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -6112,7 +6391,7 @@
      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
      "loc": "3 Locations",
      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -6131,21 +6410,21 @@
    "kind": "workday",
    "slug": "hpe/wd5/acjobsite",
    "guessed": false,
-   "n_jobs": 109,
+   "n_jobs": 106,
    "board_name": "",
    "hits": [
     {
      "title": "Software Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Cloud Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -6161,21 +6440,21 @@
    "kind": "workday",
    "slug": "hpe/wd5/Jobsathpe",
    "guessed": false,
-   "n_jobs": 123,
+   "n_jobs": 122,
    "board_name": "",
    "hits": [
     {
      "title": "Software Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Cloud Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -6207,7 +6486,7 @@
    "kind": "lever",
    "slug": "dodmg",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 25,
    "board_name": "",
    "hits": []
   }
@@ -6239,7 +6518,7 @@
    "kind": "ashby",
    "slug": "handshake",
    "guessed": false,
-   "n_jobs": 79,
+   "n_jobs": 81,
    "board_name": "",
    "hits": []
   }
@@ -6250,7 +6529,7 @@
    "kind": "greenhouse",
    "slug": "harnessinc",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 62,
    "board_name": "Harness ",
    "hits": []
   }
@@ -6260,7 +6539,7 @@
    "kind": "workday",
    "slug": "harriscomputer/wd3/1",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 33,
    "board_name": "",
    "hits": []
   }
@@ -6270,7 +6549,7 @@
    "kind": "ashby",
    "slug": "harvey",
    "guessed": false,
-   "n_jobs": 323,
+   "n_jobs": 331,
    "board_name": "",
    "hits": [
     {
@@ -6293,7 +6572,7 @@
    "kind": "greenhouse",
    "slug": "hasbro",
    "guessed": false,
-   "n_jobs": 125,
+   "n_jobs": 123,
    "board_name": "Hasbro",
    "hits": []
   }
@@ -6330,7 +6609,7 @@
    "kind": "ashby",
    "slug": "headway",
    "guessed": false,
-   "n_jobs": 88,
+   "n_jobs": 87,
    "board_name": "",
    "hits": []
   }
@@ -6350,7 +6629,7 @@
    "kind": "greenhouse",
    "slug": "hearst",
    "guessed": true,
-   "n_jobs": 52,
+   "n_jobs": 56,
    "board_name": "Hearst",
    "hits": []
   }
@@ -6360,7 +6639,7 @@
    "kind": "ashby",
    "slug": "hebbia-ai",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -6370,7 +6649,7 @@
    "kind": "ashby",
    "slug": "helion",
    "guessed": false,
-   "n_jobs": 69,
+   "n_jobs": 67,
    "board_name": "",
    "hits": []
   }
@@ -6380,7 +6659,7 @@
    "kind": "greenhouse",
    "slug": "hellofresh",
    "guessed": false,
-   "n_jobs": 409,
+   "n_jobs": 423,
    "board_name": "HelloFresh",
    "hits": []
   }
@@ -6390,7 +6669,7 @@
    "kind": "lever",
    "slug": "hermeus",
    "guessed": false,
-   "n_jobs": 86,
+   "n_jobs": 84,
    "board_name": "",
    "hits": []
   }
@@ -6401,7 +6680,7 @@
    "kind": "ashby",
    "slug": "hex",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 39,
    "board_name": "",
    "hits": []
   }
@@ -6418,14 +6697,31 @@
    "hits": []
   }
  ],
- "Highmark Health": [],
+ "Highmark Health": [
+  {
+   "kind": "workday",
+   "slug": "highmarkhealth/wd1/highmark",
+   "guessed": false,
+   "n_jobs": 63,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Associate Software Engineer",
+     "loc": "51 Locations",
+     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J286291",
+     "date": "2026-10-06",
+     "date_kind": "exact"
+    }
+   ]
+  }
+ ],
  "Hilton": [],
  "Hims & Hers Health": [
   {
    "kind": "ashby",
    "slug": "hims-and-hers",
    "guessed": false,
-   "n_jobs": 145,
+   "n_jobs": 144,
    "board_name": "",
    "hits": []
   }
@@ -6435,7 +6731,7 @@
    "kind": "ashby",
    "slug": "hinge-health",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 82,
    "board_name": "",
    "hits": []
   }
@@ -6445,7 +6741,7 @@
    "kind": "greenhouse",
    "slug": "hippo70",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 22,
    "board_name": "Hippo Insurance",
    "hits": []
   }
@@ -6465,7 +6761,7 @@
    "kind": "workday",
    "slug": "hitachi/wd1/hitachi",
    "guessed": false,
-   "n_jobs": 133,
+   "n_jobs": 132,
    "board_name": "",
    "hits": []
   }
@@ -6494,7 +6790,7 @@
    "kind": "workday",
    "slug": "homedepot/wd5/careerdepot",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 57,
    "board_name": "",
    "hits": []
   }
@@ -6533,22 +6829,13 @@
   }
  ],
  "Howmet Aerospace": [],
- "HubSpot": [
-  {
-   "kind": "greenhouse",
-   "slug": "hubspotjobs",
-   "guessed": false,
-   "n_jobs": 137,
-   "board_name": "HubSpot",
-   "hits": []
-  }
- ],
+ "HubSpot": [],
  "Hudl": [
   {
    "kind": "greenhouse",
    "slug": "hudl",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 34,
    "board_name": "Hudl",
    "hits": []
   }
@@ -6558,7 +6845,7 @@
    "kind": "greenhouse",
    "slug": "wehrtyou",
    "guessed": false,
-   "n_jobs": 87,
+   "n_jobs": 88,
    "board_name": "Hudson River Trading",
    "hits": [
     {
@@ -6604,7 +6891,7 @@
    "kind": "workday",
    "slug": "humana/wd5/humana_external_career_site",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 33,
    "board_name": "",
    "hits": []
   }
@@ -6624,7 +6911,7 @@
    "kind": "workday",
    "slug": "huntington/wd12/HNBcareers",
    "guessed": false,
-   "n_jobs": 50,
+   "n_jobs": 51,
    "board_name": "",
    "hits": []
   }
@@ -6644,7 +6931,7 @@
    "kind": "workday",
    "slug": "huron/wd1/huroncareers",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 37,
    "board_name": "",
    "hits": []
   }
@@ -6667,14 +6954,14 @@
    "kind": "workday",
    "slug": "icf/wd5/icfexternal_career_site",
    "guessed": false,
-   "n_jobs": 69,
+   "n_jobs": 68,
    "board_name": "",
    "hits": [
     {
      "title": "Computer Scientist / Software Developer, Junior - Security Clearance Required",
      "loc": "Adelphi, MD",
      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Adelphi-MD/Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -6738,7 +7025,7 @@
    "kind": "workday",
    "slug": "ing/wd3/icsgblcor",
    "guessed": false,
-   "n_jobs": 73,
+   "n_jobs": 75,
    "board_name": "",
    "hits": []
   }
@@ -6748,18 +7035,27 @@
    "kind": "lever",
    "slug": "ion",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 92,
    "board_name": "",
    "hits": []
   }
  ],
- "IQVIA": [],
+ "IQVIA": [
+  {
+   "kind": "workday",
+   "slug": "iqvia/wd1/IQVIA",
+   "guessed": false,
+   "n_jobs": 90,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "IXL Learning": [
   {
    "kind": "greenhouse",
    "slug": "ixllearning",
    "guessed": false,
-   "n_jobs": 119,
+   "n_jobs": 122,
    "board_name": "IXL Learning",
    "hits": [
     {
@@ -6770,14 +7066,14 @@
     },
     {
      "title": "Software Engineer, New Grad",
-     "loc": "Raleigh, NC",
-     "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+     "loc": "San Mateo, CA",
+     "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
      "date": "2026-08-31"
     },
     {
      "title": "Software Engineer, New Grad",
-     "loc": "San Mateo, CA",
-     "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+     "loc": "Raleigh, NC",
+     "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
      "date": "2026-08-31"
     }
    ]
@@ -6788,7 +7084,7 @@
    "kind": "ashby",
    "slug": "ibotta",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 51,
    "board_name": "",
    "hits": []
   },
@@ -6817,7 +7113,7 @@
    "kind": "workday",
    "slug": "itw/wd5/External",
    "guessed": false,
-   "n_jobs": 88,
+   "n_jobs": 92,
    "board_name": "",
    "hits": []
   }
@@ -6827,7 +7123,7 @@
    "kind": "workday",
    "slug": "illumina/wd1/illumina-careers",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 46,
    "board_name": "",
    "hits": []
   }
@@ -6837,7 +7133,7 @@
    "kind": "ashby",
    "slug": "illumio",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 61,
    "board_name": "",
    "hits": []
   }
@@ -6889,7 +7185,7 @@
    "kind": "greenhouse",
    "slug": "inflectionai",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 5,
    "board_name": "Inflection AI",
    "hits": []
   }
@@ -6901,7 +7197,7 @@
    "kind": "workday",
    "slug": "salesforce/wd12/External_Career_Site",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 91,
    "board_name": "",
    "hits": [
     {
@@ -6920,7 +7216,7 @@
    "kind": "workday",
    "slug": "ingrammicro/wd5/IngramMicro",
    "guessed": false,
-   "n_jobs": 46,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -6950,18 +7246,18 @@
  ],
  "Instructure (Canvas)": [
   {
-   "kind": "ashby",
-   "slug": "instructure",
+   "kind": "workday",
+   "slug": "canvasinc/wd108/Canvas",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   },
   {
-   "kind": "workday",
-   "slug": "canvasinc/wd108/Canvas",
-   "guessed": false,
-   "n_jobs": 8,
+   "kind": "ashby",
+   "slug": "instructure",
+   "guessed": true,
+   "n_jobs": 38,
    "board_name": "",
    "hits": []
   }
@@ -6991,7 +7287,7 @@
    "kind": "workday",
    "slug": "intel/wd1/External",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 77,
    "board_name": "",
    "hits": []
   }
@@ -7001,7 +7297,7 @@
    "kind": "greenhouse",
    "slug": "intersystems",
    "guessed": false,
-   "n_jobs": 133,
+   "n_jobs": 128,
    "board_name": "InterSystems",
    "hits": []
   }
@@ -7012,7 +7308,7 @@
    "kind": "greenhouse",
    "slug": "intercom",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 106,
    "board_name": "Fin",
    "hits": []
   }
@@ -7023,7 +7319,7 @@
    "kind": "workday",
    "slug": "imh/wd108/IntermountainCareers",
    "guessed": false,
-   "n_jobs": 97,
+   "n_jobs": 100,
    "board_name": "",
    "hits": []
   }
@@ -7036,7 +7332,7 @@
    "kind": "workday",
    "slug": "invesco/wd1/IVZ",
    "guessed": false,
-   "n_jobs": 46,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   },
@@ -7064,7 +7360,7 @@
    "kind": "greenhouse",
    "slug": "ionq",
    "guessed": false,
-   "n_jobs": 127,
+   "n_jobs": 131,
    "board_name": "IonQ",
    "hits": []
   }
@@ -7075,7 +7371,7 @@
    "kind": "workday",
    "slug": "ironmountain/wd5/iron-mountain-jobs",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 47,
    "board_name": "",
    "hits": []
   }
@@ -7085,7 +7381,7 @@
    "kind": "ashby",
    "slug": "ironcladhq",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   }
@@ -7105,7 +7401,7 @@
    "kind": "greenhouse",
    "slug": "isomorphiclabs",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 29,
    "board_name": "Isomorphic Labs",
    "hits": []
   }
@@ -7125,7 +7421,7 @@
    "kind": "greenhouse",
    "slug": "a3c41b8b71eff8c4",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 6,
    "board_name": "Ivanti",
    "hits": []
   }
@@ -7135,7 +7431,7 @@
    "kind": "workday",
    "slug": "jbhunt/wd501/Careers",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -7147,7 +7443,7 @@
    "kind": "workday",
    "slug": "jd/wd103/Campus_Career_Site",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -7157,7 +7453,7 @@
    "kind": "greenhouse",
    "slug": "jfrog",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 67,
    "board_name": "JFrog",
    "hits": []
   }
@@ -7167,7 +7463,7 @@
    "kind": "workday",
    "slug": "jll/wd1/jllcareers",
    "guessed": false,
-   "n_jobs": 120,
+   "n_jobs": 122,
    "board_name": "",
    "hits": []
   }
@@ -7178,7 +7474,7 @@
    "kind": "workday",
    "slug": "jabil/wd5/Jabil_Careers",
    "guessed": false,
-   "n_jobs": 105,
+   "n_jobs": 101,
    "board_name": "",
    "hits": []
   }
@@ -7210,7 +7506,7 @@
    "kind": "greenhouse",
    "slug": "jamf",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 28,
    "board_name": "Jamf",
    "hits": [
     {
@@ -7227,7 +7523,7 @@
    "kind": "greenhouse",
    "slug": "janestreet",
    "guessed": false,
-   "n_jobs": 231,
+   "n_jobs": 232,
    "board_name": "Jane Street",
    "hits": []
   }
@@ -7258,8 +7554,8 @@
   {
    "kind": "greenhouse",
    "slug": "jetbrains",
-   "guessed": false,
-   "n_jobs": 67,
+   "guessed": true,
+   "n_jobs": 65,
    "board_name": "JetBrains",
    "hits": []
   }
@@ -7271,7 +7567,7 @@
    "kind": "workday",
    "slug": "manulife/wd3/MFCJH_Jobs",
    "guessed": false,
-   "n_jobs": 72,
+   "n_jobs": 75,
    "board_name": "",
    "hits": []
   },
@@ -7279,7 +7575,7 @@
    "kind": "workday",
    "slug": "manulife/wd3/MFCJH_adminJobs",
    "guessed": false,
-   "n_jobs": 8,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   }
@@ -7290,7 +7586,7 @@
    "kind": "workday",
    "slug": "jj/wd5/JJ",
    "guessed": false,
-   "n_jobs": 101,
+   "n_jobs": 97,
    "board_name": "",
    "hits": []
   },
@@ -7298,7 +7594,7 @@
    "kind": "workday",
    "slug": "jj/wd5/NonCompetetiveHiring",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 15,
    "board_name": "",
    "hits": []
   }
@@ -7308,7 +7604,7 @@
    "kind": "workday",
    "slug": "jci/wd5/JCI",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 58,
    "board_name": "",
    "hits": []
   }
@@ -7318,7 +7614,7 @@
    "kind": "greenhouse",
    "slug": "jumptrading",
    "guessed": false,
-   "n_jobs": 110,
+   "n_jobs": 109,
    "board_name": "Jump Trading",
    "hits": [
     {
@@ -7347,21 +7643,21 @@
    "kind": "workday",
    "slug": "hpe/wd5/Jobsathpe",
    "guessed": false,
-   "n_jobs": 123,
+   "n_jobs": 122,
    "board_name": "",
    "hits": [
     {
      "title": "Software Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Cloud Engineer Graduate",
      "loc": "10 Locations",
      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -7393,7 +7689,7 @@
    "kind": "greenhouse",
    "slug": "justworks",
    "guessed": false,
-   "n_jobs": 97,
+   "n_jobs": 94,
    "board_name": "Justworks",
    "hits": []
   }
@@ -7413,7 +7709,7 @@
    "kind": "ashby",
    "slug": "KAYAK",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 34,
    "board_name": "",
    "hits": []
   }
@@ -7437,7 +7733,7 @@
      "title": "Junior Systems Engineer",
      "loc": "Beavercreek, Ohio",
      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -7451,7 +7747,7 @@
      "title": "Junior Software Engineer",
      "loc": "Beavercreek, Ohio",
      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -7471,6 +7767,22 @@
   {
    "kind": "workday",
    "slug": "kla/wd1/Search",
+   "guessed": false,
+   "n_jobs": 91,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "kla/wd1/UR",
+   "guessed": false,
+   "n_jobs": 34,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "kla/wd1/annarbor",
    "guessed": false,
    "n_jobs": 20,
    "board_name": "",
@@ -7495,7 +7807,7 @@
    "kind": "greenhouse",
    "slug": "kaseya",
    "guessed": false,
-   "n_jobs": 93,
+   "n_jobs": 98,
    "board_name": "Kaseya Careers",
    "hits": []
   }
@@ -7506,28 +7818,19 @@
    "kind": "greenhouse",
    "slug": "keepersecurity",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 91,
    "board_name": "Keeper Security",
    "hits": []
   }
  ],
- "Kenvue": [
-  {
-   "kind": "workday",
-   "slug": "kenvue/wd5/kenvue",
-   "guessed": false,
-   "n_jobs": 23,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Kenvue": [],
  "Keurig Dr Pepper": [],
  "KeyBank (KeyCorp)": [
   {
    "kind": "workday",
    "slug": "keybank/wd5/External_Career_Site",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 49,
    "board_name": "",
    "hits": []
   }
@@ -7538,7 +7841,7 @@
    "kind": "greenhouse",
    "slug": "khanacademy",
    "guessed": false,
-   "n_jobs": 8,
+   "n_jobs": 7,
    "board_name": "Khan Academy",
    "hits": []
   }
@@ -7548,7 +7851,7 @@
    "kind": "workday",
    "slug": "kimberlyclark/wd1/GLOBAL",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -7593,7 +7896,7 @@
    "kind": "greenhouse",
    "slug": "knowbe4",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 69,
    "board_name": "KnowBe4",
    "hits": []
   }
@@ -7633,7 +7936,7 @@
    "kind": "greenhouse",
    "slug": "komodohealth",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 26,
    "board_name": "Komodo Health",
    "hits": []
   }
@@ -7653,7 +7956,7 @@
    "kind": "ashby",
    "slug": "kraken.com",
    "guessed": false,
-   "n_jobs": 84,
+   "n_jobs": 88,
    "board_name": "",
    "hits": []
   }
@@ -7665,7 +7968,7 @@
    "kind": "workday",
    "slug": "kyndryl/wd5/KyndrylProfessionalCareers",
    "guessed": false,
-   "n_jobs": 95,
+   "n_jobs": 94,
    "board_name": "",
    "hits": []
   },
@@ -7673,7 +7976,7 @@
    "kind": "workday",
    "slug": "kyndryl/wd5/KyndrylEarlyCareers",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -7687,7 +7990,7 @@
    "kind": "greenhouse",
    "slug": "lgelectronics",
    "guessed": false,
-   "n_jobs": 131,
+   "n_jobs": 126,
    "board_name": "LG Electronics",
    "hits": []
   }
@@ -7704,21 +8007,21 @@
      "title": "New Grad 2027 - Data Engineer",
      "loc": "2 Locations",
      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "New Grad 2027 - Software Engineer",
      "loc": "2 Locations",
      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "New Grad 2027 - Platform Engineer",
      "loc": "2 Locations",
      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -7727,7 +8030,7 @@
    "kind": "workday",
    "slug": "lplfinancial/wd1/External",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 25,
    "board_name": "",
    "hits": []
   }
@@ -7737,7 +8040,7 @@
    "kind": "workday",
    "slug": "lseg/wd3/Careers",
    "guessed": false,
-   "n_jobs": 60,
+   "n_jobs": 64,
    "board_name": "",
    "hits": [
     {
@@ -7759,7 +8062,16 @@
   }
  ],
  "LTIMindtree": [],
- "Labcorp": [],
+ "Labcorp": [
+  {
+   "kind": "workday",
+   "slug": "labcorp/wd1/external",
+   "guessed": false,
+   "n_jobs": 27,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Labelbox": [
   {
    "kind": "greenhouse",
@@ -7776,7 +8088,7 @@
    "kind": "ashby",
    "slug": "lambda",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 89,
    "board_name": "",
    "hits": []
   }
@@ -7796,7 +8108,7 @@
    "kind": "workday",
    "slug": "sands/wd1/sands_careers",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   },
@@ -7887,21 +8199,21 @@
    "kind": "workday",
    "slug": "leidos/wd5/External",
    "guessed": false,
-   "n_jobs": 118,
+   "n_jobs": 119,
    "board_name": "",
    "hits": [
     {
      "title": "Junior Software Engineer",
      "loc": "Laurel, MD",
      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Junior Automation Developer (UiPath)",
      "loc": "Alexandria, VA",
      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Junior-Automation-Developer--UiPath-_R-00190595",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -7919,7 +8231,7 @@
    "kind": "ashby",
    "slug": "lemonade",
    "guessed": false,
-   "n_jobs": 39,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -7939,7 +8251,7 @@
    "kind": "greenhouse",
    "slug": "lendingtree",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 19,
    "board_name": "LendingTree",
    "hits": []
   }
@@ -7949,7 +8261,7 @@
    "kind": "workday",
    "slug": "lennar/wd1/Lennar_Jobs",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -7981,7 +8293,7 @@
    "kind": "workday",
    "slug": "lifetime/wd1/lifetime",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -8011,7 +8323,7 @@
    "kind": "workday",
    "slug": "lnw/wd5/lightwonderexternalcareers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   },
@@ -8019,7 +8331,7 @@
    "kind": "workday",
    "slug": "sglottery/wd5/ScientificGamesExternalCareers",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -8049,7 +8361,7 @@
    "kind": "greenhouse",
    "slug": "lilasciences",
    "guessed": false,
-   "n_jobs": 107,
+   "n_jobs": 108,
    "board_name": "Lila Sciences",
    "hits": []
   }
@@ -8103,7 +8415,7 @@
    "kind": "ashby",
    "slug": "liveramp-inc",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 54,
    "board_name": "",
    "hits": []
   }
@@ -8135,7 +8447,7 @@
    "kind": "ashby",
    "slug": "lovable",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 80,
    "board_name": "",
    "hits": []
   }
@@ -8145,7 +8457,7 @@
    "kind": "workday",
    "slug": "lowes/wd5/LWS_External_CS",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 48,
    "board_name": "",
    "hits": []
   }
@@ -8165,7 +8477,7 @@
    "kind": "greenhouse",
    "slug": "lucidmotors",
    "guessed": false,
-   "n_jobs": 436,
+   "n_jobs": 440,
    "board_name": "Lucid Motors",
    "hits": []
   }
@@ -8176,7 +8488,7 @@
    "kind": "ashby",
    "slug": "lumaai",
    "guessed": false,
-   "n_jobs": 29,
+   "n_jobs": 30,
    "board_name": "",
    "hits": []
   }
@@ -8187,7 +8499,7 @@
    "kind": "workday",
    "slug": "lumentum/wd5/LITE",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 39,
    "board_name": "",
    "hits": []
   }
@@ -8197,7 +8509,7 @@
    "kind": "greenhouse",
    "slug": "lyft",
    "guessed": false,
-   "n_jobs": 189,
+   "n_jobs": 193,
    "board_name": "Lyft",
    "hits": []
   }
@@ -8207,7 +8519,7 @@
    "kind": "lever",
    "slug": "lyrahealth",
    "guessed": false,
-   "n_jobs": 562,
+   "n_jobs": 558,
    "board_name": "",
    "hits": []
   }
@@ -8217,7 +8529,7 @@
    "kind": "workday",
    "slug": "mtb/wd5/Campus",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 37,
    "board_name": "",
    "hits": [
     {
@@ -8233,7 +8545,7 @@
    "kind": "workday",
    "slug": "mtb/wd5/MTB",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 48,
    "board_name": "",
    "hits": []
   }
@@ -8243,7 +8555,7 @@
    "kind": "workday",
    "slug": "mgmresorts/wd5/MGMCareers",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 17,
    "board_name": "",
    "hits": []
   }
@@ -8264,7 +8576,7 @@
    "kind": "workday",
    "slug": "mksinst/wd1/mkscareersamericas",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -8274,7 +8586,7 @@
    "kind": "greenhouse",
    "slug": "mntn",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 21,
    "board_name": "MNTN",
    "hits": []
   }
@@ -8296,7 +8608,7 @@
    "kind": "greenhouse",
    "slug": "machindustries",
    "guessed": false,
-   "n_jobs": 140,
+   "n_jobs": 141,
    "board_name": "Mach Industries",
    "hits": [
     {
@@ -8362,7 +8674,7 @@
    "kind": "lever",
    "slug": "redsox",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 10,
    "board_name": "",
    "hits": []
   },
@@ -8370,7 +8682,7 @@
    "kind": "workday",
    "slug": "sterlingmets/wd5/Mets",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -8380,7 +8692,7 @@
    "kind": "greenhouse",
    "slug": "mangroup",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 54,
    "board_name": "Man Group",
    "hits": []
   }
@@ -8395,13 +8707,22 @@
    "hits": []
   }
  ],
- "Manhattan Associates": [],
+ "Manhattan Associates": [
+  {
+   "kind": "workday",
+   "slug": "manh/wd5/External",
+   "guessed": false,
+   "n_jobs": 1,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Marathon Petroleum": [
   {
    "kind": "workday",
    "slug": "mpc/wd1/MPCCareers",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 44,
    "board_name": "",
    "hits": []
   }
@@ -8433,7 +8754,7 @@
    "kind": "ashby",
    "slug": "marqeta-inc",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 46,
    "board_name": "",
    "hits": []
   }
@@ -8444,12 +8765,21 @@
    "kind": "workday",
    "slug": "mars/wd3/external",
    "guessed": false,
-   "n_jobs": 66,
+   "n_jobs": 69,
    "board_name": "",
    "hits": []
   }
  ],
- "Marsh McLennan": [],
+ "Marsh McLennan": [
+  {
+   "kind": "workday",
+   "slug": "mmc/wd1/mmc",
+   "guessed": false,
+   "n_jobs": 40,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Marshall Wace": [
   {
    "kind": "greenhouse",
@@ -8472,28 +8802,36 @@
    "kind": "workday",
    "slug": "marvell/wd1/MarvellCareers",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 68,
    "board_name": "",
    "hits": []
-  }
- ],
- "Mass General Brigham": [
+  },
   {
    "kind": "workday",
-   "slug": "massgeneralbrigham/wd1/mgbexternal",
+   "slug": "marvell/wd1/MarvellCareers2",
    "guessed": false,
-   "n_jobs": 113,
+   "n_jobs": 20,
    "board_name": "",
    "hits": []
   }
  ],
- "MassMutual": [],
+ "Mass General Brigham": [],
+ "MassMutual": [
+  {
+   "kind": "workday",
+   "slug": "massmutual/wd1/MMCareers",
+   "guessed": false,
+   "n_jobs": 13,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Mastercard": [
   {
    "kind": "workday",
    "slug": "mastercard/wd1/Campus",
    "guessed": false,
-   "n_jobs": 43,
+   "n_jobs": 44,
    "board_name": "",
    "hits": [
     {
@@ -8530,7 +8868,7 @@
    "kind": "workday",
    "slug": "mastercard/wd1/CorporateCareers",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 77,
    "board_name": "",
    "hits": [
     {
@@ -8546,7 +8884,7 @@
    "kind": "workday",
    "slug": "mastercard/wd1/campusapplyonly",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -8556,7 +8894,7 @@
    "kind": "ashby",
    "slug": "matx",
    "guessed": false,
-   "n_jobs": 46,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -8598,7 +8936,7 @@
    "kind": "greenhouse",
    "slug": "maymobility",
    "guessed": false,
-   "n_jobs": 39,
+   "n_jobs": 38,
    "board_name": "May Mobility",
    "hits": []
   }
@@ -8621,7 +8959,7 @@
    "kind": "workday",
    "slug": "mckesson/wd3/External_Careers",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 73,
    "board_name": "",
    "hits": []
   }
@@ -8644,7 +8982,7 @@
    "kind": "workday",
    "slug": "medline/wd5/Medline",
    "guessed": false,
-   "n_jobs": 40,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -8654,12 +8992,29 @@
    "kind": "workday",
    "slug": "medtronic/wd1/redeploymentmedtroniccareers",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 103,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "medtronic/wd1/MedtronicCareers",
+   "guessed": false,
+   "n_jobs": 53,
    "board_name": "",
    "hits": []
   }
  ],
- "Meijer": [],
+ "Meijer": [
+  {
+   "kind": "workday",
+   "slug": "meijer/wd5/Meijer",
+   "guessed": false,
+   "n_jobs": 34,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Memorial Sloan Kettering Cancer Center": [
   {
    "kind": "workday",
@@ -8695,7 +9050,7 @@
    "kind": "workday",
    "slug": "msd/wd5/searchjobs",
    "guessed": false,
-   "n_jobs": 43,
+   "n_jobs": 95,
    "board_name": "",
    "hits": []
   }
@@ -8705,7 +9060,7 @@
    "kind": "ashby",
    "slug": "mercor",
    "guessed": false,
-   "n_jobs": 114,
+   "n_jobs": 113,
    "board_name": "",
    "hits": []
   }
@@ -8715,7 +9070,7 @@
    "kind": "greenhouse",
    "slug": "mercury",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 63,
    "board_name": "Mercury",
    "hits": []
   }
@@ -8737,7 +9092,7 @@
    "kind": "greenhouse",
    "slug": "metrostarsystems",
    "guessed": false,
-   "n_jobs": 80,
+   "n_jobs": 84,
    "board_name": "MetroStar",
    "hits": []
   }
@@ -8747,7 +9102,7 @@
    "kind": "greenhouse",
    "slug": "metropolis",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 91,
    "board_name": "Metropolis",
    "hits": []
   }
@@ -8758,7 +9113,7 @@
    "kind": "workday",
    "slug": "microchiphr/wd5/external",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 77,
    "board_name": "",
    "hits": []
   }
@@ -8768,7 +9123,7 @@
    "kind": "workday",
    "slug": "micron/wd1/External",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 109,
    "board_name": "",
    "hits": []
   }
@@ -8793,9 +9148,34 @@
    "n_jobs": 28,
    "board_name": "",
    "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "tti/wd1/tti_pe",
+   "guessed": false,
+   "n_jobs": 5,
+   "board_name": "",
+   "hits": []
   }
  ],
- "Mimecast": [],
+ "Mimecast": [
+  {
+   "kind": "workday",
+   "slug": "mimecast/wd5/Mimecast-Careers",
+   "guessed": false,
+   "n_jobs": 14,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Software Engineer I",
+     "loc": "United States of America\u2013 Minnesota \u2013 Minneapolis",
+     "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1",
+     "date": "2026-09-14",
+     "date_kind": "exact"
+    }
+   ]
+  }
+ ],
  "Miro": [
   {
    "kind": "ashby",
@@ -8811,7 +9191,7 @@
    "kind": "ashby",
    "slug": "mistral.ai",
    "guessed": false,
-   "n_jobs": 207,
+   "n_jobs": 208,
    "board_name": "",
    "hits": []
   }
@@ -8864,7 +9244,7 @@
    "kind": "workday",
    "slug": "mdlz/wd3/External",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 93,
    "board_name": "",
    "hits": []
   }
@@ -8875,7 +9255,7 @@
    "kind": "ashby",
    "slug": "gen-digital",
    "guessed": false,
-   "n_jobs": 114,
+   "n_jobs": 116,
    "board_name": "",
    "hits": []
   }
@@ -8885,7 +9265,7 @@
    "kind": "greenhouse",
    "slug": "mongodb",
    "guessed": false,
-   "n_jobs": 392,
+   "n_jobs": 394,
    "board_name": "MongoDB",
    "hits": []
   }
@@ -8905,7 +9285,7 @@
    "kind": "greenhouse",
    "slug": "monzo",
    "guessed": false,
-   "n_jobs": 70,
+   "n_jobs": 67,
    "board_name": "Monzo",
    "hits": []
   }
@@ -8944,7 +9324,7 @@
    "kind": "workday",
    "slug": "ms/wd5/private",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -8965,6 +9345,14 @@
    "n_jobs": 5,
    "board_name": "",
    "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "morningstar/wd5/Morningstar",
+   "guessed": false,
+   "n_jobs": 13,
+   "board_name": "",
+   "hits": []
   }
  ],
  "Motional": [
@@ -8972,7 +9360,7 @@
    "kind": "greenhouse",
    "slug": "motional",
    "guessed": false,
-   "n_jobs": 73,
+   "n_jobs": 74,
    "board_name": "Motional",
    "hits": []
   }
@@ -8982,7 +9370,7 @@
    "kind": "greenhouse",
    "slug": "gomotive",
    "guessed": false,
-   "n_jobs": 145,
+   "n_jobs": 149,
    "board_name": "Motive",
    "hits": []
   }
@@ -8992,7 +9380,7 @@
    "kind": "workday",
    "slug": "motorolasolutions/wd5/Careers",
    "guessed": false,
-   "n_jobs": 115,
+   "n_jobs": 117,
    "board_name": "",
    "hits": [
     {
@@ -9011,7 +9399,7 @@
    "kind": "greenhouse",
    "slug": "mozilla",
    "guessed": false,
-   "n_jobs": 90,
+   "n_jobs": 91,
    "board_name": "Mozilla",
    "hits": []
   }
@@ -9022,7 +9410,7 @@
    "kind": "workday",
    "slug": "salesforce/wd12/External_Career_Site",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 91,
    "board_name": "",
    "hits": [
     {
@@ -9052,7 +9440,7 @@
    "kind": "workday",
    "slug": "nascar/wd1/NASCAR",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   }
@@ -9064,6 +9452,22 @@
    "slug": "ncr/wd1/ext_us",
    "guessed": false,
    "n_jobs": 45,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "ncr/wd1/ext_contractors",
+   "guessed": false,
+   "n_jobs": 0,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "ncr/wd1/ext_non_us",
+   "guessed": false,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   }
@@ -9083,7 +9487,7 @@
    "kind": "greenhouse",
    "slug": "nice",
    "guessed": false,
-   "n_jobs": 178,
+   "n_jobs": 174,
    "board_name": "NICE",
    "hits": []
   }
@@ -9104,7 +9508,7 @@
    "kind": "greenhouse",
    "slug": "nationalpublicradioinc",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 18,
    "board_name": "NPR",
    "hits": []
   }
@@ -9115,7 +9519,7 @@
    "kind": "workday",
    "slug": "nxp/wd3/careers",
    "guessed": false,
-   "n_jobs": 76,
+   "n_jobs": 77,
    "board_name": "",
    "hits": []
   }
@@ -9136,7 +9540,7 @@
    "kind": "greenhouse",
    "slug": "natera",
    "guessed": false,
-   "n_jobs": 210,
+   "n_jobs": 206,
    "board_name": "Natera",
    "hits": []
   }
@@ -9168,7 +9572,7 @@
    "kind": "workday",
    "slug": "nationwide/wd1/Nationwide_Career",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 64,
    "board_name": "",
    "hits": [
     {
@@ -9202,7 +9606,24 @@
    "hits": []
   }
  ],
- "Nelnet": [],
+ "Nelnet": [
+  {
+   "kind": "workday",
+   "slug": "nelnet/wd1/MyNelnet",
+   "guessed": false,
+   "n_jobs": 28,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Junior/Mid-Level IT Software Engineer - .NET/Web",
+     "loc": "5 Locations",
+     "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Centennial-CO/Junior-Mid-Level-IT-Software-Engineer---NET-Web_R23090",
+     "date": "2026-09-09",
+     "date_kind": "exact"
+    }
+   ]
+  }
+ ],
  "Neo4j": [
   {
    "kind": "greenhouse",
@@ -9218,7 +9639,7 @@
    "kind": "ashby",
    "slug": "nerdwallet",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -9241,7 +9662,7 @@
    "kind": "ashby",
    "slug": "netgear",
    "guessed": false,
-   "n_jobs": 47,
+   "n_jobs": 48,
    "board_name": "",
    "hits": []
   }
@@ -9261,7 +9682,7 @@
    "kind": "greenhouse",
    "slug": "netskope",
    "guessed": false,
-   "n_jobs": 152,
+   "n_jobs": 150,
    "board_name": "Netskope",
    "hits": []
   }
@@ -9271,7 +9692,7 @@
    "kind": "workday",
    "slug": "ntst/wd1/careers",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 34,
    "board_name": "",
    "hits": []
   }
@@ -9301,7 +9722,7 @@
    "kind": "workday",
    "slug": "newbalance/wd1/Careers",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 14,
    "board_name": "",
    "hits": []
   }
@@ -9324,7 +9745,7 @@
    "kind": "greenhouse",
    "slug": "newsbreak",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 58,
    "board_name": "NewsBreak",
    "hits": [
     {
@@ -9384,7 +9805,7 @@
    "kind": "ashby",
    "slug": "niantic-spatial",
    "guessed": false,
-   "n_jobs": 17,
+   "n_jobs": 18,
    "board_name": "",
    "hits": []
   }
@@ -9458,7 +9879,7 @@
    "kind": "workday",
    "slug": "ntrs/wd1/northerntrust",
    "guessed": false,
-   "n_jobs": 44,
+   "n_jobs": 43,
    "board_name": "",
    "hits": []
   }
@@ -9468,9 +9889,16 @@
    "kind": "workday",
    "slug": "ngc/wd1/Northrop_Grumman_External_Site",
    "guessed": false,
-   "n_jobs": 111,
+   "n_jobs": 108,
    "board_name": "",
    "hits": [
+    {
+     "title": "2027 Associate Systems Engineer - Woodland Hills CA",
+     "loc": "United States-California-Woodland Hills",
+     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Associate-Systems-Engineer---Woodland-Hills-CA_R10254664",
+     "date": "2026-10-06",
+     "date_kind": "exact"
+    },
     {
      "title": "2027- Associate Systems Engineer - Integration & Test - Woodland Hills CA",
      "loc": "United States-California-Woodland Hills",
@@ -9487,7 +9915,7 @@
    "kind": "workday",
    "slug": "northwesternmutual/wd5/corporate-careers",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 23,
    "board_name": "",
    "hits": []
   }
@@ -9497,7 +9925,7 @@
    "kind": "workday",
    "slug": "nclh/wd108/NCL_Shoreside_Careers",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -9507,7 +9935,7 @@
    "kind": "ashby",
    "slug": "notion",
    "guessed": false,
-   "n_jobs": 135,
+   "n_jobs": 133,
    "board_name": "",
    "hits": [
     {
@@ -9536,7 +9964,7 @@
    "kind": "workday",
    "slug": "novartis/wd3/Novartis_Careers",
    "guessed": false,
-   "n_jobs": 61,
+   "n_jobs": 62,
    "board_name": "",
    "hits": []
   }
@@ -9547,7 +9975,7 @@
    "kind": "ashby",
    "slug": "nubank",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 105,
    "board_name": "",
    "hits": []
   }
@@ -9558,11 +9986,11 @@
    "kind": "greenhouse",
    "slug": "nuro",
    "guessed": false,
-   "n_jobs": 104,
+   "n_jobs": 105,
    "board_name": "Nuro",
    "hits": [
     {
-     "title": "New Grad Software Engineer, Routing",
+     "title": "New Grad Software Engineer, Product Engineering",
      "loc": "Mountain View, California (HQ)",
      "url": "https://nuro.ai/careersitem?gh_jid=8248317",
      "date": "2026-10-05"
@@ -9582,28 +10010,21 @@
    "kind": "workday",
    "slug": "nvidia/wd5/NVIDIAExternalCareerSite",
    "guessed": false,
-   "n_jobs": 129,
+   "n_jobs": 127,
    "board_name": "",
    "hits": [
-    {
-     "title": "Systems Software Engineer - New College Grad 2026",
-     "loc": "US, OR, Hillsboro",
-     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
-     "date": "2026-10-01",
-     "date_kind": "exact"
-    },
     {
      "title": "NVIDIA 2027 New College Graduate: Software Engineering - China",
      "loc": "3 Locations",
      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
      "loc": "US, CA, Santa Clara",
      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -9614,7 +10035,7 @@
    "kind": "workday",
    "slug": "oreillyauto/wd1/oreilly",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -9624,7 +10045,7 @@
    "kind": "greenhouse",
    "slug": "okx",
    "guessed": false,
-   "n_jobs": 330,
+   "n_jobs": 334,
    "board_name": "OKX",
    "hits": []
   }
@@ -9645,7 +10066,7 @@
    "kind": "greenhouse",
    "slug": "oklo",
    "guessed": false,
-   "n_jobs": 76,
+   "n_jobs": 78,
    "board_name": "Oklo",
    "hits": []
   }
@@ -9655,7 +10076,7 @@
    "kind": "greenhouse",
    "slug": "okta",
    "guessed": false,
-   "n_jobs": 363,
+   "n_jobs": 376,
    "board_name": "Okta",
    "hits": []
   }
@@ -9718,7 +10139,7 @@
    "kind": "workday",
    "slug": "interpublic/wd5/omc",
    "guessed": false,
-   "n_jobs": 75,
+   "n_jobs": 74,
    "board_name": "",
    "hits": []
   },
@@ -9726,7 +10147,7 @@
    "kind": "greenhouse",
    "slug": "omnicomhealth",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 19,
    "board_name": "Omnicom Health",
    "hits": []
   }
@@ -9746,7 +10167,7 @@
    "kind": "greenhouse",
    "slug": "onestream",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 69,
    "board_name": "OneStream",
    "hits": [
     {
@@ -9769,7 +10190,7 @@
    "kind": "greenhouse",
    "slug": "onetrust",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 93,
    "board_name": "OneTrust",
    "hits": []
   }
@@ -9789,7 +10210,7 @@
    "kind": "ashby",
    "slug": "openai",
    "guessed": false,
-   "n_jobs": 822,
+   "n_jobs": 821,
    "board_name": "",
    "hits": [
     {
@@ -9826,7 +10247,7 @@
    "kind": "ashby",
    "slug": "opengov",
    "guessed": false,
-   "n_jobs": 68,
+   "n_jobs": 70,
    "board_name": "",
    "hits": []
   }
@@ -9856,7 +10277,7 @@
    "kind": "greenhouse",
    "slug": "opentable",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 101,
    "board_name": "OpenTable",
    "hits": []
   }
@@ -9870,7 +10291,7 @@
    "kind": "workday",
    "slug": "theocc/wd5/careers",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 50,
    "board_name": "",
    "hits": []
   }
@@ -9902,7 +10323,7 @@
    "kind": "greenhouse",
    "slug": "oscar",
    "guessed": false,
-   "n_jobs": 255,
+   "n_jobs": 259,
    "board_name": "Oscar Health",
    "hits": []
   }
@@ -9912,7 +10333,7 @@
    "kind": "workday",
    "slug": "oshkoshcorporation/wd5/Oshkosh",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 74,
    "board_name": "",
    "hits": []
   }
@@ -9922,7 +10343,7 @@
    "kind": "workday",
    "slug": "otis/wd504/REC_Ext_Gateway",
    "guessed": false,
-   "n_jobs": 88,
+   "n_jobs": 89,
    "board_name": "",
    "hits": []
   }
@@ -9942,7 +10363,7 @@
    "kind": "greenhouse",
    "slug": "oura",
    "guessed": false,
-   "n_jobs": 79,
+   "n_jobs": 77,
    "board_name": "\u014cura",
    "hits": []
   }
@@ -9963,7 +10384,7 @@
    "kind": "workday",
    "slug": "pg/wd5/1000",
    "guessed": false,
-   "n_jobs": 88,
+   "n_jobs": 100,
    "board_name": "",
    "hits": []
   }
@@ -9996,7 +10417,7 @@
    "kind": "workday",
    "slug": "pimco/wd1/pimco-careers",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 53,
    "board_name": "",
    "hits": []
   }
@@ -10006,7 +10427,7 @@
    "kind": "greenhouse",
    "slug": "pmg",
    "guessed": false,
-   "n_jobs": 81,
+   "n_jobs": 82,
    "board_name": "PMG",
    "hits": [
     {
@@ -10029,7 +10450,7 @@
    "kind": "workday",
    "slug": "pnc/wd5/External",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -10039,9 +10460,17 @@
    "kind": "workday",
    "slug": "ppg/wd5/PPG_CAREERS",
    "guessed": false,
-   "n_jobs": 66,
+   "n_jobs": 67,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "2027 Burbank PhD Program - Aerospace Product Developer",
+     "loc": "USA - Burbank R&D Center",
+     "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Burbank-RD-Center/XMLNAME-2027-Burbank-PhD-Program---Aerospace-Product-Developer_JR269893",
+     "date": "2026-10-06",
+     "date_kind": "exact"
+    }
+   ]
   }
  ],
  "PTC": [],
@@ -10050,7 +10479,7 @@
    "kind": "workday",
    "slug": "pvh/wd1/pvh_careers",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 28,
    "board_name": "",
    "hits": []
   }
@@ -10061,7 +10490,7 @@
    "kind": "workday",
    "slug": "pacificlife/wd1/PacificLifeCareers",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -10072,7 +10501,7 @@
    "kind": "greenhouse",
    "slug": "pagerduty",
    "guessed": false,
-   "n_jobs": 52,
+   "n_jobs": 51,
    "board_name": "PagerDuty",
    "hits": []
   }
@@ -10082,7 +10511,7 @@
    "kind": "lever",
    "slug": "palantir",
    "guessed": false,
-   "n_jobs": 318,
+   "n_jobs": 314,
    "board_name": "",
    "hits": [
     {
@@ -10202,14 +10631,23 @@
    ]
   }
  ],
- "Palo Alto Networks": [],
+ "Palo Alto Networks": [
+  {
+   "kind": "workday",
+   "slug": "paloaltonetworks/wd5/panwexternalcareers",
+   "guessed": false,
+   "n_jobs": 82,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Panasonic": [],
  "Papa John's International": [
   {
    "kind": "workday",
    "slug": "papajohns/wd1/papajohnscareers",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 48,
    "board_name": "",
    "hits": []
   }
@@ -10258,7 +10696,7 @@
    "kind": "greenhouse",
    "slug": "patterndata",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 3,
    "board_name": "Pattern Data",
    "hits": []
   }
@@ -10268,7 +10706,7 @@
    "kind": "ashby",
    "slug": "paxos",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 16,
    "board_name": "",
    "hits": []
   }
@@ -10291,7 +10729,7 @@
    "kind": "greenhouse",
    "slug": "payoneer",
    "guessed": false,
-   "n_jobs": 104,
+   "n_jobs": 103,
    "board_name": "Payoneer",
    "hits": []
   }
@@ -10303,7 +10741,7 @@
    "kind": "greenhouse",
    "slug": "peloton",
    "guessed": false,
-   "n_jobs": 58,
+   "n_jobs": 60,
    "board_name": "Peloton",
    "hits": []
   }
@@ -10347,7 +10785,7 @@
    "kind": "ashby",
    "slug": "Perplexity",
    "guessed": false,
-   "n_jobs": 129,
+   "n_jobs": 130,
    "board_name": "",
    "hits": []
   }
@@ -10379,7 +10817,7 @@
    "kind": "workday",
    "slug": "pfizer/wd1/PfizerCareers",
    "guessed": false,
-   "n_jobs": 60,
+   "n_jobs": 62,
    "board_name": "",
    "hits": []
   }
@@ -10389,7 +10827,7 @@
    "kind": "workday",
    "slug": "philips/wd3/jobs-and-careers",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 68,
    "board_name": "",
    "hits": []
   }
@@ -10430,7 +10868,7 @@
    "kind": "greenhouse",
    "slug": "pingidentity",
    "guessed": false,
-   "n_jobs": 61,
+   "n_jobs": 56,
    "board_name": "Ping Identity",
    "hits": []
   }
@@ -10489,7 +10927,7 @@
    "kind": "ashby",
    "slug": "plaid",
    "guessed": false,
-   "n_jobs": 120,
+   "n_jobs": 121,
    "board_name": "",
    "hits": []
   }
@@ -10499,7 +10937,7 @@
    "kind": "greenhouse",
    "slug": "planetlabs",
    "guessed": false,
-   "n_jobs": 118,
+   "n_jobs": 119,
    "board_name": "Planet",
    "hits": []
   },
@@ -10549,7 +10987,7 @@
    "kind": "greenhouse",
    "slug": "point72",
    "guessed": false,
-   "n_jobs": 215,
+   "n_jobs": 216,
    "board_name": "Point72 ",
    "hits": []
   }
@@ -10597,7 +11035,7 @@
    "kind": "ashby",
    "slug": "polymarket",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 65,
    "board_name": "",
    "hits": []
   }
@@ -10628,7 +11066,7 @@
    "kind": "workday",
    "slug": "postman/wd108/careers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -10649,7 +11087,7 @@
    "kind": "workday",
    "slug": "priceline/wd1/Priceline",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   }
@@ -10679,7 +11117,16 @@
    "hits": []
   }
  ],
- "Proofpoint": [],
+ "Proofpoint": [
+  {
+   "kind": "workday",
+   "slug": "proofpoint/wd5/proofpointcareers",
+   "guessed": false,
+   "n_jobs": 17,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Prosidian Consulting": [],
  "Prosper Marketplace": [
   {
@@ -10715,7 +11162,7 @@
    "kind": "workday",
    "slug": "pru/wd5/Careers",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 16,
    "board_name": "",
    "hits": []
   }
@@ -10748,9 +11195,16 @@
    "kind": "greenhouse",
    "slug": "purestorage",
    "guessed": false,
-   "n_jobs": 357,
+   "n_jobs": 351,
    "board_name": "Everpure",
-   "hits": []
+   "hits": [
+    {
+     "title": "Software Engineer Grad 2027",
+     "loc": "Santa Clara, California",
+     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+     "date": "2026-10-06"
+    }
+   ]
   }
  ],
  "PwC": [
@@ -10811,14 +11265,14 @@
    "kind": "workday",
    "slug": "qtsdatacenters/wd5/qts",
    "guessed": false,
-   "n_jobs": 56,
+   "n_jobs": 57,
    "board_name": "",
    "hits": [
     {
      "title": "Cloud Engineer I - FIRST SHIFT",
      "loc": "Suwanee, GA",
      "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Cloud-Engineer-I---FIRST-SHIFT_R2026-1607",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -10842,7 +11296,7 @@
    "kind": "greenhouse",
    "slug": "qualtrics",
    "guessed": false,
-   "n_jobs": 45,
+   "n_jobs": 48,
    "board_name": "Qualtrics",
    "hits": []
   }
@@ -10853,7 +11307,7 @@
    "kind": "ashby",
    "slug": "quantcast",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -10866,7 +11320,7 @@
    "kind": "greenhouse",
    "slug": "quberesearchandtechnologies",
    "guessed": false,
-   "n_jobs": 196,
+   "n_jobs": 193,
    "board_name": "Qube Research & Technologies",
    "hits": []
   }
@@ -10877,7 +11331,7 @@
   {
    "kind": "greenhouse",
    "slug": "quinstreet",
-   "guessed": true,
+   "guessed": false,
    "n_jobs": 28,
    "board_name": "QuinStreet",
    "hits": []
@@ -10888,7 +11342,7 @@
    "kind": "greenhouse",
    "slug": "quince",
    "guessed": false,
-   "n_jobs": 146,
+   "n_jobs": 142,
    "board_name": "Quince",
    "hits": []
   }
@@ -10935,7 +11389,7 @@
    "kind": "workday",
    "slug": "rbc/wd3/rbcglobal1",
    "guessed": false,
-   "n_jobs": 87,
+   "n_jobs": 90,
    "board_name": "",
    "hits": []
   },
@@ -10943,7 +11397,7 @@
    "kind": "workday",
    "slug": "rbc/wd3/ExternalPrivatePostingStudents",
    "guessed": false,
-   "n_jobs": 9,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   },
@@ -10951,7 +11405,7 @@
    "kind": "workday",
    "slug": "rbc/wd3/RBCEARLYTALENT1",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 25,
    "board_name": "",
    "hits": []
   }
@@ -10962,28 +11416,28 @@
    "kind": "workday",
    "slug": "relx/wd3/relx",
    "guessed": false,
-   "n_jobs": 71,
+   "n_jobs": 70,
    "board_name": "",
    "hits": [
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
      "loc": "Alpharetta, GA",
      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
      "loc": "Alpharetta, GA",
      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
      "loc": "Boca Raton, FL",
      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -10999,28 +11453,28 @@
    "kind": "workday",
    "slug": "relx/wd3/RiskSolutions",
    "guessed": false,
-   "n_jobs": 46,
+   "n_jobs": 47,
    "board_name": "",
    "hits": [
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
      "loc": "Alpharetta, GA",
      "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
      "loc": "Alpharetta, GA",
      "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
      "loc": "Boca Raton, FL",
      "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -11036,7 +11490,7 @@
    "kind": "workday",
    "slug": "relx/wd3/LexisNexisLegal",
    "guessed": false,
-   "n_jobs": 43,
+   "n_jobs": 42,
    "board_name": "",
    "hits": []
   }
@@ -11047,7 +11501,7 @@
    "kind": "workday",
    "slug": "rsm/wd1/RSMCareers",
    "guessed": false,
-   "n_jobs": 104,
+   "n_jobs": 98,
    "board_name": "",
    "hits": []
   }
@@ -11057,7 +11511,7 @@
    "kind": "workday",
    "slug": "globalhr/wd5/rec_rtx_ext_gateway",
    "guessed": false,
-   "n_jobs": 108,
+   "n_jobs": 106,
    "board_name": "",
    "hits": [
     {
@@ -11110,37 +11564,16 @@
      "date_kind": "exact"
     },
     {
-     "title": "Systems Engineer I - Modeling, Simulation & Analysis  (Onsite)",
-     "loc": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Systems-Engineer-I---Modeling--Simulation---Analysis---Onsite-_01873633",
-     "date": "2026-09-14",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Systems Engineer I - Signal Processing (Onsite)",
-     "loc": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I---Signal-Processing--Onsite-_01874546",
-     "date": "2026-09-14",
+     "title": "Software Engineer I  (Onsite)",
+     "loc": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
+     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447",
+     "date": "2026-10-06",
      "date_kind": "exact"
     },
     {
      "title": "Systems Engineer I (Onsite)",
      "loc": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I--Onsite-_01879461",
-     "date": "2026-10-05",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Software Engineer I (Onsite)",
-     "loc": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432",
-     "date": "2026-10-05",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Systems Engineer I\u2013 Algorithms -  (Onsite)",
-     "loc": "US-CA-FULLERTON-676 ~ 1801 Hughes Dr ~ BLDG 676",
-     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Systems-Engineer-I--Algorithms-----Onsite-_01879395",
      "date": "2026-10-05",
      "date_kind": "exact"
     }
@@ -11157,28 +11590,28 @@
      "title": "Software Engineer I (Onsite)",
      "loc": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537",
-     "date": "2026-10-05",
+     "date": "2026-10-06",
      "date_kind": "exact"
     },
     {
      "title": "Systems Engineer I (Onsite, Hybrid, Remote)",
      "loc": "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Systems-Engineer-I--Onsite--Hybrid--Remote-_01866966",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Systems Engineer I - Modeling, Simulation & Analysis",
      "loc": "US-AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Systems-Engineer-I---Modeling--Simulation---Analysis_01866707",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Conversion: RSE - Systems Engineer I - Secure Tactical Comms (Onsite)",
      "loc": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Conversion--RSE---Systems-Engineer-I---Secure-Tactical-Comms--Onsite-_01865192",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
@@ -11192,13 +11625,6 @@
      "title": "Software Engineer I (Onsite)",
      "loc": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730-1",
-     "date": "2026-10-05",
-     "date_kind": "exact"
-    },
-    {
-     "title": "Software/Developer Engineer I (Onsite)",
-     "loc": "US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
-     "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01879932",
      "date": "2026-10-05",
      "date_kind": "exact"
     },
@@ -11256,12 +11682,21 @@
    "kind": "ashby",
    "slug": "ramp",
    "guessed": false,
-   "n_jobs": 159,
+   "n_jobs": 161,
    "board_name": "",
    "hits": []
   }
  ],
- "Rapid7": [],
+ "Rapid7": [
+  {
+   "kind": "workday",
+   "slug": "mymoose/wd1/careers",
+   "guessed": false,
+   "n_jobs": 2,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Raymond James Financial": [
   {
    "kind": "workday",
@@ -11275,7 +11710,7 @@
    "kind": "workday",
    "slug": "raymondjames/wd1/RaymondJamesCareers",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -11306,7 +11741,7 @@
    "kind": "greenhouse",
    "slug": "recursionpharmaceuticals",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 13,
    "board_name": "Recursion",
    "hits": []
   }
@@ -11317,7 +11752,7 @@
    "kind": "greenhouse",
    "slug": "redventures",
    "guessed": false,
-   "n_jobs": 57,
+   "n_jobs": 61,
    "board_name": "Red Ventures",
    "hits": []
   }
@@ -11327,7 +11762,7 @@
    "kind": "greenhouse",
    "slug": "reddit",
    "guessed": false,
-   "n_jobs": 151,
+   "n_jobs": 150,
    "board_name": "Reddit",
    "hits": []
   }
@@ -11344,7 +11779,7 @@
      "title": "Software Engineer I",
      "loc": "2 Locations",
      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -11385,7 +11820,7 @@
    "kind": "workday",
    "slug": "regeneron/wd1/Careers",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -11395,7 +11830,7 @@
    "kind": "workday",
    "slug": "regions/wd5/regions_careers",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 39,
    "board_name": "",
    "hits": []
   }
@@ -11405,7 +11840,7 @@
    "kind": "greenhouse",
    "slug": "relativity",
    "guessed": false,
-   "n_jobs": 348,
+   "n_jobs": 352,
    "board_name": "Relativity Space",
    "hits": [
     {
@@ -11417,23 +11852,32 @@
    ]
   }
  ],
- "ReliaQuest": [],
+ "ReliaQuest": [
+  {
+   "kind": "workday",
+   "slug": "reliaquest/wd5/ReliaQuest_Careers",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Associate Software Engineer",
+     "loc": "Tampa, FL",
+     "url": "https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Tampa-FL/Associate-Software-Engineer_R15047",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    }
+   ]
+  }
+ ],
  "Remitly": [
   {
    "kind": "workday",
    "slug": "remitly/wd5/Remitly_Careers",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 31,
    "board_name": "",
-   "hits": [
-    {
-     "title": "Software Development Engineer I- IHUB",
-     "loc": "Seattle, Washington United States",
-     "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706",
-     "date": "2026-09-05",
-     "date_kind": "on or before"
-    }
-   ]
+   "hits": []
   }
  ],
  "Renaissance Technologies": [
@@ -11462,7 +11906,7 @@
    "kind": "greenhouse",
    "slug": "renttherunway",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 23,
    "board_name": "Rent the Runway",
    "hits": []
   }
@@ -11472,7 +11916,7 @@
    "kind": "ashby",
    "slug": "replit",
    "guessed": false,
-   "n_jobs": 70,
+   "n_jobs": 71,
    "board_name": "",
    "hits": [
     {
@@ -11541,7 +11985,7 @@
    "kind": "greenhouse",
    "slug": "riotgames",
    "guessed": false,
-   "n_jobs": 169,
+   "n_jobs": 167,
    "board_name": "Riot Games",
    "hits": []
   }
@@ -11551,7 +11995,7 @@
    "kind": "greenhouse",
    "slug": "ripple",
    "guessed": false,
-   "n_jobs": 129,
+   "n_jobs": 127,
    "board_name": "Ripple ",
    "hits": []
   }
@@ -11572,7 +12016,7 @@
    "kind": "lever",
    "slug": "ro",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -11582,7 +12026,7 @@
    "kind": "workday",
    "slug": "roberthalf/wd1/roberthalfcareers",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 4,
    "board_name": "",
    "hits": []
   }
@@ -11592,7 +12036,7 @@
    "kind": "greenhouse",
    "slug": "robinhood",
    "guessed": false,
-   "n_jobs": 156,
+   "n_jobs": 160,
    "board_name": "Robinhood",
    "hits": []
   }
@@ -11602,7 +12046,7 @@
    "kind": "greenhouse",
    "slug": "roblox",
    "guessed": false,
-   "n_jobs": 256,
+   "n_jobs": 260,
    "board_name": "Roblox",
    "hits": [
     {
@@ -11619,7 +12063,7 @@
    "kind": "workday",
    "slug": "roche/wd3/roche-ext",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 92,
    "board_name": "",
    "hits": []
   }
@@ -11636,7 +12080,7 @@
      "title": "Software Engineer I",
      "loc": "2 Locations",
      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -11647,7 +12091,7 @@
    "kind": "greenhouse",
    "slug": "rocketlab",
    "guessed": false,
-   "n_jobs": 559,
+   "n_jobs": 558,
    "board_name": "Rocket Lab Corporation",
    "hits": [
     {
@@ -11670,7 +12114,7 @@
    "kind": "greenhouse",
    "slug": "rockstargames",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 32,
    "board_name": "Rockstar Games",
    "hits": []
   }
@@ -11680,7 +12124,7 @@
    "kind": "workday",
    "slug": "rockwellautomation/wd1/External_Rockwell_Automation",
    "guessed": false,
-   "n_jobs": 63,
+   "n_jobs": 64,
    "board_name": "",
    "hits": []
   },
@@ -11688,7 +12132,7 @@
    "kind": "workday",
    "slug": "rockwellautomation/wd1/External-Rockwell-Automation-Early-Careers",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -11699,7 +12143,7 @@
    "kind": "greenhouse",
    "slug": "roku",
    "guessed": false,
-   "n_jobs": 206,
+   "n_jobs": 209,
    "board_name": "Roku",
    "hits": [
     {
@@ -11742,7 +12186,7 @@
    "kind": "lever",
    "slug": "rover",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 35,
    "board_name": "",
    "hits": [
     {
@@ -11760,7 +12204,7 @@
    "kind": "greenhouse",
    "slug": "rubrik",
    "guessed": false,
-   "n_jobs": 129,
+   "n_jobs": 131,
    "board_name": "Rubrik Job Board",
    "hits": []
   }
@@ -11780,7 +12224,7 @@
    "kind": "ashby",
    "slug": "runpod",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 28,
    "board_name": "",
    "hits": []
   }
@@ -11800,7 +12244,7 @@
    "kind": "workday",
    "slug": "ryder/wd5/RyderCareers",
    "guessed": false,
-   "n_jobs": 45,
+   "n_jobs": 44,
    "board_name": "",
    "hits": []
   }
@@ -11810,7 +12254,7 @@
    "kind": "workday",
    "slug": "spgi/wd5/SPGI_Careers",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 89,
    "board_name": "",
    "hits": []
   },
@@ -11826,13 +12270,22 @@
  "SAIC (Science Applications International Corp.)": [],
  "SAP": [],
  "SAS Institute": [],
- "SEI Investments": [],
+ "SEI Investments": [
+  {
+   "kind": "workday",
+   "slug": "seic/wd1/SEI_Global_Services",
+   "guessed": false,
+   "n_jobs": 10,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "SK hynix": [
   {
    "kind": "greenhouse",
    "slug": "skhynixamerica",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 54,
    "board_name": "SK hynix America",
    "hits": []
   }
@@ -11844,7 +12297,7 @@
    "kind": "greenhouse",
    "slug": "smxtech",
    "guessed": false,
-   "n_jobs": 99,
+   "n_jobs": 102,
    "board_name": "SMX",
    "hits": [
     {
@@ -11880,7 +12333,7 @@
    "kind": "workday",
    "slug": "ssctech/wd1/ssctechnologies",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 35,
    "board_name": "",
    "hits": []
   }
@@ -11891,7 +12344,7 @@
    "kind": "greenhouse",
    "slug": "systemstechnologyresearch",
    "guessed": false,
-   "n_jobs": 139,
+   "n_jobs": 135,
    "board_name": "STR",
    "hits": [
     {
@@ -11928,7 +12381,7 @@
    "kind": "workday",
    "slug": "sabre/wd1/SabreJobs",
    "guessed": false,
-   "n_jobs": 18,
+   "n_jobs": 20,
    "board_name": "",
    "hits": []
   }
@@ -11939,27 +12392,18 @@
    "kind": "workday",
    "slug": "sailpoint/wd1/SailPoint",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 2,
    "board_name": "",
    "hits": []
   }
  ],
- "Saks Global": [
-  {
-   "kind": "workday",
-   "slug": "saks/wd1/careers_at_saks",
-   "guessed": false,
-   "n_jobs": 15,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "Saks Global": [],
  "Salesforce": [
   {
    "kind": "workday",
    "slug": "salesforce/wd12/External_Career_Site",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 90,
    "board_name": "",
    "hits": [
     {
@@ -11975,7 +12419,7 @@
    "kind": "workday",
    "slug": "salesforce/wd12/Futureforce_NewGradRoles",
    "guessed": false,
-   "n_jobs": 13,
+   "n_jobs": 16,
    "board_name": "",
    "hits": [
     {
@@ -12004,7 +12448,7 @@
    "kind": "greenhouse",
    "slug": "sambanovasystems",
    "guessed": false,
-   "n_jobs": 63,
+   "n_jobs": 62,
    "board_name": "SambaNova",
    "hits": []
   }
@@ -12014,7 +12458,7 @@
    "kind": "greenhouse",
    "slug": "samsara",
    "guessed": false,
-   "n_jobs": 242,
+   "n_jobs": 241,
    "board_name": "Samsara",
    "hits": []
   }
@@ -12034,7 +12478,7 @@
    "kind": "workday",
    "slug": "sec/wd3/Samsung_Careers",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 93,
    "board_name": "",
    "hits": [
     {
@@ -12110,7 +12554,7 @@
    "kind": "ashby",
    "slug": "saronic",
    "guessed": false,
-   "n_jobs": 207,
+   "n_jobs": 203,
    "board_name": "",
    "hits": []
   }
@@ -12168,7 +12612,7 @@
    "kind": "greenhouse",
    "slug": "scoutmotors",
    "guessed": false,
-   "n_jobs": 215,
+   "n_jobs": 210,
    "board_name": "Scout Motors",
    "hits": []
   }
@@ -12178,7 +12622,7 @@
    "kind": "ashby",
    "slug": "scribdinc",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -12202,7 +12646,16 @@
   }
  ],
  "Seismic": [],
- "Semrush": [],
+ "Semrush": [
+  {
+   "kind": "workday",
+   "slug": "semrush/wd5/semrushcareers",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Semtech": [
   {
    "kind": "workday",
@@ -12228,7 +12681,7 @@
    "kind": "greenhouse",
    "slug": "sentinellabs",
    "guessed": false,
-   "n_jobs": 253,
+   "n_jobs": 259,
    "board_name": "SentinelOne",
    "hits": []
   }
@@ -12281,7 +12734,7 @@
    "kind": "greenhouse",
    "slug": "sharkninjaoperatingllc",
    "guessed": false,
-   "n_jobs": 155,
+   "n_jobs": 149,
    "board_name": "SharkNinja",
    "hits": []
   }
@@ -12291,7 +12744,7 @@
    "kind": "greenhouse",
    "slug": "shein",
    "guessed": false,
-   "n_jobs": 17,
+   "n_jobs": 16,
    "board_name": "SHEIN",
    "hits": []
   }
@@ -12301,7 +12754,7 @@
    "kind": "workday",
    "slug": "shell/wd3/ShellCareers",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 51,
    "board_name": "",
    "hits": []
   }
@@ -12312,7 +12765,7 @@
    "kind": "lever",
    "slug": "shieldai",
    "guessed": false,
-   "n_jobs": 594,
+   "n_jobs": 593,
    "board_name": "",
    "hits": []
   }
@@ -12328,13 +12781,22 @@
   }
  ],
  "Shopify": [],
- "Shutterstock (merging with Getty Images)": [],
+ "Shutterstock (merging with Getty Images)": [
+  {
+   "kind": "workday",
+   "slug": "shutterstock/wd1/shutterstockcareers",
+   "guessed": false,
+   "n_jobs": 0,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "SiFive": [
   {
    "kind": "workday",
    "slug": "sifive/wd1/sifivecareers",
    "guessed": false,
-   "n_jobs": 25,
+   "n_jobs": 22,
    "board_name": "",
    "hits": []
   }
@@ -12372,7 +12834,7 @@
    "kind": "workday",
    "slug": "snc/wd1/snc_external_career_site",
    "guessed": false,
-   "n_jobs": 46,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -12515,7 +12977,7 @@
    "kind": "ashby",
    "slug": "skydio",
    "guessed": false,
-   "n_jobs": 152,
+   "n_jobs": 154,
    "board_name": "",
    "hits": []
   }
@@ -12538,7 +13000,7 @@
    "kind": "workday",
    "slug": "recar/wd108/SLATEcareers",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 31,
    "board_name": "",
    "hits": []
   }
@@ -12548,7 +13010,7 @@
    "kind": "greenhouse",
    "slug": "smartsheet",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 93,
    "board_name": "Smartsheet",
    "hits": []
   }
@@ -12566,18 +13028,27 @@
    "kind": "workday",
    "slug": "snapchat/wd1/sourced",
    "guessed": false,
-   "n_jobs": 24,
+   "n_jobs": 25,
    "board_name": "",
    "hits": []
   }
  ],
- "Snap Finance": [],
+ "Snap Finance": [
+  {
+   "kind": "workday",
+   "slug": "snapfinance/wd1/snap_external_careers",
+   "guessed": false,
+   "n_jobs": 7,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Snorkel AI": [
   {
    "kind": "greenhouse",
    "slug": "snorkelai",
    "guessed": false,
-   "n_jobs": 42,
+   "n_jobs": 41,
    "board_name": "Snorkel AI",
    "hits": []
   }
@@ -12587,7 +13058,7 @@
    "kind": "ashby",
    "slug": "snowflake",
    "guessed": false,
-   "n_jobs": 349,
+   "n_jobs": 355,
    "board_name": "",
    "hits": []
   }
@@ -12607,7 +13078,7 @@
    "kind": "greenhouse",
    "slug": "sofi",
    "guessed": false,
-   "n_jobs": 57,
+   "n_jobs": 54,
    "board_name": "SoFi",
    "hits": []
   }
@@ -12617,7 +13088,7 @@
    "kind": "ashby",
    "slug": "socure",
    "guessed": false,
-   "n_jobs": 79,
+   "n_jobs": 81,
    "board_name": "",
    "hits": []
   }
@@ -12627,8 +13098,8 @@
   {
    "kind": "greenhouse",
    "slug": "solarwinds",
-   "guessed": false,
-   "n_jobs": 61,
+   "guessed": true,
+   "n_jobs": 62,
    "board_name": "SolarWinds",
    "hits": []
   }
@@ -12648,7 +13119,7 @@
    "kind": "workday",
    "slug": "sonyglobal/wd1/SonyGlobalCareers",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   },
@@ -12674,7 +13145,7 @@
    "kind": "greenhouse",
    "slug": "sonyinteractiveentertainmentglobal",
    "guessed": false,
-   "n_jobs": 207,
+   "n_jobs": 204,
    "board_name": "PlayStation Global",
    "hits": []
   }
@@ -12684,7 +13155,7 @@
    "kind": "greenhouse",
    "slug": "sonymusicentertainment",
    "guessed": false,
-   "n_jobs": 138,
+   "n_jobs": 137,
    "board_name": "Sony Music Global Job Board",
    "hits": []
   }
@@ -12694,7 +13165,7 @@
    "kind": "workday",
    "slug": "spe/wd1/SonyPicturesEntertainment",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 14,
    "board_name": "",
    "hits": []
   }
@@ -12704,7 +13175,7 @@
    "kind": "lever",
    "slug": "sophos",
    "guessed": false,
-   "n_jobs": 86,
+   "n_jobs": 85,
    "board_name": "",
    "hits": []
   }
@@ -12730,13 +13201,22 @@
   }
  ],
  "Southern Company": [],
- "Southwest Airlines": [],
+ "Southwest Airlines": [
+  {
+   "kind": "workday",
+   "slug": "swa/wd1/external",
+   "guessed": false,
+   "n_jobs": 32,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "SpaceX": [
   {
    "kind": "greenhouse",
    "slug": "spacex",
    "guessed": false,
-   "n_jobs": 2665,
+   "n_jobs": 2672,
    "board_name": "SpaceX",
    "hits": [
     {
@@ -12831,7 +13311,7 @@
    "kind": "greenhouse",
    "slug": "xai",
    "guessed": false,
-   "n_jobs": 302,
+   "n_jobs": 304,
    "board_name": "SpaceXAI",
    "hits": []
   }
@@ -12841,7 +13321,7 @@
    "kind": "ashby",
    "slug": "speak",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 34,
    "board_name": "",
    "hits": []
   }
@@ -12867,23 +13347,31 @@
   }
  ],
  "Spirit AeroSystems": [],
- "Splunk": [],
- "Sportradar": [
+ "Splunk": [
   {
-   "kind": "greenhouse",
-   "slug": "sportradar",
-   "guessed": true,
-   "n_jobs": 2,
-   "board_name": "Sportradar",
-   "hits": []
+   "kind": "workday",
+   "slug": "cisco/wd5/cisco_careers",
+   "guessed": false,
+   "n_jobs": 96,
+   "board_name": "",
+   "hits": [
+    {
+     "title": "Software Consulting Engineer I (Full Time) United States",
+     "loc": "2 Locations",
+     "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887",
+     "date": "2026-10-01",
+     "date_kind": "exact"
+    }
+   ]
   }
  ],
+ "Sportradar": [],
  "Spotify": [
   {
    "kind": "lever",
    "slug": "spotify",
    "guessed": false,
-   "n_jobs": 80,
+   "n_jobs": 75,
    "board_name": "",
    "hits": []
   }
@@ -12893,12 +13381,21 @@
    "kind": "ashby",
    "slug": "deaa6ad2-d184-436b-b69e-17f761da1d94",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 78,
    "board_name": "",
    "hits": []
   }
  ],
- "Sprinklr": [],
+ "Sprinklr": [
+  {
+   "kind": "workday",
+   "slug": "sprinklr/wd1/careers",
+   "guessed": false,
+   "n_jobs": 9,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Sprout Social": [
   {
    "kind": "greenhouse",
@@ -12914,7 +13411,7 @@
    "kind": "greenhouse",
    "slug": "squarepointcapital",
    "guessed": false,
-   "n_jobs": 88,
+   "n_jobs": 89,
    "board_name": "Squarepoint Capital",
    "hits": []
   }
@@ -12924,7 +13421,7 @@
    "kind": "greenhouse",
    "slug": "squarespace",
    "guessed": false,
-   "n_jobs": 34,
+   "n_jobs": 33,
    "board_name": "Squarespace",
    "hits": []
   }
@@ -12955,7 +13452,7 @@
    "kind": "greenhouse",
    "slug": "stackadapt",
    "guessed": false,
-   "n_jobs": 73,
+   "n_jobs": 72,
    "board_name": "StackAdapt",
    "hits": []
   }
@@ -12985,7 +13482,7 @@
    "kind": "workday",
    "slug": "sbdinc/wd1/Stanley_Black_Decker_Career_Site",
    "guessed": false,
-   "n_jobs": 75,
+   "n_jobs": 85,
    "board_name": "",
    "hits": [
     {
@@ -13005,7 +13502,7 @@
    "kind": "greenhouse",
    "slug": "starburst",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 31,
    "board_name": "Starburst",
    "hits": []
   }
@@ -13016,7 +13513,7 @@
    "kind": "workday",
    "slug": "statestreet/wd1/Global",
    "guessed": false,
-   "n_jobs": 103,
+   "n_jobs": 104,
    "board_name": "",
    "hits": [
     {
@@ -13039,7 +13536,7 @@
    "kind": "workday",
    "slug": "statestreet/wd1/equest",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 34,
    "board_name": "",
    "hits": [
     {
@@ -13059,7 +13556,7 @@
    "kind": "greenhouse",
    "slug": "stitchfix",
    "guessed": false,
-   "n_jobs": 14,
+   "n_jobs": 15,
    "board_name": "Stitch Fix",
    "hits": []
   }
@@ -13069,7 +13566,7 @@
    "kind": "greenhouse",
    "slug": "stockx",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 34,
    "board_name": "StockX",
    "hits": []
   }
@@ -13079,7 +13576,7 @@
    "kind": "greenhouse",
    "slug": "stokespacetechnologies",
    "guessed": false,
-   "n_jobs": 65,
+   "n_jobs": 66,
    "board_name": "Stoke Space ",
    "hits": []
   }
@@ -13101,15 +13598,9 @@
    "kind": "greenhouse",
    "slug": "stripe",
    "guessed": false,
-   "n_jobs": 718,
+   "n_jobs": 727,
    "board_name": "Stripe",
    "hits": [
-    {
-     "title": "Software Engineer, Early Career \u2014 Immediate Start",
-     "loc": "Toronto",
-     "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-     "date": "2026-09-17"
-    },
     {
      "title": "Software Engineer, Early Career \u2014 Immediate Start",
      "loc": "San Francisco, Seattle, New York",
@@ -13117,15 +13608,21 @@
      "date": "2026-09-17"
     },
     {
-     "title": "Software Engineer, New Grad",
-     "loc": "San Francisco, Seattle, New York",
-     "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-     "date": "2026-08-31"
+     "title": "Software Engineer, Early Career \u2014 Immediate Start",
+     "loc": "Toronto",
+     "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+     "date": "2026-09-17"
     },
     {
      "title": "Software Engineer, New Grad",
      "loc": "Toronto",
      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "Software Engineer, New Grad",
+     "loc": "San Francisco, Seattle, New York",
+     "url": "https://stripe.com/jobs/search?gh_jid=8128744",
      "date": "2026-08-31"
     }
    ]
@@ -13136,7 +13633,7 @@
    "kind": "workday",
    "slug": "stryker/wd1/StrykerCareers",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 70,
    "board_name": "",
    "hits": []
   }
@@ -13146,7 +13643,7 @@
    "kind": "greenhouse",
    "slug": "stubhubinc",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 32,
    "board_name": "StubHub",
    "hits": []
   }
@@ -13177,7 +13674,7 @@
    "kind": "ashby",
    "slug": "suno",
    "guessed": false,
-   "n_jobs": 66,
+   "n_jobs": 67,
    "board_name": "",
    "hits": []
   }
@@ -13197,7 +13694,7 @@
    "kind": "ashby",
    "slug": "supabase",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 51,
    "board_name": "",
    "hits": []
   }
@@ -13207,7 +13704,7 @@
    "kind": "ashby",
    "slug": "Superhuman%20Platform%20Inc",
    "guessed": false,
-   "n_jobs": 69,
+   "n_jobs": 73,
    "board_name": "",
    "hits": [
     {
@@ -13253,7 +13750,7 @@
    "kind": "greenhouse",
    "slug": "sweetgreen",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 66,
    "board_name": " sweetgreen",
    "hits": []
   }
@@ -13282,7 +13779,7 @@
    "kind": "workday",
    "slug": "synchronyfinancial/wd5/University",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   }
@@ -13292,7 +13789,7 @@
    "kind": "workday",
    "slug": "synechron/wd1/SynechronCareers",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -13303,7 +13800,7 @@
    "kind": "ashby",
    "slug": "synthesia",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 45,
    "board_name": "",
    "hits": []
   }
@@ -13313,7 +13810,7 @@
    "kind": "workday",
    "slug": "sysco/wd5/syscocareers",
    "guessed": false,
-   "n_jobs": 67,
+   "n_jobs": 40,
    "board_name": "",
    "hits": []
   }
@@ -13323,7 +13820,7 @@
    "kind": "lever",
    "slug": "sysdig",
    "guessed": false,
-   "n_jobs": 29,
+   "n_jobs": 31,
    "board_name": "",
    "hits": []
   }
@@ -13333,7 +13830,15 @@
    "kind": "workday",
    "slug": "tmobile/wd1/External",
    "guessed": false,
-   "n_jobs": 36,
+   "n_jobs": 38,
+   "board_name": "",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "tmobile/wd1/alumni",
+   "guessed": false,
+   "n_jobs": 28,
    "board_name": "",
    "hits": []
   },
@@ -13362,7 +13867,7 @@
    "kind": "workday",
    "slug": "td/wd3/TD_Bank_Careers",
    "guessed": false,
-   "n_jobs": 103,
+   "n_jobs": 101,
    "board_name": "",
    "hits": [
     {
@@ -13414,7 +13919,7 @@
    "kind": "workday",
    "slug": "tiaa/wd1/Search",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 50,
    "board_name": "",
    "hits": []
   }
@@ -13432,7 +13937,7 @@
    "kind": "workday",
    "slug": "wwecorp/wd5/wwecorp",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 2,
    "board_name": "",
    "hits": []
   }
@@ -13443,7 +13948,7 @@
    "kind": "greenhouse",
    "slug": "tpgcareers",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 16,
    "board_name": "TPG Careers Page ",
    "hits": []
   }
@@ -13464,7 +13969,7 @@
    "kind": "workday",
    "slug": "salesforce/wd12/External_Career_Site",
    "guessed": false,
-   "n_jobs": 94,
+   "n_jobs": 91,
    "board_name": "",
    "hits": [
     {
@@ -13513,7 +14018,7 @@
    "kind": "greenhouse",
    "slug": "talkdesk2",
    "guessed": false,
-   "n_jobs": 37,
+   "n_jobs": 36,
    "board_name": "Talkdesk",
    "hits": []
   }
@@ -13523,7 +14028,7 @@
    "kind": "greenhouse",
    "slug": "tanium",
    "guessed": false,
-   "n_jobs": 56,
+   "n_jobs": 54,
    "board_name": "Tanium",
    "hits": []
   }
@@ -13543,7 +14048,7 @@
    "kind": "workday",
    "slug": "target/wd5/targetcareers",
    "guessed": false,
-   "n_jobs": 76,
+   "n_jobs": 75,
    "board_name": "",
    "hits": []
   }
@@ -13581,21 +14086,21 @@
      "title": "Software Engineer I",
      "loc": "Silver Spring, MD",
      "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Systems Engineer I",
      "loc": "Silver Spring, MD",
      "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Systems-Engineer-I_JR2566",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Systems Engineer I",
      "loc": "Bloomington, IN",
      "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Bloomington-IN/Systems-Engineer-I_JR2634-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -13606,7 +14111,7 @@
    "kind": "ashby",
    "slug": "tekion",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 102,
    "board_name": "",
    "hits": []
   }
@@ -13630,7 +14135,16 @@
    ]
   }
  ],
- "Teledyne": [],
+ "Teledyne": [
+  {
+   "kind": "workday",
+   "slug": "flir/wd1/flircareers",
+   "guessed": false,
+   "n_jobs": 20,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "TelevisaUnivision": [
   {
    "kind": "workday",
@@ -13656,7 +14170,7 @@
    "kind": "workday",
    "slug": "tempus/wd5/Tempus_Careers",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 14,
    "board_name": "",
    "hits": []
   }
@@ -13666,8 +14180,8 @@
   {
    "kind": "greenhouse",
    "slug": "tenableinc",
-   "guessed": false,
-   "n_jobs": 37,
+   "guessed": true,
+   "n_jobs": 38,
    "board_name": "Tenable, Inc.",
    "hits": []
   }
@@ -13695,7 +14209,7 @@
    "kind": "greenhouse",
    "slug": "tenstorrent",
    "guessed": false,
-   "n_jobs": 132,
+   "n_jobs": 130,
    "board_name": "Tenstorrent",
    "hits": []
   }
@@ -13707,7 +14221,7 @@
    "kind": "greenhouse",
    "slug": "terrapowerllc",
    "guessed": false,
-   "n_jobs": 98,
+   "n_jobs": 91,
    "board_name": "TerraPower LLC.",
    "hits": []
   }
@@ -13740,7 +14254,7 @@
    "kind": "workday",
    "slug": "aero/wd5/external",
    "guessed": false,
-   "n_jobs": 98,
+   "n_jobs": 97,
    "board_name": "",
    "hits": [
     {
@@ -13781,20 +14295,51 @@
    "kind": "workday",
    "slug": "carlyle/wd1/Carlyle",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 18,
    "board_name": "",
    "hits": []
   }
  ],
- "The Clorox Company": [],
+ "The Clorox Company": [
+  {
+   "kind": "workday",
+   "slug": "clorox/wd1/InviteClorox",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "The Coca-Cola Company": [
   {
    "kind": "workday",
    "slug": "coke/wd1/coca-cola-careers",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 19,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "Software Engineer I - CRM",
+     "loc": "US - GA - Atlanta",
+     "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140126",
+     "date": "2026-10-01",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Software Engineer I - CRM",
+     "loc": "US - GA - Atlanta",
+     "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I---CRM_R-140128",
+     "date": "2026-10-01",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Software Engineer I - CRM",
+     "loc": "US - GA - Atlanta",
+     "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140127",
+     "date": "2026-10-01",
+     "date_kind": "exact"
+    }
+   ]
   }
  ],
  "The Est\u00e9e Lauder Companies": [],
@@ -13803,7 +14348,7 @@
    "kind": "greenhouse",
    "slug": "thefarmersdog",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 30,
    "board_name": "The Farmer's Dog",
    "hits": []
   }
@@ -13823,7 +14368,7 @@
    "kind": "workday",
    "slug": "thehartford/wd5/Careers_External",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   }
@@ -13845,7 +14390,7 @@
    "kind": "greenhouse",
    "slug": "thenewyorktimes",
    "guessed": false,
-   "n_jobs": 138,
+   "n_jobs": 135,
    "board_name": "The New York Times",
    "hits": []
   }
@@ -13886,7 +14431,7 @@
    "kind": "greenhouse",
    "slug": "thetradedesk",
    "guessed": false,
-   "n_jobs": 102,
+   "n_jobs": 104,
    "board_name": "The Trade Desk",
    "hits": []
   }
@@ -13928,7 +14473,16 @@
    "hits": []
   }
  ],
- "Thermo Fisher Scientific": [],
+ "Thermo Fisher Scientific": [
+  {
+   "kind": "workday",
+   "slug": "thermofisher/wd5/ThermoFisherCareers",
+   "guessed": false,
+   "n_jobs": 111,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Thinking Machines Lab": [
   {
    "kind": "ashby",
@@ -13946,7 +14500,7 @@
    "kind": "greenhouse",
    "slug": "thoughtworksreferral",
    "guessed": false,
-   "n_jobs": 23,
+   "n_jobs": 24,
    "board_name": "Referrals Only",
    "hits": []
   }
@@ -13957,7 +14511,7 @@
    "kind": "ashby",
    "slug": "thumbtack",
    "guessed": false,
-   "n_jobs": 58,
+   "n_jobs": 59,
    "board_name": "",
    "hits": []
   }
@@ -13977,7 +14531,7 @@
    "kind": "greenhouse",
    "slug": "tipaltisolutions",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 21,
    "board_name": "Tipalti",
    "hits": []
   }
@@ -13987,7 +14541,7 @@
    "kind": "greenhouse",
    "slug": "toast",
    "guessed": false,
-   "n_jobs": 325,
+   "n_jobs": 326,
    "board_name": "Toast",
    "hits": []
   }
@@ -13997,7 +14551,7 @@
    "kind": "greenhouse",
    "slug": "togetherai",
    "guessed": false,
-   "n_jobs": 78,
+   "n_jobs": 79,
    "board_name": "Together AI",
    "hits": [
     {
@@ -14014,7 +14568,7 @@
    "kind": "workday",
    "slug": "tel/wd3/tel-careers",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -14048,6 +14602,12 @@
    "board_name": "Torc Robotics",
    "hits": [
     {
+     "title": "Commissioning - Systems Engineer I",
+     "loc": "Ann Arbor, MI",
+     "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8864848002",
+     "date": "2026-10-06"
+    },
+    {
      "title": "ML Engineer, I - MLOps Framework",
      "loc": "Remote - US",
      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002",
@@ -14067,7 +14627,7 @@
    "kind": "workday",
    "slug": "starfish/wd501/Careers",
    "guessed": false,
-   "n_jobs": 27,
+   "n_jobs": 29,
    "board_name": "",
    "hits": []
   }
@@ -14087,7 +14647,7 @@
    "kind": "workday",
    "slug": "toyota/wd503/tmna",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   },
@@ -14095,7 +14655,7 @@
    "kind": "lever",
    "slug": "tri",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 11,
    "board_name": "",
    "hits": []
   }
@@ -14105,7 +14665,7 @@
    "kind": "ashby",
    "slug": "traba",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 31,
    "board_name": "",
    "hits": []
   }
@@ -14115,7 +14675,7 @@
    "kind": "greenhouse",
    "slug": "trace3",
    "guessed": false,
-   "n_jobs": 87,
+   "n_jobs": 86,
    "board_name": "Trace3",
    "hits": []
   }
@@ -14127,7 +14687,7 @@
    "kind": "workday",
    "slug": "tranetechnologies/wd12/Trane_Technologies_Careers",
    "guessed": false,
-   "n_jobs": 114,
+   "n_jobs": 112,
    "board_name": "",
    "hits": []
   }
@@ -14160,7 +14720,7 @@
    "kind": "workday",
    "slug": "transunion/wd5/TransUnion",
    "guessed": false,
-   "n_jobs": 59,
+   "n_jobs": 57,
    "board_name": "",
    "hits": []
   }
@@ -14180,9 +14740,59 @@
    "kind": "workday",
    "slug": "travelers/wd5/External",
    "guessed": false,
-   "n_jobs": 75,
+   "n_jobs": 88,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "Software Engineer I",
+     "loc": "4 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Software Engineer I (MERN, AWS)",
+     "loc": "2 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Software Engineer I - MERN, AWS",
+     "loc": "2 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
+     "date": "2026-09-24",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Software Engineer I - Elixir, Python, AWS",
+     "loc": "3 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Data Engineer I (AWS, Databricks)",
+     "loc": "2 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-52525",
+     "date": "2026-09-10",
+     "date_kind": "exact"
+    },
+    {
+     "title": "Data Engineer I (AWS, Python, GenAI)",
+     "loc": "3 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    },
+    {
+     "title": "Data Engineer I (Databricks, AWS, Python)",
+     "loc": "3 Locations",
+     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638",
+     "date": "2026-09-06",
+     "date_kind": "on or before"
+    }
+   ]
   }
  ],
  "Trend Micro": [
@@ -14203,7 +14813,7 @@
    "kind": "greenhouse",
    "slug": "tripadvisor",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 101,
    "board_name": "Tripadvisor",
    "hits": []
   }
@@ -14213,7 +14823,7 @@
    "kind": "greenhouse",
    "slug": "trueanomalyinc",
    "guessed": false,
-   "n_jobs": 197,
+   "n_jobs": 201,
    "board_name": "True Anomaly",
    "hits": [
     {
@@ -14221,12 +14831,6 @@
      "loc": "Denver, CO or Long Beach, CA",
      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007",
      "date": "2026-08-26"
-    },
-    {
-     "title": "DevOps Engineer I (New Grad)",
-     "loc": "Denver, CO or Long Beach, CA.",
-     "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007",
-     "date": "2026-08-21"
     },
     {
      "title": "Flight Software Engineer I (Temp-to-hire)",
@@ -14272,7 +14876,7 @@
    "kind": "workday",
    "slug": "truist/wd1/Careers",
    "guessed": false,
-   "n_jobs": 64,
+   "n_jobs": 65,
    "board_name": "",
    "hits": [
     {
@@ -14290,7 +14894,7 @@
    "kind": "greenhouse",
    "slug": "truveta",
    "guessed": false,
-   "n_jobs": 39,
+   "n_jobs": 37,
    "board_name": "Truveta",
    "hits": []
   }
@@ -14320,7 +14924,7 @@
    "kind": "greenhouse",
    "slug": "turing",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 31,
    "board_name": "Turing",
    "hits": []
   }
@@ -14341,7 +14945,7 @@
    "kind": "greenhouse",
    "slug": "twilio",
    "guessed": false,
-   "n_jobs": 128,
+   "n_jobs": 131,
    "board_name": "Twilio",
    "hits": []
   }
@@ -14351,7 +14955,7 @@
    "kind": "greenhouse",
    "slug": "twilio",
    "guessed": false,
-   "n_jobs": 128,
+   "n_jobs": 131,
    "board_name": "Twilio",
    "hits": []
   }
@@ -14380,27 +14984,18 @@
    "kind": "workday",
    "slug": "tysonfoods/wd5/TSN",
    "guessed": false,
-   "n_jobs": 47,
+   "n_jobs": 49,
    "board_name": "",
    "hits": []
   }
  ],
- "U-Haul (U-Haul Holding Company)": [
-  {
-   "kind": "workday",
-   "slug": "uhaul/wd1/UhaulJobs",
-   "guessed": false,
-   "n_jobs": 16,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "U-Haul (U-Haul Holding Company)": [],
  "U.S. Bank": [
   {
    "kind": "workday",
    "slug": "usbank/wd1/US_Bank_Careers",
    "guessed": false,
-   "n_jobs": 82,
+   "n_jobs": 81,
    "board_name": "",
    "hits": [
     {
@@ -14421,7 +15016,7 @@
    "kind": "workday",
    "slug": "hcmportal/wd5/Search",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 108,
    "board_name": "",
    "hits": []
   }
@@ -14433,9 +15028,17 @@
    "kind": "workday",
    "slug": "usaa/wd1/USAAJOBSWD",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 41,
    "board_name": "",
-   "hits": []
+   "hits": [
+    {
+     "title": "Infrastructure Engineer I - Data Protection",
+     "loc": "6 Locations",
+     "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Infrastructure-Engineer-I---Data-Protection_R0120262",
+     "date": "2026-09-18",
+     "date_kind": "exact"
+    }
+   ]
   }
  ],
  "Uber": [],
@@ -14465,7 +15068,7 @@
    "kind": "ashby",
    "slug": "uipath",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 104,
    "board_name": "",
    "hits": []
   }
@@ -14516,7 +15119,7 @@
    "kind": "workday",
    "slug": "uniphore/wd503/Uniphore",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   }
@@ -14590,7 +15193,7 @@
    "kind": "greenhouse",
    "slug": "upstart",
    "guessed": false,
-   "n_jobs": 91,
+   "n_jobs": 92,
    "board_name": "Upstart",
    "hits": []
   }
@@ -14600,7 +15203,7 @@
    "kind": "greenhouse",
    "slug": "upwork",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 8,
    "board_name": "Upwork",
    "hits": []
   }
@@ -14629,27 +15232,18 @@
    "kind": "workday",
    "slug": "vfc/wd5/vfc_careers",
    "guessed": false,
-   "n_jobs": 53,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
  ],
- "VMware": [
-  {
-   "kind": "workday",
-   "slug": "broadcom/wd1/External_Career",
-   "guessed": false,
-   "n_jobs": 20,
-   "board_name": "",
-   "hits": []
-  }
- ],
+ "VMware": [],
  "Vail Resorts": [
   {
    "kind": "lever",
    "slug": "vailsys",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -14733,7 +15327,7 @@
    "kind": "workday",
    "slug": "vantagedc/wd1/Vantage",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -14743,7 +15337,7 @@
    "kind": "workday",
    "slug": "maxar/wd1/Vantor",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 46,
    "board_name": "",
    "hits": []
   }
@@ -14765,7 +15359,7 @@
    "kind": "greenhouse",
    "slug": "vast",
    "guessed": false,
-   "n_jobs": 198,
+   "n_jobs": 199,
    "board_name": "Vast",
    "hits": []
   }
@@ -14785,7 +15379,7 @@
    "kind": "greenhouse",
    "slug": "veeamsoftware",
    "guessed": false,
-   "n_jobs": 240,
+   "n_jobs": 233,
    "board_name": "Veeam Software",
    "hits": []
   }
@@ -14795,7 +15389,7 @@
    "kind": "lever",
    "slug": "veeva",
    "guessed": false,
-   "n_jobs": 942,
+   "n_jobs": 938,
    "board_name": "",
    "hits": [
     {
@@ -14871,7 +15465,7 @@
    "kind": "workday",
    "slug": "verizon/wd12/verizon-careers",
    "guessed": false,
-   "n_jobs": 55,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -14881,7 +15475,7 @@
    "kind": "greenhouse",
    "slug": "verkada",
    "guessed": false,
-   "n_jobs": 305,
+   "n_jobs": 307,
    "board_name": "Verkada",
    "hits": []
   }
@@ -14891,19 +15485,28 @@
    "kind": "workday",
    "slug": "vrtx/wd501/Vertex_Careers",
    "guessed": false,
-   "n_jobs": 60,
+   "n_jobs": 61,
    "board_name": "",
    "hits": []
   }
  ],
  "Vertiv": [],
- "Veterans United Home Loans": [],
+ "Veterans United Home Loans": [
+  {
+   "kind": "workday",
+   "slug": "veteransunited/wd1/VUHL",
+   "guessed": false,
+   "n_jobs": 8,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Via Transportation": [
   {
    "kind": "greenhouse",
    "slug": "via",
    "guessed": false,
-   "n_jobs": 163,
+   "n_jobs": 160,
    "board_name": "Via",
    "hits": []
   }
@@ -14928,14 +15531,14 @@
      "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
      "loc": "Morrisville, NC USA",
      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     },
     {
      "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
      "loc": "Indianapolis, IN USA",
      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
-     "date": "2026-09-05",
+     "date": "2026-09-06",
      "date_kind": "on or before"
     }
    ]
@@ -14959,7 +15562,7 @@
    "kind": "greenhouse",
    "slug": "virtu",
    "guessed": false,
-   "n_jobs": 48,
+   "n_jobs": 47,
    "board_name": "Virtu Financial",
    "hits": []
   }
@@ -14970,7 +15573,7 @@
    "kind": "workday",
    "slug": "visa/wd5/Visa",
    "guessed": false,
-   "n_jobs": 65,
+   "n_jobs": 64,
    "board_name": "",
    "hits": []
   }
@@ -14991,7 +15594,7 @@
    "kind": "workday",
    "slug": "walmart/wd504/WalmartExternal",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 101,
    "board_name": "",
    "hits": []
   },
@@ -15047,7 +15650,7 @@
    "kind": "greenhouse",
    "slug": "voyagertechnologiesinc",
    "guessed": false,
-   "n_jobs": 204,
+   "n_jobs": 198,
    "board_name": "Voyager Technologies, Inc.",
    "hits": []
   }
@@ -15057,7 +15660,7 @@
    "kind": "ashby",
    "slug": "vultr",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -15068,7 +15671,7 @@
    "kind": "workday",
    "slug": "wexinc/wd5/WEXInc",
    "guessed": false,
-   "n_jobs": 11,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -15078,7 +15681,7 @@
    "kind": "ashby",
    "slug": "whoop",
    "guessed": false,
-   "n_jobs": 150,
+   "n_jobs": 155,
    "board_name": "",
    "hits": [
     {
@@ -15096,8 +15699,8 @@
     {
      "title": "Software Engineer I (Frontend, AI Platform)",
      "loc": "Boston, MA USA",
-     "url": "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80",
-     "date": "2026-07-07"
+     "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3",
+     "date": "2026-10-06"
     }
    ]
   }
@@ -15119,7 +15722,7 @@
    "kind": "lever",
    "slug": "waabi",
    "guessed": false,
-   "n_jobs": 92,
+   "n_jobs": 91,
    "board_name": "",
    "hits": []
   }
@@ -15141,7 +15744,7 @@
    "kind": "workday",
    "slug": "walmart/wd504/WalmartExternal",
    "guessed": false,
-   "n_jobs": 100,
+   "n_jobs": 101,
    "board_name": "",
    "hits": []
   }
@@ -15196,9 +15799,9 @@
  "Wawa": [
   {
    "kind": "workday",
-   "slug": "wawa/wd1/careers",
+   "slug": "wawa/wd1/Careers",
    "guessed": false,
-   "n_jobs": 6,
+   "n_jobs": 3,
    "board_name": "",
    "hits": []
   }
@@ -15209,7 +15812,7 @@
    "kind": "greenhouse",
    "slug": "waymo",
    "guessed": false,
-   "n_jobs": 362,
+   "n_jobs": 365,
    "board_name": "Waymo",
    "hits": [
     {
@@ -15226,7 +15829,7 @@
    "kind": "workday",
    "slug": "waystar/wd1/Waystar",
    "guessed": false,
-   "n_jobs": 1,
+   "n_jobs": 6,
    "board_name": "",
    "hits": []
   }
@@ -15236,7 +15839,7 @@
    "kind": "ashby",
    "slug": "wayve",
    "guessed": false,
-   "n_jobs": 138,
+   "n_jobs": 152,
    "board_name": "",
    "hits": []
   }
@@ -15311,18 +15914,27 @@
    "kind": "greenhouse",
    "slug": "coreweave",
    "guessed": false,
-   "n_jobs": 313,
+   "n_jobs": 312,
    "board_name": "CoreWeave",
    "hits": []
   }
  ],
- "WellSky": [],
+ "WellSky": [
+  {
+   "kind": "workday",
+   "slug": "wellsky/wd1/WellSkyCareers",
+   "guessed": false,
+   "n_jobs": 3,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Wellington Management": [
   {
    "kind": "workday",
    "slug": "wellington/wd5/Campus",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 7,
    "board_name": "",
    "hits": []
   },
@@ -15330,7 +15942,7 @@
    "kind": "workday",
    "slug": "wellington/wd5/external",
    "guessed": false,
-   "n_jobs": 34,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   }
@@ -15341,7 +15953,7 @@
    "kind": "workday",
    "slug": "wf/wd1/WellsFargoJobs",
    "guessed": false,
-   "n_jobs": 65,
+   "n_jobs": 66,
    "board_name": "",
    "hits": []
   }
@@ -15381,7 +15993,7 @@
    "kind": "workday",
    "slug": "westernalliancebank/wd5/WAB",
    "guessed": false,
-   "n_jobs": 4,
+   "n_jobs": 55,
    "board_name": "",
    "hits": []
   }
@@ -15392,7 +16004,7 @@
    "kind": "workday",
    "slug": "westernunion/wd5/WesternUnionJobs",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 21,
    "board_name": "",
    "hits": []
   },
@@ -15424,7 +16036,7 @@
    "kind": "greenhouse",
    "slug": "wing",
    "guessed": false,
-   "n_jobs": 32,
+   "n_jobs": 31,
    "board_name": "Wing",
    "hits": []
   }
@@ -15435,7 +16047,7 @@
    "kind": "lever",
    "slug": "wintermute-trading",
    "guessed": false,
-   "n_jobs": 20,
+   "n_jobs": 19,
    "board_name": "",
    "hits": []
   }
@@ -15467,7 +16079,7 @@
    "kind": "greenhouse",
    "slug": "wizinc",
    "guessed": false,
-   "n_jobs": 131,
+   "n_jobs": 132,
    "board_name": "Wiz, Inc.",
    "hits": []
   }
@@ -15477,7 +16089,7 @@
    "kind": "greenhouse",
    "slug": "hasbro",
    "guessed": false,
-   "n_jobs": 125,
+   "n_jobs": 123,
    "board_name": "Hasbro",
    "hits": []
   }
@@ -15488,7 +16100,7 @@
    "kind": "workday",
    "slug": "cree/wd108/EXT",
    "guessed": false,
-   "n_jobs": 12,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   }
@@ -15498,7 +16110,7 @@
    "kind": "workday",
    "slug": "wk/wd3/External",
    "guessed": false,
-   "n_jobs": 54,
+   "n_jobs": 56,
    "board_name": "",
    "hits": []
   }
@@ -15519,7 +16131,7 @@
    "kind": "ashby",
    "slug": "workos",
    "guessed": false,
-   "n_jobs": 29,
+   "n_jobs": 30,
    "board_name": "",
    "hits": []
   }
@@ -15529,18 +16141,27 @@
    "kind": "greenhouse",
    "slug": "workato",
    "guessed": false,
-   "n_jobs": 74,
+   "n_jobs": 73,
    "board_name": "Workato",
    "hits": []
   }
  ],
- "Workday": [],
+ "Workday": [
+  {
+   "kind": "workday",
+   "slug": "workday/wd5/Workday",
+   "guessed": false,
+   "n_jobs": 38,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "Workiva": [
   {
    "kind": "workday",
    "slug": "workiva/wd503/careers",
    "guessed": false,
-   "n_jobs": 7,
+   "n_jobs": 8,
    "board_name": "",
    "hits": []
   }
@@ -15581,7 +16202,7 @@
    "kind": "ashby",
    "slug": "writer",
    "guessed": false,
-   "n_jobs": 49,
+   "n_jobs": 50,
    "board_name": "",
    "hits": []
   }
@@ -15591,7 +16212,7 @@
    "kind": "lever",
    "slug": "wyetechllc",
    "guessed": false,
-   "n_jobs": 271,
+   "n_jobs": 270,
    "board_name": "",
    "hits": [
     {
@@ -15701,7 +16322,7 @@
    "kind": "greenhouse",
    "slug": "xai",
    "guessed": false,
-   "n_jobs": 302,
+   "n_jobs": 304,
    "board_name": "SpaceXAI",
    "hits": []
   }
@@ -15733,7 +16354,7 @@
    "kind": "greenhouse",
    "slug": "xairatherapeutics",
    "guessed": false,
-   "n_jobs": 26,
+   "n_jobs": 27,
    "board_name": "Xaira Therapeutics",
    "hits": []
   }
@@ -15744,7 +16365,7 @@
    "kind": "workday",
    "slug": "xylem/wd5/xylem-careers",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
@@ -15766,7 +16387,7 @@
    "kind": "greenhouse",
    "slug": "yext",
    "guessed": false,
-   "n_jobs": 22,
+   "n_jobs": 21,
    "board_name": "Yext",
    "hits": []
   }
@@ -15808,7 +16429,7 @@
    "kind": "ashby",
    "slug": "zapier",
    "guessed": false,
-   "n_jobs": 10,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   }
@@ -15818,7 +16439,7 @@
    "kind": "workday",
    "slug": "zebra/wd501/Zebra_careers",
    "guessed": false,
-   "n_jobs": 51,
+   "n_jobs": 52,
    "board_name": "",
    "hits": []
   }
@@ -15828,7 +16449,7 @@
    "kind": "workday",
    "slug": "zendesk/wd1/zendesk",
    "guessed": false,
-   "n_jobs": 2,
+   "n_jobs": 9,
    "board_name": "",
    "hits": []
   }
@@ -15869,7 +16490,7 @@
    "kind": "ashby",
    "slug": "zip",
    "guessed": false,
-   "n_jobs": 124,
+   "n_jobs": 126,
    "board_name": "",
    "hits": [
     {
@@ -15903,7 +16524,7 @@
    "kind": "greenhouse",
    "slug": "flyzipline",
    "guessed": false,
-   "n_jobs": 349,
+   "n_jobs": 346,
    "board_name": "Zipline ",
    "hits": []
   }
@@ -15923,19 +16544,28 @@
    "kind": "workday",
    "slug": "zoetis/wd5/Zoetis",
    "guessed": false,
-   "n_jobs": 28,
+   "n_jobs": 27,
    "board_name": "",
    "hits": []
   }
  ],
  "Zoho": [],
- "Zoom Communications": [],
+ "Zoom Communications": [
+  {
+   "kind": "workday",
+   "slug": "zoom/wd5/Zoom",
+   "guessed": false,
+   "n_jobs": 22,
+   "board_name": "",
+   "hits": []
+  }
+ ],
  "ZoomInfo": [
   {
    "kind": "greenhouse",
    "slug": "zoominfo",
    "guessed": false,
-   "n_jobs": 98,
+   "n_jobs": 96,
    "board_name": "ZoomInfo Technologies LLC",
    "hits": []
   }
@@ -15945,7 +16575,7 @@
    "kind": "lever",
    "slug": "zoox",
    "guessed": false,
-   "n_jobs": 229,
+   "n_jobs": 235,
    "board_name": "",
    "hits": []
   }
@@ -15955,7 +16585,7 @@
    "kind": "greenhouse",
    "slug": "zscaler",
    "guessed": false,
-   "n_jobs": 363,
+   "n_jobs": 366,
    "board_name": "Zscaler",
    "hits": []
   }
@@ -15976,7 +16606,7 @@
    "kind": "greenhouse",
    "slug": "zyngacareers",
    "guessed": false,
-   "n_jobs": 41,
+   "n_jobs": 45,
    "board_name": "Zynga ",
    "hits": []
   }
@@ -15986,7 +16616,7 @@
    "kind": "workday",
    "slug": "athenahealth/wd1/External",
    "guessed": false,
-   "n_jobs": 21,
+   "n_jobs": 30,
    "board_name": "",
    "hits": []
   }
@@ -15997,7 +16627,7 @@
    "kind": "workday",
    "slug": "bpinternational/wd3/bpEarlyCareers",
    "guessed": false,
-   "n_jobs": 15,
+   "n_jobs": 13,
    "board_name": "",
    "hits": []
   },
@@ -16005,7 +16635,7 @@
    "kind": "workday",
    "slug": "bpinternational/wd3/bpPrivateExternalCareersSite",
    "guessed": false,
-   "n_jobs": 31,
+   "n_jobs": 32,
    "board_name": "",
    "hits": []
   },
@@ -16013,7 +16643,7 @@
    "kind": "workday",
    "slug": "bpinternational/wd3/bpCareers",
    "guessed": false,
-   "n_jobs": 68,
+   "n_jobs": 67,
    "board_name": "",
    "hits": []
   }
@@ -16023,7 +16653,7 @@
    "kind": "ashby",
    "slug": "d-matrix",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 34,
    "board_name": "",
    "hits": []
   }
@@ -16033,7 +16663,7 @@
    "kind": "greenhouse",
    "slug": "fivetran",
    "guessed": false,
-   "n_jobs": 184,
+   "n_jobs": 190,
    "board_name": "Fivetran ",
    "hits": []
   }
@@ -16054,7 +16684,7 @@
    "kind": "ashby",
    "slug": "fal-ai",
    "guessed": false,
-   "n_jobs": 38,
+   "n_jobs": 39,
    "board_name": "",
    "hits": []
   }
@@ -16064,7 +16694,7 @@
    "kind": "greenhouse",
    "slug": "icapitalnetwork",
    "guessed": false,
-   "n_jobs": 209,
+   "n_jobs": 210,
    "board_name": "iCapital",
    "hits": []
   }
@@ -16074,7 +16704,7 @@
    "kind": "workday",
    "slug": "iheartmedia/wd5/External_iHM",
    "guessed": false,
-   "n_jobs": 19,
+   "n_jobs": 18,
    "board_name": "",
    "hits": []
   },
@@ -16104,7 +16734,7 @@
    "kind": "ashby",
    "slug": "monday.com",
    "guessed": false,
-   "n_jobs": 93,
+   "n_jobs": 94,
    "board_name": "",
    "hits": []
   }
@@ -16114,7 +16744,7 @@
    "kind": "ashby",
    "slug": "n8n",
    "guessed": false,
-   "n_jobs": 35,
+   "n_jobs": 36,
    "board_name": "",
    "hits": []
   }
@@ -16124,8 +16754,16 @@
    "kind": "greenhouse",
    "slug": "ncinoinc",
    "guessed": false,
-   "n_jobs": 30,
+   "n_jobs": 28,
    "board_name": "nCino, Inc.",
+   "hits": []
+  },
+  {
+   "kind": "workday",
+   "slug": "ncino/wd5/nCinoCareers",
+   "guessed": false,
+   "n_jobs": 0,
+   "board_name": "",
    "hits": []
   }
  ],
@@ -16145,7 +16783,7 @@
    "kind": "greenhouse",
    "slug": "project44",
    "guessed": false,
-   "n_jobs": 33,
+   "n_jobs": 30,
    "board_name": "project44",
    "hits": []
   }

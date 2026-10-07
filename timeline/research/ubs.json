@@ -1,7 +1,7 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text (live on jobs.ubs.com; ref 341967BR; no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "api"
+      "live_verified": "browser"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Fetched TG posting 349412 2026-10-05: still serves full 2027 Technology GTP text (Raleigh, grad Dec 2026-Jun 2027, no immigration sponsorship); earlier browser check showed Apply. NY/NJ 348622 previously expired. Apply button not re-seen this pass.",
+  "evidence": "Browser 2026-10-06: Technology GTP Raleigh (341967BR) page loads with full text and Apply button; grad Dec 2026-Jun 2027, GPA 3.0. Tracks include Technology Engineer, Data Engineer graduate. NY/NJ 348622 previously expired. No posted date shown.",
   "confidence": "medium"
 }

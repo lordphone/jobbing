@@ -1,7 +1,7 @@
 {
   "company": "Goldman Sachs",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -9,30 +9,30 @@
       "url": "https://higher.gs.com/roles/171569",
       "location": "New York, NY",
       "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (higher.gs.com role API serves page)",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "2027 | Americas | Dallas Metro Area | Engineering | New Analyst",
       "url": "https://higher.gs.com/roles/171568",
       "location": "Dallas, TX",
       "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (higher.gs.com role API serves page)",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "2027 | Americas | Salt Lake City | Engineering | New Analyst",
       "url": "https://higher.gs.com/roles/171570",
       "location": "Salt Lake City, UT",
       "opened": "2026-08-14",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (higher.gs.com role API serves page)",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students (page text)",
-      "live_verified": "browser"
+      "live_verified": "api"
     },
     {
       "title": "2027 | Americas | Bellevue | Engineering | New Analyst",
@@ -51,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "2026-10-05: higher.gs.com role pages 171568/9/70 (Dallas, NYC, SLC 2027 Engineering New Analyst) opened in browser with Apply button; Seattle (Bellevue) posting listed on Oracle. Final-year students. No sponsorship text or deadline stated.",
-  "confidence": "high"
+  "evidence": "2026-10-06: higher.gs.com role API serves 2027 Engineering New Analyst roles 171568/9/70 (Dallas, NYC, SLC; final-year students); Seattle (Bellevue) on Oracle posted 2026-08-15. Not in search listing; browser unavailable. No sponsorship text or deadline.",
+  "confidence": "medium"
 }

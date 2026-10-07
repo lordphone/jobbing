@@ -1,7 +1,7 @@
 {
   "company": "MoneyLion (Gen Digital)",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     },
     {
       "title": "AI & Machine Learning Engineer 1",
@@ -22,15 +22,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only two '...Engineer 1' postings, both 2026-06/07; none in the 2025-07..2026-01 window.",
+  "last_cycle_basis": "Tracker history shows only two Engineer 1 postings, both 2026-06/07; none in the 2025-07..2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gen-digital",
   "jobs_spec": "ashby:gen-digital",
-  "evidence": "Ashby gen-digital (114) 2026-10-05: US eng roles are Senior+, Engineer II, Full Stack (10+ yrs). Both 'Engineer 1' postings (Jun/Jul 2026) now blank/not found in browser, so closed.",
-  "confidence": "high"
+  "evidence": "Ashby gen-digital (116) 2026-10-06: no Engineer 1 roles listed; US engineering is Senior/Lead/Engineer II. ML Engineer 1 and AI & ML Engineer 1 (Jun/Jul 2026) not on board; prior run saw them gone in browser.",
+  "confidence": "medium"
 }

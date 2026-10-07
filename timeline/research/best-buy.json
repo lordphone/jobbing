@@ -1,15 +1,15 @@
 {
   "company": "Best Buy",
   "tier": 9,
-  "checked": "2026-10-05",
-  "status": "unknown",
+  "checked": "2026-10-06",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history is Canada board only; web search shows undated Software Engineer II mirrors (Richfield MN)",
+  "last_cycle_basis": "no tracker history for US new-grad SWE; Canada board tracker entries are non-SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.bestbuy.com/bby",
+  "jobs_page": "https://jobs.bestbuy.com/bby?id=all_jobs&spa=1",
   "jobs_spec": null,
-  "evidence": "US board jobs.bestbuy.com is client-rendered; fetch returns no listings and browser access denied 2026-10-05. Earlier 2026-10-02 read: 'software' 1 senior role, 'engineer' 11 non-entry. Third-party sources say 2027 early-careers window opens Sep 2026. Retry later.",
-  "confidence": "low"
+  "evidence": "Searched US jobs.bestbuy.com in browser 2026-10-06 (software engineer, developer, data engineer, machine learning, new grad, entry level, university). Only Senior Engineer and Associate Technical Fellow (10+ yrs) tech roles; no entry-level SWE or new-grad program.",
+  "confidence": "medium"
 }

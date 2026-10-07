@@ -1,26 +1,15 @@
 {
   "company": "General Dynamics Information Technology (GDIT)",
   "tier": 10,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Software Developer Associate - TS/SCI with Polygraph",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
-      "location": "Chantilly, VA",
-      "opened": "2026-10-05",
-      "date_source": "workday postedOn (Posted Today) / tracker first seen 2026-10-04",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-10-07",
   "last_cycle_basis": "tracker first seen 2025-10-07: Software Developer Associate - TS/SCI w/Poly (Annapolis Junction MD)",
-  "excluded_reason": "citizenship",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
   "jobs_spec": "wd:gdit/wd5/external_career_site",
-  "evidence": "Workday CXS 2026-10-05 (158 postings): entry SWE/AI roles say 'US Citizenship Required: Yes' and 'Clearance Level Must Currently Possess: Top Secret SCI + Polygraph' (0+ yrs). Junior ServiceNow and Junior DS Engineer also 'US Citizenship Required: Yes'. Summer 2027 interns only otherwise.",
+  "evidence": "Workday CXS 2026-10-06: Software Engineer 1 (Annapolis Junction, posted 14 days ago) states 'Security clearance required: TS/SCI w/ polygraph'; Software Developer Associate and AI Engineer Associate (Chantilly) titled TS/SCI with Polygraph. Remote Associate roles closed.",
   "confidence": "high"
 }

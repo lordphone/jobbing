@@ -1,18 +1,26 @@
 {
   "company": "MIT Lincoln Laboratory",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "excluded",
   "postings": [
-    {"title": "Assistant Staff - Programming", "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-Programming-MA-02420/1431161300/", "location": "Lexington, MA", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "api"},
-    {"title": "AI/ML Engineer - Assistant Staff", "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Assistant-Staff-MA-02420/1433079500/", "location": "Lexington, MA", "opened": "unknown (date not shown)", "date_source": "page text", "deadline": null, "grad_window": null, "live_verified": "api"}
+    {
+      "title": "Assistant Staff - Programming",
+      "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-Programming-MA-02420/1431161300/",
+      "location": "Lexington, MA",
+      "opened": "on or before 2026-10-06",
+      "date_source": "page text (no posted date in feed)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api"
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Lincoln Laboratory",
-  "excluded_reason": "citizenship",
+  "last_cycle_basis": "No tracker history for MIT Lincoln Laboratory; no dated last-cycle posting found",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.ll.mit.edu/",
   "jobs_spec": null,
-  "evidence": "Jobs feed (careers.ll.mit.edu/sitemap.xml, 212 jobs) 2026-10-05. Entry SWE-type roles (Assistant Staff Programming; AI/ML Engineer Assistant Staff; Assistant Staff Signal Processing & Software) each say 'must be able to obtain and maintain a Secret level DoD security clearance' and 'citizenship is required'.",
+  "evidence": "Jobs feed careers.ll.mit.edu/sitemap.xml 2026-10-06 (221 jobs): entry SWE roles (Assistant Staff - Programming, Software Developer, Software/Data Engineer) each say 'must be able to obtain and maintain a Secret level DoD security clearance'; Summer 2027 intern posting requires U.S. citizen.",
   "confidence": "high"
 }

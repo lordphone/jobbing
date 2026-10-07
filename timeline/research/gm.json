@@ -1,7 +1,7 @@
 {
   "company": "GM",
   "tier": 8,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -73,14 +73,24 @@
       "deadline": "2026-10-09",
       "grad_window": "graduation Dec 2025 - Aug 2026 (likely leftover for a 2027 grad)",
       "live_verified": "api"
+    },
+    {
+      "title": "Software Engineer AV HIL Platform and Services (Early Career)",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-30",
+      "grad_window": "completing degree by June 2026 (leftover-style window)",
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-09-27",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer – Early Career - Software Development'",
+  "last_cycle_basis": "tracker first-seen date for 'Software Engineer \u2013 Early Career - Software Development'",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
   "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
-  "evidence": "Workday API, each posting opened via detail 2026-10-05: Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, Sept 2026) qualifies; AV postings (deadline 2026-10-09) have Dec 2025-Aug 2026 windows. Several state GM does not sponsor.",
+  "evidence": "Workday API, postings opened via detail 2026-10-06: Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, Sept 2026, no sponsorship) qualifies; AV postings have Dec 2025-Aug 2026 windows (deadlines Oct 9-30).",
   "confidence": "high"
 }

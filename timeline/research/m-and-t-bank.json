@@ -1,7 +1,7 @@
 {
   "company": "M&T Bank",
   "tier": 5,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": "2025-07-30",
@@ -21,6 +21,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://mtb.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mtb/wd5/Campus",
-  "evidence": "Campus Workday (46): 2027 TDP Software Engineering, Buffalo, opened in browser 2026-10-05 with Apply button (Cybersecurity track not counted). 'Work Visa Sponsorship not offered'. No deadline stated.",
+  "evidence": "Campus Workday (32): 2027 Technology Development Program - Software Engineering, Buffalo, canApply true via Workday API 2026-10-06 (startDate 2026-10-01; tracker first seen 2026-09-30). Earlier run saw Apply button and 'Work Visa Sponsorship not offered'. Cybersecurity track not counted. No deadline stated.",
   "confidence": "high"
 }

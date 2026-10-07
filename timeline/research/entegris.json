@@ -1,7 +1,7 @@
 {
   "company": "Entegris",
   "tier": 7,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
   "postings": [
     {
@@ -12,15 +12,15 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no earlier tracker history found",
+  "last_cycle_basis": "no tracker history before 2026-07 found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://entegris.wd1.myworkdayjobs.com/entegriscareers",
   "jobs_spec": "wd:entegris/wd1/entegriscareers",
-  "evidence": "Workday 2026-10-05 (116): tracker Junior AI Engineer (Bedford, first seen 2026-08-05) absent from board; its page in browser pane shows the Workday not-found magnifier. Live US roles are co-ops (IT, digital ops) and Reno manufacturing new-grad, not software.",
+  "evidence": "Workday CXS 2026-10-06, full board (618): tracker Junior AI Engineer (Bedford MA, first seen 2026-08-05) is absent and its page returns not found. Remaining early roles are Leadership Development Program (engineering/supply chain), manufacturing, co-ops, not SWE.",
   "confidence": "medium"
 }

@@ -1,68 +1,78 @@
-# Changes — 2026-10-05
+# Changes — 2026-10-06
 
-Compared with the snapshot taken before this run. Open now: 369.
+Compared with the snapshot taken before this run. Open now: 371.
 
 ## Newly open (12)
 
-- **Retell AI** (tier 2): closed → open · Software Engineer, Internal Deployed · https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87
-- **Red Hat** (tier 6): closed → open · Associate Software Engineer · https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Associate-Software-Engineer_R-059573
-- **Corning** (tier 7): not_yet → open · Engineer, Software Developer · https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/
-- **Hyundai Motor Group** (tier 8): no_program → open · Infotainment Application Developer · https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Application-Developer-MI-48198/1391669800/
-- **Nuro** (tier 8): not_yet → open · New Grad Software Engineer, Routing · https://nuro.ai/careersitem?gh_jid=8248317
-- **Disney** (tier 9): closed → open · Assoc Software Engineer · https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Assoc-Software-Engineer_10161302
-- **MGM Resorts International** (tier 9): no_program → open · Digital Software Engineer Associate · https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1
-- **L.E.K. Consulting** (tier 10): unknown → open · Associate Data & Automation Analyst · https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-86e3fabd2fdc/candidate/so/pm/1/pl/6/opp/4099-Associate-Data-Automation-Analyst/en-GB
-- **Amgen** (tier 11): closed → open · Software Engineer · https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398
-- **John Hancock (Manulife)** (tier 11): closed → open · Associate Applied AI Engineer – GenAI Systems · https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-2
-- **MassMutual** (tier 11): not_yet → open · Quantitative Developer · https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872
-- **Optimum Communications (formerly Altice USA)** (tier 11): closed → open · Software Dev Engineer I · https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors
+- **Scotiabank (Bank of Nova Scotia)** (tier 5): no_program → open · Junior Software Engineer, Global Payments Engineering · https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/
+- **Astera Labs** (tier 7): not_yet → open · Applied AI NCG (Non Silicon) · https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005
+- **Intel** (tier 7): not_yet → open · Foundry Cloud Services Developer · https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203
+- **Lam Research** (tier 7): no_program → open · Software Engineer 2 · https://careers.lamresearch.com/careers/job/1099552273052
+- **Pure Storage** (tier 7): not_yet → open · Software Engineer Grad 2027 · https://job-boards.greenhouse.io/purestorage/jobs/8249851
+- **QuEra Computing** (tier 7): no_program → open · Scientific Software Engineer - Developer Experience · https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008
+- **Teradyne** (tier 7): not_yet → open · Software Engineer (Memory Test, San Jose, CA) · https://jobs.teradyne.com/Teradyne/job/San-Jose-Software-Engineer-(Memory-Test,-San-Jose,-CA)-CA-95101/1409221500/
+- **Toyota** (tier 8): closed → open · AI/ML Platform Engineer · https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/AI-ML-Platform-Engineer_10337203
+- **Indeed** (tier 9): unknown → open · Software Engineer I · https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374
+- **Take-Two Interactive** (tier 9): not_yet → open · 2K Games - Engineering Graduate Program - Dublin · https://job-boards.greenhouse.io/2kearlycareers/jobs/7992140003
+- **Dow Inc.** (tier 11): not_yet → open · 2026-2027 Campus Graduate - Research & Development (BS/MS) · https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Graduate---Research---Development--BS-MS-_R2068809
+- **FedEx** (tier 11): no_program → open · Full Stack Developer II · https://careers.fedex.com/full-stack-developer-ii/job/P25-354137-3
 
-## No longer open (7)
+## No longer open (10)
 
-- **Addepar** (tier 5): open → no_program
-- **Harris Computer** (tier 6): open → closed
-- **Axon Enterprise** (tier 8): open → closed
-- **Indeed** (tier 9): open → unknown
-- **KAYAK** (tier 9): open → closed
-- **WHOOP** (tier 9): open → closed
-- **Boston Scientific** (tier 11): open → closed
+- **Nvidia** (tier 1): open → closed
+- **Broadridge Financial Solutions** (tier 5): open → closed
+- **Wellington Management** (tier 5): open → closed
+- **Pattern Data** (tier 6): open → closed
+- **Ayar Labs** (tier 7): open → closed
+- **MITRE** (tier 8): open → excluded
+- **Gartner** (tier 10): open → no_program
+- **L.E.K. Consulting** (tier 10): open → unknown
+- **Cummins** (tier 11): open → closed
+- **T-Mobile** (tier 11): open → closed
 
-## Other status changes (21)
+## Other status changes (37)
 
-- **Alibaba Group** (tier 1): unknown → no_program
-- **The Trade Desk** (tier 3): closed → not_yet
-- **Quantlab Financial** (tier 4): unknown → no_program
-- **Nomura** (tier 5): unknown → not_yet
-- **Clarivate** (tier 6): not_yet → no_program
-- **Cohesity** (tier 6): not_yet → closed
-- **ThoughtSpot** (tier 6): unknown → no_program
-- **DigitalOcean** (tier 7): closed → not_yet
-- **F5** (tier 7): closed → not_yet
-- **NXP Semiconductors** (tier 7): closed → not_yet
-- **Onto Innovation** (tier 7): not_yet → no_program
-- **Tokyo Electron** (tier 7): closed → not_yet
-- **Wing** (tier 8): not_yet → no_program
-- **Best Buy** (tier 9): no_program → unknown
-- **DreamWorks Animation** (tier 9): not_yet → closed
-- **Fiverr** (tier 9): unknown → no_program
-- **OpenTable** (tier 9): not_yet → no_program
-- **Sony Music Entertainment** (tier 9): not_yet → no_program
-- **Sony Pictures Entertainment** (tier 9): not_yet → no_program
-- **Tinder** (tier 9): not_yet → no_program
-- **Baker Hughes** (tier 11): closed → no_program
+- **EliseAI** (tier 2): not_yet → no_program
+- **Uniswap Labs** (tier 3): not_yet → closed
+- **Elliott Investment Management** (tier 4): unknown → no_program
+- **Bain Capital** (tier 5): not_yet → no_program
+- **CIBC** (tier 5): not_yet → closed
+- **Jack Henry & Associates** (tier 5): not_yet → closed
+- **Neuberger Berman** (tier 5): not_yet → no_program
+- **Northern Trust** (tier 5): unknown → closed
+- **Wells Fargo** (tier 5): unknown → not_yet
+- **Elastic** (tier 6): not_yet → no_program
+- **New Relic** (tier 6): not_yet → no_program
+- **Sprout Social** (tier 6): not_yet → no_program
+- **Strategy (formerly MicroStrategy)** (tier 6): not_yet → no_program
+- **VMware** (tier 6): no_program → not_yet
+- **Zendesk** (tier 6): not_yet → no_program
+- **ZoomInfo** (tier 6): not_yet → no_program
+- **CommScope** (tier 7): not_yet → no_program
+- **Graphcore** (tier 7): not_yet → no_program
+- **Qorvo** (tier 7): not_yet → no_program
+- **TE Connectivity** (tier 7): not_yet → no_program
+- **Axon Enterprise** (tier 8): closed → not_yet
+- **Kratos Defense & Security Solutions** (tier 8): unknown → excluded
+- **Best Buy** (tier 9): unknown → no_program
+- **BuzzFeed** (tier 9): unknown → no_program
+- **Caesars Entertainment** (tier 9): no_program → not_yet
+- **Carvana** (tier 9): not_yet → no_program
+- **DreamWorks Animation** (tier 9): closed → not_yet
+- **ESPN** (tier 9): closed → not_yet
+- **Magnite** (tier 9): no_program → not_yet
+- **Newegg** (tier 9): no_program → not_yet
+- **KPMG** (tier 10): not_yet → closed
+- **RSM US** (tier 10): not_yet → no_program
+- **Abbott Laboratories** (tier 11): closed → not_yet
+- **Cencora** (tier 11): closed → no_program
+- **Centene** (tier 11): closed → not_yet
+- **Highmark Health** (tier 11): not_yet → excluded
+- **Linde plc** (tier 11): not_yet → no_program
 
-## Added to the company list (10)
+## Added to the company list (0)
 
-- Agile Defense
-- Alkami Technology
-- Altamira Technologies
-- Avalore
-- NOV
-- OpenEye
-- Pattern Data
-- QuinStreet
-- Scientific Research Corporation
-- Trace3
+None.
 
 ## Removed from the company list (0)
 
@@ -70,15 +80,5 @@ None.
 
 ## Company list edits
 
-- Added Alkami Technology (tier 5): digital-banking software company posting Software Engineer roles (US remote).
-- Added Pattern Data (tier 6): posts "Software Engineer - Entry" roles in Richmond, VA.
-- Added OpenEye (tier 6): cloud video-security software company posting Software Engineer I roles in Liberty Lake, WA.
-- Added Altamira Technologies (tier 8): defense contractor posting Junior Software Engineer roles (Dayton/Wright-Patterson, Augusta, Centennial).
-- Added Scientific Research Corporation (tier 8): defense R&D contractor posting Software Engineer 1 / Software Developer 1 roles in Suffolk, VA and North Charleston, SC.
-- Added QuinStreet (tier 9): performance-marketing company posting Entry Level Software Engineer roles in Foster City, CA.
-- Added Avalore (tier 10): government tech contractor posting Software Engineer and AI/ML Engineer roles in Annapolis Junction, MD and Arlington, VA.
-- Added Agile Defense (tier 10): government IT contractor posting Software Developer 1 roles in Aberdeen, MD.
-- Added Trace3 (tier 10): IT solutions provider posting Software Engineer roles in Colorado Springs.
-- Added NOV (tier 11): oilfield-equipment company posting "Software Engineer - Pathway" roles in Houston.
-- Added tracker override: "1X" → 1X Technologies.
-- Skipped the rest of the top ~260 unmatched names: staffing agencies, universities, hospitals, utilities and engineering firms without software roles, non-US employers (Sainsbury's, Trustpilot, Hawk-Eye, Konrad Group, Sun Life, Intact, Jonas Software, D2L), AI-data gig work (Innodata, Prolific, Welocalize), national labs with only postdoc postings (Brookhaven, Savannah River, Fermilab, National Laboratory of the Rockies), and companies with no entry SWE postings (Xometry, PGIM, Dyna Robotics, X Development, LMI). Solana Labs stays on the list (research still says "largely wound down" but there's no shutdown notice on its own site).
+- No edits. The unmatched tracker names changed only slightly since the 2026-10-05 review (a few one-to-two-posting names: Teserac, Foundation Health, ZS, UCSF, Innovative Defense Technologies, Southern Star Central Gas Pipeline), all below the reviewed top ~260, and no research file reports a rename, merger or shutdown.
+- Research not refreshed this run: NTT DATA and Tata Consultancy Services (TCS). Their agent was stopped partway at his request; both keep the 2026-10-05 result.

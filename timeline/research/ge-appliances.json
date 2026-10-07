@@ -1,15 +1,15 @@
 {
   "company": "GE Appliances (a Haier company)",
+  "tier": 11,
+  "checked": "2026-10-06",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-12-13",
-  "last_cycle_basis": "prior run's tracker-derived date for GE Appliances EEDP Software (Edison Engineering Development Program - Software)",
+  "last_cycle_basis": "Tracker-derived date for EEDP Software (Edison Engineering Development Program - Software), per prior file",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://haier.wd3.myworkdayjobs.com/ge_appliances",
   "jobs_spec": "wd:haier/wd3/ge_appliances",
-  "evidence": "Workday board/cxs 2026-10-05: EEDP Software (Jan 2027, posted ~Jun 2026) not listed; only EEDP Electrical Jan/Jul 2027 live. Software/Digital are co-ops/interns; 'AI Engineer: DevOps & App Support' needs 3 yrs, not entry-titled; other AI roles senior. No entry SWE; closed.",
-  "confidence": "high",
-  "checked": "2026-10-05",
-  "tier": 11,
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday --all (67): only EEDP Electrical Jan/Jul 2027 live (not software); software are co-ops. EEDP Software (posted ~Jun 2026) not listed; its closure rests on prior file and tracker, not a page I opened.",
+  "confidence": "low"
 }

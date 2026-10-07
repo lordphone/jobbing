@@ -1,18 +1,27 @@
 {
   "company": "Starbucks",
   "tier": 9,
-  "checked": "2026-10-05",
   "status": "open",
   "postings": [
     {
-      "title": "Application Developer (application developer- ST)",
+      "title": "Application Developer (application developer- ST; Nashville, TN)",
       "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
-      "location": "Nashville, TN; one more US location (unnamed on page)",
+      "location": "Nashville, TN",
       "opened": "2026-10-02",
-      "date_source": "page text",
+      "date_source": "eightfold postedTs",
       "deadline": "2026-10-16",
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "api"
+    },
+    {
+      "title": "Application Developer (application developer- ST; Seattle, WA)",
+      "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
+      "location": "Seattle, WA; Nashville, TN",
+      "opened": "2026-09-15",
+      "date_source": "eightfold postedTs",
+      "deadline": "2026-10-15",
+      "grad_window": null,
+      "live_verified": "api"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +30,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://starbucks.eightfold.ai",
   "jobs_spec": "eightfold:starbucks.eightfold.ai/starbucks.com",
-  "evidence": "Opened posting in browser 2026-10-05: Apply Now live, 0-4 yrs, posted 10/02, expires 10/16 (stated). Not a new-grad program or entry label; other SWE ST postings are Sr or 4+ yrs. Borderline fit.",
-  "confidence": "medium"
+  "evidence": "Eightfold position API 2026-10-06: two Application Developer postings, 0-4 yrs, expiry dates from posting data (10/15, 10/16). Not a new-grad program or entry label; Software Engineer ST roles are 4-8 yrs or Sr. Borderline fit.",
+  "confidence": "medium",
+  "checked": "2026-10-06"
 }

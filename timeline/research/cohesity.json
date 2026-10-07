@@ -1,15 +1,26 @@
 {
   "company": "Cohesity",
   "tier": 6,
-  "checked": "2026-10-05",
+  "checked": "2026-10-06",
   "status": "closed",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Software Engineer New Grad",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
+      "location": "Santa Clara, CA",
+      "opened": "2026-08-10",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser"
+    }
+  ],
   "last_cycle_opened": "2025-11-14",
-  "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA (also New College Graduate 2026-04-09; New Grad 2026 posted 2026-08-10)",
+  "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA 2025-11-14",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
   "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
-  "evidence": "Workday cxs API 2026-10-05: 16 postings, no new grad; US SWE Staff/Sr only. Tracker 'Software Engineer New Grad' (Santa Clara, first seen 2026-08-10, R01282) now returns permission denied via API and is absent from board; browser page not opened.",
+  "evidence": "Workday search 2026-10-06 ('new grad','graduate','college','university','software engineer'): no entry-level US SWE; US SWE only Staff/Sr Staff. Tracker New Grad posting (Santa Clara, Aug 2026, R01282) page shows 'page doesn't exist' in browser (URL partly from tracker, slug may differ).",
   "confidence": "medium"
 }
