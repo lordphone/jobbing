@@ -89,15 +89,16 @@ def match(idx, name):
 ROLE = re.compile(r'software|\bswe\b|\bsde\b|back.?end|full.?stack|front.?end|machine learning|\bml\b|\bai\b|'
                   r'developer|platform|infrastructure|forward.?deployed|applied|cloud|devops|site reliab|'
                   r'\bsre\b|mobile|ios|android|web|data engineer|systems engineer|programmer|quant(itative)? dev|'
-                  r'research engineer|member of technical', re.I)
-ENG = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|technical staff|technologist', re.I)
-SENIOR = re.compile(r'\b(senior|sr\.?|(?<!technical )staff|principal|lead|manager|director|head of|intern|internship|co-?op|'
+                  r'research engineer|member of technical|\ba?mts\b', re.I)
+ENG = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|technical staff|\ba?mts\b|technologist', re.I)
+SENIOR = re.compile(r'\b(senior|sr\.?|[slp]mts|(?<!technical )staff|principal|lead|manager|director|head of|intern|internship|co-?op|'
                     r'ii|iii|iv|2|3)\b', re.I)
 EXCL_ROLE = re.compile(r'hardware|electrical|mechanical|analog|asic|fpga|rtl|verification|manufactur|'
                        r'civil|chemical|process engineer|field service|sales engineer|solutions engineer|'
                        r'test technician|physical design|circuit|firmware|embedded|rf ', re.I)
 NEWGRAD = re.compile(r'new grad|new college|university|graduate|early career|entry|campus|2026|2027|'
-                     r'associate|junior|\bi\b|\b1\b|rotational|residency|fellow|emerging talent|class of', re.I)
+                     r'associate|junior|\bi\b|\b1\b|rotational|residency|fellow|emerging talent|class of|'
+                     r'college grad|\bamts\b', re.I)
 CLEAR = re.compile(r'clearance|cleared|\bts/sci\b|top secret|\bsecret\b|polygraph|\bsci\b|u\.?s\.? citizen', re.I)
 
 STATES = set('AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC '

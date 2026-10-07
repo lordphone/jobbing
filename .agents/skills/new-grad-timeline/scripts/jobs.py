@@ -2,7 +2,7 @@
 """First-party job-board lookups for new-grad research. Standard library only.
 
   jobs.py board SPEC             list EVERY posting on the board (title | location | date | url), each with a hint tag
-                                 from its title. Workday / Oracle / Eightfold boards over 1500 postings, and Amazon,
+                                 from its title. Workday / Oracle / Eightfold boards over 3000 postings, and Amazon,
                                  can only be searched: the Coverage line says so.
   jobs.py screen SPEC | URL...   open postings and print their years / level / pay lines. SPEC screens the ones
                                  tagged new-grad title or unlabeled eng; pass URLs to screen any others you pick.
@@ -20,12 +20,13 @@ import datetime as dt, html, json, os, re, subprocess, sys, urllib.error, urllib
 
 NEWGRAD = re.compile(r'new grad|new college|college grad|university|graduate|early career|early in career|entry.level|'
                      r'campus|2027|junior|associate|engineer,? i\b|engineer,? 1\b|developer,? i\b|level 1\b|rotation|'
-                     r'residen|apprentice|emerging talent|class of|amts|analyst program|development program', re.I)
-ROLE = re.compile(r'software|engineer|developer|\bsde\b|\bswe\b|machine learning|\bml\b|\bai\b|full.?stack|back.?end|'
+                     r'residen|apprentice|emerging talent|class of|\bamts\b|\bmts,? (?:i|1)\b|analyst program|development program', re.I)
+ROLE = re.compile(r'software|engineer|developer|\ba?mts\b|\bsde\b|\bswe\b|machine learning|\bml\b|\bai\b|full.?stack|back.?end|'
                   r'platform|technolog|programmer|member of technical', re.I)
-SKIP = re.compile(r'\bintern\b|internship|co-?op|senior|\bsr\b|(?<!technical )staff|principal|\blead\b|manager|director', re.I)
+SKIP = re.compile(r'\bintern\b|internship|co-?op|senior|\bsr\b|\b[slp]mts\b|(?<!technical )staff|principal|\blead\b|manager|director', re.I)
 # engineering roles a new grad could hold; titles at a higher level (II, III, 2, 3) or hardware-side roles are left out
-ENGROLE = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|member of technical|scientist', re.I)
+# MTS ladder: AMTS and MTS are entry / early level; SMTS, LMTS and PMTS are senior (SKIP)
+ENGROLE = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|member of technical|\ba?mts\b|scientist', re.I)
 HIGHER = re.compile(r'\b(ii|iii|iv|v|2|3|4|5)\b(?![-–]\d)|\bl[4-9]\b|\b(?:architect|vp|vice president|head of|distinguished|fellow)\b|'
                     r'hardware|electrical|mechanical|asic|fpga|rtl|analog|firmware|physical design|sales engineer|'
                     r'solutions engineer|field (service|application)', re.I)
@@ -33,7 +34,7 @@ YEARS = re.compile(r'[^.;]{0,90}\b\d{1,2}\s*(?:\+|(?:-|–|to)\s*\d{1,2}\+?)?\s*
 LEVEL = re.compile(r'[^.;]{0,90}(new grad|recent grad|recent college|early.career|entry.level|junior|university grad|'
                    r'graduat(?:e|ing) (?:in|by|between)|class of 202|level (?:i|1)\b|0-\d years)[^.;]{0,90}', re.I)
 PAY = re.compile(r'\$\s?\d{2,3}(?:,\d{3}|k|\.\d+k?)?\s*(?:-|–|to)\s*\$?\s?\d{2,3}(?:,\d{3}|k|\.\d+k?)?', re.I)
-ROLEQ = ('software', 'engineer', 'developer', 'machine learning', 'data engineer', 'technical staff')
+ROLEQ = ('software', 'engineer', 'developer', 'machine learning', 'data engineer', 'technical staff', 'AMTS', 'MTS')
 FLAGS = re.compile(r'[^.]{0,140}(u\.?s\.? citizen|citizenship|security clearance|clearance|green card|permanent resident|'
                    r'u\.?s\.? person|itar|export control|sponsor|work authori[sz]ation|graduat|years of experience|'
                   r'deadline|apply by|applications? (?:close|due)|closing date|accepting applications until)'
@@ -91,7 +92,7 @@ def b_ashby(slug):
 
 # Boards that only answer searches (Workday, Oracle, Eightfold) are paged in full when they hold at most FULL_MAX
 # postings. Bigger ones, and Amazon, are searched with new-grad and role keywords instead; COVERAGE says which.
-FULL_MAX = 1500
+FULL_MAX = 3000
 COVERAGE = {}  # spec kind -> 'full' or a note on what was searched
 NEWGRAD_Q = ('new grad', 'university', 'early career', 'college graduate', 'entry level', 'graduate', '2027',
              'associate', 'junior', 'software engineer I')
@@ -155,7 +156,7 @@ def b_wd(spec):
     if total <= FULL_MAX:
         COVERAGE['wd'] = 'full'
         return page('', FULL_MAX)[0]
-    return searched(lambda q: page(q, 800)[0], NEWGRAD_Q + ROLEQ, 'wd', total)
+    return searched(lambda q: page(q, 2000)[0], NEWGRAD_Q + ROLEQ, 'wd', total)
 
 
 def b_oracle(spec):
@@ -186,7 +187,7 @@ def b_oracle(spec):
     if total <= FULL_MAX:
         COVERAGE['oracle'] = 'full'
         return page('', FULL_MAX)[0]
-    return searched(lambda q: page(q, 500)[0], NEWGRAD_Q + ROLEQ, 'oracle', total)
+    return searched(lambda q: page(q, 2000)[0], NEWGRAD_Q + ROLEQ, 'oracle', total)
 
 
 def b_amazon(_=''):
@@ -240,7 +241,7 @@ def b_eightfold(spec):
     if len(full) <= FULL_MAX:
         COVERAGE['eightfold'] = 'full (US locations)'
         return full
-    return searched(lambda q: page(q, 500), NEWGRAD_Q + ROLEQ, 'eightfold', f'over {FULL_MAX}')
+    return searched(lambda q: page(q, 2000), NEWGRAD_Q + ROLEQ, 'eightfold', f'over {FULL_MAX}')
 
 
 BOARDS = {'amazon': b_amazon, 'levereu': lambda s: b_lever(s, 'api.eu.lever.co'), 'pinpoint': b_pinpoint,

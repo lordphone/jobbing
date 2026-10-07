@@ -19,7 +19,8 @@ if os.path.exists(f'{TIMELINE}/sources.csv'):
 
 STRONG = re.compile(r'new grad|new college|college grad|university|graduate|early career|entry.level|campus|'
                     r'2027|junior|associate software|engineer,? i\b|engineer,? 1\b|developer i\b|rotational|'
-                    r'residency|emerging talent|class of|early in career|recent grad|apprentice|level 1\b|amts|associate member', re.I)
+                    r'residency|emerging talent|class of|early in career|recent grad|apprentice|level 1\b|amts|associate member|'
+                    r'\bmts,? (?:i|1)\b', re.I)
 
 
 def get(url, data=None, timeout=20):
