@@ -20,15 +20,15 @@ The research method, statuses and output format live in `.agents/skills/new-grad
 
 ## Steps
 
-1. **Snapshot.** Run `python3 $FS/changes.py snapshot`. It copies `timeline/status.csv` and `timeline/COMPANY_LIST.md` to `timeline/data/prev/` so the morning report can compare.
+1. **Snapshot.** Run `python3 $FS/changes.py snapshot`. It copies `timeline/status.csv`, `timeline/postings.csv` and `timeline/COMPANY_LIST.md` to `timeline/data/prev/` so the morning report can compare.
 2. **Trackers.** Run `python3 $TL/trackers.py` (about 10 seconds).
 3. **Company list.** See "Company list review" below.
 4. **Job boards.** Run `python3 $TL/probe.py` in the foreground with a 10-minute timeout (a few minutes).
-5. **Merge and worklist.** Run `python3 $TL/merge.py`, then `python3 $TL/worklist.py --redo`. That picks every company on the list.
+5. **Merge, board check and worklist.** Run `python3 $TL/merge.py`, then `python3 $TL/check_sources.py` (about a minute; it flags saved job boards that error, list 0 jobs or carry another company's name), then `python3 $TL/worklist.py --redo`. That picks every company on the list, and each flagged company's agent confirms or replaces its board.
 6. **Research.** Read `timeline/data/workflow_args.json`. Set `approval` to the request that started this run, quoted: the scheduled task's prompt, or his chat message. Then call the Workflow tool with `scriptPath: <repo>/.claude/workflows/new-grad-research.js` and those contents as `args`. It runs 20 companies per agent, 6 agents at a time, for about 2 hours.
 7. **Rerun misses.** Rerun the companies in the result's `failed` and `declined` lists, and any company on the list whose `timeline/research/<slug>.json` isn't dated today. To rerun them, use `worklist.py --redo --names "A|B|C"` and run the workflow again. Do this once; if some still fail, list them in the report.
-8. **Report.** Run `python3 $TL/merge.py`, then `python3 $FS/changes.py`. It writes `timeline/CHANGES.md`: newly open, no longer open, other status changes, and company-list edits.
-9. **Finish.** Reply with the counts from `changes.py` and the newly open companies. Don't commit.
+8. **Report.** Run `python3 $TL/merge.py`, then `python3 $FS/changes.py`. It writes `timeline/CHANGES.md`: newly open companies, no longer open, postings that are new (including new roles at companies that were already open), removed, changed (deadline, title, location) or reposted under a new link, other status changes, and company-list edits.
+9. **Finish.** Reply with the counts from `changes.py`, the newly open companies, the new postings, and any removed posting he had applied to or any deadline that moved earlier. Don't commit.
 
 ## Company list review
 

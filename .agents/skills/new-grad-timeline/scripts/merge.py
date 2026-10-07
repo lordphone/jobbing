@@ -1,4 +1,7 @@
-"""Step 5: merge everything into timeline/status.csv, timeline/SUMMARY.md and timeline/sources.csv.
+"""Step 5: merge everything into timeline/status.csv, timeline/postings.csv, timeline/SUMMARY.md and timeline/sources.csv.
+
+status.csv has one row per company (its timeline). postings.csv has one row per open posting, since a company can
+have several, and marks each one applied only if a TRACKER.md row matches that posting (link, posting ID, or title).
 
 Priority (highest first): timeline/research/*.json (one first-party check per company, newest)
   > first-pass agent results (timeline/data/first_pass_agents/, 2026-09-24)
@@ -39,9 +42,30 @@ for f in sorted(glob.glob(f'{DATA}/first_pass_agents/*.jsonl')):
         except Exception:
             pass
 
-# applied companies from TRACKER.md
-applied = {}
-applied_notes = {}
+def job_ids(s):
+    """Posting IDs in a URL or note: long numbers, UUIDs, and req codes like JR26091743 or R-12345."""
+    s = s or ''
+    return set(re.findall(r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}', s, re.I)) | \
+        set(re.findall(r'(?<![\w-])(?:[A-Z]{1,3}-?)?\d{5,}(?:-\d+)?', s)) - {''}
+
+
+def url_id(u):
+    """The posting's own ID: the last ID in the URL path (earlier ones are often a site or board ID)."""
+    ids = [m.group(0) for m in re.finditer(r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}|'
+                                           r'(?<![\w-])(?:[A-Z]{1,3}-?)?\d{5,}(?:-\d+)?', re.sub(r'[?#].*', '', u or ''), re.I)]
+    return {ids[-1]} if ids else set()
+
+
+def norm_url(u):
+    return re.sub(r'^https?://(www\.)?|[?#].*$|/+$', '', (u or '').strip().lower())
+
+
+def norm_title(t):
+    return re.sub(r'[^a-z0-9]+', ' ', (t or '').lower()).strip()
+
+
+# applications from TRACKER.md, a list per company (he may apply to several postings at one company)
+applied = collections.defaultdict(list)
 for line in open(f'{REPO}/applications/TRACKER.md'):
     p = [x.strip() for x in line.split('|')]
     if len(p) > 6 and re.match(r'\d{4}-', p[1]):
@@ -49,13 +73,29 @@ for line in open(f'{REPO}/applications/TRACKER.md'):
         for n in names:
             m = match(idx, re.sub(r'^formerly\s+', '', n))
             if m is not None:
-                applied.setdefault(m, f'{p[5]} ({p[1]})')
-                applied_notes[m] = p[-2] if len(p) > 2 else ''
+                applied[m].append({'date': p[1], 'role': p[3], 'link': p[4], 'status': p[5],
+                                   'notes': p[-2] if len(p) > 2 else '', 'ids': url_id(p[4]) | job_ids(p[-2])})
                 break
+
+
+def applied_str(cid):
+    return '; '.join(f"{a['status']} ({a['date']}): {a['role']}" for a in applied.get(cid, []))
+
+
+def application_for(cid, title, url):
+    """The tracker row for this exact posting, matched by link, posting ID, or title."""
+    for a in applied.get(cid, []):
+        if (a['link'] and norm_url(a['link']) == norm_url(url)) or (a['ids'] & url_id(url)) \
+                or norm_title(a['role']) == norm_title(title):
+            return a
+    return None
 
 NOSPON = re.compile(r"no (visa )?sponsor|not (offer |provide )?(visa )?sponsor|won.?t sponsor|does not sponsor|"
                     r"without (visa )?sponsorship|unable to sponsor|permanent (us |u\.s\. )?work auth", re.I)
 REFERRAL_HORIZON = TODAY + dt.timedelta(weeks=8)
+# he applies with a master's: a title that requires a PhD and names no other degree is not for him
+PHD_ONLY = lambda t: bool(re.search(r'\bph\.?d\b', t or '', re.I)) and \
+    not re.search(r'\b(b\.?s|m\.?s|bachelor|master|undergrad)', t or '', re.I)
 
 
 def iso(x):
@@ -72,12 +112,14 @@ def parse_date(s):
 
 
 rows = []
+postings = []  # one row per open posting; a company can have several
 for c in companies:
     cid = c['id']
     o, boards, a = p0.get(c['name'], EMPTY), p1.get(c['name'], []), agent.get(c['name'])
     r = {'Company': c['name'], 'Tier': c['tier'], 'Status': 'unknown', 'Role': '', 'Link': '', 'Opened': '', 'Deadline': '', 'Areas': '',
-         'Last year opened': '', 'Expected open': '', 'Applied': applied.get(cid, ''), 'Sponsorship': '', 'Notes': '',
+         'Last year opened': '', 'Expected open': '', 'Applied': applied_str(cid), 'Sponsorship': '', 'Notes': '',
          'Confidence': '', 'Source': '', 'Job board': '', 'Tracker lead': ''}
+    posts_out = []  # (title, url, location, opened, deadline, level, no_sponsorship) for this company's open postings
     notes = []
     api_boards = [b for b in boards if b['kind'] in ('greenhouse', 'lever', 'ashby', 'workday')]
     if api_boards:
@@ -95,6 +137,9 @@ for c in companies:
         if dates:
             kind = next((x.get('date_kind') for x in hits_ok if x.get('date') == dates[0]), '')
             r['Opened'] = ('on or before ' if kind == 'on or before' else '') + dates[0]
+        posts_out = [(h['title'], h.get('url') or '', h.get('loc') or '',
+                      (('on or before ' if h.get('date_kind') == 'on or before' else '') + h['date']) if h.get('date') else '', '',
+                      'new-grad title', None) for h in hits_ok]
         if len(hits_ok) > 1:
             notes.append(f'{len(hits_ok)} matching postings')
     elif hits and not hits_ok:
@@ -156,7 +201,7 @@ for c in companies:
         r['Status'] = 'excluded'
     # sponsorship flag (kept, not excluded)
     txt = ' '.join([r['Notes'] if isinstance(r['Notes'], str) else '', ' '.join(notes)])
-    if o.get('no_sponsor') or NOSPON.search(txt) or (cid in applied_notes and NOSPON.search(applied_notes[cid])):
+    if o.get('no_sponsor') or NOSPON.search(txt) or any(NOSPON.search(x['notes']) for x in applied.get(cid, [])):
         r['Sponsorship'] = 'no sponsorship'
     # 4) per-company research (first-party, newest) overrides everything above
     rs = research.get(cid)
@@ -182,6 +227,24 @@ for c in companies:
             r['Job board'] = rs.get('jobs_spec') or rs.get('jobs_page')
         r['Sponsorship'] = 'no sponsorship' if rs.get('no_sponsorship') else ''
         r['Notes'] = '; '.join(dict.fromkeys(n for n in notes if n))[:300]
+        posts_out = [(q['title'], q.get('url') or '', q.get('location') or '', q.get('opened') or '',
+                      q.get('deadline') or '', q.get('level') or '', q.get('no_sponsorship')) for q in live]
+    if r['Status'] != 'open':
+        posts_out = []
+    elif not posts_out:
+        posts_out = [(r['Role'], r['Link'], '', iso(r['Opened']), r['Deadline'], '', None)]
+    seen = set()
+    for title, url, loc, opened, deadline, level, no_spon in posts_out:
+        if (url or title) in seen or PHD_ONLY(title):
+            continue
+        seen.add(url or title)
+        ap = application_for(cid, title, url)
+        postings.append({'Company': c['name'], 'Tier': c['tier'], 'Role': title, 'Level': level, 'Link': url, 'Location': loc,
+                         'Areas': ', '.join(areas_of(loc)) if loc else r['Areas'], 'Opened': iso(opened),
+                         'Deadline': deadline, 'Applied': f"{ap['status']} ({ap['date']})" if ap else '',
+                         # the posting's own sponsorship line when research recorded one, else the company's
+                         'Sponsorship': r['Sponsorship'] if no_spon is None else ('no sponsorship' if no_spon else ''),
+                         'Confidence': r['Confidence'], 'Source': r['Source']})
     # expected
     if r['Status'] in ('not_yet', 'unknown', 'closed'):
         ref = parse_date(r['Last year opened'])
@@ -213,8 +276,15 @@ with open(f'{OUT}/status.csv', 'w', newline='') as f:
     w.writeheader()
     w.writerows(rows)
 
+with open(f'{OUT}/postings.csv', 'w', newline='') as f:
+    w = csv.DictWriter(f, fieldnames=['Company', 'Tier', 'Role', 'Level', 'Link', 'Location', 'Areas', 'Opened', 'Deadline',
+                                      'Applied', 'Sponsorship', 'Confidence', 'Source'])
+    w.writeheader()
+    w.writerows(postings)
+
 cnt = collections.Counter(r['Status'] for r in rows)
-print(cnt, 'applied', len(applied))
+print(cnt, 'applied at', len(applied), 'companies |', len(postings), 'open postings,',
+      sum(1 for p in postings if p['Applied']), 'applied')
 json.dump(rows, open(f'{DATA}/merged.json', 'w'), indent=1)
 
 
@@ -231,9 +301,16 @@ def exp_key(r):
 
 
 live = [r for r in rows if r['Status'] != 'excluded']
-apply_now = sorted([r for r in live if r['Status'] == 'open' and not r['Applied']],
-                   key=lambda r: (r['Tier'], r['Opened'] or '9999'))
+# "Apply now" is per posting: applying to one posting doesn't hide a company's other open postings
+company_notes = {r['Company']: r['Notes'] for r in rows}
+for p in postings:
+    p['Notes'] = company_notes.get(p['Company'], '')
+apply_now = sorted([p for p in postings if not p['Applied']],
+                   key=lambda r: (r['Tier'], r['Company'], r['Opened'] or '9999'))
 applied_rows = [r for r in rows if r['Applied']]
+open_left = collections.Counter(p['Company'] for p in apply_now)
+for r in applied_rows:
+    r['Open, not applied'] = str(open_left.get(r['Company'], 0))
 # stated deadlines first, soonest first; "at least" dates are lower bounds and sort by that date
 asap = sorted([r for r in apply_now if parse_date(r['Deadline'])], key=lambda r: parse_date(r['Deadline']))
 mine = lambda rs: [r for r in rs if r['Areas']]
@@ -244,22 +321,25 @@ for r in asap:
         r['Days left'] = str((d - TODAY).days)
     else:
         r['Days left'] = 'no end date known' if 'at least' in r['Deadline'] else 'passed — check it is still live'
-soon = [r for r in live if r['Status'] in ('not_yet', 'unknown', 'closed') and not r['Applied'] and r['Expected open']
+# Company-level sections keep companies he applied to: one application there doesn't cover its other roles
+soon = [r for r in live if r['Status'] in ('not_yet', 'unknown', 'closed') and r['Expected open']
         and (r['Expected open'].startswith('overdue') or r['Expected open'][:10] <= REFERRAL_HORIZON.isoformat())]
 soon.sort(key=lambda r: (r['Tier'], exp_key(r)))
-later = [r for r in live if r['Status'] in ('not_yet', 'unknown', 'closed') and not r['Applied'] and r not in soon]
+later = [r for r in live if r['Status'] in ('not_yet', 'unknown', 'closed') and r not in soon]
 nop = [r for r in live if r['Status'] == 'no_program']
-leads = sorted([r for r in live if r['Status'] == 'tracker_lead' and not r['Applied']], key=lambda r: (r['Tier'], r['Opened']))
+leads = sorted([r for r in live if r['Status'] == 'tracker_lead'], key=lambda r: (r['Tier'], r['Opened']))
 exc = [r for r in rows if r['Status'] == 'excluded']
 
 L = [f'# 2027 New-Grad Timeline', '',
-     f'Checked {TODAY.isoformat()}. {len(rows)} companies in `COMPANY_LIST.md`. Full data: `status.csv`.', '',
-     f'- **Apply now:** {len(apply_now)} open, not yet applied: {len(mine(apply_now))} in your areas, '
-     f'{len(others(apply_now))} elsewhere ({len(asap)} with a stated deadline)',
+     f'Checked {TODAY.isoformat()}. {len(rows)} companies in `COMPANY_LIST.md`. Full data: `status.csv` (one row per '
+     f'company) and `postings.csv` (one row per open posting).', '',
+     f'- **Apply now:** {len(apply_now)} open postings not yet applied to, at {len(open_left)} companies: '
+     f'{len(mine(apply_now))} in your areas, {len(others(apply_now))} elsewhere ({len(asap)} with a stated deadline)',
      f'- **Referrals / cold messages now:** {len(soon)} expected to open by {REFERRAL_HORIZON.isoformat()} or overdue vs last year',
      f'- **Tracker leads to confirm:** {len(leads)} listed by a GitHub tracker, company board not checked yet',
      f'- **Later / unknown timing:** {len(later)}',
-     f'- **Already in TRACKER.md:** {len(applied_rows)}',
+     f'- **Companies in TRACKER.md:** {len(applied_rows)} ({sum(len(v) for v in applied.values())} applications); '
+     'other open postings at these companies still appear under Apply now',
      f'- **No US new-grad SWE track found:** {len(nop)}',
      f'- **Dropped (citizenship, green card, or clearance required):** {len(exc)} — kept in `status.csv` as `excluded`', '',
      '"Apply now" only counts postings seen on the company\'s own job board. GitHub trackers (SimplifyJobs, '
@@ -277,7 +357,9 @@ def table(rs, cols):
     return out
 
 
-L += ['## Already applied', ''] + table(applied_rows, ['Company', 'Tier', 'Applied', 'Status', 'Role', 'Deadline']) + ['']
+L += ['## Already applied', '',
+      '"Open, not applied" counts this company\'s open postings that no TRACKER.md row matches; they are listed under Apply now.', '']
+L += table(applied_rows, ['Company', 'Tier', 'Applied', 'Status', 'Open, not applied']) + ['']
 L += ['## Apply ASAP: stated deadlines', '',
       'Open, not yet applied, and the posting states a deadline. Soonest first. Most postings state none, '
       'so a missing entry is not a sign of time to spare.', '']
@@ -286,21 +368,23 @@ L += ['### In your areas', ''] + table(mine(asap), ['Company', 'Tier', 'Role', '
 L += ['### Elsewhere', ''] + table(others(asap), ['Company', 'Tier', 'Role', 'Deadline', 'Days left', 'Opened',
                                                  'Sponsorship']) + ['']
 L += ['## 1. Apply now', '',
-      'Open now, by tier, oldest posting first. "Your areas" are set in `.agents/skills/new-grad-timeline/scripts/areas.json`; '
+      'One row per open posting you haven\'t applied to, by tier and company, oldest first. Level "unlabeled" means the '
+      'title has no level but the posting reads entry-level (see the research file\'s level_basis); blank means not recorded yet. '
+      '"Your areas" are set in `.agents/skills/new-grad-timeline/scripts/areas.json`; '
       'every company is still researched, and the rest are listed under Elsewhere.', '']
-L += ['### In your areas', ''] + table(mine(apply_now), ['Company', 'Tier', 'Role', 'Areas', 'Opened', 'Deadline',
-                                                        'Confidence', 'Sponsorship', 'Notes']) + ['']
-L += ['### Elsewhere', ''] + table(others(apply_now), ['Company', 'Tier', 'Role', 'Opened', 'Deadline', 'Confidence',
-                                                      'Sponsorship', 'Notes']) + ['']
+L += ['### In your areas', ''] + table(mine(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Areas', 'Opened',
+                                                        'Deadline', 'Confidence', 'Sponsorship', 'Notes']) + ['']
+L += ['### Elsewhere', ''] + table(others(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Opened', 'Deadline',
+                                                      'Confidence', 'Sponsorship', 'Notes']) + ['']
 L += ['## Tracker leads: confirm on the company site', '',
       'A GitHub tracker lists these as open, but no one has checked the company\'s own board yet.', '']
-L += table(leads, ['Company', 'Tier', 'Role', 'Opened', 'Notes']) + ['']
+L += table(leads, ['Company', 'Tier', 'Role', 'Opened', 'Applied', 'Notes']) + ['']
 L += ['## 2. Start referrals and cold messages now', '',
       '"Overdue" means last year it had opened by this date but nothing is live yet — likely any day.', '']
-L += table(soon, ['Company', 'Tier', 'Expected open', 'Last year opened', 'Sponsorship', 'Notes']) + ['']
+L += table(soon, ['Company', 'Tier', 'Expected open', 'Last year opened', 'Applied', 'Sponsorship', 'Notes']) + ['']
 L += ['## 3. Later or unknown timing', '']
 L += table(sorted(later, key=lambda r: (r['Tier'], exp_key(r) or '9999')),
-           ['Company', 'Tier', 'Status', 'Expected open', 'Notes']) + ['']
+           ['Company', 'Tier', 'Status', 'Expected open', 'Applied', 'Notes']) + ['']
 open(f'{OUT}/SUMMARY.md', 'w').write('\n'.join(L) + '\n')
 print('summary', len(apply_now), len(soon), len(later), len(nop), len(exc))
 
@@ -351,6 +435,22 @@ def page_of(spec, raw=''):
     return (m.group(0) if m.group(0).startswith('http') else 'https://' + m.group(0)) if m else ''
 
 
+VALID_SPEC = re.compile(r'(gh|lever|levereu|ashby|sr|amazon|pinpoint):[\w.%-]*$|wd:[\w-]+/wd\d+/[\w-]+$|'
+                        r'oracle:[\w.-]+/[\w-]+$|eightfold:[\w.-]+/[\w.-]+$')
+
+
+def spec_from_url(u):
+    """A jobs.py spec from a board URL that research wrote where the short spec belongs."""
+    for pat, fmt in ((r'(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board\?for=)?([\w-]+)', 'gh:{}'),
+                     (r'jobs\.eu\.lever\.co/([\w.-]+)', 'levereu:{}'), (r'jobs\.lever\.co/([\w.-]+)', 'lever:{}'),
+                     (r'jobs\.ashbyhq\.com/([\w.%-]+)', 'ashby:{}'), (r'(?:jobs|careers)\.smartrecruiters\.com/([\w-]+)', 'sr:{}'),
+                     (r'([\w-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([\w-]+)', 'wd:{}/{}/{}')):
+        m = re.search(pat, u or '')
+        if m:
+            return fmt.format(*m.groups())
+    return ''
+
+
 KSHORT = {'greenhouse': 'gh', 'lever': 'lever', 'ashby': 'ashby', 'workday': 'wd'}
 ATSNAME = {'gh': 'greenhouse', 'wd': 'workday', 'sr': 'smartrecruiters', 'levereu': 'lever (EU)'}
 src_rows = []
@@ -361,6 +461,9 @@ for c in companies:
     trusted = [b for b in boards if not b['guessed']]
     if rs.get('jobs_spec') or rs.get('jobs_page'):
         spec, page, by = rs.get('jobs_spec') or '', rs.get('jobs_page') or '', f"first-party check {rs.get('checked', '')}"
+        if spec and not VALID_SPEC.match(spec):  # a URL written where the short spec belongs
+            page = page or spec
+            spec = spec_from_url(spec)
     elif trusted:
         b = trusted[0]
         spec, by = f"{KSHORT[b['kind']]}:{b['slug']}", 'board URL in tracker postings'

@@ -91,7 +91,7 @@ ROLE = re.compile(r'software|\bswe\b|\bsde\b|back.?end|full.?stack|front.?end|ma
                   r'\bsre\b|mobile|ios|android|web|data engineer|systems engineer|programmer|quant(itative)? dev|'
                   r'research engineer|member of technical', re.I)
 ENG = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|technical staff|technologist', re.I)
-SENIOR = re.compile(r'\b(senior|sr\.?|staff|principal|lead|manager|director|head of|intern|internship|co-?op|'
+SENIOR = re.compile(r'\b(senior|sr\.?|(?<!technical )staff|principal|lead|manager|director|head of|intern|internship|co-?op|'
                     r'ii|iii|iv|2|3)\b', re.I)
 EXCL_ROLE = re.compile(r'hardware|electrical|mechanical|analog|asic|fpga|rtl|verification|manufactur|'
                        r'civil|chemical|process engineer|field service|sales engineer|solutions engineer|'

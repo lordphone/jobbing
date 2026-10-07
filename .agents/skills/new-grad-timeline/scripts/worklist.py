@@ -75,11 +75,14 @@ src = {}
 if os.path.exists(f'{TIMELINE}/sources.csv'):
     import csv
     src = {x['Company']: x for x in csv.DictReader(open(f'{TIMELINE}/sources.csv'))}
+# doubtful saved boards from check_sources.py; the research agent confirms or replaces each one
+flags = json.load(open(f'{DATA}/source_flags.json')) if os.path.exists(f'{DATA}/source_flags.json') else {}
 items = []
 for r in pick:
     s = src.get(r['Company'], {})
     items.append({'name': r['Company'], 'tier': r['Tier'], 'slug': slug(r['Company']),
                   'jobs_spec': s.get('jobs.py spec') or None, 'jobs_page': s.get('Jobs page') or None,
+                  'board_flag': flags.get(r['Company']),
                   'previous_result': f"{r['Status']} ({r['Source'] or 'no source'}); {r['Notes'][:200]}",
                   'tracker_lead': r.get('Tracker lead') or None,
                   'tracker_last_cycle': r['Last year opened'] or None})
@@ -90,4 +93,5 @@ json.dump(args, open(f'{DATA}/workflow_args.json', 'w'), indent=1)
 tiers_count = {}
 for x in items:
     tiers_count[x['tier']] = tiers_count.get(x['tier'], 0) + 1
-print(f'{len(items)} companies -> timeline/data/worklist.json; by tier {dict(sorted(tiers_count.items()))}')
+print(f'{len(items)} companies -> timeline/data/worklist.json; by tier {dict(sorted(tiers_count.items()))}; '
+      f'{sum(1 for x in items if x["board_flag"])} with a board flag')

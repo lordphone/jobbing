@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """First-party job-board lookups for new-grad research. Standard library only.
 
-  jobs.py board SPEC [--all]     list new-grad-looking postings (title | location | date | url)
+  jobs.py board SPEC             list EVERY posting on the board (title | location | date | url), each with a hint tag
+                                 from its title. Workday / Oracle / Eightfold boards over 1500 postings, and Amazon,
+                                 can only be searched: the Coverage line says so.
+  jobs.py screen SPEC | URL...   open postings and print their years / level / pay lines. SPEC screens the ones
+                                 tagged new-grad title or unlabeled eng; pass URLs to screen any others you pick.
   jobs.py guess NAME [SLUG...]   try Greenhouse / Lever / Ashby / SmartRecruiters slugs for a company
   jobs.py workday TENANT [SITE...]   find a Workday board (tries wd1..wd503 and common site names)
   jobs.py detail URL             fetch one posting's text; print dates, every location, and citizenship / clearance /
@@ -19,7 +23,17 @@ NEWGRAD = re.compile(r'new grad|new college|college grad|university|graduate|ear
                      r'residen|apprentice|emerging talent|class of|amts|analyst program|development program', re.I)
 ROLE = re.compile(r'software|engineer|developer|\bsde\b|\bswe\b|machine learning|\bml\b|\bai\b|full.?stack|back.?end|'
                   r'platform|technolog|programmer|member of technical', re.I)
-SKIP = re.compile(r'\bintern\b|internship|co-?op|senior|\bsr\b|staff|principal|\blead\b|manager|director', re.I)
+SKIP = re.compile(r'\bintern\b|internship|co-?op|senior|\bsr\b|(?<!technical )staff|principal|\blead\b|manager|director', re.I)
+# engineering roles a new grad could hold; titles at a higher level (II, III, 2, 3) or hardware-side roles are left out
+ENGROLE = re.compile(r'engineer|developer|\bsde\b|\bswe\b|programmer|member of technical|scientist', re.I)
+HIGHER = re.compile(r'\b(ii|iii|iv|v|2|3|4|5)\b(?![-–]\d)|\bl[4-9]\b|\b(?:architect|vp|vice president|head of|distinguished|fellow)\b|'
+                    r'hardware|electrical|mechanical|asic|fpga|rtl|analog|firmware|physical design|sales engineer|'
+                    r'solutions engineer|field (service|application)', re.I)
+YEARS = re.compile(r'[^.;]{0,90}\b\d{1,2}\s*(?:\+|(?:-|–|to)\s*\d{1,2}\+?)?\s*\+?\s*years?\b[^.;]{0,90}', re.I)
+LEVEL = re.compile(r'[^.;]{0,90}(new grad|recent grad|recent college|early.career|entry.level|junior|university grad|'
+                   r'graduat(?:e|ing) (?:in|by|between)|class of 202|level (?:i|1)\b|0-\d years)[^.;]{0,90}', re.I)
+PAY = re.compile(r'\$\s?\d{2,3}(?:,\d{3}|k|\.\d+k?)?\s*(?:-|–|to)\s*\$?\s?\d{2,3}(?:,\d{3}|k|\.\d+k?)?', re.I)
+ROLEQ = ('software', 'engineer', 'developer', 'machine learning', 'data engineer', 'technical staff')
 FLAGS = re.compile(r'[^.]{0,140}(u\.?s\.? citizen|citizenship|security clearance|clearance|green card|permanent resident|'
                    r'u\.?s\.? person|itar|export control|sponsor|work authori[sz]ation|graduat|years of experience|'
                   r'deadline|apply by|applications? (?:close|due)|closing date|accepting applications until)'
@@ -75,6 +89,14 @@ def b_ashby(slug):
     return [(j['title'], j.get('location', ''), (j.get('publishedAt') or '')[:10], j.get('jobUrl')) for j in d['jobs']]
 
 
+# Boards that only answer searches (Workday, Oracle, Eightfold) are paged in full when they hold at most FULL_MAX
+# postings. Bigger ones, and Amazon, are searched with new-grad and role keywords instead; COVERAGE says which.
+FULL_MAX = 1500
+COVERAGE = {}  # spec kind -> 'full' or a note on what was searched
+NEWGRAD_Q = ('new grad', 'university', 'early career', 'college graduate', 'entry level', 'graduate', '2027',
+             'associate', 'junior', 'software engineer I')
+
+
 def b_sr(cid, q=''):
     out, off = [], 0
     while True:
@@ -86,61 +108,102 @@ def b_sr(cid, q=''):
             out.append((j['name'], f"{loc.get('city', '')}, {loc.get('region', '')}, {loc.get('country', '')}",
                         (j.get('releasedDate') or '')[:10], f"https://jobs.smartrecruiters.com/{cid}/{j['id']}"))
         off += 100
-        if off >= d.get('totalFound', 0) or off > 1000:
+        if off >= d.get('totalFound', 0) or off >= 10000:
             break
     return out or None
 
 
-def b_wd(spec, queries=('new grad', 'university', 'early career', 'college graduate', 'entry level', 'graduate',
-                        '2027', 'associate software', 'software engineer I', 'junior')):
+def searched(fetch, queries, kind, total):
+    """Run each keyword search through `fetch(q)` (a list of postings or None); de-duplicate by URL."""
+    out, seen, ok = [], set(), False
+    for q in queries:
+        r = fetch(q)
+        if r is None:
+            continue
+        ok = True
+        for j in r:
+            if j[3] not in seen:
+                seen.add(j[3])
+                out.append(j)
+    COVERAGE[kind] = (f'SEARCHED, NOT THE FULL BOARD: {total if total else "too many"} postings, so only these '
+                      f'searches were run: {", ".join(queries)}. Search the careers page for anything else.')
+    return out if ok else None
+
+
+def b_wd(spec):
     tenant, pod, site = spec.split('/')
     base = f'https://{tenant}.{pod}.myworkdayjobs.com'
-    out, seen, ok = [], set(), False
-    for q in queries:
-        d = get(f'{base}/wday/cxs/{tenant}/{site}/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': q})
-        if d is None:
-            continue
-        ok = True
-        for j in d.get('jobPostings', []):
-            p = j.get('externalPath', '')
-            if p in seen:
-                continue
-            seen.add(p)
-            out.append((j.get('title', ''), j.get('locationsText', ''), j.get('postedOn', ''), f'{base}/{site}{p}'))
-    return out if ok else None
+
+    def page(q, cap):
+        out, total = [], None
+        for off in range(0, cap, 20):
+            d = get(f'{base}/wday/cxs/{tenant}/{site}/jobs', {'appliedFacets': {}, 'limit': 20, 'offset': off, 'searchText': q})
+            if d is None:
+                return (None, None) if off == 0 else (out, total)
+            if total is None:
+                total = d.get('total') or 0  # Workday only reports the total on the first page
+            for j in d.get('jobPostings', []):
+                p = j.get('externalPath', '')
+                out.append((j.get('title', ''), j.get('locationsText', ''), j.get('postedOn', ''), f'{base}/{site}{p}'))
+            if off + 20 >= total or not d.get('jobPostings'):
+                break
+        return out, total
+
+    first, total = page('', 20)
+    if first is None:
+        return None
+    if total <= FULL_MAX:
+        COVERAGE['wd'] = 'full'
+        return page('', FULL_MAX)[0]
+    return searched(lambda q: page(q, 800)[0], NEWGRAD_Q + ROLEQ, 'wd', total)
 
 
-def b_oracle(spec, queries=('graduate', 'new grad', 'university', 'entry level', 'early career', 'associate', 'software engineer')):
+def b_oracle(spec):
     host, site = spec.rsplit('/', 1)
-    out, seen, ok = [], set(), False
-    for q in queries:
-        u = (f'https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true'
-             f'&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber={site},limit=50,'
-             f'keyword={urllib.parse.quote(q)},sortBy=POSTING_DATES_DESC')
-        d = get(u)
-        if not d or not d.get('items'):
-            continue
-        ok = True
-        for r in d['items'][0].get('requisitionList', []):
-            if r['Id'] in seen:
-                continue
-            seen.add(r['Id'])
-            out.append((r['Title'], r.get('PrimaryLocation', ''), r.get('PostedDate', ''),
-                        f'https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{r["Id"]}'))
-    return out if ok else None
+
+    def page(q, cap):
+        out, total = [], None
+        for off in range(0, cap, 50):
+            u = (f'https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true'
+                 f'&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber={site},limit=50,offset={off},'
+                 f'keyword={urllib.parse.quote(q)},sortBy=POSTING_DATES_DESC')
+            d = get(u)
+            if not d or not d.get('items'):
+                return (None, None) if off == 0 else (out, total)
+            item = d['items'][0]
+            if total is None:
+                total = item.get('TotalJobsCount') or 0
+            reqs = item.get('requisitionList', [])
+            out += [(r['Title'], r.get('PrimaryLocation', ''), r.get('PostedDate', ''),
+                     f'https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{r["Id"]}') for r in reqs]
+            if len(reqs) < 50:
+                break
+        return out, total
+
+    first, total = page('', 50)
+    if first is None:
+        return None
+    if total <= FULL_MAX:
+        COVERAGE['oracle'] = 'full'
+        return page('', FULL_MAX)[0]
+    return searched(lambda q: page(q, 500)[0], NEWGRAD_Q + ROLEQ, 'oracle', total)
 
 
 def b_amazon(_=''):
-    out, seen = [], set()
-    for q in ('new grad', 'university graduate', 'early career', '2027', 'software development engineer I'):
-        d = get(f'https://www.amazon.jobs/en/search.json?base_query={urllib.parse.quote(q)}&country=USA&result_limit=100')
-        for j in (d or {}).get('jobs', []):
-            if j['id_icims'] in seen:
-                continue
-            seen.add(j['id_icims'])
-            out.append((j['title'], j.get('normalized_location', ''), j.get('posted_date', ''),
-                        'https://www.amazon.jobs' + j['job_path']))
-    return out or None
+    """Amazon has tens of thousands of postings: always searched."""
+    def fetch(q):
+        out = []
+        for off in range(0, 1000, 100):
+            d = get(f'https://www.amazon.jobs/en/search.json?base_query={urllib.parse.quote(q)}&country=USA'
+                    f'&result_limit=100&offset={off}')
+            jobs = (d or {}).get('jobs', [])
+            out += [(j['title'], j.get('normalized_location', ''), j.get('posted_date', ''),
+                     'https://www.amazon.jobs' + j['job_path']) for j in jobs]
+            if len(jobs) < 100:
+                break
+        return out
+    return searched(fetch, ('new grad', 'university graduate', 'early career', '2027', 'software development engineer I')
+                    + ROLEQ, 'amazon', None)
 
 
 def b_pinpoint(sub):
@@ -151,40 +214,101 @@ def b_pinpoint(sub):
             for j in d['data']]
 
 
-def b_eightfold(spec, queries=('graduate', 'new grad', 'university', 'early career', 'entry level', 'associate', 'software engineer')):
+def b_eightfold(spec):
     host, domain = spec.split('/')
-    out, seen, ok = [], set(), False
-    for q in queries:
-        d = get(f'https://{host}/api/pcsx/search?domain={domain}&query={urllib.parse.quote(q)}'
-                f'&location=United%20States&start=0')
-        if not d or not isinstance(d.get('data'), dict):
-            continue
-        ok = True
-        for p in d['data'].get('positions', []):
-            if p['id'] in seen:
-                continue
-            seen.add(p['id'])
-            ts = p.get('postedTs') or p.get('creationTs')
-            out.append((p['name'], ';'.join(p.get('standardizedLocations') or p.get('locations') or []),
-                        dt.date.fromtimestamp(ts).isoformat() if ts else '', f"https://{host}{p.get('positionUrl', '')}"))
-    return out if ok else None
+
+    def page(q, cap):
+        out, start = [], 0
+        while start < cap:
+            d = get(f'https://{host}/api/pcsx/search?domain={domain}&query={urllib.parse.quote(q)}'
+                    f'&location=United%20States&start={start}')
+            if not d or not isinstance(d.get('data'), dict):
+                return None if start == 0 else out
+            positions = d['data'].get('positions', [])
+            for p in positions:
+                ts = p.get('postedTs') or p.get('creationTs')
+                out.append((p['name'], ';'.join(p.get('standardizedLocations') or p.get('locations') or []),
+                            dt.date.fromtimestamp(ts).isoformat() if ts else '', f"https://{host}{p.get('positionUrl', '')}"))
+            if not positions:
+                break
+            start += len(positions)
+        return out
+
+    full = page('', FULL_MAX + 1)
+    if full is None:
+        return None
+    if len(full) <= FULL_MAX:
+        COVERAGE['eightfold'] = 'full (US locations)'
+        return full
+    return searched(lambda q: page(q, 500), NEWGRAD_Q + ROLEQ, 'eightfold', f'over {FULL_MAX}')
 
 
 BOARDS = {'amazon': b_amazon, 'levereu': lambda s: b_lever(s, 'api.eu.lever.co'), 'pinpoint': b_pinpoint,
           'eightfold': b_eightfold, 'gh': b_gh, 'lever': b_lever, 'ashby': b_ashby, 'sr': b_sr, 'wd': b_wd, 'oracle': b_oracle}
 
 
-def board(spec, show_all=False):
+def tag(title):
+    """A hint for the reader, never a filter: every fetched posting is printed."""
+    if NEWGRAD.search(title) and ROLE.search(title) and not SKIP.search(title):
+        return 'new-grad title'
+    if ENGROLE.search(title) and ROLE.search(title) and not SKIP.search(title) and not HIGHER.search(title):
+        return 'unlabeled eng'
+    if ENGROLE.search(title) and ROLE.search(title):
+        return 'senior/intern?'
+    return 'other'
+
+
+ORDER = ('new-grad title', 'unlabeled eng', 'senior/intern?', 'other')
+
+
+def board(spec, show_all=True):
     kind, _, rest = spec.partition(':')
+    COVERAGE.clear()
     jobs = BOARDS[kind](rest)
     if jobs is None:
         print(f'{spec}: not found / no response')
         return None
-    hits = [j for j in jobs if show_all or (NEWGRAD.search(j[0]) and ROLE.search(j[0]) and not SKIP.search(j[0]))]
-    print(f'{spec}: {len(jobs)} postings fetched, {len(hits)} shown')
-    for j in hits:
-        print('  ' + ' | '.join(str(x) for x in j))
+    cov = COVERAGE.get(kind, 'full')
+    counts = {t: sum(1 for j in jobs if tag(j[0]) == t) for t in ORDER}
+    print(f'{spec}: {len(jobs)} postings. Coverage: {cov}')
+    print('Every posting is listed. Tags are hints from the title only; judge each yourself. '
+          + ', '.join(f'{t}: {n}' for t, n in counts.items()))
+    for j in sorted(jobs, key=lambda j: ORDER.index(tag(j[0]))):
+        print(f'  [{tag(j[0])}] ' + ' | '.join(str(x) for x in j))
     return jobs
+
+
+def screen(target):
+    """Open postings and print what decides their level. target: a SPEC (screens its 'new-grad title' and
+    'unlabeled eng' postings) or one or more posting URLs you picked from `board`."""
+    import concurrent.futures as cf
+    if target and target[0].startswith('http'):
+        picks = [(u, '', '', u) for u in target]
+    else:
+        kind, _, rest = target[0].partition(':')
+        jobs = BOARDS[kind](rest)
+        if jobs is None:
+            print(f'{target[0]}: not found / no response')
+            return
+        picks = [j for j in jobs if tag(j[0]) in ('new-grad title', 'unlabeled eng')]
+        print(f'{target[0]}: screening {len(picks)} postings tagged new-grad title / unlabeled eng '
+              f'(pass URLs to screen others)')
+    with cf.ThreadPoolExecutor(8) as ex:
+        for j, p in zip(picks, ex.map(lambda j: posting(j[3]), picks)):
+            if isinstance(p, dict):
+                print(f"- {p['title']} | {'; '.join(p['locations'])[:120]} | {j[3]}")
+            else:
+                print(f'- {j[0]} | {j[1]} | {j[3]}')
+                print('    (could not read the posting via API: open it in the browser pane)')
+                continue
+            lines = [m.group(0).strip() for rx in (LEVEL, YEARS) for m in rx.finditer(p['text'])]
+            for x in list(dict.fromkeys(lines))[:5]:
+                print('    >', x[:200])
+            pay = list(dict.fromkeys(m.group(0) for m in PAY.finditer(p['text'])))[:2]
+            if pay:
+                print('    $', '; '.join(pay))
+            if not lines:
+                print('    (no years or level line found: read the posting)')
 
 
 def guess(name, extra):
@@ -357,7 +481,9 @@ if __name__ == '__main__':
     if not a:
         print(__doc__)
     elif a[0] == 'board':
-        board(a[1], '--all' in a)
+        board(a[1])
+    elif a[0] == 'screen':
+        screen(a[1:])
     elif a[0] == 'guess':
         guess(a[1], a[2:])
     elif a[0] == 'workday':
