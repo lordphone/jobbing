@@ -1,7 +1,7 @@
 {
   "company": "Costco",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.costco.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.costco.com JSON API 2026-10-07: keyword and category queries (IT, Home/Regional Offices) return no software/IT postings; board holds warehouse/depot roles. 1 web search found only old 2024-25 experienced Issaquah SWE listings. No new-grad SWE program.",
+  "evidence": "careers.costco.com 2026-10-08 (browser + JSON API): Information Technology category shows 0 results; keyword software/engineer/developer/data scientist/early career return no tech roles; Home/Regional Offices has 5 non-tech. 1 web search found only old 2024-25 experienced Issaquah SWE listings. No new-grad SWE program.",
   "confidence": "medium"
 }

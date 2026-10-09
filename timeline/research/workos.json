@@ -1,15 +1,15 @@
 {
   "company": "WorkOS",
-  "tier": 6,
+  "tier": 3,
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
+  "last_cycle_basis": "unknown; no tracker history found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/workos",
   "jobs_spec": "ashby:workos",
-  "evidence": "Ashby board 2026-10-07 (30 postings, full), text read via Ashby API: all engineering roles ask 3-8+ yrs or list $175K-$275K pay; Applied AI and Design Engineer state no years but pay $175K-$225K+. No new-grad or entry-level track.",
+  "evidence": "Ashby board 2026-10-08, 30 postings (full), text read via API: engineering roles ask 5-8+ yrs or list $175K-$275K pay; SRE, Applied AI and Design Engineer state no years but carry the same pay band. No entry-level SWE or new-grad track.",
   "confidence": "high",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-08"
 }

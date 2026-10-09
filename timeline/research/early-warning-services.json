@@ -1,15 +1,15 @@
 {
   "company": "Early Warning Services (Zelle)",
   "tier": 5,
-  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker: Software Engineer - Java - Contract first seen 2025-11-21 (contract), SDE 1 - RPA 2026-03-30; no confirmed Jul 2025-Jan 2026 new-grad SWE",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": true,
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers",
   "jobs_spec": "wd:earlywarning/wd5/earlywarningcareers",
-  "evidence": "Workday board 2026-10-07 (73, full): only Senior/Staff/Principal/Data Engineer II (2-4 yrs); no entry SWE. Tracker-seen 'Software Engineer - Java - Paze' (first seen 2026-09-28) page now says 'page doesn't exist' in browser, so closed. Citizenship line carried over from an earlier read, not re-verified.",
-  "confidence": "medium"
+  "evidence": "Workday full board 2026-10-08 (73): only Senior/Staff/Principal/Data Engineer II; no entry SWE. Tracker-seen 'Software Engineer - Java - Paze' (first seen 2026-09-28) is not on the board and the page was gone in a browser check 2026-10-07, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

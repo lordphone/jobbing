@@ -1,15 +1,42 @@
 {
   "company": "Morgan Stanley",
-  "tier": 5,
-  "checked": "2026-10-07",
-  "status": "not_yet",
-  "postings": [],
+  "tier": 4,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate, Software Engineer",
+      "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776",
+      "location": "New York, NY",
+      "opened": "on or before 2026-09-08",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"one (1) year of experience in the position offered\"; Master's; develops and maintains Java applications in agile teams",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate, Software Engineer",
+      "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR042832",
+      "location": "New York, NY",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"two (2) years of experience in the position offered\"; software development team member, no lead duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-10-16",
   "last_cycle_basis": "tracker history: 'Associate Software Engineer' NYC first seen 2025-10-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ms.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:ms/wd5/External",
-  "evidence": "Workday full board 2026-10-07 (320): Associate, Software Engineer (NY, Alpharetta) require 2-3 yrs specific stack and lead work, associate-rank, not entry-level; Associate Data & Technology (Seattle) same. 2027 Technology Summer Analyst programs exist; no 2027 full-time Technology Analyst posting on board yet.",
-  "confidence": "medium"
+  "evidence": "Workday full board 2026-10-08 (1338): two NYC Associate, Software Engineer postings ask only 1 and 2 yrs with non-senior duties; Alpharetta (5 yrs), other NYC (3 yrs), AI Integration (3-5), Backend (8+) not counted. Associate rank, not a labeled program; no 2027 FT Analyst posting.",
+  "confidence": "low"
 }

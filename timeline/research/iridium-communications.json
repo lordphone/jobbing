@@ -1,29 +1,15 @@
 {
   "company": "Iridium Communications",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "closed",
-  "postings": [
-    {
-      "title": "Engineer 1 - Software Engineer",
-      "url": "https://careers-iridium.icims.com/jobs/5047/job",
-      "location": "Reston, VA; Chandler, AZ",
-      "opened": "2026-07-24",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
   "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "Tracker first seen 2025-07-01: Engineer I - Software Developer, Reston VA / Chandler AZ (https://careers-iridium.icims.com/jobs/4605/job)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen; Engineer I - Software Developer, Reston VA / Chandler AZ (careers-iridium.icims.com/jobs/4605/job)",
   "jobs_page": "https://careers-iridium.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS search (3 pages, all read) 2026-10-07: no entry-level full-time SWE; only Summer 2027 Software Engineering and Ops internships plus Senior/III/Principal roles. Engineer 1 - Software Engineer (jobs/5047, tracker first seen 2026-07-24) returns 'could not be found': closed. Iridium reposts SWE 1 roles repeatedly.",
-  "confidence": "medium"
+  "evidence": "iCIMS search read in browser 2026-10-08 (3 pages): only Summer 2027 SWE/Systems interns plus Senior, III, Principal and Director software roles. Engineer 1 - Software Engineer (careers-iridium.icims.com/jobs/5047, tracker first seen 2026-07-24, Reston VA/Chandler AZ) now returns 410 gone, so closed. Iridium reposts SWE 1 roles repeatedly.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,15 +1,15 @@
 {
   "company": "PwC",
-  "tier": 10,
-  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": "unknown",
+  "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history found no SWE-titled PwC posting between 2025-07 and 2026-01; closest prior entry is 'Associate - Data Engineer' (Tampa) active 2026-03-13",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers",
   "jobs_spec": "wd:pwc/wd3/US_Entry_Level_Careers",
-  "evidence": "Workday API 2026-10-07: US_Entry_Level_Careers 69 reqs, all audit/tax/consulting/DAT/intern; no SWE title; search 'TIDE' returns 0. Prior browser check: TIDE Software Engineering Associate Summer/Fall 2027 page said it doesn't exist (gone).",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-08 (69): all audit/tax/consulting/DAT (assurance data) associates and interns; no SWE title; searches 'software engineering' and 'TIDE' return 0. TIDE Software Engineering Associate Summer/Fall 2027 (seen ~2026-09-02) is gone.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

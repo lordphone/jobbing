@@ -66,7 +66,7 @@ mv resume.pdf Lordphone_Wen_Resume.pdf
    CMU alumni:
 
 ```text
-Hi [Name]! I'm at CMU for my master's and applying for [Company]'s [Role] role ([Job ID]). [Pitch] Any chance you'd refer me? Kept it short out of respect for your time, but I'd love to chat if you're open to it. Thanks!
+Hi [Name]! I'm at CMU for my master's and applying for [Company]'s [Role] role. Would you be open to taking a look at my resume, and referring me if it seems like a fit? Kept it short out of respect for your time, but I'd love to chat more if you're open to it. Thanks!
 ```
 
    UW–Madison alumni:
@@ -93,7 +93,7 @@ Hi [Name]! I'm a CMU master's student and just applied for [Company]'s [Role] ro
    - Keep the voice casual and human. Do not add polished filler ("I'd be thrilled", "leverage", "passionate"). Keep the closing sentence as written; it frames the note around respecting their time.
    - Use the role's short form if the posting title is long, for example "SWE New Grad" instead of "Software Engineer, New College Grad - 2027". Keep it recognizable. `[Role]` is followed by the word "role", so do not end it with "role".
    - If the JD has no job ID, drop ` ([Job ID])`. Do not invent one.
-   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. With the default pitch, the fixed text is 253 (CMU), 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters, so company + role + job ID get about 47, 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Report each final count in the reply.
+   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. The CMU note has no `[Pitch]` and no `[Job ID]`; its fixed text is 258 characters. With the default pitch, the fixed text is 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters. So company + role get about 42 (CMU), and company + role + job ID get about 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Report each final count in the reply.
 
 ## Reply format
 

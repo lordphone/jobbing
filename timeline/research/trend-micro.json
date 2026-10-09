@@ -1,15 +1,15 @@
 {
-  "company": "Trend Micro",
-  "tier": 6,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history 2024-2026 shows only Canada (Ottawa) new-grad/entry SWE roles (e.g. Software Developer, Applied AI Backend Engineer), no US postings.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://trendmicro.wd3.myworkdayjobs.com/External",
-  "jobs_spec": "wd:trendmicro/wd3/External",
-  "evidence": "Workday API 2026-10-07 (213 postings, full): only fresh-grad roles are Manila/Taipei; US/Canada postings are sales, architects, infra (Austin SecDevOps, sysadmin-style). Tracker history shows Ottawa new-grad only. No US entry SWE.",
-  "confidence": "high"
+ "company": "Trend Micro",
+ "tier": 5,
+ "status": "no_program_found",
+ "postings": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Tracker history 2024-2026 shows only Ottawa, Canada entry SWE roles (outside US/Toronto/Vancouver scope); no US new-grad posting found.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://trendmicro.wd3.myworkdayjobs.com/External",
+ "jobs_spec": "wd:trendmicro/wd3/External",
+ "evidence": "Workday API 2026-10-08 (213 postings, full): fresh-grad roles only Manila/Taipei. US postings are Staff/Senior SWE, sales, and Austin SecDevOps (sysadmin/network infra, not SWE). Ottawa-only entry history. Opened Austin SecDevOps page to judge.",
+ "confidence": "high",
+ "checked": "2026-10-08"
 }

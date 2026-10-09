@@ -1,15 +1,15 @@
 {
   "company": "Cribl",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2026-01-21",
-  "last_cycle_basis": "tracker first seen: Software Engineer - Core Platform (Remote USA), https://job-boards.greenhouse.io/cribl/jobs/5728001004; unlabeled entry level",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: Software Engineer - Core Platform first seen 2026-01-21 (unlabeled, not clearly new-grad); no new-grad program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cribl",
   "jobs_spec": "gh:cribl",
-  "evidence": "Greenhouse API 2026-10-07 (66 postings, full): only non-senior SWE is Software Engineer, Core Platform (US remote, $150-175K, no years stated, end-to-end ownership/on-call; FedRAMP 'may include U.S. citizenship'); not clearly entry-level so not counted. Rest Sr/Staff/sales eng.",
-  "confidence": "medium"
+  "evidence": "Greenhouse board 2026-10-08, 66 postings (full): only non-senior SWE is Software Engineer, Core Platform (US remote, $150-175K, no years stated, 'set technical direction', end-to-end ownership/on-call): unclear, not counted. Rest are Senior/Staff/sales engineers.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

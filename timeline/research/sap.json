@@ -1,7 +1,7 @@
 {
   "company": "SAP",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2024-09-13",
@@ -10,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07 on careers.sap.com: US Graduate filter = 19 SAP Academy for Customer Success (CSM/Solution Advisor) roles, no SWE; Canada Graduate = 1 CSM. US Software-Design and Development (42) are senior/principal/data science; Developer (Palo Alto) needs 3-5 yrs. No 2027 SWE grad posting yet.",
-  "confidence": "medium",
-  "jobs_spec_basis": "Careers site has no API; filters Graduate (customfield3) and country worked in browser"
+  "evidence": "careers.sap.com fetched 2026-10-08: US Graduate filter = 19 SAP Academy for Customer Success (CSM/Solution Advisor), no SWE; US Software-Design (42) all senior/principal/data science; Canada no SWE. STAR program (Newtown Square) is a student co-op, iXp are interns. No 2027 SWE grad posting.",
+  "confidence": "medium"
 }

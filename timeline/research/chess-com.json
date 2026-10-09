@@ -1,12 +1,15 @@
 {
   "company": "Chess.com",
-  "tier": 9,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE in tracker history; unknown",
+  "last_cycle_basis": "No this-cycle or last-cycle entry-level SWE posting found; no tracker history.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.chess.com/jobs",
   "jobs_spec": null,
-  "evidence": "Rippling ATS board 'chess' (linked from chess.com/jobs) 2026-10-07, 13 postings: Engineering Internship, Security Engineer and SRE (Spain), Senior Design Engineer, Sr Mgr Data Science; no entry full-time SWE.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Browser read of chess.com/jobs 2026-10-08, 12 roles: Engineering Internship, Security Engineer, SRE, Senior Manager Data Science, Senior Design Engineer; all remote. No entry-level SWE. Job list is the Rippling board linked from the page.",
+  "confidence": "medium"
 }

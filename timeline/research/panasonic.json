@@ -1,11 +1,35 @@
 {
   "company": "Panasonic",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer (Full Stack)", "url": "https://careers.na.panasonic.com/jobs/49874", "location": "Irvine, CA", "opened": "2026-07-30", "date_source": "jibe api posted_date", "deadline": null, "grad_window": null, "live_verified": "api", "level": "unlabeled", "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE; no senior duties", "no_sponsorship": false},
-    {"title": "Software Engineer - Embedded / Linux", "url": "https://careers.na.panasonic.com/jobs/50895", "location": "Irvine, CA", "opened": "2026-09-29", "date_source": "jibe api posted_date", "deadline": null, "grad_window": null, "live_verified": "api", "level": "unlabeled", "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE", "no_sponsorship": false}
+    {
+      "title": "Software Engineer (Full Stack)",
+      "url": "https://careers.na.panasonic.com/jobs/49874",
+      "location": "Irvine, CA",
+      "opened": "2026-07-30",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE; no senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Embedded / Linux",
+      "url": "https://careers.na.panasonic.com/jobs/50895",
+      "location": "Irvine, CA",
+      "opened": "2026-09-29",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE",
+      "no_sponsorship": false
+    }
   ],
   "last_cycle_opened": "2025-09-10",
   "last_cycle_basis": "tracker first seen: Software Engineer 1 - Microservices, Beaverton OR (careers.na.panasonic.com/jobs/44350)",
@@ -13,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.na.panasonic.com/jobs",
   "jobs_spec": null,
-  "evidence": "Read all 428 postings via careers.na.panasonic.com Jibe API 2026-10-07. Irvine CA Software Engineer (Full Stack, 49874) and Embedded/Linux (50895) are listed with apply links, ask 0-3 yrs, no citizenship line (Avionics; only 'valid authorization to work in the U.S.'). 49873 asks 8+ yrs; others Sr/MTS III+. Not opened in a browser.",
+  "evidence": "Read all 425 postings via careers.na.panasonic.com Jibe API 2026-10-08. Irvine CA Software Engineer (Full Stack, 49874) and Embedded/Linux (50895) are listed with apply links, ask 0-3 yrs, no citizenship line (Avionics; only 'valid authorization to work in the U.S.'). 49873 asks 8+ yrs; Software Implementation Engineer (Hoffman Estates) is install/support; others Sr/MTS III+. Not opened in a browser.",
   "confidence": "medium"
 }

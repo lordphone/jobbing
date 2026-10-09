@@ -1,21 +1,59 @@
 {
   "company": "KLA",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
-      "title": "Engr, Software 2 (4 reqs: 2640144, 2640145, 2640146, 2640148)",
+      "title": "Engr, Software 2",
       "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640144",
       "location": "Ann Arbor, MI",
       "opened": "2026-09-21",
       "date_source": "tracker first seen (Workday startDate 2026-09-22)",
-      "live_verified": "api",
       "deadline": null,
       "grad_window": null,
+      "live_verified": "api",
       "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "Minimum Qualifications: Master's degree or work experience of 0 years, Bachelor's with 1 year"
+      "level_basis": "Minimum qualifications: Master's 0 years, Bachelor's 1 year",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engr, Software 2",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640145",
+      "location": "Ann Arbor, MI",
+      "opened": "2026-09-21",
+      "date_source": "tracker first seen (Workday startDate 2026-09-22)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum qualifications: Master's 0 years, Bachelor's 1 year",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engr, Software 2",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640146",
+      "location": "Ann Arbor, MI",
+      "opened": "2026-09-21",
+      "date_source": "tracker first seen (Workday startDate 2026-09-22)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum qualifications: Master's 0 years, Bachelor's 1 year",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engr, Software 2",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640148",
+      "location": "Ann Arbor, MI",
+      "opened": "2026-09-21",
+      "date_source": "tracker first seen (Workday startDate 2026-09-22)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum qualifications: Master's 0 years, Bachelor's 1 year",
+      "no_sponsorship": false
     },
     {
       "title": "Engr, Software 1",
@@ -27,17 +65,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "Minimum Qualifications: Bachelor's degree and 0 years related work experience (listed Part time)"
+      "level_basis": "Minimum qualifications: Master's 0 years, Bachelor's 1 year (part-time posting)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-06-29",
-  "last_cycle_basis": "tracker first seen: New Grad: Software Engineer (Milpitas, CA), kla.wd1.myworkdayjobs.com, 2025-06-29 (a 2024-09 posting also existed)",
+  "last_cycle_basis": "tracker first seen: New Grad: Software Engineer (Milpitas, CA), kla.wd1.myworkdayjobs.com, 2025-06-29",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://kla.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:kla/wd1/Search",
-  "evidence": "Workday cxs 2026-10-07: Ann Arbor Engr, Software 2 (4 reqs, full time) and Engr, Software 1 (part time) both canApply, 0-1 yr minimums. Milpitas/Full-Stack/HPC SWE need 3-5+ yrs. 2027 Campus SWE are China only. No sponsorship text found, no end date.",
-  "confidence": "high",
-  "jobs_spec_basis": "Search site (526 postings) readable via Workday cxs; jobs.py board wd:kla/wd1/Search returned not found. Ann Arbor roles are on separate site wd:kla/wd1/annarbor."
+  "evidence": "Main Search board (1079, full) has no entry US SWE; the separate Ann Arbor Workday site (wd:kla/wd1/annarbor, 54, full) lists Engr, Software 2 (x4) and Software 1, canApply true, MS 0 yrs / BS 1 yr minimum, no end date. Milpitas SWE need more experience; 2027 Campus SWE are China only.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

@@ -1,26 +1,29 @@
 {
   "company": "Pacific Northwest National Laboratory (PNNL)",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
-      "title": "Early Career Software Engineer",
-      "url": "https://careers.pnnl.gov/jobs/12171",
+      "title": "DevOps/Platform Engineer II",
+      "url": "https://careers.pnnl.gov/jobs/11909",
       "location": "Richland, WA",
-      "opened": "2026-09-24",
+      "opened": "2026-07-10",
       "date_source": "jibe api posted_date",
-      "deadline": "2026-10-07",
+      "deadline": "2026-10-09",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: PhD or MS/MA or BS/BA and two years of professional software development experience",
+      "no_sponsorship": false
     }
   ],
-  "last_cycle_basis": "tracker history only shows postdoc postings (2026-08); no earlier new-grad SWE found",
-  "excluded_reason": "clearance",
-  "jobs_page": "https://careers.pnnl.gov",
-  "evidence": "Jibe API 2026-10-07 (44 software hits): Early Career SWE 12171 (posted 2026-09-24, expiry 2026-10-07, page 200) states 'requires the ability to obtain and maintain a federal security clearance'; Software Engineer II 12172 is BS+2 yrs, same lab. Excluded for clearance.",
-  "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-07",
   "last_cycle_opened": null,
+  "last_cycle_basis": "tracker history shows only postdoc postings (2026-08); no earlier new-grad SWE found",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
-  "jobs_spec": null
+  "jobs_page": "https://careers.pnnl.gov",
+  "jobs_spec": null,
+  "evidence": "Jibe API (72 jobs) re-read 2026-10-08. Early Career SWE 12171 gone (expired 10-07). Entry-level DevOps/Platform Eng II 11909 (MS qualifies) and Data Scientist II 12025: 'requires the ability to obtain and maintain a federal security clearance'. Rest senior/Lead.",
+  "confidence": "high"
 }

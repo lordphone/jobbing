@@ -1,15 +1,15 @@
 {
   "company": "Karman Space & Defense",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no software new-grad posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://karman-sd.com/job-openings/",
   "jobs_spec": null,
-  "evidence": "ADP WorkforceNow requisitions JSON (cid 82153303-7d5a-4833-b767-9cb13d965e09) read in full 2026-10-07 (250 postings): no software, ML or data engineer title; engineering titles are mechanical, design, development, manufacturing, quality, systems and technicians. No citizenship line checked.",
-  "confidence": "high"
+  "evidence": "ADP WorkforceNow requisitions API (cid 82153303-7d5a-4833-b767-9cb13d965e09) 2026-10-08, all 250 paged: no software, ML or data engineer title; engineering titles are Development Engineer I-III (hypersonics hardware), manufacturing, design, program and technician roles. Technical PM roles require Secret clearance.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,15 +1,15 @@
 {
   "company": "Jerry",
-  "tier": 3,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-04",
-  "last_cycle_basis": "jobs.py history: rolling 'Software Engineer I' reqs (Palo Alto, Toronto) first seen 2025-06-02 to 2025-07-04, reposted through 2025; entry SWE again Mar 2026.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: rolling 'Software Engineer I' reqs (SF/Palo Alto, Toronto) first seen 2025-06 to 2025-07-04, reposted through 2025; 'Software Engineer - Entry' / 'Associate Software Engineer' again Dec 2025-Mar 2026.",
   "jobs_page": "https://jobs.ashbyhq.com/Jerry.ai",
   "jobs_spec": "ashby:Jerry.ai",
-  "evidence": "Ashby API 2026-10-07 (44 postings, full board): sales, BizOps, data science, product, support, 'in-training' programs; no software engineering role. Same as prior check; SWE I roles existed 2025 and Mar 2026.",
+  "evidence": "Ashby API 2026-10-08 (44 postings, full): sales, BizOps, data science, product, support, in-training programs; no software engineering role now. Entry SWE reqs recur on a rolling basis.",
   "confidence": "high"
 }

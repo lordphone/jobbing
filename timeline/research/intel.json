@@ -1,7 +1,7 @@
 {
   "company": "Intel",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Job Type 'College Grad'; Bachelor's CS; $117,620-166,060. Caveat: asks 3+ yrs and mentions technical leadership of contractor teams",
+      "level_basis": "Job Type 'College Grad'; Bachelor's CS; $117,620-166,060. Caveat: asks 3+ yrs software and 2+ yrs cloud, and mentions technical leadership of contractor teams",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://intel.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:intel/wd1/External",
-  "evidence": "Workday board 2026-10-07 (360, full) + cxs detail: Foundry Cloud Services Developer live, Job Type 'College Grad' but 3+ yrs and some lead duties (borderline). Datacenter SWE (Santa Clara) needs US citizenship/clearance; Toronto compiler roles are Experienced Hire; other SWE roles 3+ yrs or Penang grad.",
+  "evidence": "Workday board 2026-10-08 (644, full) + cxs: only Foundry Cloud Services Developer is Job Type 'College Grad' but asks 3+ yrs and has lead duties (borderline). Datacenter SWE, Phoenix/Folsom SDEs need US citizenship/clearance; Cloud SDE needs 4+ yrs; Toronto compiler roles are Experienced Hire.",
   "confidence": "low"
 }

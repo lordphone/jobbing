@@ -1,7 +1,7 @@
 {
   "company": "The ODP Corporation (Office Depot)",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.officedepot.com/search/jobs",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: 1124 jobs; Area of Talent facets only HR, Merchandising, Printing, Store Ops, Stores. All 9 hybrid + 1 remote corporate roles are merchandising/HR/client services; no engineering or IT postings.",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-08: careers.officedepot.com search for software (8), engineer/developer/graduate (0), data (19): all merchandising, HR, printing or store roles; no technology area of talent. No SWE roles.",
+  "confidence": "medium"
 }

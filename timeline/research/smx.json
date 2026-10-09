@@ -1,7 +1,7 @@
 {
   "company": "SMX",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -14,16 +14,55 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Junior; 1+ years of relevant software experience; bachelor's in CS",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Front End Web Applications Developer (Junior) (5657)",
+      "url": "https://www.smxtech.com/careers/?gh_jid=8000876003",
+      "location": "Remote (US), supporting Washington, DC customer",
+      "opened": "2026-09-21",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; 2 years of front-end experience",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Front End Web Applications Developer (Junior) (5660)",
+      "url": "https://www.smxtech.com/careers/?gh_jid=8000963003",
+      "location": "Remote (US), supporting Washington, DC customer",
+      "opened": "2026-09-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; 2 years of front-end experience",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Junior Data Engineer (5566)",
+      "url": "https://www.smxtech.com/careers/?gh_jid=7982420003",
+      "location": "United States (no city listed)",
+      "opened": "2026-09-02",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; 2+ years hands-on development",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-22",
-  "last_cycle_basis": "Tracker last-cycle first seen 2025-08-22 (Software Engineer I, Huntsville); Greenhouse board history",
+  "last_cycle_basis": "Tracker last-cycle first seen 2025-08-22",
   "excluded_reason": "clearance",
   "no_sponsorship": true,
   "jobs_page": "https://www.smxtech.com/careers/",
   "jobs_spec": "gh:smxtech",
-  "evidence": "Greenhouse API 2026-10-07, 122 postings; 4 junior roles read: Junior SWE 'Clearance Required: Secret'; Front End Junior x2 'requires a Public Trust clearance', citizenship required; Junior Data Engineer 'Active Secret Clearance'. SMX does not sponsor.",
+  "evidence": "Greenhouse API 2026-10-08 (126 postings). Junior SWE: 'Clearance Required: Secret'. Front End Junior x2: Public Trust, 'citizenship required to maintain a federal clearance'. Junior Data Engineer: 'Active Secret Clearance'. All say SMX does not sponsor. No non-cleared entry SWE.",
   "confidence": "high"
 }

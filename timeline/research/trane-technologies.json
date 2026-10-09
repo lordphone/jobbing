@@ -1,15 +1,15 @@
 {
   "company": "Trane Technologies",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only Application Engineer, Energy Analyst, finance roles; no entry SWE last cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history 'trane': 2025-12 to 2026-07 entries are Application Engineer / Associate Product Engineer / Junior AI Controls Integrator (Montreal), none software",
   "jobs_page": "https://careers.tranetechnologies.com/global/en/home",
   "jobs_spec": "wd:tranetechnologies/wd12/Trane_Technologies_Careers",
-  "evidence": "Workday board 2026-10-07 (1650, full): 2027 Accelerated Development Program - BrainBox AI is Montreal (not Toronto/Vancouver); Associate Embedded SW Engineer (La Crosse) is embedded software testing; Diagnostics Software Engineer needs 4+ yrs. US entry roles are application/electrical/energy engineering.",
-  "confidence": "medium"
+  "evidence": "Workday CXS searches 2026-10-08 (software, developer, early career, graduate, program, data, AI, associate, junior): 2027 Accelerated Development Program - BrainBox AI is Montreal (not Toronto/Vancouver); US ADP is Accounting & Finance; 2027 interns only for IT, AI & Analytics; software/data roles are Bangalore or senior. No US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,7 +1,7 @@
 {
   "company": "Wayfair",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-10-02",
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.wayfair.com/careers/jobs?selectedJobTypeIds=8%2C4",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: careers page with Early Talent + Entry Level filter loaded once and showed 5 US results, all Boston Summer 2027 business roles (Commercial/Operations/Talent analyst/associate), no engineering. Next loads hit a bot challenge, so a full engineering list was not read. Last cycle's Boston early-career SWE (trackinglink Greenhouse) returns 404.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-08: Early Talent + Entry Level filter loaded once and showed 5 US results, all Boston Summer 2027 business roles, no engineering. Reloads and engineering search hit a bot block (Access denied / 429), so full engineering list not read. Last cycle's Boston early-career SWE board returns 404.",
+  "confidence": "low"
 }

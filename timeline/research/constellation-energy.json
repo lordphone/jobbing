@@ -1,26 +1,15 @@
 {
   "company": "Constellation Energy",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Associate Software Engineer - AI (closed)",
-      "url": "https://jobs.constellationenergy.com/jobs/138264",
-      "location": "Hurstbourne Acres, KY; De Pere, WI; Houston, TX (multi-site)",
-      "opened": "2026-08-27",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting in jobs.py history; Associate SWE-AI (2026-08-27, 2026-09-04 Baltimore) is this cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found Jul 2025-Jan 2026; earliest tracked entry tech postings (Associate SWE - AI, Associate Data Scientist - AI) first seen 2026-08 (this cycle)",
   "jobs_page": "https://jobs.constellationenergy.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-07 (multiple keyword sweeps): no Associate SWE-AI or entry software role; only Manager SWE, analysts, 2027 interns. jobs/138264 and 138781 still 404 (page fetch), so the Aug-Sep Associate Software Engineer - AI postings are closed.",
-  "confidence": "medium"
+  "evidence": "Jibe API 2026-10-08 (314 jobs, multiple keyword sweeps): no Associate Software Engineer - AI or other entry software role; only 2027 summer interns. Associate SWE - AI postings 138264 (2026-08-27, multi-site) and 138781 (2026-09-04, Baltimore) both 404.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

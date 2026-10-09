@@ -1,15 +1,15 @@
 {
   "company": "Quince",
-  "tier": 9,
+  "tier": 4,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-05-20",
-  "last_cycle_basis": "tracker first seen 2026-05-20 'Software Development Engineer New Grad', Palo Alto (job-boards.greenhouse.io/quince/jobs/5226786008), since closed; spring timing",
+  "last_cycle_basis": "tracker first seen 2026-05-20 'Software Development Engineer New Grad', Palo Alto (job-boards.greenhouse.io/quince/jobs/5226786008), now off the board and redirects to the board; spring timing",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/quince",
   "jobs_spec": "gh:quince",
-  "evidence": "Greenhouse API read in full 2026-10-07 (142): US SWE roles are Software Engineer III, Infra & DevOps III, Staff; India SDE II/III. No entry SWE live. A New Grad SDE posting existed in May 2026 and closed, so it has a new-grad track.",
+  "evidence": "Greenhouse API 2026-10-08 (147, full): US software roles are Software Engineer III, Infra & DevOps III, Staff, Principal; India SDE II/III. No entry SWE. May 2026 New Grad SDE posting is gone (page redirects to board); posted before 2026-07-01 so last cycle.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

@@ -1,26 +1,15 @@
 {
   "company": "Rocket Lab",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Flight Software Engineer II",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7983815003",
-      "location": "Littleton, CO",
-      "opened": "2026-09-10",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
   "last_cycle_opened": "2026-01-08",
-  "last_cycle_basis": "tracker first seen: Software Engineer 1/2 - Digital Engineering, Littleton CO (job-boards.greenhouse.io/rocketlab/jobs/7582424003)",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1/2 - Digital Engineering, Littleton CO (job-boards.greenhouse.io/rocketlab/jobs/7582424003); history also Ground Software Engineer 1/2 2026-01-13",
   "excluded_reason": "us person / itar",
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/rocketlab",
   "jobs_spec": "gh:rocketlab",
-  "evidence": "Greenhouse API+detail 2026-10-07 (556 postings): no level-I US SWE live; Flight SW Eng II (Littleton, Long Beach) and SWE II MES say 'US citizenship is required'; all postings carry ITAR 'must be a U.S. person' text. Mechanical Future Grad 2027 is not SWE.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API+detail 2026-10-08 (556): no level-I US SWE live. Flight Software Engineer II says 'U.S. citizenship is required, due to program requirements'; Flight Analysis Engineer I/II needs ability to obtain a DoD Secret clearance; all postings carry ITAR 'Rocket Lab Employees must be a U.S.' person text. Interns only for SWE.",
+  "confidence": "high",
+  "postings": [],
+  "checked": "2026-10-08",
+  "no_sponsorship": false
 }

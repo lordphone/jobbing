@@ -1,7 +1,7 @@
 {
   "company": "Citi",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "leftover_2026",
   "postings": [
     {
@@ -11,8 +11,11 @@
       "opened": "2026-07-23",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "2024 - July 2026",
-      "live_verified": "api"
+      "grad_window": "graduation date 2024 - July 2026 (last-cycle window)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-30",
@@ -21,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://citi.wd5.myworkdayjobs.com/2",
   "jobs_spec": "wd:citi/wd5/2",
-  "evidence": "Workday API 2026-10-07 (160 postings): Junior GenAI App Developer (Irving) still live but requires grad date 2024-July 2026 and no sponsorship (last-cycle window). US 2027 full-time analyst roles are Wealth/finance, not tech. No 2027 tech grad posting yet.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-08 (full, ~2000): Junior GenAI App Developer (Irving, start 2026-10-05 repost, tracker first seen 2026-07-23) live but requires grad date 2024-July 2026 and no sponsorship. Other US/Canada SWE roles ask 2-8 yrs, intermediate. 2027 full-time analyst roles are Wealth; Warsaw tech summer analysts. No 2027 US tech grad posting.",
+  "confidence": "high"
 }

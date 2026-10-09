@@ -1,15 +1,15 @@
 {
   "company": "Publicis Groupe (incl. Publicis Sapient)",
-  "tier": 10,
+  "tier": 5,
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no dated source found; tracker has only Publicis Groupe marketing/data analyst roles",
+  "last_cycle_basis": "no dated source; tracker has only Publicis Groupe marketing/data analyst roles (Aug-Sep 2026); Sapient's early-career page lists a Junior Software Engineer grad role but its Apply now links go to an internship search",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.publicissapient.com/job-search",
   "jobs_spec": null,
-  "evidence": "Sapient search JSON (careers.publicissapient.com/bin/ps-redesign/careersJobsearch) read in full 2026-10-07: 375 postings, 104 US. Entry Level only Java Application Support Engineer (Boston, 2026-09-18; production support, page unreadable) and Associate Consultant (mgmt consulting); US SWE Intern is Class of 2028. No entry SWE; Publicis Groupe agency analyst roles not SWE.",
+  "evidence": "Sapient board 2026-10-08 in browser: 104 US postings, 41 Technology and Engineering, all senior/manager/architect plus a SWE Intern (Class of 2028). Entry Level filter (5): Java Application Support Engineer (Boston, production support, $80-100K, not counted) and Associate Consultant (management consulting). Other Groupe agencies' iCIMS board not enumerated.",
   "confidence": "medium",
-  "checked": "2026-10-07",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "checked": "2026-10-08"
 }

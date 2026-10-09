@@ -1,6 +1,7 @@
 {
   "company": "Domino's Pizza",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -19,9 +20,10 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "not in tracker history for 2025-07 to 2026-01; unknown",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Dominos",
   "jobs_spec": "sr:Dominos",
-  "evidence": "SmartRecruiters API 2026-10-07: Technology Rotation Program active=true, released 2026-08-27; two-year software-development program for Winter/Spring 2027 grads (BS CS/Eng). Other tech roles are SWE II / 5+ yr. No deadline or sponsorship text.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "SmartRecruiters API 2026-10-08: Technology Rotation Program active=true, released 2026-08-27; two-year software-development program for Winter/Spring 2027 grads. Other tech roles are SWE II / 5+ yr or senior. No deadline stated.",
+  "confidence": "high"
 }

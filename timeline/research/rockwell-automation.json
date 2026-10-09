@@ -1,7 +1,5 @@
 {
   "company": "Rockwell Automation",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -9,7 +7,7 @@
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---C--_R26-7383-1",
       "location": "Milwaukee, WI",
       "opened": "2026-09-29",
-      "date_source": "workday startDate (Posted 8 Days Ago)",
+      "date_source": "workday startDate (Posted 9 Days Ago)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -20,10 +18,12 @@
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "jobs.py history: Associate Engineer Embedded Software (Mayfield Heights, OH) first seen 2025-11-13",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
   "jobs_spec": "wd:rockwellautomation/wd1/External_Rockwell_Automation",
-  "evidence": "Workday CXS 2026-10-07: Software Engineer - C++ (Milwaukee, FactoryTalk Optix) live, bachelor's required, 2 yrs preferred, entry-style duties. EDGE IT Rotational Program (R26-5375, 'will not sponsor') seen live 2026-10-06 now returns permission denied and is absent from board search, so likely taken down. Other US SWE roles need 3-5+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday CXS 2026-10-08: Software Engineer - C++ (Milwaukee, FactoryTalk Optix) live, bachelor's required, 2 yrs only preferred, entry-style duties, no sponsorship line. Other US SWE roles (Mayfield Heights 5 yrs, Phoenix 'experienced' no sponsorship, Process Automation) are mid-level. EDGE IT rotational not on board now.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

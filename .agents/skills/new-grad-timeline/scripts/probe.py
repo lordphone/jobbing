@@ -2,7 +2,7 @@
 
 Board sources, in order: timeline/sources.csv specs (found by earlier research), board URLs seen in tracker postings,
 then slug guesses (Greenhouse guesses must match the board's company name). Writes timeline/data/boards.json.
-Takes ~20-30 minutes for all companies.  Usage: probe.py [--only "Company name" ...] [--tier 1-4]
+Takes ~20-30 minutes for all companies.  Usage: probe.py [--only "Company name" ...] [--tier 1-3]
 --only / --tier redo just those companies and keep everyone else's results in boards.json.
 """
 import csv, json, os, re, sys, urllib.request, urllib.error, concurrent.futures as cf, datetime as dt

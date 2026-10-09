@@ -1,15 +1,15 @@
 {
-  "company": "DuPont de Nemours",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no last-cycle posting found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://dupont.wd5.myworkdayjobs.com/jobs",
-  "jobs_spec": "wd:dupont/wd5/jobs",
-  "evidence": "Workday CXS 2026-10-07 (software/developer/engineer/graduate/early career/associate/AI/data/digital/2027): '2027 Full-time Engineering Opportunities' (posted ~2026-09-15) is for plant engineers (chemical/mechanical/industrial), no sponsorship; other 2027 roles are co-ops. No software track.",
-  "confidence": "high"
+ "company": "DuPont de Nemours",
+ "status": "no_program_found",
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; no last-cycle posting found",
+ "no_sponsorship": true,
+ "jobs_page": "https://dupont.wd5.myworkdayjobs.com/jobs",
+ "jobs_spec": "wd:dupont/wd5/jobs",
+ "evidence": "Workday board read in full (195) 2026-10-08: '2027 Full-time Engineering Opportunities' (posted ~2026-09-15) is operations/process engineering, not software; requires no sponsorship. No SWE new-grad track.",
+ "confidence": "medium",
+ "postings": [],
+ "tier": 5,
+ "checked": "2026-10-08",
+ "excluded_reason": null
 }

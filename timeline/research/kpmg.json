@@ -1,14 +1,13 @@
 {
   "company": "KPMG",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
       "title": "Associate, Software Engineer",
       "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135722",
       "location": "Atlanta, GA; Denver, CO; Montvale, NJ; Orlando, FL",
-      "opened": "on or before 2026-10-07",
+      "opened": "on or before 2026-10-08",
       "date_source": "page text (no date shown)",
       "deadline": null,
       "grad_window": null,
@@ -16,14 +15,28 @@
       "level": "unlabeled",
       "level_basis": "requires 'Minimum one year of recent full-time experience in software engineering'; Associate title; career level listed Experienced",
       "no_sponsorship": false
+    },
+    {
+      "title": "Engineer Development",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129633",
+      "location": "Atlanta, GA; Denver, CO",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (no date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires 'Minimum two years of recent experience in software development'; Associate-level Tax role, Master's desired; career level listed Experienced",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "unknown",
   "last_cycle_basis": "No KPMG entries in trackers; no dated prior-cycle posting found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://www.kpmguscareers.com/job-search",
   "jobs_spec": null,
-  "evidence": "kpmguscareers.com search 'software engineer' (80 results): Associate, Software Engineer (Tax; jobId 135722) shows Apply Now, min one year experience, no senior duties. Winter 2027 Tax Tech Engineer 138797 now 'Job Not Found'. Only page 1 read. Page has no posting date. Company no-sponsorship flag kept from the earlier file; not seen in this posting.",
-  "confidence": "medium"
+  "evidence": "kpmguscareers.com search 'software engineer' paged to the end 2026-10-08 (867 results). Two entry-ish SWE postings show Apply Now: Associate, Software Engineer (1 yr) and Engineer Development (2 yrs, 'will not sponsor'). Federal cyber/cloud and Sr. Associate FDE/data roles are senior or likely clearance; 2027 Technology Assurance Associate is audit, not SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

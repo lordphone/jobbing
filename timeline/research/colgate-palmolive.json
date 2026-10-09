@@ -1,15 +1,15 @@
 {
   "company": "Colgate-Palmolive",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no last-cycle posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.colgate.com/go/Information-Technology/8516700/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07 jobs.colgate.com: IT category (24) and 'engineer' (116) searches; US tech roles are Data Engineer (2-3 yrs), Platform Engineer (3+ yrs), Full Stack Developer (4+ yrs, no visa sponsorship), senior/architect roles. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "jobs.colgate.com RSS searches 2026-10-08 (software, engineer, developer, data, AI, graduate, LEAD program, IT): US tech roles are Sr. Data Engineer, Data Architect, CRM Technical Architect, Manager Digital Enablement; LEAD programs are commercial/people, not SWE. Earlier browser check: Data Engineer 2-3 yrs, Full Stack 4+ yrs. Search sample only.",
+  "confidence": "medium",
+  "postings": [],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

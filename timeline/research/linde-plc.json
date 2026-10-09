@@ -1,15 +1,15 @@
 {
   "company": "Linde plc",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; Linde runs engineering programs (LTOP 2027, posted 2026-09-23) but no SWE new-grad track found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://linde.csod.com/ux/ats/careersite/23/home?c=linde&country=us",
   "jobs_spec": null,
-  "evidence": "Browser + Cornerstone API 2026-10-07 (US/CA searches software, developer, data, digital, engineer): New Graduate/LTOP/HyTOP 2027 are non-software engineering. Software Developer req33617 (Tonawanda NY/Ankeny IA, 2026-09-30) is full-stack but no years or class year, 'proven ability' wording: not counted as entry-level.",
-  "confidence": "medium"
+  "evidence": "Cornerstone career-site API, all 741 US/CA postings listed 2026-10-08: LTOP/HyTOP/New Graduate 2027 are non-software engineering; Software Developer req33617 (Tonawanda NY/Ankeny IA, posted 2026-09-30) is full-stack but states no years or class year, 'proven ability' wording, so not counted as entry-level; Software Developer Intern and Senior Software Developer separate.",
+  "confidence": "medium",
+  "postings": [],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

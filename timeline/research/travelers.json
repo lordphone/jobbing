@@ -1,7 +1,7 @@
 {
   "company": "Travelers",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -28,6 +28,19 @@
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer I (JavaScript, TypeScript, AWS, React, Node.js)",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I--JavaScript--TypeScript--AWS--React--Nodejs-_R-51994",
+      "location": "Baltimore, MD; Hartford, CT; St. Paul, MN",
+      "opened": "2026-10-08",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineer I title; entry-level tier (posting lists 3 yrs preferred)",
       "no_sponsorship": true
     },
     {
@@ -89,6 +102,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://travelers.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:travelers/wd5/External",
-  "evidence": "Workday CXS search + detail 2026-10-07: EDP Software/Data Engineering and four Software Engineer I postings still live, canApply true; none states a deadline; no H-1B/TN/STEM OPT sponsorship. Pure Data Engineer I roles not counted.",
+  "evidence": "Full Workday board (382) read 2026-10-08; jobs.py detail on 6 postings: all live via API, no deadline, 'does not sponsor/support H-1B, TN, STEM OPT'. New SWE I R-51994 (Baltimore) added vs prior file. Pure Data Engineer I roles not counted.",
   "confidence": "high"
 }

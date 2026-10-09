@@ -1,15 +1,15 @@
 {
   "company": "Cognition",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad track found on Ashby board",
+  "last_cycle_basis": "no new-grad track found on Ashby board or history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/cognition",
   "jobs_spec": "ashby:cognition",
-  "evidence": "Ashby API 2026-10-07 (100 postings, full): no new-grad or entry titles; SWE/Product/Research Engineer roles are $260K-$300K frontier-level, others ask 2-5+ yrs.",
-  "confidence": "high"
+  "evidence": "ashby:cognition full board (100) 2026-10-08: no new-grad or entry titles; only years line found is 2+ for a DC federal DevOps role (federal, not entry SWE). SWE/research roles read frontier-level.",
+  "confidence": "medium"
 }

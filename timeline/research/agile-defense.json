@@ -1,7 +1,5 @@
 {
   "company": "Agile Defense",
-  "tier": 10,
-  "checked": "2026-10-07",
   "status": "excluded",
   "postings": [
     {
@@ -13,8 +11,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level": "unlabeled",
+      "level_basis": "Typically has a Bachelor's degree, and 0 - 2 years of experience",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/agile-defense",
   "jobs_spec": "lever:agile-defense",
-  "evidence": "Lever API (134 postings) 2026-10-07: only entry SWE is Software Developer I (0-2 yrs); posting says \"Must possess at minimum an Interim Secret clearance\". Java/Software Engineer 1-3 yrs roles also need Secret.",
-  "confidence": "high"
+  "evidence": "Lever full board (140): only entry SWE is Software Developer I (0-2 yrs); posting: \"Must possess at minimum an Interim Secret clearance\". Other dev roles need 1-3+ yrs plus Secret, or US citizenship (CBP).",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

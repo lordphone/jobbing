@@ -1,15 +1,15 @@
 {
   "company": "Pearson",
-  "status": "not_yet",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: New Grad Software Developer first seen 2024-09-08 (two cycles ago); nothing 2025-07 to 2026-01",
+  "last_cycle_basis": "none this or last cycle; only older tracker entry 'New Grad: Software Developer' first seen 2024-09-08 (two cycles ago)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
   "jobs_spec": "oracle:hccz.fa.em3.oraclecloud.com/CX_2",
-  "evidence": "Oracle CX_2 board 2026-10-07 (357 postings, full): US software roles are Staff, Senior, SWE III, Team Manager; entry roles are scoring associates and an India Advanced Associate (Chennai). No new-grad SWE live.",
-  "confidence": "high",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Oracle CX_2 board full read 2026-10-08 (359 postings): US software roles are Staff, Senior, Manager, and SWE III (26118, 'highly skilled' Django/AWS full-stack, mid-level). Entry roles are scoring associates and test center staff. No new-grad SWE.",
+  "confidence": "high"
 }

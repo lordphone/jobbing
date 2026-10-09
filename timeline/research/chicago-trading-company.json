@@ -1,7 +1,7 @@
 {
   "company": "Chicago Trading Company (CTC)",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,8 @@
       "opened": "2026-08-03",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "api",
+      "grad_window": "Graduating Dec 2026 – Jun 2027",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chicagotradingcampus",
   "jobs_spec": "gh:chicagotradingcampus",
-  "evidence": "gh:chicagotradingcampus API 2026-10-07 (8 postings): Associate Engineer 2027 Start first_published 2026-08-03, updated 2026-09-11, graduating Dec 2026-Jun 2027. Tracker 'Software Engineer' applytojob link is a different company (Fort Meade, TS/SCI); ignored.",
+  "evidence": "gh:chicagotradingcampus (8, full) 2026-10-08: Associate Engineer 2027 Start first_published 2026-08-03, updated 2026-09-11, 'graduate between December 2026-June 2027'; page opened via WebFetch shows application form. Tracker 'Software Engineer' applytojob link is a different company; ignored.",
   "confidence": "high"
 }

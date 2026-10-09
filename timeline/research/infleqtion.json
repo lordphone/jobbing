@@ -1,7 +1,7 @@
 {
   "company": "Infleqtion",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "This role is open to both entry-level and senior-level candidates; requires Bachelor's; $145,000-$170,000",
+      "no_sponsorship": false
     },
     {
       "title": "Quantum Software Engineer (Compiler)",
@@ -22,7 +25,10 @@
       "date_source": "workable published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "This role is open to both entry-level and senior-level candidates; requires Bachelor's; $145,000-$170,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-09",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/coldquanta/",
   "jobs_spec": null,
-  "evidence": "Workable API (60 jobs) 2026-10-07: both Chicago compiler postings (published 2026-08-24) still published; text says 'open to both entry-level and senior-level candidates'. Other Chicago SWE roles are PhD/postdoc or unclear level. Export-control note: offer may be conditioned on authorization without export-license sponsorship; no citizenship quote.",
+  "evidence": "Workable API (84 jobs) 2026-10-08: both Chicago compiler postings (published 2026-08-24) still published; text says 'open to both entry-level and senior-level candidates', Bachelor's required, PhD preferred. QEC/Energy/Nuclear roles PhD-focused or senior; not counted. Export-control note (no citizenship quote).",
   "confidence": "medium"
 }

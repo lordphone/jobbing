@@ -1,7 +1,7 @@
 {
   "company": "GM",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
@@ -22,7 +25,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Software Engineer, AV Data Collection - Early Career",
@@ -32,7 +38,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-09",
       "grad_window": "completed degree within past nine months or completing before joining",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
@@ -42,7 +51,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-09",
       "grad_window": "graduation within past 12 months",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Machine Learning Engineer, AI Inference Solutions (Early in Career)",
@@ -52,7 +64,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-23",
       "grad_window": "completing degree by August 2026 (leftover-style window)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, AV Frameworks - Early Career",
@@ -62,7 +77,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-09",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, AV Launch - Early Career",
@@ -72,7 +90,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-09",
       "grad_window": "graduation Dec 2025 - Aug 2026 (likely leftover for a 2027 grad)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer AV HIL Platform and Services (Early Career)",
@@ -82,7 +103,10 @@
       "date_source": "workday startDate",
       "deadline": "2026-10-30",
       "grad_window": "completing degree by June 2026 (leftover-style window)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Software Verification Engineer, AV Platform (Early Career)",
@@ -93,7 +117,9 @@
       "deadline": "2026-10-09",
       "grad_window": "completing degree by August 2026 (leftover-style window)",
       "live_verified": "api",
-      "level_basis": "early-career / new graduate role; degree by August 2026"
+      "level_basis": "early-career / new graduate role; degree by August 2026",
+      "level": "new-grad title",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-27",
@@ -102,6 +128,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
   "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
-  "evidence": "Workday CXS searches + detail 2026-10-07: Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, 0-2 yrs, no sponsorship) qualifies; AV/ML early-career postings have degree windows ending Aug 2026 (deadlines Oct 9-30). Markham ON test developer skipped (test role, not Toronto).",
+  "evidence": "Workday board full (792) re-screened 2026-10-08; detail confirms. Data SWE & Cloud Platforms Early Careers (Austin/Warren, rolling, no class year, 0-2 yrs, no sponsorship) qualifies; AV/ML early-career postings have 2026 degree windows (deadlines Oct 9-30). Markham ON test developer skipped (test role).",
   "confidence": "high"
 }

@@ -1,6 +1,7 @@
 {
   "company": "ZipRecruiter",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -10,8 +11,8 @@
       "opened": "2026-09-24",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Expected 2027 graduation, or graduated Spring 2025 - Fall 2026",
-      "live_verified": "api",
+      "grad_window": "Expected graduation 2027, or graduated Spring 2025 - Fall 2026",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -19,11 +20,10 @@
   ],
   "last_cycle_opened": "2025-10-02",
   "last_cycle_basis": "tracker first seen 'Software Engineer - New Grad - Multiple Teams' https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ziprecruiter",
   "jobs_spec": "gh:ziprecruiter",
-  "evidence": "Greenhouse board 2026-10-07 (44, full): New Grad SWE listed, first_published 2026-09-24, min qual expected 2027 graduation; prior 2026-10-06 check saw Apply form. No sponsorship text, no deadline. SWE Big Data asks 2+ yrs, $130-175K: not counted.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse board 2026-10-08 (44, full); posting page shows Apply button; min qual expected 2027 graduation. No sponsorship text, no deadline. SWE Big Data asks 2+ yrs, $130-175K: not counted. Intern excluded.",
+  "confidence": "high"
 }

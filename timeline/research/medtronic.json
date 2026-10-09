@@ -1,15 +1,16 @@
 {
   "company": "Medtronic",
-  "tier": 11,
+  "tier": 5,
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-05",
-  "last_cycle_basis": "tracker history: Software Engineer I - CRM, Blaine MN, first seen 2025-08-05",
-  "jobs_page": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers",
-  "jobs_spec": "wd:medtronic/wd1/redeploymentmedtroniccareers",
-  "evidence": "Workday CXS searches 2026-10-07 on MedtronicCareers and redeployment sites (Software Engineer 1/I, entry level software): no Software Engineer 1 live; only SDE II, Sr and intern roles. Tracker SE 1 - AI-Driven Data Solutions (Lafayette CO, seen 2026-07-23) absent from both boards (page not individually opened).",
-  "confidence": "medium",
-  "checked": "2026-10-07",
+  "last_cycle_basis": "tracker: Software Engineer I - CRM (Blaine, MN) first seen 2025-08-05; more Software Engineer 1 reqs through Dec 2025",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+  "jobs_spec": "wd:medtronic/wd1/MedtronicCareers",
+  "jobs_spec_basis": "main external Workday site MedtronicCareers (1128 postings) is a superset of the saved redeployment site (260)",
+  "evidence": "Workday full board (1128) 2026-10-08 plus CXS searches 'Software Engineer 1/I': no Software Engineer 1 live; US software roles are SDE II, Sr, Principal. Tracker's Software Engineer 1 - AI-Driven Data Solutions (Lafayette CO, 2026-07-23) no longer listed. Product/Process Engineer I are not software.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

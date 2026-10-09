@@ -1,7 +1,7 @@
 {
   "company": "Relativity Space",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -27,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: bachelor's degree; '1+ years' is only a nice-to-have; hiring timeline for candidates finishing degree within 30-60 days; $115K-$173K",
+      "level_basis": "Required: bachelor degree; 1+ years only nice-to-have; hiring timeline for candidates finishing degree within 30-60 days; $115K-$173K",
       "no_sponsorship": true
     }
   ],
@@ -37,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/relativity",
   "jobs_spec": "gh:relativity",
-  "evidence": "Greenhouse full board (347) 2026-10-07; SWE I page has Apply button. Its application form says 'must either be a \"U.S. person\" as defined by those regulations' (ITAR) and 'OPT, CPT, H-4 ... do NOT qualify'. Same status as prior file.",
+  "evidence": "Greenhouse full board 2026-10-08; SWE I and AI SWE live via API. Application form: hired person \"must either be a U.S. person\" per ITAR (or otherwise eligible for an export license); OPT, CPT, H-4 do NOT qualify. Excluded.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "TD Bank (TD Bank Group)",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -13,8 +13,8 @@
       "deadline": "2026-10-10",
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Software Engineer I; 'Up to two years of relevant software development experience, including internships'; $69,700-$98,400 CAD",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
@@ -26,21 +26,21 @@
       "deadline": "2026-10-10",
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Software Engineer I, no years required; $69,700-$98,400 CAD",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer I",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+      "title": "Software Engineer I - Development and Quality Engineering",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Development-and-Quality-Engineering_R_1514695",
       "location": "Toronto, ON, Canada",
-      "opened": "2026-10-01",
+      "opened": "2026-10-07",
       "date_source": "workday startDate",
-      "deadline": "2026-10-08",
+      "deadline": "2026-10-19",
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Software Engineer I; $69,700-$98,400 CAD; lists 3 yrs for MQ/Kafka only (borderline)",
+      "level": "new-grad title",
+      "level_basis": "Level I title; posting says junior engineer with 2-3 years (years not disqualifying for entry-level)",
       "no_sponsorship": false
     }
   ],
@@ -50,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "jobs_spec": "wd:td/wd3/TD_Bank_Careers",
-  "evidence": "Workday full board 2026-10-07 (1713). Toronto SWE I reqs 1514704, 1511144, 1508757 counted (end dates Oct 10, 10, 8). Not counted: SWE I Dev & Quality 1514695 (2-3 yrs), SWE I Cobol (5+ yrs, dropped from earlier file). Graduate Programme 2027 is Dublin only; NY SWE roles need 3-5 yrs.",
+  "evidence": "Workday full board 2026-10-08 (1697). Toronto SWE I reqs 1514704, 1511144 and Dev & Quality 1514695 listed. Earlier 1508757 no longer on board, dropped. Graduate Programme 2027 is Dublin only; NY SWE roles need 3-5+ yrs; Cobol SWE I needs 5+.",
   "confidence": "high"
 }

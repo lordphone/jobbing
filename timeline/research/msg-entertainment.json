@@ -1,15 +1,15 @@
 {
   "company": "MSG Entertainment (Madison Square Garden Entertainment)",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker or first-party history of a US new-grad SWE track; tracker shows only an Analyst Business Intelligence (2026-03).",
+  "last_cycle_opened": "No first-party or tracker history of a new-grad SWE track; tracker shows only Analyst Business Intelligence (2026-03).",
+  "last_cycle_basis": null,
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.msgentertainment.com/jobs/",
   "jobs_spec": null,
-  "evidence": "msgentertainment.com/jobs list (92 postings, server-rendered, 2026-10-07): Technology dept has 4 roles (Director Network Ops, Sr Analyst Oracle Fusion, SFMC CRM Analyst, Sr Mgr DevOps) plus Cloud & Application Security Engineer. No entry-level SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "msgentertainment.com/jobs read 2026-10-08 (server-rendered): Technology roles are Sr Mgr DevOps, Director Network Ops, analysts, Cloud & App Security Engineer. No entry SWE.",
+  "confidence": "medium"
 }

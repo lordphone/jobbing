@@ -1,7 +1,7 @@
 {
   "company": "VAST Data",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,9 +12,9 @@
       "date_source": "comeet time_updated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Entry-level tag; \"Top Graduate Software Engineer\"; requires Bachelor's CS degree, no years",
       "no_sponsorship": false
     },
     {
@@ -25,9 +25,9 @@
       "date_source": "comeet time_updated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Entry-level tag; \"Top Graduate Software Engineer\"; requires Bachelor's CS degree, no years",
       "no_sponsorship": false
     }
   ],
@@ -37,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.vastdata.com/careers",
   "jobs_spec": null,
-  "evidence": "Comeet page data 2026-10-07 (258 positions): Top Graduate SWE V-Force RTP (updated 2026-09-02) and New York (2026-07-09), both Entry-level and listed; no citizenship or sponsorship text in the New York posting. Dates are time_updated (lower bound). Other Top Graduate roles are QA or Israel.",
+  "evidence": "Comeet page data 2026-10-08 (258 positions); opened both postings in browser: Top Graduate SWE V-Force RTP (updated 2026-09-02) and New York (2026-07-09), entry-level, Apply shown, no citizenship/sponsorship text. Dates are time_updated (lower bound). Software Engineer New College Grad is Israel only.",
   "confidence": "high"
 }

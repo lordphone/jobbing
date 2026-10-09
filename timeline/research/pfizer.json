@@ -1,6 +1,6 @@
 {
   "company": "Pfizer",
-  "tier": 11,
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -10,19 +10,20 @@
       "opened": "2026-10-05",
       "date_source": "workday startDate",
       "deadline": "2026-10-10",
-      "grad_window": "graduated by Spring 2027; start July 2027",
+      "grad_window": "Graduated by Spring 2027; program starts July 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "2-year early-careers program; rotations include full-stack engineering, AI/ML, data engineering; max 2 yrs experience",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 new-grad record found in tracker history",
-  "no_sponsorship": true,
+  "last_cycle_basis": "no dated Jul 2025 - Jan 2026 posting found in tracker history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
   "jobs_spec": "wd:pfizer/wd1/PfizerCareers",
-  "evidence": "Workday search 2026-10-07 (rotational, software engineer, graduate): only US early-career tech role is the 2-year D&T Rotational Program, endDate 2026-10-10. Borderline: rotational not SWE-only; requires eligible Pfizer early-talent pipeline; 'sponsorship not available now or in future'. Other software roles senior.",
+  "evidence": "Workday full board (300) 2026-10-08: D&T Rotational Program - Associate live (ends 2026-10-10); not SWE-only (full-stack rotation among tracks); needs grad by Spring 2027, GPA 3.0, eligible Pfizer early-talent pipeline; no visa sponsorship. Other US tech roles VP or non-software.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

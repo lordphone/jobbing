@@ -1,16 +1,15 @@
 {
   "company": "Dassault Systèmes",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
+  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.3ds.com/careers/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "3ds.com careers page search API (/apisearch/card_search_api, 684 careers, 105 US/Canada) read in browser",
-  "evidence": "Read all 105 US/Canada postings 2026-10-07. Borderline, left out: Waltham Software Engineer 549418 (opened 2026-09-17; requires 2-5 yrs, board tags Senior, Master's preferred; https://www.3ds.com/careers/jobs/software-engineer-549418). Others senior, PhD, non-SWE, QA or intern. Previous file counted it open (low confidence).",
-  "confidence": "low"
+  "evidence": "3ds.com career search API 2026-10-08, all 681 postings; US/Canada list read. Borderline, left out: Waltham Software Engineer 549418 (opened 2026-09-17; requires 2-5 yrs, system level 'Senior', Master's preferred). Others senior, PhD, 3-6+ yrs, QA, ops or interns. No entry SWE program.",
+  "confidence": "medium"
 }

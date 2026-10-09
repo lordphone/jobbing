@@ -1,7 +1,7 @@
 {
   "company": "SeatGeek",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Spring/Summer 2027",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-18",
@@ -21,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/seatgeek",
   "jobs_spec": "gh:seatgeek",
-  "evidence": "Greenhouse API 2026-10-07: 'Software Engineer - New Grad' (NYC, first_published 2026-09-23) for spring/summer 2027 grads, live via job API; no sponsorship, citizenship or deadline line. Data Analyst New Grad is non-SWE.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-08: 'Software Engineer - New Grad' (NYC, first_published 2026-09-23) for spring/summer 2027 grads, still live; no sponsorship, citizenship or deadline line. Only SWE new-grad role on 37-posting board.",
+  "confidence": "high"
 }

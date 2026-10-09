@@ -1,20 +1,19 @@
 {
   "company": "GE HealthCare",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
       "title": "Edison Engineering Development Program",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
-      "location": "Waukesha, WI; Aurora, OH",
-      "opened": "2026-09-09",
-      "date_source": "workday startDate",
+      "location": "Waukesha, WI; Aurora, CO",
+      "opened": "2026-07-19",
+      "date_source": "tracker first seen (workday startDate 2026-09-09, repost)",
       "deadline": null,
       "grad_window": "Bachelor's completed by July 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "entry-level rotational program; hardware or software focus; CS a preferred major",
       "no_sponsorship": true
     },
     {
@@ -27,16 +26,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: bachelor's in CS/engineering or equivalent, C++ on Linux, GPU familiarity; no years of experience asked",
+      "level_basis": "Required: bachelor's degree in CS/engineering, C++ on Linux, Git; no years of experience required",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer (Data Cloud Connector)",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Software-Engineer_R4045428-1",
+      "location": "Bellevue, WA",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Bachelor's degree in Computer Science or a STEM field, with a minimum of 2 years of software engineering experience'; no lead duties",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-25",
-  "last_cycle_basis": "tracker history: Software Engineer 1 - MIM Platform (Orange, OH) first seen 2025-11-25",
+  "last_cycle_basis": "tracker: Software Engineer 1 - MIM Platform (Orange, OH) first seen 2025-11-25",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.gehealthcare.com/global/en/search-results",
   "jobs_spec": "wd:gehc/wd5/GEHC_ExternalSite",
-  "evidence": "Workday board 2026-10-07 (100 postings) plus searches: EEDP (bachelor's by July 2027; CS a preferred major) and Waukesha C++/GPU Software Engineer list canApply true, 'will not sponsor'. Second C++/GPU req R4045052 now 404 (gone). Other SWE reqs (Full stack 4+ yrs, Sr, Staff) not entry-level. Phenom mirror said filled earlier (conflict).",
-  "confidence": "medium"
+  "evidence": "Workday full board (740) 2026-10-08 + CXS reads: EEDP, Waukesha C++/GPU Software Engineer (no years required) and Bellevue Software Engineer (2 yrs) all canApply true, each says it will not sponsor visas. Full Stack and Applied AI & Integrations need 4+ yrs; Software Engineer II is not entry.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

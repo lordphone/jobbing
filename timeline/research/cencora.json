@@ -1,15 +1,29 @@
 {
   "company": "Cencora",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer I, Systems Software Engineering",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Engineer-I--Systems-Software-Engineering_R2614401",
+      "location": "Remote (Pennsylvania, US)",
+      "opened": "2026-10-08",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-30",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Engineer I; requires less than 2 years of experience in software engineering",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker shows only Automation Developer 1 (Farmers Branch TX, 2026-05) and Data Visualization Specialist 1 (2026-05), both off-cycle and closed",
+  "last_cycle_basis": "Tracker history shows only Automation Developer 1 (2026-05-12) and Data Visualization Specialist 1; no dated new-grad SWE posting found for Jul 2025 - Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://myhrabc.wd5.myworkdayjobs.com/Global",
   "jobs_spec": "wd:myhrabc/wd5/Global",
-  "evidence": "Workday CXS 2026-10-07 (software/developer/engineer/graduate/early career/associate/entry/AI queries): only Software Engineer 1 is Remote Poland/Lublin, not US; US engineers are II/III/Lead/Senior; no new-grad SWE program.",
-  "confidence": "medium"
+  "evidence": "Workday full board (320) 2026-10-08: Engineer I, Systems Software Engineering (Remote PA) posted today, canApply true, <2 yrs required, ends 2026-10-30. Other engineer reqs are warehouse or non-US.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

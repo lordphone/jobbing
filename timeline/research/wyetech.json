@@ -1,7 +1,7 @@
 {
   "company": "Wyetech",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/wyetechllc",
   "jobs_spec": "lever:wyetechllc",
-  "evidence": "Lever API 2026-10-07 (270): ~20 Software Engineer 0/1/2 postings (Annapolis Junction, Ft. Meade, Laurel MD). Sampled postings say 'United States Citizenship and position appropriate security clearance is required' and 'Active TS/SCI ... with polygraph'. Excluded.",
+  "evidence": "Lever API 2026-10-08 (270, full): many Software Engineer 0/1 postings (MD). SWE 1 detail: 'Due to federal contract requirements, United States Citizenship and position appropriate security clearance is required'; 'Active TS/SCI' with polygraph. Excluded.",
   "confidence": "high"
 }

@@ -1,20 +1,18 @@
 {
   "company": "FedEx",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Full Stack Developer II",
       "url": "https://careers.fedex.com/full-stack-developer-ii/job/P25-354137-3",
       "location": "Plano, TX",
-      "opened": "on or before 2026-10-07",
-      "date_source": "page text (JSON-LD datePosted refreshes daily, so only a bound)",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (no first-posted date shown; req id is older)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "requires bachelor's + at least 1 year IT/engineering experience; title has II (borderline)",
+      "level_basis": "Minimum: Bachelor's in CS/engineering/IS and 1 year in an IT or engineering environment; title has II (borderline)",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.fedex.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.fedex.com list pages (keyword param, HTML) 2026-10-07 + WebFetch: no new-grad SWE program; US dev roles are Advisor/Principal/II. Full Stack Developer II (Plano) Apply live, req bachelor's+1 yr, borderline. AI Engineer I (Memphis/Plano/PA) lists 5+ yrs security, likely posting error, not counted.",
-  "confidence": "low"
+  "evidence": "careers.fedex.com keyword result pages 2026-10-08 (12 searches, 4516 jobs total): no new-grad SWE program; US dev roles are Advisor/Principal/II. Full Stack Developer II (Plano) has Apply, requires bachelor's + 1 yr, borderline. Assoc Data Scientist (Memphis) is data science, not counted.",
+  "confidence": "low",
+  "checked": "2026-10-08",
+  "tier": 5
 }

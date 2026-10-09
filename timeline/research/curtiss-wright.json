@@ -1,29 +1,15 @@
 {
   "company": "Curtiss-Wright",
-  "tier": 8,
-  "checked": "2026-10-07",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Graduate Engineer",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
-      "location": "Frederick, MD",
-      "opened": "on or before 2026-08-07",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": "2025-12-15",
   "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday full board (365, --all) 2026-10-07: Graduate Engineer Frederick MD live (canApply, 0-2 yrs, develops simulator software but asks for mechanical/nuclear/chemical degree; export-control screening only). Summerville SC Software Developer needs 5+ yrs and US citizenship; Ottawa/Mississauga roles not Toronto/Vancouver. Weak SWE fit.",
-  "confidence": "low"
+  "evidence": "Workday full (366) 2026-10-08. Graduate Engineer (Frederick MD, 0-2 yrs) builds power-plant simulator software but requires a mechanical/nuclear/chemical degree, so not counted. US software roles are 5+ yrs, senior, or need US citizenship (DoD). Canada roles are Ottawa/Mississauga.",
+  "confidence": "medium"
 }

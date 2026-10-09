@@ -11,7 +11,7 @@
       "date_source": "job board last-updated date (no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -24,7 +24,7 @@
       "date_source": "job board last-updated date (no posted date shown)",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -35,8 +35,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "UBS graduate board search endpoint 2026-10-07 lists both US Technology GTPs (Raleigh, NY/NJ); posting pages return full text (Technology Engineer / Data Engineer Graduate; Java/Python; grads Dec 2026-Jun 2027). States no employment-based sponsorship incl. OPT/CPT. No deadline or posted date shown.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
+  "evidence": "Opened both UBS graduate board posting pages in browser 2026-10-08: Apply present; Technology Engineer / Data Engineer Graduate (Java/Python), grads Dec 2026-Jun 2027, ~$105-110K, no employment-based sponsorship incl. OPT/CPT. No deadline or posted date shown.",
+  "confidence": "high",
+  "checked": "2026-10-08",
   "excluded_reason": null
 }

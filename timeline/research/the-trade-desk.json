@@ -1,15 +1,15 @@
 {
   "company": "The Trade Desk",
   "tier": 3,
-  "checked": "2026-10-07",
-  "status": "not_yet",
+  "checked": "2026-10-08",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2026-04-10",
-  "last_cycle_basis": "tracker history: 'Software Engineer 1' Irvine first seen 2026-04-10; 2024 cycle 'New Grad 2025: Software Engineer' 2024-08-14; no 2025-07..2026-01 posting",
+  "last_cycle_basis": "tracker history: 'Software Engineer 1' Irvine first seen 2026-04-10; 2024 cycle 'New Grad 2025: Software Engineer' 2024-08-14; no 2025-07..2026-01 posting. Ad hoc timing.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/thetradedesk",
   "jobs_spec": "gh:thetradedesk",
-  "evidence": "gh:thetradedesk full board (105) 2026-10-07: only SWE II (San Jose, Bellevue; 4 yrs / $151K+) and senior roles, plus Data Support Analyst I (non-SWE). SE1 postings (Irvine Apr, Bellevue Jul 2026) now 404 (gone). No 2027 new-grad posting.",
-  "confidence": "high"
+  "evidence": "gh:thetradedesk full board (106) 2026-10-08: only SWE II (San Jose, Bellevue; 2-4 yrs, $226K) and senior roles; Data Support Analyst I non-SWE. 'Software Engineer 1' Bellevue (first seen 2026-07-27, this cycle) now 404 on Greenhouse API, so closed; Irvine SE1 (Apr) also gone. Previously not_yet; changed because a this-cycle SE1 existed and is gone.",
+  "confidence": "medium"
 }

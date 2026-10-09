@@ -1,15 +1,29 @@
 {
   "company": "Navy Federal Credit Union",
-  "status": "not_yet",
-  "postings": [],
+  "tier": 5,
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Associate Application Engineer",
+      "url": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/job/32116",
+      "location": "Vienna, VA",
+      "opened": "2026-08-26",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Associate Application Engineer, Vienna VA, first seen 2026-08-26 (closed); no dated last-cycle posting.",
+  "last_cycle_basis": "Tracker: Associate Application Engineer, Vienna VA, first seen 2026-08-26 (now closed); no dated Jul 2025-Jan 2026 posting.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/jobs",
   "jobs_spec": "oracle:jobs.navyfederal.org/nfcu",
-  "evidence": "Oracle API full board 2026-10-07 (172): only 2027 summer/year-round interns, Senior/Principal engineers, API Systems Engineer (expert-level, no sponsorship), Mainframe Support Analyst; no entry-level FT SWE. Tracker's Associate Application Engineer (32116) not on board; closure unconfirmed.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "tier": 5
+  "evidence": "Oracle API full board 2026-10-08 (164): Associate Application Engineer (32116) page says 'This job is no longer available', so closed. Remaining: 2027 summer/year-round interns, Senior/Principal engineers, Release Train Engineer (10+ yrs), API Systems Engineer (expert-level); no entry FT SWE.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

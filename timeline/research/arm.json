@@ -1,7 +1,6 @@
 {
   "company": "Arm",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-09-07",
@@ -10,6 +9,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.arm.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.arm.com results endpoint 2026-10-07, all 392 US postings read: only US graduate role is Graduate Applications Engineer (Austin, HDL/hardware, posted 2026-09-16); Seattle Software Developer needs production systems experience. Graduate Software Engineer is Budapest. Last cycle's Austin software grad role not reposted yet.",
-  "confidence": "medium"
+  "jobs_spec_basis": "careers.arm.com/search-jobs/results endpoint lists all postings; no ATS API spec",
+  "evidence": "careers.arm.com results endpoint 2026-10-08, all 393 job results read: only US graduate role is Graduate Applications Engineer (Austin, hardware/HDL, posted 2026-09-16, no sponsorship); Seattle Software Developer and Austin CPU Verification SWE ask for experienced engineers. Last cycle's Austin software grad role not reposted yet.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

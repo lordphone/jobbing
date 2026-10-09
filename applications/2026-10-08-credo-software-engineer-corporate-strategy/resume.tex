@@ -1,0 +1,56 @@
+% Credo — Software Engineer (Corporate Strategy, internal tools / AI automation) (San Jose, CA, on site)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Large Language Model Systems, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Large Language Models in Practice, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} from an empty repository to 1.4K App Store ratings and 1{,}119 peak daily active users; shipped Firebase auth (Google, Apple, email) and a 72-event analytics catalog.
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 endpoints, modeling the data as 129 Pydantic models over 26 collections, with $\sim$1{,}450 offline tests; cut a 25--30 request fan-out to one call on a shared cache 78$\times$ smaller than per-user keys.
+  \item Shipped a personalized LLM morning digest to 5{,}026 users ($\sim$81\% of the base), with every bullet linked to its source article.
+  \item Shipped agentic search with RAG, a bounded tool-calling agent, and server-resolved citations; bare lookups skip the LLM, and deterministic entity resolution took logged queries from 0\% to 100\% P@1 after I measured and rejected embeddings.
+  \item Designed and shipped a personalized LLM alert pipeline, evaluated it over 11 days of production shadow (4{,}100+ logged decisions), and cut filler 34\% $\to$ 4\%; retired my own first detector when production data showed it was 15 hours too slow.
+  \item Deployed and owned the service in production on AWS EKS (Docker, Helm, Jenkins) from day 3, with Prometheus and Grafana.
+  \item Introduced the team's Jira backlog unprompted, wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs, and onboarded the second engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine.
+  \item Designed the database schemas and REST APIs for its LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app, built from 0$\to$1 in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
+  \item Worked with recruiters so AI scoring matched real hiring, iterated from user-testing sessions, and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, SQL, TypeScript, JavaScript, HTML, CSS, Go, Java, Swift \\[1pt]
+  \textbf{Full Stack} & React, Next.js, FastAPI, REST APIs, PostgreSQL, Supabase, MongoDB, Firebase Auth, Stripe \\[1pt]
+  \textbf{AI/LLM} & LangChain, RAG, hybrid retrieval, LLM tool calling / agents, MCP, Langfuse \\[1pt]
+  \textbf{Infra} & AWS, GCP App Engine, Docker, Kubernetes (EKS), Helm, CI/CD, Prometheus, Grafana \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans. Tested Z.AI, MiniMax, and Kimi on KV caching, long context, and needle-in-a-haystack to show which nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

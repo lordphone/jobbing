@@ -1,7 +1,7 @@
 {
   "company": "ByteDance / TikTok",
-  "tier": 1,
-  "checked": "2026-10-07",
+  "tier": 2,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -1316,6 +1316,19 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7694054165508557109",
+      "location": "Seattle, WA",
+      "opened": "2026-10-07",
+      "date_source": "tracker first seen (job id timestamp)",
+      "deadline": null,
+      "grad_window": "2027 Start",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-06-16",
@@ -1325,6 +1338,6 @@
   "jobs_page": "https://lifeattiktok.com",
   "jobs_spec": null,
   "jobs_spec_basis": "no jobs.py spec; lifeattiktok.com public search API (api.lifeattiktok.com) queried directly, paged for 2027/Graduate keywords",
-  "evidence": "lifeattiktok public job search API returns live 2027 Start Graduate SWE/backend/ML/data/infra roles in San Jose, Seattle, LA, NY (non-PhD ones listed; PhD, scientist, testing excluded). Earliest ~2026-07-16. No citizenship or clearance text found. Apply button not opened (API only).",
+  "evidence": "lifeattiktok public job search API 2026-10-08 (539 US/CA graduate+intern posts): all 101 earlier non-PhD 2027 Start SWE/backend/ML/data/infra postings still listed, plus one new Seattle ML posting (Oct 7). PhD, MBA, scientist, testing, ops roles excluded. No citizenship or clearance text found; Apply button not opened.",
   "confidence": "high"
 }

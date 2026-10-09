@@ -1,7 +1,6 @@
 {
   "company": "West Monroe",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -44,12 +43,13 @@
       "no_sponsorship": true
     }
   ],
-  "last_cycle_opened": null,
   "last_cycle_basis": "No earlier new-grad software posting found in tracker history or search (only 2026 internships).",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://www.westmonroe.com/careers/job-search-students",
   "jobs_spec": "gh:westmonroe5",
-  "evidence": "Greenhouse API 2026-10-07: 2027 Software Engineering (AI Concentration) Consultant, entry-level, Chicago / New York / Seattle, first published 10-05; postings say no sponsorship now or later. Platforms & Technology Consultant (Salesforce/ServiceNow config) and intern roles not counted. Dropped Platforms posting vs old file as non-SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse API+posting text 2026-10-08: 2027 Software Engineering (AI Concentration) Consultant in Chicago, New York, Seattle, first published 10-05, grads Dec 2026-Aug 2027; 'without limitation or sponsorship now or in the future'. Platforms & Technology Consultant (Salesforce/ServiceNow config) not counted.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "last_cycle_opened": null,
+  "excluded_reason": null
 }

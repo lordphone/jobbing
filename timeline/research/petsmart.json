@@ -1,15 +1,15 @@
 {
   "company": "PetSmart",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
+  "last_cycle_basis": "no tracker or first-party record of a new-grad SWE posting; no graduate or intern postings listed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.petsmart.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.petsmart.com Jibe API 2026-10-07 (Home Office, 33 postings): tech roles only Lead Network Engineer, Senior Automation Developer (UiPath), Senior Industrial Engineer. No entry SWE.",
-  "confidence": "high"
+  "evidence": "careers.petsmart.com Jibe API read in browser 2026-10-08 (10,895 jobs, mostly stores; keyword searches engineer 4, data 39, technology 28, analyst 3, graduate 0, intern 0): tech roles are Lead Network Engineer, Senior Automation Developer (UiPath), Solutions Architect (Costa Rica), Sr IT Internal Auditor. No entry-level software role.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

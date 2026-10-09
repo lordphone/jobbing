@@ -1,7 +1,7 @@
 {
   "company": "Noom",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen (earlier reposts); greenhouse first_published 2026-09-18",
       "deadline": null,
       "grad_window": "Bachelor's degree or expected within 6 months",
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.noom.com/careers/job-listings/",
   "jobs_spec": "gh:noomgrowth",
-  "evidence": "Greenhouse noomgrowth 2026-10-07 (8 postings): only Staff SWE. Agentic Engineer (New Grad) 8114573 returns 404 on Greenhouse API and its board link redirects to the careers list (noom.com page itself 403 blocked); the other two similar postings are gone too.",
-  "confidence": "medium"
+  "evidence": "Greenhouse noomgrowth 2026-10-08 (8, full): only Staff SWE. Agentic Engineer (New Grad) 8114573 (Aug-Sep 2026) 404s on API; careers page opened in browser shows no job. Closed; no other entry SWE.",
+  "confidence": "high"
 }

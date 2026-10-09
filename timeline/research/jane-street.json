@@ -1,7 +1,7 @@
 {
   "company": "Jane Street",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,18 +12,18 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "no experience required (\"little to no practical experience in OCaml\"; \"We don't expect you to have a background\"); base salary $300,000 matches new-grad pay",
+      "level_basis": "no years asked; \"We don't expect you to have a background in functional programming, OCaml, Python, finance\"; tracker lists it as Software Engineer Full-Time: New Grad; prior check noted $300,000 base",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-10",
-  "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-10 for prior cycle's full-time postings (SWE-titled posting 2025-08-01 NYC).",
+  "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-10 for prior cycle's full-time postings (SWE posting 2025-08-01 NYC)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.janestreet.com/join-jane-street/open-roles/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "Greenhouse API 2026-10-07 lists 3 NYC Software Engineer reqs from 2026-07-06; two (8599644002, 8419303002) are Software Engineer Internships. 8594541002 page live with Apply, no years asked, no deadline or citizenship text. Tracker labels it New Grad.",
+  "evidence": "gh:janestreet full board (233) 2026-10-08: NYC reqs 8599644002 and 8419303002 are Software Engineering Internships; 8594541002 is the full-time SWE, listed on API, no years, citizenship or deadline text. Other SWE are London/HK/Singapore.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Cotiviti",
-  "tier": 6,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-09-10",
   "last_cycle_basis": "jobs.py history: Associate Software Engineer (Remote US) https://careers-cotiviti.icims.com/jobs/17318 first seen 2025-09-10; repeated Apr, May, Jul 2026",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers-cotiviti.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "Read all 79 iCIMS postings via WebFetch 2026-10-07: no Associate/entry SWE; software roles are Principal/Senior/Director. Tracker Associate SWE 2026-07-02 (job 19318) returns HTTP 410. Data Engineer (Sat-Wed, junior tag, posted 2026-05-12) asks 2-4 yrs data stack, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "iCIMS keyword searches (software, engineer, associate) 2026-10-08: software roles are Principal/Senior/Director; interns only. Associate SWE 2026-07-02 (job 19318) returns HTTP 410. Data Engineer roles (#Senior; 2+ yrs data stack) not counted.",
+  "confidence": "medium"
 }

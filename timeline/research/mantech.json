@@ -1,29 +1,55 @@
 {
   "company": "ManTech",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
+    {
+      "title": "Junior Software Developer",
+      "url": "https://careers.mantech.com/en_US/careers/JobDetail/Junior-Software-Developer/64746",
+      "location": "Saint Inigoes, MD",
+      "opened": "2026-07-01",
+      "date_source": "page text (Posting Date 07/01/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Junior; requires 1+ years of software development experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Software Developer",
+      "url": "https://careers.mantech.com/en_US/careers/JobDetail/65079",
+      "location": "Montgomery, AL",
+      "opened": "2026-07-24",
+      "date_source": "page text (Posting Date 07/24/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Junior; Secret clearance required",
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer I",
       "url": "https://careers.mantech.com/en_US/careers/JobDetail/61501",
       "location": "Crane, IN",
       "opened": "2025-12-22",
-      "date_source": "page text",
+      "date_source": "page text (posted 12/22/2025)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Software Engineer I; 0-5 years of experience; marked 'future opportunity'",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2025-12-22",
-  "last_cycle_basis": "Posting page https://careers.mantech.com/en_US/careers/JobDetail/61501 (Software Engineer I, Crane IN) dated 12/22/2025; earlier entry SWE 2024-09 (Workday).",
+  "last_cycle_opened": "2024-09-09",
+  "last_cycle_basis": "Tracker history: Junior Software Engineer / Junior Software Developer postings first seen 2024-09-09 (mantech.wd1.myworkdayjobs.com)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.mantech.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Posting 61501 (Crane IN, 12/22/2025) still has Apply; 'Must have a current and active Secret Clearance'. Search 'software engineer' (277): postings 66215, 65557, 65556, 66001 need TS/SCI, 64678 Secret. No clearance-free entry SWE found.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-08, searched junior/entry/software terms and opened postings. Junior Software Developer 64746 and 65079 need an active Secret clearance (64746: 'Must be a US Citizen'); Junior RPA Developer needs US citizenship plus Secret; Junior SAP developers 'Must be a US Citizen'; Software Engineer I (Crane) live.",
+  "confidence": "high"
 }

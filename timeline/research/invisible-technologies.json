@@ -1,16 +1,30 @@
 {
   "company": "Invisible Technologies",
-  "tier": 2,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows an old 2025-01 posting only; no SWE new-grad role in the 2025-26 cycle",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Forward Deployed",
+      "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4697599101",
+      "location": "New York, NY; San Francisco Bay Area, CA",
+      "opened": "2025-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Needs 'Hands-on experience in software engineering or ML engineering — through professional roles, internships, or coursework/research projects'; no years; pay $93,000-$217,000 depending on level",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-10-22",
+  "last_cycle_basis": "Same Software Engineer, Forward Deployed posting first published 2025-10-22 (greenhouse), still live",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.eu.greenhouse.io/invisibletech",
   "jobs_spec": "gh:invisibletech",
-  "jobs_spec_basis": "invisible.co/careers page script loads greenhouse boards/invisibletech, not gh:agency (Meridial)",
-  "evidence": "gh:invisibletech 2026-10-07 (18 postings, full): US engineering roles are Research Engineer and Forward Deployed SWE (own projects end-to-end, multi-level, up to $217K) plus Senior/Staff/Principal; no entry-level or new-grad title. gh:agency (Meridial) holds freelance AI-trainer projects, not the careers page.",
-  "confidence": "medium"
+  "jobs_spec_basis": "invisible.co/careers loads greenhouse boards/invisibletech, not gh:agency (Meridial)",
+  "evidence": "gh:invisibletech 2026-10-08 (18, full) plus posting text: Software Engineer, Forward Deployed (NYC/SF Bay hybrid) lists no years; experience via internships or coursework counts; pay from $93K. Judged entry-level though borderline (multi-level range to $217K). Research Engineer and others senior. Evergreen since 2025-10-22.",
+  "confidence": "low"
 }

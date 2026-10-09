@@ -1,6 +1,6 @@
 {
   "company": "Redfin (Rocket Companies)",
-  "tier": 9,
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -8,7 +8,7 @@
       "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
       "location": "Detroit, MI; Cypress Waters, TX",
       "opened": "2026-07-26",
-      "date_source": "tracker first seen (earlier than workday startDate 2026-08-07)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -20,24 +20,24 @@
       "title": "Software Engineer (Agentic AI Applications)",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer--Agentic-AI-Applications-_R-083562",
       "location": "Detroit, MI",
-      "opened": "2026-07-21",
-      "date_source": "workday startDate",
+      "opened": "on or before 2026-09-07",
+      "date_source": "workday postedOn (30+ days); startDate 2026-07-21",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "minimum \"2+ years of professional software development experience\"; mentorship from senior engineers, \"at this career stage\"",
+      "level_basis": "'Minimum Qualifications 2+ years of professional software development experience'; no lead/mentor/architecture duties; no higher level in title",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-21",
-  "last_cycle_basis": "tracker history (old Redfin Workday board, now dead): Software Developer 1, Seattle WA, first seen 2026-01-21",
+  "last_cycle_basis": "tracker first-seen: Software Developer 1, Seattle (Redfin Workday), https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I_59686",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
   "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
-  "jobs_spec_basis": "old Redfin Workday site gone; Redfin hiring is under Rocket Companies' board",
-  "evidence": "Rocket Workday 2026-10-07 (384, full): Software Engineer I (1-3 yrs) and Software Engineer (Agentic AI, 2+ yrs) live, canApply true, no sponsorship/citizenship line. Other SWE are II/Senior/Staff. Ontario-remote roles excluded (not Toronto).",
+  "jobs_spec_basis": "Redfin hiring moved to Rocket careers; Redfin Workday site denied",
+  "evidence": "Rocket Workday 2026-10-08 (383, full): Software Engineer I (mentorship, full-stack, canApply true) and Software Engineer (Agentic AI, 2+ yrs) live. SWE II/Senior excluded; ML Developer is remote Ontario (not Toronto/Vancouver). Dates: SWE I opened per tracker; Agentic 'on or before' is a bound from startDate.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

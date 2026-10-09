@@ -1,15 +1,15 @@
 {
   "company": "LTIMindtree",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; campus hiring (Graduate Engineer Trainee) is India-based; US intern program (DTAPi) is an internship",
+  "last_cycle_basis": "No tracker history and no US campus program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ltimindtree.ripplehire.com/candidate/?token=nP1GISU2A024qt3otg3V&lang=en&source=CAREERSITE#list/geo=Canada%2CUnited%20States",
   "jobs_spec": null,
-  "evidence": "Could not read RippleHire list this run (JS-only, API params unknown); earlier 2026-10-06 browser read: 537 US/Canada jobs, software roles Associate Principal/Principal at 10+ yrs. Web search: entry hiring is India campus; US DTAPi is an internship.",
-  "confidence": "medium"
+  "evidence": "RippleHire list read in browser 2026-10-08 (all 511 US/Canada jobs loaded). Lowest software-adjacent bands: Specialist Software Engineering Gen AI 2-5 yrs (Mississauga), Engineer Cloud & Infra 0-2 (Frisco, infra not SWE). No entry SWE; campus hiring is India.",
+  "confidence": "high"
 }

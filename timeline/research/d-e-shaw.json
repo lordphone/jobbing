@@ -1,17 +1,17 @@
 {
   "company": "D.E. Shaw",
-  "tier": 4,
+  "tier": 1,
   "status": "open",
   "postings": [
     {
       "title": "Software Developer",
       "url": "https://www.deshaw.com/careers/software-developer-2646",
       "location": "New York, NY",
-      "opened": "on or before 2026-10-07",
+      "opened": "on or before 2026-10-08",
       "date_source": "page text (evergreen, no date shown)",
       "deadline": null,
       "grad_window": "No class year; 'welcome outstanding candidates at all experience levels'",
-      "live_verified": "api",
+      "live_verified": "no",
       "level": "unlabeled",
       "level_basis": "\"We welcome outstanding candidates at all experience levels.\"",
       "no_sponsorship": false
@@ -23,7 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.deshaw.com/careers",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-07: careers page lists Software Developer (2646, New York, Quantitative Strategies) with Apply Now; all experience levels welcome; no citizenship text. Evergreen, not labeled new grad; only Summer 2027 interns otherwise.",
+  "evidence": "WebFetch 2026-10-08: careers list (~95 roles) has Software Developer (2646, New York) with Apply Now; 'welcome outstanding candidates at all experience levels'; no citizenship text. Other SWE roles not entry-level evident. Evergreen, not labeled new grad; Summer 2027 interns separate. Same as prior file.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

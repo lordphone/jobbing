@@ -1,5 +1,6 @@
 {
   "company": "Rocket Companies",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -14,6 +15,19 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Agentic AI Applications)",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer--Agentic-AI-Applications-_R-083562",
+      "location": "Detroit, MI",
+      "opened": "2026-07-21",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum 2+ years of professional software development experience; 'learning opportunities that are hard to find at this career stage', mentorship from senior engineers, path to senior",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -22,8 +36,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
   "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
-  "evidence": "Workday full board 2026-10-07 (320) + CXS detail: Software Engineer I (Detroit/Cypress Waters, start 2026-08-07, canApply true, asks 1-3 yrs) still posted; other SWE roles are Senior/II+. Rolling level-I role.",
+  "evidence": "Workday full board 2026-10-08 (383) + CXS detail: Software Engineer I (1-3 yrs) and unlabeled Agentic AI SWE (2+ yrs, entry-style) listed. Rest are Senior/II+. ML Developer is Remote-Ontario (not Toronto/Vancouver), left out. Rolling level-I roles.",
   "confidence": "medium",
-  "checked": "2026-10-07",
-  "tier": 5
+  "checked": "2026-10-08"
 }

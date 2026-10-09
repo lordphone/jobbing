@@ -1,6 +1,7 @@
 {
   "company": "American Airlines",
-  "tier": 11,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -26,17 +27,16 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "minimum '1+ years' SDLC experience, Bachelor's; no lead/mentor duties",
+      "level_basis": "minimum '1+ years' SDLC experience, Bachelor's (3 yrs preferred); no lead/mentor duties",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "destinationaa.com/campus: IT ADEPT (Phoenix AZ, Fort Worth TX) 'Applications open in September', rolling offers; no dated posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.aa.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07, jobs.aa.com 'software engineer' (135 results, paged): two IT roles with 1+ yr minimum and non-senior duties. Engineer/Sr Engineer IT Software posts mention mentoring juniors so left out. No ADEPT/new-grad program posting seen; no stated deadline.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Browser 2026-10-08: both postings show Apply (start 10/5, 10/2); minimum 1+ yr, no lead/mentor duties. Paged jobs.aa.com 'software engineer' results (8+ of 14 pages): no ADEPT/new-grad posting; other Engineer/Sr Engineer IT roles mention mentoring, left out. No stated deadline.",
+  "confidence": "medium"
 }

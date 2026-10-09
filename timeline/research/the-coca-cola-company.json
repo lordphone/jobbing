@@ -1,33 +1,32 @@
 {
   "company": "The Coca-Cola Company",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer I - CRM",
-      "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140126",
-      "location": "Atlanta, GA",
-      "opened": "2026-06-08",
-      "date_source": "tracker first seen (workday reposted 2026-10-01)",
-      "deadline": "2026-10-09",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Software Engineer I; requires 2+ yrs (level I, counted per entry-level title)",
-      "no_sponsorship": true
-    },
     {
       "title": "Software Engineer I - CRM",
       "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I---CRM_R-140128",
       "location": "Atlanta, GA",
       "opened": "2026-06-08",
-      "date_source": "tracker first seen (workday reposted 2026-10-01)",
+      "date_source": "tracker first seen (workday startDate 2026-10-01, repost)",
       "deadline": "2026-10-09",
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Software Engineer I; requires 2+ yrs (level I, counted per entry-level title)",
+      "level_basis": "Software Engineer I; asks 2+ years of software engineering experience",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer I - CRM",
+      "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140126",
+      "location": "Atlanta, GA",
+      "opened": "2026-06-08",
+      "date_source": "tracker first seen (workday startDate 2026-10-01, repost)",
+      "deadline": "2026-10-09",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; asks 2+ years of software engineering experience",
       "no_sponsorship": true
     },
     {
@@ -35,21 +34,22 @@
       "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140127",
       "location": "Atlanta, GA",
       "opened": "2026-06-08",
-      "date_source": "tracker first seen (workday reposted 2026-10-01)",
+      "date_source": "tracker first seen (workday startDate 2026-10-01, repost)",
       "deadline": "2026-10-09",
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Software Engineer I; requires 2+ yrs (level I, counted per entry-level title)",
+      "level_basis": "Software Engineer I; asks 2+ years of software engineering experience",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no Jul 2025-Jan 2026 record",
+  "last_cycle_basis": "tracker first seen 2026-06-08 for the same Software Engineer 1 reqs (before the Jul-Jan window); nothing dated Jul 2025 - Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers",
   "jobs_spec": "wd:coke/wd1/coca-cola-careers",
-  "evidence": "Workday board 2026-10-07 (206 postings, full) + CXS detail: three Software Engineer I - CRM reqs (Atlanta) canApply true, endDate 2026-10-10, text ends Oct 9; 'will not offer sponsorship'. Asks 2+ yrs. Software Engineer (3-6 yrs) and Data Engineer (3-6 yrs) not counted.",
-  "confidence": "medium"
+  "evidence": "Workday full board (211) 2026-10-08: three Software Engineer I - CRM reqs (Atlanta) live, startDate 2026-10-01, posting end date Oct 9, 2026, 2+ yrs asked; text says no sponsorship. Other SWE roles are II or 3-6 yrs; tracker saw same reqs 2026-06-08. Kept earlier opened date from tracker/previous file.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

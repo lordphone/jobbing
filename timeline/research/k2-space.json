@@ -1,42 +1,29 @@
 {
   "company": "K2 Space",
-  "tier": 8,
-  "status": "excluded",
+  "tier": 3,
+  "checked": "2026-10-08",
+  "status": "open",
   "postings": [
     {
-      "title": "Ground Software Engineer",
-      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373554008",
-      "location": "Seattle, WA",
-      "opened": "2026-08-07",
+      "title": "Application Software Engineer",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5153344008",
+      "location": "Los Angeles, CA",
+      "opened": "2026-03-16",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires a bachelor's degree or 3+ years of professional experience",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Flight Software Engineer",
-      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373556008",
-      "location": "Seattle, WA",
-      "opened": "2026-08-10",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires a bachelor's degree or 3+ years of professional experience",
+      "level_basis": "requires a bachelor's degree or 1-3+ years of professional experience; duties say 'work ... with minimal oversight' and defer to 'senior engineers'",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No earlier new-grad posting in tracker history",
-  "excluded_reason": "us person / itar",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/k2spacecorporation",
   "jobs_spec": "gh:k2spacecorporation",
-  "evidence": "Greenhouse full board (250) 2026-10-07: SWE roles are unleveled (bachelor's or 3+ yrs); postings say hire 'must therefore either be a “U.S. person” as defined by 22 C.F.R.' (ITAR). No new-grad label.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Greenhouse board read in full 2026-10-08 (255). Application Software Engineer (LA) reads entry-level; Ground/Flight SWE are bachelor's or 3+ yrs with mentoring duties, Platform roles 2-5 yrs, so left out. Postings say hire must be a U.S. person 'or otherwise eligible for a federally issued export control license', not a clean exclusion. Not a new-grad program; open since March.",
+  "confidence": "medium"
 }

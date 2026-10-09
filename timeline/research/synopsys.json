@@ -1,7 +1,6 @@
 {
   "company": "Synopsys",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "open",
   "postings": [
     {
@@ -12,18 +11,20 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "no",
       "level": "unlabeled",
-      "level_basis": "Requires \"Bachelor's degree ... with 2+ years of experience, or Master's degree in a related field\"; $101,000-$151,000; no lead/mentor duties (borderline: posting reads experienced)",
+      "level_basis": "Minimum: 'Bachelor's ... with 2+ years of experience, or Master's degree in a related field' (no years for Master's); $101,000-$151,000; no lead/mentor duties (borderline)",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in the 2025-07..2026-01 window.",
+  "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in 2025-07..2026-01; no early-career page dates found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.synopsys.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.synopsys.com results endpoint 2026-10-07, 598 of 628 listed read; US/Canada titles are staff/senior/principal or hardware, except HPC Software Engineer (Canonsburg, Master's path, borderline) and Data Engineer (5+ yrs). Page fetched over HTTP, no Apply-button check. Interns only otherwise.",
-  "confidence": "low"
+  "jobs_spec_basis": "careers.synopsys.com/search-jobs/results endpoint lists all postings; no ATS API spec",
+  "evidence": "Synopsys results endpoint 2026-10-08, all 604 postings read: US/Canada engineering titles are Staff/Senior/Principal or hardware, except HPC Software Engineer (Canonsburg PA, Master's path, borderline) and Data Engineer (5+ yrs). Posting page loaded over HTTP, no Apply-button check in browser. Interns otherwise.",
+  "confidence": "low",
+  "checked": "2026-10-08"
 }

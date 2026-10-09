@@ -1,15 +1,15 @@
 {
   "company": "Paychex",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
+  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.paychex.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "Paychex Jibe API 2026-10-07, 505 postings read in full: tech roles are Senior/Principal (Belgrade), Salesforce Engineer III/IV, Data Engineer (4 yrs), Data Solutions Engineer (7 yrs). No entry SWE; rest sales/analyst.",
-  "confidence": "high"
+  "evidence": "careers.paychex.com Jibe API 2026-10-08, all 508 postings read: US tech roles are Salesforce Engineer III/IV, Data Engineer (4+ yrs), Data Solutions Engineer (7+ yrs); software roles Senior/Principal in Belgrade. Rest sales/service/analyst. No entry SWE.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Qualcomm",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -81,14 +81,40 @@
       "level": "unlabeled",
       "level_basis": "Min quals: Bachelor's degree only, no years of experience; no senior duties; modem firmware (C/C++)",
       "no_sponsorship": true
+    },
+    {
+      "title": "#Wireless S/w Engineer",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721159541",
+      "location": "San Diego, CA",
+      "opened": "2026-09-18",
+      "date_source": "eightfold API t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: Bachelor's degree only, no years; 'Works under supervision'",
+      "no_sponsorship": true
+    },
+    {
+      "title": "#AI Solution Engineer",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721270663",
+      "location": "San Diego, CA",
+      "opened": "2026-09-24",
+      "date_source": "eightfold API t_create",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: Bachelor's degree only, no years; 'Works under supervision'",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-07-05",
   "last_cycle_basis": "tracker first seen: Software Engineer - Hypervisor (San Diego, CA), careers.qualcomm.com, active 2025-07-05",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://qualcomm.eightfold.ai",
   "jobs_spec": "eightfold:qualcomm.eightfold.ai/qualcomm.com",
-  "evidence": "Eightfold search/position API 2026-10-07: ML Eng College Graduate, two Entry Level & Senior AI SWE, entry-level Backend SWE still listed in San Diego; added #AI Infrastructure SWE (San Diego) and #Wireless SWE (Boulder), bachelor's-only, no sponsorship. Markham Ontario ML new-grad not Toronto. No deadline.",
+  "evidence": "Eightfold position API 2026-10-08 (list endpoint throttled; checked posting IDs individually): ML Eng College Graduate, two Entry Level & Senior AI SWE (Master's+1 yr or projects), entry-level Backend SWE, bachelor's-only #AI Infra SWE, #Wireless SWE (Boulder) still live; added #Wireless S/w Engineer and #AI Solution Engineer (bachelor's only, works under supervision). Markham ON ML role not Toronto. No deadline.",
   "confidence": "high"
 }

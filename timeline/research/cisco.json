@@ -1,7 +1,6 @@
 {
   "company": "Cisco",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -11,10 +10,10 @@
       "opened": "2026-09-30",
       "date_source": "workday startDate",
       "deadline": "2026-10-09",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience (completed within past 3 years or expected within 12 months) or Bachelor's with 2 years",
+      "level_basis": "Minimum qualifications: Master's 0 years or Bachelor's 2 years (college template)",
       "no_sponsorship": false
     },
     {
@@ -24,10 +23,10 @@
       "opened": "2026-09-29",
       "date_source": "workday startDate",
       "deadline": "2026-10-12",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience (completed within past 3 years or expected within 12 months) or Bachelor's with 2 years",
+      "level_basis": "Minimum qualifications: Master's 0 years or Bachelor's 2 years (college template)",
       "no_sponsorship": false
     },
     {
@@ -37,10 +36,10 @@
       "opened": "2026-09-24",
       "date_source": "workday startDate",
       "deadline": "2026-10-12",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience (completed within past 3 years or expected within 12 months) or Bachelor's with 2 years",
+      "level_basis": "Minimum qualifications: Master's 0 years or Bachelor's 2 years (college template)",
       "no_sponsorship": false
     },
     {
@@ -50,23 +49,10 @@
       "opened": "2026-10-07",
       "date_source": "workday startDate",
       "deadline": "2026-10-13",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience (completed within past 3 years or expected within 12 months) or Bachelor's with 2 years",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer Full Stack / Backend II (Full-Time) - United States",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2023953",
-      "location": "San Jose, CA; New York, NY; Boston, MA; Knoxville, TN; Austin, TX; Milpitas, CA; Alpharetta, GA; RTP, NC; Maynard, MA; Fulton, MD; Dallas, TX; Atlanta, GA; Hillsboro, OR",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-08",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience (completed within past 3 years or expected within 12 months) or Bachelor's with 2 years",
+      "level_basis": "Minimum qualifications: Master's 0 years or Bachelor's 2 years (college template)",
       "no_sponsorship": false
     },
     {
@@ -76,10 +62,10 @@
       "opened": "2026-10-01",
       "date_source": "workday startDate",
       "deadline": "2026-10-29",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Minimum qualifications: Bachelor's degree with 0 years of work experience; posting is a talent-pipeline ad ('may not be open today')",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
@@ -88,11 +74,11 @@
       "location": "San Francisco, CA; San Jose, CA",
       "opened": "2026-10-07",
       "date_source": "workday startDate",
-      "deadline": "2026-10-11",
-      "grad_window": "Completed within past 3 years or expected within next 12 months",
+      "deadline": "2026-10-12",
+      "grad_window": "degree completed within past 3 years or expected within next 12 months",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum qualifications: Master's degree with 0 years of work experience, or Bachelor's with 2 years; work with experienced engineers (titled Software Engineer in body)",
+      "level_basis": "Minimum qualifications: Master's 0 years or Bachelor's 2 years (college template); works with experienced engineers",
       "no_sponsorship": false
     }
   ],
@@ -102,6 +88,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://cisco.wd5.myworkdayjobs.com/cisco_careers",
   "jobs_spec": "wd:cisco/wd5/cisco_careers",
-  "evidence": "Workday board 2026-10-07 + detail: college-template (Full Time) US postings are live with Master's 0 yrs / Bachelor's 2 yrs minimums; end dates Oct 8-29. Fullstack/Backend II 2026299 needs U.S. citizen (FedRAMP), left out. Embedded Systems I (Full Time) no longer on board.",
-  "confidence": "high"
+  "evidence": "Workday full board (1381) 2026-10-08 plus detail: college-template (Full Time) US SWE postings live, end dates Oct 9-29. Fullstack/Backend II 2026299 and SRE II 2027109 need U.S. citizen (FedRAMP), left out. Fullstack/Backend II 2023953 now 'page doesn't exist' in browser, dropped.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

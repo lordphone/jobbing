@@ -1,7 +1,7 @@
 {
   "company": "Tesla",
-  "tier": 1,
-  "checked": "2026-10-07",
+  "tier": 2,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,34 @@
       "live_verified": "browser",
       "deadline": null,
       "level": "unlabeled",
-      "level_basis": "'We hire at all levels, including recent graduates with strong controls or robotics fundamentals' (checked 2026-10-07)"
+      "level_basis": "'We hire at all levels, including recent graduates with ...' (job text, checked 2026-10-08); no years required",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Reinforcement Learning Engineer, Whole Body Controls, Optimus",
+      "url": "https://www.tesla.com/careers/search/job/244485",
+      "location": "Palo Alto, CA",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (listed on careers state API; no date shown)",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null,
+      "level": "unlabeled",
+      "level_basis": "'We hire at all levels, including recent graduates with ...' (job text, checked 2026-10-08); no years required",
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Engineer, Whole Body Controls, Optimus",
+      "url": "https://www.tesla.com/careers/search/job/275999",
+      "location": "Palo Alto, CA",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (listed on careers state API; no date shown)",
+      "grad_window": null,
+      "live_verified": "browser",
+      "deadline": null,
+      "level": "unlabeled",
+      "level_basis": "'We hire at all levels, including recent graduates with ...' (job text, checked 2026-10-08); no years required",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -23,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.tesla.com/careers/search/?site=US",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: job 276000 (Palo Alto) page loads with Apply; text says 'We hire at all levels, including recent graduates'. Careers state API (8452 listings) has no title labeled new grad/entry for US SWE; roles are unleveled and no formal 2027 program. Opened date is a tracker bound.",
+  "evidence": "Browser 2026-10-08: careers state API (8465 listings) has only Winter/Spring 2027 interns and a Berlin Associate SWE as entry-labeled. Scanned text of 177 US full-time SWE/ML/AI posts: three Optimus Whole Body Controls posts (Palo Alto) say 'We hire at all levels, including recent graduates'. No formal 2027 new-grad program.",
   "confidence": "medium"
 }

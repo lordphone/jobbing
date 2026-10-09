@@ -1,6 +1,7 @@
 {
   "company": "Toyota",
-  "tier": 8,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -13,17 +14,16 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires \"2+ years of experience in software engineering, data engineering, or platform engineering\"; duties: participate in code reviews, help improve platform; no senior level",
+      "level_basis": "requires \"2+ years of experience in software engineering, data engineering, or platform engineering\"; duties: build/support platform components, code reviews; no senior level",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-22",
   "last_cycle_basis": "tracker first seen: 'Machine Learning Engineer - Entry Level', Plano TX (jobs.py history)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://toyota.wd503.myworkdayjobs.com/tmna",
   "jobs_spec": "wd:toyota/wd503/tmna",
-  "evidence": "Workday API 2026-10-07 (124, full): Data Platform Engineer (TFS, Plano) canApply true, endDate 2026-10-16, no sponsorship now or future. Previously noted AI/ML Platform Engineer (Early Career, endDate 2026-10-31) no longer on board search; page itself returned 403. Other SWE are 3+ yrs/Senior/Lead.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Workday (127, full) 2026-10-08: Data Platform Engineer (TFS, Plano) canApply true, endDate 2026-10-16, no sponsorship for this role. Other SWE/SRE: 3-5+ yrs, Senior or Lead. Earlier AI/ML Platform Engineer (Early Career) no longer on board.",
+  "confidence": "medium"
 }

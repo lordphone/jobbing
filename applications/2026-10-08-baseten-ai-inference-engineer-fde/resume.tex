@@ -1,0 +1,61 @@
+% Baseten — AI Inference Engineer (Forward Deployed Engineering, FDE Generalists) (SF / NY / Remote / Montreal / Toronto, hybrid)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.7pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Machine Learning, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Operating Systems, Computer Architecture
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Designed and shipped a personalized LLM alert pipeline as a Kubernetes CronJob (bge embeddings $\to$ LLM scoring $\to$ per-topic percentile gate $\to$ LLM dedupe $\to$ push, $\sim$1{,}200 LLM calls/day).
+  \item Evaluated it over 11 days of production shadow (4{,}100+ logged decisions) and cut filler 34\% $\to$ 4\%. Hand-graded alerts showed non-events scored like real ones (median 89 vs.\ 90), so I added an event gate.
+  \item Rejected a rule that caught 91\% of filler but killed the day's two highest-reach real alerts, and retired my own first detector after 19 hours of production data showed it was 15 hours too slow (net $-$882 lines).
+  \item Shipped agentic search over SSE (0.85\,s to first token): deterministic RAG on turn 1, a bounded tool-calling agent ($\le$3 hops, 5 tools) on follow-ups, hybrid retrieval fused by RRF, and server-resolved citations. Entity resolution took real logged queries from 0\% to 100\% P@1 at 0.4\,ms.
+  \item Root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) and a Helm env shadowing the code default.
+  \item Stood up the service on AWS EKS (Docker, Helm, Jenkins) on day 3, set up Prometheus and Grafana, and fixed a 5-day silent CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency).
+  \item Built the Python FastAPI backend from its first commit to 89 endpoints with $\sim$1{,}450 offline tests and cut a 25--30 request fan-out to one call on a shared cache 78$\times$ smaller than per-user keys.
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings, 1{,}119 peak daily active users), and wrote 34 contract-first API specs for the team.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine and designed the database schemas and REST APIs for its LangChain LLM features.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer, then demoed it and iterated with clients until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Go, Java, SQL, Bash, TypeScript, Swift, C \\[1pt]
+  \textbf{AI/ML} & PyTorch, CUDA, RAG, hybrid retrieval, bge embeddings, LLM tool calling / agents, Langfuse \\[1pt]
+  \textbf{Infra} & Docker, Kubernetes (EKS), Helm, AWS, GCP Vertex AI, Prometheus, Grafana, CI/CD, Linux \\[1pt]
+  \textbf{Backend} & FastAPI, Pydantic, asyncio, Server-Sent Events (SSE), MongoDB, PostgreSQL, pytest \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans. Tested Z.AI, MiniMax, and Kimi on KV caching, long context, and needle-in-a-haystack to show which nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

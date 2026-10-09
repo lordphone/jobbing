@@ -1,7 +1,5 @@
 {
   "company": "Carrier Global",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,15 +10,20 @@
       "date_source": "tracker first seen (Workday repost startDate 2026-09-22)",
       "deadline": "2026-10-16",
       "grad_window": "2026 or 2027 graduate, June 2027 start",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     }
   ],
+  "no_sponsorship": true,
   "last_cycle_opened": null,
   "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting in jobs.py history; DTLP first seen 2026-08-23 is this cycle",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
   "jobs_spec": "wd:carrier/wd5/jobs",
-  "evidence": "Workday CXS+detail 2026-10-07: DTLP live (Palm Beach Gardens), endDate 2026-10-16, 2026/2027 grads, June 2027 start, must work without sponsorship; rotation incl. data/AI and digital products, a leadership program not pure SWE. Solutions Development Engineer not entry. No other entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday CXS 2026-10-08: Digital Technology Leadership Program live (Palm Beach Gardens), ends 2026-10-16, 2026/27 grads, June 2027 start, no sponsorship; 3 rotations incl. data and AI, enterprise systems; leadership rotation, not pure SWE. Engineering Leadership Programs need engineering degrees. Validation Software Engineer (Fort Wayne) reads senior (sets standards), left out.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null
 }

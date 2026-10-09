@@ -1,15 +1,81 @@
 {
   "company": "BAE Systems (US)",
-  "tier": 8,
+  "tier": 5,
   "status": "excluded",
-  "postings": [],
+  "postings": [
+    {
+      "title": "Entry Level Software Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US129314BREXTERNAL",
+      "location": "Hudson, NH",
+      "opened": "2026-09-20",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US128932BREXTERNAL",
+      "location": "Greenlawn, NY",
+      "opened": "2026-10-06",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "FAST Labs - Software Engineer - Early Career Levels - Secret",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US130493BREXTERNAL",
+      "location": "Merrimack, NH",
+      "opened": "2026-10-06",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "FAST Labs - Software Engineer - Early Career Levels - Top Secret",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US130491BREXTERNAL",
+      "location": "Merrimack, NH",
+      "opened": "2026-09-24",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer I - Software",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US130952BREXTERNAL",
+      "location": "Boulder, CO",
+      "opened": "2026-10-07",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "title Engineer I",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker_last_cycle from worklist (first seen 2025-08-17)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.baesystems.com",
   "jobs_spec": null,
-  "evidence": "Phenom search API 2026-10-07 (US, 'software engineer' 1143 hits): entry roles Entry Level Software Engineer 129314BR ('Must be eligible for a US DoD security clearance'), SWE I 129394BR ('this specific position requires US citizenship status'), SWE I 127649BR/130128BR (job data isUsCitizenshipRequired Yes), Junior SWE 128932BR ('Able to obtain a Secret clearance').",
+  "evidence": "Phenom search (US, first 1400 of 1920 by date) 2026-10-08: Entry Level SWE 'Must be eligible for a US DoD security clearance'; Junior SWE 'Able to obtain a Secret clearance'; FAST Labs early career need active Secret/TS clearance; Engineer I Boulder shows 'Is Us Citizenship Required: Yes'. Other SWE roles 4+ yrs.",
   "confidence": "high",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

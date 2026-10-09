@@ -1,13 +1,15 @@
 {
   "company": "Union Pacific",
-  "tier": 11,
+  "tier": 5,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker record. UP runs year-round Technology interns in Omaha (up.jobs).",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://up.jobs/search/",
   "jobs_spec": null,
-  "evidence": "up.jobs fetched 2026-10-07: 'software engineer' (65 results, page 1) shows only co-op/intern, train crew, mechanics; 'technology graduate' (9) only interns and mechanics. No entry SWE or new-grad tech posting. Prior 2026-10-06 check of developer/data/technology agreed.",
+  "evidence": "up.jobs read in browser 2026-10-08 (searches software, software engineer, developer, technology, data, graduate, analyst, IT; whole board is ~65 postings): only craft/train crew/mechanic roles and Omaha interns/co-ops (Engineering, Mechanical, Network Planning). No software or entry-level tech roles.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

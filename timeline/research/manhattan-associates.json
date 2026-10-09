@@ -1,15 +1,15 @@
 {
-  "company": "Manhattan Associates",
-  "tier": 6,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no last-cycle US entry SWE posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://manh.wd5.myworkdayjobs.com/External",
-  "jobs_spec": "wd:manh/wd5/External",
-  "evidence": "Workday API 2026-10-07 (--all, 26 postings): only associate role is Paris Technology Associate Consultant; US roles (Atlanta) are senior, sales or non-SWE. No US/Toronto/Vancouver entry SWE.",
-  "confidence": "medium"
+ "company": "Manhattan Associates",
+ "tier": 5,
+ "status": "not_yet",
+ "postings": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No tracker history. Built In (third party) shows a 'Software Engineer - Campus 2025' Atlanta posting removed 2025-03-25, outside the Jul-Jan window; no 2025-26 campus posting found.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://manh.wd5.myworkdayjobs.com/External",
+ "jobs_spec": "wd:manh/wd5/External",
+ "evidence": "Workday API 2026-10-08 (26 postings, full): only associate-level roles are Paris Technology Associate Consultant and Associate Consultant; Atlanta engineering roles are Senior Cloud Security Engineer and Principal AI Engineer. Atlanta campus SWE track exists but nothing live.",
+ "confidence": "medium",
+ "checked": "2026-10-08"
 }

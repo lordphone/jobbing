@@ -1,28 +1,28 @@
 {
   "company": "Home Depot",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer (Remote)",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624",
-      "location": "Remote (US); Georgia-virtual",
-      "opened": "on or before 2026-09-29",
-      "date_source": "workday postedOn",
+      "location": "Remote (US) (Georgia virtual, no city listed)",
+      "opened": "2026-09-29",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum Years of Work Experience: 1; no leadership experience; 'Software Engineer' sits below Software Engineer II",
+      "level_basis": "Minimum Years of Work Experience: 1; no leadership experience; 'assisting in developing' duties; bachelor's degree",
       "no_sponsorship": false
     },
     {
       "title": "Software Engineer - Workforce Management",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer---Workforce-Management_Req190607",
-      "location": "Remote (US); Georgia-virtual",
-      "opened": "on or before 2026-09-09",
-      "date_source": "workday postedOn",
+      "location": "Remote (US) (Georgia virtual, no city listed)",
+      "opened": "2026-09-09",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -37,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://homedepot.wd5.myworkdayjobs.com/careerdepot",
   "jobs_spec": "wd:homedepot/wd5/careerdepot",
-  "evidence": "Workday search API 2026-10-07 (board listing is a capped 100; searched software/developer/data/AI): two base-level Software Engineer reqs (194624, 190607) live, min 1 yr, no class year. Others are II/Senior/Staff or 6+ yrs; 2027 SWE internship live.",
+  "evidence": "Workday API 2026-10-08 (985 listed): two base-level Software Engineer reqs (194624, 190607) live, min 1 yr, no leadership, no class year. Others are II/Senior or 3+ yrs; Data Engineer roles not counted (unclear level). Embedded SWE needs 3+ yrs.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Ralph Lauren",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
+  "last_cycle_basis": "no tracker or first-party record of a new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ralphlauren.com/en_US/CareersCorporate/SearchJobsCorporate",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: read all 229 corporate listings. 10 US Information Technology roles, none entry-level; DevOps Developer (NY) needs 3+ yrs. No new-grad or associate engineer posting.",
-  "confidence": "high"
+  "evidence": "Browser-session fetch of all corporate listings 2026-10-08 (227 results, all pages): technology titles are AI Engineering Lead, Senior Application Development Analyst, Infrastructure Engineer (Wintel/Azure), Technology Operations Analyst/Associate (store systems support), Technology Business Management Analyst. None are entry-level software roles; no early-career SWE track.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

@@ -1,7 +1,5 @@
 {
   "company": "BNSF Railway",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +10,7 @@
       "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29, likely repost)",
       "deadline": null,
       "grad_window": "recent grads or pursuing CS/IT/Data Science/AI degree; starts 2027-02-01, 2027-06-14, 2027-09-20; <3 yrs experience",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -23,21 +21,23 @@
       "location": "Remote (US, contiguous 48 states)",
       "opened": "2026-07-28",
       "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29)",
-      "deadline": "approximately 2026-10-06 (posting: closes about 7 days after posting date 2026-09-29)",
+      "deadline": "approximately 2026-10-06 (posting says closes about 7 days after posting date 2026-09-29); still listed 2026-10-08",
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Software Engineer I/II; bachelors in CS or 2 yrs software experience",
+      "level_basis": "Software Engineer I/II; basic quals: bachelor's in CS or 2 yrs software experience",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no last-cycle open date found",
-  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom widgets search 2026-10-07 lists both: bnsf tech Trainee 2027 (<3 yrs, no OPT/H-1B assistance now or future) and Full Stack SWE I/II (open to H-1B transfers/STEM OPT; text says closes ~7 days after 2026-09-29, still listed). IT Audit trainee not SWE. Pages show Apply Now.",
+  "jobs_spec_basis": "jobs.bnsf.com is Phenom; /widgets refineSearch API lists the board; no jobs.py spec",
+  "evidence": "Phenom widgets API (106 jobs) and posting pages 2026-10-08: bnsf tech Trainee 2027 (<3 yrs, no OPT/H-1B assistance now or future) and Full Stack SWE I/II (text open to H-1B transfers/STEM OPT but also says no assistance; closes ~7 days after 2026-09-29, still listed). Other 2027 roles are non-software.",
   "confidence": "high",
-  "jobs_spec_basis": "jobs.bnsf.com is Phenom; /widgets refineSearch API lists the board; no jobs.py spec"
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null
 }

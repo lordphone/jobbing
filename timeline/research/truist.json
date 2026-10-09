@@ -1,29 +1,15 @@
 {
   "company": "Truist",
   "tier": 5,
-  "checked": "2026-10-07",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer--Python & Data Analytics",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972",
-      "location": "Richmond, VA; Charlotte, NC",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
+  "checked": "2026-10-08",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-07-18",
   "last_cycle_basis": "tracker history: 'Testing Software Engineer I' Charlotte first seen 2025-07-18 (SWE I postings continued Oct 2025-Feb 2026)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://truist.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:truist/wd1/Careers",
-  "evidence": "Workday keyword searches and detail 2026-10-07: Associate Software Engineer (Python & Data Analytics) live, start 2026-10-01, bachelor's+3 yrs or equivalent; no visa sponsorship (H-1B/OPT/CPT). 2027 TD&O analyst posting no longer found. Board listing is flaky (rate limited).",
+  "evidence": "Workday full board (1502) and keyword search 2026-10-08: the Associate Software Engineer (Python & Data Analytics) posting seen 2026-10-07 is gone (API 403). Left are SWE III+/Senior and 6-10 yr roles. Page not opened in browser.",
   "confidence": "medium"
 }

@@ -1,15 +1,29 @@
 {
   "company": "Niantic Spatial",
-  "tier": 9,
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 4,
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Engineer, Computer Vision",
+      "url": "https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-07",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "no years required; 'through coursework, research, internships, or early industry work'; 'alongside experienced researchers'; bachelor's or master's; $165,600 - $221,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker first-seen: Software Engineer, Client, SF on old Niantic Greenhouse board, https://job-boards.greenhouse.io/niantic/jobs/8108536002",
+  "last_cycle_basis": "tracker first-seen: Software Engineer, Client, San Francisco (parent Niantic board, before 2025 spin-out) https://job-boards.greenhouse.io/niantic/jobs/8108536002",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/niantic-spatial",
   "jobs_spec": "ashby:niantic-spatial",
-  "evidence": "Ashby full board (18) 2026-10-07: Senior/Staff/Principal engineers, Software Engineering Intern (Summer 2027), AI Automation Engineer SF ($158K-$210K, no entry-level language). No entry SWE or new-grad role. Spun out of Niantic in 2025.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Ashby API 2026-10-08 (19, full). AI Engineer, Computer Vision (published 2026-10-07) reads entry-level: no years, coursework/early-industry experience ok, BS/MS. Others senior/staff/intern; AI Automation Engineer is senior-leaning (owns system). Old file said no_program; now open.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

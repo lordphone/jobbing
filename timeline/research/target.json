@@ -1,7 +1,7 @@
 {
   "company": "Target",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -32,10 +32,10 @@
     },
     {
       "title": "Android Engineer - Flagship Mobile App",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000453889",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000449891",
       "location": "Brooklyn Park, MN",
       "opened": "2026-09-17",
-      "date_source": "workday startDate (may be a repost)",
+      "date_source": "workday startDate of earlier req R0000453889 (reposted 2026-10-07)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -94,6 +94,19 @@
       "level": "unlabeled",
       "level_basis": "1+ years of software development experience; $75,400-$135,700; base Engineer level, 'with guidance'",
       "no_sponsorship": false
+    },
+    {
+      "title": "Full-Stack Engineer – Owned Brands - PLM Materials",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Full-Stack-Engineer---Owned-Brands---PLM-Materials_R0000450633",
+      "location": "Brooklyn Park, MN",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "2+ years of software development experience; $75,400-$135,700; base Engineer level",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-02-25",
@@ -102,6 +115,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://target.wd5.myworkdayjobs.com/targetcareers",
   "jobs_spec": "wd:target/wd5/targetcareers",
-  "evidence": "Workday 2026-10-07: no Technology Leadership Program live (last opened Feb 2026). Base-level 'Engineer' roles (Brooklyn Park) ask 1+ yrs, pay from $75,400, no senior duties: counted as unlabeled entry (judgment call; earlier pass excluded them). Mobility Engineer unclear, left out.",
-  "confidence": "low"
+  "evidence": "Workday search + posting pages 2026-10-08: no Technology Leadership Program live (last opened Feb 2026). Base-level 'Engineer' roles (Brooklyn Park) ask 1-2+ yrs, pay from $75,400: counted as unlabeled entry (judgment call). Android req reposted under R0000449891 (old R0000453889 gone); Full-Stack PLM added.",
+  "confidence": "medium"
 }

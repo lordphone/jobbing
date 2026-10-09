@@ -1,7 +1,7 @@
 {
   "company": "Equifax",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "availability by June 2027 (Spring 2027 graduation)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://equifax.wd5.myworkdayjobs.com/UR_External",
   "jobs_spec": "wd:equifax/wd5/UR_External",
-  "evidence": "Workday board (22, full) + detail 2026-10-07: SRE Rotational Development Program (St. Louis, Spring 2027 grads, startDate 2026-09-01) listed, no deadline. 2025 SRE and Rotational Technology Associate (2026 grads) are leftovers. Data/Finance/Sales programs not SWE.",
+  "evidence": "Workday board (22, full), detail and browser (Apply present) 2026-10-08: SRE Rotational Development Program (St. Louis, Spring 2027 grads, startDate 2026-09-01), no deadline. 2025 SRE and Rotational Technology Associate (2026 grads) are leftovers. Data/Finance/Sales programs not SWE.",
   "confidence": "medium"
 }

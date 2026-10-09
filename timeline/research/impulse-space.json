@@ -1,15 +1,15 @@
 {
   "company": "Impulse Space",
-  "tier": 8,
-  "status": "excluded",
+  "tier": 3,
+  "checked": "2026-10-08",
+  "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history.",
-  "excluded_reason": "us person / itar",
+  "last_cycle_basis": "No tracker history found.",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://impulsespace.pinpointhq.com",
   "jobs_spec": "pinpoint:impulsespace",
-  "evidence": "Pinpoint JSON 2026-10-07 (211): no new-grad title; software roles Flight (4+ yrs), Embedded (2+), Test Automation Software (All Levels, 2+). Postings quote: 'requires applicants to be either U.S. Persons ... or persons eligible to obtain an export license'; ITAR/EAR applies.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Pinpoint JSON read in full 2026-10-08 (212): no new-grad title. Software roles need 2+ yrs C/C++ embedded or Flight 4+; Test Automation (Software) 'All Levels' 2+ yrs spans to senior, left out. Postings require U.S. Persons 'or persons eligible to obtain an export license', so not a clean exclusion.",
+  "confidence": "medium"
 }

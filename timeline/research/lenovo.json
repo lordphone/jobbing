@@ -1,7 +1,7 @@
 {
   "company": "Lenovo",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text",
       "deadline": "2026-10-23",
       "grad_window": "recent graduates; onboarding Spring/Summer 2027",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "'early-career engineer'; requires '0-2+ years of software engineering experience; internships, academic projects ... considered'",
       "no_sponsorship": false
@@ -38,7 +38,7 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "'Junior' title; basic quals '2+ years of experience in Data Engineering, Data Science, or Machine Learning'; Bachelor's, Master's preferred",
       "no_sponsorship": false
@@ -51,7 +51,7 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "'2+ years of professional software engineering experience'; $98K-$110K; 'work alongside senior engineers ... while growing'",
       "no_sponsorship": false
@@ -63,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lenovo.com/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Lenovo SearchJobs HTTP pages 2026-10-07 (no API; searched GFL, software, engineer, junior, developer, AI, associate); each posting page fetched with Apply. GFL AI Platform Engineer (apply Sep 1-Oct 23 2026, onboarding Spring/Summer 2027); Junior Cloud Platform (0-2 yrs); Junior Data/AI-ML (2+ yrs); AI Enterprise Engineer (2+ yrs, borderline). Other software roles need 3-5+ yrs or are outside US.",
+  "evidence": "Lenovo SearchJobs pages and each posting page fetched 2026-10-08 (no API; searched GFL, software engineer, junior, associate engineer, developer); Apply present on all four. GFL AI Platform Engineer (apply Sep 1-Oct 23, recent grads, onboarding Spring/Summer 2027); Junior Cloud Platform (0-2+ yrs); Junior Data/AI-ML (2+ yrs); AI Enterprise Engineer (2+ yrs, borderline). Others need 3-5+ yrs, are firmware, or outside US.",
   "confidence": "medium"
 }

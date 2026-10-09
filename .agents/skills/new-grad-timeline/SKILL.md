@@ -20,7 +20,7 @@ Two uses:
 
 Files:
 
-- `timeline/COMPANY_LIST.md`: the companies, in 11 tiers.
+- `timeline/COMPANY_LIST.md`: the companies, in 5 tiers by how much an offer is worth (S to D), grouped by industry within each tier.
 - `timeline/sources.csv`: where each company's job list lives (`jobs.py spec` and `Jobs page`). Start here.
 - `timeline/status.csv`, `timeline/postings.csv`, `timeline/SUMMARY.md`, `timeline/sources.csv`: built by `scripts/merge.py`. Don't edit them by hand.
   - `status.csv` has one row per company (status, last cycle, expected opening). `postings.csv` has one row per open posting, since a company can have several.
@@ -152,7 +152,7 @@ All scripts are in this skill's `scripts/` folder. Run them with `python3` from 
 3. `merge.py`: builds `status.csv`, `SUMMARY.md`, `sources.csv` and `timeline/data/merged.json`. Then `check_sources.py` (about a minute) tests every saved API board and writes doubtful ones to `timeline/data/source_flags.json`; `worklist.py` hands each flag to that company's research agent.
 4. `worklist.py`: picks the companies to research and writes `timeline/data/worklist.json` and `timeline/data/workflow_args.json`. It prints the count; **tell him the count and get his OK before running.** Examples:
    - `worklist.py --status open,tracker_lead --source tracker,first-pass`: confirm open roles that aren't first-party yet.
-   - `worklist.py --tier 1-5 --source first-pass --limit 100`: redo weak first-pass results, top tiers first.
+   - `worklist.py --tier 1-3 --source first-pass --limit 100`: redo weak first-pass results, top tiers first.
    - `worklist.py --names "Google|Meta"`: specific companies.
    - Companies that already have a research file are skipped unless you pass `--redo`.
 5. Put his request, quoted, into the `approval` field of `workflow_args.json`. Then call the Workflow tool with `scriptPath: <repo>/.claude/workflows/new-grad-research.js` and those contents as `args`.

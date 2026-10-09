@@ -1,15 +1,15 @@
 {
   "company": "Delta",
-  "tier": 11,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; no Delta new-grad SWE posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://delta.avature.net/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "delta.avature.net searches in browser 2026-10-07 (software, developer, engineer, graduate, entry level, early career, associate, data, new grad, technology, machine learning, 2027; 70 unique jobs): software roles are Senior/Manager; entry items are Summer 2027 IT intern and Spring 2027 co-op only.",
+  "evidence": "delta.avature.net result pages in browser 2026-10-08 (11 keyword searches, 66 unique non-ops jobs): software roles are Senior/Manager; entry items are Summer 2027 IT interns, Spring/Summer 2027 co-ops and graduate interns only. IFEC Test Automation Engineer is test, not counted.",
   "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-08",
+  "tier": 5
 }

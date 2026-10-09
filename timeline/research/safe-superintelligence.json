@@ -1,16 +1,16 @@
 {
   "company": "Safe Superintelligence (SSI)",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://ssi.inc/",
-  "jobs_spec": null,
-  "jobs_spec_basis": "ashby:ssi not found; ssi.inc has no job list or ATS links",
-  "evidence": "ashby:ssi returns nothing (no board). ssi.inc 2026-10-07 shows no job list or early-career track; hiring by contact only. Offices Palo Alto and Tel Aviv.",
-  "confidence": "medium"
+  "jobs_page": "https://jobs.ashbyhq.com/ssi",
+  "jobs_spec": "ashby:ssi",
+  "jobs_spec_basis": "ssi.inc Apply button links to jobs.ashbyhq.com/ssi; API answers with an empty job list",
+  "evidence": "ssi.inc Apply button goes to jobs.ashbyhq.com/ssi; its Ashby posting API returns 0 jobs (2026-10-08). No open roles, no new-grad track.",
+  "confidence": "high"
 }

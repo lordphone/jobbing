@@ -1,26 +1,29 @@
 {
   "company": "Battelle",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "excluded",
+  "excluded_reason": "citizenship",
   "postings": [
     {
       "title": "Software Engineer - Embedded Systems (Entry Level)",
       "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS76480EXTERNALENUS/Software-Engineer-Embedded-Systems-Entry-Level",
       "location": "Columbus, OH",
       "opened": "2026-08-26",
-      "date_source": "page text (Phenom dateCreated)",
+      "date_source": "page text (dateCreated)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-21",
-  "last_cycle_basis": "tracker first-seen 'Early Career Software Engineer', Columbus OH",
-  "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen; Early Career Software Engineer, Columbus OH",
   "jobs_page": "https://jobs.battelle.org/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom page HTML fetched 2026-10-07: Entry Level Embedded SWE (Columbus OH, created 2026-08-26) has Apply Now and says \"Must be a sole U.S. citizen and able to obtain and maintain a government TS/SCI security clearance\". Other software roles (76185, 76503) also need US citizen + DoD clearance.",
-  "confidence": "high"
+  "evidence": "Phenom widgets 2026-10-08 (185, all listed). Entry Level Embedded SWE (Apply Now present): 'Must be a sole U.S. citizen and able to obtain and maintain a government TS/SCI security clearance'. Junior Embedded Systems Developer and other software/data roles also say US Citizen + DoD clearance.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "no_sponsorship": false
 }

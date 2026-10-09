@@ -1,7 +1,7 @@
 {
   "company": "Captivation",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -16,27 +16,14 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer 1 - Java/Confluence/Jira/AWS/Maven/MapReduce",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5426544008",
-      "location": "Annapolis Junction, MD",
-      "opened": "2026-09-16",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-21",
-  "last_cycle_basis": "tracker first seen: Software Engineer 1 - Linux/Python/Bash..., Annapolis Junction MD (job-boards.greenhouse.io/captivation/jobs/4892702008)",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1, Annapolis Junction MD (job-boards.greenhouse.io/captivation/jobs/4892702008)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/captivation",
   "jobs_spec": "gh:captivation",
-  "evidence": "Greenhouse 2026-10-07 (72): SWE 0/1 postings (2026-09-16) say 'Must currently hold a Top Secret/SCI U.S. Government security clearance with a favorable Polygraph, therefore all candidates must be a U.S. citizen'.",
+  "evidence": "Greenhouse API 2026-10-08 (72, full): SWE 0/1 postings (2026-09-16). Posting says 'Must currently hold a Top Secret/SCI U.S. Government security clearance with a favorable Polygraph, therefore all candidates must be a U.S. citizen'. Excluded.",
   "confidence": "high"
 }

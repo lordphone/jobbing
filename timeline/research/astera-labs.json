@@ -1,7 +1,6 @@
 {
   "company": "Astera Labs",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "degree completed recently or expected by start of role",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "no tracker history found for Astera Labs",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/asteraearlycareer2027",
   "jobs_spec": "gh:asteraearlycareer2027",
-  "evidence": "Early-career board asteraearlycareer2027 (82 postings, API 2026-10-07): Applied AI NCG (Non Silicon) is a new-grad ML/GenAI/full-stack software role, San Jose, $140-155K; no citizenship/sponsorship text, no deadline. Other NCG roles are hardware/validation/analyst.",
-  "confidence": "medium"
+  "evidence": "Early-career board (82 postings, full, 2026-10-08): Applied AI NCG (Non Silicon) is a new-grad ML/GenAI/full-stack software role, San Jose, on the API list. Other NCG roles are hardware, analyst or lab roles; rest interns. No citizenship text, no deadline.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

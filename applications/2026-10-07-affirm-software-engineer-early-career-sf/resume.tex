@@ -1,0 +1,58 @@
+% Affirm — Software Engineer, Early Career (SF)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Data Structure \& Programming III, Algorithms, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built SportsBreak's Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints across 27 routers, with $\sim$1{,}450 fully-offline tests (1:1 with production lines) behind a ruff / pyright / pytest CI gate.
+  \item Stood up production AWS EKS (Helm, Jenkins) on day 3 with 7 CronJobs; caught a stale ArgoCD app that would wipe Jenkins deploys and fixed a 5-day silent CronJob outage with paired deadlines.
+  \item Debugged a 65\% failure rate in another team's LLM pipeline (1{,}661-commit repo) via Langfuse traces: an unbounded reasoning loop plus a Helm env shadowing the code default; sized a token cap against p95 usage.
+  \item Contributed to DramaBreak's mature two-repo codebase (20 PRs, 19 merged), shipping a Stripe web checkout with a signature-verified webhook as the only trusted fulfillment, idempotent with stale-pending reclaim.
+  \item Designed and shipped a personalized LLM alert pipeline as a Kubernetes CronJob; validated it in production shadow on 4{,}100+ logged decisions before going live, cutting filler 34\% $\to$ 4\%.
+  \item Wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs; reopened two closed security tickets with line-level evidence the fixes were absent from the code.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, peak DAU 1{,}119) and primary backend author; 344 PRs (340 merged); onboarded the team's next engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Demoed the product and iterated fast with clients until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, JavaScript, TypeScript, C, Go, SQL, Swift, HTML, CSS \\[1pt]
+  \textbf{Web \& APIs} & React, Next.js, FastAPI, REST APIs, Stripe, PostgreSQL, MongoDB, Supabase \\[1pt]
+  \textbf{Cloud \& Deploy} & AWS, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD, GCP \\[1pt]
+  \textbf{Testing \& Practices} & pytest, Unit Testing, TDD, ruff, pyright, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{ML \& AI} & PyTorch, RAG, LLM tool calling / agents, LangChain, Langfuse \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 1\,s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI, with streaming inference.
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and tested KV caching, long context, and needle-in-a-haystack to expose nerfed caching and heavy quantization.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

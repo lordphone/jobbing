@@ -1,28 +1,73 @@
 {
   "company": "HPE",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer Graduate",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624",
-      "location": "Spring, TX; Westford, MA; Fort Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
+      "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
       "opened": "2026-08-25",
-      "date_source": "tracker first seen (Workday startDate 2026-08-28)",
-      "deadline": "2027-07-06",
-      "grad_window": "BS/MS CS, 0-2 yrs",
-      "live_verified": "api"
+      "date_source": "tracker first seen",
+      "deadline": "2027-07-06 (estimated)",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "Cloud Engineer Graduate",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628",
-      "location": "Spring, TX; Westford, MA; Fort Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
+      "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
       "opened": "on or before 2026-08-28",
       "date_source": "workday startDate",
-      "deadline": "2027-07-06",
-      "grad_window": "BS CS or equivalent, 0-2 yrs",
-      "live_verified": "api"
+      "deadline": "2027-07-06 (estimated)",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Systems/Software Eng - Graduates",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Systems-Software-Eng---Graduates_1215861",
+      "location": "Aguadilla, Puerto Rico",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Cloud Engineer Graduate",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Engineer-Graduate_1215862-1",
+      "location": "Aguadilla, Puerto Rico",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691",
+      "location": "Westford, MA",
+      "opened": "2026-08-26",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Typically 0-2 years experience\"; Bachelor's in CS; Subscriber Services group",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -31,6 +76,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://hpe.wd5.myworkdayjobs.com/acjobsite",
   "jobs_spec": "wd:hpe/wd5/acjobsite",
-  "evidence": "Workday cxs 2026-10-07: Software Engineer Graduate (1213624) and Cloud Engineer Graduate (1213628) still live, canApply true, 10 US locations, BS/MS, typically 0-2 yrs; estimated application closure July 6 2027. Firmware, data science, hardware and sales graduate roles not counted.",
+  "evidence": "Workday API 2026-10-08 (1596 postings, full), detail read, canApply true: Software and Cloud Engineer Graduate (BS/MS, 0-2 yrs; posting estimates application closure 2027-07-06), Puerto Rico graduate roles, Westford SWE 0-2 yrs. Firmware, test, hardware, sales-ops SRE I graduate roles not counted.",
   "confidence": "high"
 }

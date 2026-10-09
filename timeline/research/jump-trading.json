@@ -1,7 +1,7 @@
 {
   "company": "Jump Trading",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -29,19 +29,6 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
-    },
-    {
-      "title": "Campus Systems Engineer (Full-Time)",
-      "url": "https://job-boards.greenhouse.io/jumptrading/jobs/8008112",
-      "location": "Chicago, IL",
-      "opened": "2026-07-08",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-07",
@@ -50,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/jumptrading",
   "jobs_spec": "gh:jumptrading",
-  "evidence": "gh:jumptrading board (109, full) and API detail 2026-10-07: Campus full-time AI Research Engineer x2 (Chicago/NY) and Systems Engineer (Chicago), first_published 2026-07-08, still listed; sponsors work visas. Other US SWE roles need 5+ yrs. No deadline.",
-  "confidence": "high"
+  "evidence": "gh:jumptrading full board (109) 2026-10-08: two Campus AI Research Engineer full-time roles (Chicago/NY) live, updated 2026-08-18; posting says it sponsors work visas. Campus Systems Engineer (Chicago) is trading infrastructure/network, left out. London/Amsterdam roles non-US.",
+  "confidence": "medium"
 }

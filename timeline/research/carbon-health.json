@@ -1,15 +1,16 @@
 {
   "company": "Carbon Health",
-  "tier": 3,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in tracker history",
+  "last_cycle_basis": "no new-grad SWE history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ats.rippling.com/carbon-health/jobs",
   "jobs_spec": null,
-  "evidence": "Rippling board 2026-10-07 (all pages): clinical, billing, center manager roles; only engineering are Senior Backend, Senior Full Stack, Tech Lead Platform.",
-  "confidence": "high"
+  "jobs_spec_basis": "Rippling ATS is the careers board; no job-board spec supported, read via ats.rippling.com API",
+  "evidence": "Rippling board API 2026-10-08 (82 jobs, Engineering dept 3): only Senior Backend, Senior Full Stack and Tech Lead Platform, all Ankara, Turkey; rest clinical, clinic management, billing. No US entry-level SWE.",
+  "confidence": "medium"
 }

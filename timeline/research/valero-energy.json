@@ -1,15 +1,15 @@
 {
   "company": "Valero Energy",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only Technical Support Associate 1 (2025-10-06, IT support) in window; Data Scientist 1 (2026-02-10) is outside it. No SWE new-grad found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history 'valero': only Technical Support Associate 1 (2025-10-06) and Data Scientist 1 (2026-02-10), not SWE",
   "jobs_page": "https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en",
   "jobs_spec": null,
-  "evidence": "valero.taleo.net search API 2026-10-07 listed all 41 jobs: refinery/ethanol operations, engineering, legal, finance. IT items only Technical Support Associate I, Data Science Specialist, Sr Vendor Mgmt. No SWE or new-grad program.",
-  "confidence": "medium"
+  "evidence": "valero.taleo.net browser 2026-10-08, all 38 jobs read (2 pages): refinery/ethanol operations, engineering, legal, finance. IT items only Database Administration Specialist, Data Science Specialist, Technical Support Associate I, Sr Vendor Management; no entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

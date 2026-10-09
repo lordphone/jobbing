@@ -1,15 +1,15 @@
 {
   "company": "Scopely",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only off-cycle 'Engineer' (Culver City/remote, 2026-03-11) and 'Full Stack Engineer' (Bellevue, 2026-05-11), seniority unclear; nothing in 2025-07 to 2026-01",
+  "last_cycle_basis": "jobs.py history: off-cycle 'Engineer' (Culver City) 2026-03-11 and Full Stack Engineer (Bellevue) 2026-05-11, level unclear; no 2025-07 to 2026-01 new-grad posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/scopely",
   "jobs_spec": "gh:scopely",
-  "evidence": "Greenhouse API 2026-10-07 (168 postings, full): no US or Canada entry-level SWE; engineering openings are in Spain, India, Japan, Mexico, China, or senior. Tracker shows off-cycle spring Engineer roles, now closed.",
+  "evidence": "Greenhouse API 2026-10-08 (171, full): no US/Canada entry-level SWE; engineering openings are in Spain, India, Japan, Mexico, China or Senior/Staff (US Senior Backend, Staff SWE SF). No new-grad program seen.",
   "confidence": "medium"
 }

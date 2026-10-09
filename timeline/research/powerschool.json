@@ -1,7 +1,7 @@
 {
   "company": "PowerSchool",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text (JSON-LD datePosted) and tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Minimum Qualifications: '1 year or less of relevant and related work experience'; IC1 Associate Software Engineer",
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-powerschool.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS posting fetched 2026-10-07: Apply for this job online present, datePosted 2026-09-14, validThrough 2027-09-14 (not a stated deadline), IC1, 1 yr or less. Software Engineer IC2 (2+ yrs) excluded; other roles Lead/Senior.",
+  "evidence": "iCIMS list and posting fetched 2026-10-08: Associate Software Engineer IC1 (Dallas) shows Apply, datePosted 2026-09-14, 1 yr or less; validThrough 2027-09-14 is not a stated deadline. Software Engineer IC2 (2 yrs plus functional-language experience) left out; others Senior/Lead.",
   "confidence": "medium"
 }

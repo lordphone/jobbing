@@ -1,20 +1,19 @@
 {
   "company": "Epic Systems",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
       "title": "Software Developer",
       "url": "https://careers.epic.com/jobs/softwaredevelopment/",
       "location": "Verona, WI",
-      "opened": "rolling",
+      "opened": "rolling (no posting date shown)",
       "date_source": "page text",
       "deadline": null,
       "grad_window": null,
       "live_verified": "no",
       "level": "unlabeled",
-      "level_basis": "requires BS/BA, no years of experience; 'A history of academic excellence or professional success'; rolling campus hiring",
+      "level_basis": "Rolling program for graduating students; no experience required (prior 2026-10-07 read of posting)",
       "no_sponsorship": true
     }
   ],
@@ -24,6 +23,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.epic.com/jobs/softwaredevelopment/",
   "jobs_spec": null,
-  "evidence": "2026-10-07 WebFetch of careers.epic.com Software Developer page and epic.avature.net folder 740: Apply Now shown, no deadline, BS/BA, relocate to Madison WI, 'Eligible to work in the United States without visa sponsorship'. Rolling; open date unknown. Not browser-verified.",
-  "confidence": "medium"
+  "evidence": "careers.epic.com Software Development page 2026-10-08: Apply buttons live to epic.avature.net folder 740; rolling, no deadline or posted date shown. Page lists no requirements; prior 2026-10-07 read noted BS/BA, Madison relocation, no visa sponsorship. Not browser-verified.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

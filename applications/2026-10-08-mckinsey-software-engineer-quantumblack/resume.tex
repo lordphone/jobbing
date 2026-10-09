@@ -1,0 +1,58 @@
+% McKinsey & Company — Software Engineer, QuantumBlack, AI by McKinsey (Job ID 112342) (Atlanta / Boston / Chicago / Denver / NJ / NYC)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.55pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Large Language Model Systems, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Large Language Models in Practice, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} on a team of $\sim$6, taking it to 1.4K App Store ratings and 1{,}119 peak daily active users; shipped Firebase auth (Google, Apple, email), a 72-event analytics catalog, and server-driven UI over 27 widget types so new surfaces ship without an App Store release.
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints (129 Pydantic models, 26 collections) with $\sim$1{,}450 offline unit tests behind a ruff / pyright / pytest CI gate.
+  \item Moved nine third-party integrations server-side so the iOS app ships zero third-party API credentials, and shipped a Stripe checkout fulfilled only by a signature-verified, idempotent webhook.
+  \item Cut a 25--30 request client fan-out to one backend call; wrote tests around the AI agent-written cache, then re-keyed it to a shared cache 78$\times$ smaller when pod memory neared its 512\,MiB limit.
+  \item Shipped agentic search with RAG, a bounded tool-calling agent, and server-resolved citations the model cannot author; deterministic entity resolution took logged queries from 0\% to 100\% P@1.
+  \item Designed and shipped a personalized LLM alert pipeline, evaluated it over 11 days of production shadow (4{,}100+ logged decisions), and cut filler 34\% $\to$ 4\%.
+  \item Shipped a personalized LLM morning digest to 5{,}026 users ($\sim$81\% of the base), and re-sourced it onto news highlight clusters so every bullet links to its source article.
+  \item Deployed and owned the service on AWS EKS (Docker, Helm, Jenkins, GitHub Actions) from day 3, with Prometheus and Grafana.
+  \item Introduced the team's Jira backlog, wrote 34 contract-first API specs and $\sim$10{,}000 lines of docs, onboarded the second engineer, and reopened two closed security tickets with evidence the fixes were absent.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git and testing.
+  \item Designed the database schemas and REST APIs for its LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app, built from 0$\to$1 in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
+  \item Worked with recruiters so AI scoring matched real hiring, iterated with clients, and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & TypeScript, JavaScript, Python, Java, SQL, Go, Swift, HTML, CSS \\[1pt]
+  \textbf{Full Stack} & React, Next.js, Express, FastAPI, REST APIs, PostgreSQL, MongoDB, Supabase, Firebase \\[1pt]
+  \textbf{Cloud \& CI/CD} & AWS, GCP, Docker, Jenkins, GitHub Actions, Kubernetes (EKS), Helm, pytest, Unit Testing \\[1pt]
+  \textbf{AI} & Claude Code / AI coding tools, LLM tool calling / agents, RAG, LangChain, MCP, Langfuse \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans. Tested Z.AI, MiniMax, and Kimi on KV caching, long context, and needle-in-a-haystack to show which nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

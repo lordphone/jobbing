@@ -1,7 +1,7 @@
 {
   "company": "Parsons Corporation",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -31,6 +31,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://parsons.wd5.myworkdayjobs.com/search",
   "jobs_spec": "wd:parsons/wd5/search",
-  "evidence": "Workday API (161, --all) 2026-10-06 plus detail. Entry SWE roles all gated: Centreville 'Active Top Secret or higher security clearance, which requires US citizenship'; Colorado Springs SWE 'Must be a US Citizen due to DoD contract'; Melbourne 'Citizenship is required'. Junior Software Developer - TS/SCI (Herndon) also clearance-gated. Re-checked 2026-10-07: Huntsville Software Developer (Master's 0+ yrs) 'must be able to obtain a Top Secret SCI w/Polygraph clearance which requires U.S. citizenship'.",
+  "evidence": "Workday full (1915) 2026-10-08, posting API. Associate Vulnerability Researcher (Melbourne FL) and Junior Software Developer TS/SCI (Herndon) require Top Secret clearance; Centreville SWE needs TS clearance (US citizenship). Civil roles are non-software.",
   "confidence": "high"
 }

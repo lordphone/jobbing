@@ -1,15 +1,15 @@
 {
   "company": "SciTec",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows Associate Software Engineer (Boulder) first seen 2026-04-28, outside the Jul-Jan window; no earlier new-grad SWE posting found",
+  "last_cycle_basis": "no tracker history and no earlier entry-level SWE found",
   "excluded_reason": "citizenship",
   "no_sponsorship": true,
   "jobs_page": "https://apply.workable.com/scitec/",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-10-07 (37 jobs): no entry SWE live; software roles Staff/Senior, Associate roles are analyst/systems. Postings state 'requires U.S. citizenship for all employees' and 'cannot sponsor ... work visas of any type'.",
+  "evidence": "Workable API 2026-10-08 (37 jobs, all read): no entry SWE live; software roles Staff/Senior/Principal. Postings state 'SciTec exclusively works on U.S. government contracts that require U.S. citizenship for all employees. SciTec cannot sponsor ... work visas of any type.'",
   "confidence": "high"
 }

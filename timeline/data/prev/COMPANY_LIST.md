@@ -4,40 +4,69 @@
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
-## 1. FAANG+ / Big Tech (22)
+Tiers rank how much a new-grad offer is worth having: how hard it is to get, how strong it looks on a resume, how interesting the engineering is, and pay. Industry is not tier; within each tier, companies are grouped under `###` industry headings.
+
+1. **S — Dream:** the hardest offers to get. Frontier AI labs, the top quant firms, and the most selective big tech companies.
+2. **A — Elite:** the rest of big tech, top AI startups and unicorns, top-tier quant, SpaceX/Anduril/Waymo/Palantir.
+3. **B — Strong:** well-known companies with strong engineering and good pay, hot startups, and solid quant shops. Tiers 1–3 are the top-tier search.
+4. **C — Solid:** real tech companies and good tech teams at well-known names, with less selectivity or prestige. NewsBreak is about the top of C.
+5. **D — Fallback:** banks, consulting, traditional companies, legacy enterprise, and hardware vendors where software is not the main product.
+
+## 1. S — Dream (25)
+
+### FAANG+ / Big Tech
 
 - Google
 - Meta
 - Apple
-- Amazon/AWS
 - Netflix
-- Microsoft
-- LinkedIn
 - Nvidia
-- Tesla
-- Oracle
-- Salesforce
-- Adobe
-- IBM
-- Uber
-- Airbnb
-- ByteDance / TikTok
-- Snap
-- Pinterest
-- X
-- GitHub
-- Tencent
-- Alibaba Group
 
-## 2. AI labs & AI-first (119)
+### AI labs & AI-first
 
 - OpenAI
 - Anthropic
 - SpaceXAI (xAI)
-- Scale AI
-- Perplexity
 - Cursor
 - Cognition
+- Safe Superintelligence (SSI)
+- Thinking Machines Lab
+
+### Late-stage / unicorns
+
+- Stripe
+- Databricks
+
+### Quant / trading
+
+- Jane Street
+- Citadel
+- Citadel Securities
+- Two Sigma
+- Hudson River Trading
+- Jump Trading
+- D.E. Shaw
+- Five Rings
+- Renaissance Technologies
+- XTX Markets
+- Radix Trading
+
+## 2. A — Elite (62)
+
+### FAANG+ / Big Tech
+
+- Amazon/AWS
+- Microsoft
+- LinkedIn
+- Tesla
+- Uber
+- Airbnb
+- ByteDance / TikTok
+
+### AI labs & AI-first
+
+- Scale AI
+- Perplexity
 - Harvey
 - Glean
 - ElevenLabs
@@ -45,46 +74,333 @@ A company owned by another company gets its own entry if it hires under its own 
 - Replit
 - Decagon
 - Together AI
-- Mercor
-- C3.ai
-- Hugging Face
 - Figure
 - Runway
 - Character.AI
-- Cohere
 - Fireworks AI
-- Safe Superintelligence (SSI)
-- Thinking Machines Lab
 - Mistral AI
 - Physical Intelligence
 - Reflection AI
 - Baseten
 - Modal
-- fal
-- Luma AI
-- Poolside
-- Inflection AI
-- Snorkel AI
-- Abridge
-- OpenEvidence
-- Hippocratic AI
-- Lovable
-- Gamma
-- Clay
-- Tempus AI
-- SandboxAQ
 - Midjourney
-- Synthesia
-- HeyGen
-- Suno
 - Black Forest Labs
 - Skild AI
 - World Labs
+- Isomorphic Labs
+- Periodic Labs
+
+### Late-stage / unicorns
+
+- Snowflake
+- Ramp
+- Plaid
+- Robinhood
+- Coinbase
+- Rippling
+- Figma
+- Notion
+- DoorDash
+- Roblox
+- Vercel
+- Datadog
+- Applied Intuition
+- Brex
+- Retool
+- Neuralink
+- Linear
+
+### Quant / trading
+
+- Optiver
+- IMC Trading
+- Susquehanna International Group (SIG)
+- Tower Research Capital
+- DRW
+- The Voleon Group
+- G-Research
+- PDT Partners
+- Headlands Technologies
+
+### Enterprise software & security
+
+- Palantir
+
+### Auto, aerospace & defense
+
+- Waymo
+- SpaceX
+- Anduril
+
+### Consumer, media, gaming & retail tech
+
+- Valve
+
+## 3. B — Strong (217)
+
+### FAANG+ / Big Tech
+
+- Oracle
+- Salesforce
+- Adobe
+- Snap
+- Pinterest
+- GitHub
+
+### AI labs & AI-first
+
+- Mercor
+- Hugging Face
+- Cohere
+- Luma AI
+- Poolside
+- Abridge
+- OpenEvidence
+- Lovable
+- Gamma
+- Clay
+- SandboxAQ
+- Suno
 - Surge AI
-- Writer
 - LangChain
 - Pinecone
 - Anyscale
+- 1X Technologies
+- Ai2 (Allen Institute for AI)
+- Warp
+- Augment Code
+- OpenRouter
+- Chan Zuckerberg Initiative (CZI)
+- Project Prometheus
+- Exa
+- Liquid AI
+- Hebbia
+- Legora
+- Distyl AI
+- Xaira Therapeutics
+- Lila Sciences
+- Magic (magic.dev)
+- Imbue
+- Factory AI
+- Cartesia
+- Sesame
+- Ideogram
+- Essential AI
+
+### Late-stage / unicorns
+
+- Chime
+- Reddit
+- Instacart
+- Lyft
+- Duolingo
+- Dropbox
+- Asana
+- Superhuman (Grammarly)
+- Cloudflare
+- MongoDB
+- Atlassian
+- Shopify
+- Affirm
+- Samsara
+- Verkada
+- Gusto
+- CoreWeave
+- Toast
+- Navan
+- Whatnot
+- Circle
+- The Trade Desk
+- AppLovin
+- Confluent
+- Airtable
+- Discord
+- Canva
+- Block
+- ClickHouse
+- Faire
+- Oura
+- Supabase
+- Polymarket
+- Kalshi
+- Chainalysis
+- Flock Safety
+- Carta
+- Benchling
+- Postman
+- Cockroach Labs
+- Zapier
+- Webflow
+- Kraken (Payward)
+- Framer
+- Helion
+- Miro
+- Docker, Inc.
+- Tailscale
+- Commonwealth Fusion Systems
+- Weights & Biases
+- Fireblocks
+- Persona
+- Sigma Computing
+- Base Power
+- TRM Labs
+- Hex
+
+### Quant / trading
+
+- Akuna Capital
+- Virtu Financial
+- Point72
+- Millennium
+- Bridgewater
+- AQR
+- Chicago Trading Company (CTC)
+- Balyasny Asset Management
+- Old Mission Capital
+- WorldQuant
+- Squarepoint Capital
+- Flow Traders
+- Man Group
+- Marshall Wace
+- Qube Research & Technologies (QRT)
+- Quantlab Financial
+- Hyannis Port Research (HPR)
+- Engineers Gate
+- Voloridge
+- Teza Technologies
+- Aquatic Capital Management
+- Wintermute
+- TGS Management
+- Vatic Labs
+- Arrowstreet Capital
+
+### Banks, payments & financial data
+
+- Intuit
+- Bloomberg
+- Mercury
+
+### Enterprise software & security
+
+- ServiceNow
+- Workday
+- Palo Alto Networks
+- CrowdStrike
+- Zscaler
+- Okta
+- Twilio
+- HubSpot
+- Rubrik
+- Snyk
+- 1Password
+- Grafana Labs
+- Abnormal AI
+- Vanta
+- Harness
+- LaunchDarkly
+- Sentry
+- Sourcegraph
+- Temporal Technologies
+- dbt Labs
+- PlanetScale
+- ngrok
+- GitLab
+- Elastic
+- SentinelOne
+- JetBrains
+- Render
+- Slack
+- Wiz
+- Chronosphere
+- Cyera
+- Tanium
+- Island
+- Chainguard
+- Cribl
+- Ironclad
+- WorkOS
+- Drata
+
+### Chips, hardware & infrastructure
+
+- AMD
+- Qualcomm
+- Arm
+- Synopsys
+- Cadence
+- Arista
+- Pure Storage
+- Cerebras
+- Lambda
+- Crusoe
+- PsiQuantum
+- Lightmatter
+- Tenstorrent
+- Etched
+- Boston Dynamics
+- Groq
+- VAST Data
+- MatX
+
+### Auto, aerospace & defense
+
+- Zoox
+- Aurora Innovation
+- Nuro
+- Rivian
+- Blue Origin
+- Zipline
+- Redwood Materials
+- Skydio
+- Relativity Space
+- Shield AI
+- Wayve
+- Wing
+- Saronic Technologies
+- Impulse Space
+- K2 Space
+- Vannevar Labs
+- Waabi
+- Stoke Space
+- Astranis
+- Varda Space
+- Hadrian
+- Mach Industries
+- CHAOS Industries
+- Castelion
+- Apex Space
+- Nominal
+
+### Consumer, media, gaming & retail tech
+
+- Spotify
+- Epic Games
+- Etsy
+- Twitch
+- Riot Games
+- Zillow
+- Rockstar Games
+- Pixar Animation Studios
+
+## 4. C — Solid (507)
+
+### FAANG+ / Big Tech
+
+- IBM
+- X
+- Tencent
+- Alibaba Group
+
+### AI labs & AI-first
+
+- fal
+- Inflection AI
+- Snorkel AI
+- Hippocratic AI
+- Tempus AI
+- Synthesia
+- HeyGen
+- Writer
 - AssemblyAI
 - Pika
 - StackBlitz (Bolt.new)
@@ -93,157 +409,65 @@ A company owned by another company gets its own entry if it hires under its own 
 - Jasper
 - Descript
 - Deepgram
-- 1X Technologies
 - Agility Robotics
-- Ai2 (Allen Institute for AI)
 - Otter.ai
 - Speechify
-- Warp
-- Isomorphic Labs
 - Stability AI
-- Augment Code
 - Lightning AI
-- OpenRouter
-- Turing
 - Labelbox
 - LlamaIndex
 - You.com
 - Fireflies.ai
-- Chan Zuckerberg Initiative (CZI)
-- Project Prometheus
 - EvenUp
 - EliseAI
-- Exa
-- Liquid AI
-- Hebbia
 - Weaviate
 - Cresta
 - Captions
 - Speak
-- Legora
 - Eightfold AI
 - PathAI
 - Hume AI
-- Invisible Technologies
 - Arize AI
 - Domino Data Lab
 - PolyAI
-- Distyl AI
 - Insitro
-- Xaira Therapeutics
 - Generate Biomedicines
-- Lila Sciences
 - Runpod
 - Ambience Healthcare
 - Recursion Pharmaceuticals
-- Magic (magic.dev)
-- Imbue
-- Factory AI
-- Cartesia
-- Sesame
-- Ideogram
 - Contextual AI
-- Essential AI
-- Periodic Labs
 - AI21 Labs
-- Uniphore
 - Clera
 - Giga AI
 - Retell AI
 
-## 3. Late-stage / unicorns (180)
+### Late-stage / unicorns
 
-- Stripe
-- Databricks
-- Snowflake
-- Ramp
-- Plaid
-- Chime
-- Robinhood
-- Coinbase
-- Rippling
-- Figma
-- Notion
-- Reddit
-- DoorDash
-- Instacart
-- Lyft
-- Roblox
-- Duolingo
-- Dropbox
 - Box
-- Asana
-- Superhuman (Grammarly)
-- Vercel
-- Datadog
-- Cloudflare
-- MongoDB
-- Atlassian
-- Shopify
-- Affirm
 - SoFi
-- Samsara
-- Verkada
-- Gusto
-- Applied Intuition
-- CoreWeave
-- Toast
-- Navan
-- Whatnot
 - Flexport
-- Circle
 - StubHub
-- The Trade Desk
 - Klaviyo
 - Ripple
 - Remitly
-- AppLovin
-- Confluent
-- Brex
-- Airtable
-- Retool
-- Discord
-- Canva
-- Block
 - Squarespace
-- GoDaddy
 - Deel
-- ClickHouse
-- Faire
-- Oura
-- Supabase
-- Neuralink
-- Polymarket
-- Kalshi
-- Chainalysis
-- Flock Safety
 - Automattic
-- Carta
 - Ro
-- Benchling
-- Postman
 - Fivetran
-- Cockroach Labs
 - Lyra Health
 - Checkr
-- Zapier
 - ClickUp
-- Webflow
 - Handshake
 - MoonPay
 - Calendly
-- Kraken (Payward)
 - Motive (formerly KeepTruckin)
-- Framer
 - OpenSea
 - Consensys
-- Helion
 - Hinge Health
-- Miro
 - Intercom
 - n8n
 - Patreon
-- Compass
 - ID.me
 - CLEAR (Clear Secure)
 - Chainlink Labs
@@ -260,15 +484,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - Public.com
 - Crypto.com
 - BitGo
-- Docker, Inc.
 - Netlify
-- Linear
-- Tailscale
-- Commonwealth Fusion Systems
 - Verily
-- Weights & Biases
 - Tipalti
-- Fireblocks
 - FalconX
 - Commure
 - Metropolis
@@ -276,7 +494,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Tekion
 - Innovaccer
 - Airwallex
-- Carbon Health
 - Alchemy
 - Omada Health
 - Via Transportation
@@ -291,20 +508,16 @@ A company owned by another company gets its own entry if it hires under its own 
 - Clipboard Health
 - Traba
 - DailyPay
-- Persona
 - Sardine
 - SentiLink
 - SingleStore
-- Sigma Computing
 - Olo
 - Zip
 - Hudl
-- Base Power
 - Fervo Energy
 - EquipmentShare
 - Gecko Robotics
 - LayerZero Labs
-- TRM Labs
 - Valon
 - Alpaca
 - Imprint
@@ -313,90 +526,38 @@ A company owned by another company gets its own entry if it hires under its own 
 - Clear Street
 - Spring Health
 - Included Health
-- Root Insurance
-- Hippo
 - Next Insurance
 - Ethos
-- Clover Health
 - Doximity
 - Headway
 - Color Health
-- Better (Better.com)
 - Yugabyte
 - Airbyte
-- Hex
 - Egnyte
 - project44
-- Jerry
 - Truveta
 - Citizen Health
 - Collaborative Robotics
 - Field AI
 - Cambridge Mobile Telematics
 
-## 4. Quant / trading (70)
+### Quant / trading
 
-- Jane Street
-- Citadel
-- Citadel Securities
-- Two Sigma
-- Hudson River Trading
-- Jump Trading
-- D.E. Shaw
-- Optiver
-- IMC Trading
-- Susquehanna International Group (SIG)
-- Five Rings
-- Tower Research Capital
-- Akuna Capital
-- DRW
-- Virtu Financial
-- Point72
-- Millennium
-- Bridgewater
-- AQR
-- Chicago Trading Company (CTC)
-- Balyasny Asset Management
-- Old Mission Capital
-- Renaissance Technologies
-- WorldQuant
-- Squarepoint Capital
 - Schonfeld Strategic Advisors
-- XTX Markets
-- Flow Traders
-- Man Group
-- Marshall Wace
-- Qube Research & Technologies (QRT)
 - Brevan Howard
 - Elliott Investment Management
 - Tudor Investment Corporation
-- Quantlab Financial
-- The Voleon Group
 - PEAK6
-- G-Research
-- Radix Trading
-- PDT Partners
-- Headlands Technologies
-- Hyannis Port Research (HPR)
 - Belvedere Trading
 - Wolverine Trading
 - Geneva Trading
-- Engineers Gate
 - Walleye Capital
 - Verition Fund Management
 - Jain Global
 - Trexquant
-- Voloridge
-- Teza Technologies
 - DV Trading
 - Maven Securities
-- Aquatic Capital Management
-- StoneX Group
-- Wintermute
 - GTS
-- TGS Management
-- Vatic Labs
-- Arrowstreet Capital
 - ExodusPoint
 - Graham Capital Management
 - Group One Trading
@@ -407,27 +568,394 @@ A company owned by another company gets its own entry if it hires under its own 
 - Valkyrie Trading
 - BlackEdge Capital
 
-## 5. Banks, payments & financial data (186)
+### Banks, payments & financial data
 
 - JPMorgan Chase
 - Goldman Sachs
 - Morgan Stanley
-- Bank of America
-- Citi
-- Wells Fargo
 - Capital One
 - American Express
 - BlackRock
-- Fidelity Investments
-- Charles Schwab
-- Vanguard
 - Visa
 - Mastercard
 - PayPal
-- Intuit
-- Bloomberg
 - Nasdaq
 - Intercontinental Exchange (ICE)
+- CME Group
+- Bilt
+- AlphaSense
+- iCapital
+- Addepar
+- Checkout.com
+- Revolut
+- Klarna
+- Wealthfront
+- Gemini (Gemini Space Station, Inc.)
+- Galaxy Digital
+- Wise
+- Upstart
+- Blackstone
+- Tradeweb Markets
+- Interactive Brokers
+- OKX
+- Credit Karma
+- Marqeta
+- Adyen
+- Betterment
+- Nu Holdings (Nubank)
+- KKR
+- IEX Group
+- Anchorage Digital
+- Paxos
+- Bullish
+- Figure Technology Solutions
+- EarnIn
+
+### Enterprise software & security
+
+- SAP
+- Autodesk
+- Docusign
+- Zoom Communications
+- Epic Systems
+- Veeva
+- Qualtrics
+- Fortinet
+- Netskope
+- Gong
+- Workato
+- ThoughtSpot
+- Cohesity
+- Lattice
+- Algolia
+- Neo4j
+- Redis
+- Celonis
+- ServiceTitan
+- Kong
+- Zoho
+- Amplitude
+- Mixpanel
+- CircleCI
+- Greenhouse
+- UiPath
+- SAS Institute
+- Esri
+- Procore Technologies
+- PagerDuty
+- Red Hat
+- Canonical
+- New Relic
+- monday.com
+- Braze
+- Expensify
+- Apollo.io
+- MathWorks
+- Wolfram Research
+- Bitwarden
+- Splunk
+- VMware
+- Tableau
+- CyberArk
+- Armis
+- Twilio Segment
+- Attentive
+- Dataiku
+- Starburst
+- Komodo Health
+- Everlaw
+- AppFolio
+- JFrog
+- Orca Security
+- Socure
+- Sift
+- Forter
+- Pylon
+- Kitware
+- OpenEye
+
+### Chips, hardware & infrastructure
+
+- Intel
+- Broadcom
+- Texas Instruments
+- Micron
+- Applied Materials
+- Lam Research
+- KLA
+- Marvell
+- Cisco
+- NetApp
+- Nutanix
+- Samsung Semiconductor
+- Analog Devices
+- Akamai
+- Garmin
+- Samsung Research America
+- SambaNova Systems
+- Vultr
+- SiFive
+- Formlabs
+- Astera Labs
+- Quantinuum
+- Altera
+- ASML
+- F5
+- Fastly
+- IonQ
+- Nebius Group
+- DigitalOcean
+- TSMC
+- Sony (Sony Electronics / Sony Corporation of America)
+- Ubiquiti
+- Credo Technology Group
+- Ampere Computing
+- Dolby Laboratories
+- MediaTek
+- Magic Leap
+- Juniper Networks
+- Ansys
+- Ayar Labs
+- d-Matrix
+- Ambarella
+- QuEra Computing
+- Infleqtion
+- Graphcore
+- Symbotic
+- 10x Genomics
+- Rigetti Computing
+
+### Auto, aerospace & defense
+
+- GM
+- Lucid
+- Firefly Aerospace
+- The Boring Company
+- Pony.ai
+- Axon Enterprise
+- Motional
+- Kodiak AI
+- Scout Motors
+- Rocket Lab
+- Boom Supersonic
+- Archer Aviation
+- Planet Labs PBC (Planet)
+- Johns Hopkins University Applied Physics Laboratory (JHU APL)
+- NASA Jet Propulsion Laboratory (JPL)
+- Lawrence Livermore National Laboratory (LLNL)
+- SRI International
+- NASA
+- Joby Aviation
+- Axiom Space
+- General Atomics
+- MITRE
+- MIT Lincoln Laboratory
+- Sandia National Laboratories
+- Mobileye
+- QuantumScape
+- National Security Agency (NSA)
+- Los Alamos National Laboratory (LANL)
+- Oak Ridge National Laboratory (ORNL)
+- Torc Robotics
+- May Mobility
+- PlusAI
+- Stack AV
+- Avride
+- Slate Auto
+- Hermeus
+- Wisk
+- True Anomaly
+- The Aerospace Corporation
+- Draper
+- HRL Laboratories
+- Gatik
+- Epirus
+- Serve Robotics
+- Vast
+- Beta Technologies
+- Divergent Technologies
+- Ursa Major
+- SLAC National Accelerator Laboratory
+- Latitude AI
+- Bot Auto
+- Beacon AI
+
+### Consumer, media, gaming & retail tech
+
+- Walmart Global Tech
+- Disney
+- Electronic Arts
+- Take-Two Interactive
+- Unity Technologies
+- Sony Interactive Entertainment (PlayStation)
+- Expedia Group
+- Booking Holdings
+- eBay
+- DraftKings
+- The New York Times
+- Roku
+- Chewy
+- Match Group
+- Fanatics
+- Yahoo
+- Yelp
+- Nintendo
+- Wayfair
+- Activision Blizzard
+- Hulu
+- Peloton
+- SeatGeek
+- Nextdoor
+- Carvana
+- Quince
+- Niantic Spatial
+- Gopuff
+- Hopper
+- Houzz
+- StockX
+- GOAT Group
+- Noom
+- WHOOP
+- Thumbtack
+- Calm
+- Wonder
+- Ibotta
+- Coursera
+- Quora
+- Redfin (Rocket Companies)
+- Turo
+- Rover
+- Poshmark (Naver)
+- IXL Learning
+- PrizePicks
+- Underdog (Underdog Fantasy)
+- Sonos
+- Scopely
+- Bumble
+- Crunchyroll
+- Tubi
+- FanDuel (Flutter Entertainment)
+- Mozilla
+- JD.com
+- DiDi Global
+- Coupang
+- Indeed
+- Udemy
+- Eventbrite
+- Hims & Hers Health
+- Warby Parker
+- OfferUp
+- Quizlet
+- Bungie
+- Taboola
+- GoodRx
+- Headspace
+- Khan Academy
+- Brilliant.org
+- Zynga (Take-Two Interactive)
+- ZeniMax Media / Bethesda (Microsoft)
+- NetEase Games
+- HoYoverse
+- Chess.com
+- Lucasfilm / Industrial Light & Magic
+- Fubo
+- Audible
+- Vivid Seats
+- Substack
+- Medium
+- Wikimedia Foundation
+- Scribd, Inc.
+- Grindr
+- Life360
+- Lime
+- Temu (PDD Holdings)
+- Shein
+- Mercari
+- ThredUp
+- Stitch Fix
+- Upwork
+- Fiverr
+- Brave Software
+- DuckDuckGo
+- SoundCloud
+- Plex
+- Rent the Runway
+- The Farmer's Dog
+- Grab
+- Tinder
+- DreamWorks Animation
+- Priceline
+- KAYAK
+- OpenTable
+- Agoda
+- Ring
+- IMDb
+- MNTN
+- Liftoff
+- Jam City
+- Sportradar
+- Skyscanner
+- Magnite
+- Criteo
+- StackAdapt
+- Genius Sports
+- Playtika
+- NewsBreak
+
+### Consulting & IT services
+
+- McKinsey
+- BCG X
+- Thoughtworks
+
+### Traditional companies with large tech orgs
+
+- GEICO
+- Intuitive Surgical
+- Oscar Health
+- Genentech
+- Illumina
+- AST SpaceMobile
+- Ginkgo Bioworks
+- Guardant Health
+- Natera
+- Broad Institute
+- TerraPower
+- Oklo
+- TAE Technologies
+
+## 5. D — Fallback (1010)
+
+### AI labs & AI-first
+
+- C3.ai
+- Turing
+- Invisible Technologies
+- Uniphore
+
+### Late-stage / unicorns
+
+- GoDaddy
+- Compass
+- Carbon Health
+- Root Insurance
+- Hippo
+- Clover Health
+- Better (Better.com)
+- Jerry
+
+### Quant / trading
+
+- StoneX Group
+
+### Banks, payments & financial data
+
+- Bank of America
+- Citi
+- Wells Fargo
+- Fidelity Investments
+- Charles Schwab
+- Vanguard
 - S&P Global
 - Moody's
 - State Street
@@ -441,7 +969,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Truist
 - U.S. Bank
 - FactSet
-- CME Group
 - HSBC
 - Fannie Mae
 - Freddie Mac
@@ -454,21 +981,8 @@ A company owned by another company gets its own entry if it hires under its own 
 - Edward Jones
 - Raymond James Financial
 - LPL Financial
-- Bilt
-- AlphaSense
-- iCapital
-- Addepar
-- Checkout.com
-- Revolut
-- Mercury
 - Greenlight Financial Technology
-- Klarna
 - eToro
-- Wealthfront
-- Gemini (Gemini Space Station, Inc.)
-- Galaxy Digital
-- Wise
-- Upstart
 - Citizens (Citizens Financial Group)
 - KeyBank (KeyCorp)
 - M&T Bank
@@ -496,7 +1010,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Dimensional Fund Advisors
 - Neuberger Berman
 - AllianceBernstein
-- Blackstone
 - Apollo Global Management
 - Ares Management
 - Brookfield Corporation / Brookfield Asset Management
@@ -510,12 +1023,10 @@ A company owned by another company gets its own entry if it hires under its own 
 - Dun & Bradstreet
 - Verisk
 - LSEG (London Stock Exchange Group)
-- Tradeweb Markets
 - Cboe Global Markets
 - Depository Trust & Clearing Corporation (DTCC)
 - FINRA
 - Federal Reserve System
-- Interactive Brokers
 - Broadridge Financial Solutions
 - Western Union
 - Early Warning Services (Zelle)
@@ -525,11 +1036,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Sallie Mae (SLM Corporation)
 - Navy Federal Credit Union
 - NCR Voyix
-- OKX
-- Credit Karma
-- Marqeta
-- Adyen
-- Betterment
 - NerdWallet
 - MSCI
 - PitchBook (Morningstar)
@@ -538,12 +1044,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - Nomura
 - BNP Paribas
 - Capital Group
-- Nu Holdings (Nubank)
 - Payoneer
 - Webull
 - Jack Henry & Associates
-- KKR
-- IEX Group
 - Lazard
 - Evercore
 - Empower
@@ -557,11 +1060,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - First Citizens BancShares (Silicon Valley Bank, a division of First Citizens Bank)
 - Scotiabank (Bank of Nova Scotia)
 - Cantor Fitzgerald
-- Anchorage Digital
-- Paxos
 - Upgrade
-- Bullish
-- Figure Technology Solutions
 - Miami International Holdings (MIAX)
 - MarketAxess
 - Options Clearing Corporation (OCC)
@@ -583,7 +1082,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Blend
 - Dave
 - Varo Bank
-- EarnIn
 - Western Alliance
 - Prelim
 - Global Lending Services
@@ -596,65 +1094,17 @@ A company owned by another company gets its own entry if it hires under its own 
 - Snap Finance
 - Alkami Technology
 
-## 6. Enterprise software & security (245)
+### Enterprise software & security
 
-- SAP
-- ServiceNow
-- Workday
-- Autodesk
-- Docusign
-- Palo Alto Networks
-- CrowdStrike
-- Zscaler
-- Okta
-- Twilio
-- Zoom Communications
-- HubSpot
-- Epic Systems
-- Veeva
-- Qualtrics
-- Fortinet
-- Rubrik
-- Palantir
 - ADP
 - DataRobot
-- Netskope
-- Snyk
-- Gong
-- 1Password
-- Grafana Labs
-- Workato
 - OneTrust
-- Abnormal AI
 - Arctic Wolf
-- ThoughtSpot
-- Vanta
-- Cohesity
-- Harness
-- LaunchDarkly
-- Lattice
-- Sentry
-- Sourcegraph
-- Temporal Technologies
-- Algolia
 - Dialpad
-- Neo4j
-- Redis
-- Celonis
 - SailPoint
-- ServiceTitan
-- dbt Labs
-- Kong
 - Cloudinary
 - BrowserStack
 - Automation Anywhere
-- Zoho
-- PlanetScale
-- Amplitude
-- Mixpanel
-- CircleCI
-- ngrok
-- Greenhouse
 - BILL Holdings (Bill.com)
 - Proofpoint
 - Gen Digital
@@ -667,48 +1117,33 @@ A company owned by another company gets its own entry if it hires under its own 
 - Pegasystems
 - PTC
 - Anaplan
-- UiPath
 - Tyler Technologies
 - Manhattan Associates
 - Blue Yonder (Panasonic subsidiary)
 - Epicor
-- SAS Institute
-- Esri
 - Jamf
 - Ivanti
 - Workiva
 - Guidewire Software
-- Procore Technologies
 - Smartsheet
-- PagerDuty
 - RingCentral
 - Progress Software
 - Alteryx
 - Cloudera
-- Red Hat
-- Canonical
-- GitLab
 - athenahealth
 - Thomson Reuters
 - RELX (LexisNexis, Elsevier)
 - Wolters Kluwer
 - PowerSchool
-- Elastic
-- New Relic
 - Strategy (formerly MicroStrategy)
 - Zendesk
 - Freshworks
 - ZoomInfo
-- monday.com
-- Braze
 - Sprout Social
 - Avalara
-- SentinelOne
 - Check Point Software Technologies
-- Expensify
 - Instructure (Canvas)
 - Wix.com
-- JetBrains
 - Dynatrace
 - Couchbase
 - Teradata
@@ -736,41 +1171,16 @@ A company owned by another company gets its own entry if it hires under its own 
 - Optimizely
 - Boomi
 - SUSE
-- Apollo.io
-- MathWorks
-- Wolfram Research
 - Stack Overflow
 - HackerRank
 - CodeSignal
-- Render
 - LastPass
-- Bitwarden
 - Barracuda Networks
-- Slack
-- Splunk
-- VMware
 - Informatica
-- Tableau
-- Wiz
-- CyberArk
-- Armis
-- Twilio Segment
-- Chronosphere
 - Mailchimp
 - MuleSoft
 - Semrush
-- Cyera
-- Tanium
-- Attentive
-- Island
-- Dataiku
-- Chainguard
-- Cribl
-- Starburst
-- Ironclad
 - Contentful
-- WorkOS
-- Drata
 - Druva
 - Kaseya
 - NinjaOne
@@ -784,7 +1194,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - AppsFlyer
 - Outreach
 - Salesloft (formerly Clari)
-- Komodo Health
 - Darktrace
 - Ping Identity
 - KnowBe4
@@ -800,16 +1209,13 @@ A company owned by another company gets its own entry if it hires under its own 
 - AspenTech
 - PointClickCare
 - Clarivate
-- Everlaw
 - Diligent
 - OpenGov
 - Perforce
 - Yext
 - BlackLine
-- AppFolio
 - Yardi
 - RealPage
-- JFrog
 - Sumo Logic
 - Sprinklr
 - Five9
@@ -822,14 +1228,10 @@ A company owned by another company gets its own entry if it hires under its own 
 - Agora
 - Keeper Security
 - Huntress
-- Orca Security
 - Sysdig
 - Veracode
 - Checkmarx
 - BeyondTrust
-- Socure
-- Sift
-- Forter
 - Quantcast
 - minware
 - DAT Freight & Analytics
@@ -838,74 +1240,28 @@ A company owned by another company gets its own entry if it hires under its own 
 - Netsmart
 - Harris Computer
 - National Information Solutions Cooperative (NISC)
-- Pylon
-- Kitware
 - Flashpoint
 - Pattern Data
-- OpenEye
 
-## 7. Chips, hardware & infrastructure (150)
+### Chips, hardware & infrastructure
 
-- Intel
-- AMD
-- Qualcomm
-- Broadcom
-- Texas Instruments
-- Micron
-- Applied Materials
-- Lam Research
-- KLA
-- Arm
-- Marvell
-- Synopsys
-- Cadence
-- Cisco
-- Arista
 - HP
 - HPE
 - Dell
-- NetApp
-- Pure Storage
-- Nutanix
-- Samsung Semiconductor
 - Western Digital
 - Sandisk
 - Seagate
-- Cerebras
 - Supermicro
-- Analog Devices
 - Keysight
-- Akamai
 - Equinix
-- Garmin
-- Samsung Research America
 - Lenovo
 - Motorola Solutions
 - Corning
-- SambaNova Systems
-- Lambda
-- Crusoe
-- PsiQuantum
-- Lightmatter
-- Vultr
-- Tenstorrent
-- SiFive
-- Formlabs
-- Astera Labs
 - SK hynix
-- Quantinuum
-- Altera
-- ASML
 - Ciena
-- F5
-- Fastly
 - GlobalFoundries
-- IonQ
 - D-Wave Quantum
 - Lumentum
-- Etched
-- Nebius Group
-- DigitalOcean
 - Microchip Technology
 - NXP Semiconductors
 - onsemi
@@ -921,53 +1277,33 @@ A company owned by another company gets its own entry if it hires under its own 
 - Jabil
 - Digital Realty
 - Vertiv
-- Boston Dynamics
-- TSMC
-- Groq
 - Ericsson
-- Sony (Sony Electronics / Sony Corporation of America)
 - Logitech
 - Extreme Networks
-- Ubiquiti
 - Infineon Technologies
 - STMicroelectronics
 - Skyworks Solutions
 - Lattice Semiconductor
 - Wolfspeed
-- Credo Technology Group
 - Kioxia
 - Teradyne
 - Amphenol
 - TE Connectivity
-- Ampere Computing
-- Dolby Laboratories
 - Enphase Energy
-- MediaTek
 - Synaptics
 - Netgear
 - TP-Link
 - Corsair Gaming
 - Razer
-- Magic Leap
 - Xerox
 - iRobot
 - ZT Systems
-- Juniper Networks
-- Ansys
-- VAST Data
-- Ayar Labs
-- d-Matrix
-- Ambarella
 - Axcelis Technologies
 - Cirrus Logic
 - CommScope
 - Coherent
 - Entegris
 - FormFactor
-- QuEra Computing
-- Infleqtion
-- MatX
-- Graphcore
 - MKS Instruments
 - Monolithic Power Systems
 - Onto Innovation
@@ -991,24 +1327,12 @@ A company owned by another company gets its own entry if it hires under its own 
 - Itron
 - Schweitzer Engineering Laboratories
 - Markforged
-- Symbotic
-- 10x Genomics
 - Backblaze
 - Cognex
-- Rigetti Computing
 
-## 8. Auto, aerospace & defense (157)
+### Auto, aerospace & defense
 
-- Waymo
-- Zoox
-- Aurora Innovation
-- Nuro
-- Rivian
-- GM
 - Ford
-- SpaceX
-- Blue Origin
-- Anduril
 - Boeing
 - Lockheed Martin
 - Northrop Grumman
@@ -1019,23 +1343,9 @@ A company owned by another company gets its own entry if it hires under its own 
 - L3Harris
 - Toyota
 - BAE Systems (US)
-- Lucid
 - Textron
-- Zipline
-- Redwood Materials
-- Skydio
-- Relativity Space
-- Shield AI
-- Firefly Aerospace
-- The Boring Company
-- Wayve
-- Pony.ai
 - BigBear.ai
-- Axon Enterprise
 - Aptiv
-- Motional
-- Kodiak AI
-- Scout Motors
 - NIO
 - XPENG
 - Faraday Future Intelligent Electric
@@ -1059,149 +1369,61 @@ A company owned by another company gets its own entry if it hires under its own 
 - Curtiss-Wright
 - AeroVironment (AV)
 - United Launch Alliance (ULA)
-- Rocket Lab
-- Boom Supersonic
-- Archer Aviation
-- Planet Labs PBC (Planet)
 - Vantor (formerly Maxar Intelligence)
-- Johns Hopkins University Applied Physics Laboratory (JHU APL)
-- NASA Jet Propulsion Laboratory (JPL)
-- Lawrence Livermore National Laboratory (LLNL)
-- SRI International
 - Parsons Corporation
 - Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)
-- NASA
-- Joby Aviation
 - Mercedes-Benz Research & Development North America
 - BMW Group
 - Volkswagen Group of America
 - Honda
 - Stellantis
-- Axiom Space
-- General Atomics
-- MITRE
-- MIT Lincoln Laboratory
-- Sandia National Laboratories
-- Wing
-- Mobileye
 - ChargePoint
 - EVgo
 - Electrify America
-- QuantumScape
 - Iridium Communications
 - Virgin Galactic
 - Intuitive Machines
 - Kratos Defense & Security Solutions
-- National Security Agency (NSA)
 - The Goodyear Tire & Rubber Company
-- Los Alamos National Laboratory (LANL)
-- Oak Ridge National Laboratory (ORNL)
 - Spirit AeroSystems
-- Saronic Technologies
-- Impulse Space
-- K2 Space
 - WeRide
 - Voyager Technologies
 - Karman Space & Defense
-- Vannevar Labs
-- Torc Robotics
-- May Mobility
-- Waabi
-- PlusAI
-- Stack AV
-- Avride
-- Slate Auto
 - Howmet Aerospace
 - Moog
-- Stoke Space
 - Sierra Nevada Corporation
-- Astranis
-- Varda Space
-- Hermeus
-- Wisk
-- Hadrian
-- Mach Industries
-- CHAOS Industries
-- True Anomaly
-- The Aerospace Corporation
-- Draper
-- HRL Laboratories
 - Battelle
-- Gatik
-- Epirus
-- Serve Robotics
 - Ouster
-- Vast
-- Beta Technologies
-- Divergent Technologies
-- Castelion
-- Ursa Major
-- Apex Space
-- SLAC National Accelerator Laboratory
-- Latitude AI
 - Torch Technologies
 - Wyetech
 - Captivation
 - Markon
-- Nominal
 - Technology Service Corporation (TSC)
 - CAE
 - STR (Systems & Technology Research)
 - Gulfstream
 - Arcfield
 - SciTec
-- Bot Auto
 - Analytical Mechanics Associates
 - Cubic
-- Beacon AI
 - Altamira Technologies
 - Scientific Research Corporation
 
-## 9. Consumer, media, gaming & retail tech (318)
+### Consumer, media, gaming & retail tech
 
-- Walmart Global Tech
 - Target
 - Home Depot
 - Lowe's
 - Nike
-- Disney
 - Paramount Skydance
-- Spotify
-- Electronic Arts
-- Take-Two Interactive
-- Epic Games
-- Unity Technologies
-- Sony Interactive Entertainment (PlayStation)
-- Expedia Group
-- Booking Holdings
-- eBay
-- Etsy
-- Twitch
-- DraftKings
 - Fox Corporation
-- The New York Times
 - NBCUniversal
-- Roku
 - Nordstrom
-- Chewy
-- Match Group
 - Marriott International
 - Starbucks
-- Fanatics
-- Yahoo
-- Yelp
 - Warner Bros. Discovery
-- Riot Games
-- Zillow
 - Costco
-- Nintendo
-- Wayfair
-- Activision Blizzard
-- Hulu
 - Hilton
-- Peloton
-- SeatGeek
-- Nextdoor
 - Albertsons Companies
 - Publix Super Markets
 - The TJX Companies
@@ -1210,42 +1432,13 @@ A company owned by another company gets its own entry if it hires under its own 
 - Gap Inc.
 - Kohl's
 - CarMax
-- Carvana
 - Dollar General
 - Live Nation Entertainment (Ticketmaster)
-- Quince
-- Niantic Spatial
-- Gopuff
-- Hopper
-- Houzz
-- StockX
-- GOAT Group
-- Noom
-- WHOOP
-- Thumbtack
-- Calm
-- Wonder
-- Ibotta
-- Coursera
-- Quora
-- Redfin (Rocket Companies)
-- Turo
-- Rover
-- Poshmark (Naver)
-- IXL Learning
-- PrizePicks
-- Underdog (Underdog Fantasy)
 - CoStar Group
-- Sonos
 - Bose
 - Dyson
 - SharkNinja
-- Rockstar Games
 - Ubisoft
-- Scopely
-- Bumble
-- Crunchyroll
-- Tubi
 - SiriusXM
 - iHeartMedia
 - Warner Music Group
@@ -1269,7 +1462,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Caesars Entertainment
 - MGM Resorts International
 - Las Vegas Sands
-- FanDuel (Flutter Entertainment)
 - BetMGM
 - bet365
 - Hard Rock Digital (Hard Rock Bet)
@@ -1281,10 +1473,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Ancestry (Blackstone-owned)
 - 23andMe (owned by TTAM Research Institute since 2025)
 - WebMD (Internet Brands)
-- Mozilla
-- JD.com
 - Rakuten
-- DiDi Global
 - Depop
 - H-E-B
 - Meijer
@@ -1326,66 +1515,27 @@ A company owned by another company gets its own entry if it hires under its own 
 - Omnicom Group (merged with IPG in 2025)
 - WPP
 - DIRECTV
-- Coupang
-- Indeed
-- Udemy
-- Eventbrite
-- Hims & Hers Health
 - Sephora (LVMH)
 - REI
 - Tapestry (Coach, Kate Spade)
-- Warby Parker
 - Grubhub (owned by Wonder)
-- OfferUp
 - Vimeo (owned by Bending Spoons)
 - Chegg
-- Quizlet
 - Getty Images Holdings
 - Shutterstock (merging with Getty Images)
-- Valve
-- Bungie
 - Wizards of the Coast
 - The Pokémon Company International
-- Taboola
 - Teladoc Health
-- GoodRx
-- Headspace
-- Khan Academy
-- Brilliant.org
 - Angi
-- Zynga (Take-Two Interactive)
-- ZeniMax Media / Bethesda (Microsoft)
-- NetEase Games
-- HoYoverse
-- Chess.com
-- Pixar Animation Studios
-- Lucasfilm / Industrial Light & Magic
-- Fubo
-- Audible
-- Vivid Seats
-- Substack
-- Medium
-- Wikimedia Foundation
-- Scribd, Inc.
 - News Corp
 - The Washington Post
 - AMC Networks
-- Grindr
-- Life360
 - GoPro
-- Lime
-- Temu (PDD Holdings)
-- Shein
-- Mercari
-- ThredUp
 - The RealReal
-- Stitch Fix
 - Lululemon
 - Ulta Beauty
 - Dick's Sporting Goods
 - Levi Strauss & Co.
-- Upwork
-- Fiverr
 - Taskrabbit (IKEA-owned)
 - Care.com (IAC)
 - Sabre Corporation
@@ -1399,10 +1549,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - SimpliSafe
 - Wyze Labs
 - NFL (National Football League)
-- Brave Software
-- DuckDuckGo
-- SoundCloud
-- Plex
 - Vizio (Walmart)
 - The Weather Company
 - Vox Media
@@ -1415,9 +1561,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Under Armour
 - New Balance
 - American Eagle Outfitters
-- Rent the Runway
 - Petco
-- The Farmer's Dog
 - JCPenney (Catalyst Brands)
 - Saks Global
 - The ODP Corporation (Office Depot)
@@ -1428,7 +1572,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Hertz
 - Cars.com (Cars Commerce)
 - Edmunds
-- Grab
 - Sweetgreen
 - L'Oréal USA
 - Ralph Lauren
@@ -1444,49 +1587,28 @@ A company owned by another company gets its own entry if it hires under its own 
 - USA TODAY Co. (formerly Gannett)
 - Lionsgate Studios
 - NPR
-- Tinder
-- DreamWorks Animation
-- Priceline
-- KAYAK
-- OpenTable
-- Agoda
-- Ring
-- IMDb
 - ESPN
-- MNTN
-- Liftoff
-- Jam City
 - Nexstar Media
 - Light & Wonder
-- Sportradar
-- Skyscanner
 - Arc'teryx
-- Magnite
-- Criteo
 - LiveRamp
-- StackAdapt
 - Red Ventures
 - Epsilon
-- Genius Sports
 - DoubleVerify
 - Integral Ad Science
 - Zeta Global
-- Playtika
 - Amadeus (US)
-- NewsBreak
 - Cox Automotive
 - iSpot.tv
 - QuinStreet
 
-## 10. Consulting & IT services (92)
+### Consulting & IT services
 
 - Accenture
 - Deloitte
 - PwC
 - EY
 - KPMG
-- McKinsey
-- BCG X
 - Bain
 - Booz Allen Hamilton
 - Capgemini
@@ -1507,7 +1629,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - AlixPartners
 - FTI Consulting
 - Gartner
-- Thoughtworks
 - Kyndryl
 - Unisys
 - Atos
@@ -1573,7 +1694,7 @@ A company owned by another company gets its own entry if it hires under its own 
 - Agile Defense
 - Trace3
 
-## 11. Traditional companies with large tech orgs (282)
+### Traditional companies with large tech orgs
 
 - Verizon
 - AT&T
@@ -1589,7 +1710,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Progressive
 - Liberty Mutual
 - USAA
-- GEICO
 - John Deere
 - Caterpillar
 - P&G
@@ -1599,7 +1719,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - McDonald's
 - Cummins
 - Boston Scientific
-- Intuitive Surgical
 - Honeywell Technologies
 - Southwest Airlines
 - UPS
@@ -1656,13 +1775,11 @@ A company owned by another company gets its own entry if it hires under its own 
 - Duke Energy
 - Medline Industries
 - Kenvue
-- Oscar Health
 - Ross Stores
 - Avis Budget Group
 - Enterprise Mobility (formerly Enterprise Holdings)
 - U-Haul (U-Haul Holding Company)
 - AstraZeneca
-- Genentech
 - Roche
 - GSK
 - Moderna
@@ -1670,7 +1787,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Regeneron
 - Sanofi
 - Takeda Pharmaceutical
-- Illumina
 - Danaher
 - Agilent Technologies
 - BD (Becton, Dickinson and Company)
@@ -1770,7 +1886,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Hyatt Hotels Corporation
 - IHG Hotels & Resorts
 - Viasat
-- AST SpaceMobile
 - Parker Hannifin
 - Whirlpool Corporation
 - Sunrun
@@ -1793,7 +1908,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Vertex Pharmaceuticals
 - Bayer
 - Boehringer Ingelheim
-- Ginkgo Bioworks
 - Arthur J. Gallagher & Co.
 - Allianz (Allianz Life / Allianz Global Investors US)
 - Mutual of Omaha
@@ -1831,12 +1945,6 @@ A company owned by another company gets its own entry if it hires under its own 
 - Providence
 - Sutter Health
 - UPMC
-- Guardant Health
-- Natera
-- Broad Institute
-- TerraPower
-- Oklo
-- TAE Technologies
 - CommonSpirit Health
 - Uline
 - American Electric Power

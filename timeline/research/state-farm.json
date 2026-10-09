@@ -1,7 +1,5 @@
 {
   "company": "State Farm",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,7 +12,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Title 'Entry/Mid Level'; 'We are seeking SOFTWARE ENGINEERS who have 1-4 years working experience with Java'",
+      "level_basis": "Title \"Entry/Mid Level\"; \"We are seeking SOFTWARE ENGINEERS who have 1-4 years working experience with Java\"",
       "no_sponsorship": true
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.statefarm.com/main/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-07 (98 results across software/developer/entry/graduate/AI/data): Hybrid Software Engineer - Java (Entry/Mid, req 43198, 1-4 yrs, will not sponsor) live. Other SWE postings are Lead/Mid-Level or combined SWE/Lead with no entry signal; Summer 2027 interns not counted.",
-  "confidence": "medium"
+  "evidence": "Jibe API 2026-10-08 (12 keyword searches): Hybrid Software Engineer - Java (Entry/Mid, req 43198, 1-4 yrs, \"employer will not sponsor\") live. Full Stack SWE (46400), GenAI Engineer and others show no entry signal; Summer 2027 interns not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

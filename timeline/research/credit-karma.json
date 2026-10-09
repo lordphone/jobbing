@@ -1,6 +1,7 @@
 {
   "company": "Credit Karma",
-  "tier": 5,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -15,6 +16,19 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer 1, Canada Tax Content (Intuit Canada, same Intuit board)",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-18",
+      "date_source": "page text (JSON-LD datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Page: 'entry-level, growth-oriented role'; tasks under close guidance of senior team members",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-14",
@@ -23,7 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
   "jobs_spec": null,
-  "evidence": "Fetched Intuit SWE 1 page 2026-10-07: Apply Now present, category New College Grad, <2 yrs experience, 5 locations, no sponsorship text. Intuit-wide evergreen (parent board); Credit Karma-branded list shows only Staff/Senior roles.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Intuit page fetched 2026-10-08: SWE 1 (<2 yrs, New College Grad, Apply Now present) evergreen; Toronto Software Developer 1 (Tax Content) entry-level, 2026-09-18. Both are Intuit-wide, not Credit Karma team roles; CK-branded list shows only Staff/Senior. Summer 2027 interns excluded.",
+  "confidence": "medium"
 }

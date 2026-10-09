@@ -1,15 +1,15 @@
 {
   "company": "Atos",
-  "tier": 10,
+  "tier": 5,
   "status": "no_program_found",
-  "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history or first-party record of a US new-grad SWE track",
   "jobs_page": "https://jobs.atos.net/search/?q=&locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "jobs.atos.net US searches 2026-10-07 via WebFetch (first page of 3 plus 'developer' search, ~33 US roles): Application Developer roles need 5+ yrs or Home Depot WMS experience, AI Engineer (Troy) is experienced; only junior title is Junior NOC Analyst (ops). Pages 2-3 not read. No entry SWE.",
+  "evidence": "jobs.atos.net US listing read in browser 2026-10-08: Application Developer postings (Phoenix) require 5+ yrs; others are architect, manager, network, NOC. Only junior title is Junior NOC Analyst (operations). No entry SWE.",
   "confidence": "medium",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "postings": [],
+  "last_cycle_opened": null,
   "excluded_reason": null,
   "no_sponsorship": false
 }

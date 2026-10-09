@@ -1,15 +1,15 @@
 {
   "company": "Alaska Airlines (Alaska Air Group)",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
-  "last_cycle_basis": "no tracker history",
-  "jobs_page": "https://careers.alaskaair.com/jobs/",
-  "jobs_spec": null,
-  "evidence": "careers.alaskaair.com job sitemap 2026-10-07 (49 postings): tech roles are Principal Data Engineer, Senior Cloud Software Engineer, Senior Principal Mobile Architect, Principal compliance PMs. Only a Software Engineer intern track (summer 2026 closed; 2027 not yet posted). No new-grad SWE.",
-  "confidence": "medium",
-  "tier": 11,
-  "checked": "2026-10-07",
   "postings": [],
   "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.alaskaair.com/jobs/",
+  "jobs_spec": null,
+  "evidence": "careers.alaskaair.com board shows 59 jobs (browser) and job sitemap lists 49 postings, read 2026-10-08: tech roles are Principal Data Engineer, Senior Cloud Software Engineer, Senior Principal Mobile Architect, compliance PMs. No entry-level software role; Summer 2026 SWE intern posting is gone.",
+  "confidence": "high"
 }

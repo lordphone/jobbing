@@ -1,29 +1,29 @@
 {
   "company": "MGM Resorts International",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Digital Software Engineer Associate",
       "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1",
-      "location": "Las Vegas, NV (Home Office - US, NV)",
+      "location": "Home Office - US, NV (Nevada)",
       "opened": "2026-10-05",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Associate title; requires '1 Year of Prior Relevant Experience' and Bachelors in CS; no senior duties",
+      "level_basis": "Associate title; requires '1 Year of Prior Relevant Experience' and a Bachelors in CS",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history found for a US new-grad SWE track",
+  "last_cycle_basis": "No first-party or tracker history found for an MGM new-grad SWE track.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
   "jobs_spec": "wd:mgmresorts/wd5/MGMCareers",
-  "evidence": "Workday cxs search 2026-10-07 (jobs.py board lists only 60 of the board; keyword searches show more): Digital Software Engineer Associate canApply true, startDate 2026-10-05, 1 yr, no sponsorship text. Others are Sr/Lead/Director. Single posting, not a named program.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Workday API 2026-10-08 (474, full): Digital Software Engineer Associate, canApply true, startDate 2026-10-05, requires 1 yr + Bachelors CS; no sponsorship text. Others Sr/Lead/Director or facilities.",
+  "confidence": "medium"
 }

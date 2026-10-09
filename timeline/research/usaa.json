@@ -1,7 +1,5 @@
 {
   "company": "USAA",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,7 +12,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Software Engineer I title; posting asks about 2 years' experience (not enforced for I level)",
+      "level_basis": "Software Engineer I title; \"Bachelor's degree; OR 4 years of relevant education and/or experience\"",
       "no_sponsorship": true
     },
     {
@@ -27,7 +25,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Software Engineer I title; posting asks about 2 years' experience (not enforced for I level)",
+      "level_basis": "Software Engineer I title; \"Bachelor's degree; OR 4 years of relevant education and/or experience\"",
       "no_sponsorship": true
     }
   ],
@@ -37,6 +35,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
   "jobs_spec": "wd:usaa/wd1/USAAJOBSWD",
-  "evidence": "Workday board 2026-10-07 (234, full): Software Engineer I (San Antonio, Phoenix Claims) live via API; 'USAA does not provide visa sponsorship'. I-level counts, not labeled new grad. Intermediate/Mid/Senior roles not counted. Matches 2026-10-06 file.",
-  "confidence": "medium"
+  "evidence": "Workday full board (234) 2026-10-08: Software Engineer I in San Antonio and Phoenix live, canApply true. Posting: \"USAA does not provide visa sponsorship for this role.\" Intermediate, Mid and AVP roles not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

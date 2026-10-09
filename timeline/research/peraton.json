@@ -1,7 +1,7 @@
 {
   "company": "Peraton",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": "Summer 2027 start",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": "Summer 2027 start",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -38,7 +38,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -51,7 +51,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -63,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-peraton.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS pages 2026-10-07: entry SWE postings (Associate / Ignite Innovator) have Apply but require 'US Citizenship with the ability to obtain and maintain a TS/SCI security clearance and polygraph'; Annapolis Junction and Junior SWE roles also citizenship/clearance.",
+  "evidence": "iCIMS 2026-10-08: entry SWE postings (Software Engineering, Associate / Ignite Innovator / Cyber, Herndon, Blacksburg, Annapolis Junction) have Apply but state \"US Citizenship with the ability to obtain and maintain a TS/SCI security clearance and polygraph\" (req 170478); cloud software roles also TS/SCI.",
   "confidence": "high"
 }

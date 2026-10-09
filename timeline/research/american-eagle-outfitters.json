@@ -1,15 +1,15 @@
 {
   "company": "American Eagle Outfitters",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no last-cycle new-grad SWE posting on the AEO Oracle board",
+  "last_cycle_basis": "No tracker history or first-party evidence of a prior new-grad SWE opening.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://hcml.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/AEOCareers",
   "jobs_spec": "oracle:hcml.fa.us2.oraclecloud.com/AEOCareers",
-  "evidence": "Oracle REST listing paged in full 2026-10-07 (3682 postings, mostly stores): tech roles are Staff Engineer - Platform, Manager - Data Engineering, Data Architect, Network Engineer. Only 2027 programs are Merchandising (internship, full-time training). No entry SWE.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Oracle board 2026-10-08, searched (2627 of 3680 via new grad/software/engineer/developer/data/MTS terms): tech roles are Network Engineer, Staff Engineer - Platform, Manager Data Engineering; 2027 programs are Merchandising training/internship only. No entry-level SWE.",
+  "confidence": "medium"
 }

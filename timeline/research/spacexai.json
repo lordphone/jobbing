@@ -1,29 +1,29 @@
 {
   "company": "SpaceXAI (xAI)",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'early-career engineers can take on real ownership'; basic quals ask only fundamentals and internship/project experience; $150,000-$350,000",
-      "no_sponsorship": false,
       "title": "Software Engineer, Ads Product",
       "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
       "location": "Palo Alto, CA",
       "opened": "2026-06-01",
-      "date_source": "greenhouse first_published"
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "early-career engineers can take on real ownership; role is a great fit for engineers who are early in their careers; no years of experience asked",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no xAI new-grad SWE posting",
+  "last_cycle_basis": "jobs.py history: no xAI new-grad SWE posting 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xai",
   "jobs_spec": "gh:xai",
-  "evidence": "Full gh:xai board (305): Ads Product SWE (Palo Alto, listed via API) is early-career, no years asked, no citizenship text. Other SWE roles need 2-5+ yrs; Evals says 'all levels' but needs 3+ years. Only 2027 interns otherwise.",
+  "evidence": "gh:xai full board (307) 2026-10-08: Ads Product SWE (Palo Alto) targets early-career, no years asked, no citizenship text. Evals says all levels but needs 3+ yrs; other SWE need 2-7+; 2027 interns only otherwise.",
   "confidence": "medium"
 }

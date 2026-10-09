@@ -1,15 +1,15 @@
 {
   "company": "Opendoor",
-  "tier": 3,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history or dated new-grad posting found.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.opendoor.com/careers/open-positions",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: careers page lists ~45 roles. Software Engineer (Miami/Toronto, posted 2026-05-29) is 'All Levels' but wants architecture opinions and design docs, no entry-level signal, so not counted. MLE and Agentic Analytics Engineer are senior. No new-grad program or listing.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Careers page 2026-10-08 lists 47 roles. Software Engineer (Miami/Toronto, posted 2026-05-29) is 'All Levels': mentors teammates, leads design reviews, no years stated; not counted. MLE and other engineers senior. No new-grad program.",
+  "confidence": "medium"
 }

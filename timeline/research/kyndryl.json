@@ -1,14 +1,14 @@
 {
   "company": "Kyndryl",
-  "tier": 10,
+  "tier": 5,
   "status": "open",
   "postings": [
     {
       "title": "Early Career Consult Program - Associate AI Engineer",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
-      "location": "Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week)",
+      "location": "Frisco, TX (Dallas Frisco AI Hub)",
       "opened": "2026-08-12",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (Workday startDate 2026-10-02)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -19,25 +19,38 @@
     {
       "title": "Software Engineer - Development",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer---Development_R-63192-1",
-      "location": "Frisco, TX (Dallas Frisco AI Hub, onsite 5 days/week)",
+      "location": "Frisco, TX (Dallas Frisco AI Hub)",
       "opened": "on or before 2026-10-07",
-      "date_source": "workday postedOn (Posted Today)",
+      "date_source": "workday startDate 2026-10-07 (may be a repost)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires \"2+ years experience working as a software engineer\"; pay band $63,360-$137,040; no lead/architect duties",
+      "level_basis": "Required: \"2+ years experience working as a software engineer\"; pay $63,360-$137,040; no lead/architect duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer_R-63512",
+      "location": "Frisco, TX (Dallas Frisco AI Hub)",
+      "opened": "on or before 2026-10-07",
+      "date_source": "workday startDate 2026-10-07 (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: \"2 years experience working as a software engineer on complex software projects\"; .NET focus; no lead duties",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history before 2026-08",
+  "last_cycle_basis": "no tracker history before 2026-08 (Associate AI Engineer first seen 2026-08-12)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers",
   "jobs_spec": "wd:kyndryl/wd5/KyndrylEarlyCareers",
-  "jobs_spec_basis": "early-career roles live on the KyndrylEarlyCareers board; the Professional board also lists Frisco SWEs",
-  "evidence": "Workday KyndrylEarlyCareers (47) and KyndrylProfessionalCareers (40) read in full 2026-10-07: Associate AI Engineer (0-3 yrs, canApply) says it will not sponsor visas; Software Engineer - Development asks 2+ yrs. Generic Software Engineer (2 yrs, $92K-$210K band) left out as level unclear.",
+  "jobs_spec_basis": "early-career roles are on KyndrylEarlyCareers; KyndrylProfessionalCareers (wd:kyndryl/wd5/KyndrylProfessionalCareers) also lists Frisco SWEs",
+  "evidence": "Both Workday boards read in full 2026-10-08 (EarlyCareers 40, ProfessionalCareers 600). Associate AI Engineer (0-3 yrs, no sponsorship) open; two Frisco Software Engineer postings need 2 yrs. RTP Software Engineering Developer needs 5+ yrs and US citizens/green card.",
   "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-08"
 }

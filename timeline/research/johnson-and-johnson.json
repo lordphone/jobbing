@@ -1,7 +1,5 @@
 {
   "company": "Johnson & Johnson",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,7 +12,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Employer will accept a Master's degree in CS and 1 year of experience; duties not senior; pay $187,741-$193,000",
+      "level_basis": "Employer will accept a Master's degree in Computer Science and 1 year of experience; supports AWS infrastructure, duties not senior; pay about $188k",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
   "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Workday board (280 postings) 2026-10-07: no new-grad titles; US software roles senior/co-op (SWE co-ops Spring/Summer 2027). Software Engineer DevOps (Auris, Santa Clara) not in list but CXS shows canApply true, close 2026-10-11; master's+1yr, ~$188k so borderline level.",
-  "confidence": "low"
+  "evidence": "Workday board 2026-10-08 (180, full): no new-grad titles; US software roles senior, staff or co-op. Software Engineer DevOps (Santa Clara) is not in the board list or search but its CXS page shows canApply true, ends 2026-10-11; master's plus 1 yr, so borderline level.",
+  "confidence": "low",
+  "checked": "2026-10-08",
+  "tier": 5
 }

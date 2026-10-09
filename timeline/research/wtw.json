@@ -1,15 +1,15 @@
 {
   "company": "WTW (Willis Towers Watson)",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "Tracker shows only UK data/grad roles and US/UK analyst roles; no US SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.wtwco.com/jobs/search",
   "jobs_spec": "sr:wtw",
-  "evidence": "Prior browser search 2026-10-06 found one US software role (Senior Cloud Security Engineer); US early careers are actuarial/broking/H&B interns. 2026-10-07 recheck: sr:wtw lists 1 job, site search not usable by fetch, web search shows only UK/Philippines roles.",
-  "confidence": "medium"
+  "evidence": "careers.wtwco.com browser searches 2026-10-08 (software; engineer developer): engineering/AI roles are UK, India, Philippines, Mexico, HK; only US tech role is Senior Cloud Security Engineer; US early careers are actuarial analyst 2027. sr:wtw API lists only 1 job. No US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

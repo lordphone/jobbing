@@ -1,17 +1,29 @@
 {
   "company": "Otter.ai",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {"title": "Software Engineer, Front-End (New Grad)", "url": "https://otter.ai/careers?gh_jid=8016078003", "location": "Mountain View, CA", "opened": "2026-10-07", "date_source": "greenhouse first_published", "deadline": null, "grad_window": null, "live_verified": "api", "level": "new-grad title", "level_basis": null, "no_sponsorship": false}
+    {
+      "title": "Software Engineer, Front-End (New Grad)",
+      "url": "https://otter.ai/careers?gh_jid=8016078003",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-07",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found between 2025-07 and 2026-01; this cycle's Backend new grad was first seen 2026-07-07",
+  "last_cycle_basis": "no new-grad SWE posting found between 2025-07 and 2026-01; this cycle Backend New Grad first seen 2026-07-07 (tracker, now gone)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://otter.ai/careers",
   "jobs_spec": "gh:otterai",
-  "evidence": "gh:otterai (26) 2026-10-07: Front-End (New Grad) posted today, returned by Greenhouse API (requires internship/industry experience, BS/MS). Backend New Grad (7798264003, first seen 2026-07-07) now 404, so closed. Other SWE roles ask 3+ yrs/senior.",
+  "evidence": "gh:otterai (26, full) 2026-10-08: Front-End (New Grad) first published 2026-10-07, in Greenhouse API (asks internship/industry experience, BS/MS). Careers page is JS-rendered and did not list it in fetch. Backend New Grad (7798264003) gone. Other SWE roles 3+ yrs/senior.",
   "confidence": "medium"
 }

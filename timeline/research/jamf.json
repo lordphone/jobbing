@@ -1,42 +1,42 @@
 {
-  "company": "Jamf",
-  "tier": 6,
-  "checked": "2026-10-07",
-  "status": "excluded",
-  "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004",
-      "location": "Remote (US)",
-      "opened": "2026-09-30",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Systems Development Engineer I",
-      "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207117004",
-      "location": "Remote (US)",
-      "opened": "2026-09-30",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-03",
-  "last_cycle_basis": "Tracker history: Software Engineer I, Eau Claire WI / Minneapolis MN, first seen 2025-10-03.",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/jamf",
-  "jobs_spec": "gh:jamf",
-  "evidence": "Greenhouse API 2026-10-07 (28, full): SWE I and Systems Dev Engineer I (US Remote, 2026-09-30) say work 'can only be performed by a U.S. citizen located physically in the U.S.' No other US entry SWE.",
-  "confidence": "high"
+ "company": "Jamf",
+ "tier": 5,
+ "checked": "2026-10-08",
+ "status": "excluded",
+ "postings": [
+  {
+   "title": "Software Engineer I",
+   "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004",
+   "location": "Remote (US)",
+   "opened": "2026-09-30",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Systems Development Engineer I",
+   "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207117004",
+   "location": "Remote (US)",
+   "opened": "2026-09-30",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-10-03",
+ "last_cycle_basis": "Tracker history: Software Engineer I, Eau Claire WI / Minneapolis MN, first seen 2025-10-03.",
+ "excluded_reason": "citizenship",
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/jamf",
+ "jobs_spec": "gh:jamf",
+ "evidence": "Greenhouse API 2026-10-08 (27, full): SWE I and Systems Development Engineer I (US Remote, first published 2026-09-30) say the work 'can only be performed by a U.S. citizen located physically in the U.S.' and non-citizens are not eligible. No other US entry SWE (II roles are Brno/Poland; Systems Dev Eng II is level II).",
+ "confidence": "high"
 }

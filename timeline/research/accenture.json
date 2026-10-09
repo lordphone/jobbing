@@ -1,7 +1,5 @@
 {
   "company": "Accenture",
-  "tier": 10,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,7 +12,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "experienceLevel entry_level; basic qualification is a 2 or 4 year STEM degree",
+      "level_basis": "entry-level title; basic qualification is a 2 or 4 year STEM degree",
       "no_sponsorship": true
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
   "jobs_spec": "wd:accenture/wd103/AccentureCareers",
-  "evidence": "Workday 2026-10-07: NAELFY27 US roles are Summer Analyst internships (not counted). AFS SmartRecruiters Java Associate (San Antonio) active via API and page; no clearance quoted; no sponsorship. AFS Pega, Junior FDE, Analyst and Full Stack roles quote U.S. citizenship/clearance (excluded).",
-  "confidence": "medium"
+  "evidence": "Workday full board 2026-10-08 (780, mostly non-US): no US entry SWE; accenture.com search returned nothing via fetch. AFS SmartRecruiters (23, full) still lists the Java Associate (active, no sponsorship, no clearance quoted); date is a reused 2014 template, so low-medium certainty.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

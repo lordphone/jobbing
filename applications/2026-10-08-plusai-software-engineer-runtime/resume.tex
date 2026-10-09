@@ -1,0 +1,60 @@
+% PlusAI — Software Engineer, Runtime (Santa Clara, CA)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist[itemize]{leftmargin=11pt, itemsep=0.6pt, parsep=0pt, topsep=0.8pt, partopsep=0pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Machine Learning, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Computer Architecture, Algorithms, Mobile Computing Laboratory
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built a Python FastAPI / MongoDB service from the first commit to 89 endpoints and 7 Kubernetes CronJobs on AWS EKS, with $\sim$1{,}450 fully-offline tests (0.17\,s) behind a ruff / pyright / pytest gate.
+  \item Profiled a cache that could not hit (13.2\,MB keyed per user) as pod memory neared its 512\,MiB limit; re-keyed it to a shared 10.9\,MB catalog (78$\times$ smaller) and cut the home-load copy 9.0\,ms $\to$ 0.89\,ms.
+  \item Diagnosed a 5-day silent CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency) and fixed it with paired job and scheduler deadlines; set up Prometheus metrics and Grafana dashboards on EKS.
+  \item Root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces: an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) plus a Helm env shadowing the code default.
+  \item Designed an ingest $\to$ embed $\to$ LLM-score $\to$ dedupe pipeline ($\sim$2\,min ingest-to-decision, $\sim$1{,}200 LLM calls/day); validated it on 4{,}100+ production-shadow decisions before going live, cutting filler 34\% $\to$ 4\%.
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, 1{,}119 peak daily active users); 344 PRs across five repos (340 merged).
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed the database schemas and REST APIs and led PR reviews.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; demoed it until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers for long-term safety of stochastic systems; outperformed Adaptive MPC in 3-DOF vehicle simulations with LuGre tire models, including ice.
+  \item Implemented Bayesian estimators for real-time road-friction adaptation and mapped natural-language instructions to formal safety specs with multi-turn LLMs.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, C, Go, Java, SQL, Bash, Swift, TypeScript \\[1pt]
+  \textbf{ML \& Edge} & PyTorch, CUDA, OpenCV, NumPy, NVIDIA Jetson, GCP Vertex AI, Bayesian estimation \\[1pt]
+  \textbf{Infra \& Tools} & Linux, Docker, Kubernetes (EKS), Helm, Jenkins, Prometheus, Grafana, Redis Streams, Git \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 20-frame (1s) video; built the data pipeline over 33 hours of Comma2k19 (shuffling, temporal windowing, 240$\times$320 frames), trained on local CUDA and GCP Vertex AI, and ran streaming inference.
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders with voltage-to-frequency converters on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+\end{itemize}
+
+\end{document}

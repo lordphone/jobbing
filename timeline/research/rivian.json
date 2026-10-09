@@ -1,6 +1,6 @@
 {
   "company": "Rivian",
-  "tier": 8,
+  "tier": 3,
   "status": "open",
   "postings": [
     {
@@ -24,7 +24,7 @@
   "jobs_page": "https://careers.rivian.com/careers-home/jobs",
   "jobs_spec": null,
   "jobs_spec_basis": "main board has no jobs.py spec; careers.rivian.com/api/jobs read directly; Rivian-VW JV roles are on ashby:rivianvw.tech",
-  "evidence": "careers.rivian.com API (813 jobs) 2026-10-07: only Early Career mechanical/electrical/systems/cloud-ops/AppSec (2+ yrs) and Spring 2027 co-op interns; no entry SWE. Rivian-VW JV Ashby: Edge AI SWE accepts BS/MS in lieu of 2-4 yrs, counted; Embedded Lighting (1 yr, firmware) and Systems Architecture (systems eng) not counted. JV board, not Rivian's own: medium.",
+  "evidence": "careers.rivian.com API (390 software hits) 2026-10-08: Early Career roles are mechanical/electrical/systems/cloud-ops/AppSec; no entry SWE; interns Spring 2027. Rivian-VW JV Ashby: Edge AI SWE accepts BS/MS in lieu of 2-4 yrs, counted; others 3+ yrs. JV board, not Rivian main: medium.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

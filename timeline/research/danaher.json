@@ -1,29 +1,29 @@
 {
   "company": "Danaher",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Engineer, Desktop Software",
-      "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
       "location": "Irvine, CA",
       "opened": "2026-09-29",
-      "date_source": "tracker first seen (Workday startDate 2026-10-02)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'B.S. degree in computer science... with experience in software development'; 'with guidance from experienced engineers'; no years ask; $70,000 - $100,000",
+      "level_basis": "'Implement software from defined requirements and designs, with guidance from experienced engineers'; B.S. in CS, no years asked; $70,000 - $100,000",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
+  "last_cycle_opened": "2026-07-07",
   "last_cycle_basis": "tracker first-seen: Software Engineer 1, Indianapolis, IN 2026-07-07 is this-cycle (closed); no new-grad SWE in the 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
   "jobs_spec": "wd:danaher/wd1/DanaherJobs",
-  "evidence": "Workday CXS detail 2026-10-07: Masimo (Danaher OpCo) Desktop Software Engineer, Irvine onsite, canApply true, no sponsorship or deadline text. Rest of the 60-posting DanaherJobs board has no entry SWE; other OpCos use separate boards. Software Engineer 1 Indianapolis gone.",
-  "confidence": "medium"
+  "evidence": "Workday CXS 2026-10-08: Masimo (Danaher OpCo) Engineer, Desktop Software, Irvine CA on-site, B.S. in CS, no years required, works with guidance from experienced engineers, live (apply open). Other SWE-type roles need 3+ yrs. Software Engineer 1 Indianapolis (2026-07) closed.",
+  "confidence": "high"
 }

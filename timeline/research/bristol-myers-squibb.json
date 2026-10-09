@@ -1,7 +1,6 @@
 {
   "company": "Bristol Myers Squibb",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -14,16 +13,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: bachelor's and minimum of 2 years professional software development; duties are build/test/debug, no leadership",
+      "level_basis": "'Minimum of 2 years of professional software development experience'; no lead/mentor duties; pay $96,560 - $128,709",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no Jul 2025-Jan 2026 entry SWE record (Junior AI Engineer San Diego 2026-05-23 and Associate Engineer Analytical AI 2026-06-16 were off-cycle)",
+  "last_cycle_basis": "none found for Jul 2025 - Jan 2026; tracker saw Junior AI Engineer (San Diego 2026-05-23) and Associate Engineer - Analytical AI (Princeton 2026-06-16), both off-cycle and closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bms.com/careers?location=United%20States",
   "jobs_spec": "wd:bristolmyerssquibb/wd5/bms",
-  "evidence": "Workday CXS 2026-10-07 (260 postings): Software Engineer, AI Engineering and Enablement canApply true, ends 2026-10-26, requires 2 yrs, no senior duties. Earlier Technology Rotational Program gone. Full Stack AI Engineer needs 5 yrs; 2027 grad programme is Ireland only.",
-  "confidence": "medium"
+  "evidence": "Workday full board (400) 2026-10-08 + CXS read: Software Engineer, AI Engineering and Enablement canApply true, ends 2026-10-26, requires 2 yrs. IT Lab Systems associate is IT support; Process/Data Engineer I are India; Technology Rotational Development Program Associate (2026-08-30) closed; 2027 grad programme is Ireland only.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

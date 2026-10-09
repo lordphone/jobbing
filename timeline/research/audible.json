@@ -1,6 +1,6 @@
 {
   "company": "Audible",
-  "tier": 9,
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": "Currently enrolled in a Bachelor's or above, or completed a Bachelor's or Graduate degree (no class year)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,7 +24,7 @@
       "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Basic qualifications: \"1+ years of non-internship professional software development experience\"",
       "no_sponsorship": false
@@ -37,7 +37,7 @@
       "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Basic qualifications: \"1+ years of non-internship professional software development experience\"",
       "no_sponsorship": false
@@ -50,7 +50,7 @@
       "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Basic qualifications: programming language and Bachelor's in CS only; no years of experience asked; no senior duties",
       "no_sponsorship": false
@@ -63,7 +63,7 @@
       "date_source": "amazon.jobs posted date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Basic qualifications: \"Bachelor's degree in Computer Science ... 1+ years of software development experience\"",
       "no_sponsorship": false
@@ -73,9 +73,9 @@
   "last_cycle_basis": "prior hint: a Newark NJ early-career SWE existed last cycle but its page was 404; no tracker confirmation, so unknown.",
   "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs search for Audible (2026-10-07, US): SDE Early Career (Cambridge) plus four unlabeled Newark SDE roles asking 0-1+ yrs; pages show Apply now. Excluded SDE II/III/Senior/Lead, SDE Creator Marketplace (3+ yrs), SDE iOS (unclear level).",
+  "evidence": "amazon.jobs search (Audible, US) 2026-10-08: SDE Early Career (Cambridge) plus four Newark SDE roles asking 0-1+ yrs; all pages show Apply now. Excluded Creator Marketplace (3+ yrs), iOS (mentoring duties), SDE II/III/Senior/Lead.",
   "confidence": "medium",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "excluded_reason": null,
   "no_sponsorship": false
 }

@@ -2,7 +2,7 @@
 """Compare the snapshot taken before a run with its results and write timeline/CHANGES.md.
 
   changes.py snapshot   # before the run: copy status.csv, postings.csv and COMPANY_LIST.md into timeline/data/prev/
-  changes.py [--run "Top-tier search (tiers 1–4)"]   # after the run: write timeline/CHANGES.md (--run names the run)
+  changes.py [--run "Top-tier search (tiers 1–3)"]   # after the run: write timeline/CHANGES.md (--run names the run)
 """
 import csv, os, re, shutil, sys, datetime as dt
 

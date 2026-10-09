@@ -1,7 +1,6 @@
 {
   "company": "Honda",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -9,47 +8,48 @@
       "url": "https://careers.honda.com/us/en/job/12764",
       "location": "Raymond, OH",
       "opened": "2026-10-02",
-      "date_source": "page text (Honda dateCreated)",
+      "date_source": "phenom widgets postedDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "Honda yearsExpReqd '0-1 years (college entry level)'; 0-2 years of related experience"
+      "level_basis": "0-2 years of related experience is desired; infotainment software/hardware development; no senior duties",
+      "no_sponsorship": false
     },
     {
       "title": "Electrical Powertrain Software Engineer",
       "url": "https://careers.honda.com/us/en/job/12837",
       "location": "Raymond, OH",
       "opened": "2026-10-02",
-      "date_source": "page text (Honda dateCreated)",
+      "date_source": "phenom widgets postedDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "Honda yearsExpReqd '0-1 years (college entry level)'; 0-2 years of related experience"
+      "level_basis": "Bachelor's in EE or related; 0-2 years relevant experience; works with moderate oversight",
+      "no_sponsorship": false
     },
     {
       "title": "Software & System Dev. Engineer",
       "url": "https://careers.honda.com/us/en/job/12379",
       "location": "Raymond, OH",
       "opened": "2026-08-21",
-      "date_source": "page text (Honda dateCreated)",
+      "date_source": "phenom widgets postedDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "Honda yearsExpReqd '0-1 years (college entry level)'; 0-3 years of related experience is desired"
+      "level_basis": "4-yr BSc in CS/EE/CE; 0-3 years of related experience desired; 'will learn process and requirements'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Engineering Development Program (manufacturing engineering, not SWE) first seen 2025-01-06; no earlier SWE new-grad posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker only shows Engineering Development Program (manufacturing, not SWE) 2025-01; no earlier SWE new-grad posting found",
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Honda Phenom widgets API (69 'software' hits) + posting pages 2026-10-07: three Raymond OH entry-level SWE roles live (BS, 0-2/0-3 yrs, 'college entry level', rolling). 12510 no longer listed (dropped). Test/ADAS-test and Senior roles not counted. Cloud Applications Engineer no sponsorship (not counted).",
-  "confidence": "medium"
+  "evidence": "Phenom widgets search 'software' 2026-10-08 (69 hits, all read) plus posting pages (Apply present): three Raymond OH entry-level SWE roles, rolling, no deadline, no citizenship/sponsorship text. Senior, test, ADAS-test and Cloud Applications Engineer roles not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

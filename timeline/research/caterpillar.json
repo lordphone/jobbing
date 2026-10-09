@@ -1,7 +1,5 @@
 {
   "company": "Caterpillar",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,16 +12,18 @@
       "grad_window": "degree must be completed by start date",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'ideal for those... within the first 24 months of their career'; '0-2 years of relevant experience'; $89,210 low end",
+      "level_basis": "\"ideal for those building foundational skills, generally within the first 24 months of their career\"; \"0-2 years of relevant experience\"; pay from $89,210",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2026-01-26",
   "last_cycle_basis": "tracker history: Software Engineer (Peoria/Chicago/Irving) first seen 2026-01-26; Early Career Software Engineer 2025-02-18 (spring)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
   "jobs_spec": "wd:cat/wd5/CaterpillarCareers",
-  "evidence": "Workday API/detail 2026-10-07: Software Engineer R0000392873 live, canApply true, ends 2026-11-14, 'Sponsorship... NOT available'. Data Engineer reqs (Irving, Peoria, Physical AI Chicago) lack a clear entry-level ask; not counted. Posting not in board list but detail resolves.",
-  "confidence": "high"
+  "evidence": "Workday CXS searches + detail 2026-10-08: Software Engineer R0000392873 live, canApply true, ends 2026-11-14, \"Sponsorship now or in the future is NOT available\". Data Engineer, Autonomy and Irving SWE roles lack an entry-level ask; not counted.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

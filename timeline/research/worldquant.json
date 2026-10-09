@@ -1,6 +1,7 @@
 {
   "company": "WorldQuant",
-  "tier": 4,
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -11,9 +12,9 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "'looking for a Junior Quant Developer... early-career candidate'; 'fundamentals over years of experience'; $125,000-$175,000",
+      "level_basis": "'looking for a Junior Quant Developer... early-career candidate'; 'value... strong fundamentals... over years of experience'; $125,000 to $175,000",
       "no_sponsorship": false
     }
   ],
@@ -23,7 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/worldquant",
   "jobs_spec": "gh:worldquant",
-  "evidence": "gh:worldquant full (95): Junior Quant Developer (NY/Old Greenwich) live, early-career, first published 2026-08-13. No campus program. NY Full Stack (2-5+ yrs), C++ trading roles (4+ yrs), seniors not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "gh:worldquant full (94) 2026-10-08: Junior Quant Developer (NY/Old Greenwich) live (page shows Apply form), early-career, published 2026-08-13. No campus program. NY Full Stack (2-5+ yrs), C++ trading roles (4+ yrs), seniors not counted.",
+  "confidence": "medium"
 }

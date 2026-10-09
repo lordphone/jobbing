@@ -1,6 +1,7 @@
 {
   "company": "Newegg",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "leftover_2026",
   "postings": [
     {
@@ -10,7 +11,7 @@
       "opened": "2026-06-02",
       "date_source": "adp postingDate",
       "deadline": null,
-      "grad_window": "Graduating in or before Dec 2026, or graduated within the last 12 months",
+      "grad_window": "Graduating in or before Dec 2026, or graduated within last 12 months",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -18,12 +19,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP public API (header orgoid 09FCEF350B10124A) lists 89 reqs 2026-10-07: only the multi-BU Early Career Talent Program (IT category, grad by Dec 2026, not SWE-specific; recorded as leftover) plus Business System Developer (Ontario, logistics systems; asks \"proven experience\"), no entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "ADP public API 2026-10-08 lists 89 reqs: only multi-BU Early Career Talent Program (IT category, grad by Dec 2026, not SWE-specific, 5 days on-site) recorded as leftover, plus Business System Developer (Ontario). No 2027 entry SWE.",
+  "confidence": "medium"
 }

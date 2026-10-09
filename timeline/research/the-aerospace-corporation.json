@@ -1,7 +1,7 @@
 {
   "company": "The Aerospace Corporation",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "workday startDate",
       "deadline": "2027-02-26",
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 Vehicle Systems Software Engineer",
@@ -22,7 +25,10 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2024-10-28",
@@ -31,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA",
   "jobs_spec": "wd:aero/wd5/external",
-  "evidence": "Workday full board (424) 2026-10-07: 2027 RPO Software Developer and Vehicle Systems SWE live, both quote 'U.S. citizenship is required to obtain a security clearance'. Other 2027 roles are non-software. Deadline from Workday endDate.",
+  "evidence": "Workday full board (423) 2026-10-08: 2027 RPO Software Developer and Vehicle Systems SWE live, both quote 'U.S. citizenship is required to obtain a security clearance'. Other 2027 roles non-software. Deadline from Workday endDate.",
   "confidence": "high"
 }

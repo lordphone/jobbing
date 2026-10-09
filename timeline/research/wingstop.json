@@ -1,6 +1,7 @@
 {
   "company": "Wingstop",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -8,22 +9,21 @@
       "url": "https://iaxmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Wingstop-GSC/job/1043",
       "location": "Dallas, TX",
       "opened": "2026-08-19",
-      "date_source": "oracle ExternalPostedStartDate",
+      "date_source": "oracle posted start date",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '1+ years of data engineering experience'; 'eager to learn from senior engineers'; works alongside senior engineers",
+      "level_basis": "requires 1+ years of data engineering experience; 'work alongside senior engineers'",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://iaxmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Wingstop-GSC/jobs",
   "jobs_spec": "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC",
-  "evidence": "Oracle API 2026-10-07 (373 postings, full): only entry-level engineering role is Data Engineer in Dallas (1+ yrs, pipelines in Python/SQL); data-engineering not pure SWE so borderline. Others Senior/Staff. No new-grad program.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Oracle API 2026-10-08 (373, full): only entry-level tech role is Data Engineer, Dallas (1+ yrs, Python/SQL pipelines, works with senior engineers); data engineering is borderline vs SWE. Others Senior/Staff. No new-grad program.",
+  "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "iSpot.tv",
-  "tier": 9,
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-11-12",
-  "last_cycle_basis": "tracker first seen: Software Development Engineer 1, Bellevue WA, https://job-boards.greenhouse.io/ispottv/jobs/4629254005 (another SDE 1 in Apr 2026)",
+  "last_cycle_basis": "tracker first seen: Software Development Engineer 1, Bellevue WA, https://job-boards.greenhouse.io/ispottv/jobs/4629254005 (SDE 1 also Apr 2026, closed)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ispottv",
   "jobs_spec": "gh:ispottv",
-  "evidence": "Greenhouse full board (12) 2026-10-07: only Lead/Sr SDE, Director AI, VP Eng; no entry-level SWE. SDE 1 postings (Nov 2025, Apr 2026) closed. Has a new-grad-level SDE 1 track.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse API 2026-10-08 (10, full): only Lead/Sr SDE, Director AI, VP Eng, TPM; no entry-level SWE. Past SDE 1 postings (Nov 2025, Apr 2026) are gone.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

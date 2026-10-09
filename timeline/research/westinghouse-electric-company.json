@@ -1,7 +1,7 @@
 {
   "company": "Westinghouse Electric Company",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "page listing date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
       "no_sponsorship": false,
       "level_basis": "'0+ years experience'; Catalyst high-potential program, BS CS/SWE"
@@ -25,7 +25,7 @@
       "date_source": "tracker first seen (careers search lists Sep 20, 2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
       "no_sponsorship": false,
       "level_basis": "'0+ years experience'; bachelor's in CS/SWE"
@@ -38,35 +38,22 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "'0+ years of experience'; requires bachelor's, C/C++ 'through coursework, internships, or academic projects'",
       "no_sponsorship": false
     },
     {
-      "title": "Safety SW I&C Engineer HMI Systems (req 33471)",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410681600/",
-      "location": "Warrendale, PA (hybrid)",
-      "opened": "on or before 2026-10-07",
-      "date_source": "page text",
+      "title": "I&C SW Specialist",
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-SW-Specialist-OR/1410998600/",
+      "location": "Warrendale, PA",
+      "opened": "2026-09-17",
+      "date_source": "page text (posted Sep 17, 2026)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "'0+ years of experience'; requires bachelor's, C/C++ 'through coursework, internships, or academic projects'",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Safety SW I&C Engineer HMI Systems (req 33451)",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410687800/",
-      "location": "Warrendale, PA (hybrid)",
-      "opened": "on or before 2026-10-07",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "unlabeled",
-      "level_basis": "'0+ years of experience'; requires bachelor's, C/C++ 'through coursework, internships, or academic projects'",
+      "level_basis": "requires bachelor's in CS/EE/related, 0+ years of experience; $58.4K-$73K",
       "no_sponsorship": false
     }
   ],
@@ -76,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.westinghousenuclear.com/search/",
   "jobs_spec": null,
-  "evidence": "careers.westinghousenuclear.com pages fetched 2026-10-07, all show Apply now: AI Delivery and CS/Software Engineer (0+ yrs), plus 3 Safety SW I&C HMI reqs (Warrendale, 0+ yrs, coursework OK). Only generic export-control line; no citizenship/clearance text. SW Development Engineer needs 3+ yrs. Fetched via HTTP not browser.",
+  "evidence": "careers.westinghousenuclear.com search + posting pages fetched 2026-10-08, all Apply now: AI Delivery (Catalyst program), CS/Software Engineer (0+ yrs), Safety SW I&C HMI req 1411189300 (0+ yrs), I&C SW Specialist (0+ yrs). HMI reqs 1410681600 (4+ yrs) and 1410687800 (3+ yrs) not entry-level, removed. Only generic export-control line; no citizenship/clearance text. SW Development Engineer needs 3+ yrs.",
   "confidence": "medium"
 }

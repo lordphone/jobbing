@@ -1,16 +1,15 @@
 {
   "company": "Norfolk Southern",
-  "tier": 11,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows only 'Gen AI Data Scientist' (2025-10-29, Atlanta, senior) - not entry SWE.",
+  "last_cycle_basis": "Tracker shows only 'Gen AI Data Scientist' (2025-10-29, Atlanta, senior), not entry SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.nscorp.com/search",
   "jobs_spec": null,
-  "evidence": "jobs.nscorp.com (SuccessFactors) all 98 jobs paged 2026-10-07: tech roles are Manager/Lead/Senior Director (Mobile Software Dev Manager, Lead Data Engineer, Lead Data Scientist); 2027 trainees are transportation, mechanical, electrical signal. No entry SWE this cycle or last.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "jobs_spec_basis": "SuccessFactors career site, /search/ pages parseable; no jobs.py spec"
+  "evidence": "jobs.nscorp.com (SuccessFactors) all 101 jobs paged 2026-10-08: tech roles are Manager/Lead/Senior (Mobile Software Dev Manager, Lead Data Engineer, Lead Data Scientist, Cloud Architect); 2027 trainees are transportation operations, field and electrical engineering. No entry SWE.",
+  "confidence": "high"
 }

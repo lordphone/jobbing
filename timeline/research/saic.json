@@ -1,6 +1,7 @@
 {
   "company": "SAIC (Science Applications International Corp.)",
-  "tier": 10,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://jobs.saic.com/jobs/18250451-software-engineer-associate",
       "location": "Pensacola, FL",
       "opened": "2026-09-16",
-      "date_source": "page text",
+      "date_source": "page text (Date Posted)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -20,10 +21,9 @@
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.saic.com/search/jobs",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: 21 \"software engineer associate\" results; Pensacola posting (Oct 7, Apply Now) says \"Clearance Required: Must have a Secret security clearance\". Junior Java Developer (Ashburn) says \"Must be a US Citizen\". Other entry SWE roles show the same.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-08: 3 \"software engineer associate\" postings (all Pensacola FL, Sep 14 to Oct 7, Apply Now) say \"Minimum Clearance Required: Secret\" and \"Clearance Required: Must have a Secret security clearance\". DevSecOps Engineer Associate (Newport RI) also Secret and mentions Citizenship.",
+  "confidence": "high"
 }

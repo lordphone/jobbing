@@ -1,7 +1,7 @@
 {
   "company": "LSEG (London Stock Exchange Group)",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,13 @@
       "url": "https://lseg.wd3.myworkdayjobs.com/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734",
       "location": "Boston, MA",
       "opened": "2026-09-24",
-      "date_source": "workday startDate",
+      "date_source": "workday startDate; page: End Date Oct 30, 2026, text says application close Nov 28 (may close earlier)",
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
-      "live_verified": "api",
-      "deadline": "2026-11-28"
+      "live_verified": "browser",
+      "deadline": "2026-10-30",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Engineering Graduate Programme (New York)",
@@ -21,8 +24,11 @@
       "opened": "2026-09-16",
       "date_source": "workday startDate",
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
-      "live_verified": "api",
-      "deadline": "2026-10-20"
+      "live_verified": "browser",
+      "deadline": "2026-10-20",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Engineering Graduate Programme (Fort Mill)",
@@ -31,8 +37,11 @@
       "opened": "2026-09-16",
       "date_source": "workday startDate",
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
-      "live_verified": "api",
-      "deadline": "2026-10-20"
+      "live_verified": "browser",
+      "deadline": "2026-10-20",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
     },
     {
       "title": "Real-Time Software Engineer - Early Career",
@@ -42,7 +51,10 @@
       "date_source": "tracker first seen; workday postedOn Today",
       "deadline": null,
       "grad_window": "recent graduate or up to 2 yrs experience",
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-03-23",
@@ -51,6 +63,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://lseg.wd3.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:lseg/wd3/Careers",
-  "evidence": "Workday CXS (Careers, Graduate_Careers) 2026-10-07: Engineering Graduate Programme live in Boston (close Nov 28), New York and Fort Mill (close Oct 20), starts Sep 2027, needs unrestricted US work rights; St. Louis Real-Time SWE Early Career posted 2026-10-05, recent grad or up to 2 yrs.",
+  "evidence": "Workday + browser 2026-10-08: Engineering Graduate Programme live in Boston (Workday end 2026-10-30; text says close Nov 28), New York and Fort Mill (close Oct 20), starts Sep 2027, wants unrestricted US work rights; St. Louis Real-Time SWE Early Career live, recent grad or up to 2 yrs.",
   "confidence": "high"
 }

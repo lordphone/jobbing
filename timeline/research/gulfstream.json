@@ -1,15 +1,29 @@
 {
   "company": "Gulfstream",
-  "tier": 8,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Specialist",
+      "url": "https://careers.gulfstream.com/en/jobs/236712/ai-specialist/",
+      "location": "Savannah, GA",
+      "opened": "2026-09-25",
+      "date_source": "page text (JobPosting datePosted)",
+      "deadline": "2026-10-30",
+      "grad_window": "considers candidates graduating Fall 2026; degree complete before start",
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'Entry-level AI engineer focused on implementation and learning'; requires 1 year of experience; works 'under guidance'",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows entry-level IT developer postings (Reporting Developer 1, Entry-Level ERP Application Developer) only in Apr-May 2026, outside the Jul-Jan window; no new-grad SWE program found",
+  "last_cycle_basis": "unknown; tracker history shows entry-level IT developer postings (Reporting Developer 1, Entry-Level ERP Application Developer) only in Apr-May 2026, outside the Jul-Jan window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.gulfstream.com/en/jobs/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07 careers.gulfstream.com search \"software\" (118 jobs, pages 1-2 read): only Spring/Summer 2027 collegiate intern roles, Software Eng Grp Head II, Container Platform Engineer Sr, AI Specialist; no full-time entry SWE.",
+  "evidence": "Browser careers search 2026-10-08 (software, developer, data, ML, associate; US): only entry-level SWE-type role is AI Specialist (Savannah, posting end 10/30/2026; 'does not provide work visa sponsorship for this position'). Other hits are interns, Sr, or non-software engineers; no clearance text seen. Earlier file (2026-10-07) said no_program because it dismissed AI Specialist; its posting text calls it entry-level, so status is open.",
   "confidence": "medium"
 }

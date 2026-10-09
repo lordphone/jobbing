@@ -1,7 +1,7 @@
 {
   "company": "Contextual AI",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "unknown",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: contextual.ai/careers OPEN ROLES shows only a heading; no ATS link, iframe or job API request in page resources. Ashby/Greenhouse/Lever slugs contextual, contextual-ai, contextualai, contextual_ai return 404. Third-party listings show only MTS/senior roles. Board unreadable; retry.",
+  "jobs_spec_basis": "careers page has no ATS link; no API board found",
+  "evidence": "2026-10-08 browser: contextual.ai/careers Open roles section is empty in server HTML and after render; no ATS link, iframe or job-feed request. Could be no openings or a broken embed. Web search found only old GTM roles (Solutions Engineer, FDE). Retry later.",
   "confidence": "low"
 }

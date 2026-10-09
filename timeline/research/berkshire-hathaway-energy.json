@@ -1,7 +1,7 @@
 {
   "company": "Berkshire Hathaway Energy",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -31,10 +31,10 @@
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
       "location": "Des Moines, IA; Davenport, IA; Richmond, VA; Reno, NV; Las Vegas, NV; Portland, OR; Sioux City, IA; Omaha, NE; Salt Lake City, UT",
       "opened": "2026-10-07",
-      "date_source": "oracle cloud posted date",
+      "date_source": "tracker/prior check 2026-10-07 (API shows no posted date)",
       "deadline": "2026-11-06",
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": "multi-level posting; Software Engineer 1 level is entry (SE2 needs 4 yrs, SE3 6 yrs)",
       "no_sponsorship": true
@@ -46,6 +46,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
   "jobs_spec": "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle CX_1 board 2026-10-07 (118 postings, full) and detail: Software Engineer 1 reqs 10005734 (ends 2026-10-16), 10004529 (no end) and new multi-level SE 1/2/3 req 10005871 (ends 2026-11-06) live. Postings state no immigration sponsorship now or in future.",
+  "evidence": "Oracle CX_1 board 2026-10-08 (118, full): Software Engineer 1 reqs 10005734 (ends 2026-10-16) and 10004529 live; multi-level SE 1/2/3 req 10005871 not listed on board but its page shows Apply Now (browser). All say no immigration sponsorship now or in future.",
   "confidence": "high"
 }

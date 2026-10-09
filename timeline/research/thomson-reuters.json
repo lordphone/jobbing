@@ -1,12 +1,12 @@
 {
   "company": "Thomson Reuters",
-  "tier": 6,
+  "tier": 5,
   "status": "open",
   "postings": [
     {
       "title": "Research Engineer (Thomson Reuters Labs)",
       "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Research-Engineer_JREQ198562",
-      "location": "Eagan, MN; Toronto, ON; New York, NY; Ann Arbor, MI; Frisco, TX",
+      "location": "Eagan, MN; Toronto, ON; New York, NY; Ann Arbor, MI; Frisco, TX; McLean, VA; Washington, DC; San Francisco, CA; Los Angeles, CA; Irvine, CA",
       "opened": "2026-10-02",
       "date_source": "workday startDate",
       "deadline": "2026-10-30",
@@ -21,9 +21,9 @@
   "last_cycle_basis": "tracker history: 'AI Engineer - New Grad - Materia AI' (Toronto) first seen 2025-11-20; US 'AI Engineer - New Grad - Materia' (Eagan/NYC) 2026-01-06; recurring through 2026-06-08",
   "jobs_page": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:thomsonreuters/wd5/External_Career_Site",
-  "evidence": "jobs.py board was rate-limited (40 of 449); paged cxs API with backoff, all 449 read 2026-10-07. Research Engineer is borderline-entry (2 yrs, canApply, endDate 2026-10-30). Other SWE are 3+ yrs/senior; CoCounsel FDE 2-4 yrs; McLean roles need clearance. No New Grad Materia posting live. Changes status from not_yet.",
+  "evidence": "Workday API 2026-10-08 (452, full) + detail. Research Engineer (2 yrs, endDate 2026-10-30) is borderline-entry, still live. Other US SWE need 3+ yrs/senior; CoCounsel FDE 2-4 yrs; Co-op is intern. No New Grad Materia posting live now.",
   "confidence": "medium",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "excluded_reason": null,
   "no_sponsorship": false
 }

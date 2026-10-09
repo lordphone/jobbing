@@ -1,16 +1,15 @@
 {
   "company": "World Wide Technology (WWT)",
-  "tier": 10,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
-  "no_sponsorship": true,
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; WWT 2027 early-career postings found are internships (Technology & Analytics Intern 2027, apps open Aug-Oct 2026).",
+  "last_cycle_basis": "No tracker history; WWT runs early-in-career programs (St. Louis) but no posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
   "jobs_spec": null,
-  "evidence": "ADP MyJobs API read in browser 2026-10-07 (669 reqs, orgoid header): US developer/engineer roles need 3+ yrs, 5+ yrs or clearance; only 2027 early-career postings are internships. No entry-level SWE. no_sponsorship carried over from earlier read, not rechecked.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "postings": [],
-  "jobs_spec_basis": "ADP MyJobs board works with orgoid header G3EZHP2WRRMJSRJM in browser; no jobs.py spec"
+  "evidence": "ADP MyJobs API read in browser 2026-10-08 (674 reqs, orgoid header). US developer/engineer postings need 3-5+ yrs (Full Stack Developer, App Development, Developer, AI Native Dev) or a Secret clearance; Full Stack roles say OPT/CPT/H1B not eligible. No entry-level SWE or campus SWE posting.",
+  "confidence": "medium"
 }

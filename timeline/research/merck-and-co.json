@@ -1,12 +1,12 @@
 {
   "company": "Merck & Co. (MSD)",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "2027 Future Talent Program - IT Emerging Talent Rotational (ETR) Program (Hybrid)",
-      "url": "https://jobs.merck.com/us/en/job/MERCUSR404472ENUS/2027-Future-Talent-Program-IT-Emerging-Talent-Rotational-ETR-Program-Hybrid",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Super-Week---IT-Emerging-Talent-Rotational--ETR--Program--Hybrid-_R404472-1",
       "location": "Rahway, NJ; West Point, PA; North Wales, PA",
       "opened": "2026-09-21",
       "date_source": "page text (JSON-LD datePosted); workday startDate 2026-09-22",
@@ -24,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.merck.com/us/en/search-results",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Workday CXS detail 2026-10-07: R404472 canApply true, ends 2026-10-09 (not in the 260-posting board list, but posting API and merck page still serve it), 'No Visa Sponsorship'. Rotational IT program, not SWE-only. No other entry-level US SWE on board.",
+  "evidence": "Workday full board (700) 2026-10-08: IT Emerging Talent Rotational Program live (startDate 2026-09-22, ends 2026-10-09, 'No Visa Sponsorship'); entry-level, rotations incl. software development, AI/ML, data; not SWE-only. Other US tech roles senior/Associate Director; no other entry SWE.",
   "confidence": "medium"
 }

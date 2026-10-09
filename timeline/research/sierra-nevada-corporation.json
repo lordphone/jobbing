@@ -1,15 +1,15 @@
 {
   "company": "Sierra Nevada Corporation",
-  "tier": 8,
+  "tier": 5,
   "status": "excluded",
-  "postings": [],
+  "excluded_reason": "citizenship",
   "last_cycle_opened": "2025-07-09",
-  "last_cycle_basis": "tracker first-seen: Software Engineer I, Southern Pines NC/Reston VA (snc Workday); later SWE I postings Sep-Oct 2025",
-  "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen; Software Engineer I, Southern Pines NC/Reston VA (snc.wd1.myworkdayjobs.com/.../Southern-Pines-NC/Software-Engineer-I_R0027824)",
   "jobs_page": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site",
   "jobs_spec": "wd:snc/wd1/snc_external_career_site",
-  "evidence": "Workday 2026-10-07. Software Engineer I (For 2026 Interns Only), Dayton OH, R0030889, posted 2026-10-06, ends 2026-10-11: interns only, and says 'U.S. Citizenship status is required as this position needs an active U.S. Security Clearance'. SWE II/III same. SWE interns Summer 2027 only.",
+  "evidence": "Workday 2026-10-08 (376, full). Software Engineer I (For 2026 Interns Only), Dayton R0030889 and Plano R0030584: interns only, 'U.S. Citizenship status is required'; clearance required. Summer 2027 SWE interns are interns. Others are II/III or senior.",
   "confidence": "high",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08",
+  "postings": [],
+  "no_sponsorship": false
 }

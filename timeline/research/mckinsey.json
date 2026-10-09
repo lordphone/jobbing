@@ -1,9 +1,22 @@
 {
   "company": "McKinsey",
   "tier": 10,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer - QuantumBlack, AI by McKinsey",
+      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineer-quantumblackaibymckinsey-112342",
+      "location": "Atlanta, GA; Boston, MA; Chicago, IL; Denver, CO; Newark, NJ; New York, NY",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": "Dec 2026 – Aug 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "AI Data Engineer - QuantumBlack, AI by McKinsey",
       "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
@@ -37,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: AI Data Engineer (QuantumBlack, 112288) page shows Apply Now; grad Dec 2026-Aug 2027, engineering degree, data pipelines for AI (data engineering, borderline SWE). Toronto 112449 listed in US search. AI Engineer (110292) is Europe only. No sponsorship text seen.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-08: QuantumBlack Software Engineer 112342 (US, grad Dec 2026-Aug 2027, CS degree), AI Data Engineer 112288 (US) and 112449 (Toronto) all show Apply Now. Board of 623 jobs scanned; other US engineer roles are senior/principal. No sponsorship text seen.",
+  "confidence": "high"
 }

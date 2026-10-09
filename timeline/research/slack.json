@@ -1,7 +1,6 @@
 {
   "company": "Slack",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "open",
   "postings": [
     {
@@ -9,7 +8,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
       "location": "San Francisco, CA; Palo Alto, CA; New York, NY; Seattle, WA; Bellevue, WA; Dallas, TX; Indianapolis, IN",
       "opened": "on or before 2026-08-05",
-      "date_source": "tracker first seen / Workday postedOn (repost shown as Posted Yesterday 2026-10-05)",
+      "date_source": "tracker first seen / Workday postedOn (repost shown 2026-10-05)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -24,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/Slack",
   "jobs_spec": "wd:salesforce/wd12/Slack",
-  "evidence": "Salesforce Workday API 2026-10-07: college-grad Software Engineering AMTS JR355250 still live (Posted 2 Days Ago), 7 US locations, no citizenship/deadline line. Salesforce-wide, not Slack-tagged. Slack board (16 postings, full) has only SE II Raleigh (5+ yrs), Senior, Staff.",
-  "confidence": "medium"
+  "evidence": "Slack Workday board 2026-10-08 (16, full): only SE II Raleigh (5+ yrs), Senior/Staff; none entry-level. Slack posts under Salesforce; Salesforce-wide Futureforce AMTS (College Grad) is live but never names Slack, so Slack team placement is unconfirmed.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

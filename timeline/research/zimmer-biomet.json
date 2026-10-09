@@ -1,15 +1,16 @@
 {
   "company": "Zimmer Biomet",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history found",
+  "last_cycle_basis": "no first-party new-grad SWE posting found in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.zimmerbiomet.com",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API 2026-10-07 (US/Canada, software/developer/AI/data/graduate/entry/associate/IT queries): only 2027 summer interns (AI PM, Data Mesh, Data Management) and Senior software/DevOps roles; Associate roles are clinical/quality/sales engineers. No entry-level US SWE.",
+  "jobs_spec_basis": "no public API board; careers site is Phenom with widgets endpoint, read in browser",
+  "evidence": "careers.zimmerbiomet.com Phenom widgets API 2026-10-08 (14 keyword queries, 311 unique jobs, US/Canada reviewed): software roles are senior; entry items are only 2027 summer interns/co-ops (Data Mesh, AI PM, Data Management) and non-software Associate/Quality Engineer I roles. No entry SWE.",
   "confidence": "medium"
 }

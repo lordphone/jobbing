@@ -1,7 +1,7 @@
 {
   "company": "AutoZone",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API 2026-10-07: 'Systems Engineer Associate' 130511 (first seen 2026-07-27) gone (ById lookup 0 items; control lookup of live req works). Live Associate Systems Engineer (Quality Engineering) needs 2-4 yrs testing, not SWE; other Systems Engineers need 4+ yrs; 2027 postings are internships.",
+  "evidence": "Oracle board 2026-10-08 (searched, 4049 listed): 'Systems Engineer Associate' 130511 (first seen 2026-07-27) page says no longer available. Live Memphis Systems Engineers need 3-7+ yrs; Associate Systems Engineer (QE) needs 2-4 yrs testing; 2027 postings are internships.",
   "confidence": "medium"
 }

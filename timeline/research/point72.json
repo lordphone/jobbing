@@ -1,15 +1,29 @@
 {
   "company": "Point72",
-  "tier": 4,
-  "status": "not_yet",
+  "tier": 3,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Quantitative Software Developer (Cubist data services; posting text: junior Quantitative Software Developer)",
+      "url": "https://boards.greenhouse.io/point72/jobs/8036928002",
+      "location": "New York, NY",
+      "opened": "2025-06-16",
+      "date_source": "greenhouse first_published (posting still live, updated 2026-09-15)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'looking for a junior Quantitative Software Developer'; requires 'B.S. or higher', no years of experience; duties 'Assisting Data Scientists'",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-09-04",
   "last_cycle_basis": "tracker history: 2026 Cubist Quant Academy - Developers first seen 2025-09-04; Software Engineer 2026 Graduate (NYC) 2025-10-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/point72",
   "jobs_spec": "gh:point72",
-  "evidence": "gh:point72 full board (218) 2026-10-07; screened US SWE roles: all ask 3+ to 7+ years. Only 2027 internships and Academy analyst programs (HK/JP/UK) are entry-level. Last cycle's Software Engineer 2026 Graduate (NYC) appeared 2025-10-07; no 2027 equivalent yet.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:point72 full board (219) 2026-10-08: US SWE roles ask 3-7+ yrs, except an older Cubist posting for a 'junior' Quant Software Developer (no years required), page live with Apply form. Not an explicit new-grad program; 2027 internships only otherwise. Borderline unlabeled; no 2027 grad posting yet.",
+  "confidence": "medium"
 }

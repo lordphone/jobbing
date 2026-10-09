@@ -1,15 +1,15 @@
 {
   "company": "Samsung Research America",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown - no dated new-grad SWE posting for SRA in tracker history (sister-entity Samsung Electronics America roles only)",
+  "last_cycle_basis": "no tracker postings found for Samsung Research America in the 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/samsungresearchamerica",
   "jobs_spec": "gh:samsungresearchamerica",
-  "evidence": "Greenhouse API 2026-10-07 (22 postings, full): all Senior/Staff/Principal/Head/manager; Research Engineer and Researcher, Robot Intelligence are research roles. Separate Samsung Electronics America Workday lists 'Engineer I, Data Engineering' (Plano, TX), a different entity, not counted.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (22) 2026-10-08: all Senior/Staff/Principal/Head/manager or non-engineering; Research Engineer and Researcher, Robot Intelligence ask 2-14+ yrs robotics R&D. No entry-level SWE posting.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

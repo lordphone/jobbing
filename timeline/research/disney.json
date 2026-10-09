@@ -1,29 +1,15 @@
 {
   "company": "Disney",
-  "tier": 9,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Product Software Engineer I",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-I_10157015-2",
-      "location": "New York, NY; Seattle, WA; San Francisco, CA",
-      "opened": "2026-10-06",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-08",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "tier": 4,
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first seen: Software Engineer I, Seattle WA (disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareerdc",
-  "evidence": "Workday API 2026-10-07 (120, full): Product Software Engineer I live, canApply true, endDate 2026-10-08, no citizenship or sponsorship line. Prior Assoc Software Engineer (Glendale/Orlando, endDate 10-08) no longer on board list; page lookup 403, so unverified. Other SWE are II/Sr/Lead or 3+ yrs.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Workday API 2026-10-08 (614, full): Product Software Engineer I (opened 2026-10-06, endDate 2026-10-08) gone from board; its page in browser says 'The page you are looking for doesn't exist.' Other US SWE are II/Sr/3+ yrs; Spring 2027 graduate associate roles are Jan-Jun internships.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

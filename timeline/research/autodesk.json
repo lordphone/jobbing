@@ -1,7 +1,7 @@
 {
   "company": "Autodesk",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,20 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum: Master's in CS/CE, or Bachelor's with 3+ years; duties say 'seek mentorship'; CAD 99,000–145,200",
+      "level_basis": "Minimum: Master's in CS/CE, or Bachelor's with 3+ years; duties say 'seek mentorship'; CAD 99,000-145,200",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer, BackEnd - (Forma Admin)",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer-Backend----Forma-Admin-Access-_26WD100670-1",
+      "location": "Toronto, ON, Canada; Vancouver, BC, Canada; Montreal, QC, Canada",
+      "opened": "on or before 2026-09-04",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: BS in CS; 2+ yrs backend experience; duties are build/test/fix bugs, code reviews, no leading; CAD 88,000-128,700",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://autodesk.wd1.myworkdayjobs.com/Ext",
   "jobs_spec": "wd:autodesk/wd1/Ext",
-  "evidence": "Workday --all 2026-10-07 (240 postings): no new-grad titled US/Canada SWE. Toronto MCP/AI Developer reads entry-level with a master's (tracker lead), counted as unlabeled. Left out: SF Software Engineer (backend, no years but mid-level wording), Toronto roles asking 2-3+ yrs, interns.",
+  "evidence": "Workday Ext (384, full) and uni (42) 2026-10-08: no new-grad titled US/Canada SWE (Graduate SWE is Oslo). Counted two Toronto unlabeled roles. Left out: SF Software Engineer (no years, mid-level wording), 3+ yr roles, interns.",
   "confidence": "medium"
 }

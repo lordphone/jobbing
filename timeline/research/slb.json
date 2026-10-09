@@ -1,29 +1,29 @@
 {
   "company": "SLB",
-  "tier": 11,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Early Careers - Digital Technology",
       "url": "https://careers.slb.com/jobdescription.aspx?id=EF18828-en_US%201",
       "location": "Houston, TX",
-      "opened": "on or before 2026-10-07",
-      "date_source": "page text (evergreen, no posted date)",
+      "opened": "2026-08-10",
+      "date_source": "slb careers (Coveo) jobposteddate, from earlier check",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Early Careers posting for 'highly skilled graduates': Back End, Front End, Full Stack, ML, AI, Data engineer",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; early-careers digital posting is evergreen with no dated cycle",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.slb.com/job-listing",
   "jobs_spec": null,
-  "evidence": "Opened posting page 2026-10-07 (curl): Apply Now present, Houston, 'highly skilled graduates' for Back End, Front End, Full Stack, ML, AI, Data engineer roles. No class year, citizenship or sponsorship text. Rolling program; job list (Coveo) is JS-only, not scanned.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Opened posting page in browser 2026-10-08: Apply Now present, Houston, 'highly skilled graduates' for Back End, Front End, Full Stack SWE, ML, AI, Data engineer. No class year, citizenship or sponsorship limit text (E-Verify only). Posted date carried from earlier Coveo check, not re-read.",
+  "confidence": "medium"
 }

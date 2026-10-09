@@ -1,15 +1,15 @@
 {
   "company": "Marathon Petroleum",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "closed",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found Jul 2025-Jan 2026; tracker first seen Associate Software Engineer (Findlay OH; San Antonio TX) 2026-08-31 (this cycle)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
   "jobs_spec": "wd:mpc/wd1/MPCCareers",
-  "evidence": "Workday full board 2026-10-07 (122 postings): Associate Software Engineer req 00023623 (2026-08-31) is no longer listed and its posting API returns permission denied. Remaining tech roles are managers, Senior engineers, and Summer/Fall 2027 intern/co-ops. Page not viewed in browser.",
-  "confidence": "medium"
+  "evidence": "Workday full board (123) 2026-10-08: Associate Software Engineer req 00023623 (posted 2026-08-31) gone; browser shows 'The page you are looking for doesn't exist'. Remaining tech roles are managers, Senior, or Summer/Fall 2027 intern/co-ops.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

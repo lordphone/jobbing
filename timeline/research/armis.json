@@ -1,16 +1,16 @@
 {
   "company": "Armis",
-  "tier": 6,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/ServiceNow",
   "jobs_spec": "sr:ServiceNow",
-  "jobs_spec_basis": "ServiceNow closed Armis acquisition Apr 2026; Armis roles now apply via careers.servicenow.com (SmartRecruiters ServiceNow); sr:armis has 2 Tel Aviv jobs",
-  "evidence": "SmartRecruiters ServiceNow API q=armis 2026-10-07 (84 hits): Armis-tagged roles are sales, CS, solutions, PM; engineering is Bangalore/Tel Aviv or Sr Staff (NYC). No entry-level SWE in US/Canada. Armis careers page returned 403 to WebFetch.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "jobs_spec_basis": "ServiceNow closed Armis acquisition Apr 2026; Armis roles now apply via careers.servicenow.com (SmartRecruiters ServiceNow)",
+  "evidence": "ServiceNow SmartRecruiters board 2026-10-08 (707, full): Armis-tagged engineering roles are Bangalore Sr/Staff; US Armis roles are sales/CS/solutions. Moveworks new-grad SWE is ServiceNow's, not Armis. armis.com/careers 403.",
+  "confidence": "medium"
 }

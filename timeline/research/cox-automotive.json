@@ -1,15 +1,15 @@
 {
   "company": "Cox Automotive",
-  "tier": 9,
-  "checked": "2026-10-07",
   "status": "closed",
   "postings": [],
-  "last_cycle_opened": "2025-02-24",
-  "last_cycle_basis": "tracker first-seen: Software Engineer I, Austin TX, 2025-02-24 (also Atlanta, Carmel May-Jun 2025)",
+  "last_cycle_opened": "2025-07-09",
+  "last_cycle_basis": "tracker first seen: Software Engineer I, Atlanta GA, 2025-07-09 (rolling SWE I postings since Feb 2025)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
   "jobs_spec": "wd:cox/wd1/Cox_External_Career_Site_1",
-  "evidence": "Tracker shows rolling 'Entry Level Software Engineer' postings through 2026-09-20 (Atlanta, Carmel, Draper). Workday search 2026-10-07 for software engineer / entry level lists none: only Sr/Lead SWE, Software Engineer II, Summer 2027 interns. Board listing is flaky; history URLs truncated so direct 404 check inconclusive.",
-  "confidence": "medium"
+  "evidence": "Workday full board 2026-10-08 (740): only Sr/Lead SWE, Software Engineer II, Summer 2027 interns. Tracker's Entry Level SWE postings (Jul-Aug 2026: Austin, Carmel, Draper, Atlanta) are not on the board; truncated URLs gave no page check.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

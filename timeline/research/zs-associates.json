@@ -1,29 +1,29 @@
 {
-  "company": "ZS Associates",
-  "tier": 10,
-  "checked": "2026-10-07",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Business Technology Solutions Associate",
-      "url": "https://careers-zs.icims.com/jobs/67648/login",
-      "location": "Princeton, NJ; Chicago, IL",
-      "opened": "2026-09-22",
-      "date_source": "tracker first seen (Jibe posted_date now 2026-10-07, likely repost)",
-      "deadline": null,
-      "grad_window": "Degree completed, available to start full-time in 2026; 0-3+ yrs experience",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker first seen 2026-09-22 Business Technology Solutions Associate; no prior-cycle date found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://jobs.zs.com/jobs",
-  "jobs_spec": null,
-  "evidence": "jobs.zs.com Jibe API (US, 160): Business Technology Solutions Associate (67648) tagged Recent Graduate, 0-3+ yrs, applyable. Text says start full-time 'in 2026'. AI Engineer Associate Consultant (67605) is tagged Experienced and owns architecture, so dropped from the earlier file.",
-  "confidence": "medium"
+ "company": "ZS Associates",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Business Technology Solutions Associate",
+   "url": "https://careers-zs.icims.com/jobs/67648/login",
+   "location": "Princeton, NJ; Chicago, IL",
+   "opened": "2026-09-22",
+   "date_source": "tracker first seen 2026-09-22 (Jibe posted_date 2026-10-07 after update)",
+   "deadline": null,
+   "grad_window": "degree completed, available to start full-time in 2026 (posting text)",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Jibe tag 'Recent Graduate'; duties are implementing and developing technology solutions under a development team",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_basis": "tracker first seen 2026-09-22 Business Technology Solutions Associate; no prior-cycle date found",
+ "no_sponsorship": true,
+ "jobs_page": "https://jobs.zs.com/jobs",
+ "jobs_spec": null,
+ "evidence": "jobs.zs.com Jibe API 2026-10-08 (all 164 US jobs read): only Recent Graduate tech role is Business Technology Solutions Associate (67648; Python/SQL/RDBMS, 0-3 yrs, 'not eligible for visa sponsorship'). AI Engineer Associate Consultant (67605) is tagged Experienced, needs LLM production experience; excluded. Interns are 2026 program.",
+ "confidence": "medium",
+ "checked": "2026-10-08",
+ "last_cycle_opened": null,
+ "excluded_reason": null
 }

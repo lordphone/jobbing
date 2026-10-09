@@ -1,7 +1,7 @@
 {
   "company": "Farmers Insurance (Farmers Group, Zurich Insurance Group)",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.farmersinsurance.com",
   "jobs_spec": null,
-  "evidence": "jobs.farmersinsurance.com search 2026-10-07 (software, developer, engineer, graduate, technology): Python Developer needs 4+ yrs; AI Forward Deployed Lead; FBS developer roles are Mexico-remote. No entry-level SWE or new-grad program.",
-  "confidence": "medium"
+  "jobs_spec_basis": "SuccessFactors site, no API; full list paged via ?startrow= in 25s",
+  "evidence": "jobs.farmersinsurance.com SuccessFactors board 2026-10-08, all 151 listings paged: Python Developer (4+ yrs per prior read), Agile Dev Team Member IV, Cloud Platform Engineer, Solution Engineers, data scientists; FBS engineers are Mexico. No entry SWE or new-grad program.",
+  "confidence": "high"
 }

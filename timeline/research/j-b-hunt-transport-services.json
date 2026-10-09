@@ -1,15 +1,15 @@
 {
   "company": "J.B. Hunt Transport Services",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jbhunt.wd501.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:jbhunt/wd501/Careers",
-  "evidence": "Workday CXS searches 2026-10-07 (software, data engineer, graduate, new grad): only Application Development Internship Summer 2027, Engineering Development Program (logistics, no sponsorship), senior/Expert engineers. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-08 (503, full): Engineering Development Program is logistics engineering, not software, and not eligible for sponsorship; Expert DevOps SWE needs 3-5 yrs; Summer 2027 interns only.",
+  "confidence": "high",
+  "no_sponsorship": false,
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "postings": [],
+  "last_cycle_opened": null
 }

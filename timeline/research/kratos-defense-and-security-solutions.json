@@ -1,28 +1,29 @@
 {
   "company": "Kratos Defense & Security Solutions",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "excluded",
+  "excluded_reason": "clearance",
   "postings": [
     {
       "title": "Manufacturing Software Engineer",
       "url": "https://kratosdefense.submit4jobs.com/#/jobDescription/370525/job",
       "location": "Colorado Springs, CO",
       "opened": "on or before 2026-10-05",
-      "date_source": "page text (Date Updated 10/05/2026)",
+      "date_source": "page text",
       "deadline": null,
       "grad_window": null,
       "live_verified": "no",
       "level": "unlabeled",
-      "level_basis": "<2 yrs per 2026-10-06 read"
+      "level_basis": "under 2 years of experience required (read 2026-10-06)",
+      "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found.",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": false,
   "jobs_page": "https://www.kratosdefense.com/careers/open-roles/",
   "jobs_spec": null,
-  "evidence": "2026-10-07 submit4jobs/Pereless list did not render in browser (blank), so not re-read. 2026-10-06 full list read: only entry-level software role is Manufacturing Software Engineer (<2 yrs) saying \"US Citizen with Secret clearance eligibility\"; web search found other Kratos SWE roles 5+ yrs, citizenship/Secret.",
-  "confidence": "medium"
+  "evidence": "Pereless/submit4jobs list did not render in browser on 2026-10-08 (blank; getJobs API errors), so not re-read. Kept 2026-10-06 full-list read: only entry-level software role, Manufacturing Software Engineer (<2 yrs), says 'US Citizen with Secret clearance eligibility'. Web search shows other Kratos SWE roles mid/senior with citizenship/Secret.",
+  "confidence": "low",
+  "checked": "2026-10-08",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
+  "no_sponsorship": false
 }

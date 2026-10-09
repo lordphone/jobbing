@@ -1,18 +1,20 @@
 {
   "company": "Quora",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "leftover_2026",
   "postings": [
     {
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
       "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
-      "location": "Remote (US); Remote (Canada)",
+      "location": "Remote (US); Remote (Canada: Toronto, Vancouver)",
       "opened": "2026-09-25",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "A 2025 or 2026 graduate (last-cycle window)",
-      "live_verified": "api"
+      "grad_window": "2025 or 2026 graduate, or pursuing B.S./M.S./Ph.D.",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-05",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/quora",
   "jobs_spec": "ashby:quora",
-  "evidence": "Ashby board (5, full) 2026-10-07: live 'Software Engineer New Grad, ML Platform' (published 2026-09-25) requires 'A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D.', last-cycle window, so leftover. Earlier New Grad SWE postings (2026-07/08) gone.",
-  "confidence": "medium"
+  "evidence": "Ashby API 2026-10-08 (5, full): live 'Software Engineer New Grad, ML Platform' (published 2026-09-25) requires 'A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D.': 2026 window so leftover. Earlier 2026-07/08 New Grad SWE postings gone.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

@@ -1,18 +1,17 @@
 {
   "company": "PlanetScale",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - Internal Tools",
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
-      "location": "San Francisco, CA",
+      "location": "San Francisco, CA (in-office only)",
       "opened": "2026-08-31",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "requires '0-2 years of professional software engineering experience, or equivalent project or internship work'; $120K-$160K",
       "no_sponsorship": true
@@ -20,10 +19,11 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/planetscale",
   "jobs_spec": "gh:planetscale",
-  "evidence": "Greenhouse API 2026-10-07 (13 postings): Internal Tools SWE is 0-2 yrs, SF in-office only, 'We do not sponsor visas'. Other SWE roles need 5+ yrs. No deadline stated.",
-  "confidence": "high"
+  "evidence": "Greenhouse API 2026-10-08 (13 postings, full): Internal Tools SWE is 0-2 yrs, SF in-office only, 'We do not sponsor visas'; page opened in browser shows Apply. Insights and Postgres SWE need 5+ yrs. No deadline stated.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,18 +1,18 @@
 {
   "company": "Dell",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer 1 - IT (IT Development Program, AI-Native Software Engineer)",
       "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784",
-      "location": "Round Rock, TX",
+      "location": "Round Rock, TX (listed as TX, United States)",
       "opened": "2026-09-09",
-      "date_source": "tracker first seen (Oracle posting gives no posted date)",
-      "grad_window": "Bachelor's with graduation date December 2026 or May 2027",
-      "live_verified": "browser",
+      "date_source": "tracker first seen",
       "deadline": null,
+      "grad_window": "Graduating Dec 2026 or May 2027",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Oracle list API (433 postings, full): no US campus SWE listed; req 298784 absent from list but opened in browser 2026-10-07 with Apply Now (Round Rock TX, ITDP AI-Native SWE, grad Dec 2026/May 2027). Other 2027 programs are Taipei/Limerick. Opened date from tracker.",
+  "evidence": "Oracle list API 2026-10-08 (431 postings, full) does not list req 298784, but it opened in browser with Apply Now (ITDP, grad Dec 2026/May 2027, $89,520). Other 2027 programs are Taipei/Limerick; US SWE roles need 4+ yrs. Opened date from tracker.",
   "confidence": "high"
 }

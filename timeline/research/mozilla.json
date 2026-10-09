@@ -1,15 +1,15 @@
 {
   "company": "Mozilla",
-  "tier": 9,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker first-seen: Backend Engineer, Websites & Marketing Technology (since closed), https://job-boards.greenhouse.io/mozilla/jobs/7360226",
+  "last_cycle_basis": "tracker history: Backend Engineer, Websites & Marketing Technology (Remote) first seen 2025-11-01 (https://job-boards.greenhouse.io/mozilla/jobs/7360226); Frontend Software Engineer - Firefox (Canada) 2026-04-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mozilla",
   "jobs_spec": "gh:mozilla",
-  "evidence": "Greenhouse board read in full (91 postings, 2026-10-07): engineers are Senior/Staff, or contract roles in France/Germany/UK/Canada. No entry-level US SWE now. Backend Engineer (2025-11-01) and Frontend Engineer (2026-04-20, Canada) from tracker are gone.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse API 2026-10-08 (91, full): engineers are Senior/Staff, or contract roles in France/Germany/UK/Canada. No entry-level US SWE now; no formal new-grad program, hires entry roles off-cycle.",
+  "confidence": "medium"
 }

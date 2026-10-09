@@ -1,15 +1,15 @@
 {
   "company": "TEKsystems (Allegis Group)",
-  "tier": 10,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers-teksystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Browser iCIMS list 2026-10-07: keywords software, engineer, developer, graduate, entry level return no jobs; unfiltered list (7 pages) is recruiter, sales development, operations and corporate staff roles. Staffing firm; no internal SWE.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "iCIMS list read in browser 2026-10-08, all 7 pages (~130 roles): technical staffing recruiters, sales development reps, operations and corporate staff. Keyword searches (software engineer) return nothing. Staffing firm; no internal SWE track.",
+  "confidence": "high"
 }

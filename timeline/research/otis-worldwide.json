@@ -1,15 +1,15 @@
 {
   "company": "Otis Worldwide",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "closed",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history finds no Otis postings; no prior-cycle SWE new-grad posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history finds no Otis postings in window; a web result showed an Entry Software Engineer (Compass team, Farmington CT) posted 2026-04-06, outside the window and no longer on the board",
   "jobs_page": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
   "jobs_spec": "wd:otis/wd504/REC_Ext_Gateway",
-  "evidence": "Rising Leaders SWE (Farmington CT, req 20169121, seen live 2026-09-30 in earlier runs) now opens in browser as 'The page you are looking for doesn't exist' and is absent from the full board (1265) and keyword searches. Remaining US tech: Embedded SWE (5+ yrs), interns.",
-  "confidence": "medium"
+  "evidence": "Workday CXS searches 2026-10-08 (1256 jobs; software, developer, rising leaders, graduate, early career, digital, data): Rising Leaders SWE (Farmington CT, req 20169121, live 2026-09-30) is absent; its page was seen gone ('page doesn't exist') in the 2026-10-07 browser check, URL not recoverable to recheck. Remaining US tech: Embedded SWE (firmware, Mar 2026) and interns only.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,21 +1,29 @@
 {
   "company": "Chainguard",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "open",
   "postings": [
-    {"title": "Software Engineer (Repositories)", "url": "https://job-boards.greenhouse.io/chainguard/jobs/4714568006", "location": "Remote (US)",
-     "opened": "2026-09-28", "date_source": "greenhouse first_published", "deadline": null,
-     "grad_window": null, "live_verified": "api", "level": "unlabeled",
-     "level_basis": "requires '2+ years of experience building software'; $121K-$142K; duties 'well-scoped projects ... with support from more experienced engineers'",
-     "no_sponsorship": false}
+    {
+      "title": "Software Engineer (Repositories)",
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4714568006",
+      "location": "Remote (US)",
+      "opened": "2026-09-28",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; 'well-scoped projects ... with support from more experienced engineers'; $121K-$142K",
+      "no_sponsorship": false
+    }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; board shows only a stale 2024 general intern posting",
+  "last_cycle_basis": "no tracker history or early-career page found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chainguard",
   "jobs_spec": "gh:chainguard",
-  "evidence": "Greenhouse API 2026-10-07 (80 postings, full): Repositories SWE (US/Canada/UK remote) reads early-career: required 2+ yrs, supported well-scoped work, 5+ yrs only nice-to-have. Other US SWE roles Senior/Staff. Unlabeled, not a new-grad program; borderline.",
-  "confidence": "medium"
+  "evidence": "Greenhouse board 2026-10-08, 80 postings (full): only Software Engineer (Repositories) reads early-career (2+ yrs required, 5+ nice-to-have, supported well-scoped work). All other engineering is Senior/Staff/Manager. Same job also listed for Canada and UK remote. Live via API only, not opened in browser.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

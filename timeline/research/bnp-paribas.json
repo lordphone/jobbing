@@ -1,7 +1,6 @@
 {
   "company": "BNP Paribas",
   "tier": 5,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,7 +10,7 @@
       "opened": "on or before 2026-08-17",
       "date_source": "page text (Last update 17.08.2026)",
       "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -24,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: posting page (type Graduate Programme, grad window Dec 2026-Jun 2027, master's) shows APPLY and no filled notice. Listing filters did not apply, so full board not scanned; search found no other 2027 US tech full-time role (other 2027 FT analysts are banking/consulting).",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-08: posting page (type Graduate Programme, grad window Dec 2026-Jun 2027, master's) shows APPLY and no filled notice. Listing pages return 403 to WebFetch so full board not scanned; search found no other 2027 US tech full-time role (other 2027 FT analysts are consulting/banking).",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

@@ -1,6 +1,6 @@
 {
   "company": "Optiver",
-  "tier": 4,
+  "tier": 2,
   "status": "closed",
   "postings": [
     {
@@ -36,7 +36,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/optiverprivate",
   "jobs_spec": "gh:optiverprivate",
-  "evidence": "2026-10-07: gh:optiverprivate (8 postings) has no SWE grad role; optiver.com pages for 2027 Chicago/Austin Graduate SWE (8401042002, 8604899002) return 404 and are absent from the board. Remaining grad SWE is London. Postings listed are the closed ones.",
+  "evidence": "2026-10-08: gh:optiverprivate (8 postings) has no SWE grad role in US; Greenhouse API returns 'Job not found' for 2027 Chicago/Austin Graduate SWE (8401042002, 8604899002), their optiver.com pages 404 and board redirects to search. optiver.com job list shows no grad SWE. Postings listed are the gone ones.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

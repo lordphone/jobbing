@@ -1,6 +1,6 @@
 {
   "company": "eBay",
-  "tier": 9,
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -13,7 +13,21 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Applied Researcher 1 (level 1); '1 or more years of experience building computer vision and/or multimodal systems'"
+      "level_basis": "Applied Researcher 1 (level 1); '1 or more years of experience building computer vision and/or multimodal systems'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Applied Researcher 1",
+      "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Jose/Applied-Researcher-1_R0077134",
+      "location": "San Jose, CA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-15",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Applied Researcher 1 (level 1); Master's degree minimum, no years of experience required",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2026-02",
@@ -22,7 +36,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://ebay.wd5.myworkdayjobs.com/apply",
   "jobs_spec": "wd:ebay/wd5/apply",
-  "evidence": "Workday full board (100) 2026-10-07: Toronto Applied Researcher 1 still live (borderline researcher role). New San Jose 'MTS 1, Software Engineer' (2026-10-07, ends 10-15) left out: Master's+2 yrs (or BS+5), 2 yrs in each skill, $187K+, mentor duty, no sponsorship. Other SWE senior or Austin no-visa.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Workday full board (299) 2026-10-08: only entry-level fits are research-flavored Applied Researcher 1 (Toronto, San Jose; San Jose ends 10-15, no sponsorship). New San Jose 'MTS 1, Software Engineer' x2 left out: 5 yrs / 2 yrs per skill, $187K+. Other SWE roles senior, 3+ yrs or India/Europe.",
+  "confidence": "low",
+  "checked": "2026-10-08"
 }

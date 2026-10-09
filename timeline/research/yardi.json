@@ -1,7 +1,7 @@
 {
   "company": "Yardi",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.yardi.com/openings/",
   "jobs_spec": null,
-  "evidence": "Browser read careers.yardi.com/openings 2026-10-07 (all 66 listed jobs): none are software/SDE; only Senior Security Analyst in Cloud & IT. Past SDE I Santa Barbara posted Oct-Dec 2024; nothing found for 2025 cycle. A search hit RES25425895 SDE I unverified.",
-  "confidence": "medium",
-  "jobs_spec_basis": "no API; careers.yardi.com/openings blocks curl/WebFetch (403) but reads in browser"
+  "evidence": "Browser read careers.yardi.com/openings 2026-10-08 (all listed): no software/SDE roles; mostly Associate Technical Account Manager, sales, client services. Tracker shows SDE I Santa Barbara in 2024.",
+  "confidence": "medium"
 }

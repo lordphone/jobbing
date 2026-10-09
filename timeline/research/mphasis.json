@@ -1,15 +1,15 @@
 {
   "company": "Mphasis",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no dated early-career SWE posting found",
+  "last_cycle_basis": "No tracker history and no US campus program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mphasis.ripplehire.com/candidate/?token=ty4DfyWddnOrtpclQeia&source=CAREERSITE#list/geo=USA",
   "jobs_spec": null,
-  "evidence": "RippleHire US list 2026-10-07 (72 jobs; read 62 via its paging endpoint in browser): Developer (Alpharetta, 0-3 yrs) is a Delivery Module Lead-style req; Software Engineer (Texas) 2-4 yrs, not entry-labeled; all other tech roles 3+ yrs. No entry SWE or new-grad track.",
-  "confidence": "medium"
+  "evidence": "RippleHire US list read in full in browser 2026-10-08 (72 jobs via its candidatejobsearch endpoint). Every software role asks 3+ yrs. Lowest: Developer, Alpharetta (0-3 yrs) is a Delivery Module Lead; Software Engineer, Texas (2-4 yrs) is a UX/UI contract role. No entry SWE.",
+  "confidence": "high"
 }

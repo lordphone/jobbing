@@ -1,15 +1,15 @@
 {
   "company": "Commerce.com (formerly BigCommerce)",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for BigCommerce/Commerce.com",
+  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bigcommerce.wd12.myworkdayjobs.com/Commerce",
   "jobs_spec": "wd:bigcommerce/wd12/Commerce",
-  "evidence": "Workday API 2026-10-07, 19 postings, full. Software Engineer II roles are London only; US/remote engineering is Senior/Lead/Staff/Manager. No entry-level SWE in US, Toronto or Vancouver.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-08 (19 postings, full): US engineering is Senior/Lead/Staff/Manager; 'new-grad' tag was a VP title; no entry SWE.",
+  "confidence": "high"
 }

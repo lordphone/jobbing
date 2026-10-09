@@ -1,18 +1,18 @@
 {
   "company": "Amazon/AWS",
-  "tier": 1,
-  "checked": "2026-10-07",
+  "tier": 2,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
-      "location": "North Reading, MA; Westborough, MA; Austin, TX; Nashville, TN; Bellevue, WA; Seattle, WA; Arlington, VA",
+      "location": "North Reading, MA; Westborough, MA; Westboro, MA; Austin, TX; Nashville, TN; Bellevue, WA; Seattle, WA; Arlington, VA",
       "opened": "2026-10-01",
       "date_source": "amazon: board listing date",
       "deadline": null,
       "grad_window": "2027 (Early Career - 2027)",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "amazon: board listing date",
       "deadline": null,
       "grad_window": "final graduation May 2027 or later",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -33,12 +33,12 @@
     {
       "title": "Software Development Engineer, Early Career",
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
-      "location": "Cambridge, Massachusetts, USA",
+      "location": "Cambridge, MA",
       "opened": "2026-09-04",
       "date_source": "amazon: board listing date",
       "deadline": null,
       "grad_window": "enrolled in or completed Bachelor's or above; no class year",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -46,12 +46,12 @@
     {
       "title": "Software Development Engineer I - AI/ML Network Infrastructure, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "location": "Cupertino, California, USA",
+      "location": "Cupertino, CA",
       "opened": "2026-08-03",
       "date_source": "amazon: board listing date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -98,7 +98,7 @@
     {
       "title": "Software Engineer I, Memberships (Twitch)",
       "url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
-      "location": "San Francisco, CA",
+      "location": "Seattle, WA; San Francisco, CA",
       "opened": "2026-08-26",
       "date_source": "amazon: board listing date",
       "deadline": null,
@@ -106,6 +106,19 @@
       "live_verified": "api",
       "level": "unlabeled",
       "level_basis": "Title 'Software Engineer I'; requires 1+ years professional experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
+      "location": "Seattle, WA",
+      "opened": "2025-12-11",
+      "date_source": "amazon: board listing date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
@@ -115,6 +128,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs",
   "jobs_spec": "amazon:",
-  "evidence": "amazon: board (searched, not full) plus search.json 2026-10-07: 2027 Robotics SDE (Oct 1), Annapurna SDE I 2027 (Sep 24), SDE Early Career (Sep 4), Graviton/EFA/AI-ML Annapurna SDE I, two Twitch SE I; all listed on board, basic quals <=1 yr, no citizenship text. Leo/ADC 2026 postings are leftovers.",
+  "evidence": "amazon: board (searched, not full) plus search.json 2026-10-08: 2027 Robotics SDE (Oct 1), Annapurna SDE I 2027 (Sep 24), SDE Early Career (Sep 4), Graviton/EFA/AI-ML Annapurna SDE I, two Twitch SE I, SE I Seattle (listed 2025-12); basic quals <=1-2 yrs, no citizenship text. Leo/ADC 2026 postings are leftovers; Systems Dev Engineer I needs TS/SCI.",
   "confidence": "high"
 }

@@ -1,15 +1,15 @@
 {
   "company": "Qorvo",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: Data Engineer Richardson TX 2026-07-23 (not clearly new grad); nothing in 2025-07 to 2026-01",
+  "last_cycle_basis": "no tracker history or recruiting-page evidence found (tracker Data Engineer, Richardson TX, first seen 2026-07-23, now closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.qorvo.com/go/Internships-&-Recent-College-Grads/8587500/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: recent-grad board (116) is all interns (SWE interns Richardson TX; Barcelona); US 'software' search (103 results) has no entry-level full-time software role, only Sr/Staff/Principal, technicians and RF/test roles.",
-  "confidence": "high"
+  "evidence": "SuccessFactors site fetched 2026-10-08, US searches (software, developer, blank): software postings are interns (Richardson, Greensboro, Apopka, Bend) or senior/principal; no entry-level full-time SWE. Recent-grad roles are RF/hardware.",
+  "confidence": "medium"
 }

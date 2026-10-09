@@ -1,15 +1,15 @@
 {
-  "company": "Arthur J. Gallagher & Co.",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "not found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ajg.com/ajg-programs",
-  "jobs_spec": null,
-  "evidence": "jobs.ajg.com JSON API 2026-10-07 (799 distinct postings across tech/early-career keyword searches) and ajg-programs page: US/Canada tech roles are Senior/Lead/Manager or CIAM Integration Engineer (5-10 yrs); programs (REACH 2027, GCAP, INVEST) are actuarial/risk/non-tech. No entry SWE.",
-  "confidence": "medium"
+ "company": "Arthur J. Gallagher & Co.",
+ "tier": 5,
+ "status": "no_program_found",
+ "last_cycle_basis": "not found; 2027 graduate programs are Australia and India only",
+ "jobs_page": "https://jobs.ajg.com/ajg-programs",
+ "jobs_spec": null,
+ "evidence": "jobs.ajg.com API read in full (1240 postings) 2026-10-08: US/Canada tech roles are Senior/Lead/Manager or CIAM Integration Engineer (5-10 yrs). REACH 2027 is reinsurance analyst, not SWE.",
+ "confidence": "high",
+ "checked": "2026-10-08",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "postings": [],
+ "last_cycle_opened": null
 }

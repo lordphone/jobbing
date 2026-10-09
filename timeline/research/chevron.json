@@ -1,7 +1,7 @@
 {
   "company": "Chevron",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -24,6 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://chevron.wd5.myworkdayjobs.com/University",
   "jobs_spec": "wd:chevron/wd5/University",
-  "evidence": "Workday board lists it (36 postings, full); CXS detail 2026-10-07: canApply true, endDate 2027-07-01, degree by July 2027 or <2 yrs since degree; \"unable to sponsor employment Visas\". Other postings are non-SWE engineering and interns.",
+  "evidence": "Workday CXS (34 unique) 2026-10-08 + jobs.py detail: endDate 2027-07-01, degree by July 2027 or <2 yrs since degree, 'unable to sponsor employment Visas'. Other postings are non-SWE engineering and interns.",
   "confidence": "high"
 }

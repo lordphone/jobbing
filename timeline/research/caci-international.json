@@ -1,7 +1,6 @@
 {
   "company": "CACI International",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -14,16 +13,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Early Career title; text asks 3+ yrs and BS, Salesforce/.NET",
+      "level_basis": "Early Career title; Salesforce developer; asks 1+ yrs Salesforce; pay $63,300-$129,700",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-15",
   "last_cycle_basis": "tracker first seen Entry Level Software Engineer - GUI Development, Rochester NY",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://caci.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:caci/wd1/external",
-  "evidence": "Workday API 2026-10-07 (searched beyond 80-item list): Web Application Developer - Early Career 'Minimum Clearance Required to Start: None', no citizenship line. Entry Level C# SWE (Secret, US citizen), NASA early-career (citizen/PR), Ypsilanti SWE (TS) excluded. Hanover Early Career Cloud gone from search.",
-  "confidence": "medium"
+  "evidence": "Workday full board (340) 2026-10-08: Web Application Developer - Early Career 'Minimum Clearance Required to Start: None', no citizenship line. Entry Level C# SWE ('must be a US Citizen' + Secret) and NASA early-career ('U.S. Citizen or Permanent Resident') excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

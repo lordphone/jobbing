@@ -1,29 +1,29 @@
 {
   "company": "H&R Block",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Machine Learning Engineer",
       "url": "https://careers-hrblock.icims.com/jobs/76907/machine-learning-engineer/job",
-      "location": "Remote (US, Missouri-based listing)",
+      "location": "Remote (US); Missouri",
       "opened": "2026-09-18",
-      "date_source": "page text (iCIMS datePosted)",
-      "deadline": "at least 2026-10-16 (page validThrough; 'best consideration' 9/22/2026)",
+      "date_source": "tracker first seen",
+      "deadline": "2026-09-22 (for best consideration; posting still live 2026-10-08)",
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '1-2 years experience'; Bachelor's in CS; no lead/mentor duties; pay $91,000-$145,600",
+      "level_basis": "Required: bachelor's degree, 1-2 years experience; pay $91,000-$145,600",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-03-12",
-  "last_cycle_basis": "Tracker first seen: 'Associate Software Engineer, Accelerate Program' Kansas City MO (Offers Sponsor), https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job; posted in spring, after the usual Jul-Jan window.",
+  "last_cycle_basis": "Tracker first seen: 'Associate Software Engineer, Accelerate Program' Kansas City MO, https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job; posted in spring, after the usual Jul-Jan window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-hrblock.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS fetched 2026-10-07 (curl, listed in search, Apply button present): ML Engineer remote, 1-2 yrs required, plain title; counted as unlabeled entry. Other tech roles: SWE intern, Sr ServiceNow dev, Eng Mgr. Accelerate SWE program posted March last cycle.",
+  "evidence": "iCIMS fetched and searched 2026-10-08: Machine Learning Engineer (ID 2026-76907, remote US/MO) still listed with Apply; requires 1-2 yrs, BS, $91K-$145.6K; counted as unlabeled entry. Other tech roles: SWE/ML interns, Sr ServiceNow dev, Sr Data Engineer, Eng Manager. Accelerate SWE program posted in March last cycle.",
   "confidence": "medium"
 }

@@ -1,15 +1,15 @@
 {
   "company": "IHG Hotels & Resorts",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "careers.ihg.com blocks direct fetch (403); read its search pages through a text proxy 2026-10-07 (4759 jobs, keyword searches: software 0 relevant, developer 1 Salesforce Developer GB, data engineer, engineer, technology, graduate). US tech items only Head of App and Web Technology and a Data & Analytics Consultant. No entry SWE. Full list not enumerated.",
-  "confidence": "medium"
+  "evidence": "careers.ihg.com loads in browser pane 2026-10-08; keyword searches (software 1 non-US, developer 1 Mexico, data 4, technology 5, AI 10, cloud 1, graduate 1 Japan): no US entry SWE or tech grad program; tech roles are managers or non-US.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "InterSystems",
   "tier": 6,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,17 +12,8 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Fall 2026 or Spring 2027 (BS, MS or PhD)",
-      "live_verified": "api"
-    },
-    {
-      "title": "Quality Development Program (rotational)",
-      "url": "https://job-boards.greenhouse.io/intersystems/jobs/7827897003",
-      "location": "Boston, MA",
-      "opened": "2026-09-01",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "Fall 2026 or Spring 2027 (BS, MS or PhD)",
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title"
     }
   ],
   "last_cycle_opened": "2025-09-08",
@@ -31,6 +22,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/intersystems",
   "jobs_spec": "gh:intersystems",
-  "evidence": "Greenhouse API + detail 2026-10-07 (123 postings): Core Development Program and Quality Development Program live in Boston for BS/MS/PhD grads of Fall 2026 or Spring 2027; no citizenship or sponsorship text. Tracker lead 7827894003 matches the first.",
+  "evidence": "Greenhouse API + detail 2026-10-08 (123 postings): Core Development Program (Boston, BS/MS/PhD grads Fall 2026 or Spring 2027) live; no citizenship or sponsorship text. Quality Development Program is test/QA, left out. Tracker lead 7827894003 matches.",
   "confidence": "high"
 }

@@ -39,7 +39,7 @@ Look at:
 - The last run's `timeline/research/*.json` files, for companies whose `evidence` says they now post only under another name, or have stopped hiring.
 
 Allowed edits:
-- **Add** a company that posts US new-grad or entry-level software roles under its own name, in the tier that fits. Skip:
+- **Add** a company that posts US new-grad or entry-level software roles under its own name, in the tier that fits (the tier rules are at the top of the list), under its industry heading. Skip:
   - staffing and IT-contracting agencies (Artech, TSMG, mthree, Jobsbridge);
   - universities;
   - employers with no US roles (Sainsbury's).

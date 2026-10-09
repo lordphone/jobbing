@@ -1,15 +1,15 @@
 {
   "company": "Electrify America",
+  "tier": 5,
   "status": "no_program_found",
-  "last_cycle_basis": "No tracker history for Electrify America",
   "jobs_page": "https://jobs.volkswagen-group.com/Electrify_America/search/",
-  "evidence": "VW Group board (browser 2026-10-07) lists 4 Electrify America jobs: Field Service PM, Customer & Marketing Data Analyst, Logistics Manager, Contract Software Engineer II - Backend (Reston VA, contract, level II; earlier read noted no visa sponsorship). No entry-level SWE.",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "jobs_spec": null,
+  "evidence": "VW Group board filtered to Electrify America, read in browser 2026-10-08 (4 of 4): Technical Field Service PM, Customer & Marketing Data Analyst, Logistics Manager, Contract Software Engineer II - Backend (Reston VA, contract, level II). No entry-level SWE; no tracker history.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
   "postings": [],
   "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_spec": null,
-  "confidence": "medium"
+  "no_sponsorship": false
 }

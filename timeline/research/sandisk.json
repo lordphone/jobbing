@@ -1,15 +1,16 @@
 {
   "company": "Sandisk",
-  "tier": 7,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SmartRecruiters NCG postings last cycle were firmware (Senior Firmware Dev NCG Masters, Milpitas, 2025-08-19), FAE (2026-01-07) and automation dev (Batu Kawan, Malaysia); no US new-grad SWE found.",
-  "jobs_page": "https://careers.smartrecruiters.com/Sandisk",
-  "jobs_spec": null,
-  "evidence": "SmartRecruiters careers page and API 2026-10-07: 'No job postings are currently available' (totalFound 0); the NCG postings seen are all active=false. Third-party guide expects NCG window ~Jan 2027. New-grad roles lean firmware/FAE, not SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
+  "last_cycle_basis": "SmartRecruiters NCG postings last cycle were firmware (Senior Firmware Dev NCG Masters, Milpitas, 2025-08-19), FAE and automation dev; no dated SWE found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://avature.sandisk.com/Careers",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Sandisk careers page Search Jobs links go to avature.sandisk.com/Careers",
+  "evidence": "Careers page links to Avature board (avature.sandisk.com/Careers). Paged all 38 postings in browser 2026-10-08: none in the US; fresh-grad roles are Asia hardware/test/packaging. Old SmartRecruiters board returns 0. NCG program exists (firmware/data platform), no US SWE now.",
+  "confidence": "medium"
 }

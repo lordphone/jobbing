@@ -1,7 +1,7 @@
 {
   "company": "Texas Instruments",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -9,39 +9,39 @@
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577",
       "location": "Dallas, TX; Richardson, TX",
       "opened": "2026-09-09",
-      "grad_window": "Campus requisition, new grads (Career Accelerator Program); BS/MS EE, CompE, CS",
+      "date_source": "oracle posting date (requisition API)",
       "deadline": null,
+      "grad_window": "Career Accelerator Program, new grads; BS EE/CompE/CS, 3.0 GPA",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false,
-      "date_source": "oracle posting date (requisition API)"
+      "no_sponsorship": false
     },
     {
-      "title": "Software Engineer - Full Stack Developer (Career Accelerator Program, Toronto)",
+      "title": "Software Engineer – Full Stack Developer (Career Accelerator Program, Toronto)",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161",
       "location": "Toronto, ON, Canada",
       "opened": "2026-09-01",
-      "grad_window": "Campus requisition, new grads (Career Accelerator Program); BS CS/Math/EE/CompE",
+      "date_source": "oracle posting date (requisition API)",
       "deadline": null,
+      "grad_window": "Campus requisition, new grads (Career Accelerator Program)",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false,
-      "date_source": "oracle posting date (requisition API)"
+      "no_sponsorship": false
     },
     {
       "title": "Career Accelerator Program - Data Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
       "location": "Richardson, TX",
       "opened": "2026-09-15",
-      "grad_window": "new college graduates (12-month TMG Development program); BS",
+      "date_source": "oracle posting date (requisition API)",
       "deadline": null,
+      "grad_window": "12-month TMG Development program for new college graduates; BS, 3.0 GPA",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false,
-      "date_source": "oracle posting date (requisition API)"
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -50,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:edbz.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board (832 postings, full) + requisition API 2026-10-07: three Campus-type CAP software/data reqs live (Dallas/Richardson TX, Toronto). No sponsorship or clearance text; export-control note only. Not counted: Software Applications Engineer (Experienced req type, no sponsorship), Toronto QA SWE (professional experience).",
+  "evidence": "Oracle board 2026-10-08 (839, full) + requisition API: three Campus-type CAP software/data reqs live (Dallas/Richardson TX, Toronto). No sponsorship or clearance text found. Not counted: Software Applications Engineers (5+ yrs / 1+ yr C, will not sponsor, Experienced), Junior Cloud Engineer (Secret clearance, citizen), Toronto QA.",
   "confidence": "high"
 }

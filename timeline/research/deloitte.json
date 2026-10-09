@@ -1,6 +1,6 @@
 {
   "company": "Deloitte",
-  "tier": 10,
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "date_source": "page text (no posted date; first seen in this run)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -21,9 +21,9 @@
   "last_cycle_basis": "tracker_last_cycle 2025-08 (Consultative Offerings / Software Engineering Analyst postings, apply.deloitte.com)",
   "jobs_page": "https://apply.deloitte.com",
   "jobs_spec": null,
-  "evidence": "Fetched apply.deloitte.com search and posting 2026-10-07: Agentic Software Engineer I (Customer team) is live with Apply now, asks 1+ yrs, bachelor's, no clearance; says \"legally authorized to work in the United States without the need for employer sponsorship\". GPS Analyst - Software Engineering postings (350277, 362393, 362516, deadline 2026-10-25) need clearance and are excluded. Prior file was excluded.",
+  "evidence": "apply.deloitte.com 2026-10-08: Agentic Software Engineer I (370314) shows Apply now; asks 1+ yrs, bachelor's, no clearance; 'legally authorized to work... without need for employer sponsorship'. Posting has no date. GPS Analyst Software Engineering roles need clearance; Data Scientist AI/DS Engineer I (NJ) needs clearance. Search paged only partly.",
   "confidence": "medium",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "no_sponsorship": false,
   "excluded_reason": null
 }

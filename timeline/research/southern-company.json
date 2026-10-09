@@ -1,7 +1,5 @@
 {
   "company": "Southern Company",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -20,10 +18,12 @@
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "jobs.py history: Data Analytics Analyst - Load Research (Atlanta), first seen 2025-11-13, closest analyst-track new-grad posting; Oracle Application Developer 1 also seen 2026-04-03",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
   "jobs_spec": "oracle:emje.fa.us6.oraclecloud.com/CX_1001",
-  "evidence": "Oracle board (103) + posting text 2026-10-07: Application Developer I (Integrations) live, posted 2026-09-30, API end 2026-10-15 03:55 UTC (Oct 14 US); entry duties, associate degree. BI Developer is analytics; other developer roles 5+ yrs.",
-  "confidence": "high"
+  "evidence": "Oracle CX_1001 full board (100) 2026-10-08: Application Developer I (Integrations) live, posted 2026-09-30, API end 2026-10-15 03:55 UTC (Oct 14 US); entry duties, associate degree, Atlanta GA and Naperville IL. BI Developer is analytics; Forecast-to-Report developer needs 5+ yrs; Data Scientist (all levels) is data science.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

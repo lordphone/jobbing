@@ -1,7 +1,5 @@
 {
   "company": "Shell plc (Shell USA)",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -20,10 +18,12 @@
   ],
   "last_cycle_opened": "on or before 2026-06-13",
   "last_cycle_basis": "jobs.py history 'shell': Shell Graduate Programme 2026 - UK (Trading and Supply) first seen 2026-06-13; US 2026 timing assumed similar",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Workday board 2026-10-07 (136, full): US Graduate Program 2027 live (endDate 2027-02-01); one posting covers all functions incl. Information Digital Technologies, so SWE slots are uncertain. Other Houston tech roles need 8+ or 10+ yrs. Posting bars temporary visas; some PhD/Master's exceptions.",
-  "confidence": "low"
+  "evidence": "Workday full board (139) 2026-10-08: US Graduate Program 2027 live (start 2026-10-01, endDate 2027-02-01); one posting covers all functions incl. Information Digital Technologies, so SWE slots uncertain. Posting bars temporary visas; some PhD/Master's exceptions.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null
 }

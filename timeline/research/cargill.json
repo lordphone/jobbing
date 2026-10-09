@@ -1,7 +1,5 @@
 {
   "company": "Cargill",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,7 +9,7 @@
       "opened": "2026-09-17",
       "date_source": "page text (date posted)",
       "deadline": null,
-      "grad_window": "Page text says Dec 2025 - Summer 2026 (conflicts with 2027 title; likely stale copy)",
+      "grad_window": "Page text says Dec 2025 - Summer 2026, start June 2026 (conflicts with 2027 title and 2026-09-17 posting date; likely stale copy)",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -20,10 +18,12 @@
   ],
   "last_cycle_opened": "2024-08",
   "last_cycle_basis": "tracker: 'New Grad 2025: Associate Software Engineer', Atlanta GA, first seen 2024-08-10 (https://careers.cargill.com/en/job/-/-/23251/68562401376)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.cargill.com/en/search-jobs/software%20engineer",
   "jobs_spec": null,
-  "evidence": "2026-10-07 posting page (Job ID 330657): Apply Now present, posted 2026-09-17, '2027' in title but stale 'Dec 2025-Summer 2026' grad text; right to work cannot rest on a third-party-sponsored visa. Search shows this as the only US entry SWE plus a Summer 2027 intern.",
-  "confidence": "medium"
+  "evidence": "2026-10-08 posting page (Job ID 330657) fetched: Apply Now present, posted 2026-09-17, '2027' in title but stale Dec 2025-Summer 2026 grad text; requires right to work not based solely on student or third-party-sponsored visa. Searches (software engineer, TDP, associate software engineer) show it as the only US entry SWE; Summer 2027 intern separate.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null
 }

@@ -1,16 +1,30 @@
 {
   "company": "Credo Technology Group",
-  "tier": 7,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 4,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Corporate Strategy, internal AI automation)",
+      "url": "https://credo.careers.hibob.com/jobs/216f785c-669d-49de-a525-59625ef475ea",
+      "location": "San Jose, CA",
+      "opened": "2026-09-04",
+      "date_source": "hibob publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic quals: 'Two or more years writing production software'; no lead/mentor duties; $100,000-$135,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://credosemi.com/about-credo/careers/",
   "jobs_spec": null,
-  "evidence": "HiBob job list 2026-10-07 (42 jobs): US SWE-like roles are Senior Staff SWE, Software FAE, and 'Software Engineer' (San Jose, Corporate Strategy internal automation; 2+ yrs production, end-to-end ownership, $100-135K; not counted as entry-level). No new-grad/intern SWE.",
-  "confidence": "high",
+  "evidence": "HiBob job-ad API 2026-10-08 (42 jobs): only counted role is Software Engineer (San Jose, internal AI automation): requires 2+ yrs, no senior duties, $100-135K, so counted as unlabeled but borderline (previous pass left it out). Other SWE roles Senior Staff / Software FAE. No new-grad program.",
+  "confidence": "low",
   "jobs_spec_basis": "Careers page is HiBob; public JSON at credo.careers.hibob.com/api/job-ad (header companyidentifier: credo) lists all 42 jobs"
 }

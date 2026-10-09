@@ -1,7 +1,6 @@
 {
   "company": "Ibotta",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "closed",
   "postings": [
     {
@@ -12,15 +11,19 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-02-13",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver, Workday era (after the 2025-07/2026-01 window), https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver (Workday era; after the 2025-07/2026-01 window), https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ashby API 2026-10-07 (51 postings): only SWE/Data Eng/other interns, Data Engineer (3+ yrs), Staff SWE, managers. Associate Software Engineer (first seen 2026-07-07) is no longer listed; page is JS-only so not seen in browser.",
-  "confidence": "medium"
+  "evidence": "Ashby API 2026-10-08 (51): only SWE/Data Eng interns, Data Engineer (3+ yrs), Staff SWE, managers. Associate Software Engineer (opened 2026-07-07) page shows 'Job not found' in browser: closed.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Pony.ai",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "required BS in CS or related field; no years or senior level listed (unclear, borderline)",
+      "level_basis": "BS in CS or related field, no years or senior level; sibling 'Senior Software Engineer - Evaluation' exists, so this is the junior-level opening (borderline)",
       "no_sponsorship": false
     },
     {
@@ -27,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "BS in CS/ML/Robotics or equivalent; 'General software engineering experience'; MS preferred; no years",
+      "level_basis": "BS in CS/ML/Robotics or equivalent; 'General software engineering experience'; no years; sibling '(Senior) Software Engineer - Behavior' exists (borderline)",
       "no_sponsorship": false
     }
   ],
@@ -37,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/pony-dot-ai/",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-10-07 (10 jobs, all Fremont, published 2026-09-18). Two non-senior Software Engineer postings with no years ask and no level, borderline entry. Decision Making & Path Planning left out: architecture-design duties. No sponsorship or citizenship text.",
+  "evidence": "Workable API 2026-10-08 (9 jobs, all Fremont, published 2026-09-18). Two non-senior Software Engineer postings with no years ask and no level, borderline entry. Decision Making & Path Planning left out (architecture-design duties). No sponsorship or citizenship text.",
   "confidence": "low"
 }

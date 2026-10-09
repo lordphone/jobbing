@@ -1,15 +1,15 @@
 {
   "company": "Mercari",
-  "tier": 9,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for US/Toronto/Vancouver",
+  "last_cycle_basis": "No tracker history for US/Toronto/Vancouver.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/mercari",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-10-07 paged all 138 roles: every posting is in Tokyo, Japan (incl. Japan new-grad pre-entry and 28-class SWE internship). No US, Toronto or Vancouver roles.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workable widget API 2026-10-08: all 138 roles are in Tokyo, Japan (incl. Japan new-grad and a SWE internship). No US, Toronto or Vancouver roles.",
+  "confidence": "high"
 }

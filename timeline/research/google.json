@@ -1,26 +1,15 @@
 {
   "company": "Google",
   "tier": 1,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Software Engineer - Campus",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
-      "location": "Cambridge, MA; Seattle, WA; Los Angeles, CA; San Jose, CA (and other US locations)",
-      "opened": "on or before 2026-08-07",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-09-30",
-  "last_cycle_basis": "jobs.py history: 'New Grad 2026: Software Engineer' first seen 2025-09-30, https://www.google.com/about/careers/applications/jobs/results/79125737784648390 (PhD early career SWE roles from 2025-08-26)",
+  "last_cycle_basis": "jobs.py history: 'New Grad 2026: Software Engineer' first seen 2025-09-30 (PhD early career SWE roles from 2025-08-26)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: EARLY-level US list (~42 jobs) has no SWE; SWE searches show only PhD 2027-start SWE roles and Mid-level SWE III. Campus SWE URL now returns generic search page (gone). Lead 84680705375642310 is PhD Infrastructure (excluded from count).",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-08: Software Engineer - Campus (first seen 2026-08-07) page now says 'Job not found'. EARLY-level US list has no SWE; only PhD Early Career 2027-start SWE (excluded) and Mid-level SWE III remain.",
+  "confidence": "medium"
 }

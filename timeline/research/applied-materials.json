@@ -1,8 +1,34 @@
 {
   "company": "Applied Materials",
-  "tier": 7,
+  "tier": 4,
   "status": "open",
   "postings": [
+    {
+      "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+      "location": "Santa Clara, CA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-14",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "New College Grad Software Development Engineer (Bachelors - Santa Clara, CA)",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+      "location": "Santa Clara, CA",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-12",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
@@ -18,12 +44,12 @@
     }
   ],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker first seen: Software Engineer New College Grad - Masters Degree (Santa Clara, CA), amat.wd1.myworkdayjobs.com, 2025-09-25",
+  "last_cycle_basis": "tracker first seen: Software Engineer New College Grad - Masters Degree (Santa Clara, CA), 2025-09-25",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://amat.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:amat/wd1/External",
-  "evidence": "Workday cxs API 2026-10-07 (first 2000 postings paged plus new-grad searches): 2027 Software Engineer NCG (Bachelor's), Gloucester MA, canApply true, no end date, no citizenship text. Other SWE are II/III/4-7+ yrs; other 2027 NCG roles are non-SWE or PhD; Data Scientist NCG not counted.",
+  "evidence": "Workday full board (2000) 2026-10-08 plus detail: two new Santa Clara NCG SWE postings (Workday end dates Oct 12/14) plus the Gloucester 2027 SWE NCG; other SWE are II+/4+ yrs. Gloucester has no end date.",
   "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-08"
 }

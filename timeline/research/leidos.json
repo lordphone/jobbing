@@ -1,15 +1,15 @@
 {
   "company": "Leidos",
-  "tier": 10,
   "status": "excluded",
   "postings": [],
   "last_cycle_opened": "2025-07-30",
   "last_cycle_basis": "tracker first seen 2025-07-30 (Junior Software Engineer, Gaithersburg MD; U.S. citizenship required)",
   "excluded_reason": "clearance",
+  "no_sponsorship": false,
   "jobs_page": "https://leidos.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:leidos/wd5/External",
-  "evidence": "Workday search 2026-10-07: every junior/entry SWE posting read requires clearance or citizenship, e.g. Huntsville Entry-Level Computer Scientist 'Must be a U.S. citizen with the ability to obtain and maintain a Top Secret security clearance'; Junior Software Developer 'Must be a US citizen'. board list is flaky.",
+  "evidence": "Workday full board 2026-10-08 (1780): Junior SWE (Huntsville) 'obtain and maintain a SECRET Clearance'; Junior Software Developer 'Must be a US citizen'; Software Engineer I San Diego 'U.S. Citizen with an active SECRET'; Laurel 'TS/SCI with Polygraph'. Junior UiPath dev (Alexandria) asks 2-4 yrs, Public Trust, skipped.",
   "confidence": "high",
-  "checked": "2026-10-07",
-  "no_sponsorship": false
+  "checked": "2026-10-08",
+  "tier": 5
 }

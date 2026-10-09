@@ -1,15 +1,15 @@
 {
   "company": "Slalom",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.slalom.com/en_US/careersmarketplace",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07 (Avature jobs.slalom.com, 420 jobs): 'software' search (166) shows Architect, Senior, Director, Sales and Flex roles; entry-level/graduate/junior search returns 0. No entry SWE or 2027 posting; only 2027 internships per earlier check.",
-  "confidence": "medium"
+  "evidence": "Browser search of jobs.slalom.com (Avature) 2026-10-08: 'software engineer' (133), 'engineer' (234), 'junior' (23) lists are senior/architect/director/Flex or non-US; no entry-level or 2027 SWE posting. Only 2027 internships earlier.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

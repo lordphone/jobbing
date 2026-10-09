@@ -1,6 +1,6 @@
 {
   "company": "Guidehouse",
-  "tier": 10,
+  "tier": 5,
   "status": "excluded",
   "postings": [
     {
@@ -23,8 +23,8 @@
   "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:guidehouse/wd1/External",
   "jobs_spec_basis": "board name is case-sensitive: lowercase \"external\" returns nothing, \"External\" lists 400 postings",
-  "evidence": "Workday External board read in full (400 postings, 2026-10-07): only entry SWE-ish role is Palantir Foundry Engineer I, which says \"Ability to obtain and maintain a Public Trust or higher federal security clearance\". Other developer roles need 4-5+ yrs or US citizenship/green card.",
+  "evidence": "Workday External full board 2026-10-08 (830): only entry-ish roles are Palantir Foundry Engineer I ('obtain and maintain a Public Trust or higher federal security clearance'; 2+ yrs Foundry) and Jr. OneStream Developer (Public Trust, 1 yr OneStream, finance). Other developers need 3-8 yrs, citizenship/green card.",
   "confidence": "medium",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "no_sponsorship": false
 }

@@ -1,6 +1,7 @@
 {
   "company": "Choice Hotels International",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -32,11 +33,10 @@
   ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first seen 2025-08-15: Software Engineer 1 (Scottsdale)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://choicehotels.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:choicehotels/wd5/External",
-  "evidence": "Workday cxs 2026-10-07: two Software Engineer 1 postings (Scottsdale, hybrid) still listed with canApply true; ask 1-2 yrs / 1+ yrs, bachelor's; each posting says \"not eligible for sponsorship\". Not a campus program; entry-level SWE 1 title.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday cxs 2026-10-08 (50, full): two Software Engineer 1 postings (Scottsdale, hybrid) listed with canApply true; 1-2 yrs / 1+ yrs, bachelor's; each says not eligible for sponsorship. Not a campus program; SWE 1 title. Other roles SWE 2+/Staff.",
+  "confidence": "medium"
 }

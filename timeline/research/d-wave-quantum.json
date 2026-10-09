@@ -1,15 +1,15 @@
 {
   "company": "D-Wave Quantum",
-  "tier": 7,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2026-08-25",
   "last_cycle_basis": "Simplify tracker: Software Engineer 1 - Systems Software Engineering, New Haven CT (ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06), first seen 2026-08-25",
-  "jobs_page": "https://ats.rippling.com/d-wave-quantum/jobs",
-  "jobs_spec": null,
-  "evidence": "Rippling board API 2026-10-07 (66 listings, read): no entry software role; software roles are Senior/Staff or Developer II fixed-term (Burnaby). Tracker-seen SWE 1 (New Haven) returns 404 from the board API and is absent from the list; its level was never verified.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://ats.rippling.com/d-wave-quantum/jobs",
+  "jobs_spec": null,
+  "evidence": "Rippling board API 2026-10-08 (66 listings, read): no entry software role; software roles are Senior/Staff or Developer II one-year fixed-term (Burnaby). Tracker-seen Software Engineer 1 (New Haven, 2026-08-25) now redirects to the board index and is absent from the list: closed.",
+  "confidence": "medium"
 }

@@ -1,40 +1,33 @@
 {
   "company": "IXL Learning",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer, New Grad",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862043002",
       "location": "San Mateo, CA",
       "opened": "2026-08-31",
-      "date_source": "greenhouse first_published",
+      "date_source": "greenhouse first_published (reposted 2026-10-07; earlier link first published 2026-08-31 per prior check)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
       "title": "Software Engineer, New Grad",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765745002",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002",
       "location": "Raleigh, NC",
       "opened": "2026-08-31",
-      "date_source": "greenhouse first_published",
+      "date_source": "greenhouse first_published (reposted 2026-10-07; earlier link first published 2026-08-31 per prior check)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer, New Grad",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-08-31",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
@@ -44,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ixllearning",
   "jobs_spec": "gh:ixllearning",
-  "evidence": "Greenhouse API 2026-10-07: three New Grad postings (San Mateo, Raleigh, Toronto) first_published 2026-08-31, live via job API. San Mateo and Raleigh text says H1B sponsorship is available.",
+  "evidence": "Greenhouse API 2026-10-08: two New Grad SWE postings (San Mateo, Raleigh) first_published 2026-10-07, text says H1B sponsorship available. Old links 8765715002/45002 and Toronto 8765751002 now 404: reposted; Toronto gone.",
   "confidence": "high"
 }

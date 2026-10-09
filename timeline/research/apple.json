@@ -1,7 +1,7 @@
 {
   "company": "Apple",
   "tier": 1,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://jobs.apple.com/en-us/details/200677645/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities",
       "location": "Austin, TX",
       "opened": "2026-08-12",
-      "date_source": "page text",
+      "date_source": "search API post date",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -22,10 +22,10 @@
       "url": "https://jobs.apple.com/en-us/details/200676168/frontend-engineer-ee-p-is-t-early-career",
       "location": "Austin, TX",
       "opened": "2026-08-10",
-      "date_source": "page text",
+      "date_source": "search API post date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -35,12 +35,12 @@
       "url": "https://jobs.apple.com/en-us/details/200657382/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems",
       "location": "San Diego, CA",
       "opened": "2026-07-30",
-      "date_source": "page text",
+      "date_source": "search API post date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "requires '0-2 years of experience in software engineering'",
+      "level_basis": "requires '0-2 years of experience in software engineering'; Bachelors and/or Master's",
       "no_sponsorship": false
     },
     {
@@ -48,12 +48,12 @@
       "url": "https://jobs.apple.com/en-us/details/200687151/core-os-software-engineer-usb4-thunderbolt",
       "location": "Cupertino, CA",
       "opened": "2026-10-07",
-      "date_source": "page text",
+      "date_source": "search API post date",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "required: C/C++, CS fundamentals, bachelor's; preferred: 'internship, co-op, or university lab experience'; 'partner closely with senior mentors'",
+      "level_basis": "required: C/C++, CS fundamentals, bachelor's, no years; preferred: 'internship, co-op, or university lab experience'",
       "no_sponsorship": false
     }
   ],
@@ -61,8 +61,8 @@
   "last_cycle_basis": "jobs.py history: 'Software Engineer, IS&T' (early career) Austin/Sunnyvale first seen 2025-07-05, https://jobs.apple.com/en-us/details/200611793/software-engineer-is-t-early-career",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.apple.com",
+  "jobs_page": "https://jobs.apple.com/en-us/search?location=united-states-USA",
   "jobs_spec": null,
-  "evidence": "Apple jobs search API + detail pages 2026-10-07: IS&T Early Career AiDP Reliability SWE opened and Apply present; Frontend (Aug 10) and Cellular Power (0-2 yrs) still return via API; added unlabeled Core OS USB4 SWE. Full board too large to enumerate; other entry-level reqs may exist.",
+  "evidence": "jobs.apple.com search API 2026-10-08: scanned all 1057 US Software & Services postings by title; detail pages loaded. IS&T Early Career SWE and Frontend (Aug) live; Cellular Power (0-2 yrs) and USB4 (no years) unlabeled. Network Engineer Early Career is not SWE. Other teams not enumerated.",
   "confidence": "medium"
 }

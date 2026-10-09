@@ -1,42 +1,15 @@
 {
   "company": "Vizio (Walmart)",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Software Engineer III",
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-III_R-2644535-1",
-      "location": "Denver, CO",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday startDate 2026-09-24",
-      "deadline": "2026-10-07",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "no years required (earlier read); generic Walmart posting, not Vizio-specific",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer III",
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2651385-1",
-      "location": "Bentonville, AR",
-      "opened": "on or before 2026-09-24",
-      "date_source": "workday startDate 2026-09-24",
-      "deadline": "2026-10-07",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "BS + 2 yrs (earlier read); generic Walmart posting, not Vizio-specific",
-      "no_sponsorship": false
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2025-08-19",
-  "last_cycle_basis": "tracker_last_cycle: Walmart Software Engineer 3, Bentonville AR, first seen 2025-08-19",
+  "last_cycle_basis": "tracker: Walmart Software Engineer 3, Bentonville AR, first seen 2025-08-19",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
   "jobs_spec": "wd:walmart/wd504/WalmartExternal",
-  "evidence": "Vizio's own careers link goes to a dead iCIMS site; roles are on Walmart Workday. 2026-10-07: generic Walmart SWE III Denver R-2644535 and Bentonville R-2651385 (endDate 10-07, not Vizio-specific) now gone from search (403). Vizio-labeled SWE III Denver roles need 2+ yrs Golang and mentoring; not entry.",
-  "confidence": "low"
+  "evidence": "Vizio hires via Walmart Workday. Generic Walmart SWE III Denver R-2644535 and Bentonville R-2651385 (earlier listed, deadline 2026-10-07) now show 'page doesn't exist' in browser. Current US SWE II/III need 2-4 yrs; Vizio-labeled roles are Senior Manager/Principal. Prior status closed kept.",
+  "confidence": "medium"
 }

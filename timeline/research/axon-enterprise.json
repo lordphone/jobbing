@@ -1,15 +1,15 @@
 {
   "company": "Axon Enterprise",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-08-28",
-  "last_cycle_basis": "tracker first seen 2025-08-28 (SWE I); Axon also posted many Software Engineer 1 roles Feb-Jun 2026 (jobs.py history)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen 2025-08-28 (SWE I); Axon also posted many Software Engineer 1 roles Feb-Jun 2026 (jobs.py history, all closed)",
   "jobs_page": "https://job-boards.greenhouse.io/axon",
   "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse API 2026-10-07 (506 postings, full). No live US SWE I. Only Software QA Engineer I (Seattle, 0-3 yrs, test role, not counted). SWE I / Graduate SWE roles are Vietnam, Romania, Australia, UK. US software roles are Sr/II or 6+ yrs.",
-  "confidence": "high"
+  "evidence": "Greenhouse API full (507) 2026-10-08. No live US entry-level SWE. Entry-level SWE I / Graduate SWE postings are Vietnam, Romania, Australia, UK. US software roles are Sr/II or 6+ yrs; Mission Engineer and Professional Services roles are not SWE.",
+  "confidence": "high",
+  "postings": [],
+  "checked": "2026-10-08",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

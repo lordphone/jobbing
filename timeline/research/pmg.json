@@ -1,7 +1,5 @@
 {
   "company": "PMG",
-  "tier": 10,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,7 +9,7 @@
       "opened": "2026-07-20",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "upcoming bachelor's/master's graduates (June start)",
+      "grad_window": "Fall 2026 – Spring 2027 (start by June 7, 2027)",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -24,8 +22,8 @@
       "opened": "2026-07-20",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "upcoming bachelor's/master's graduates (January start)",
-      "live_verified": "api",
+      "grad_window": "Summer 2026 – Fall 2026 (start by January 11, 2027)",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -37,6 +35,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/pmg",
   "jobs_spec": "gh:pmg",
-  "evidence": "Greenhouse full board 2026-10-07: both GLP AI & Software Engineering postings (Dallas) still listed, first published 2026-07-20; text says 'we do not offer sponsorship for this role'. Same as prior file.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board 2026-10-08: both GLP AI & Software Engineering postings (Dallas) listed; pages show Apply button, no close notice. Text: 'we do not offer sponsorship for this role'. January-start degree window is Summer-Fall 2026.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

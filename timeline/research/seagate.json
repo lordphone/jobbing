@@ -1,31 +1,31 @@
 {
   "company": "Seagate",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Embedded Software Engineer (Bachelor's Level, Early Career)",
-      "url": "https://seagatecareers.com/job/Longmont-Embedded-Software-Engineer-%28Bachelor%27s-Level%2C-Early-Career%29-CO-80501/1437750000/",
+      "url": "https://seagatecareers.com/job/Embedded-Software-Engineer-%28Bachelor%27s-Level%2C-Early-Career%29/15166-en_US",
       "location": "Longmont, CO; Shakopee, MN",
       "opened": "2026-10-07",
-      "date_source": "page text (Posting Start Date 10/7/26)",
+      "date_source": "page text (posting start date)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
     },
     {
       "title": "Embedded Software Engineer (Master's Level, Early Career)",
-      "url": "https://seagatecareers.com/job/Longmont-Embedded-Software-Engineer-%28Master%27s-Level%2C-Early-Career%29-CO-80501/1437729300/",
+      "url": "https://seagatecareers.com/job/Embedded-Software-Engineer-%28Master%27s-Level%2C-Early-Career%29/15175-en_US",
       "location": "Longmont, CO; Shakopee, MN",
       "opened": "2026-10-07",
-      "date_source": "page text (Posting Start Date 10/7/26)",
+      "date_source": "page text (posting start date)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -37,7 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://seagatecareers.com",
   "jobs_spec": null,
-  "evidence": "Seagate SuccessFactors sitemap + posting pages fetched 2026-10-07: two new Embedded Software Engineer (Early Career) postings, Longmont CO or Shakopee MN, started 10/7/26, Apply Now shown, C/C++ in Software Engineering org (borderline firmware-like). Other early-career roles are hardware/process. Earlier Aug firmware early-career pages were closed.",
-  "confidence": "medium",
-  "jobs_spec_basis": "seagatecareers.com is SuccessFactors; full job list readable via /sitemap.xml"
+  "evidence": "Paged seagatecareers.com results in browser 2026-10-08 (208 US/global cards) and read both postings: two Embedded Software Engineer early-career roles, C/C++, Apply Now shown, posted 10/7/26 (borderline firmware-like). Aug 2026 firmware and systems early-career postings are gone. Other early-career roles are hardware/process.",
+  "confidence": "medium"
 }

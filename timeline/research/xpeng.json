@@ -1,7 +1,7 @@
 {
   "company": "XPENG",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 Campus Recruiting Robotics Center Full-Time Position",
@@ -22,7 +25,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     },
     {
       "title": "2027 Stanford Career Fair Full-Time Position",
@@ -32,7 +38,10 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-14",
@@ -41,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xpengmotors",
   "jobs_spec": "gh:xpengmotors",
-  "evidence": "Greenhouse API 2026-10-07 (27 jobs): three 2027 campus full-time postings live (AI/ML, AI infra, software engineering pathways, pooled). No sponsorship or citizenship text. Other SWE roles are Senior/Staff.",
-  "confidence": "high"
+  "evidence": "Greenhouse (27 jobs, full): three pooled 2027 campus full-time postings live (AI/ML, AI infra, software engineering pathways; Robotics Center is AI/ML and motion control). No citizenship or sponsorship text. Other SWE roles Senior/Staff.",
+  "confidence": "medium"
 }

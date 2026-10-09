@@ -1,7 +1,6 @@
 {
   "company": "PepsiCo",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Bachelor's required, no years required; prefers 1 to 2 years; works alongside senior engineers",
+      "level_basis": "Bachelor's required; '1 to 2 years of experience (including internships, co-ops...)'; works alongside senior engineers",
       "no_sponsorship": false
     },
     {
@@ -32,11 +31,12 @@
     }
   ],
   "last_cycle_opened": "2025-10-20",
-  "last_cycle_basis": "tracker first seen: Junior Data Scientist - New Grad (Mississauga, Canada; data science not SWE; no US new-grad SWE found)",
+  "last_cycle_basis": "tracker first seen: Junior Data Scientist - New Grad (Mississauga, Canada); data science not SWE; no US new-grad SWE found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://uscareers-pepsico.icims.com/jobs/search?searchKeyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "iCIMS posting pages fetched 2026-10-07: SWE & App Arch Engineer (posted 09-01) and Analytics Platform Engineer (09-08), New York, both show Apply; entry-level wording, no sponsorship statement. Dates from 2026-10-06 JSON-LD read. No formal new-grad program.",
-  "confidence": "medium"
+  "evidence": "iCIMS browser 2026-10-08: keyword 'software engineer' lists 8 jobs; SWE & App Arch Engineer and Analytics Platform Engineer (NY) both show Apply, 1-2 yrs incl. internships. AI Engineer needs 6-8 yrs; others manager/senior. No formal new-grad program; no sponsorship statement.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

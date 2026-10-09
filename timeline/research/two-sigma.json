@@ -1,22 +1,9 @@
 {
   "company": "Two Sigma",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineering Full-Time Campus Hire (Houston)",
-      "url": "https://careers.twosigma.com/careers/JobDetail/14018",
-      "location": "Houston, TX",
-      "opened": "on or before 2026-09-08",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
     {
       "title": "Software Engineering Full-Time Campus Hire (NYC)",
       "url": "https://careers.twosigma.com/careers/JobDetail/14014",
@@ -29,14 +16,27 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineering Full-Time Campus Hire (Houston)",
+      "url": "https://careers.twosigma.com/careers/JobDetail/14018",
+      "location": "Houston, TX",
+      "opened": "on or before 2026-09-08",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No prior-cycle SWE campus posting in tracker history (only a 2024-09 quant researcher new grad).",
+  "last_cycle_basis": "jobs.py history: no Two Sigma SWE campus posting 2025-07 to 2026-01 (only 2024-09-12 quant posting)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.twosigma.com",
+  "jobs_page": "https://careers.twosigma.com/careers/InternshipsAndEarlyCareers",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: InternshipsAndEarlyCareers list (9 roles) has two SWE Full-Time Campus Hire postings (NYC 14014, Houston 14018); both pages load with Apply, Early Careers level, no class year, citizenship, sponsorship or deadline text. Tracker first seen 2026-09-08.",
+  "evidence": "Browser 2026-10-08: Internships & Early Careers list (9 roles) has two SWE Full-Time Campus Hire postings, both pages show Apply; bachelor's/master's/PhD, no citizenship, sponsorship or deadline text. Quant/AI/Data roles are not SWE.",
   "confidence": "high"
 }

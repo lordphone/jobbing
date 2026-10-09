@@ -1,6 +1,7 @@
 {
   "company": "Polaris Inc.",
-  "tier": 8,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -23,7 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs",
   "jobs_spec": "wd:polaris/wd5/PolarisJobs",
-  "evidence": "Workday API + posting 2026-10-07 (60, full): D&IT Leadership Development Program (rotational; track includes software engineering) live to 2026-11-30, but says \"Must be a U.S. person (U.S. citizen, national, lawful permanent resident, asylee, or refugee)\" and \"not eligible for sponsorship\". Data Science track not counted. No other entry SWE.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Workday full (138) 2026-10-08, posting API: D&IT LDP (Digital Product Development track, incl. software engineering) live to 2026-11-30; \"Must be a U.S. person (U.S. citizen, U.S. national, lawful permanent resident, asylee, or refugee) and not require sponsorship\". Data Science track and mechanical-leaning Engineering Dev Program not counted.",
+  "confidence": "high"
 }

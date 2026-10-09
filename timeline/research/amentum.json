@@ -1,9 +1,35 @@
 {
   "company": "Amentum",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
+      "location": "Hanover, MD",
+      "opened": "2026-10-08",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer 1; Bachelor's in CS; TS/SCI with Poly",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer 1",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
+      "location": "Hanover, MD",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer 1; Bachelor's in CS; TS/SCI with Poly",
+      "no_sponsorship": false
+    },
     {
       "title": "Junior Software Developer",
       "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202",
@@ -12,15 +38,45 @@
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; active Secret clearance required",
+      "no_sponsorship": false
+    },
+    {
+      "title": "C or C++ Junior Developer",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0165501",
+      "location": "Dahlgren, VA",
+      "opened": "on or before 2026-09-02",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; 0-5 yrs; must obtain DoD clearance",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer - Junior (Team 01)",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Software-Developer---Junior--Team-01-_R0167603",
+      "location": "Washington, DC",
+      "opened": "on or before 2026-08-05",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior; Top Secret clearance with SCI eligibility",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-25",
-  "last_cycle_basis": "Tracker last-cycle first seen 2025-07-25; entry-level SWE posted repeatedly on Workday",
+  "last_cycle_basis": "Tracker last-cycle first seen 2025-07-25",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://pae.wd1.myworkdayjobs.com/amentum_careers",
   "jobs_spec": "wd:pae/wd1/amentum_careers",
-  "evidence": "Workday 2026-10-07 (766 CXS): Junior Software Developer (Dahlgren, req 172202) says 'Must have an active Secret security clearance' and 'U.S. citizenship is required to obtain a Secret clearance'; other junior/software roles are cleared or senior.",
-  "confidence": "high"
+  "evidence": "Workday board read in full (2784, 2026-10-08). Entry SWE roles: Software Engineer 1 (Hanover) 'TS/SCI with Poly'; Junior Software Developer (Dahlgren) 'active Secret... U.S. citizenship is required'; DC junior dev needs TS/SCI eligibility; Dahlgren C/C++ junior needs DoD clearance.",
+  "confidence": "high",
+  "jobs_spec_basis": "board now lists 2784 postings, searched in full"
 }

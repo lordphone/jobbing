@@ -1,15 +1,15 @@
 {
   "company": "J.Crew Group",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker shows only Ecommerce Assistant (2026-03) and Analyst - Design Sourcing Systems (2026-08), both closed and not SWE.",
+  "last_cycle_basis": "none found; tracker shows only Ecommerce Assistant (2026-03) and Analyst - Design Sourcing Systems (2026-08)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jcrew.wd1.myworkdayjobs.com/jcrewcareers",
   "jobs_spec": "wd:jcrew/wd1/MadewellCareers",
-  "evidence": "Workday jcrewcareers (580 postings) and MadewellCareers (360) both read in full 2026-10-07: retail, design, merchandising, supply chain; no software, engineering or developer roles at all.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday MadewellCareers (361, full) read; jcrewcareers searched (software, engineer, developer, data, technology): retail, design, merchandising, supply chain, ecommerce PM, BI director. No software engineer roles.",
+  "confidence": "high"
 }

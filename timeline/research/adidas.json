@@ -1,15 +1,15 @@
 {
   "company": "Adidas",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; graduate programs are in Germany",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.adidas-group.com/",
   "jobs_spec": null,
-  "evidence": "jobs.adidas-group.com US searches 2026-10-07 via WebFetch (software engineer 73 results, engineer/technology): results are retail leads plus Tech Consultant roles (Portland, Indianapolis), not software. No entry SWE. Site search is keyword-fuzzy, so medium confidence.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "jobs.adidas-group.com browser searches 2026-10-08 (software, developer, engineer, graduate, data, AI; US): US tech roles are Tech Consultants (Portland, Indianapolis); engineering openings are in Spain, Colombia, Germany. No US entry SWE. Fuzzy search.",
+  "confidence": "medium"
 }

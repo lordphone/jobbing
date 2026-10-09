@@ -1,7 +1,7 @@
 {
   "company": "Experian",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,9 +12,9 @@
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Required: Bachelor's and '2+ years of experience building and maintaining production software'; no lead/mentor duty, no level in title",
+      "level_basis": "Required: Bachelor's and '2+ years of experience building and maintaining production software'; pay $82,644-$143,249; no lead/mentor duty, no level in title",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Experian",
   "jobs_spec": "sr:Experian",
-  "evidence": "SmartRecruiters API 2026-10-07 (397, full): only US plain SWE is Phoenix Full Stack SWE, 2+ yrs required, borderline entry so counted. Junior/SWE I roles are Sofia, Cyberjaya, Brazil. No Xcel program posting yet; last cycle hint unverified.",
+  "evidence": "SmartRecruiters (397, full) + browser 2026-10-08: only US plain SWE is Phoenix Full Stack SWE, 2+ yrs required, live, borderline entry so counted. Junior/SWE I roles are Sofia, Cyberjaya, Brazil. No Xcel program posting yet; last cycle hint unverified.",
   "confidence": "low"
 }

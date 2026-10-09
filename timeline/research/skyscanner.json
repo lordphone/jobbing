@@ -1,14 +1,14 @@
 {
   "company": "Skyscanner",
   "tier": 9,
-  "status": "no_program_found",
+  "status": "unknown",
   "last_cycle_opened": "2026-01-05",
   "last_cycle_basis": "tracker first seen 2026-01-05: Software Engineering and Teaching Programme, Edinburgh/Glasgow UK (not US)",
   "jobs_page": "https://www.skyscanner.net/jobs/",
   "jobs_spec": null,
-  "evidence": "Skyscanner early-careers page and web search 2026-10-07: engineering graduates are hired in Scotland, Barcelona and Shenzhen only; no US or Canada graduate roles. Jobs page not renderable via fetch (JS).",
-  "confidence": "medium",
-  "checked": "2026-10-07",
+  "evidence": "Skyscanner jobs/current-jobs and earlycareers pages show a bot captcha in the browser and render only via JS, so the board could not be read. Web search shows graduate programmes in UK/Barcelona only; no US/Canada grad role seen.",
+  "confidence": "low",
+  "checked": "2026-10-08",
   "postings": [],
   "excluded_reason": null,
   "no_sponsorship": false

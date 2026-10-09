@@ -1,15 +1,15 @@
 {
   "company": "American Electric Power",
-  "tier": 11,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker shows associate-level data scientist/GIS/analyst roles (e.g. Data Scientist Associate-Senior 2026-04-02), no entry software engineer",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite",
   "jobs_spec": "wd:aep/wd1/AEPCareerSite",
-  "evidence": "Workday full board (296) read 2026-10-07: associate titles are power engineering, GIS, asset/risk analyst, Disaster Recovery Analyst; software-like roles (Kafka Platform Engineer, OT Solution Engineer) are experienced. No entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday board 2026-10-08 (312, full) screened: associate titles are power/station/GIS engineering (non-software); Kafka Platform Engineer needs 7 yrs; Real Time OT Solution Engineer is mentoring/lead SCADA role; Data Scientist (Shreveport) not entry. No entry SWE.",
+  "confidence": "medium"
 }

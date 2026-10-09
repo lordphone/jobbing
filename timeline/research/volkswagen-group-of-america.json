@@ -1,6 +1,7 @@
 {
   "company": "Volkswagen Group of America",
-  "tier": 8,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,7 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.volkswagen-group.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "jobs.volkswagen-group.com sitemap (966 postings; search page is JS-rendered) read 2026-10-07, US entries filtered: Belmont CA (Sr Android Automotive, Sr AI Engineer contract, Sr Cloud, Director), Reston VA (Contract Software Engineer II Backend), Oxnard, Pleasant Prairie. All senior, contract or non-software; no entry-level SWE. Sitemap lists no locations, so US coverage is by city name.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "jobs.volkswagen-group.com sitemap read 2026-10-08, US filter: Belmont CA roles are Sr Android Automotive SWE, Sr AI Engineer (contract), Sr Cloud Engineer; Electrify America Reston has a contract SWE II. No entry-level or new-grad SWE.",
+  "confidence": "medium"
 }

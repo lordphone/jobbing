@@ -1,16 +1,15 @@
 {
   "company": "Edison International (Southern California Edison)",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2026-05-17",
-  "last_cycle_basis": "jobs.py history: App Software & AI Engineer - Associate Specialist (Rosemead, CA) first seen 2026-05-17 (spring, ad hoc)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history 'edison': App Software & AI Engineer - Associate Specialist (Alhambra CA) first seen 2026-05-17, now closed; posted ad hoc, no fixed new-grad window",
   "jobs_page": "https://www.edisoncareers.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "SCE jobs API (m-cloud, org companies/3f187166..., all 216 jobs) 2026-10-07: only 2027 summer internships (incl. Software/Data Engineering, Chino) and advisor/senior tech roles (Data Engineering Advisor 7+ yrs, Grid Mgmt Developer 3+ yrs). No entry SWE live; entry SWE posted ad hoc (spring 2026).",
+  "evidence": "SCE job API (m-cloud, companies/3f187166..., all 216 jobs) 2026-10-08: only 2027 summer internships (incl. Computer Science, Software/Data Engineering) and an MBA program; software roles (DevOps, Data Engineering, EMS Development, Grid Management Developer) are Specialist/Advisor level. No entry SWE now.",
   "confidence": "medium",
-  "jobs_spec_basis": "edisoncareers.com job search is backed by jobsapi-google.m-cloud.io (org companies/3f187166-f813-42e8-b28c-afdaec98d345); no jobs.py spec"
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

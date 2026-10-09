@@ -1,15 +1,15 @@
 {
   "company": "Paycom",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found for new-grad SWE; nothing else found.",
+  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.paycomjobs.com/job-search/",
   "jobs_spec": null,
-  "evidence": "Paycom jobs search endpoint (admin-ajax get_all_jobs) 2026-10-07, 108 postings: sales, HR, client success, datacenter admin, network security. No software developer role or new-grad program. 1 web search found only undated aggregator listing.",
+  "evidence": "Paycom jobs endpoint (admin-ajax get_all_jobs) 2026-10-08, 108 postings: sales reps/account managers, recruiters, client success; IT is Datacenter Administrator and Network Security Engineer (Oklahoma City). No software developer postings listed.",
   "confidence": "medium"
 }

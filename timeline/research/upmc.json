@@ -1,6 +1,7 @@
 {
   "company": "UPMC",
-  "tier": 11,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -10,7 +11,7 @@
       "opened": "2026-09-24",
       "date_source": "page metadata datePosted",
       "deadline": null,
-      "grad_window": "degree complete by June 2027; cohort starts July 2027",
+      "grad_window": "Degree completed in or before June 2027",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -23,7 +24,7 @@
       "opened": "2026-09-24",
       "date_source": "page metadata datePosted",
       "deadline": null,
-      "grad_window": "degree complete by January 2027; cohort starts January 2027",
+      "grad_window": "Degree completed in or before January 2027",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -32,11 +33,10 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; UPMC posting timeline says applications run early August to end of October; no dated tracker record",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=information%20technology%20rotation",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: two ITR postings with APPLY NOW (summer and winter cohorts), two-year entry-level IT rotation incl. software engineering and custom application development; Pittsburgh required. 'software engineer' search returns no software roles. No sponsorship statement seen; no deadline.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Browser 2026-10-08: careers.upmc.com keyword searches (software, developer, ITR) show no software engineer roles; two ITR postings (summer and winter cohorts) show Apply now. Two-year entry-level IT rotation incl. software engineering and custom application development; Pittsburgh. Recruitment timeline Aug-end Oct or until filled; no stated deadline or sponsorship text.",
+  "confidence": "medium"
 }

@@ -1,13 +1,16 @@
 {
   "company": "BJ's Wholesale Club",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no entry-level SWE in tracker history or on board; unknown",
+  "last_cycle_basis": "no entry-level SWE in tracker history or on board",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers",
   "jobs_spec": "wd:bjswholesaleclub/wd1/BJsCareers",
-  "jobs_spec_basis": "jobs.py board returned 'not found' but Workday cxs API answers directly (1534 postings)",
-  "evidence": "Workday cxs search 2026-10-07 (software engineer, engineer, developer, graduate, new grad, associate software, data engineer): tech roles are Senior/Lead/Principal/Manager at Marlborough MA; no entry SWE or new-grad program.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "jobs_spec_basis": "Workday cxs API answers directly; board lists 1531 postings (full)",
+  "evidence": "Workday full board 2026-10-08 (1531): tech roles are Senior/Lead/Principal/Manager engineers and analysts at Marlborough MA. No entry SWE or new-grad program.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "PlusAI",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -29,6 +29,32 @@
       "level": "unlabeled",
       "level_basis": "Required: MS or higher in CS/ML, good C++/Python; '2+ years' is only desirable",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Runtime & C++ Middleware",
+      "url": "https://jobs.lever.co/plus-2/1a1fc0e8-0741-4be1-adbb-52aa418eecf2",
+      "location": "Santa Clara, CA",
+      "opened": "2025-02-25",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: BS in CS/EE, C++14 hands-on coding; no years requirement; $120,000 - $200,000; no lead/mentor duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Runtime",
+      "url": "https://jobs.lever.co/plus-2/35e40aca-9414-4121-b7a0-d3e87fd6101a",
+      "location": "Santa Clara, CA",
+      "opened": "2025-03-13",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: 'Minimum 2+ years of professional experience', MS or PhD; no lead/mentor duties (borderline: at the 2-year limit)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -37,6 +63,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/plus-2",
   "jobs_spec": "lever:plus-2",
-  "evidence": "Lever API 2026-10-07 (38 postings): two unlabeled Santa Clara SWE roles (Data: MS + 1+ yrs; Simulation: MS, 2+ yrs only desirable) read as entry-level; rest Senior/Staff or test/integration (2+ required). Changed from no_program: re-read postings.",
+  "evidence": "Lever API (38 postings, full) 2026-10-08, posting bodies read: Data (MS, 1+ yrs), Simulation (MS; 2+ yrs only desirable), Runtime & C++ Middleware (BS, no years), Runtime (MS, 2+ yrs required) read as entry-level, all still listed. Rest Senior/Staff or test/integration. Unchanged status; added two roles.",
   "confidence": "medium"
 }

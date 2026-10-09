@@ -1,7 +1,7 @@
 {
   "company": "Revolut",
-  "tier": 5,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.revolut.com/careers/team/engineering/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: full careers list (356 positions, read from page data) has no US, Toronto or Vancouver engineering role (US/NY roles are sales, finance, risk). Graduate Programme 2027 SWE roles are Europe/UAE only.",
-  "confidence": "high"
+  "evidence": "Prior browser read of full careers list (356) shows no US/Toronto/Vancouver engineering role; 2027 Graduate Programme SWE is Europe/UAE only. Not re-read 2026-10-08 (JS site).",
+  "confidence": "medium"
 }

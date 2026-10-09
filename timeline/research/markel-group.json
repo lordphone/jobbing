@@ -1,15 +1,29 @@
 {
   "company": "Markel Group",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Software-Engineer_R0023877",
+      "location": "Richmond, VA",
+      "opened": "2026-09-16",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires '2+ years in software engineering, data engineering, or business intelligence development'; no senior duties; Power BI/DAX/SQL focus",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history 'markel' found no new-grad SWE posting in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers",
   "jobs_spec": "wd:markelcorp/wd5/GlobalCareers",
-  "evidence": "Workday CXS 2026-10-07: only 2027 Underwriting Training Programs, Talent Network pages, UK/Singapore roles. Software Engineer (Richmond, req 23877) is a Power BI developer role, 2+ yrs, no sponsorship; left out as BI, not entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-08 (146, full) read fresh: Software Engineer (Richmond, canApply true) is a Power BI/BI-focused role, 2+ yrs, no senior duties, 'does not provide visa sponsorship'; counted as unlabeled but borderline. Others: 2027 underwriting programs, IT internship, UK/Singapore roles.",
+  "confidence": "low"
 }

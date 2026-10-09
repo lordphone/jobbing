@@ -1,29 +1,29 @@
 {
   "company": "Remitly",
-  "tier": 3,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
+      "title": "AI Native Software Engineer",
+      "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+      "location": "Seattle, WA",
+      "opened": "2026-09-24",
+      "date_source": "tracker first seen (Workday startDate 2026-09-25)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'AI Native Software Engineer I'; no years asked; $124,000-$155,000",
-      "no_sponsorship": false,
-      "title": "AI Native Software Engineer (I)",
-      "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
-      "location": "Seattle, WA",
-      "opened": "2026-09-25",
-      "date_source": "workday startDate (postedOn 12 days ago)"
+      "level_basis": "posting text: 'As a AI Native Software Engineer I'; no years required; $124,000-$155,000",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-04-24",
-  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24, 2026-07-28); none in 2025-07..2026-01 window",
+  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24, 2026-07-28); none inside 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "jobs_spec": "wd:remitly/wd5/Remitly_Careers",
-  "evidence": "Workday CXS 2026-10-07: AI Native Software Engineer I Seattle (R_106966) listed, canApply true, no years or sponsorship text, no deadline. Other SWE roles are SDE II+/Senior/Staff or 3+ yrs. Remitly posts SDE 1 year-round.",
+  "evidence": "Workday CXS 2026-10-08 (157, full): 'AI Native Software Engineer I' Seattle is live (canApply), no years asked, level I. Older 'AI Native Software Engineer' (Seattle/Arlington, 2026-04) is senior-style and not counted. Other eng roles Burnaby/senior.",
   "confidence": "medium"
 }

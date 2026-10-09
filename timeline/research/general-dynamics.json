@@ -1,7 +1,7 @@
 {
   "company": "General Dynamics",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -9,10 +9,23 @@
       "url": "https://careers-gdms.icims.com/jobs/74471/job",
       "location": "Manassas, VA",
       "opened": "2026-08-21",
-      "date_source": "page text (JSON-LD datePosted)",
+      "date_source": "page text",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer 1",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ228969",
+      "location": "Annapolis Junction, MD",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -37,6 +50,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:gdit/wd5/External_Career_Site",
-  "evidence": "GDMS iCIMS 74471 page 2026-10-07: 'citizenship is required'; Required Clearance Secret. GDIT Workday: entry roles carry TS/SCI with Polygraph in the title (AI Engineer Associate, Chantilly; Junior Software Developer, Annapolis Junction). Chantilly Software Developer Associate not re-opened (403).",
+  "evidence": "GDMS iCIMS 74471 opened 2026-10-08: 'U.S. citizenship is required', Secret clearance. GDIT Workday (1243, full): Software Engineer 1 'US Citizenship Required: Yes', TS/SCI w/ poly; ITSM Integration Engineer Associate 'U.S. Citizenship Required'. Entry SWE roles all clearance.",
   "confidence": "high"
 }

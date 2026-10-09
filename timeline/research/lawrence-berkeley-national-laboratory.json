@@ -1,5 +1,7 @@
 {
   "company": "Lawrence Berkeley National Laboratory (Berkeley Lab)",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -10,21 +12,18 @@
       "date_source": "taleo posting date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Level 1: bachelor's in CS/engineering and a minimum of two years of related experience, or advanced degree",
+      "level_basis": "Level 1: bachelor's + 2 years, or an advanced degree without required experience; $104,580-$127,836",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-07",
-  "last_cycle_basis": "tracker first seen: Controls Software Engineer, Berkeley CA (https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=104583)",
+  "last_cycle_basis": "Tracker first seen: Controls Software Engineer, Berkeley CA (https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=104583)",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lbl.taleo.net/careersection/5/jobsearch.ftl?searchType=1&lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo REST search 2026-10-07 (keywords software, engineer, computer, data, ML, IT): only Controls Software Engineer 107332 (posted 2026-08-18, Level 1/2) listed; Level 1 = bachelor's + 2 yrs; 'Visa sponsorship is not available'. Others postdocs, senior/lead, hardware. Single rolling posting, not a program.",
-  "confidence": "medium",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "jobs_spec_basis": "Taleo REST jobboard/searchjobs portal 24160117539 queried directly"
+  "evidence": "Taleo REST searches 2026-10-08 plus postings opened in browser: Controls Software Engineer 107332 (Level 1/2) is listed; Level 1 = BS + 2 yrs or advanced degree with no experience required; no visa sponsorship. Other tech roles are senior (Beamline Controls 12+ yrs, HPC Platform 8+ yrs), group leads, postdocs. Single rolling posting, not a program.",
+  "confidence": "medium"
 }

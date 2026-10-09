@@ -1,7 +1,7 @@
 {
   "company": "Citadel",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,25 +12,18 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
-    },
-    {
-      "title": "Software Engineer – University Graduate (US) (Citadel Securities)",
-      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-      "location": "New York, NY; Miami, FL",
-      "opened": "on or before 2026-07-05",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-10",
-  "last_cycle_basis": "jobs.py history tracker first-seen for prior cycle's University Graduate SWE posting (citadelsecurities 2025-07-05).",
+  "last_cycle_basis": "jobs.py history: tracker first-seen for prior cycle's University Graduate SWE posting (2025-07-05/10)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.citadel.com/careers/",
+  "jobs_page": "https://www.citadel.com/careers/open-opportunities/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: both posting pages load with Start Application; bachelor's/master's CS, no citizenship or sponsorship text, no deadline, no class year (rolling).",
+  "evidence": "Browser 2026-10-08: posting page loads with Start Application and appears in New Graduates list; bachelor's or master's CS, base $235K-$300K, no citizenship or sponsorship text, no deadline, no class year (rolling).",
   "confidence": "high"
 }

@@ -1,26 +1,15 @@
 {
   "company": "Voyager Technologies",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "excluded",
-  "postings": [
-    {
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
-      "location": "El Segundo, CA",
-      "opened": "2026-08-18",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    }
-  ],
-  "last_cycle_opened": "2025-12-23",
-  "last_cycle_basis": "tracker first-seen; 'Software Engineer - AI Automation - Internal Tools', Seattle/DC/LA (same req reposted)",
   "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "last_cycle_opened": "2025-12-23",
+  "last_cycle_basis": "tracker first seen; Software Engineer postings Seattle/DC/LA (job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009)",
   "jobs_page": "https://job-boards.greenhouse.io/voyagertechnologiesinc",
   "jobs_spec": "gh:voyagertechnologiesinc",
-  "evidence": "Greenhouse (195) 2026-10-07: ML Engineer - Associate (El Segundo, 0-5 yrs, first 2026-08-18, live) is the only entry-level SWE/ML role. It says 'Must be eligible to obtain and maintain a US Government clearance (requires US citizenship)' and U.S. Person (ITAR). Other SWE roles 4-7+ yrs and U.S. Person.",
-  "confidence": "high"
+  "evidence": "Greenhouse 2026-10-08 (189, full). Only entry-level SWE/ML role: Machine Learning Engineer - Associate, El Segundo (opened 2026-08-18): 'eligible to obtain and maintain a US Government clearance (requires US citizenship)'. Other SWE roles ask 4+ yrs; 2027 SW Intern is intern.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "postings": [],
+  "no_sponsorship": false
 }

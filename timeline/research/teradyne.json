@@ -1,6 +1,7 @@
 {
   "company": "Teradyne",
-  "tier": 7,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -8,12 +9,12 @@
       "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Software-Engineer-(Memory-Test,-San-Jose,-CA)-CA-95101/1409221500/",
       "location": "San Jose, CA",
       "opened": "2026-08-13",
-      "date_source": "page text (earlier file: Date Aug 13, 2026; page now shows Date: Oct 7, 2026, refreshed)",
+      "date_source": "page text (earlier research file; page now shows Date: Oct 7, 2026, refreshed)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "All About You: 'Computer Science degree with 0-2 years experience'; $ range not shown; learn from senior engineers",
+      "level_basis": "'Computer Science degree with 0-2 years experience'; $80,400 - $128,700",
       "no_sponsorship": true
     }
   ],
@@ -23,7 +24,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.teradyne.com",
   "jobs_spec": null,
-  "evidence": "Searched jobs.teradyne.com (software, graduate, new college graduate, early career, entry level) 2026-10-07 and opened postings. San Jose Memory Test SWE (0-2 yrs, Apply live, 'not eligible for visa sponsorship') qualifies. Other SWE reqs ask 3-10+ yrs or say 'Experienced'; NCG roles are test/factory apps, not SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Searched jobs.teradyne.com 2026-10-08 (software, developer, python, ML, new college graduate) and opened ~35 SWE pages. San Jose Memory Test SWE (0-2 yrs, Apply live, no visa sponsorship) qualifies. Defense ATAE (SW Dev) roles allow recent Master's but are ITAR (citizen/green card only). Other SWE ask 3-15 yrs; NCG roles are test/factory apps.",
+  "confidence": "medium"
 }

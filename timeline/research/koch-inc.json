@@ -1,7 +1,7 @@
 {
   "company": "Koch Inc. (Koch Industries)",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -16,14 +16,27 @@
       "level": "unlabeled",
       "level_basis": "Basic qualification: '2+ years of professional software engineering experience'; no leadership or mentoring duties",
       "no_sponsorship": true
+    },
+    {
+      "title": "AI Data Analytics Engineer (Molex)",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/United-States-AI-Data-Analytics-Engineer/193720",
+      "location": "Lisle, IL",
+      "opened": "on or before 2026-10-08",
+      "date_source": "page text (no posted date shown; Apply now seen 2026-10-08)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Basic qualification: 'BS or MS in Computer Science... 2+ years of experience building production software, data systems, or analytics platforms'; pay $90,000-$110,000; no lead duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found",
+  "last_cycle_basis": "not found; tracker shows only data analyst roles (Aug 2026) and AI Solutions Engineer (2026-10-02)",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://koch.avature.net/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Koch Avature 2026-10-07 (software/developer/data/AI/cloud queries): Wichita Software Engineer 195062 requires only 2+ yrs, full-stack, no leadership duties, no visa sponsorship; counted as borderline entry. Other SWE roles need 3-5+ yrs or are non-US; Cloud Engineer 194957 (entry-welcome) is infra ops, left out; no new-grad SWE program.",
-  "confidence": "low"
+  "evidence": "Koch Avature searches 2026-10-08: Wichita Software Engineer 195062 (2+ yrs, no sponsorship) and Molex Lisle AI Data Analytics Engineer 193720 (2+ yrs, $90-110K) counted as unlabeled entry. Software Engineer 194348 lists no years (left out); other SWE roles need 3+ yrs or are non-US.",
+  "confidence": "medium"
 }

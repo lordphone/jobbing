@@ -1,15 +1,81 @@
 {
   "company": "Bank of America",
   "tier": 5,
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Quantitative Engineer Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Quantitative-Engineer-Analyst_26034349-1",
+      "location": "Charlotte, NC; Jersey City, NJ; Atlanta, GA",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate/postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; 'exposure to AI technologies ... through coursework, internships, personal projects'; pay $67.5K-$126.5K; Analyst title; builds software/data pipelines",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative Engineer Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Quantitative-Engineer-Analyst_26034370-3",
+      "location": "Charlotte, NC; Jersey City, NJ; Atlanta, GA",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate/postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; 'exposure to AI technologies ... through coursework, internships, personal projects'; pay $67.5K-$126.5K; Analyst title; builds software/data pipelines",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative Engineer Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Quantitative-Engineer-Analyst_26034374-3",
+      "location": "Charlotte, NC; Jersey City, NJ; Atlanta, GA",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate/postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; 'exposure to AI technologies ... through coursework, internships, personal projects'; pay $67.5K-$126.5K; Analyst title; builds software/data pipelines",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative Engineer",
+      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chicago/Quantitative-Engineer_26035240-4",
+      "location": "Chicago, IL",
+      "opened": "2026-09-24",
+      "date_source": "workday startDate/postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'A minimum of 1-2 years relevant professional experience or evidence of personal projects'; designs reusable software components, big data pipelines; no leading/mentoring duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative Engineer",
+      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jersey-City/Quantitative-Engineer_26034619",
+      "location": "Jersey City, NJ",
+      "opened": "2026-09-22",
+      "date_source": "workday startDate/postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'A minimum of 1-2 years relevant professional experience or evidence of personal projects'; designs reusable software components, big data pipelines; no leading/mentoring duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-11-20",
   "last_cycle_basis": "tracker history: 'Software Engineer I' postings (Year Up) first seen 2025-11-20 across NYC/Plano/Charlotte (2024 cycle: New Grad SWE I 2024-08-25)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ghr.wd1.myworkdayjobs.com/us-emplsv",
   "jobs_spec": "wd:ghr/wd1/us-emplsv",
-  "evidence": "Workday us-emplsv keyword-searched 2026-10-07 (396 hits of 3032; not full board): only SWE II/III/Lead/Senior (II roles ask 2+ to 6+ yrs, level II), no Software Engineer I or new-grad. Web search: 2027 Global Technology is Summer Analyst internship only.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Workday us-emplsv keyword-searched 2026-10-08 (not full board); canApply true via cxs API. No labeled new-grad SWE; open are unlabeled Global Risk Quantitative Engineer(-Analyst) software/data roles. Other SWE roles are II/III/Lead (2+ to 10+ yrs). 2027 Global Technology analyst program is UK/Ireland only. Borderline: quant-flavored roles. Status changed from not_yet.",
+  "confidence": "medium"
 }

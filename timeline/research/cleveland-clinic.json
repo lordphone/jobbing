@@ -1,7 +1,7 @@
 {
   "company": "Cleveland Clinic",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
   "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
-  "evidence": "Workday full board 2026-10-07 (360 postings): Software Developer 1 (Weston FL, req 334982, ~2026-09-16) no longer listed and its posting API returns permission denied; remaining developers are II/III, plus Research Data Scientist I (not counted as SWE). Page not viewed in browser.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-08 (2291, full) + CXS 'software developer': only Software Developer II/III remain and a Staff/Senior ML scientist. Software Developer 1 (Weston FL, req 334982, 2026-09-16) is no longer listed; earlier browser check showed the page does not exist. No live entry SWE.",
+  "confidence": "high"
 }

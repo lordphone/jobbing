@@ -1,7 +1,5 @@
 {
   "company": "Providence",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -14,16 +12,18 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Data Engineer I; asks 1+ year Snowflake/Ctrl-M/ADF; ops/on-call and pipeline work, mentions mentoring junior engineers",
+      "level_basis": "Data Engineer I; requires bachelor's in CS/Engineering and 1+ year Snowflake/CTRL-M/ADF experience; ops/on-call pipeline work, also says senior-level ownership and mentoring juniors",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-23",
   "last_cycle_basis": "tracker first seen 2025-09-23: 'Data Software Engineer 1 - Enterprise Information Services' (evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647)",
-  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://providence.jobs/jobs/?q=software+engineer",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: Data Engineer I IS - Remote (ReqID 456122) shows APPLY NOW. Search 'software engineer' (38) otherwise only Senior/Principal; data engineering, not pure SWE, so borderline.",
-  "confidence": "low"
+  "evidence": "providence.jobs sitemap (3054 jobs) and posting page in browser 2026-10-08: Data Engineer I IS - Remote shows APPLY NOW. No other software/developer/new-grad titles; Oracle CX_2 board (44) has only executive/corporate roles. Data engineering, borderline SWE; page also says senior-level ownership and mentoring, so level is unclear.",
+  "confidence": "low",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null
 }

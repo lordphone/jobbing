@@ -1,6 +1,7 @@
 {
   "company": "Verition Fund Management",
   "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -13,17 +14,16 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Associate title; requires '1+ year of experience in a similar position'; $100,000 to $150,000; works alongside experienced engineers",
+      "level_basis": "requires \"1+ year of experience in a similar position\"; $100,000 to $150,000; web apps, SQL, support",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-30",
   "last_cycle_basis": "tracker: Quantitative Developer first seen 2025-10-30 (not a labeled new-grad program)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.verition.com/open-positions",
   "jobs_spec": "gh:veritiongroupllc",
-  "evidence": "gh:veritiongroupllc full board (24) 2026-10-07; posting content readable via Greenhouse API (HTTP 200), updated 2026-09-28. Associate Platform Engineer asks 1+ yr. Quantitative Developer (1-3 yrs Python, multi-city, first 2024) left out as unclear. No deadline or sponsorship text.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:veritiongroupllc full board (24) 2026-10-08; Associate Platform Engineer read via Greenhouse API (1+ yr, updated 2026-09-28). Treasury Engineer 3+ yrs; Quant Developer 1-3 yrs Python, multi-city, first 2024, left out as unclear. 2027 internships only otherwise.",
+  "confidence": "medium"
 }

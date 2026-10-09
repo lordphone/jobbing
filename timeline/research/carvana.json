@@ -1,15 +1,29 @@
 {
   "company": "Carvana",
-  "tier": 9,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 4,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8120638",
+      "location": "Carmel, IN; Indianapolis, IN",
+      "opened": "2026-08-10",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years software development, bachelor's degree; duties are team-level project work, no lead/mentor/architecture; no pay range listed",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-09",
   "last_cycle_basis": "tracker first-seen: Data Engineer - Production Analytics, Tempe AZ (not clearly new grad), https://www.carvana.com/careers/apply?gh_jid=7507650",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/carvana",
   "jobs_spec": "gh:carvana",
-  "evidence": "Greenhouse API 2026-10-07 (1793 postings, full). Software Engineer (Carmel IN, 8120638), Data Product Engineer (Tempe) ask 2+ yrs with mid-level duties, not entry-labeled; Associate ServiceNow Engineer asks 3+ yrs. 'New College Graduates' roles are customer service only. Roles say eligible for visa sponsorship.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-08 (1800, full). Software Engineer (Carmel IN) requires 2+ yrs, no senior duties, eligible for visa sponsorship: counted as unlabeled; page 403 to WebFetch. Data Product Engineer makes architecture decisions; Associate ServiceNow asks 3+ yrs: excluded. Old file said no_program; now judged open, medium.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

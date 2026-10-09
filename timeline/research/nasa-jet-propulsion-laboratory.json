@@ -1,15 +1,15 @@
 {
   "company": "NASA Jet Propulsion Laboratory (JPL)",
-  "tier": 8,
+  "tier": 4,
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history shows only postdoc postings (2026-05 to 2026-07); no new-grad SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://citjpl.wd5.myworkdayjobs.com/Jobs",
   "jobs_spec": "wd:citjpl/wd5/Jobs",
-  "evidence": "Workday API 2026-10-07 (94, full): level-I roles are mechanical, mechatronics, structural and Enterprise Cybersecurity Engineer I; software roles are Lead, Teamcenter Developer IV, SQA III TS/SCI, Data Scientist IV. No entry SWE. No citizenship line quoted for an eligible role, so not excluded.",
+  "evidence": "Workday API full (95) 2026-10-08: level-I roles are mechanical, mechatronics, structural and Enterprise Cybersecurity Engineer I (IT security, not SWE); software roles are Lead, Teamcenter Developer IV, SQA III TS/SCI, Data Scientist II/IV. No entry SWE. No citizenship line quoted for an eligible role, so not excluded.",
   "confidence": "high",
-  "checked": "2026-10-07"
+  "postings": [],
+  "checked": "2026-10-08",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

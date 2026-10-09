@@ -1,7 +1,6 @@
 {
   "company": "NetApp",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -9,12 +8,12 @@
       "url": "https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496",
       "location": "San Jose, CA",
       "opened": "2026-09-03",
-      "date_source": "page JSON-LD datePosted (pipeline position, reposted on a recurring basis)",
-      "grad_window": "BS CS/EE, under 2 yrs (not Master's); text says start date in 2026",
-      "live_verified": "browser",
+      "date_source": "page JSON-LD datePosted",
       "deadline": null,
-      "level": "unlabeled",
-      "level_basis": "Posting: 'Bachelor of Science in CS or EE'; BS with under 2 yrs experience; $100,300-149,600",
+      "grad_window": "pipeline posting, recurring; text says start date in 2026",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Entry Level Careers Program; page says a Bachelor's with more than 2 years or any Master's should NOT apply (BS-only role)",
       "no_sponsorship": false
     },
     {
@@ -22,34 +21,35 @@
       "url": "https://careers.netapp.com/job/san-jose/software-engineer-anf-azure-netapp-files/27600/97615964512",
       "location": "San Jose, CA",
       "opened": "2026-09-03",
-      "date_source": "page JSON-LD datePosted (pipeline position, reposted on a recurring basis)",
-      "grad_window": "Master's CS/EE 0+ yrs (or BS with 2+ yrs); text says start date in 2026",
-      "live_verified": "browser",
+      "date_source": "page JSON-LD datePosted",
       "deadline": null,
+      "grad_window": "pipeline posting, recurring; text says start date in 2026",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Posting routes Master's degree (or BS 2+ yrs) candidates here; $100K-range pay; Master's 0+ yrs",
+      "level_basis": "Job category University; BS + 2+ yrs or Master's with 0+ yrs",
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer (Systems - C/C++) - ONTAP",
+      "title": "Software Engineer (Systems - C/C++)",
       "url": "https://careers.netapp.com/job/san-jose/software-engineer-systems-c-c/27600/100727361824",
       "location": "San Jose, CA",
       "opened": "2026-09-16",
-      "date_source": "page JSON-LD datePosted (pipeline position, reposted on a recurring basis)",
+      "date_source": "page JSON-LD datePosted",
       "deadline": null,
-      "grad_window": "Master's with no experience (or BS with 2+ yrs); text says start date in 2026",
+      "grad_window": "pipeline posting, recurring; text says start date in 2026",
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Education: 'a Master's degree with no experience' or Bachelor's with minimum 2 years; $113,050-168,300; duties are team feature work, no lead/mentor",
+      "level_basis": "Job category University; BS + 2 yrs or Master's with no experience",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history shows only 2024 postings for NetApp (earliest 2024-08-25 New Grad: Software Engineer); none 2025-07..2026-01; no last-cycle date found",
+  "last_cycle_basis": "jobs.py history shows only 2024 postings (earliest 2024-08-25 New Grad: Software Engineer; Nov-Dec 2024 Entry Level SWE); none 2025-07..2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.netapp.com/engineering-careers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: careers.netapp.com US 'software' search (85 results) read; opened each Software Engineer posting. Entry-level pipeline roles: ANF entry-level (BS) and ANF SWE (Master's), ONTAP SWE Systems C/C++ (Master's no exp). All others need 2-12+ yrs or lead (Trident BS+2 'leading design'). 'Start in 2026' text is stale.",
-  "confidence": "high"
+  "evidence": "Browser 2026-10-08: listed all 326 US postings from careers.netapp.com search and read the software ones. Three University-category SWE postings in San Jose qualify (entry ANF is BS-only, so likely not open to a master's). Others need 2-12+ yrs or lead; Trident Cloud Native SWE (Morrisville, BS+2 or MS) lists leadership duties, left out.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

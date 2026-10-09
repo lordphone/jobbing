@@ -1,7 +1,7 @@
 {
   "company": "AMERICAN SYSTEMS",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -14,7 +14,8 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Software Engineer/Developer; clearance required so excluded"
+      "level_basis": "Software Engineer/Developer; clearance required so excluded",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-06",
@@ -23,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-americansystems.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "iCIMS pages re-read 2026-10-07: SWE 4783 \"U.S. citizenship required for the purpose of obtaining/holding a U.S. security clearance\"; 4974/4977 need active DoD Secret; NAVAIR 4982 \"Must be a U.S. Citizen\". All software postings need clearance.",
+  "evidence": "Browser 2026-10-08, software/developer searches on iCIMS. 4977 'Active DoD Secret Security Clearance' (3+ yrs); 4547 'Active Top-Secret Clearance', 'Citizenship Required for the purposes of obtaining/holding a U.S. security clearance'. Kept 4783 and its 2026-10-07 citizenship quote. Entry Java Developer 1 (seen 2026-07-24) is closed.",
   "confidence": "high"
 }

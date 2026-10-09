@@ -24,11 +24,14 @@ def norm(s):
 
 
 def load_companies():
-    out, tier, tiername = [], None, None
+    out, tier, tiername, industry = [], None, None, None
     for line in open(f'{REPO}/timeline/COMPANY_LIST.md'):
         m = re.match(r'## (\d+)\. (.*) \(\d+\)', line)
         if m:
             tier, tiername = int(m.group(1)), m.group(2)
+            continue
+        if line.startswith('### '):
+            industry = line[4:].strip()
             continue
         if not line.startswith('- '):
             continue
@@ -45,7 +48,7 @@ def load_companies():
                 aliases.add(part)
         aliases.add(base)
         keys = {norm(a) for a in aliases if norm(a)}
-        out.append({'id': len(out), 'tier': tier, 'tier_name': tiername, 'name': name,
+        out.append({'id': len(out), 'tier': tier, 'tier_name': tiername, 'industry': industry, 'name': name,
                     'aliases': sorted(aliases), 'keys': sorted(keys)})
     return out
 

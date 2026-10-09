@@ -1,15 +1,15 @@
 {
   "company": "Eaton Corporation",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "jobs.py history: Eaton Technical Support Engineer and Product Engineer postings first seen 2025-10-30; no dedicated SWE new-grad found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "status": "no_program_found",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: 2025-10-30 entries are Product Engineer / D-IT Technical Support Engineer, not SWE; no dated Jul 2025-Jan 2026 SWE new-grad posting",
   "jobs_page": "https://eaton.eightfold.ai",
   "jobs_spec": "eightfold:eaton.eightfold.ai/eaton.com",
-  "evidence": "Eightfold API 2026-10-07 (1211 US postings, full): entry Development Programs are Applications, Operations, Field Service, Engineering, Digital Integrated Solutions (HMI/SCADA integration, EE/ME); IoT Product Engineer is electrical design; Embedded Software Engineer is a Specialist role. No entry SWE; no-sponsorship line on programs.",
-  "confidence": "medium"
+  "evidence": "Eightfold API 2026-10-08 (1231 US postings, full): Development Programs are Field Service, Applications, Operations, Engineering, Digital Integrated Solutions (power monitoring/SCADA integration, not SWE). Software roles are Specialist/Senior level; Brossard QC Software Developer (2026-09) is closed and not Toronto/Vancouver.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

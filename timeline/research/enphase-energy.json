@@ -1,15 +1,15 @@
 {
   "company": "Enphase Energy",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; Emerging Talent program page exists but no dated cycle",
+  "last_cycle_basis": "no tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://enphase.com/careers",
   "jobs_spec": null,
-  "evidence": "enphase.com/careers job API (enphase.com/api/v2/jobs, all 86 openings read) 2026-10-07: US roles are senior/staff firmware, hardware, systems, sales, field service; Fremont Processor Verification is hardware verification; only intern is NZ summer. No US new-grad SWE live; Emerging Talent page exists, undated.",
+  "evidence": "enphase.com/careers job API (/api/v2/jobs, all 83 openings read in browser) 2026-10-08: US roles are senior/staff firmware, hardware, systems, sales, field service; processor verification role is hardware verification. Software roles are Bangalore/Christchurch and Staff level. No entry SWE; only an NZ summer internship.",
   "confidence": "medium"
 }

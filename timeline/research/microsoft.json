@@ -1,22 +1,9 @@
 {
   "company": "Microsoft",
-  "tier": 1,
-  "checked": "2026-10-07",
+  "tier": 2,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer- CoreAI (IC2, #EiP)",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "location": "Redmond, WA",
-      "opened": "2026-10-01",
-      "date_source": "eightfold postedTs",
-      "deadline": null,
-      "grad_window": "Summer 2027 (May-Sep) start date per posting",
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "IC2 #EiP tag; targets Summer 2027 start; preferred (not required) 1+ yr",
-      "no_sponsorship": false
-    },
     {
       "title": "Software Engineer (IC2, #EiP), AI infrastructure",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
@@ -50,7 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://apply.careers.microsoft.com",
   "jobs_spec": "eightfold:apply.careers.microsoft.com/microsoft.com",
-  "jobs_spec_basis": "jobs.py eightfold spec returned no response; used site's own /api/pcsx search and position_details in the browser pane",
-  "evidence": "pcsx search + position_details in browser 2026-10-07: three IC2/#EiP SWE postings in Redmond resolve (Oct 1-7). Two earlier IC2 postings (\u202622395, \u2026999325) no longer resolve. 'Software Engineer II' roles ask 2+ yrs, not counted. Cloud background check only; no deadline.",
+  "jobs_spec_basis": "eightfold spec returns partial/flaky results; used site's own /api/pcsx search and position_details plus browser pages",
+  "evidence": "pcsx search + browser 2026-10-08: two IC2 SWE postings in Redmond show Apply now (Oct 2, Oct 7). CoreAI #EiP posting (...989020) now 'No longer accepting applications'; earlier IC2 postings also gone. 'Software Engineering'/SDE/SWE 2 roles ask 2+ yrs, Applied ML Engineer needs MS+1 yr: not counted. No deadline.",
   "confidence": "medium"
 }

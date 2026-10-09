@@ -1,7 +1,7 @@
 {
   "company": "Chegg",
   "tier": 9,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -11,6 +11,6 @@
   "jobs_page": "https://osv-chegg.wd5.myworkdayjobs.com/Chegg",
   "jobs_spec": null,
   "jobs_spec_basis": "Workday cxs API returns 422 (verified); page was readable in browser 2026-10-06, so no API spec",
-  "evidence": "Workday osv-chegg/Chegg read in browser 2026-10-06 (11 jobs): engineering India/Spain only; only US job UX/UI Industry Coach. Today the cxs API returns HTTP 422 (not just a timeout) so board not reread; web search shows only India interns and a Senior SWE.",
+  "evidence": "Workday osv-chegg read in browser 2026-10-08 (12 jobs): engineering roles are India/Spain/UK only; only US job is UX/UI Industry Coach. No US entry SWE.",
   "confidence": "medium"
 }

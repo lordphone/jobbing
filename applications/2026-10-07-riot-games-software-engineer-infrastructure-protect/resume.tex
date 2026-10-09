@@ -1,0 +1,58 @@
+% Riot Games — Software Engineer, Central Technology, Infrastructure (Optimize & Protect)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist[itemize]{leftmargin=11pt, itemsep=0.6pt, parsep=0pt, topsep=0.8pt, partopsep=0pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Computer Architecture, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Stood up a production service on AWS EKS (Docker, Helm, Jenkins) on day 3; traced a DNS $\to$ TLS $\to$ admission-policy chain that blocked iOS clients on public networks and drove the public-domain fix.
+  \item Caught a stale ArgoCD app pinned to \texttt{v0.1.0} with prune and self-heal on that would have wiped Jenkins deploys; built a two-stage amd64 image after a C extension crashed with SIGILL on arm64.
+  \item Diagnosed a 5-day silent CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency skipping every later run) and fixed the mechanism with paired job and scheduler deadlines.
+  \item Root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces: an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) plus a Helm env shadowing the code default.
+  \item Set up Prometheus metrics and Grafana dashboards on EKS, and added a ruff / pyright / pytest GitHub Actions gate after two tests had sat red on \texttt{main} while Jenkins only built the image.
+  \item Redesigned a cache that could not hit (13.2\,MB keyed per user) after pod memory neared its 512\,MiB limit; re-keyed it to a shared 10.9\,MB catalog (78$\times$ smaller), sized under an HPA of 2--4 pods.
+  \item Built a FastAPI / MongoDB backend from the first commit to 89 endpoints and 7 CronJobs with $\sim$1{,}450 fully-offline tests (0.17\,s); moved nine third-party integrations server-side so the client ships zero API keys.
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs, 1{,}119 peak daily active users); 344 PRs across five repos (340 merged).
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; broke down user stories, led PR reviews, and mentored interns on Git and testing.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; demoed it until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Go, Java, C, Bash, SQL, TypeScript, Swift \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Terraform, Linux, NGINX \\[1pt]
+  \textbf{CI/CD \& Observability} & Jenkins, GitHub~Actions, ArgoCD, CI/CD, Prometheus, Grafana, Langfuse, kubectl \\[1pt]
+  \textbf{Backend \& Testing} & FastAPI, REST APIs, MongoDB, PostgreSQL, Redis Streams, pytest, ruff, Git \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders with voltage-to-frequency converters on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a PyTorch CNN-GRU that predicts steering and speed from 20-frame (1s) video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI and ran streaming inference.
+  \item \textbf{codingplans:} Benchmarking paid LLM coding plans (Z.AI, MiniMax, Kimi) with KV-cache, long-context, and needle-in-a-haystack tests to show which providers nerfed caching or heavily quantized their models.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

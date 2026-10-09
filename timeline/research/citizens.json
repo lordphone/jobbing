@@ -1,7 +1,7 @@
 {
   "company": "Citizens (Citizens Financial Group)",
   "tier": 5,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -25,7 +25,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -37,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle list (455, full) omits the ETS Development Program reqs, but both pages opened in browser 2026-10-07 show full descriptions and Apply Now. Spring 2027 grads; text says permanent work authorization required and no CPT/OPT/visa sponsorship.",
+  "evidence": "Oracle list (454) omits the ETS Development Program reqs, but detail API 2026-10-08 still serves both (49291 SWE, 49290 Data Engineer); Spring 2027 grads; permanent work authorization required, no CPT/OPT/visa sponsorship.",
   "confidence": "high"
 }

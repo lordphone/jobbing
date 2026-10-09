@@ -1,15 +1,15 @@
 {
   "company": "Allegro MicroSystems",
-  "tier": 7,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only the senior Systems Engineer - Robotics tracker entry (2026-08-19)",
+  "last_cycle_basis": "jobs.py history: only the Systems Engineer - Robotics tracker entry (2026-08-19)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://allegromicro.wd5.myworkdayjobs.com/allegrocareers",
   "jobs_spec": "wd:allegromicro/wd5/allegrocareers",
-  "evidence": "Workday board paged in full 2026-10-07 (97, Coverage full): US roles are hardware/validation/marketing/accounting; tracker lead 'Systems Engineer - Robotics' is titled Senior (R6647). Only SWE titles are Lead Software Engineer (Philippines) and Salesforce Developer (Argentina). No entry-level SWE.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Workday board in full 2026-10-08 (97): US roles are hardware/validation/marketing/foundry. Tracker lead 'Systems Engineer - Robotics' (Manchester NH) URL is Senior-Systems-Engineer (R6647), not entry. SWE titles only in Philippines and Argentina.",
+  "confidence": "medium"
 }

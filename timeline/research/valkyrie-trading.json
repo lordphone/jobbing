@@ -1,7 +1,7 @@
 {
   "company": "Valkyrie Trading",
   "tier": 4,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -9,9 +9,9 @@
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "location": "Chicago, IL",
       "opened": "on or before 2025-09-05",
-      "date_source": "tracker first seen (Lever createdAt 2021-10-20, evergreen)",
+      "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "Start full-time between January 2027 and August 2027",
+      "grad_window": "start Jan-Aug 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -21,9 +21,9 @@
   "last_cycle_opened": "2025-09-05",
   "last_cycle_basis": "tracker: Junior Software Engineer first seen 2025-09-05; Junior Derivatives Trader new grad 2025-11-05",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/valkyrietrading",
   "jobs_spec": "lever:valkyrietrading",
-  "evidence": "Lever board (6) and posting API 2026-10-07: Junior Software Engineer live (page 200), text says start Jan–Aug 2027; requires work authorization without employer sponsorship. Evergreen listing since 2021. Trade Support Engineer not SWE.",
+  "evidence": "Lever board 2026-10-08 (6) and posting API: Junior Software Engineer live (page 200), text says start Jan-Aug 2027; requires work authorization without employer sponsorship. Lever createdAt 2021 (evergreen). Trade Support Engineer needs 2+ yrs, not SWE.",
   "confidence": "medium"
 }

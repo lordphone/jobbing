@@ -1,6 +1,7 @@
 {
   "company": "Tradeweb Markets",
-  "tier": 5,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -9,8 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://tradeweb.dejobs.org/jobs/",
   "jobs_spec": "oracle:ecnf.fa.us2.oraclecloud.com/CX",
-  "jobs_spec_basis": "Oracle CX board lists Tradeweb roles/Summer 2027 internships; tracker Tradeweb postings use this host; tested with jobs.py board",
-  "evidence": "Oracle board (49, all read) 2026-10-07: US SWE are C++ Developer (4+ yrs), C++ Application Developer (5+), AI Prod Support (10+), Senior Java Algo; only Summer 2027 interns otherwise. No entry-level FT SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "Oracle board (49, full) 2026-10-08: US SWE are C++ Developer, C++ Application Developer, AI Prod Support Engineer, Senior Java Algo; only a Summer 2027 SRE intern otherwise. No entry-level FT SWE.",
+  "confidence": "high"
 }

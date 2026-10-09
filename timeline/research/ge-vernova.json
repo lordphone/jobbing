@@ -1,7 +1,6 @@
 {
   "company": "GE Vernova",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -9,34 +8,22 @@
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
       "location": "Greenville, SC",
       "opened": "2026-09-09",
-      "date_source": "tracker first seen (workday start date 2026-09-10)",
+      "date_source": "tracker first seen (workday startDate 2026-09-10)",
       "deadline": "2026-11-30",
-      "grad_window": "Bachelor's completed by start date (recent graduate)",
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "entry-level AI Engineer; role designed for a recent graduate",
-      "no_sponsorship": false
-    },
-    {
-      "title": "GE Vernova Advanced Research Development Program (Edison, Master's Level) - US 2027",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-Development-Program--Edison--Master-s-Level----US-2027_R5047236-2",
-      "location": "Niskayuna, NY",
-      "opened": "2026-09-15",
-      "date_source": "page text (date posted)",
-      "deadline": null,
-      "grad_window": "Master's within past 12 months",
+      "grad_window": "Bachelor's completed by the start date",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "'entry-level AI Engineer ... designed for a recent graduate'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-10",
-  "last_cycle_basis": "tracker_last_cycle from prior pass: Software Engineering Specialist (Bellevue) 2025-12-10",
+  "last_cycle_basis": "tracker: Software Engineering Specialist (Bellevue, WA) first seen 2025-12-10; level unclear",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.gevernova.com/jobs",
   "jobs_spec": "wd:gevernova/wd5/vernova_externalsite",
-  "evidence": "Workday CXS 2026-10-07: AI Engineer (Greenville SC, recent grad, ends 2026-11-30) and Master's Edison R&D program (no sponsorship) live. Roanoke Software Engineer is U.S. Persons only; Cyber/OT controls roles need 0-2 yrs but are controls-focused. Digital Technology Development Program - US 2027 (tracker 2026-08-06) is gone.",
-  "confidence": "high"
+  "evidence": "Workday full board (1860) 2026-10-08 + CXS read: AI Engineer (Greenville) entry-level recent-grad role, canApply true, ends 2026-11-30. Wind/Nuclear Edison 2027 programs take only ME/EE/Aero/Controls/Civil majors and need no sponsorship, so not counted. Software Consulting Engineer is a senior architecture lead.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

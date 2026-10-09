@@ -1,15 +1,15 @@
 {
   "company": "CarGurus",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2026-04-30",
   "last_cycle_basis": "tracker first seen 2026-04-30: Software Development Engineer 1 (Boston, two postings), spring hiring, closed",
-  "jobs_page": "https://job-boards.greenhouse.io/cargurus",
-  "jobs_spec": "gh:cargurus",
-  "evidence": "Greenhouse full board 2026-10-07 (43): SWE roles are SDE II, senior, principal, manager; only Application Security Engineer I (security, not SWE). No SDE 1 live; SDE 1 posted spring 2026.",
-  "confidence": "high",
-  "checked": "2026-10-07",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://job-boards.greenhouse.io/cargurus",
+  "jobs_spec": "gh:cargurus",
+  "evidence": "Greenhouse full board 2026-10-08 (45): SWE roles SDE II/senior/principal/manager; only Application Security Engineer I (Boston, 2026-08-24), a security role not counted. SDE 1 posted spring 2026.",
+  "confidence": "high"
 }

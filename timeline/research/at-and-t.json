@@ -1,7 +1,5 @@
 {
   "company": "AT&T",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -11,7 +9,7 @@
       "opened": "2026-09-21",
       "date_source": "workday startDate",
       "deadline": "2026-11-14",
-      "grad_window": "STEM degree completed before start; available to begin by July 2027",
+      "grad_window": "degree completed before start; start by July 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -19,11 +17,13 @@
     }
   ],
   "last_cycle_opened": "2024-10-18",
-  "last_cycle_basis": "Tracker history: 'New Grad 2025: Technology Development Program' (Atlanta) first seen 2024-10-18; no 2025-26 TDP seen in trackers",
+  "last_cycle_basis": "Tracker history: New Grad 2025 Technology Development Program (Atlanta) first seen 2024-10-18; no 2025-26 TDP seen",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "Workday attcollege board (7 postings, full) and detail 2026-10-07: TDP (recent grads, 4 tracks incl. Software Engineer/Data Science Engineer) live, endDate 2026-11-14. 'will not hire ... who require employer sponsorship'. Internship listing not counted.",
-  "confidence": "high"
+  "evidence": "Workday attcollege full board (6) 2026-10-08: TDP for recent grads, 4 tracks incl. Software Engineer, canApply true, ends 2026-11-14. Posting: will not hire TDP applicants who require sponsorship. Internship listing not counted.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5
 }

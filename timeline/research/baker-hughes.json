@@ -1,15 +1,15 @@
 {
   "company": "Baker Hughes",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history shows only sporadic SWE postings (Manufacturing SWE Minden NV 2026-05-14, Newcastle UK 2026-06-13), no clear 2025-07..2026-01 new-grad opening",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history 'baker hughes': Software Engineer (Minden NV, 2026-09-01) and Manufacturing Software Engineer (2026-05-14) closed, level unverified; no dated Jul 2025-Jan 2026 new-grad SWE",
   "jobs_page": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes",
   "jobs_spec": "wd:bakerhughes/wd5/BakerHughes",
-  "evidence": "Workday CXS searches 2026-10-07 (software engineer, ASPIRE, early career, data engineer, ML): US ASPIRE 2027 tracks are Finance, Supply Chain, Sales only; US software/AI roles lead/senior; entry digital roles India/Poland. No US entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-08 (672, full): US ASPIRE 2027 tracks are Sales & Commercial, Finance, Supply Chain; software/digital roles are India-based or experienced; US engineer titles are field, applications, manufacturing, R&D optical. Minden NV Software Engineer gone. No US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

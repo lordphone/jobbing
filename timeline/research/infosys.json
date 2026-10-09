@@ -1,5 +1,6 @@
 {
   "company": "Infosys",
+  "tier": 5,
   "status": "leftover_2026",
   "postings": [
     {
@@ -9,7 +10,7 @@
       "opened": "on or before 2026-09-27",
       "date_source": "page text (no date shown)",
       "deadline": null,
-      "grad_window": "Dec 2024 - Aug 2026 graduates (0-18 months since graduation)",
+      "grad_window": "Dec 2024 - Aug 2026 graduates",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -17,13 +18,12 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has zero Infosys entries; rolling program, no dated source",
+  "last_cycle_basis": "jobs.py history has zero Infosys entries; rolling program with no dated source",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://digitalcareers.infosys.com/infosys/global-careers",
   "jobs_spec": null,
-  "evidence": "Posting page 145643BR 2026-10-07 (WebFetch): Apply now shown, recent grads Dec 2024-Aug 2026, 'unable to provide immigration sponsorship'. Rolling, no date/deadline. Window ends Aug 2026, so a 2027 grad is not yet eligible: leftover. Job list not readable without browser; search found no 2027 cohort posting.",
+  "evidence": "Posting 145643BR read 2026-10-08 (WebFetch): Apply now shown, 'graduating from December 2024-August 2026', 'unable to provide immigration sponsorship', no date or deadline. Window ends Aug 2026, so a 2027 grad is not covered: leftover. Job list not readable without a browser; no 2027 cohort posting found; web search found none.",
   "confidence": "medium",
-  "checked": "2026-10-07",
-  "tier": 10
+  "checked": "2026-10-08"
 }

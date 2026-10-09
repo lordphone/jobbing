@@ -1,7 +1,6 @@
 {
   "company": "WeRide",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -11,7 +10,7 @@
       "opened": "2026-08-10",
       "date_source": "lever createdAt",
       "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027",
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -24,7 +23,7 @@
       "opened": "2026-08-10",
       "date_source": "lever createdAt",
       "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027",
+      "grad_window": "Dec 2026 – Jun 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -33,10 +32,11 @@
   ],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "tracker first-seen; 'New Grads 2026 - General Software Engineer', San Jose CA (jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/weride",
   "jobs_spec": "lever:weride",
-  "evidence": "Lever API (17 postings) 2026-10-07: two New Grads 2027 San Jose postings (created 2026-08-10) live; grad window Dec 2026 - Jun 2027; no citizenship, clearance or sponsorship text, no deadline. Older unlabeled SWE reqs ask 3+ yrs; China 2026 postings ignored.",
-  "confidence": "high"
+  "evidence": "Lever API 2026-10-08 (17 postings, full): two New Grads 2027 San Jose postings live, grad window Dec 2026–Jun 2027; no citizenship/clearance/sponsorship text, no deadline. Other SWE reqs ask 3+ yrs; China 2026 postings ignored.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,16 +1,15 @@
 {
   "company": "Guardant Health",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
+  "last_cycle_basis": "jobs.py history: no postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://gh.wd1.myworkdayjobs.com/gh",
   "jobs_spec": "wd:gh/wd1/gh",
-  "jobs_spec_basis": "Workday gh board lists Guardant Health roles (Palo Alto, Redwood City); full board read 2026-10-07",
-  "evidence": "Workday full board 2026-10-07 (70 postings) plus searches for software, developer, machine learning, bioinformatics: only Staff HPC Infrastructure Engineer, Data Engineering Manager (India) and science, sales and lab roles. No entry-level SWE or new-grad program.",
-  "confidence": "high"
+  "evidence": "Workday gh/wd1/gh 2026-10-08 (70, full): no software roles except Staff HPC Infrastructure Engineer, Data Engineering Manager (India), Service Engineer II (automation). Rest sales, clinical, corporate. No entry-level SWE.",
+  "confidence": "medium"
 }

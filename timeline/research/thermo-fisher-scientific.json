@@ -1,15 +1,15 @@
 {
   "company": "Thermo Fisher Scientific",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US new-grad SWE in tracker history (Associate Application Administrator 1, Middleton WI, 2025-11 is IT admin, not SWE)",
+  "last_cycle_basis": "tracker history shows only Associate Application Administrator 1 (2025-11-10) and Data Scientist 1 (2026-04), not new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.thermofisher.com/global/en/search-results",
   "jobs_spec": "wd:thermofisher/wd5/ThermoFisherCareers",
-  "evidence": "Workday board full listing (320) 2026-10-07: no software/data/AI engineering roles in US at entry level; US tech is Director IT, field service, sales, lab. No entry SWE program found this or last cycle (no tracker history).",
-  "confidence": "medium"
+  "evidence": "Workday full board (740) 2026-10-08: US software roles are Staff Software Engineer or IT infrastructure III; entry titles are Engineer I Field Service and Digital Support Engineer (support), not SWE. No software/data/AI entry roles or new-grad SWE program.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

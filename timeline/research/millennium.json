@@ -1,7 +1,7 @@
 {
   "company": "Millennium",
-  "tier": 4,
-  "checked": "2026-10-07",
+  "tier": 3,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://career.mlp.com/careers?domain=mlp.com",
   "jobs_spec": null,
-  "evidence": "2026-10-07: pulled all 220 roles from career.mlp.com Eightfold API; opened every US software/dev/quant-dev req: 3-5+ yrs asked (LEaD Miami 2-5). WorldQuant Aligned Software Engineer (NY, 2026-09) states no years or level, left out as unclear. No campus or class-year FT SWE.",
+  "jobs_spec_basis": "no jobs.py spec works; career.mlp.com/api/apply/v2/jobs?domain=mlp.com lists all roles with curl",
+  "evidence": "2026-10-08: pulled all 220 roles from career.mlp.com Eightfold API; read every US software/dev/quant-dev req: 3-5+ yrs asked (LEaD Miami 2-5). WorldQuant Aligned Software Engineer (NY, $175-250K) states no years or level, left out as unclear. No campus or class-year FT SWE.",
   "confidence": "medium"
 }

@@ -1,0 +1,57 @@
+% Cencora — Engineer I, Systems Software Engineering (R2614401) (Remote, Pennsylvania)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+\setlist*[itemize]{itemsep=0.55pt}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Distributed Systems, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Operating Systems, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Sole SwiftUI engineer and primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} on a team of $\sim$6, taking it to 1.4K App Store ratings and 1{,}119 peak daily active users; authored 344 pull requests across five repositories (340 merged).
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 REST endpoints with $\sim$1{,}450 offline unit tests (1:1 with production lines) behind a ruff / pyright / pytest CI gate.
+  \item Stood up the service on AWS EKS (Docker, Helm, Jenkins) on day 3 with 7 Kubernetes CronJobs, then set up Prometheus metrics and Grafana dashboards; diagnosed a DNS $\to$ TLS $\to$ admission-policy chain that blocked iOS clients on public networks.
+  \item Diagnosed a 5-day silent CronJob outage (non-terminal ImagePullBackOff plus Forbid concurrency) and fixed it with paired job and scheduler deadlines.
+  \item Diagnosed a 65\% failure rate in another team's LLM workers via Langfuse traces as an unbounded reasoning loop and a Helm env shadowing the code default; sized a 2048-token cap against observed p95 and labeled a timeout raise a band-aid with a pre-registered falsification test.
+  \item Moved nine third-party integrations server-side so the iOS app ships zero third-party API credentials; cut a 25--30 request client fan-out to one backend call with a shared cache 78$\times$ smaller.
+  \item Designed and shipped a personalized LLM alert pipeline, validated it over 11 days of production shadow (4{,}100+ logged decisions), and cut filler 34\% $\to$ 4\%.
+  \item Introduced the team's Jira backlog, wrote 34 contract-first API specs and $\sim$10{,}000 lines of docs, onboarded the second engineer, and reopened two closed security tickets with evidence the fixes were absent.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed its database schemas and REST APIs.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app, built from 0$\to$1 in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
+  \item Iterated AI scoring and UI with clients and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Cloud \& Systems} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub Actions, CI/CD, Linux, Bash, Prometheus, Grafana \\[1pt]
+  \textbf{Practices} & Agile/Scrum, Unit Testing, pytest, Git, Jira, REST APIs \\[1pt]
+  \textbf{Languages} & Python, Java, Go, C, SQL, TypeScript, JavaScript, Swift \\[1pt]
+  \textbf{Frameworks \& Data} & FastAPI, React, Next.js, MongoDB, PostgreSQL, MySQL, Supabase, Firebase \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans. Tested Z.AI, MiniMax, and Kimi on KV caching, long context, and needle-in-a-haystack to show which nerfed caching or heavily quantized models.
+\end{itemize}
+
+\end{document}

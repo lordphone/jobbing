@@ -1,7 +1,7 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
   "postings": [
     {
@@ -12,15 +12,18 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "tracker lists it as a junior Backend SWE posting",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-07-10",
-  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend (junior), Austin TX, https://boards.greenhouse.io/rdccareers/jobs/7800190003",
+  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend (junior), Austin TX https://boards.greenhouse.io/rdccareers/jobs/7800190003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "Greenhouse rdccareers API 0 jobs 2026-10-07; job URL for Backend SWE Austin (7800190003) redirects to careers.realtor.com search page (Cloudflare blocked page fetch). Closed; Built In mirror of a similar junior SWE listing was removed 2026-03-09.",
-  "confidence": "medium"
+  "evidence": "Greenhouse rdccareers API 0 jobs 2026-10-08; Backend SWE Austin (7800190003) API 404 and page redirects to board with error. careers.realtor.com is Cloudflare-blocked (WebFetch and browser denied), so other roles unchecked.",
+  "confidence": "low"
 }

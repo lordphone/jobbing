@@ -1,15 +1,15 @@
 {
-  "company": "Memorial Sloan Kettering Cancer Center",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows only closed Data Scientist 1 (2026-06-10) and Epic Application Analyst 1 (2026-06-17), not SWE.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary",
-  "jobs_spec": "wd:msk/wd108/MSKCC_Careers_Primary",
-  "evidence": "Workday MSKCC_Careers_Primary 2026-10-07 (107 postings, full): only Epic Application Analyst I (not SWE), postdocs, clinical, legal and finance roles. No software engineer postings. Tracker showed only closed Data Scientist 1 and Epic analyst in Jun 2026.",
-  "confidence": "high"
+ "company": "Memorial Sloan Kettering Cancer Center",
+ "status": "no_program_found",
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; no last-cycle SWE posting found",
+ "jobs_page": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary",
+ "jobs_spec": "wd:msk/wd108/MSKCC_Careers_Primary",
+ "evidence": "Workday board read in full (108) 2026-10-08: only Epic Application Analyst I (not SWE), postdocs, clinical, legal and finance roles.",
+ "confidence": "high",
+ "postings": [],
+ "tier": 5,
+ "checked": "2026-10-08",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

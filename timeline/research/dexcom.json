@@ -1,15 +1,29 @@
 {
   "company": "Dexcom",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "closed",
-  "postings": [],
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer 1",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Software-Development-Engineer-1_JR120540",
+      "location": "San Diego, CA",
+      "opened": "2026-08-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "'Bachelor's degree in a technical discipline, and a minimum of 0-2 years related experience'",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-21",
-  "last_cycle_basis": "tracker first-seen: 'SW Systems Engineer 2', San Diego (no entry-level SWE in 2025-07 to 2026-01 window found); this-cycle SDE 1 opened 2026-08-03",
+  "last_cycle_basis": "tracker first-seen: 'SW Systems Engineer 2', San Diego (no entry-level SWE in 2025-07 to 2026-01 window found); this-cycle SDE 1 opened 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://dexcom.wd1.myworkdayjobs.com/Dexcom",
   "jobs_spec": "wd:dexcom/wd1/Dexcom",
-  "evidence": "Workday CXS searches 2026-10-07: SDE 1 postings (San Diego 2026-08-03, Remote US 2026-08-12) absent from board; San Diego posting API returns permission denied. Only Software QA Engineer 2, Staff SWE and non-US SDE 1 (Bengaluru) remain.",
-  "confidence": "medium"
+  "evidence": "Workday 2026-10-08: Software Development Engineer 1 (JR120540), San Diego CA, 0-2 yrs, Apply open, posted 2026-10-07; tracker first saw this req 2026-08-12 (then Remote US), so earlier date kept. Other SW roles are 2/Senior/Staff.",
+  "confidence": "high"
 }

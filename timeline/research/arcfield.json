@@ -1,15 +1,15 @@
 {
   "company": "Arcfield",
-  "tier": 8,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "status": "excluded",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows no entry-level SWE posting between 2025-07 and 2026-01 (Arcfield postings first appear Aug 2026)",
-  "excluded_reason": null,
+  "last_cycle_basis": "no tracker history before this cycle; none found",
+  "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://careers.arcfield.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Careers-site JSON API 2026-10-07 (131 software hits): only entry SWE is 'Entry level Software Engineer' (Middletown RI, 8643, tagged Casual/On-Call, $22-28/hr, pursuing a BS), student-style, not counted. Data Scientist I needs TS/SCI; Rome NY SWE (BS 2-4 yrs/MS 0-2) needs Secret; others II-V/Senior.",
+  "evidence": "Careers-site JSON API 2026-10-08 (131 software hits, 100 read): 'Entry level Software Engineer' (Middletown RI, 8643) is a student role (pursuing BS), not counted. Software Engineer (Rome NY, BS 2-4 / MS 0-2 yrs) says 'Must be able to obtain and maintain a SECRET clearance'; Data Scientist I needs TS/SCI poly. Excluded.",
   "confidence": "medium"
 }

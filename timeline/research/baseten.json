@@ -1,15 +1,42 @@
 {
   "company": "Baseten",
   "tier": 2,
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Inference Engineer",
+      "url": "https://jobs.ashbyhq.com/baseten/db6477fc-111a-4340-bf00-525fe023e6f3",
+      "location": "San Francisco, CA",
+      "opened": "2026-08-03",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of professional work experience; $165K-$330K; no lead/mentor duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Forward Deployed Engineer (Training)",
+      "url": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720",
+      "location": "San Francisco, CA",
+      "opened": "2026-08-19",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum 1-2 years of software engineering experience; $200K-$400K",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history shows only experienced SWE postings (2025-10); no new-grad track found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/baseten",
   "jobs_spec": "ashby:baseten",
-  "evidence": "Ashby full board (110) 2026-10-07, read all engineering posting text: SWE roles ask 3-5+ yrs or list none with senior duties; FDE (Training) asks 1-2 yrs but is de facto account CTO, not entry-level. No new-grad title.",
-  "confidence": "medium",
-  "checked": "2026-10-07"
+  "evidence": "ashby:baseten full board (110) 2026-10-08, read engineering postings: most SWE roles ask 3-5+ yrs or list none with senior duties. Two fit unlabeled rule: AI Inference Engineer (2+ yrs) and FDE (Training) (1-2 yrs). Borderline; wide pay bands.",
+  "confidence": "low",
+  "checked": "2026-10-08"
 }

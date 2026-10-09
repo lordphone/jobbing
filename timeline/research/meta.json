@@ -1,15 +1,15 @@
 {
   "company": "Meta",
   "tier": 1,
+  "checked": "2026-10-08",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-07",
   "last_cycle_basis": "jobs.py history: 'Software Engineer - University Grad - Research Infrastructure' (Burlingame/Redmond) first seen 2025-07-07, https://www.metacareers.com/jobs/23968798566082979; main SWE UG roles mid-Aug 2025 (tracker 2025-08-14)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.metacareers.com/jobsearch/?teams%5B0%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&offices%5B0%5D=USA",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: metacareers University Grad - Engineering, Tech & Design team filter (USA) shows 0 items; q='university grad' 0; q='2027' shows only Summer 2027 interns and unrelated roles. Last year's main SWE UG roles appeared mid-Aug 2025 (Jul for research infra), so a 2027 posting is overdue but not live.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-08: metacareers University Grad - Engineering, Tech & Design filter for USA shows 0 items; students page lists only Montreal and Dublin University Grad roles and PhD research. No US 2027 new-grad SWE posting yet.",
+  "confidence": "medium"
 }

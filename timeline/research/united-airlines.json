@@ -1,7 +1,5 @@
 {
   "company": "United Airlines",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -12,7 +10,7 @@
       "date_source": "phenom postedDate",
       "deadline": "2026-10-14",
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Associate title; minimum quals: Bachelor's + 1+ year experience; $73,150-$95,224",
       "no_sponsorship": true
@@ -24,6 +22,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://careers.united.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom page data 2026-10-07: Associate Software Developer reqStatus Open, postingEndDate 2026-10-14, reopened 2026-10-07. Page HTML also carries a hidden-template 'no longer accepting' block (WebFetch can't render JS), so Apply state unconfirmed visually. Developer-IT roles want 2+ yrs or ECDLP, not counted.",
-  "confidence": "medium"
+  "evidence": "Phenom search + page 2026-10-08: Associate Software Developer reqStatus Open, Apply Now button present, postingEndDate 2026-10-14; \"legally authorized to work in the US without sponsorship\". Developer - IT and Software Developer - Customer Care need 2+ yrs or ECDLP, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

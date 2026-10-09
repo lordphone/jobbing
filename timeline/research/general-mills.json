@@ -1,7 +1,5 @@
 {
   "company": "General Mills",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -20,10 +18,12 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history for this company; no last-cycle date found",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
   "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
-  "evidence": "Workday full board 2026-10-07 (363 postings): Digital & Technology Associate rotational program (Minneapolis HQ) live, canApply true, no end date, 'will not sponsor applicants... for work visas'. Other tech roles are Powai Mumbai or senior. Rotational, not SWE-only.",
-  "confidence": "high"
+  "evidence": "Workday full board (365) re-read 2026-10-08 and posting API: D&T Associate - Campus Recruiting (Minneapolis) live, canApply, no end date, 'will not sponsor... work visas'. Rotational program incl. Data/Platform/ML Engineer roles; other tech roles are Mumbai or senior.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null
 }

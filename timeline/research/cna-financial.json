@@ -1,15 +1,15 @@
 {
   "company": "CNA Financial",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'cna' shows only closed data-analyst roles 2026-05, no SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history 'cna': only closed data-analyst roles 2026-05, no SWE",
   "jobs_page": "https://cna.wd1.myworkdayjobs.com/cna_Careers",
   "jobs_spec": "wd:cna/wd1/cna_Careers",
-  "evidence": "Workday cna_Careers 2026-10-07 (133 postings, full): Technology Internship Program tracks are internships; 2027 Claim Trainee and underwriting associates are non-SWE; Business Intelligence Developer is a Tableau/SQL reporting role; AI/software/data engineer roles are Senior/Principal. No entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday cna_Careers (134, full) 2026-10-08: Technology Internship Program is internship; software/AI/data roles Senior/Director; Actuarial Analyst June 2027 and claims/underwriting are non-SWE. No entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

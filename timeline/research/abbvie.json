@@ -1,15 +1,15 @@
 {
   "company": "AbbVie",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: 2024-08 New Grad 2025 Technical Early Talent Program (two cycles ago); nothing for Jul 2025-Jan 2026 except Business Technology Solutions Extern (not SWE)",
+  "last_cycle_basis": "tracker: 2024-08 New Grad 2025 Technical Early Talent Program (two cycles ago); nothing SWE-entry between Jul 2025-Jan 2026 (only a 2026 BTS Extern, 2025-11)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/AbbVie",
   "jobs_spec": "sr:AbbVie",
-  "evidence": "SmartRecruiters full list 2026-10-07 (1843): no entry SWE. Associate Engineer Technology II (HPC admin, 2 yrs), Associate Linux/DevSecOps (2-5 yrs) are infra. Associate Software Engineer I (Jul-Aug 2026) no longer listed.",
-  "confidence": "medium"
+  "evidence": "SmartRecruiters full list (1878) 2026-10-08: Associate Software Engineer I reqs (2026-07-29 Vernon Hills, 2026-08-11 North Chicago) now active=false, so closed. Live Associate Engineer Technology II (HPC software/CI-CD, Master's no exp), Associate Linux, Connected Factory, DevSecOps (4-5 yrs) judged infra/data, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

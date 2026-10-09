@@ -1,11 +1,10 @@
 {
   "company": "Wendy's",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
-      "title": "Engineer \u2013 Reliability & Configuration",
+      "title": "Engineer – Reliability & Configuration",
       "url": "https://www.wendys-talent.com/jobs/46088",
       "location": "Dublin, OH (remote work expected)",
       "opened": "2026-08-17",
@@ -14,16 +13,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'This entry level position will assist in the development, deployment and maintenance of configuration management programs'; asks 2+ years",
+      "level_basis": "'This entry level position will assist in the development, deployment and maintenance of configuration management programs'; requires BS CS or 4+ yrs, 2+ yrs experience; $74K-$126K",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history; no earlier new-grad posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.wendys-talent.com/jobs/categories/Information+Technology",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-07 (80, all read): Engineer - Reliability & Configuration still listed, says 'This entry level position' (config-management software, Ruby/PowerShell) but asks BS CS or 4+ yrs and 2+ yrs. Borderline, not a grad program; other tech roles are 3+ yrs, Lead, Manager.",
-  "confidence": "low"
+  "evidence": "Jibe API 2026-10-08 (80 jobs, all read): Reliability & Configuration engineer calls itself entry level (2+ yrs) but lists a mentoring duty, so borderline; Cloud Foundations needs 3+ yrs; others Lead/Manager. No grad program.",
+  "confidence": "low",
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

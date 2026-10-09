@@ -1,15 +1,42 @@
 {
   "company": "HeyGen",
-  "tier": 2,
-  "checked": "2026-10-07",
-  "status": "not_yet",
-  "postings": [],
+  "tier": 4,
+  "checked": "2026-10-08",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Backend Engineer - Infrastructure",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/4352234007",
+      "location": "Los Angeles, CA; San Francisco, CA; Palo Alto, CA; Toronto, ON, Canada",
+      "opened": "2024-04-17",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires '2+ years of experience working on scalable and performant systems'; no lead/mentor duties; pay $180,000-$240,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Research Engineer",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/4188314007",
+      "location": "Los Angeles, CA; Toronto, ON, Canada",
+      "opened": "2023-12-28",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires Master's or PhD and '1-3 years of experience in machine learning and computer vision'; no senior duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2024-10-22",
   "last_cycle_basis": "tracker: Software Engineer - University Graduate first seen 2024-10-22; only a Data Scientist - New Graduate (non-SWE, LA) seen 2025-10-16 last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/heygen",
   "jobs_spec": "gh:heygen",
-  "evidence": "Greenhouse board (22, full) screened 2026-10-07: SWE roles ask 2-4+ yrs or specialist skills, pay $180K-$240K; Applied AI Engineer asks 2+ yrs, left out. No new-grad SWE live; one was posted Oct 2024.",
-  "confidence": "medium"
+  "evidence": "gh:heygen full board 2026-10-08 (21): no new-grad track. Two long-running unlabeled roles ask only 1-3 / 2+ yrs (counted, borderline, high pay); other SWE roles ask 3-4+ yrs or specialist skills. No explicit new-grad language.",
+  "confidence": "low"
 }

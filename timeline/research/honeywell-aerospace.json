@@ -1,7 +1,7 @@
 {
   "company": "Honeywell Aerospace",
-  "tier": 8,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -11,8 +11,8 @@
       "opened": "2026-08-31",
       "date_source": "oracle posted",
       "deadline": "estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)",
-      "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
-      "live_verified": "browser",
+      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -24,7 +24,7 @@
       "opened": "2026-08-31",
       "date_source": "oracle posted",
       "deadline": "estimated 2026-10-10 (posting says application period ~40 days from 2026-08-31, may be extended)",
-      "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
+      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -37,6 +37,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/jobs",
   "jobs_spec": "oracle:icfcjb.fa.ocs.oraclecloud.com/Aerospace",
-  "evidence": "Oracle API + browser 2026-10-07: Recent Grad 2027 SWE (120524) shows Apply Now; IS/Cyber/Data Science (120511) via API. Both say no sponsorship, no citizenship text. Sibling 120265 and SWE I Clearwater 125642 require US citizen/person (excluded). Honeywell Building Automation SWE I Duluth (157925) is a different business, not counted.",
+  "evidence": "Oracle API 2026-10-08: Recent Grad 2027 SWE (120524) and IS/Cyber/Data Science (120511) live, no sponsorship, no citizenship text. Siblings 120265 (SWE) and Software Engineer I Clearwater 125642 require US person/citizen (excluded). Advanced SWE roles need 4-5+ yrs.",
   "confidence": "high"
 }

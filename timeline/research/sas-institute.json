@@ -1,11 +1,35 @@
 {
   "company": "SAS Institute",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {"title": "Software Developer (Emerging Careers) - Generative AI", "url": "https://globalcareers-sas.icims.com/jobs/42297/job", "location": "Cary, NC", "opened": "2026-09-29", "date_source": "page text (iCIMS posted date)", "deadline": null, "grad_window": null, "live_verified": "browser", "level": "new-grad title", "level_basis": null, "no_sponsorship": true},
-    {"title": "C Software Developer (Emerging Careers)", "url": "https://globalcareers-sas.icims.com/jobs/42286/job", "location": "Cary, NC", "opened": "2026-08-03", "date_source": "page text (iCIMS posted date)", "deadline": null, "grad_window": null, "live_verified": "browser", "level": "new-grad title", "level_basis": null, "no_sponsorship": true}
+    {
+      "title": "Software Developer (Emerging Careers) - Generative AI",
+      "url": "https://globalcareers-sas.icims.com/jobs/42297/job",
+      "location": "Cary, NC",
+      "opened": "2026-09-29",
+      "date_source": "page text (iCIMS posted date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "C Software Developer (Emerging Careers)",
+      "url": "https://globalcareers-sas.icims.com/jobs/42286/job",
+      "location": "Cary, NC",
+      "opened": "2026-08-03",
+      "date_source": "page text (iCIMS posted date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    }
   ],
   "last_cycle_opened": "2025-11-07",
   "last_cycle_basis": "jobs.py history tracker first seen: Software Developer - Emerging Career, Morrisville NC (careers-sas.icims.com/jobs/39730)",
@@ -13,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://globalcareers-sas.icims.com/jobs/search?ss=1&searchCategory=95184",
   "jobs_spec": null,
-  "evidence": "Read all 12 pages of iCIMS list via curl 2026-10-07. Two US Emerging Careers developer postings load with Apply Now (posting says no sponsorship now or future). Emerging Careers SDET (42342, Cary) left out as test role. Other US dev roles senior or Pune/Glasgow.",
+  "evidence": "Browser pane read all 12 pages of iCIMS list (211 jobs) 2026-10-08. Two US Emerging Careers developer postings (42297 asks 2 yrs; 42286) load, no sponsorship. Emerging Careers SDET (42342) left out as test role. Other US dev roles senior (5+ yrs); Associate SWE is Glasgow.",
   "confidence": "high"
 }

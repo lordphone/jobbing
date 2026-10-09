@@ -1,7 +1,7 @@
 {
   "company": "Agility Robotics",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -19,11 +19,11 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'agility rob' found no new-grad SWE matches; tracker shows only a Mechanical Engineer posting (non-SWE) closed 2026-06-16.",
+  "last_cycle_basis": "jobs.py history 'agility': only a Mechanical Engineer posting (non-SWE, 2026-06-16); no new-grad SWE in 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/agilityrobotics",
   "jobs_spec": "gh:agilityrobotics",
-  "evidence": "Greenhouse full board (77) and boards-api posting text 2026-10-07: only entry-level SWE is Robotics Software Engineer I/II, Salem OR, 2026-10-02; requires current US work authorization, no sponsorship wording. Everything else senior/staff or non-software. Borderline: I/II title, 2+ yrs.",
+  "evidence": "Greenhouse full board (77) and posting text re-read 2026-10-08: only entry-level SWE is Robotics Software Engineer I/II, Salem OR (onsite), first published 2026-10-02. All other engineering roles senior/staff or non-software. Borderline: I/II title, 2+ yrs.",
   "confidence": "medium"
 }

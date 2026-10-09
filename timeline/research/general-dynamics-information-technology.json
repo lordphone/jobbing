@@ -1,16 +1,16 @@
 {
   "company": "General Dynamics Information Technology (GDIT)",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [],
-  "last_cycle_opened": "2025-10-07",
-  "last_cycle_basis": "tracker first seen 2025-10-07: Software Developer Associate - TS/SCI w/Poly (Annapolis Junction MD)",
+  "last_cycle_opened": "2025-10",
+  "last_cycle_basis": "Tracker first seen 2025-10-07: Software Developer Associate - TS/SCI w/Poly (Annapolis Junction MD)",
   "excluded_reason": "clearance",
   "no_sponsorship": false,
   "jobs_page": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
   "jobs_spec": "wd:gdit/wd5/External_Career_Site",
-  "jobs_spec_basis": "Saved lowercase site name returned not found; External_Career_Site lists 380 postings",
-  "evidence": "Workday board (380): screened Software Engineer 1 (RQ228969: 'Security clearance required: TS/SCI w/ polygraph', 'US Citizenship Required: Yes'), Software Developer, Junior DS Engineer, ITSM Associate (Secret): all 'US Citizenship Required: Yes'. Summer 2027 internships only otherwise.",
+  "jobs_spec_basis": "External_Career_Site lists 1238 postings; lowercase site name not found",
+  "evidence": "Workday full board 2026-10-08 (1238). Entry-labeled SWE/ITSM/Junior DS roles each say 'US Citizenship Required: Yes' plus Secret or TS/SCI (e.g. Software Engineer 1 RQ222853, ITSM Integration Engineer Associate RQ227799). Platform/Software Engineer: 'only U.S. citizens are eligible'.",
   "confidence": "high"
 }

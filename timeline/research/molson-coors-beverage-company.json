@@ -1,15 +1,15 @@
 {
   "company": "Molson Coors Beverage Company",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no last-cycle posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.molsoncoors.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom careers.molsoncoors.com full listing paged 2026-10-07 (215 jobs): software hits are Manager Software Engineering, Data Platform Manager. IT Rotational Program Associate (Milwaukee) is IT program/SAP rotation, not SWE; no entry SWE.",
-  "confidence": "medium"
+  "evidence": "Phenom widgets API full board (220 jobs) read 2026-10-08: only IT-entry role is IT Rotational Program Associate (Milwaukee), which is IT program coordination (Jira, Power BI, SAP), not software engineering; other tech are managers. No entry SWE.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-08",
+  "excluded_reason": null,
+  "postings": [],
+  "no_sponsorship": false
 }

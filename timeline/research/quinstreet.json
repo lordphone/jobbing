@@ -1,7 +1,5 @@
 {
   "company": "QuinStreet",
-  "tier": 9,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
@@ -24,6 +22,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/quinstreet",
   "jobs_spec": "gh:quinstreet",
-  "evidence": "Greenhouse API 2026-10-07 (29, full): Algorithms Engineer asks 2 yrs, no senior duties or level, so counted as unlabeled (earlier file called it mid-level). Text: 'authority to work permanently in the U.S.'. Entry-level SWE titles closed; others senior/India.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-08 (29, full) and detail: Algorithms Engineer still listed; asks 2 yrs, no senior duties, so unlabeled entry-level. Text: 'authority to work permanently in the U.S.'. Other eng roles senior or Pune.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

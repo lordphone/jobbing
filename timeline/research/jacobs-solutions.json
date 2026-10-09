@@ -1,15 +1,40 @@
 {
   "company": "Jacobs Solutions",
-  "tier": 10,
+  "tier": 5,
   "status": "excluded",
-  "excluded_reason": "citizenship",
   "postings": [
     {
       "title": "Entry Level Software Engineer",
       "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Entry-Level-Software-Engineer/44217",
       "location": "Nashua, NH",
       "opened": "2026-08-24",
-      "date_source": "page text \"Job posted on August 24, 2026\"",
+      "date_source": "page text (Job posted on August 24, 2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Level Software Engineer",
+      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Associate-Level-Software-Engineer/46049",
+      "location": "Nashua, NH",
+      "opened": "2026-09-29",
+      "date_source": "page text (Job posted on September 29, 2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Software Developer",
+      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Junior-Software-Developer/44539",
+      "location": "Herndon, VA",
+      "opened": "2026-08-29",
+      "date_source": "page text (Job posted on August 29, 2026)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -20,10 +45,11 @@
   ],
   "last_cycle_opened": "2025-08-07",
   "last_cycle_basis": "tracker first seen: Software Engineer, Entry, Kennedy Space Center FL (jacobs.taleo.net ADV000B3R)",
+  "excluded_reason": "citizenship",
   "jobs_page": "https://careers.jacobs.com/en_US/careers/SearchJobs/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: Entry Level Software Engineer (Nashua) and Associate Level Software Engineer (Nashua, 2026-09-29) both say \"Must be a US Citizen\" and need DoD Secret clearance; Junior Software Developer (Chantilly, BlackLynx) needs TS/SCI. Other software roles are mid/senior (3+ to 5+ yrs).",
+  "evidence": "Browser 2026-10-08: Entry Level and Associate Level Software Engineer (Nashua) say 'Must be a US Citizen' and need DoD Secret; Junior Software Developer (Herndon) says 'TS/SCI Clearance required to start'. 'entry level' search otherwise shows civil/environmental/electrical roles.",
   "confidence": "high",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "no_sponsorship": false
 }

@@ -1,6 +1,6 @@
 {
   "company": "Booz Allen Hamilton",
-  "tier": 10,
+  "tier": 5,
   "status": "excluded",
   "postings": [
     {
@@ -49,8 +49,8 @@
   "jobs_page": "https://bah.wd1.myworkdayjobs.com/bah_jobs",
   "jobs_spec": "wd:bah/wd1/bah_jobs",
   "jobs_spec_basis": "jobs.py board says not found (huge board); Workday cxs search API works directly",
-  "evidence": "Workday cxs 2026-10-07, canApply true: Full-Stack Developer and Data Engineer (Huntsville) quote 'Ability to obtain a Top Secret clearance'; Software Developer (McLean/Crane) 'Ability to obtain a Secret clearance'. Junior SWE roles also cleared defense.",
+  "evidence": "Workday bah_jobs (2000, full) and Confidential site 2026-10-08: University Full-Stack/Data Engineer (Huntsville) quote 'Ability to obtain a Top Secret clearance'; University Software Developer (McLean/Crane) 'Ability to obtain a Secret clearance'. Junior SWE roles also cleared.",
   "confidence": "high",
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "no_sponsorship": false
 }

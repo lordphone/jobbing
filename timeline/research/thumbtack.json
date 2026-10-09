@@ -1,15 +1,15 @@
 {
   "company": "Thumbtack",
-  "tier": 9,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history of a new-grad SWE posting found",
+  "last_cycle_basis": "unknown; only tracker entry is Software Engineer - AI/ML Infrastructure (2026-05-04), which asks 1 to 3 years, not new grad",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/thumbtack",
   "jobs_spec": "ashby:thumbtack",
-  "evidence": "Ashby API 2026-10-07 (full board): eng roles are Senior/Staff/Manager. AI/ML Infra SWE (US) asks '1 to 3 years' and Full-Stack AI Platform asks 3+; left out as not clearly entry-level. No new-grad program.",
-  "confidence": "medium"
+  "evidence": "Ashby API 2026-10-08 (59, full): engineering roles are Senior/Staff/Manager/II. AI/ML Infra SWE (US) asks '1 to 3 years' and Full-Stack AI Platform asks '3+ years': not counted. No early-career program.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

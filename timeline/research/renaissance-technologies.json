@@ -1,17 +1,17 @@
 {
   "company": "Renaissance Technologies",
-  "tier": 4,
+  "tier": 1,
   "status": "open",
   "postings": [
     {
       "title": "Data Programmer",
       "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=dataProgrammer",
       "location": "East Setauket, NY",
-      "opened": "on or before 2026-10-07",
+      "opened": "on or before 2026-10-08",
       "date_source": "page text (evergreen, no date shown)",
       "deadline": null,
       "grad_window": "None stated",
-      "live_verified": "api",
+      "live_verified": "no",
       "level": "unlabeled",
       "level_basis": "degree plus 'outstanding academic record'; no years of experience required",
       "no_sponsorship": false
@@ -23,7 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.rentec.com/Careers.action?jobs=true",
   "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-07: 16 evergreen roles; Data Programmer shows Apply Now, requires degree, outstanding academic record, C/C++17; no years, citizenship or sponsorship line (Real-Time Trading Programmer also none). Not labeled new grad; judgment call.",
+  "evidence": "WebFetch 2026-10-08: 14 evergreen roles; Data Programmer shows Apply Now, degree + outstanding academic record, C/C++17; no years, citizenship or sponsorship text (a tracker tags it citizenship; page shows none). Not labeled new grad; judgment call.",
   "confidence": "low",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

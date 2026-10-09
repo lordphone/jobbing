@@ -1,6 +1,6 @@
 {
   "company": "True Anomaly",
-  "tier": 8,
+  "tier": 4,
   "status": "excluded",
   "postings": [
     {
@@ -93,6 +93,19 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I to III, Digital Engineering",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
+      "location": "Denver, CO; Long Beach, CA",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "I-to-III range includes level I",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-26",
@@ -101,7 +114,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/trueanomalyinc",
   "jobs_spec": "gh:trueanomalyinc",
-  "evidence": "Greenhouse API (205, full) 2026-10-07, detail read: postings say 'U.S. Citizen and eligible for DoD Secret or TS/SCI clearance' / 'U.S. Citizen (required for facility access and government contracts)'; Data Engineer I: ITAR U.S. person and 'unable to provide visa sponsorship'. Also SWE I to III Digital Engineering (2026-10-06), US citizen or LPR.",
+  "evidence": "Greenhouse API (207, full) 2026-10-08: SWE I New Grad postings require 'U.S. Citizen and eligible for DoD Secret or TS/SCI clearance'; ITAR language on others. Excluded by citizenship.",
   "confidence": "high",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

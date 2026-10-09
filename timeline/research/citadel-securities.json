@@ -1,10 +1,11 @@
 {
   "company": "Citadel Securities",
-  "tier": 4,
+  "tier": 1,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer \u2013 University Graduate (US)",
+      "title": "Software Engineer – University Graduate (US)",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
       "location": "New York, NY; Miami, FL",
       "opened": "on or before 2026-07-06",
@@ -18,12 +19,11 @@
     }
   ],
   "last_cycle_opened": "2025-07-05",
-  "last_cycle_basis": "jobs.py history: Citadel Securities University Graduate roles first seen 2025-07-05 (tracker).",
+  "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-05 for prior cycle's University Graduate SWE posting",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.citadelsecurities.com/careers/open-opportunities/",
   "jobs_spec": null,
-  "evidence": "2026-10-07 browser: read all 9 pages (82 roles) of open-opportunities. Software Engineer - University Graduate (US) page loads with application form, NY/Miami, BS/MS/PhD CS, no class year or deadline; sponsorship only a form question. Other US new-grad roles are PhD-only or quant trader.",
-  "confidence": "high",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Browser 2026-10-08: posting page loads with Start Application; bachelor's, master's or PhD CS, base $235K-$300K, no citizenship or sponsorship text, no deadline, rolling. Quantitative AI Technical Staff (Miami) reads research-level with no entry-level wording, left out.",
+  "confidence": "high"
 }

@@ -1,6 +1,6 @@
 {
   "company": "Hyundai Motor Group",
-  "tier": 8,
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -8,12 +8,12 @@
       "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Application-Developer-MI-48198/1391669800/",
       "location": "Superior Charter Township, MI",
       "opened": "2026-09-11",
-      "date_source": "page text",
+      "date_source": "page text (datePosted 2026-09-11)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires \"Bachelor's degree in computer science, software engineering\" and \"0-10 years of professional experience\"; no senior duties",
+      "level_basis": "requires \"0-10 years of professional experience\" (no minimum); Bachelor's CS; infotainment software development",
       "no_sponsorship": false
     }
   ],
@@ -23,7 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-americas.hyundai.com/hatci/",
   "jobs_spec": null,
-  "evidence": "HATCI careers-americas full list read over HTTP 2026-10-07 (108): Infotainment Application Developer live with Apply now (0-10 yrs). Embedded SW Integration needs 3+ yrs; AI Control Systems 1-7 yrs research role; IT (AI) Strategy not SWE. HAEA search found only 3+ yr roles.",
+  "evidence": "HATCI careers-americas full list (109) read over HTTP 2026-10-08: Infotainment Application Developer live with Apply now (0-10 yrs, no minimum). Embedded SW Integration, ECU Design 3+ yrs; AI Control Systems 1-7 yrs research role; IT (AI) Strategy 5+ yrs; Infotainment Engineer I (Irvine) is quality investigation, not SWE. Affiliates (AutoEver America, Motional, 42dot) not checked.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

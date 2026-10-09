@@ -1,11 +1,35 @@
 {
   "company": "C3.ai",
-  "tier": 2,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {"title": "Forward Deployed Engineer, New Grad 2027", "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002", "location": "Redwood City, CA", "opened": "2026-09-14", "date_source": "greenhouse first_published", "deadline": null, "grad_window": "Dec 2026 or Summer/Fall 2027", "live_verified": "api", "level": "new-grad title", "level_basis": null, "no_sponsorship": false},
-    {"title": "Platform Full-Stack Engineer, New Grad 2027", "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002", "location": "Redwood City, CA", "opened": "2026-09-14", "date_source": "greenhouse first_published", "deadline": null, "grad_window": "Summer/Fall 2027", "live_verified": "api", "level": "new-grad title", "level_basis": null, "no_sponsorship": false}
+    {
+      "title": "Forward Deployed Engineer, New Grad 2027",
+      "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+      "location": "Redwood City, CA",
+      "opened": "2026-09-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Dec 2026 or Summer/Fall 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Platform Full-Stack Engineer, New Grad 2027",
+      "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "location": "Redwood City, CA",
+      "opened": "2026-09-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "Summer/Fall 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
   ],
   "last_cycle_opened": "2024-09-25",
   "last_cycle_basis": "tracker: generic SWE postings first seen 2024-09-25; no explicit 2025-cycle new-grad title found",
@@ -13,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/c3iot",
   "jobs_spec": "gh:c3iot",
-  "evidence": "Greenhouse board (92, full) and boards-api posting content 2026-10-07: two live New Grad 2027 postings in Redwood City, published 2026-09-14. 'Software Engineer, Full Stack - Applications' needs 3+ yrs, excluded. No citizenship, sponsorship or deadline text.",
+  "evidence": "Greenhouse gh:c3iot 2026-10-08 (90, full) and boards-api text: two live New Grad 2027 postings in Redwood City, published 2026-09-14. Software Engineer, Full Stack - Applications needs 3+ yrs, not counted. No citizenship, sponsorship or deadline text.",
   "confidence": "high"
 }

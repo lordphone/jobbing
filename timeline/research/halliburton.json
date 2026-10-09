@@ -1,15 +1,15 @@
 {
   "company": "Halliburton",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "on or before 2026-05-19",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer Early Career' (Houston, Landmark) and Calgary equivalent tracker-listed 2026-05-19; Houston page said position filled",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": "2026-05-19",
+  "last_cycle_basis": "tracker/jobs.py history: Software Engineer Early Career (Landmark, Houston TX) first seen 2026-05-19, now closed; earlier cycle timing unknown",
   "jobs_page": "https://jobs.halliburton.com",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07 jobs.halliburton.com 'software' (US, 35), 'early career' (164), 'graduate', 'developer': US software roles Senior/Principal Landmark; Associate Software Engineer only Abingdon UK (Sep 17). No live US entry SWE.",
-  "confidence": "high"
+  "evidence": "Browser/fetch of jobs.halliburton.com 2026-10-08 (queries software, developer, early career, graduate, entry level, data engineer, ML; US and Canada): US software roles are Senior/Principal/Advisor; Associate Software Engineer is Abingdon UK only; Calgary Landmark roles are not Toronto/Vancouver. Houston Early Career SWE (May 2026) is gone.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,8 +1,21 @@
 {
   "company": "WHOOP",
-  "tier": 9,
+  "tier": 4,
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer I (Backend)",
+      "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133",
+      "location": "Boston, MA",
+      "opened": "2026-07-01",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Level I; backend experience via 'internship, co-op, or academic project' acceptable; $105,000 - 145,000",
+      "no_sponsorship": false
+    },
     {
       "title": "Android Engineer I",
       "url": "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173",
@@ -13,7 +26,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'In this entry-level role'; '0-2 years of professional experience in Android development (internship or academic experience accepted)'; $105,000-145,000",
+      "level_basis": "'In this entry-level role'; '0-2 years of professional experience (internship or academic experience acceptable)'; $105,000-145,000",
       "no_sponsorship": false
     },
     {
@@ -26,17 +39,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'ideal for an early-career engineer'; '0 to 2 years of professional experience in frontend or full stack software development'; $105,000-145,000",
+      "level_basis": "'0 to 2 years of professional experience in frontend or full stack software development, including internships'; $105,000 - $145,000",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2024-08-22",
-  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Boston (2024 cycle; tracker also shows SWE 1 / Android 1 roles Oct 2025 - Jan 2026)",
+  "last_cycle_opened": "2025-10-30",
+  "last_cycle_basis": "tracker first-seen: Android Engineer 1 - Growth, Boston (jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f); 2024 cycle had 'New Grad: Software Engineer' 2024-08-22",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/whoop",
   "jobs_spec": "ashby:whoop",
-  "evidence": "Ashby API (157, full) 2026-10-07: Android Engineer I and SWE I (Frontend, AI Platform) live, 0-2 yrs. SWE I (Backend, 2026-07-01) says 'immediate new hire' and sends Winter 2026/Spring 2027 grads to a New Grad posting, which is no longer on the board (deadline 2026-10-04), so Backend I omitted. Not labeled new grad.",
+  "evidence": "Ashby API 2026-10-08 (157, full): SWE I (Backend), Android Engineer I, SWE I (Frontend, AI Platform) live, entry-level, not labeled new grad. Backend I says Winter 2026/Spring 2027 grads should use a separate New Grad posting (8aadc0e4...); browser shows 'Job not found', so it is gone. Other roles II/Senior.",
   "confidence": "medium",
-  "checked": "2026-10-07"
+  "checked": "2026-10-08"
 }

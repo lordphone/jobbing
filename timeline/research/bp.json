@@ -1,15 +1,15 @@
 {
   "company": "bp",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history 'bp': US graduate postings Jun-Aug 2026 are trading/shipping and subsurface engineering only; no SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers",
   "jobs_spec": "wd:bpinternational/wd3/bpEarlyCareers",
-  "evidence": "Workday bpEarlyCareers (11, full) 2026-10-07: US grad role is One Engineering Process & Safety (Blaine WA); SWE graduate roles (Technology Data & AI, Enterprise Tech) are Kuala Lumpur only. Main bpCareers board (302, full) has no US software/entry tech roles.",
-  "confidence": "medium"
+  "evidence": "Workday bpEarlyCareers (7, full) 2026-10-08: SWE-type graduate roles (Technology Data & AI, Enterprise Tech) are Kuala Lumpur only; US roles are internship/other. No US entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-08",
+  "tier": 5,
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

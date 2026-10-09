@@ -1,7 +1,7 @@
 {
   "company": "CodeSignal",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "Gem job board API for codesignal returns an empty list 2026-10-07; codesignal.com/careers links only to that board and mentions no university or new-grad program. About 125 employees.",
+  "evidence": "Gem board fetch returned no listings 2026-10-08; careers page links only to that board. Small company; no entry-level SWE found.",
   "confidence": "high"
 }

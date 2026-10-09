@@ -1,21 +1,47 @@
 {
   "company": "Cadence",
-  "tier": 7,
-  "checked": "2026-10-07",
+  "tier": 3,
   "status": "leftover_2026",
   "postings": [
-    {"title": "Software Engineer (new college grad Dec 2026)", "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738", "location": "San Jose, CA",
-     "opened": "on or before 2026-09-03", "date_source": "workday startDate (postedOn 30+ days)",
-     "deadline": null, "grad_window": "New college grad, December 2026 grad date ('would be ideal'); MS or BS", "live_verified": "api",
-     "level": "new-grad title", "level_basis": null, "no_sponsorship": false},
-    {"title": "Adams Application Software Developer (Recent Grad 2026)", "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2", "location": "Livonia, MI",
-     "opened": "on or before 2026-07-31", "date_source": "workday startDate",
-     "deadline": null, "grad_window": "Recent 2026 grad, 0-2 years", "live_verified": "api",
-     "level": "new-grad title", "level_basis": null, "no_sponsorship": false},
-    {"title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)", "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2", "location": "Livonia, MI",
-     "opened": "on or before 2026-07-31", "date_source": "workday startDate",
-     "deadline": null, "grad_window": "Recent 2026 grad, 0-2 years", "live_verified": "api",
-     "level": "new-grad title", "level_basis": null, "no_sponsorship": false}
+    {
+      "title": "Software Engineer (new college grad Dec 2026)",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
+      "location": "San Jose, CA",
+      "opened": "on or before 2026-09-03",
+      "date_source": "workday startDate (postedOn 30+ days)",
+      "deadline": null,
+      "grad_window": "New college grad, December 2026 grad date; MS or BS",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Adams Application Software Developer (Recent Grad 2026)",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736",
+      "location": "Livonia, MI",
+      "opened": "on or before 2026-07-31",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Recent 2026 grad",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+      "location": "Livonia, MI",
+      "opened": "on or before 2026-07-31",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Recent 2026 grad",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
   ],
   "last_cycle_opened": "2025-12-09",
   "last_cycle_basis": "jobs.py history: Software Development Engineer (new college grad) Burlington MA first seen 2025-12-09 (earlier: C++ SWE NCG Burlington 2025-06-09, Boston 2025-06-27)",
@@ -24,6 +50,7 @@
   "jobs_page": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
   "jobs_spec": "wd:cadence/wd1/External_Careers",
   "jobs_spec_basis": "new-grad roles live on sibling Workday sites Univ_Careers and University_Talent_NCG (cxs API), not External_Careers",
-  "evidence": "Workday cxs 2026-10-07 (External_Careers 604, Univ_Careers 18, NCG 3): only new-grad roles are titled Dec 2026 / Recent Grad 2026, so leftover under the grad-window rule (borderline: first posted Sep 2026). Software Engineer II roles are mid-level or unclear. Changed from open to leftover_2026 by that rule.",
-  "confidence": "medium"
+  "evidence": "Workday 2026-10-08 (External_Careers 619, Univ_Careers 18, University_Talent_NCG 3): only new-grad roles are titled Dec 2026 / Recent Grad 2026, so leftover under the grad-window rule (borderline: posted Sep 2026). Software Engineer II roles are mid-level/unclear; Burlington, Ontario early-career role is not Toronto/Vancouver.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

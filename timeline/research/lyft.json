@@ -1,7 +1,7 @@
 {
   "company": "Lyft",
   "tier": 3,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires Bachelor's and 6 months of experience; duties: help design/build, assist with roadmaps",
+      "level_basis": "requires only '6 months of experience in job offered, software development, or related occupation'; $136,000-$162,000; no senior duties",
       "no_sponsorship": false
     },
     {
@@ -27,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires Master's and 2 years of experience; no lead or mentor duties",
+      "level_basis": "requires master's and '2 years of pre- or post-academic experience'; $149,240-$192,000; no senior duties",
       "no_sponsorship": false
     }
   ],
@@ -37,6 +37,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lyft",
   "jobs_spec": "gh:lyft",
-  "evidence": "gh:lyft (191, full) 2026-10-07: generic Software Engineer SF and Seattle (2026-09-02) require only 6 months / 2 yrs, no senior duties, so counted as unlabeled; PERM-style wording, not labeled new grad. Toronto SWEs ask 1-5+ yrs; NY/SF MLE lead design; Montreal intern. Status changed from not_yet; unlabeled rule applied. Listed on API, not opened in browser.",
+  "evidence": "gh:lyft (191, full) 2026-10-08: generic Software Engineer SF and Seattle (2026-09-02) require only 6 months / 2 yrs, no senior duties, counted as unlabeled; PERM-style wording, not labeled new grad. Toronto SWEs ask 1-5+ yrs (Planned Pricing 1-3); Montreal role is an intern. Listed on API, not opened in browser.",
   "confidence": "medium"
 }

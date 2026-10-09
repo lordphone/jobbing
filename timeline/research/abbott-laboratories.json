@@ -1,7 +1,6 @@
 {
   "company": "Abbott Laboratories",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -9,21 +8,22 @@
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
       "location": "Plymouth, MN",
       "opened": "2026-10-07",
-      "date_source": "workday startDate / postedOn Posted Today",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Associate Software Engineer; required: bachelor's CS/SE/CE/EE and 0-2 years experience",
+      "level_basis": "Associate Software Engineer; bachelor's required, 0-2 years of related work experience",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker history: Software Engineer 1 - Digital Health Engineering, Sylmar CA, first seen 2025-10-02 (more Software Engineer 1 postings Feb-Mar 2026)",
+  "last_cycle_basis": "tracker: Software Engineer 1 - Digital Health Engineering (Sylmar, CA) first seen 2025-10-02",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.jobs.abbott/us/en/search-results",
   "jobs_spec": "wd:abbott/wd5/abbottcareers",
-  "evidence": "Workday CXS board 2026-10-07 (2000 postings, full) + posting read: Associate Software Engineer (Plymouth MN, Structural Heart) posted 10-07, Apply live, 0-2 yrs. Other US software roles need 2+ to 5+ yrs, test/verification, or are senior. Status changed from not_yet: new posting today.",
-  "confidence": "high"
+  "evidence": "Workday abbottcareers board (320) plus CXS searches on abbottcareers and abbottcareers2 2026-10-08: Associate Software Engineer (Plymouth MN) posted 10-07, canApply true, 0-2 yrs. Software Engineer Irving needs BS+3, Software Integration Engineer is testing, others II/Sr/Staff; interns/co-ops only otherwise.",
+  "confidence": "high",
+  "checked": "2026-10-08"
 }

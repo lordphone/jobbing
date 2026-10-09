@@ -1,15 +1,29 @@
 {
   "company": "3M",
-  "tier": 11,
-  "checked": "2026-10-07",
-  "status": "no_program_found",
-  "postings": [],
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI/Machine Learning Engineer (posting text: AI Software Developer, Early Career)",
+      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/AI-Machine-Learning-Engineer_R01170506",
+      "location": "Maplewood, MN",
+      "opened": "2026-09-04",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'As an AI Software Developer, Early Career'; 'clearly scoped assignments' under senior researchers; requires bachelor's (or HS + 5 yrs) but also lists 5 yrs Python/C++ programming ability and 3 yrs core SWE practices",
+      "no_sponsorship": true
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 entry SWE record found",
+  "last_cycle_basis": "unknown; no US Jul 2025-Jan 2026 entry SWE record found in tracker history",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://3m.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:3m/wd1/Search",
-  "evidence": "Workday 3M 2026-10-07 (699 postings, full): US software roles need 3-7 yrs (Full Stack/IoT 3+, AI/ML 5+, Platform/DevSecOps 7, Test Automation 7, FA&A Developer 3 yrs); only 'Graduate Engineer Trainee' is Pune, India; 2027 items are non-SWE/IT interns.",
-  "confidence": "medium"
+  "evidence": "Full Workday board read (700 postings) + posting text 2026-10-08. Only Early-Career-labeled software role: Maplewood AI/ML Engineer, though it lists 5 yrs programming (borderline, kept). Full Stack/IoT (3 yrs), Test Automation (7), Platform/DevSecOps, Sr roles not entry.",
+  "confidence": "low",
+  "checked": "2026-10-08"
 }

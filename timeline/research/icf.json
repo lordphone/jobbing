@@ -1,7 +1,7 @@
 {
   "company": "ICF",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
@@ -14,16 +14,16 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Junior; 'Citizenship is required'; 'active US Government required Security clearance'",
+      "level_basis": "Junior; requires 1 year of professional software development experience",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "Tracker last-cycle first seen 2025-09-25; ICF posted May/Dec 2025 grad SWE roles in Oct-Nov 2024 (tracker history)",
+  "last_cycle_basis": "Tracker history: Software Developer - Entry Level - Summer 2026, Reston, VA, first seen 2025-09-25",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site",
   "jobs_spec": "wd:icf/wd5/icfexternal_career_site",
-  "evidence": "Workday CXS 2026-10-07 (searched software/developer/engineer/data/junior/AI; jobs.py board returns not found): only entry SWE is Junior Software Developer (Adelphi MD) quoting 'Citizenship is required' plus clearance. Other SWE/data/Salesforce roles need 3-6+ yrs; several also require US citizenship.",
+  "evidence": "Workday full board 2026-10-08 (417). Only entry SWE: Junior Software Developer (Adelphi): 'U.S. Citizenship is required' plus clearance; Associate ServiceNow Developer needs Secret/TS. Other dev/data/AI roles ask 3-6+ yrs. Reston Junior Software Engineer (seen 2026-09-15) is gone.",
   "confidence": "high"
 }

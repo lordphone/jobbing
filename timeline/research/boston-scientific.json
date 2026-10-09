@@ -1,7 +1,7 @@
 {
   "company": "Boston Scientific",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-07",
@@ -10,7 +10,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://bostonscientific.eightfold.ai",
   "jobs_spec": "eightfold:bostonscientific.eightfold.ai/bostonscientific",
-  "evidence": "Eightfold pcsx 2026-10-07 (domain bostonscientific.com, 8 keyword sweeps): no US entry SWE. US software roles are Sr/III/Principal; Forward Deployment AI Engineer (Arden Hills) wants expert-level IC; Canada Co-op/New Grad are non-SWE; interns only. Earlier SWE I (Sept 2026) gone.",
-  "confidence": "medium",
-  "jobs_spec_basis": "board command fails with domain mismatch; pcsx works with domain bostonscientific.com"
+  "jobs_spec_basis": "board command fails with domain mismatch; pcsx works with domain bostonscientific.com",
+  "evidence": "Eightfold pcsx 2026-10-08 (domain bostonscientific.com, 8 keyword sweeps, 137 unique US results): no US entry SWE. Software roles are Sr/III/Principal/Manager; Forward Deployment AI Engineer (Arden Hills) is expert-level; interns/co-ops only. SWE I from Sept 2026 (tracker) is gone from board.",
+  "confidence": "medium"
 }

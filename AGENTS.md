@@ -22,4 +22,4 @@ This repo generates one-page LaTeX resumes from an experience bank.
 - He asks about new-grad hiring timelines ("is X hiring new grads yet", refreshing `timeline/`) → `.agents/skills/new-grad-timeline/SKILL.md`
 - He pastes an application question or asks for interview prep → `.agents/skills/answers/SKILL.md`
 - He asks for the full search (the job posting search on all companies, or refreshing all companies), or a scheduled task runs it → `.agents/skills/full-search/SKILL.md`
-- He asks for the top-tier search (the full search on tier 1–4 companies only) → `.agents/skills/top-tier-search/SKILL.md`
+- He asks for the top-tier search (the full search on tier 1–3 companies only) → `.agents/skills/top-tier-search/SKILL.md`

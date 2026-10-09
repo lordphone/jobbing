@@ -1,6 +1,7 @@
 {
   "company": "PathAI",
-  "tier": 2,
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -13,17 +14,16 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Level I title; requires BS or advanced degree in CS, no years stated; $96,750-$148,350",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "Tracker first seen 'Machine Learning Engineer 1/2/3' (Boston/NYC) https://www.pathai.com/careers/8062963002; SWE 1 Fullstack also seen 2026-03-17.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/pathai",
   "jobs_spec": "gh:pathai",
-  "evidence": "gh:pathai full board (14) 2026-10-07: Software Engineer I, Fullstack listed live (first published 2026-08-11), BS in CS, no sponsorship/deadline text. SDET asks 1-2 yrs (test role, not counted); other SWE/MLE roles II/III/Senior. Earlier 2026-10-06 browser check saw Apply Now.",
-  "confidence": "medium",
-  "checked": "2026-10-07",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:pathai full board (14), 2026-10-08: Software Engineer I, Fullstack live via API (first published 2026-08-11; BS in CS, 'some experience', $96,750-$148,350, no sponsorship text, no deadline). SDET (1-2 yrs, test role) and Implementation Engineer (2-5 yrs) not counted; rest II/III/Senior.",
+  "confidence": "medium"
 }

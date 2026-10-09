@@ -1,7 +1,6 @@
 {
   "company": "Cohesity",
-  "tier": 6,
-  "checked": "2026-10-07",
+  "tier": 4,
   "status": "closed",
   "postings": [
     {
@@ -12,7 +11,10 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser"
+      "live_verified": "no",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-14",
@@ -21,6 +23,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
   "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
-  "evidence": "Workday API 2026-10-07 (167 postings, full): no new-grad or entry SWE in US; US SWE only Sr Staff. Tracker New Grad posting (Santa Clara, 2026-08-10) absent from board and 'new grad' search returns none. Status unchanged from previous file.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-08 (169, full): no new-grad or entry SWE in US. Tracker-seen 'Software Engineer New Grad' (Santa Clara, 2026-08-10) is absent from the board; 'new grad' and 'graduate' searches return none; posting page returns 403/not found.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

@@ -116,7 +116,7 @@ postings = []  # one row per open posting; a company can have several
 for c in companies:
     cid = c['id']
     o, boards, a = p0.get(c['name'], EMPTY), p1.get(c['name'], []), agent.get(c['name'])
-    r = {'Company': c['name'], 'Tier': c['tier'], 'Status': 'unknown', 'Role': '', 'Link': '', 'Opened': '', 'Deadline': '', 'Areas': '',
+    r = {'Company': c['name'], 'Tier': c['tier'], 'Industry': c['industry'], 'Status': 'unknown', 'Role': '', 'Link': '', 'Opened': '', 'Deadline': '', 'Areas': '',
          'Last year opened': '', 'Expected open': '', 'Applied': applied_str(cid), 'Sponsorship': '', 'Notes': '',
          'Confidence': '', 'Source': '', 'Job board': '', 'Tracker lead': ''}
     posts_out = []  # (title, url, location, opened, deadline, level, no_sponsorship) for this company's open postings

@@ -1,12 +1,13 @@
 {
   "company": "STR (Systems & Technology Research)",
-  "tier": 8,
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
       "title": "Associate Software Reverse Engineer",
       "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703289006",
-      "location": "Woburn, MA",
+      "location": "Woburn, MA; Melbourne, FL",
       "opened": "2026-09-21",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -18,12 +19,11 @@
     }
   ],
   "last_cycle_opened": "2026-02-16",
-  "last_cycle_basis": "tracker first seen 2026-02-16 (from tracker_last_cycle)",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "tracker first seen 2026-02-16",
+  "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/systemstechnologyresearch",
   "jobs_spec": "gh:systemstechnologyresearch",
-  "evidence": "Greenhouse API 2026-10-07 (137): only entry SWE-type role is Associate Software Reverse Engineer, which says 'requires the ability to obtain an Active Top Secret (TS) security clearance, for which U.S. citizenship is needed'. Others are Lead/Senior/Principal.",
-  "confidence": "high",
-  "checked": "2026-10-07"
+  "evidence": "Greenhouse API 2026-10-08 (137, full): only entry role is Associate Software Reverse Engineer: 'requires the ability to obtain an Active Top Secret (TS) security clearance' with US citizenship needed. ML Engineer (BS+2 yrs) also at a cleared employer. Excluded.",
+  "confidence": "high"
 }

@@ -1,9 +1,22 @@
 {
   "company": "AIG (American International Group)",
-  "tier": 11,
-  "checked": "2026-10-07",
+  "tier": 5,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
+    {
+      "title": "2027 Early Careers: Analyst, Data Office: Data Engineering",
+      "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249",
+      "location": "Charlotte, NC; Atlanta, GA; New York, NY; Jersey City, NJ",
+      "opened": "2026-10-01",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-15",
+      "grad_window": "start July 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "2027 Early Careers: Analyst, Technology",
       "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640",
@@ -11,7 +24,7 @@
       "opened": "2026-09-18",
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
-      "grad_window": "within one year of completing degree",
+      "grad_window": "start July 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -24,20 +37,7 @@
       "opened": "2026-09-18",
       "date_source": "workday startDate",
       "deadline": "2026-10-31",
-      "grad_window": "within one year of completing degree",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "2027 Early Careers: Analyst, Data Office: Data Engineering",
-      "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249",
-      "location": "Charlotte, NC; Atlanta, GA; New York, NY; Jersey City, NJ",
-      "opened": "2026-10-01",
-      "date_source": "workday startDate",
-      "deadline": "2026-11-15",
-      "grad_window": "within one year of completing degree",
+      "grad_window": "start July 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -45,11 +45,11 @@
     }
   ],
   "last_cycle_opened": "2025-09-20",
-  "last_cycle_basis": "tracker: New Grad 2026 Technology Analyst, Charlotte NC / Jersey City NJ first seen 2025-09-20",
+  "last_cycle_basis": "tracker: New Grad 2026 Technology Analyst first seen 2025-09-20 (aig.wd1.myworkdayjobs.com)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://aig.wd1.myworkdayjobs.com/early_careers",
   "jobs_spec": "wd:aig/wd1/early_careers",
-  "evidence": "Workday early_careers board (53, full) 2026-10-07: three live 2027 Early Careers analyst postings (Technology, Gen AI Engineering, Data Engineering) read via detail API; start July 2027; closes 2026-10-31 / 2026-11-15; Technology wants prior internship; no citizenship/sponsorship limit seen. Data Science, BI not counted.",
+  "evidence": "Workday early_careers board 2026-10-08 (53, full): three live 2027 analyst postings (Technology, Gen AI Engineering, Data Engineering) read via detail API; start July 2027, deadlines Oct 31 / Nov 15. Gen AI Data Science and BI analyst not counted as SWE.",
   "confidence": "high"
 }

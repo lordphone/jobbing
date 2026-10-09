@@ -1,7 +1,7 @@
 {
   "company": "Deel",
-  "tier": 3,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.deel.com/careers/",
   "jobs_spec": null,
-  "evidence": "deel.com/careers listing data 2026-10-07 (268 roles; Ashby API lists 0): only US engineering role is Staff Engineer, Crypto; other engineering roles are senior or in LATAM/EMEA; no new-grad track.",
-  "confidence": "medium"
+  "evidence": "Careers page listing data 2026-10-08 (259 roles, apply links to jobs.deel.com Ashby): only US engineering role is Staff Engineer, Crypto; other eng roles senior or non-US; no early-career track.",
+  "confidence": "medium",
+  "jobs_spec_basis": "careers page embeds Ashby listings; apply links go to jobs.deel.com, API lists 0"
 }

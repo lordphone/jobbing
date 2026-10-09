@@ -1,7 +1,7 @@
 {
   "company": "National Hockey League (NHL)",
   "tier": 9,
-  "checked": "2026-10-07",
+  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
   "jobs_spec": null,
-  "evidence": "TeamWork NHL league-office board returns 403 to fetch 2026-10-07; web search shows league-office tech roles are Technical Product Manager, Senior Manager and arena ops, none entry SWE; team software jobs (Lightning, Panthers) are separate employers.",
-  "confidence": "medium"
+  "evidence": "TeamWork NHL league-office filter read in browser 2026-10-08 (13 jobs): only tech role is Director, Software Engineering (NYC); rest are production, legal, analytics, marketing. No entry SWE.",
+  "confidence": "high"
 }

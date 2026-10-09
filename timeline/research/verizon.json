@@ -1,20 +1,18 @@
 {
   "company": "Verizon",
-  "tier": 11,
-  "checked": "2026-10-07",
   "status": "open",
   "postings": [
     {
       "title": "Junior Data Security Engineer",
       "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1",
-      "location": "Alpharetta, GA; Remote (US) (posting says remote role)",
+      "location": "Alpharetta, GA",
       "opened": "2026-09-28",
       "date_source": "workday startDate",
       "deadline": "2026-10-28",
       "grad_window": null,
       "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Junior title; requires 'Bachelor's degree or one or more years of relevant work experience'; Python/.NET backend, data pipelines, MCP server",
+      "level": "unlabeled",
+      "level_basis": "Junior title; \"Bachelor's degree or one or more years of relevant work experience\"; backend Python/.NET data pipelines, under senior engineers",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +22,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
   "jobs_spec": "wd:verizon/wd12/verizon-careers",
-  "evidence": "Workday full board 2026-10-07 (1176 postings), canApply true, ends 2026-10-28. Junior Data Security Engineer is a backend/data-pipeline role needing 1+ yr. AI Workflow/AI Platform Engineer need 4+ yrs; Junior Network Security Engineer is Australia.",
-  "confidence": "medium"
+  "evidence": "Workday full board (1168) 2026-10-08, canApply true, ends 2026-10-28. Junior Data Security Engineer is backend/data-pipeline, 1+ yr. AI Workflow/Platform Engineer need 4+ yrs; Junior Network Security Engineer is Australia.",
+  "confidence": "medium",
+  "checked": "2026-10-08",
+  "tier": 5
 }

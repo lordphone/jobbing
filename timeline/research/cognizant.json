@@ -1,7 +1,6 @@
 {
   "company": "Cognizant",
-  "tier": 10,
-  "checked": "2026-10-07",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -12,18 +11,19 @@
       "date_source": "page text",
       "deadline": null,
       "grad_window": "start Oct/Nov 2026 or Jan/Feb 2027",
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "no years of experience stated; $65,000 salary; bachelor's or master's degree; start Oct/Nov 2026 or Jan/Feb 2027",
+      "level_basis": "no years of experience stated; $65,000 salary; bachelor's or master's degree in CS/data science/AI; new hires start Oct/Nov 2026 or Jan/Feb 2027",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has zero Cognizant entries; Entry-level Life Sciences engineer roles (Apr 2026) are not SWE",
+  "last_cycle_basis": "jobs.py history has zero Cognizant entries; no dated first-party record of last cycle's US entry SWE posting",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.cognizant.com/us-en/jobs/",
   "jobs_spec": null,
-  "evidence": "Posting 47777 re-opened 2026-10-07 (WebFetch): Apply now link present, published 2026-09-10, Dallas, $65k, no years stated, cannot sponsor. Entry level inferred from pay and start dates. Earlier entry SWE req 47256 was 404 on 10-06. Board search unavailable via fetch; other roles not enumerated.",
-  "confidence": "medium"
+  "evidence": "Posting 47777 re-read 2026-10-08 (WebFetch): Apply now present, published 2026-09-10, Dallas, $65k, no years stated, cannot sponsor. Entry level inferred from pay and start window. Board search blocked by Cloudflare check; full US list (~2150 jobs) not enumerated, so other entry roles may exist.",
+  "confidence": "medium",
+  "checked": "2026-10-08"
 }

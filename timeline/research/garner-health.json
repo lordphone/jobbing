@@ -1,7 +1,7 @@
 {
   "company": "Garner Health",
-  "tier": 3,
-  "checked": "2026-10-07",
+  "tier": 4,
+  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Recent graduate (Spring 2026) or expected graduation Fall 2026 or Spring 2027",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -24,6 +24,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/garnerhealth",
   "jobs_spec": "gh:garnerhealth",
-  "evidence": "gh:garnerhealth 2026-10-07 (75 postings, full): Associate Software Engineer (NYC) first published 2026-09-04, updated 2026-09-26, still listed; BS/MS grads Spring 2026 to Spring 2027; no deadline; 'unable to sponsor'. Other SWE roles are II/III/Senior/Staff. Associate Applied Scientist (Sep 11) is a science role, not counted.",
+  "evidence": "gh:garnerhealth 2026-10-08 (75, full): Associate Software Engineer (NYC) first published 2026-09-04, updated 2026-09-26, still listed with Apply in browser; BS/MS grads Spring 2026 to Spring 2027; no deadline; 'unable to sponsor'. Other SWE roles II/III/Senior/Staff. Associate Applied Scientist not counted.",
   "confidence": "high"
 }
