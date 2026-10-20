@@ -93,7 +93,7 @@ Hi [Name]! I'm a CMU master's student and just applied for [Company]'s [Role] ro
    - Keep the voice casual and human. Do not add polished filler ("I'd be thrilled", "leverage", "passionate"). Keep the closing sentence as written; it frames the note around respecting their time.
    - Use the role's short form if the posting title is long, for example "SWE New Grad" instead of "Software Engineer, New College Grad - 2027". Keep it recognizable. `[Role]` is followed by the word "role", so do not end it with "role".
    - If the JD has no job ID, drop ` ([Job ID])`. Do not invent one.
-   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. The CMU note has no `[Pitch]` and no `[Job ID]`; its fixed text is 258 characters. With the default pitch, the fixed text is 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters. So company + role get about 42 (CMU), and company + role + job ID get about 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Report each final count in the reply.
+   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. The CMU note has no `[Pitch]` and no `[Job ID]`; its fixed text is 258 characters. With the default pitch, the fixed text is 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters. So company + role get about 42 (CMU), and company + role + job ID get about 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Record each final count in `outreach.md`.
 
 10. Commit the new application: stage only this application's folder and `applications/TRACKER.md`, then commit with a message like `Add <Company> <Role> application`. Do not push unless asked.
 
@@ -105,21 +105,13 @@ Every run ends with a reply in this shape. Put the essentials first; detailed re
 ## <Company> — <Role short form> (<Job ID>)
 Resume: [Lordphone_Wen_Resume.pdf](applications/<slug>/Lordphone_Wen_Resume.pdf) — 1 page, <unused height> pt unused
 Tracker: row added (draft)
-
-### Outreach
-Call: <the call line from outreach.md>
-Search: [CMU alumni](<link>) · [UW alumni](<link>) · [<keyword>](<link>)
-
-**<Note type>** (<count> chars)<, optional if the call says so>
-```text
-<note>
-```
-(repeat for all four notes, recommended first)
+Outreach: [outreach.md](applications/<slug>/outreach.md)
 
 ### Flags
 - <anything he should know: no job ID, sponsorship or citizenship language, weak fit, verification problem>
 ````
 
 - Omit ` (<Job ID>)` in the heading when the JD has none.
+- Do not put the outreach notes, call, or search links in the reply. They stay in `outreach.md`. Note-length problems go in Flags.
 - Omit the Flags section when there is nothing to flag.
 - If a page-fill check failed or compilation is blocked, say so on the Resume line instead of claiming success.
