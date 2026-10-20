@@ -95,6 +95,8 @@ Hi [Name]! I'm a CMU master's student and just applied for [Company]'s [Role] ro
    - If the JD has no job ID, drop ` ([Job ID])`. Do not invent one.
    - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. The CMU note has no `[Pitch]` and no `[Job ID]`; its fixed text is 258 characters. With the default pitch, the fixed text is 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters. So company + role get about 42 (CMU), and company + role + job ID get about 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Report each final count in the reply.
 
+10. Commit the new application: stage only this application's folder and `applications/TRACKER.md`, then commit with a message like `Add <Company> <Role> application`. Do not push unless asked.
+
 ## Reply format
 
 Every run ends with a reply in this shape. Put the essentials first; detailed resume reasoning stays in `selection.md`, not the reply.
