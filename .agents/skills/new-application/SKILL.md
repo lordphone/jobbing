@@ -106,12 +106,13 @@ Every run ends with a reply in this shape. Put the essentials first; detailed re
 Resume: [Lordphone_Wen_Resume.pdf](applications/<slug>/Lordphone_Wen_Resume.pdf) — 1 page, <unused height> pt unused
 Tracker: row added (draft)
 Outreach: [outreach.md](applications/<slug>/outreach.md)
+Search: [CMU alumni](<link>) · [UW alumni](<link>) · [<keyword>](<link>)
 
 ### Flags
 - <anything he should know: no job ID, sponsorship or citizenship language, weak fit, verification problem>
 ````
 
 - Omit ` (<Job ID>)` in the heading when the JD has none.
-- Do not put the outreach notes, call, or search links in the reply. They stay in `outreach.md`. Note-length problems go in Flags.
+- Do not put the outreach notes or call in the reply; keep the Search links line. They stay in `outreach.md`. Note-length problems go in Flags.
 - Omit the Flags section when there is nothing to flag.
 - If a page-fill check failed or compilation is blocked, say so on the Resume line instead of claiming success.
