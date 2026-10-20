@@ -3,7 +3,7 @@ name: new-application
 description: >-
   Starts a new application from a job description: tailors a one-page LaTeX
   resume from inventory/, logs it in applications/TRACKER.md, and writes
-  LinkedIn outreach notes. Use when the user pastes a JD, a job posting URL,
+  a LinkedIn outreach note. Use when the user pastes a JD, a job posting URL,
   both, asks to generate or tailor a resume, or wants a new applications/
   folder for a company or role.
 ---
@@ -55,45 +55,22 @@ mv resume.pdf Lordphone_Wen_Resume.pdf
 
 8. Prepend a row to `applications/TRACKER.md` (newest first). Date = today (`YYYY-MM-DD`). Company and Role = the JD. Link = posting URL, or empty. Status = `draft`. Outreach = `—`. Folder = the slug. NB title = the printed NewsBreak title. Notes empty unless something is worth one clause. Do not duplicate a row for the same folder.
 
-9. Write LinkedIn outreach to `outreach.md` in the same folder. He looks for someone at every company, so every run writes all four notes. Each note goes on a connection request; he sends his resume later, so no note has a resume link.
+9. Write LinkedIn outreach to `outreach.md` in the same folder. He sends the same note to every contact (CMU alumni, UW alumni, people on the team, hiring managers), on a connection request. He sends his resume later, so the note has no resume link.
 
    `outreach.md` has, in this order:
-   - **Call:** one line saying which notes to send first and why. Big company (formal referral program, high applicant volume) → alumni referral first, non-alumni as backup, hiring-manager note optional. Startup or small team → hiring-manager note plus any alumni. Consultancy or mass hiring → alumni referral if one is easy to find; otherwise just apply. Referrals are never pointless, so no call says to skip outreach entirely.
    - **Search:** three LinkedIn people-search links, `https://www.linkedin.com/search/results/people/?keywords=<URL-encoded query>`, for `[Company] Carnegie Mellon`, `[Company] University of Wisconsin`, and `[Company] <team or role keyword from the JD>`.
-   - **Notes:** the four notes below, recommended ones first, each with its character count. Label any note the call marks optional.
+   - **Note:** the one note below, with its character count.
    - **Contacts:** the empty Contacts table from the `update-application` skill, which fills it in as he reaches out.
 
-   CMU alumni:
+   Always use this template, word for word except the placeholders:
 
 ```text
 Hi [Name]! I'm at CMU for my master's and applying for [Company]'s [Role] role. Would you be open to taking a look at my resume, and referring me if it seems like a fit? Kept it short out of respect for your time, but I'd love to chat more if you're open to it. Thanks!
 ```
 
-   UW–Madison alumni:
-
-```text
-Hi [Name]! Fellow Badger, now at CMU for my master's, applying for [Company]'s [Role] role ([Job ID]). [Pitch] Any chance you'd refer me? Kept it short out of respect for your time, but I'd love to chat if you're open to it. Thanks!
-```
-
-   Non-alumni referral (someone on the team or in a similar role):
-
-```text
-Hi [Name]! I'm a CMU master's student applying for [Company]'s [Role] role ([Job ID]). [Pitch] I know we haven't met, but would you be open to referring me? Happy to send my resume. Thanks!
-```
-
-   Hiring manager, eng lead, or founder (no referral ask):
-
-```text
-Hi [Name]! I'm a CMU master's student and just applied for [Company]'s [Role] role ([Job ID]). [Pitch] [Why this team] I'd love to chat if you're open to it. Thanks!
-```
-
-   - Fill `[Company]`, `[Role]`, and `[Job ID]` from the JD. Leave `[Name]` as a placeholder.
-   - `[Why this team]` is one short sentence on what draws him to the team, taken from what the JD says the team builds (for example, "Real-time payments at scale is the backend work I want to do."). Keep it under 70 characters. Do not invent team details the JD does not state.
-   - `[Pitch]` default: "I was the main backend engineer on a 6K-install sports app." (inventory: primary backend author, ~6,000 installs). Swap in a different pitch only if it clearly fits the JD better and is no longer than the default. Describe what he built, not where: readers will not recognize NewsBreak or ZenAI, so do not name them.
-   - Keep the voice casual and human. Do not add polished filler ("I'd be thrilled", "leverage", "passionate"). Keep the closing sentence as written; it frames the note around respecting their time.
+   - Fill `[Company]` and `[Role]` from the JD. Leave `[Name]` as a placeholder. No job ID, pitch, or other added sentence.
    - Use the role's short form if the posting title is long, for example "SWE New Grad" instead of "Software Engineer, New College Grad - 2027". Keep it recognizable. `[Role]` is followed by the word "role", so do not end it with "role".
-   - If the JD has no job ID, drop ` ([Job ID])`. Do not invent one.
-   - LinkedIn notes have a hard 300-character limit. Check each note's length with a script, counting `[Name]` as 10 characters. Require 300 or less. The CMU note has no `[Pitch]` and no `[Job ID]`; its fixed text is 258 characters. With the default pitch, the fixed text is 265 (UW), 222 (non-alumni), and 183 (hiring manager, before `[Why this team]`) characters. So company + role get about 42 (CMU), and company + role + job ID get about 35, 78, and 117 minus the why sentence. If a note is over, cut in this order until it fits: shorten `[Role]`, shorten `[Why this team]`, remove ` Thanks!`, then shorten `[Pitch]`. Keep the job ID. Record each final count in `outreach.md`.
+   - LinkedIn notes have a hard 300-character limit. Check the length with a script, counting `[Name]` as 10 characters. The fixed text is 258 characters, so company + role get about 42. If it is over, shorten `[Role]`, then remove ` Thanks!`. Record the final count in `outreach.md`.
 
 10. Commit the new application: stage only this application's folder and `applications/TRACKER.md`, then commit with a message like `Add <Company> <Role> application`. Do not push unless asked.
 
@@ -113,6 +90,6 @@ Search: [CMU alumni](<link>) · [UW alumni](<link>) · [<keyword>](<link>)
 ````
 
 - Omit ` (<Job ID>)` in the heading when the JD has none.
-- Do not put the outreach notes or call in the reply; keep the Search links line. They stay in `outreach.md`. Note-length problems go in Flags.
+- Do not put the outreach note in the reply; keep the Search links line. They stay in `outreach.md`. Note-length problems go in Flags.
 - Omit the Flags section when there is nothing to flag.
 - If a page-fill check failed or compilation is blocked, say so on the Resume line instead of claiming success.
