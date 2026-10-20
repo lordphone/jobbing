@@ -1,15 +1,16 @@
 {
   "company": "Tailscale",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
-  "last_cycle_opened": "2024-10",
-  "last_cycle_basis": "Tracker history: Backend Engineer first seen 2024-10-02 (two cycles ago); nothing in the 2025-07 to 2026-01 window.",
+  "dropped": [],
+  "last_cycle_opened": "2024-10-02",
+  "last_cycle_basis": "Tracker first seen: Backend Engineer 2024-10-02 (experienced, not clearly new-grad)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/tailscale",
   "jobs_spec": "gh:tailscale",
-  "evidence": "gh:tailscale (56, full) 2026-10-07: SWE roles (Networking, Strategic Projects, Control Plane; pay $163-226K, no entry language) are experienced; FDE needs 6+ yrs. No new-grad posting. Last tracker entry Backend Engineer 2024-10-02; nothing in the 2025-07 to 2026-01 window.",
-  "confidence": "high"
+  "evidence": "gh:tailscale 2026-10-20 (61, full) screened: SWE roles (Networking, AI Enablement 5+ yrs, Infrastructure, Windows, Strategic Projects) are experienced; support and FDE ask 4-6+ yrs. No entry-level SWE.",
+  "confidence": "medium"
 }

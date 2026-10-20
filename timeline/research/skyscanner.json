@@ -1,15 +1,16 @@
 {
   "company": "Skyscanner",
-  "tier": 9,
-  "status": "unknown",
-  "last_cycle_opened": "2026-01-05",
-  "last_cycle_basis": "tracker first seen 2026-01-05: Software Engineering and Teaching Programme, Edinburgh/Glasgow UK (not US)",
-  "jobs_page": "https://www.skyscanner.net/jobs/",
-  "jobs_spec": null,
-  "evidence": "Skyscanner jobs/current-jobs and earlycareers pages show a bot captcha in the browser and render only via JS, so the board could not be read. Web search shows graduate programmes in UK/Barcelona only; no US/Canada grad role seen.",
-  "confidence": "low",
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": "2026-01-05",
+  "last_cycle_basis": "tracker first seen: Software Engineering and Teaching Programme, Edinburgh/Glasgow UK (2026-01-05); UK only, not US",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://www.skyscanner.net/jobs/current-jobs",
+  "jobs_spec": "ashby:eb485598-6bf3-40a5-8560-d70150131305",
+  "evidence": "Careers page Ashby board eb485598-... full (3) 2026-10-20: Principal Engineer London, Creator Manager Singapore, PR London. Graduate programmes are UK only, none US.",
+  "confidence": "high"
 }

@@ -1,15 +1,16 @@
 {
   "company": "PACCAR",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-10",
-  "last_cycle_basis": "tracker first seen 2025-10 (entry-level role at PACCAR); 2026-cycle requisitions Oct 2025 to Feb 2026, mostly internships",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker_last_cycle 2025-10 (PACCAR Extern/intern requisitions; entry SWE new-grad not confirmed)",
   "jobs_page": "https://jobs.paccar.com",
   "jobs_spec": null,
-  "evidence": "jobs.paccar.com searches (software, entry level, graduate) 2026-10-08: Software Engineer BEV (Denton), Software Developer (McKinney, 3-5 yrs), Software Integration & Test (Bellevue, 3+ yrs) are experienced; only summer internships are entry. No new-grad SWE live.",
-  "confidence": "medium"
+  "evidence": "jobs.paccar.com feed (267) read 2026-10-20. Software/data roles ask 5+ to 7+ yrs (Data Engineer 5+, Purchasing Data Engineer 5+, Salesforce 7+, BEV Software Engineer, ADAS); only 2027 summer interns. No entry-level software posting yet.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

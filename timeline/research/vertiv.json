@@ -1,7 +1,7 @@
 {
   "company": "Vertiv",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:egup.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board 2026-10-08 (2277, full): US entry roles (Junior System Engineer, Engineer I, Customer Engineer 1) are electrical/mechanical/field; Software Intern Summer 2027 is intern. Software Engineer-Automation (Austin) and Thermal System Controls Developer state no entry-level/years, PLC controls; first says no sponsorship. Not counted.",
-  "confidence": "medium"
+  "evidence": "Oracle board re-read 2026-10-20 (full): entry roles are electrical, mechanical, field. Software Engineer - Automation (Austin, 20274352) says no sponsorship and has architecture duties, left out. Thermal System Controls Developer is PLC controls. Data/IT roles ask 5+ yrs.",
+  "confidence": "high",
+  "dropped": []
 }

@@ -1,15 +1,43 @@
 {
  "company": "Quest Diagnostics",
- "status": "no_program_found",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Full Stack Software Workflow Engineer (PHP)",
+   "url": "https://careers.questdiagnostics.com/job/marlborough/full-stack-software-workflow-engineer-php/38852/100765746112",
+   "location": "Marlborough, MA; Baltimore, MD; Secaucus, NJ (hybrid; posting says other locations nationwide are available)",
+   "opened": "2026-09-17",
+   "date_source": "page text (datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Required Work Experience: 1+ Years of Relevant Experience; bachelor's required; implement and maintain features, no lead or mentor duties",
+   "no_sponsorship": false
+  },
+  {
+   "title": "LIMS/LIS Software Engineer",
+   "url": "https://careers.questdiagnostics.com/job/marlborough/lims-lis-software-engineer/38852/100775615440",
+   "location": "Marlborough, MA; Baltimore, MD; Secaucus, NJ (hybrid; posting says other locations nationwide are available)",
+   "opened": "2026-09-17",
+   "date_source": "page text (datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Required Work Experience: 1+ Years of Relevant Experience; bachelor's required; implement and maintain features, no lead or mentor duties",
+   "no_sponsorship": false
+  }
+ ],
  "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history; no new-grad SWE program found",
+ "last_cycle_basis": "no tracker history; no new-grad SWE found.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://careers.questdiagnostics.com/search-jobs/software%20engineer",
  "jobs_spec": null,
- "evidence": "careers.questdiagnostics.com searches 2026-10-08 (software engineer, developer, data engineer, ML, new grad, early career): only Software Engineer III MUMPS/Cache/IRIS; the rest are lab and sales roles.",
+ "evidence": "Both posting pages fetched 2026-10-20 show datePosted 2026-09-17, still live: Full Stack Software Workflow Engineer (PHP) and LIMS/LIS Software Engineer ask 1+ yrs, bachelor's, no lead duties. Board keyword searches show no other entry SWE; others are Senior/Lead/III or Epic analysts.",
  "confidence": "medium",
- "postings": [],
- "tier": 5,
- "checked": "2026-10-08",
- "excluded_reason": null,
- "no_sponsorship": false
+ "dropped": []
 }

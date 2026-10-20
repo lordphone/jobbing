@@ -1,7 +1,7 @@
 {
   "company": "TKO Group Holdings (WWE / UFC)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://wwecorp.wd5.myworkdayjobs.com/tko",
   "jobs_spec": "wd:wwecorp/wd5/tko",
-  "evidence": "Workday API 2026-10-07, all 85 postings read: tech roles are Sr. Data Engineer, VP/Director, DevOps Lead, IT Support Engineer. 'Associate Enterprise AI Solutions' is Senior Manager-equivalent. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board (70) 2026-10-20: Associate Enterprise AI Solutions is a senior-manager-equivalent builder seat; others network, IT support or senior. No entry SWE.",
+  "confidence": "high",
+  "dropped": []
 }

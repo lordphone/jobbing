@@ -1,15 +1,16 @@
 {
   "company": "Iridium Communications",
   "tier": 5,
-  "status": "closed",
+  "checked": "2026-10-20",
+  "status": "excluded",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-07-01",
   "last_cycle_basis": "tracker first seen; Engineer I - Software Developer, Reston VA / Chandler AZ (careers-iridium.icims.com/jobs/4605/job)",
+  "excluded_reason": "citizenship",
+  "no_sponsorship": false,
   "jobs_page": "https://careers-iridium.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS search read in browser 2026-10-08 (3 pages): only Summer 2027 SWE/Systems interns plus Senior, III, Principal and Director software roles. Engineer 1 - Software Engineer (careers-iridium.icims.com/jobs/5047, tracker first seen 2026-07-24, Reston VA/Chandler AZ) now returns 410 gone, so closed. Iridium reposts SWE 1 roles repeatedly.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "iCIMS board read in full 2026-10-20 (3 pages): Software Engineer I (jobs/5186, Chandler AZ, live) says 'Be a US Citizen with no dual citizenship'. Other software roles are senior or Summer 2027 interns.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "ResMed",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -13,8 +13,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; 'Minimum of 2 years of related experience'; $90,000-$113,000",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
@@ -26,30 +26,31 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; '2+ years of software development experience'; $90,000-$113,000",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     },
     {
       "title": "Associate Android Developer",
       "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
       "location": "San Diego, CA",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": null,
+      "opened": "2026-10-04",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-23",
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; 'One to three years of relevant Android development experience'; $90,000-$136,000",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-01-14",
   "last_cycle_basis": "tracker first-seen: Associate Engineer - Cloud Development, San Diego CA",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
   "jobs_spec": "wd:resmed/wd3/ResMed_External_Careers",
-  "evidence": "Workday board 2026-10-08 (254, full) read fresh: Associate Software Engineer, Associate iOS, Associate Android (San Diego) listed; no sponsorship/deadline text; ask 1-3 yrs, no class year. SWE Platform Engineering (2+ yrs, 30+ days old) not counted. Halifax SWE not Toronto/Vancouver.",
-  "confidence": "medium"
+  "evidence": "Workday API (279 listed, full) and posting API: three Associate roles in San Diego live, canApply true, each asks about 2 years or less. Android API end date 2026-10-23 used as deadline. Senior iOS (3+ yrs) not counted.",
+  "confidence": "high"
 }

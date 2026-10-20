@@ -1,0 +1,17 @@
+{
+  "company": "Constellation Energy",
+  "status": "closed",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found Jul 2025-Jan 2026; earliest tracked entry tech postings (Associate SWE - AI, Associate Data Scientist - AI) first seen 2026-08 (this cycle)",
+  "jobs_page": "https://jobs.constellationenergy.com/careers-home/jobs",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Jibe careers site; /api/jobs lists all jobs, no jobs.py spec",
+  "evidence": "Jibe API 2026-10-19 (338 jobs): no Associate Software Engineer - AI or other entry SWE; only summer 2027 internships and experienced roles. Associate Software Engineer - AI (req 138264, first seen 2026-08-27) icims page now returns 410 gone.",
+  "confidence": "high",
+  "checked": "2026-10-19",
+  "tier": 5,
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
+}

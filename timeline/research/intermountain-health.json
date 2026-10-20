@@ -1,15 +1,30 @@
 {
   "company": "Intermountain Health",
-  "status": "no_program_found",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Artificial Intelligence (AI) & Machine Learning (ML) Engineer",
+      "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Artificial-Intelligence--AI----Machine-Learning--ML--Engineer_R187019",
+      "location": "Salt Lake City, UT; Remote (US, except CA, CT, HI, IL, NY, RI, VT, WA)",
+      "opened": "2026-10-20",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-25",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires Master's degree and 1 year of applied data science modeling experience; $98,000-$118,000; no lead or mentoring duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no software new-grad posting in tracker history",
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
   "jobs_spec": "wd:imh/wd108/IntermountainCareers",
-  "evidence": "Workday full board (1456) read 2026-10-08: new-grad cohorts are RN/clinical, plus admin fellowship; engineers are clinical/maintenance. Data Architect Associate (closed) is not SWE. No software or developer entry roles.",
-  "confidence": "high",
+  "evidence": "Workday full board (1419) 2026-10-20: AI/ML Engineer R187019 posted today, master's plus 1 yr, endDate 2026-11-25, live via API. Was no_program yesterday; posting is new. Other tech roles are staff/senior/manager; new-grad cohorts are nursing and radiology.",
+  "confidence": "medium",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "postings": [],
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

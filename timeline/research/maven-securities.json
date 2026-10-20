@@ -1,15 +1,16 @@
 {
   "company": "Maven Securities",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "tracker: Graduate Developer Programme (Chicago) first seen 2025-11-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd",
   "jobs_spec": "gh:mavensecuritiesholdingltd",
-  "evidence": "Greenhouse full board 2026-10-08 (42): Chicago Graduate Developer 8048802 (first seen 2026-08-03) API returns 404 and page redirects to list with error=true (gone). Live grad roles are London infra/Chicago and Amsterdam traders; Chicago Trading Systems Engineer and Platform Engineer are ops-style, no entry-level wording.",
+  "evidence": "Greenhouse full board (39) 2026-10-20: Chicago Graduate Developer 8048802 (first seen 2026-08-03) absent from board, API says not on board (gone). Live grad programs are London/Amsterdam only. Chicago Trading Systems, UI and C++ roles show no entry-level wording.",
   "confidence": "high"
 }

@@ -1,15 +1,16 @@
 {
   "company": "Google",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-30",
-  "last_cycle_basis": "jobs.py history: 'New Grad 2026: Software Engineer' first seen 2025-09-30 (PhD early career SWE roles from 2025-08-26)",
+  "last_cycle_basis": "tracker first-seen 2025-09-30, New Grad 2026: Software Engineer (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: Software Engineer - Campus (first seen 2026-08-07) page now says 'Job not found'. EARLY-level US list has no SWE; only PhD Early Career 2027-start SWE (excluded) and Mid-level SWE III remain.",
+  "evidence": "2026-10-20 browser: EARLY-level US search (about 150 hits for software engineer) lists no SWE for BS/MS. 2027-start Early Career SWE postings (84680705375642310) require a PhD. Software Engineer - Campus (tracker first seen 2026-08-07) was seen gone by the prior run (redirects to search).",
   "confidence": "medium"
 }

@@ -1,15 +1,16 @@
 {
   "company": "Zurich Insurance Group (Zurich North America)",
-  "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Toronto Data Engineer first seen 2025-11-20 (tracker); level unclear, so not counted as a new-grad SWE posting",
-  "jobs_page": "https://www.careers.zurich.com/search/?q=&locationsearch=US",
-  "jobs_spec": null,
-  "evidence": "careers.zurich.com US searches 2026-10-08 (software, developer, engineer, graduate, data scientist): US grad roles are Summer 2027 underwriting trainees; no US SWE. Business Systems Analyst III is senior-level.",
-  "confidence": "high",
-  "checked": "2026-10-08",
   "tier": 5,
+  "checked": "2026-10-20",
+  "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Toronto Data Engineer first seen 2025-11-20 (tracker); level unclear, not counted as new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://www.careers.zurich.com/search/?q=&locationsearch=US",
+  "jobs_spec": null,
+  "evidence": "careers.zurich.com US-location list (168 jobs) paged 2026-10-20: US early-career roles are underwriting interns/trainees and claims/CSR; no entry SWE. Data Engineer posting is Mexico City.",
+  "confidence": "medium"
 }

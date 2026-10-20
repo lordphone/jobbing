@@ -1,15 +1,16 @@
 {
   "company": "1X Technologies",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history; no new-grad program on the company's board",
+  "last_cycle_basis": "jobs.py history: no new-grad SWE tracker history for 1X",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/1x",
   "jobs_spec": "ashby:1x",
-  "evidence": "Ashby full board (99) 2026-10-08: SWE roles ask 5+/10+ yrs or are senior full-stack owner roles, $200K-$300K. AI Residency (San Carlos, 3-6 months fixed-term, $10K/month, ML-research profile) is not a full-time entry SWE role; not counted.",
-  "confidence": "high"
+  "evidence": "Ashby full board (98) read and screened 2026-10-20: SWE roles ask 5+/10+ yrs or are owner roles with no entry signal; rest hardware/manufacturing. AI Residency is a fixed 3-6 month residency, not counted.",
+  "confidence": "medium"
 }

@@ -1,6 +1,7 @@
 {
   "company": "Nordstrom",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -8,22 +9,35 @@
       "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
       "location": "Seattle, WA",
       "opened": "2026-10-07",
-      "date_source": "workday startDate (postedOn Today)",
+      "date_source": "workday postedOn",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Engineer 1; qualifications: 0-2 years of professional experience (recent grads welcome); Java/AWS software engineer, $104,500-$162,500",
+      "level_basis": "0-2 years of professional experience in engineering or related field (recent grads welcome)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer 1: Agentic AI - Inventory Solutions (Hybrid - Seattle, WA)",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1_R-889191",
+      "location": "Seattle, WA",
+      "opened": "2026-10-19",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Engineer 1 level; requires 1+ years of professional software engineering experience (internships count)",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker first-seen: Engineer 1, Full Stack, Store POS+ Team, Seattle WA (also Engineer 1 roles 2025-06-21)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
   "jobs_spec": "wd:nordstrom/wd501/nordstrom_careers",
-  "evidence": "Workday full board (1422) read 2026-10-08: Engineer 1 (Seattle, 0-2 yrs, recent grads welcome, posted 2026-10-07) is the only entry-level SWE; others Engineer 2/Senior/Principal. Unchanged from prior file.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Workday full board 2026-10-20 (1497) and posting API: two Engineer 1 roles in Seattle live (0-2 yrs recent grads welcome; 1+ yrs). Other engineer roles are Engineer 2+ or senior. Kept earlier opened dates.",
+  "confidence": "high"
 }

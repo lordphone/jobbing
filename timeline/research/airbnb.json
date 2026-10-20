@@ -1,15 +1,16 @@
 {
   "company": "Airbnb",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-04-28",
-  "last_cycle_basis": "jobs.py history on Airbnb Greenhouse: 'iOS Software Engineer – New Grad' first seen 2026-04-28 (https://careers.airbnb.com/positions/7859317); 'Software Engineer New Grad' 2026-04-30; also Apr 2025. Posts new grad in spring",
+  "last_cycle_basis": "jobs.py history on Airbnb Greenhouse: 'iOS Software Engineer \u2013 New Grad' Seattle/SF first seen 2026-04-28 (earlier 2025-04-08)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/airbnb",
   "jobs_spec": "gh:airbnb",
-  "evidence": "gh:airbnb full board (163) 2026-10-08: only Brazil Early Career SWE roles; US Android/iOS SWE (Passport & Commerce) pay $162-186K, not entry-labeled. No US new-grad live; Airbnb posts new grad in spring (Apr 2025, Apr 2026), expect ~Apr 2027.",
+  "evidence": "gh:airbnb full board (182) re-read 2026-10-20: no entry-level US or Canada software posting; only Brazil and China engineering roles are entry-level or unlabeled. Airbnb posts new-grad roles in spring (Apr 2026 last cycle), so expect about Apr 2027.",
   "confidence": "high"
 }

@@ -1,15 +1,16 @@
 {
   "company": "7-Eleven, Inc.",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: Software Engineer (Irving) 2026-02-16 and Integration Analyst 1 2025-11-06, not dated new-grad postings",
+  "last_cycle_basis": "Tracker shows only Integration Analyst 1 and Tech Support Specialist 1 (not SWE) in 2025",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:my7elevenhr/wd12/Careers",
-  "evidence": "Workday full board 2026-10-08 (612 postings): software titles are Software Engineer II (6+ yrs), ML Engineer II, Senior, Staff, managers. No entry or new-grad SWE; no university program listed.",
-  "confidence": "high"
+  "evidence": "Workday full board (600) 2026-10-20: Software Engineer (Irving, R26_5992) not entry-labeled and previously found to require 3 years; others Senior, Staff, Manager or AI director. No entry SWE.",
+  "confidence": "medium"
 }

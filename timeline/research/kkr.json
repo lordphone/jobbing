@@ -1,15 +1,16 @@
 {
   "company": "KKR",
-  "tier": 4,
-  "checked": "2026-10-08",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.kkr.com/careers/student-careers/student-career-opportunities",
-  "jobs_spec": "gh:staged",
-  "evidence": "Greenhouse 'staged' (18, full) 2026-10-08: only 2027 Summer Analyst Program - Technology (NYC, intern, 2026-08-21); no full-time new-grad SWE posting.",
+  "jobs_page": "https://www.kkr.com/careers/career-opportunities",
+  "jobs_spec": "gh:stage",
+  "evidence": "Greenhouse stage (134, full) and staged (13, full) read 2026-10-20: 2027 Graduate Analyst SWE and AI/Data/Platform roles are Dublin only. US engineer roles are lead/AVP level or need 3-5+ yrs (Associate Data Engineer 3-5 yrs). US student roles are finance, insurance or interns.",
   "confidence": "medium"
 }

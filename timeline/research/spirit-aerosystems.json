@@ -1,29 +1,16 @@
 {
   "company": "Spirit AeroSystems",
   "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Entry-Level Software Engineer",
-      "url": "https://careers.spiritaero.com/jobs/17433",
-      "location": "Wichita, KS",
-      "opened": "2026-09-04",
-      "date_source": "careers.spiritaero.com API posted_date",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows Software Engineer, Wichita first seen 2026-08-26 (this cycle); no earlier-cycle posting found",
+  "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.spiritaero.com",
   "jobs_spec": null,
-  "evidence": "careers.spiritaero.com API 2026-10-08 (211, all read); req 17433 opened in browser, Apply present: ABET bachelor's, 1+ yr software development, union position. No citizenship, ITAR, clearance or sponsorship text; no deadline. Mid-Level SWE 17434 is not entry.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Careers-site JSON API 2026-10-20 (187, all read): only software role is Mid-Level Software Engineer 17434 (not entry). Entry-Level Software Engineer req 17433, Wichita KS (opened 2026-09-04) is off the list and its page returns 404. Entry roles are manufacturing/industrial.",
+  "confidence": "medium"
 }

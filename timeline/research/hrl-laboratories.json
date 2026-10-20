@@ -1,15 +1,16 @@
 {
   "company": "HRL Laboratories",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "excluded",
+  "checked": "2026-10-20",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker or board history found",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "Lever history shows only 2024 postings; no new-grad program found",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.hrl.com/careers/current-openings",
   "jobs_spec": "lever:dodmg",
-  "evidence": "Lever 2026-10-08 (25, full): no new-grad SWE. ML Engineer (Calabasas) says 'U.S. Citizenship with the ability to obtain and maintain a U.S. Government Security Clearance'; Embedded Systems Engineer says 'U.S. Citizen is required', 7+ yrs.",
+  "evidence": "Lever dodmg full board (22) read 2026-10-20: ML Engineer asks 3-5 yrs, Embedded Systems asks 2+ yrs board design plus low-level code (hardware), Senior SWE senior. No entry-level SWE this or last cycle found.",
   "confidence": "medium"
 }

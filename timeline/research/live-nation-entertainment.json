@@ -1,15 +1,16 @@
 {
   "company": "Live Nation Entertainment (Ticketmaster)",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-01-07",
   "last_cycle_basis": "jobs.py history: Software Engineer 1 (Reston, VA) first seen 2026-01-07 on livenation.wd503.myworkdayjobs.com TMExternalSite",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite",
   "jobs_spec": "wd:livenation/wd503/LNExternalSite",
-  "evidence": "Workday LNExternalSite (1408) and TMExternalSite (63) full boards 2026-10-08: software roles are SWE Marketing Recommendations (5+ yrs), Forward Deployed Engineer, Senior/Lead data and AI; 'Event Programmer' is ticketing event setup. No entry SWE live. Last cycle's SWE 1 (Reston) first seen 2026-01-07. Unchanged.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Workday LNExternalSite (1322, full) 2026-10-20: software roles are Lead or Senior, Forward Deployed Engineer (5+ yrs), and non-US roles. Software Engineer 1 (Reston, Jan 2026) is gone; no 2027 posting yet.",
+  "confidence": "medium"
 }

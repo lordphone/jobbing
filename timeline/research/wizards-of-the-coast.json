@@ -1,16 +1,17 @@
 {
   "company": "Wizards of the Coast",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found; company careers page lists internships only, no new-grad program",
-  "jobs_page": "https://job-boards.greenhouse.io/hasbro",
-  "jobs_spec": "gh:hasbro",
-  "jobs_spec_basis": "company.wizards.com/en/careers open-roles link goes to job-boards.greenhouse.io/hasbro",
-  "evidence": "Hasbro Greenhouse full board 2026-10-08 (117): software roles are Principal/Senior/SDE II; Full Stack AI Character Platform (Montreal) not entry-level evidence; no entry SWE in US.",
-  "confidence": "high",
-  "checked": "2026-10-08",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/hasbro?departments%5B%5D=4024747009",
+  "jobs_spec": "gh:hasbro",
+  "evidence": "Hasbro Greenhouse full board (107) 2026-10-20: US engineering is Senior/Principal/SDE II; 2027 Summer IT & Software Internships is an internship, not counted. No entry-level SWE.",
+  "confidence": "high",
+  "jobs_spec_basis": "careers page links to gh:hasbro; Wizards of the Coast roles are posted on the Hasbro board (Renton WA)"
 }

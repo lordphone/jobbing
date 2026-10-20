@@ -1,55 +1,43 @@
 {
-  "company": "Applied Materials",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
-      "location": "Santa Clara, CA",
-      "opened": "2026-10-07",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-14",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "New College Grad Software Development Engineer (Bachelors - Santa Clara, CA)",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
-      "location": "Santa Clara, CA",
-      "opened": "2026-10-07",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-12",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
-      "location": "Gloucester, MA",
-      "opened": "2026-09-19",
-      "date_source": "tracker first seen (Workday startDate 2026-09-20)",
-      "deadline": null,
-      "grad_window": "2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "tracker first seen: Software Engineer New College Grad - Masters Degree (Santa Clara, CA), 2025-09-25",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://amat.wd1.myworkdayjobs.com/External",
-  "jobs_spec": "wd:amat/wd1/External",
-  "evidence": "Workday full board (2000) 2026-10-08 plus detail: two new Santa Clara NCG SWE postings (Workday end dates Oct 12/14) plus the Gloucester 2027 SWE NCG; other SWE are II+/4+ yrs. Gloucester has no end date.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+ "company": "Applied Materials",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Bachelors Degree, New College Grad (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+   "location": "Santa Clara, CA",
+   "opened": "2026-10-18",
+   "date_source": "tracker first seen; workday startDate 2026-10-19",
+   "level_basis": "Employee Type: New College Grad; bachelor's, 1-2 yrs preferred; $104,000-$143,000",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Algorithm Developer, Masters Degree, New College Grad (Santa Clara)",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
+   "location": "Santa Clara, CA",
+   "opened": "2026-10-20",
+   "date_source": "workday startDate",
+   "level_basis": "Employee Type: New College Grad; master's; algorithm and Matlab feature development; $131,000-$180,000",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-09-25",
+ "last_cycle_basis": "tracker first seen: Software Engineer New College Grad - Masters Degree (Santa Clara, CA), 2025-09-25",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://amat.wd1.myworkdayjobs.com/External",
+ "jobs_spec": "wd:amat/wd1/External",
+ "evidence": "Workday board 2026-10-20 (2000): two new-college-grad postings went live Oct 18-20, both read via API: Software Engineer (bachelor's) and Algorithm Developer (master's), Santa Clara. Not counted: Global Software Support Engineer I (Austin, Dallas; equipment software support), CV/ML Algorithm Developer (new PhD), Software Engineers needing 2-4 yrs. Status changed from closed: new reqs.",
+ "confidence": "high",
+ "checked": "2026-10-20",
+ "dropped": []
 }

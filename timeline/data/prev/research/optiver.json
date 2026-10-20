@@ -1,0 +1,44 @@
+{
+  "company": "Optiver",
+  "tier": 2,
+  "checked": "2026-10-19",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Graduate Software Engineer (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+      "location": "Chicago, IL",
+      "opened": "2026-07-01",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "2027 start",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Graduate Software Engineer (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+      "location": "Austin, TX",
+      "opened": "2026-07-01",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "2027 start",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-07-01",
+  "last_cycle_basis": "tracker history: Graduate Software Engineer - 2026 Start (Austin/Chicago) first seen 2025-07-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.optiver.com/working-at-optiver/career-opportunities/",
+  "jobs_spec": "gh:optiverus",
+  "jobs_spec_basis": "optiver.com job links (gh_jid) resolve on gh:optiverus (160 postings); gh:optiverprivate is a stub board of 8",
+  "evidence": "gh:optiverus full board (169) 2026-10-19: 2027 Chicago/Austin Graduate SWE (8401042002, 8604899002) are not on the board, return 404 on the Greenhouse API and optiver.com, so closed. No US grad SWE listed now; only Chicago Graduate FPGA, PhD quant and equity analyst grads. Other US SWEs are senior/lead or ask 2-6+ yrs at K.",
+  "confidence": "high",
+  "dropped": []
+}

@@ -1,11 +1,10 @@
 {
   "company": "Squarepoint Capital",
   "tier": 3,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
-      "title": "Junior SRE (full-time Junior Software Engineering position for early-career candidates)",
+      "title": "Junior SRE",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892",
       "location": "New York, NY; London, UK; Singapore",
       "opened": "2026-07-23",
@@ -14,16 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"Full-time Junior Software Engineering position for candidates early in their career\"; BSc or MSc, no years required",
+      "level_basis": "posting: 'Full-time Junior Software Engineering position for candidates early in their career'; BSc/MSc, no years required; NY base from $150,000",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US new-grad SWE in tracker history Jul 2025-Jan 2026 (Graduate/Junior Developer roles are London/Montreal/Singapore)",
+  "last_cycle_basis": "none found; tracker history shows only non-US (London/Montreal) graduate roles",
+  "jobs_page": "https://www.squarepoint-capital.com/open-opportunities",
+  "jobs_spec": "gh:squarepointcapital",
+  "evidence": "gh:squarepointcapital full board (93) re-read 2026-10-20: Junior SRE (NY/London/Singapore, first published 2026-07-23) is a Junior Software Engineering role for early-career, no years, live on API. Graduate/Junior SWE roles are London/Montreal/Singapore only. NY Infrastructure Developer 4+ yrs; NY graduate trading infra roles are support, left out.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/squarepointcapital",
-  "jobs_spec": "gh:squarepointcapital",
-  "evidence": "gh:squarepointcapital full board 2026-10-08 (89) plus API text: Junior SRE lists New York, junior SWE for early-career, no years. Page is JS-rendered, not readable; live per API. Graduate/Junior Developer roles are London/Montreal/Singapore only; NY Trading Infrastructure Graduate Programme is support, not counted. Judgment call.",
-  "confidence": "medium"
+  "dropped": []
 }

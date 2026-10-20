@@ -1,15 +1,16 @@
 {
   "company": "LG Electronics",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history shows no SWE new-grad (only bilingual IT associate 2025-10)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lgelectronics",
   "jobs_spec": "gh:lgelectronics",
-  "evidence": "Greenhouse API 2026-10-08, 122 postings (full): entry-titled roles (Validation Eng I contractor, DVLED Project Eng I, Production Eng Associate) are not software; software/AI roles are Senior FDE manager, AI Researcher, Founder in Residence. No SWE new-grad posting.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse board re-read 2026-10-20 (112, full): entry-titled roles (DVLED Project Eng I, Production Eng Associate) are not software. Data Scientist / AI Engineer (Huntsville, 5378493008) is contact-center analytics, no years stated, left out. No SWE new-grad.",
+  "confidence": "high",
+  "dropped": []
 }

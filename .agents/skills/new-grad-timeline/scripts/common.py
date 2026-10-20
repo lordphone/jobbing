@@ -15,6 +15,32 @@ STOP = {'inc', 'llc', 'ltd', 'corp', 'corporation', 'co', 'company', 'the', 'hol
         'plc', 'lp', 'llp', 'sa', 'ag', 'nv', 'us', 'usa', 'america', 'americas', 'north'}
 
 
+def slug(name):
+    """timeline/research/<slug>.json for a list name."""
+    s = re.sub(r'\s*\(.*?\)', '', name.lower().replace('&', ' and '))
+    return re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', s)).strip('-')
+
+
+def url_id(u):
+    """The posting's own ID: the last ID in the URL path (earlier ones are often a site or board ID)."""
+    ids = [m.group(0) for m in re.finditer(r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}|'
+                                           r'(?<![\w-])(?:[A-Z]{1,3}-?)?\d{5,}(?:-\d+)?', re.sub(r'[?#].*', '', u or ''), re.I)]
+    return {ids[-1]} if ids else set()
+
+
+def norm_url(u):
+    return re.sub(r'^https?://(www\.)?|[?#].*$|/+$', '', (u or '').strip().lower())
+
+
+def same_posting(a, b):
+    """Two links to one posting: the same URL up to case, query and trailing slash, or the same host and posting ID
+    (BAE's /job/128864BR and /job/128864BR/2027-Entry-Level-Software-Engineer)."""
+    if norm_url(a) == norm_url(b):
+        return True
+    host = lambda u: norm_url(u).split('/')[0]
+    return host(a) == host(b) and bool(url_id(a) & url_id(b))
+
+
 def norm(s):
     s = s.lower().replace('&', ' and ')
     s = re.sub(r'\.(com|ai|io|dev|co)\b', r' \1', s)
@@ -146,3 +172,26 @@ def is_role(title):
 
 def d(ts):
     return dt.date.fromtimestamp(ts)
+
+
+# Per link: the first day a run saw it ("discovered") and every opened value a run recorded for it ("opened").
+# merge.py writes it; validate.py reads it.
+SEEN_PATH = os.path.join(DATA, 'first_seen.json')
+# An earlier date counts only from this long before discovery: older ones are a reused link's last-cycle date
+# that a later run corrected (Palantir's 2025-06-13), not this posting's.
+REPOST_WINDOW = dt.timedelta(days=60)
+
+
+def opened_value(s):
+    """'YYYY-MM-DD', 'on or before YYYY-MM-DD', or '' for anything else."""
+    m = re.search(r'\d{4}-\d{2}-\d{2}', str(s or ''))
+    return (('on or before ' if 'before' in str(s) else '') + m.group(0)) if m else ''
+
+
+def earliest_opened(current, history, discovered):
+    """The posting's opened date: the earliest of this run's value and the earlier runs' values in the window.
+    A later run's agent may write a later date for the same link (a Workday repost, or 'on or before' its own run
+    day); the earlier one stands. On the same day an exact date beats an 'on or before' bound."""
+    floor = (dt.date.fromisoformat(discovered) - REPOST_WINDOW).isoformat() if discovered else ''
+    cands = [v for v in history if v[-10:] >= floor] + ([current] if current else [])
+    return min(cands, key=lambda v: (v[-10:], v.startswith('on or')), default='')

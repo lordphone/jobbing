@@ -1,15 +1,16 @@
 {
   "company": "EVgo",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-10-17",
   "last_cycle_basis": "tracker first seen; Software Development Engineer I, United States (jobs.jobvite.com/evgo/job/ogeByfwn)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.evgo.com/company/careers/",
   "jobs_spec": null,
-  "evidence": "evgo.com/company/careers read in browser 2026-10-08 (Rippling feed, 14 roles): only software role is Software Engineer III - Security Specialist (senior). Others are accounting, marketing, hardware, supply chain. Last cycle had an SDE I req (2025-10-17); nothing entry-level now.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "EVgo careers on ats.rippling.com/evgo-careers read 2026-10-20 (12 jobs): only software role is Software Engineer III - Security Specialist (senior). Last cycle had a Software Development Engineer I (tracker first seen 2025-10-17, Jobvite); nothing entry-level now.",
+  "confidence": "medium"
 }

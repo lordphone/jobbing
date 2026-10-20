@@ -1,20 +1,8 @@
 {
   "company": "Berkshire Hathaway Energy",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer 1",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005734",
-      "location": "Des Moines, IA; Salt Lake City, UT",
-      "opened": "2026-09-11",
-      "date_source": "oracle cloud posted date",
-      "deadline": "2026-10-16",
-      "grad_window": null,
-      "live_verified": "api",
-      "no_sponsorship": true
-    },
     {
       "title": "Software Engineer 1",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
@@ -24,19 +12,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Software Engineer 1/2/3",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
-      "location": "Des Moines, IA; Davenport, IA; Richmond, VA; Reno, NV; Las Vegas, NV; Portland, OR; Sioux City, IA; Omaha, NE; Salt Lake City, UT",
-      "opened": "2026-10-07",
-      "date_source": "tracker/prior check 2026-10-07 (API shows no posted date)",
-      "deadline": "2026-11-06",
-      "grad_window": null,
-      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": "multi-level posting; Software Engineer 1 level is entry (SE2 needs 4 yrs, SE3 6 yrs)",
+      "level_basis": "title Software Engineer 1 (entry rung of SE 1/2/3 ladder); requires basic knowledge, prior internship",
       "no_sponsorship": true
     }
   ],
@@ -46,6 +23,13 @@
   "no_sponsorship": true,
   "jobs_page": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
   "jobs_spec": "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle CX_1 board 2026-10-08 (118, full): Software Engineer 1 reqs 10005734 (ends 2026-10-16) and 10004529 live; multi-level SE 1/2/3 req 10005871 not listed on board but its page shows Apply Now (browser). All say no immigration sponsorship now or in future.",
-  "confidence": "high"
+  "evidence": "Oracle CX_1 board 2026-10-20 (120, full) read fresh: Software Engineer 1 req 10004529 live via API (posted 2026-06-29), requires internship and basic skills, no immigration sponsorship. Systems and Development Analyst 1 is closed; SE 2/3 need more years.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": [
+    {
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
+      "reason": "gone: not on the 2026-10-20 board and detail finds no such posting"
+    }
+  ]
 }

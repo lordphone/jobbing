@@ -1,7 +1,9 @@
 {
-  "company": "LPL Financial",
   "tier": 5,
-  "status": "open",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "postings": [
     {
       "title": "New Grad 2027 - Software Engineer",
@@ -20,8 +22,8 @@
       "title": "New Grad 2027 - Data Engineer",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
       "location": "Fort Mill, SC; Charlotte, NC; Austin, TX",
-      "opened": "on or before 2026-09-07",
-      "date_source": "workday postedOn",
+      "opened": "on or before 2026-08-27",
+      "date_source": "workday postedOn (30+ days ago)",
       "deadline": null,
       "grad_window": "New Grad 2027",
       "live_verified": "api",
@@ -33,8 +35,8 @@
       "title": "New Grad 2027 - Platform Engineer",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Platform-Engineering_R-052500-1",
       "location": "Fort Mill, SC; Charlotte, NC; Austin, TX",
-      "opened": "on or before 2026-09-07",
-      "date_source": "workday postedOn",
+      "opened": "on or before 2026-08-27",
+      "date_source": "workday postedOn (30+ days ago)",
       "deadline": null,
       "grad_window": "New Grad 2027",
       "live_verified": "api",
@@ -43,13 +45,12 @@
       "no_sponsorship": true
     }
   ],
+  "company": "LPL Financial",
+  "status": "open",
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker history: 'New Grad 2026 - Technology - Software Development' first seen 2025-09-11",
-  "no_sponsorship": true,
   "jobs_page": "https://lplfinancial.wd1.myworkdayjobs.com/university",
   "jobs_spec": "wd:lplfinancial/wd1/university",
-  "evidence": "Workday university board (33) 2026-10-08 lists all 3 New Grad 2027 postings (Software, Data, Platform Engineer), start 2026-08-18; early-career roles can't sponsor now or later. Priority date passed, still listed.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null
+  "evidence": "Workday university board (30, full) 2026-10-20 lists 3 New Grad 2027 eng postings (Software, Data, Platform) at Fort Mill/Charlotte and Austin; each live via detail API. Early career programs cannot consider candidates needing sponsorship. Priority-consideration date mentioned, no stated deadline.",
+  "confidence": "high"
 }

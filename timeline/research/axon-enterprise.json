@@ -1,15 +1,16 @@
 {
   "company": "Axon Enterprise",
-  "tier": 4,
-  "status": "not_yet",
+  "tier": 3,
+  "status": "closed",
   "last_cycle_opened": "2025-08-28",
-  "last_cycle_basis": "tracker first seen 2025-08-28 (SWE I); Axon also posted many Software Engineer 1 roles Feb-Jun 2026 (jobs.py history, all closed)",
+  "last_cycle_basis": "tracker first seen 2025-08-28 (trackers.json tracker_last_cycle)",
   "jobs_page": "https://job-boards.greenhouse.io/axon",
   "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse API full (507) 2026-10-08. No live US entry-level SWE. Entry-level SWE I / Graduate SWE postings are Vietnam, Romania, Australia, UK. US software roles are Sr/II or 6+ yrs; Mission Engineer and Professional Services roles are not SWE.",
-  "confidence": "high",
+  "evidence": "Greenhouse board read in full (488) 2026-10-20. Software Engineer I (US, published 2026-10-16, job 7703668003) is NOT ON THE BOARD, API 404. Remaining SWE I roles are Bucharest and Ho Chi Minh City; tracker lead is an AfroTech-attendees-only talent-community posting, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
   "postings": [],
-  "checked": "2026-10-08",
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

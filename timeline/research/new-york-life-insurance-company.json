@@ -1,43 +1,44 @@
 {
-  "company": "New York Life Insurance Company",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate - Full-Stack AI Engineer",
-      "url": "https://careers.newyorklife.com/careers/job/44173452",
-      "location": "New York, NY",
-      "opened": "2026-08-26",
-      "date_source": "eightfold apply API t_create",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Associate title, job level PF2; 'working alongside senior engineers'; asks 1-3 years; $81,000-$115,500",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Associate - Full Stack Developer",
-      "url": "https://careers.newyorklife.com/careers/job/42989249",
-      "location": "New York, NY",
-      "opened": "2026-07-07",
-      "date_source": "eightfold apply API t_create",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Associate title; asks at least 1 year of MuleSoft/Java integration experience; no senior duties",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker record found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.newyorklife.com/careers",
-  "jobs_spec": null,
-  "jobs_spec_basis": "Eightfold site; pcsx not enabled, but /api/apply/v2/jobs?domain=newyorklife.com lists the board (65 jobs)",
-  "evidence": "Eightfold apply API 2026-10-08: 65 listed jobs, none entry SWE (all Senior/CVP/sales). Both Associate postings are absent from that list yet their pages (opened in browser) show Apply Now with recent updates, so likely live but unlisted; medium confidence.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+ "company": "New York Life Insurance Company",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate - Full-Stack AI Engineer",
+   "url": "https://careers.newyorklife.com/careers/job/44173452",
+   "location": "New York, NY",
+   "opened": "2026-08-26",
+   "date_source": "page text (job record created timestamp)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Associate title, level PF2, 'alongside senior engineers'; requires 1-3 years; $81,000-$115,500",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Associate - Full Stack Developer",
+   "url": "https://careers.newyorklife.com/careers/job/42989249",
+   "location": "New York, NY",
+   "opened": "2026-07-07",
+   "date_source": "page text (job record created timestamp)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Associate title; requires at least 1 year of MuleSoft/Java; $66,500-$95,500",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "unknown; no tracker record found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers.newyorklife.com/careers",
+ "jobs_spec": null,
+ "jobs_spec_basis": "Eightfold site; pcsx not enabled, but /api/apply/v2/jobs?domain=newyorklife.com lists the board",
+ "evidence": "Eightfold apply API list (20 engineer results: Senior Associate/VP only) plus job pages re-read 2026-10-20: Associate Full-Stack AI Engineer (1-3 yrs) and Associate Full Stack Developer (1+ yr) both live, JSON-LD validThrough 2027-02/03. Neither appears in the list search.",
+ "confidence": "medium"
 }

@@ -1,36 +1,35 @@
 {
   "company": "Airbus",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Associate Embedded Software Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Associate-Embedded-Software-Engineer_JR10443985",
+      "title": "Unmanned Aircraft System (UAS) Embedded Software Engineer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Unmanned-Aircraft-System--UAS--Embedded-Software-Engineer_JR10451237",
       "location": "Bingen, WA",
-      "opened": "2026-09-22",
+      "opened": "2026-10-19",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "HMI/Desktop Applications Software Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
-      "location": "Bingen, WA",
-      "opened": "2026-09-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of experience in embedded software development, either through industry roles or substantial project work'; B.S. or M.S.; $81,000-$114,000; no senior duties",
+      "no_sponsorship": true
     }
   ],
-  "last_cycle_opened": null,
   "last_cycle_basis": "tracker history: only UK/EU/Canada grad or VIE roles; no US new-grad SWE",
-  "excluded_reason": "us person / itar",
-  "no_sponsorship": true,
+  "excluded_reason": null,
   "jobs_page": "https://ag.wd3.myworkdayjobs.com/Airbus",
   "jobs_spec": "wd:ag/wd3/Airbus",
-  "evidence": "Workday full (2000) 2026-10-08. Only US SWE roles are Bingen WA Associate Embedded SWE and HMI/Desktop SWE, live; both say \"Must be a US Person under ITAR definition\"; no visa sponsorship. Mobile AL and Montreal roles are non-software; 2027 grad programs are UK/EU.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-20 (2000, full). New UAS Embedded Software Engineer (Bingen WA, Aerovel, posted 2026-10-19) asks 2+ yrs incl. project work, accepts a valid work visa, no ITAR line, but says Airbus does not sponsor US positions: counted, borderline level. HMI/Desktop SWE (entry) requires US Person under ITAR. Grad programs are UK/EU. Status changed from excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [
+    {
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
+      "reason": "ruled out: 'Must be a US Person under ITAR definition (U.S. Citizen, green card holder or person covered under our existing ITAR license)'"
+    }
+  ],
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

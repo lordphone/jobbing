@@ -1,15 +1,16 @@
 {
   "company": "Howmet Aerospace",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "excluded",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
   "excluded_reason": "us person / itar",
+  "no_sponsorship": false,
   "jobs_page": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "no_sponsorship": true,
-  "evidence": "Oracle board 2026-10-08 (794, full). Only US software posting: Software Developer, Big Lake MN (2026-09-01, $70-100k): 'subject to the International Traffic in Arms Regulations (ITAR)' U.S. person required; no visa sponsorship. Engineer Training Program 2027 is not software.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found"
+  "evidence": "Oracle board 2026-10-20 (782, full). Only US entry-ish software posting: Software Developer, Big Lake MN (2026-09-01): 'subject to the International Traffic in Arms Regulations (ITAR)' U.S. person required, 'Visa sponsorship is not available'. Other roles are manufacturing or CNC.",
+  "confidence": "high"
 }

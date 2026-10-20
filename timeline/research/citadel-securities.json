@@ -1,29 +1,43 @@
 {
   "company": "Citadel Securities",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer – University Graduate (US)",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
       "location": "New York, NY; Miami, FL",
-      "opened": "on or before 2026-07-06",
-      "date_source": "tracker first seen",
+      "opened": "on or before 2026-07-05",
+      "date_source": "tracker first seen (page shows no date)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative AI Technical Staff",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
+      "location": "Miami, FL",
+      "opened": "on or before 2026-07-22",
+      "date_source": "tracker first seen (page shows no date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'This is an entry-level role'; half research, half ML engineering; no degree level or years required",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-05",
-  "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-05 for prior cycle's University Graduate SWE posting",
+  "last_cycle_basis": "tracker first-seen 2025-07-05 for prior cycle's University Graduate SWE (worklist tracker_last_cycle)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.citadelsecurities.com/careers/open-opportunities/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: posting page loads with Start Application; bachelor's, master's or PhD CS, base $235K-$300K, no citizenship or sponsorship text, no deadline, rolling. Quantitative AI Technical Staff (Miami) reads research-level with no entry-level wording, left out.",
+  "evidence": "2026-10-20 browser: New Graduates filter (15 jobs) lists SWE University Graduate (US) (Miami, NY; BS/MS/PhD, $235K-$300K) and its page shows Start Application; Quantitative AI Technical Staff (Miami, Entry-level, all degree levels) page also live. No citizenship text on either.",
   "confidence": "high"
 }

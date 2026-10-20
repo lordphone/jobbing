@@ -1,13 +1,16 @@
 {
   "company": "Intuitive Surgical",
-  "tier": 11,
-  "status": "closed",
+  "tier": 4,
+  "checked": "2026-10-20",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2024-10-01",
   "last_cycle_basis": "Tracker: RISE Software Engineer (Sunnyvale) first seen 2024-10-01; no 2025 posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Intuitive",
   "jobs_spec": "sr:Intuitive",
-  "evidence": "SmartRecruiters full board (754) 2026-10-08: no entry SWE live (Full Stack 3+ yrs, Embedded 4+, Systems Integration 5+; Build and Release SWE, Associate level, no years stated, left out). RISE Software Engineer (744000152472854 / 744000150746589, Sunnyvale) API shows active=false.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "status": "closed",
+  "evidence": "sr:Intuitive full (730) 2026-10-20: RISE Software Engineer (Sunnyvale, 2026-09-21) is closed per history/API. Software Engineer (2026-10-14) is a data-platform lead-style role asking 3+ yrs; Systems Integration SWE needs 5+ yrs; not entry-level.",
+  "confidence": "medium"
 }

@@ -1,15 +1,17 @@
 {
   "company": "Project Prometheus",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or early-career posting found.",
+  "last_cycle_basis": "No tracker history or early-career posting found (company founded Nov 2025).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/prometheus",
   "jobs_spec": "ashby:prometheus",
-  "evidence": "Ashby full board (13) 2026-10-08: SF roles are MTS Multimodal Pre-training and Synthetic Data (strong track record required), Pre-Training Data & Acquisition, Senior/Staff SWE; others Zurich; a test posting. No entry-level SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "kept: posting text says 'Prometheus · CAD Working Group', fitting its AI-for-physical-economy focus; no other board found",
+  "evidence": "Ashby board prometheus lists 1 job 2026-10-20 (Engineering Technician, Oakland, not SWE); no careers site found, board matches company focus. No US entry-level SWE found.",
+  "confidence": "low",
+  "dropped": []
 }

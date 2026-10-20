@@ -1,15 +1,17 @@
 {
   "company": "Man Group",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-11-13",
-  "last_cycle_basis": "tracker first seen: Technology Rotational Program - Associate Engineer (Boston) 2025-11-13",
+  "last_cycle_basis": "tracker first seen: Technology Rotational Program - Associate Engineer (Boston, 4710813101) 2025-11-13",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.eu.greenhouse.io/mangroup",
   "jobs_spec": "gh:mangroup",
-  "evidence": "Technology Rotational Program - Associate Engineer (Boston, 4978937101, first seen 2026-09-24, Summer 2027 start) is gone: absent from 54-job board, API says not on board, posting URL now shows the job list. Remaining US tech roles are Senior; Junior Quant MBS is quant research.",
-  "confidence": "medium"
+  "jobs_spec_basis": "careers page is on EU Greenhouse; gh:mangroup API works (56 postings)",
+  "evidence": "gh:mangroup full board (56) re-read 2026-10-20: 2027 Technology Rotational Program - Associate Engineer (Boston, 4978937101, seen open 2026-09-24) is NOT ON THE BOARD and its page redirects to the job list, so closed. US tech roles left are Senior Java/Quant Dev; Junior Quant MBS is quant, not SWE.",
+  "confidence": "medium",
+  "dropped": []
 }

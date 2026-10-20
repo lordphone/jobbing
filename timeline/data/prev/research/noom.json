@@ -1,0 +1,30 @@
+{
+  "company": "Noom",
+  "tier": 4,
+  "checked": "2026-10-19",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Agentic Engineer (New Grad)",
+      "url": "https://www.noom.com/careers/job-listings/?gh_jid=8114573",
+      "location": "Princeton, NJ",
+      "opened": "2026-08-18",
+      "date_source": "tracker first seen (earlier reposts); greenhouse first_published 2026-09-18",
+      "deadline": null,
+      "grad_window": "Bachelor's degree or expected within 6 months",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-06-30",
+  "last_cycle_basis": "tracker first-seen: Software Engineer - New Grad, Princeton NJ, https://www.noom.com/careers/job-listings/?gh_jid=6955637",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.noom.com/careers/job-listings/",
+  "jobs_spec": "gh:noomgrowth",
+  "evidence": "Greenhouse noomgrowth 2026-10-19 (6, full): no engineering roles. Agentic Engineer New Grad postings 8114573, 8140376, 8092909 return 404 on the Greenhouse API and 8114573's page shows only the job list: gone. Closed; no other entry SWE.",
+  "confidence": "high",
+  "dropped": []
+}

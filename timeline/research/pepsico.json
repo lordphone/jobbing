@@ -1,21 +1,7 @@
 {
   "company": "PepsiCo",
-  "tier": 5,
   "status": "open",
   "postings": [
-    {
-      "title": "SWE & App Arch Engineer",
-      "url": "https://uscareers-pepsico.icims.com/jobs/468396/swe-%26-app-arch-engineer/job",
-      "location": "New York, NY",
-      "opened": "2026-09-01",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's required; '1 to 2 years of experience (including internships, co-ops...)'; works alongside senior engineers",
-      "no_sponsorship": false
-    },
     {
       "title": "Analytics Platform Engineer",
       "url": "https://uscareers-pepsico.icims.com/jobs/468920/analytics-platform-engineer/job",
@@ -26,7 +12,7 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "'This entry-level role will contribute to platform development'; 1-2 years incl. internships",
+      "level_basis": "'This entry-level role will contribute to platform development'; 1-2 yrs incl. internships",
       "no_sponsorship": false
     }
   ],
@@ -36,7 +22,9 @@
   "no_sponsorship": false,
   "jobs_page": "https://uscareers-pepsico.icims.com/jobs/search?searchKeyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "iCIMS browser 2026-10-08: keyword 'software engineer' lists 8 jobs; SWE & App Arch Engineer and Analytics Platform Engineer (NY) both show Apply, 1-2 yrs incl. internships. AI Engineer needs 6-8 yrs; others manager/senior. No formal new-grad program; no sponsorship statement.",
+  "evidence": "iCIMS 2026-10-20: Analytics Platform Engineer 468920 loads with Apply, entry-level role, 1-2 yrs incl. internships (borderline software), kept. Software engineer search shows only Senior, Principal and AI Engineer (6-8 yrs) roles. 2026-09 SWE & App Arch posting gone.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": []
 }

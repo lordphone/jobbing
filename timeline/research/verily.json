@@ -1,29 +1,30 @@
 {
   "company": "Verily",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "no_sponsorship": true,
+      "level_basis": "Minimum: 2+ years as a software developer; no leadership duties; $125,000 - $178,000",
       "title": "Software Engineer - Participant Ops",
       "url": "https://verily.wd1.myworkdayjobs.com/verily_careers/job/Raleigh-North-Carolina/Software-Engineer---Participant-Ops_REQ-926",
       "location": "Raleigh, NC",
       "opened": "2026-09-09",
-      "date_source": "workday startDate (Posted 29 Days Ago)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 2+ years; $125,000 - $178,000; full-stack feature work, no leading or mentoring",
-      "no_sponsorship": true
+      "date_source": "workday startDate (Posted 30+ Days Ago)",
+      "level": "unlabeled"
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history or program page showing a new-grad SWE posting in the 2025-07 to 2026-01 window.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://verily.wd1.myworkdayjobs.com/verily_careers",
   "jobs_spec": "wd:verily/wd1/verily_careers",
-  "evidence": "Workday full board (78) 2026-10-08: no new-grad track; other SWE are III/Senior/Staff/Lead or 3+ yrs. Participant Ops (Raleigh) meets unlabeled test (2+ yrs, no level, no senior duties) but says applicants must not require sponsorship. Judgment call.",
+  "evidence": "wd:verily full board (83) read 2026-10-20. Only Participant Ops SWE (Raleigh) fits: 2+ yrs min, no leadership duties; says no employer sponsorship. New Cloud Engineer (Raleigh, 0-1 yrs) is cloud infrastructure/DevOps, not counted. Others III/Senior/Staff.",
   "confidence": "medium"
 }

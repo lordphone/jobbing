@@ -1,15 +1,30 @@
 {
  "company": "Mutual of Omaha",
  "tier": 5,
- "status": "no_program_found",
- "no_sponsorship": true,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Java Integration Engineer I",
+   "url": "https://www.mutualofomaha.com/careers/jobs/detail/505232",
+   "location": "Remote (US or Puerto Rico)",
+   "opened": "2026-10-20",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Engineer I; 'great opportunity for an early-career developer'; requires 2+ years Java/Spring; $110,000 - $116,000; works alongside senior engineers",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
  "last_cycle_basis": "no tracker record; not found",
+ "excluded_reason": null,
+ "no_sponsorship": true,
  "jobs_page": "https://www.mutualofomaha.com/careers/jobs/search",
  "jobs_spec": null,
- "evidence": "All 89 postings read 2026-10-08: Full Stack I/II needs 3+ yrs, Data Engineer I/II 6+ yrs; Engineer I/II (Cloud Dev & Data Warehouse, closes 2026-10-30) states no years and spans II, so left out. All say no sponsorship.",
+ "evidence": "Read all 7 pages (90 postings) of mutualofomaha.com job search 2026-10-20, opened detail pages: Java Integration Engineer I (early-career, 2+ yrs, Apply Now, open until filled). Engineer I/II (505274, closes 2026-10-30, no years stated) left out because title includes II. Other engineer roles need 5+ to 7+ yrs. No sponsorship.",
  "confidence": "medium",
- "checked": "2026-10-08",
- "excluded_reason": null,
- "postings": [],
- "last_cycle_opened": null
+ "checked": "2026-10-20"
 }

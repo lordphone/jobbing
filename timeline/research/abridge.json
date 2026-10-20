@@ -1,21 +1,21 @@
 {
   "company": "Abridge",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
+      "title": "Member of Technical Staff, Early Career",
+      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+      "location": "San Francisco, CA",
+      "opened": "2026-07-13",
+      "date_source": "tracker first seen (Ashby publishedAt 2026-09-15)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false,
-      "title": "Member of Technical Staff, Early Career",
-      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "location": "San Francisco, CA",
-      "opened": "2026-07-13",
-      "date_source": "tracker first seen (Ashby publishedAt 2026-09-15)"
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-25",
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/abridge",
   "jobs_spec": "ashby:abridge",
-  "evidence": "Ashby API 2026-10-08 (48, full): MTS Early Career, SF office, published 2026-09-15 (tracker first seen 2026-07-13, listed SF;NYC), pay $167K-184K; asks CS degree or equivalent, no sponsorship or citizenship text, no deadline. Other MTS roles need 3-8+ yrs. Intern roles also open.",
-  "confidence": "medium"
+  "evidence": "Ashby API 2026-10-20 (44, full): MTS Early Career live (SF Office), publishedAt 2026-09-15, tracker saw same ID 2026-07-13; seeks early-career engineers, $167K-$184K, no sponsorship/citizenship text, no deadline. Other MTS roles need 5-8+ yrs or research background.",
+  "confidence": "high",
+  "dropped": []
 }

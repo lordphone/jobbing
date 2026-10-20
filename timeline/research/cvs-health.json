@@ -1,29 +1,30 @@
 {
   "company": "CVS Health",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Development Engineer - Operational Analytics",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1",
-      "location": "Hartford, CT",
-      "opened": "on or before 2026-10-07",
-      "date_source": "workday startDate (latest repost; req R0944066 is older)",
-      "deadline": "2026-10-28",
-      "grad_window": null,
+      "title": "Full-Stack Engineer Training Program - June 2027 Cohort",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
+      "location": "Remote (US): CT; MS; MT; NC; LA; MD; ME; MN; NE; MO; ND; NY; NJ; NM; NV; OH; SC; TX; RI; SD; VT; TN; VA; WA; UT; WI; WV; OR; WY; OK; PA; CO; AL; AZ; CA; DC; FL; IA; AK; AR; ID; IL; KS; DE; GA; IN; KY; MI; MA; NH",
+      "opened": "2026-10-19",
+      "date_source": "tracker first seen 2026-10-19; workday startDate 2026-10-20",
+      "deadline": "2026-10-27",
+      "grad_window": "June 2027 cohort (program start June 7, 2027)",
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required \"1 years of professional software development experience (internships, co-ops, or academic projects acceptable)\"; works with guidance; pay $79,310-$158,620",
-      "no_sponsorship": false
+      "level": "new-grad title",
+      "level_basis": "2027 cohort training program; requires '1+ years of experience (academic or professional)'; $75,000-$85,000",
+      "no_sponsorship": true
     }
   ],
-  "last_cycle_opened": "2025-08-29",
-  "last_cycle_basis": "tracker history: Associate Software Development Engineer, Hartford CT, first seen 2025-08-29",
+  "dropped": [],
+  "last_cycle_opened": "2025-06-29",
+  "last_cycle_basis": "jobs.py history: Associate Software Engineer (Irving TX) first seen 2025-06-29; Associate Software Development Engineer (Hartford) 2025-08-29",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
   "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
-  "evidence": "Workday keyword searches 2026-10-08 (SEARCHED, NOT THE FULL 19k BOARD): SDE Operational Analytics (Hartford) reads entry-level, canApply true, ends 2026-10-28. SailPoint SDE needs 3+ yrs; SDET and others senior.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5
+  "evidence": "Workday board searched 2026-10-20 (19.7k postings, keyword searches) and detail: Full-Stack Engineer Training Program June 2027 Cohort live, ends 2026-10-27, says work visa sponsorship is not available. Other SDE roles senior or 3+ yrs; earlier entry SDE gone.",
+  "confidence": "high"
 }

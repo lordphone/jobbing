@@ -1,15 +1,16 @@
 {
   "company": "TerraPower",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no postings",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/terrapowerllc",
   "jobs_spec": "gh:terrapowerllc",
-  "evidence": "Greenhouse terrapowerllc 2026-10-08 (87, full): no software roles; only IT managers, data architect, IT support, nuclear/civil/commissioning engineers. No eligibility sentence quoted, so not marked excluded. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (100) read 2026-10-20: no software engineering roles; engineering posts are nuclear, mechanical, civil, commissioning, plus IT managers and a Data Architect. No entry-level SWE this cycle or last.",
+  "confidence": "high"
 }

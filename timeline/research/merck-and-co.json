@@ -1,29 +1,16 @@
 {
   "company": "Merck & Co. (MSD)",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "2027 Future Talent Program - IT Emerging Talent Rotational (ETR) Program (Hybrid)",
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Super-Week---IT-Emerging-Talent-Rotational--ETR--Program--Hybrid-_R404472-1",
-      "location": "Rahway, NJ; West Point, PA; North Wales, PA",
-      "opened": "2026-09-21",
-      "date_source": "page text (JSON-LD datePosted); workday startDate 2026-09-22",
-      "deadline": "2026-10-09",
-      "grad_window": "start July 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "'This is an entry-level full-time position'; 3 rotations across IT incl. Software Development, AI/ML, Data",
-      "no_sponsorship": true
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found for Jul 2025-Jan 2026; tracker shows Junior Data Engineer (San Jose CA) first seen 2024-10-25, two cycles ago",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.merck.com/us/en/search-results",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Workday full board (700) 2026-10-08: IT Emerging Talent Rotational Program live (startDate 2026-09-22, ends 2026-10-09, 'No Visa Sponsorship'); entry-level, rotations incl. software development, AI/ML, data; not SWE-only. Other US tech roles senior/Associate Director; no other entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday full board (963) 2026-10-20: US software roles are senior (Associate Director); engineering Associates are chemical or manufacturing; only 2027 Future Talent interns and co-ops. Prior IT Emerging Talent Rotational Program (opened 2026-09-21) is not on the board, so closed.",
+  "confidence": "high",
+  "dropped": []
 }

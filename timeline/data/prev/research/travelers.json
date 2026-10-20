@@ -1,0 +1,87 @@
+{
+ "company": "Travelers",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineering Development Program (EDP) - Data Engineering",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272",
+   "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+   "opened": "2026-08-31",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Engineering Development Program (EDP) - Software Engineering",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-52271",
+   "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+   "opened": "2026-09-01",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Software Engineer I - Elixir, Python, AWS",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Elixir--Python--AWS_R-52134",
+   "location": "Hartford, CT; St. Paul, MN; Hunt Valley, MD",
+   "opened": "2026-08-27",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Software Engineer I (MERN, AWS)",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN--AWS-_R-51988",
+   "location": "Hartford, CT; St. Paul, MN",
+   "opened": "2026-08-14",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Software Engineer I",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1",
+   "location": "Hartford, CT; Atlanta, GA; St. Paul, MN; Hunt Valley, MD",
+   "opened": "2026-06-30",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2025-08-01",
+ "last_cycle_basis": "jobs.py history: Software Engineer I - .Net/MERN/AWS (St Paul) first seen 2025-08-01",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://travelers.wd5.myworkdayjobs.com/External",
+ "jobs_spec": "wd:travelers/wd5/External",
+ "evidence": "Full Workday board (404) read 2026-10-19: three Software Engineer I and two EDP (Software, Data) postings live; no deadline, no sponsorship stated. St. Paul MERN R-52748 no longer listed. Data Engineer I and Property Risk Engineering not counted.",
+ "confidence": "high",
+ "checked": "2026-10-19",
+ "tier": 5,
+ "dropped": [
+  {
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---MERN--AWS_R-52748",
+   "reason": "gone: absent from the full Workday board and the Software Engineer I search; posting page returns not found"
+  }
+ ]
+}

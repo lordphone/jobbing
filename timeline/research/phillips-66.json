@@ -1,5 +1,7 @@
 {
   "company": "Phillips 66",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -7,23 +9,22 @@
       "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
       "location": "Houston, TX; Bartlesville, OK",
       "opened": "2026-09-10",
-      "date_source": "page metadata datePosted from earlier check (may be a repost); page shows no date",
-      "deadline": null,
+      "date_source": "page metadata datePosted 2026-09-10 (seen 2026-10-08, kept; page now shows 2026-10-09)",
+      "deadline": "2026-12-31",
       "grad_window": "Winter 2026 or Spring/Summer 2027",
       "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Experience 66 IT university new-hire program; assignments include Software Engineering",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window; no IT university-hire timing known",
-  "no_sponsorship": true,
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.phillips66.com/go/New-Hire-Opportunities/9494000/",
   "jobs_spec": null,
-  "evidence": "careers.phillips66.com New-Hire-Opportunities 2026-10-08: 2027 University New Hire - Information Technology page has Apply now, assignments include Software Engineering; Houston TX or Bartlesville OK; grads Winter 2026/Spring-Summer 2027. Sponsorship/F-1/H-1 not eligible. No deadline stated.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "tier": 5,
-  "excluded_reason": null
+  "evidence": "careers.phillips66.com page fetched 2026-10-20: 2027 University New Hire - IT shows Apply now, validThrough 2026-12-31, graduating Winter 2026 or Spring/Summer 2027. Posting says no sponsorship for temporary visas.",
+  "confidence": "medium"
 }

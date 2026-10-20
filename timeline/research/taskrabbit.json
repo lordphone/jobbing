@@ -1,15 +1,16 @@
 {
   "company": "Taskrabbit (IKEA-owned)",
-  "tier": 9,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
+  "tier": 4,
+  "checked": "2026-10-20",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07 to 2026-01 posting found; no tracker history or first-party evidence of a prior new-grad SWE cycle.",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/taskrabbit",
   "jobs_spec": "gh:taskrabbit",
-  "evidence": "Greenhouse full board 2026-10-08 (17): engineering roles Senior/Staff/Manager; Analytics Engineer not SWE. No entry SWE.",
+  "status": "no_program_found",
+  "evidence": "gh:taskrabbit full (19) 2026-10-20: Staff Software Architect and Staff Data Scientist; Analytics Engineer (SF, 2+ yrs) is analytics, not SWE. No entry SWE.",
   "confidence": "high"
 }

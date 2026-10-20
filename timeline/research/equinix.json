@@ -1,15 +1,16 @@
 {
   "company": "Equinix",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker/history shows no new-grad SWE posting in the 2025-07 to 2026-01 window; one Associate Software Engineer (Dallas, TX) opened 2026-03-27 (https://equinix.wd1.myworkdayjobs.com/External/job/Dallas-Infomart-Office-DAI/Associate-Software-Engineer_JR-1) and is closed",
+  "last_cycle_basis": "history shows no new-grad SWE posting Jul 2025-Jan 2026; one Associate Software Engineer (Dallas TX) first seen 2026-03-27, now closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://equinix.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:equinix/wd1/External",
-  "evidence": "Workday full board 2026-10-08 (279 postings): US/Toronto software roles are Staff/Senior or need 5+ yrs (Network Eng, SDN, AI Eng need 5-6+); DevOps Engineer (Dallas, $118-176K) is mid-level; only entry roles are facilities/SkillBridge trainees. Associate SWE appeared once (Mar 2026), now gone.",
-  "confidence": "medium"
+  "evidence": "Workday API 2026-10-20 (280, full): US/Toronto software roles (SDN, Network Product Software) need 5+ yrs; DevOps (Dallas) lists no years and requires hands-on Kubernetes/Go, left out as unclear. Entry roles are facilities or SkillBridge trainees. Associate SWE (Mar 2026) is gone.",
+  "confidence": "high",
+  "dropped": []
 }

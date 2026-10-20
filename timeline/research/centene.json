@@ -1,15 +1,16 @@
 {
   "company": "Centene",
-  "tier": 5,
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2025-09-15",
   "last_cycle_basis": "tracker history: Application Development Engineer I, Remote MO, first seen 2025-09-15 (Data Engineer I roles also May-Nov 2025)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.centene.com/us/en/jobs/",
   "jobs_spec": "wd:centene/wd5/Centene_External",
-  "evidence": "Workday full board (368) 2026-10-08: no Engineer I / Developer I / Data Engineer I live. Only Application Development Engineer II, Data Center Engineer I (infrastructure), Data Scientist I (not SWE, not counted) and Summer 2027 interns. Entry-level tech roles post on a rolling basis.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Full Workday board (356) read 2026-10-20: no Engineer I or Developer I live; only VP-level AI/platform roles, analysts and 2027 summer interns. Last cycle AppDev Engineer I opened 2025-09 per tracker.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

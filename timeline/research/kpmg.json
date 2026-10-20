@@ -1,42 +1,56 @@
 {
-  "company": "KPMG",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate, Software Engineer",
-      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135722",
-      "location": "Atlanta, GA; Denver, CO; Montvale, NJ; Orlando, FL",
-      "opened": "on or before 2026-10-08",
-      "date_source": "page text (no date shown)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "requires 'Minimum one year of recent full-time experience in software engineering'; Associate title; career level listed Experienced",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Engineer Development",
-      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129633",
-      "location": "Atlanta, GA; Denver, CO",
-      "opened": "on or before 2026-10-08",
-      "date_source": "page text (no date shown)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "requires 'Minimum two years of recent experience in software development'; Associate-level Tax role, Master's desired; career level listed Experienced",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "unknown",
-  "last_cycle_basis": "No KPMG entries in trackers; no dated prior-cycle posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.kpmguscareers.com/job-search",
-  "jobs_spec": null,
-  "evidence": "kpmguscareers.com search 'software engineer' paged to the end 2026-10-08 (867 results). Two entry-ish SWE postings show Apply Now: Associate, Software Engineer (1 yr) and Engineer Development (2 yrs, 'will not sponsor'). Federal cyber/cloud and Sr. Associate FDE/data roles are senior or likely clearance; 2027 Technology Assurance Associate is audit, not SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+ "company": "KPMG",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineer, Development (Tax)",
+   "url": "https://www.kpmguscareers.com/jobdetail/?jobId=134317",
+   "location": "Atlanta, GA; Denver, CO",
+   "opened": "2026-10-01",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": "2026-10-31",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Associate-level Tax Technology role; requires 'Minimum one year of recent experience in software development'; Master's degree",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Engineer Development (Tax)",
+   "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129633",
+   "location": "Atlanta, GA; Denver, CO",
+   "opened": "2026-10-01",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": "2026-10-31",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Associate-level Tax role; requires 'Minimum two years of recent experience in software development'; Master's degree; career level listed Experienced",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Engineer, Development Tax Technology | Denver Winter 2027",
+   "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139235",
+   "location": "Denver, CO",
+   "opened": "on or before 2026-10-01",
+   "date_source": "page text (datePosted Oct 1, 2026; may be a repost date)",
+   "deadline": "2026-10-31",
+   "grad_window": "Nov 2025 – Dec 2026 (window ends 2026, last-cycle leftover)",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "unknown",
+ "last_cycle_basis": "No KPMG entries in trackers; no dated prior-cycle posting found",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://www.kpmguscareers.com/job-search",
+ "jobs_spec": null,
+ "evidence": "Reopened jobdetail 134317, 129633, 139235 on kpmguscareers.com 2026-10-20: all show Apply Now, validThrough Oct 31 2026. 129633 requires 2 yrs; 139235 Winter 2027 Early Career, grads Nov 2025-Dec 2026. 129633 and 139235 say KPMG will not sponsor. Full 854-job list not scannable (filters don't apply).",
+ "confidence": "medium"
 }

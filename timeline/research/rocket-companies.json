@@ -1,42 +1,43 @@
 {
   "company": "Rocket Companies",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer I",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
       "location": "Detroit, MI; Cypress Waters, TX",
-      "opened": "2026-08-07",
+      "opened": "2026-07-26",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Level I title; 1-3 yrs professional experience listed",
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer (Agentic AI Applications)",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer--Agentic-AI-Applications-_R-083562",
-      "location": "Detroit, MI",
-      "opened": "2026-07-21",
-      "date_source": "workday startDate",
+      "title": "Software Developer I",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
+      "location": "Seattle, WA",
+      "opened": "2026-05-22",
+      "date_source": "workday startDate (possible repost of the May 2026 Seattle Software Developer I)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Minimum 2+ years of professional software development experience; 'learning opportunities that are hard to find at this career stage', mentorship from senior engineers, path to senior",
+      "level": "new-grad title",
+      "level_basis": "Level I title; 1-3 yrs professional experience listed",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: Software Engineer I Bentonville 2025-02-11 and Software Developer I Seattle 2026-05-01 (rolling level-I roles); no Jul 2025-Jan 2026 date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
   "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
-  "evidence": "Workday full board 2026-10-08 (383) + CXS detail: Software Engineer I (1-3 yrs) and unlabeled Agentic AI SWE (2+ yrs, entry-style) listed. Rest are Senior/II+. ML Developer is Remote-Ontario (not Toronto/Vancouver), left out. Rolling level-I roles.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Fresh Workday full board 2026-10-20 (380): Software Developer I (Seattle) and Software Engineer I (Detroit/Cypress Waters) live, both 1-3 yrs. Full Stack Developer needs 3+ yrs, Data Engineer 5 yrs. Older openeds kept; Seattle I may be a repost.",
+  "confidence": "high"
 }

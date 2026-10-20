@@ -1,8 +1,14 @@
 {
-  "company": "Citizens (Citizens Financial Group)",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
+  "checked": "2026-10-20",
+  "dropped": [
+    {
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49903",
+      "reason": "gone: Software Engineer I is not on the full Oracle board, its requisition-details API returns no item, and the browser page shows no posting"
+    }
+  ],
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "postings": [
     {
       "title": "Software Engineer | Enterprise Technology & Security Development Program",
@@ -12,7 +18,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -25,18 +31,18 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
     }
   ],
+  "company": "Citizens (Citizens Financial Group)",
+  "status": "open",
   "last_cycle_opened": "2025-10-30",
   "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board job 41913)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
   "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle list (454) omits the ETS Development Program reqs, but detail API 2026-10-08 still serves both (49291 SWE, 49290 Data Engineer); Spring 2027 grads; permanent work authorization required, no CPT/OPT/visa sponsorship.",
+  "evidence": "Oracle board (491, full) 2026-10-20 and browser: ETS Development Program Software Engineer and Data Engineer (Spring 2027 grad, start 2027-06-28, no visa sponsorship) open with Apply Now though absent from the list. Software Engineer I (49903, ended 2026-10-23) is gone.",
   "confidence": "high"
 }

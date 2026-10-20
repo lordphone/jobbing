@@ -1,15 +1,16 @@
 {
   "company": "Ameriprise Financial",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": "2026-01-23",
   "last_cycle_basis": "tracker 'Technology Leadership Development Program Associate' Minneapolis first seen 2026-01-23",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise",
   "jobs_spec": "wd:ameriprise/wd5/Ameriprise",
-  "evidence": "Workday full board 2026-10-08 (235): no entry-level tech posting; US tech roles need 5-10+ yrs or are India. Technology Leadership Development Program (Minneapolis) not posted this cycle yet; last cycle first seen 2026-01-23 per tracker.",
-  "confidence": "medium"
+  "evidence": "Workday full board (234) 2026-10-20: US engineers are ops, EUC and contact-center roles or VP Forward Deployed Engineer; no entry SWE and no Technology Leadership Development Program posted yet (last cycle posted Jan 2026).",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

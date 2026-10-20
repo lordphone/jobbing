@@ -1,29 +1,31 @@
 {
-  "company": "Accenture",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Entry Level Java Developer Associate (Accenture Federal Services; 2 or 4 year STEM degree, no clearance stated)",
-      "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
-      "location": "San Antonio, TX",
-      "opened": "on or before 2026-08-12",
-      "date_source": "tracker first seen (API releasedDate 2014 is a reused template ad)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "entry-level title; basic qualification is a 2 or 4 year STEM degree",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "jobs.py history: 'ATC Salesforce Analyst - Nashville' active 2025-12-03; multiple ATC Analyst roles Dec 2025-Jan 2026 (tracker_last_cycle 2026-01-09)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
-  "jobs_spec": "wd:accenture/wd103/AccentureCareers",
-  "evidence": "Workday full board 2026-10-08 (780, mostly non-US): no US entry SWE; accenture.com search returned nothing via fetch. AFS SmartRecruiters (23, full) still lists the Java Associate (active, no sponsorship, no clearance quoted); date is a reused 2014 template, so low-medium certainty.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5
+ "company": "Accenture",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Entry Level Java Developer Associate",
+   "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
+   "location": "San Antonio, TX",
+   "opened": "2026-08-12",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "experienceLevel entry_level; Basic Qualifications: 2 or 4 year STEM Degree",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-03",
+ "last_cycle_basis": "jobs.py history: 'ATC Salesforce Analyst - Nashville' active 2025-12-03; multiple ATC Analyst roles Dec 2025-Jan 2026 (tracker_last_cycle 2026-01-09)",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+ "jobs_spec": "wd:accenture/wd103/AccentureCareers",
+ "evidence": "Commercial Workday US search 2026-10-20 (183 'software engineer'): Flex hourly client roles needing 2-3+ yrs, no entry SWE; board listing only 20 shown. AFS SmartRecruiters Entry Level Java Developer Associate (San Antonio) is in the API but its page shows only 'I'm interested' (legacy 2014 template), so liveness is uncertain; kept from earlier run.",
+ "confidence": "low",
+ "jobs_spec_basis": "Unfiltered board listing caps at 2000 of a global board; US and Canada searched by keyword; AFS postings live on its own SmartRecruiters"
 }

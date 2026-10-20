@@ -1,7 +1,7 @@
 {
   "company": "Panasonic",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -29,6 +29,32 @@
       "level": "unlabeled",
       "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I – Embedded Systems",
+      "url": "https://careers.na.panasonic.com/jobs/50269",
+      "location": "Irvine, CA",
+      "opened": "2026-10-08",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; 0 - 3 years' work experience; Bachelor's CS/CE/SE",
+      "no_sponsorship": false
+    },
+    {
+      "title": "MTS I, Software Engineer",
+      "url": "https://careers.na.panasonic.com/jobs/51755",
+      "location": "Irvine, CA",
+      "opened": "2026-10-19",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "MTS I; '0 - 3 years' work experience'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-10",
@@ -37,6 +63,12 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.na.panasonic.com/jobs",
   "jobs_spec": null,
-  "evidence": "Read all 425 postings via careers.na.panasonic.com Jibe API 2026-10-08. Irvine CA Software Engineer (Full Stack, 49874) and Embedded/Linux (50895) are listed with apply links, ask 0-3 yrs, no citizenship line (Avionics; only 'valid authorization to work in the U.S.'). 49873 asks 8+ yrs; Software Implementation Engineer (Hoffman Estates) is install/support; others Sr/MTS III+. Not opened in a browser.",
-  "confidence": "medium"
+  "evidence": "Jibe API re-read 2026-10-20 (489 postings, full): four Irvine CA entry-level software roles (SWE Full Stack, SWE Embedded/Linux, SWE I, MTS I Software Engineer) ask 0-3 yrs, no citizenship line (work authorization only). MTS I 51759 now 404. Left out: MTS II (3+ yrs), MTS III-V, Software Engineer III, 49873 (8+ yrs), ML Engineer IV.",
+  "confidence": "high",
+  "dropped": [
+    {
+      "url": "https://careers.na.panasonic.com/jobs/51759",
+      "reason": "gone: page returns 404 and the Jibe API no longer lists it; MTS I, Software Engineer (51755) is the similar title still live"
+    }
+  ]
 }

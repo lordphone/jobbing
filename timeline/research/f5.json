@@ -1,15 +1,16 @@
 {
   "company": "F5",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-02-04",
-  "last_cycle_basis": "Simplify tracker: 'Engineer 1 - Software' San Jose / 'Engineer 1' Seattle first seen 2026-02-04; SDE I Seattle/San Jose 2026-02-27 (public new-grad reqs come in Feb)",
+  "last_cycle_basis": "Simplify tracker: 'Engineer 1 - Software' San Jose / 'Engineer 1' Seattle first seen 2026-02-04; SDE I 2026-02-27 (public new-grad reqs come in Feb)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ffive.wd5.myworkdayjobs.com/f5jobs",
   "jobs_spec": "wd:ffive/wd5/f5jobs",
-  "evidence": "Workday API 2026-10-08, 211 postings full, screened: SRE (Seattle/San Jose, 1-3 yrs support/sysadmin) is ops, not counted. SDE I (AI) Seattle no longer listed (earlier: returning interns only). Only interns. New-grad reqs came Feb last year.",
+  "evidence": "Workday full board (239) 2026-10-20: no US Software Engineer I or grad software posting; only Mechanical Engineer I, SDE interns, senior roles. Seattle/San Jose SRE is a 24/7 tech-support hybrid (1-3+ yrs support), not counted. Public SWE reqs came in Feb.",
   "confidence": "medium"
 }

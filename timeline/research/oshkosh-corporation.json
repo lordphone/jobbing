@@ -1,15 +1,43 @@
 {
   "company": "Oshkosh Corporation",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2026-01-16",
-  "last_cycle_basis": "tracker first seen: Software Application Engineer - Entry Level (Huntersville, NC); also Product AI Engineer 2025-10-17",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Engineer - Software",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50694",
+      "location": "Oshkosh, WI",
+      "opened": "2026-10-15",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Under close supervision\"; minimum \"Bachelor's degree in engineering ... with Internship experience or six (6) or more months of related work experience\"",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer – Software",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50645",
+      "location": "Oshkosh, WI",
+      "opened": "2026-10-20",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Under close supervision\"; minimum \"Bachelor's degree in engineering ... with Internship experience or six (6) or more months of related work experience\"",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-10-17",
+  "last_cycle_basis": "tracker first seen: Product Artificial Intelligence - Engineer, Pittsburgh PA (Oshkosh Workday)",
   "jobs_page": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh",
   "jobs_spec": "wd:oshkoshcorporation/wd5/Oshkosh",
-  "evidence": "Workday full board (554) 2026-10-08: no entry SWE live. SCADA/MES Developer (Jefferson City TN) asks 2+ yrs of Ignition/Sepasoft experience, not entry-level; Design Engineer Entry Level is mechanical; software roles are Sr/Lead/Principal or interns.",
-  "confidence": "high"
+  "evidence": "Workday board (533, full) 2026-10-20, both Engineer - Software postings (Oshkosh WI, R50694 posted 2026-10-15, R50645 posted 2026-10-20) read via API: embedded C/C++ vehicle control, 'Under close supervision', minimum bachelor's plus internship or 6 months experience. Export notice says applicants 'may need to be U.S. Persons' (soft). SCADA/MES Developer needs 2+ yrs.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

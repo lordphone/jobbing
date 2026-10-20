@@ -1,7 +1,7 @@
 {
   "company": "Acuity Inc.",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -76,6 +76,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.acuityinc.com/search/",
   "jobs_spec": null,
-  "evidence": "Careers site fetched 2026-10-08 (SuccessFactors search + posting pages, all Apply now): Atlanta G&T SWE, 3 Conyers SWE BUILD reqs and Atlanta Data & AI BUILD; bachelor's, 0-2 yrs, 12 Jul 2027 start, no stated deadline, no sponsorship line. Other 'Software Engineer' reqs are non-US (Cork/Bangalore) and need 2+ yrs; US SRE/Sr roles are experienced.",
-  "confidence": "high"
+  "evidence": "careers.acuityinc.com searches 2026-10-20 (BUILD, software engineering, Data & AI) plus posting pages fetched, all with Apply now: Atlanta Growth & Transformation SWE BUILD, three Conyers SWE BUILD, Atlanta Data & AI BUILD (bachelor's, 0-2 yrs, July 2027 start). Page dates now Oct 10-11 (reposted); kept earlier opened dates. Generic Software Engineer reqs are Senior/Lead, left out.",
+  "confidence": "high",
+  "dropped": []
 }

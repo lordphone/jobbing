@@ -1,6 +1,7 @@
 {
   "company": "Pure Storage",
   "tier": 3,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -17,14 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-02-17",
   "last_cycle_basis": "jobs.py history: Graduate Software Engineer, Santa Clara CA, greenhouse 7258968, first seen 2026-02-17 (closed); before that Software Engineer Grad, Hyperscale 2024-07-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/purestorage",
   "jobs_spec": "gh:purestorage",
-  "jobs_spec_basis": "Company rebranded Everpure; careers opportunities page loads the purestorage Greenhouse board",
-  "evidence": "Greenhouse board 2026-10-08, 356 postings (full): 'Software Engineer Grad 2027' (Santa Clara, C++, $122-183K) first_published 2026-10-06, 'no application deadline', rolling; no sponsorship or citizenship text. Other Santa Clara SWE roles need 3+ yrs or are unclear. Just opened.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse board 2026-10-20, 376 postings (full): 'Software Engineer Grad 2027' (Santa Clara) first_published 2026-10-06, live via API, no application deadline (rolling). Other US SWE roles ask 3-6+ years or are senior, not counted.",
+  "confidence": "high"
 }

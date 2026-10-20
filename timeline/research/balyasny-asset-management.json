@@ -1,16 +1,17 @@
 {
   "company": "Balyasny Asset Management",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2025-07-05",
-  "last_cycle_basis": "tracker history: Systematic Equities Quantitative Researcher / Developer (NY) first seen 2025-07-05 (quant dev, not pure SWE)",
+  "last_cycle_basis": "tracker history: Systematic Equities Quantitative Researcher / Developer (NY) first seen 2025-07-05 (quant dev, not pure SWE); 2024-09-11 New Grad Commodities Quant Analyst (Calgary)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bambusdev.my.site.com/s/",
   "jobs_spec": null,
-  "jobs_spec_basis": "Salesforce portal, no API; read in browser pane",
-  "evidence": "2026-10-08 browser: read all 134 roles. Early Career filter shows only Warsaw Junior (Post-Graduate) SWE and a NY credit analyst. US SWE-type roles opened ask 4-5+ yrs (Quant Dev Systematic Research Tech, Execution Tech, Risk Engineer) or are support (Tech Solutions); Summer 2027 interns only. No US new-grad SWE yet.",
-  "confidence": "medium"
+  "jobs_spec_basis": "Salesforce portal with no API; read in browser (job pages at /s/details?jobReq=<Title-with-dashes>_REQ#)",
+  "evidence": "2026-10-20 browser read of the Salesforce portal: 131 open roles. Only junior SWE is Warsaw (Junior Post-Graduate SWE). US engineering roles are senior or experienced (earlier spot-check: 5+ yrs); US SWE entry only as Summer 2027 interns. No full-time US new-grad SWE yet.",
+  "confidence": "medium",
+  "dropped": []
 }

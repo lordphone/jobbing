@@ -1,0 +1,43 @@
+{
+  "company": "Pacific Northwest National Laboratory (PNNL)",
+  "tier": 4,
+  "checked": "2026-10-19",
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Early Career Software Engineer",
+      "url": "https://careers.pnnl.gov/jobs/12427",
+      "location": "Richland, WA",
+      "opened": "2026-09-24",
+      "date_source": "tracker first seen of earlier req 12171 (2026-09-24); jibe posted_date of repost 12427 is 2026-10-14",
+      "deadline": "2026-10-19",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Requires 'Completed BS/BA or higher in computer science or software engineering'; title Early Career; $83,100-$122,100",
+      "no_sponsorship": false
+    },
+    {
+      "title": "DevOps/Platform Engineer II",
+      "url": "https://careers.pnnl.gov/jobs/12355",
+      "location": "Richland, WA; Seattle, WA",
+      "opened": "2026-07-10",
+      "date_source": "jibe posted_date of repost 12355 is 2026-10-08; earlier req 11909 first seen 2026-07-10",
+      "deadline": "2026-10-30",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: PhD OR MS/MA OR BS/BA and two years of professional software development experience; $109,000-$163,600",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker history shows only postdoc postings (2026-08); no earlier new-grad SWE found",
+  "excluded_reason": "clearance",
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.pnnl.gov",
+  "jobs_spec": null,
+  "evidence": "Jibe API (53 jobs) 2026-10-19: Early Career Software Engineer 12427 (expires 2026-10-19) and DevOps/Platform Engineer II 12355 (expires 10-30) both say 'requires the ability to obtain and maintain a federal security clearance' and cite 10 CFR 710 eligibility. Other SWE reqs are senior (BS+7).",
+  "confidence": "high",
+  "dropped": []
+}

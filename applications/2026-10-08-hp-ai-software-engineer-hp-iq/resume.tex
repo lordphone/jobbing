@@ -16,12 +16,10 @@ Selected Coursework: Large Language Models in Practice, Operating Systems, Compu
 \section{Work Experience}
 \role{NewsBreak (Venture Team)}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
 \begin{itemize}
-  \item Built agentic search over SSE: deterministic RAG on turn 1, then a bounded tool-calling agent ($\le$3 hops, 5 tools, 45\,s) for follow-ups, with client-held chat state (no PII at rest) and server-resolved citations.
-  \item Fused keyword, full-text, and bge vector retrieval by RRF, degrading to the surviving legs on failure, and used deterministic entity resolution as the query rewriter, taking real logged queries from 0\% to 100\% P@1 at 0.4\,ms.
-  \item Decomposed personalized news alerts into a multi-step LLM pipeline on a Kubernetes CronJob (bge embeddings $\to$ categorical LLM scoring $\to$ per-topic percentile gate $\to$ LLM dedupe $\to$ push) at $\sim$2 min ingest-to-decision and $\sim$1{,}200 LLM calls/day; cut filler 34\% $\to$ 4\% after 11 days of production shadow.
+  \item Built agentic search over SSE: deterministic RAG on turn 1, then a bounded tool-calling agent ($\le$3 hops, 5 tools, 45\,s) with client-held chat state (no PII at rest), RRF hybrid retrieval, and server-resolved citations; entity resolution took real logged queries from 0\% to 100\% P@1 at 0.4\,ms.
+  \item Decomposed personalized news alerts into a multi-step LLM pipeline on a Kubernetes CronJob (bge embeddings $\to$ categorical LLM scoring $\to$ per-topic percentile gate $\to$ LLM dedupe $\to$ push) at $\sim$1{,}200 LLM calls/day; cut filler 34\% $\to$ 4\% after 11 days of production shadow.
   \item Root-caused a 65\% failure rate in another team's Redis Streams LLM workers via Langfuse traces as an unbounded reasoning loop (p95 1{,}197 tokens vs.\ 16{,}384 runaways) and a Helm env shadowing the code default.
-  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 endpoints with $\sim$1{,}450 offline tests and cut a 25--30 request fan-out to one call on a shared cache 78$\times$ smaller than per-user keys.
-  \item Deployed it on AWS EKS (Docker, Helm, Jenkins, autoscaling 2--4 pods) on day 3, set up Prometheus and Grafana, and fixed a 5-day silent CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency).
+  \item Built the Python FastAPI / MongoDB backend from its first commit to 89 endpoints with $\sim$1{,}450 offline tests and deployed it on AWS EKS (Docker, Helm, autoscaling 2--4 pods) on day 3 with Prometheus and Grafana.
   \item Primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings); moved nine third-party integrations, including LLM and embedding APIs, server-side so the iOS client ships zero API keys.
 \end{itemize}
 
@@ -35,7 +33,7 @@ Selected Coursework: Large Language Models in Practice, Operating Systems, Compu
 \vspace{1pt}
 \role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
 \begin{itemize}
-  \item Built the LLM mock-interview app from 0$\to$1 as sole engineer; owned auth, sessions, and the database.
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
   \item Iterated its AI scoring with recruiters and clients until three 200--500-person companies signed contracts.
 \end{itemize}
 
@@ -57,6 +55,7 @@ Selected Coursework: Large Language Models in Practice, Operating Systems, Compu
 \section{Projects}
 \begin{itemize}
   \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering and speed from 1\,s video, with a data pipeline over 33 hours of Comma2k19; trained on local CUDA and GCP Vertex AI and ran streaming inference.
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans. Tested Z.AI, MiniMax, and Kimi on KV caching, long context, and needle-in-a-haystack to show which nerfed caching or heavily quantized models.
   \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
 \end{itemize}
 

@@ -3,40 +3,28 @@
   "status": "open",
   "postings": [
     {
-      "title": "Junior Data Engineer (req 677288; entry point, writes code on a data engineering team)",
+      "title": "Junior Data Engineer (req 677288)",
       "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19106/1426164400/",
       "location": "Philadelphia, PA",
       "opened": "on or before 2026-09-26",
-      "date_source": "aramark sitemap lastmod (earlier run)",
+      "date_source": "aramark sitemap lastmod (earlier run); sibling Rockville Junior Data Engineer first seen 2026-09-02 on trackers",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Junior title; 'excellent entry point into a long-term data engineering career track'; no years required; writes code with senior engineers",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Junior Data Engineer (req 675584)",
-      "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19103/1425182600/",
-      "location": "Philadelphia, PA (candidate based in or near Philadelphia PA, Chicago IL or Rockville MD)",
-      "opened": "2026-08-31",
-      "date_source": "aramark careers listing date (kept from earlier run)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Junior title; qualifications ask 2+ years building data pipelines",
+      "level_basis": "Junior title; 'excellent entry point into a long-term data engineering career track'; no years required; writes code with senior engineers; BS or MS in CS expected",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found in tracker history; no prior-cycle record",
-  "no_sponsorship": true,
+  "last_cycle_basis": "no tracker history for an entry SWE; none found",
+  "no_sponsorship": false,
   "jobs_page": "https://aramarkcareers.com/UnitedStates/search/",
   "jobs_spec": null,
-  "evidence": "Aramark SuccessFactors RSS searches and both posting pages 2026-10-08: Junior Data Engineer 677288 and 675584 (Philadelphia) show Apply now; no visa sponsorship. 677288 has no years ask; 675584 asks 2+ yrs. Data engineering is borderline SWE; other tech roles are 2027 IT intern, MAP (non-tech) or senior. Reconfirmed via careers API and 675584 page.",
-  "confidence": "low",
+  "evidence": "aramarkcareers.com posting page 2026-10-20: Junior Data Engineer 677288 (Philadelphia) shows Apply now, no visa sponsorship, entry-level coding duties. Other data engineer roles ask 5-7 yrs. Board has about 7000 postings, so coverage is partial.",
+  "confidence": "medium",
   "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "dropped": []
 }

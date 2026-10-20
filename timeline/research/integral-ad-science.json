@@ -1,16 +1,16 @@
 {
   "company": "Integral Ad Science",
-  "tier": 9,
-  "status": "no_program_found",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad history in trackers; unknown",
-  "jobs_page": "https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/",
-  "jobs_spec": "wd:integralads/wd1/IAScareers",
-  "jobs_spec_basis": "jobs.py board says not found, but Workday cxs API answers directly (12 postings)",
-  "evidence": "Workday 2026-10-08 (12, full): publisher growth, account, sales, recruiter and product roles; no engineering postings.",
-  "confidence": "high",
-  "checked": "2026-10-08",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/",
+  "jobs_spec": "wd:integralads/wd1/IAScareers",
+  "status": "no_program_found",
+  "evidence": "wd:integralads/wd1/IAScareers full (13) 2026-10-20: account, publisher growth, solutions, technical account roles only; no engineering postings.",
+  "confidence": "high"
 }

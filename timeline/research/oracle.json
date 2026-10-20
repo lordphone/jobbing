@@ -1,12 +1,12 @@
 {
   "company": "Oracle",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346357",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
       "location": "Nashville, TN",
       "opened": "2026-09-30",
       "date_source": "oracle API posted date",
@@ -19,11 +19,13 @@
     }
   ],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker first-seen 'Undergrad Software Engineer' (Seattle, WA), job/304100, via jobs.py history",
+  "last_cycle_basis": "tracker first seen 'Undergrad Software Engineer' (Seattle, WA), jobs.py history; 'Advanced Degree Software Engineer' postings appeared 2025-10-26",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-  "jobs_spec": "oracle:eeho.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "oracle:CX_1 full board (2149) 2026-10-08: only entry-level SWE is the Feb 2027 Undergrad SWE (OCI, Nashville), no end date; posting says no visa sponsorship. Support/Interface Engineer 1 and OCI Core Infrastructure Engineer 2 not SWE/entry SWE.",
-  "confidence": "high"
+  "jobs_page": "https://careers.oracle.com/en/sites/jobsearch",
+  "jobs_spec": "oracle:eeho.fa.us2.oraclecloud.com/CX_45001",
+  "jobs_spec_basis": "careers.oracle.com redirects to jobsearch site; CX_45001 board holds the Undergrad SWE",
+  "evidence": "Oracle API CX_45001 full board (2249) 2026-10-20: only entry SWE is Feb 2027 Undergrad SWE OCI (Nashville, onsite, posted 2026-09-30, live via API, no visa sponsorship). Core Infra SWE wants 3+ yrs, Platform SWE Agentic AI 4+ yrs; AI Ops, OCI Core Infra Engineer 2 and Core Infra Engineer show no entry wording, left out.",
+  "confidence": "high",
+  "dropped": []
 }

@@ -1,0 +1,44 @@
+{
+ "company": "Retool",
+ "tier": 3,
+ "checked": "2026-10-19",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Enterprise Expansion",
+   "url": "https://jobs.gem.com/retool/am9icG9zdDoX5onwu3TB7uo8a_dW4mEb",
+   "location": "San Francisco, CA",
+   "opened": "2026-08-20",
+   "date_source": "gem first_published_at",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 2–8 years of professional SWE experience; no lead/mentor duties; no level in title",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, AI Governance",
+   "url": "https://jobs.gem.com/retool/am9icG9zdDp9SmgWhNEJ2bTl6QWkx15r",
+   "location": "San Francisco, CA",
+   "opened": "2026-05-08",
+   "date_source": "gem first_published_at",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 2–8 years of professional SWE experience; no lead/mentor duties; no level in title",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found; no tracker history",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://retool.com/careers",
+ "jobs_spec": null,
+ "jobs_spec_basis": "careers page 'Apply on Gem' goes to jobs.gem.com/retool; read via api.gem.com/job_board/v0/retool/job_posts (no jobs.py spec)",
+ "evidence": "Re-read all 25 Gem postings 2026-10-18. Two SF SWE roles (Enterprise Expansion, AI Governance) ask 2–8 yrs, no lead/mentor duties, counted as unlabeled but mid-level ($163.8K+; borderline). Others need 3+/5+/6+ yrs or mentoring. No new-grad track.",
+ "confidence": "medium",
+ "dropped": []
+}

@@ -1,30 +1,17 @@
 {
   "company": "Guidehouse",
   "tier": 5,
-  "status": "excluded",
-  "postings": [
-    {
-      "title": "Palantir Foundry Engineer I",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Palantir-Foundry-Engineer-I_42897",
-      "location": "San Antonio, TX; Houston, TX; Charlotte, NC; Huntsville, AL; Atlanta, GA",
-      "opened": "2026-09-21",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "\"Engineer I\"; requires 2+ years Palantir Foundry",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "not_yet",
   "last_cycle_opened": "2025-10-08",
-  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA; US-citizenship flagged)",
-  "excluded_reason": "clearance",
+  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA; US-citizenship flagged); Junior AI/ML Software Engineer remote seen 2026-05-06",
+  "excluded_reason": null,
   "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:guidehouse/wd1/External",
-  "jobs_spec_basis": "board name is case-sensitive: lowercase \"external\" returns nothing, \"External\" lists 400 postings",
-  "evidence": "Workday External full board 2026-10-08 (830): only entry-ish roles are Palantir Foundry Engineer I ('obtain and maintain a Public Trust or higher federal security clearance'; 2+ yrs Foundry) and Jr. OneStream Developer (Public Trust, 1 yr OneStream, finance). Other developers need 3-8 yrs, citizenship/green card.",
+  "jobs_spec_basis": "Board returned 300 postings this run (797 on an earlier run); API lists vary",
+  "evidence": "Workday board (300, Coverage full) read 2026-10-20: US Software Engineer postings need TS/SCI (8 yrs) or Top Secret; Full Stack Developer needs 3 yrs and US citizen/green card; ETL needs 6 yrs. No entry-level SWE live now; junior roles appeared last cycle.",
   "confidence": "medium",
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
   "no_sponsorship": false
 }

@@ -10,33 +10,34 @@ description: >-
 
 # New application
 
+You are a professional resume writer who tailors new-grad software engineering resumes to a specific job. Pick the experience that best matches the JD, and write tight, specific bullets that a recruiter can scan in seconds.
+
 ## Inputs
 
-1. The job description — pasted text, a posting URL, or both. A URL alone is enough: fetch it. If he pastes both, use the text and keep the URL as the link. If the page is login-walled, ask for a paste instead of inventing a JD.
+1. The job description — pasted text, a posting URL, or both. A URL alone is enough: fetch it. If he pastes both, use the text and keep the URL as the link. If the page is login-walled, ask for a paste.
 2. The `inventory/` role files you might pick from.
 3. The newest `applications/*/resume.tex`, as the template.
 
 ## Steps
 
-1. Write the JD to `applications/<YYYY-MM-DD>-<company>-<role>/jd.md`. Use today's full date, including the day, for every new application folder (for example, `2026-09-23-singlestore-software-engineer-helios-new-grad-2027`). Put the posting URL at the top of `jd.md` if the paste has one.
+1. Write the JD to `applications/<YYYY-MM-DD>-<company>-<role>/jd.md` with today's date (for example, `2026-09-23-singlestore-software-engineer-helios-new-grad-2027`). Put the posting URL at the top of `jd.md` if the paste has one.
 2. Score inventory items against the JD. Fuse overlapping facts into one bullet when they are the same work; do not repeat a metric. Otherwise pick and rewrite freely.
 3. Pick:
    - NewsBreak title: pick from the printed-title list in `inventory/newsbreak.md`, using the JD.
-   - NewsBreak: 3–4 bullets
+   - NewsBreak: 4–6 bullets, never more than 6
    - Haddee / ZenAI: 1–2 each
    - Research: 1–2 if the JD cares; if it does not, keep it as fill before leaving empty space
    - Projects / leadership: 1–2 lines
    - Skills: reorder so JD keywords sit in the first two rows; drop the rest
    - Certifications: strongly recommended. Keep both AWS certifications as their own Skills row (`Certifications`); most employers run on cloud. Cut them only as a last resort to fit the page, and say so in `selection.md`
    - Coursework: 2–4 per school, JD-relevant first
-   - Section lengths above are defaults. To fill the page, add the next-best unused inventory item or expand a selected bullet with relevant unused facts (second Haddee/ZenAI line, research, project details, extra project); do not repeat claims. Only after useful inventory content is exhausted may you modestly loosen itemsep / titlespacing. Preserve the shared margins and font size; do not use blank lines, manual vertical padding, or stretched spacing to disguise missing content. If it spills to two pages, cut the lowest-value line.
+   - Section lengths above are defaults; the NewsBreak max of 6 is firm. To fill the page, add the next-best unused inventory item or expand a selected bullet with relevant unused facts (second Haddee/ZenAI line, research, project details, extra project); do not repeat claims. Only after useful inventory content is exhausted may you modestly loosen itemsep / titlespacing. If it spills to two pages, cut the lowest-value line.
 4. Write the bullets from the picked facts. Header city (`\header{City}`): prefer Mountain View, CA whenever the JD allows the SF Bay (including multi-office postings that list New York or Seattle alongside SF / South San Francisco / Bay). Canada-only → Toronto, ON. New York only if the JD is New York–only with no Bay option. Otherwise Mountain View, CA.
 5. Write `selection.md` in the same folder:
    - NewsBreak title chosen and why (JD phrase that picked it)
    - item ids used and which facts went into each bullet
    - item ids skipped and why
-   - any constraint you almost violated
-6. Write `resume.tex` in that folder from the template. Keep the existing voice and macros (`\header`, `\role`, `\edu`). Convert numbers to the same LaTeX style (`~`, `\,`, `{,}`). The preamble path is `../../shared/preamble`; if it is wrong, fix the path, do not copy the preamble.
+6. Write `resume.tex` in that folder from the template. Keep the existing voice and macros (`\header`, `\role`, `\edu`). Convert numbers to the same LaTeX style (`~`, `\,`, `{,}`). The preamble path is `../../shared/preamble`.
 
 7. Compile from that folder:
 
@@ -45,13 +46,12 @@ tectonic resume.tex
 mv resume.pdf Lordphone_Wen_Resume.pdf
 ```
 
-### Required page-fill verification before delivery
+### Page-fill check
 
-- Verify the newly compiled deliverable, not a stale PDF from an earlier successful build. A failed compile does not permit delivery of the old PDF as the revision.
-- Require exactly one page. Measure the bottom of the last visible content line using PDF text bounding boxes (for example, `pdftotext -bbox` yMax). With coordinates measured from the top, compute `unused_height = page_height - configured_bottom_margin - last_content_bottom`, in points. Require `0 <= unused_height <= 12 pt`. Read the bottom margin from the preamble. The normal bottom margin is intentional; extra blank space above it is what this check limits.
-- Render and inspect the entire final page at a readable resolution. Require no obvious empty bottom strip, clipping, overlap, or cramped text. Passing the numeric check does not override a visible defect, and visual inspection does not replace the measurement.
-- If either check fails, revise using the inventory-first rule in step 3, recompile, and repeat both checks. Do not call the resume complete or claim it fills the page while a check fails. If compilation or verification is blocked, report the unresolved check instead of claiming success.
-- Record the final page count, bottom margin, last-content position, unused height, and visual-review result in `selection.md`. These measurements must describe the final PDF after the last edit.
+- Exactly one page, and `unused_height = page_height - bottom_margin - last_content_bottom` between 0 and 12 pt. Get the last content line's bottom from `pdftotext -bbox` (yMax) and the bottom margin from the preamble.
+- Render the page and look at it: no empty strip at the bottom, clipping, overlap, or cramped text.
+- If either fails, revise using step 3 and recompile.
+- Record the page count, bottom margin, last-content position, unused height, and visual check in `selection.md`.
 
 8. Prepend a row to `applications/TRACKER.md` (newest first). Date = today (`YYYY-MM-DD`). Company and Role = the JD. Link = posting URL, or empty. Status = `draft`. Outreach = `—`. Folder = the slug. NB title = the printed NewsBreak title. Notes empty unless something is worth one clause. Do not duplicate a row for the same folder.
 

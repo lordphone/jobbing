@@ -1,15 +1,16 @@
 {
  "company": "Bayer",
  "tier": 5,
+ "checked": "2026-10-20",
  "status": "no_program_found",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
  "last_cycle_basis": "No tracker history for Bayer; no software new-grad posting found",
- "jobs_page": "https://talent.bayer.com/careers?domain=bayer.com",
- "jobs_spec": null,
- "evidence": "talent.bayer.com search API, 14 keyword searches, 76 US postings, 2026-10-08: tech hits are co-ops/interns, Staff Engineer, Rotational Development Program (supply chain focus), genomic ML Researcher. No entry SWE.",
- "confidence": "medium",
- "checked": "2026-10-08",
  "excluded_reason": null,
  "no_sponsorship": false,
- "postings": [],
- "last_cycle_opened": null
+ "jobs_page": "https://talent.bayer.com/careers?domain=bayer.com",
+ "jobs_spec": null,
+ "evidence": "talent.bayer.com Eightfold API 2026-10-20 (234 US/Canada postings, all titles read): software/data hits are co-ops (Radiology Software Development Co-Op), Staff Software Engineer, interns. Rotational Development Program (Crop Science Product Supply) is supply chain/manufacturing. No SWE new-grad.",
+ "confidence": "medium"
 }

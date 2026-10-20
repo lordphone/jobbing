@@ -1,15 +1,16 @@
 {
   "company": "Eight Sleep",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No software new-grad found; 2027 new-grad roles are Mechanical and Electrical only",
+  "last_cycle_basis": "No last-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/eightsleep",
   "jobs_spec": "ashby:eightsleep",
-  "evidence": "ashby:eightsleep 2026-10-08 (36, full): 2027 New Grad roles are Mechanical and Electrical only (2026-08-28). SWE roles ask 2+ production ML yrs, 4-5+ yrs, or are Milan; no software new-grad.",
-  "confidence": "high"
+  "evidence": "ashby:eightsleep full board (40): 2027 new-grad roles (Growth, Mobile SWE) are Milan only. US ML Engineer (SF, Jan 2026) lists 2+ yrs production ML plus broad senior-style asks, left out as not new-grad; Full Stack asks 5+ yrs. No US entry SWE.",
+  "confidence": "medium"
 }

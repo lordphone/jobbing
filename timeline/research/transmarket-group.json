@@ -1,7 +1,7 @@
 {
   "company": "TransMarket Group",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title 'Junior'; works with Sr. developers; bachelor's degree, no years stated",
       "no_sponsorship": false
     },
     {
@@ -27,16 +27,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title 'Junior'; BA/BS/MS in CS, no years stated",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: Junior Software Engineer first seen 2026-04-19 (outside Jul 2025-Jan 2026 window); Python Developer / Data Engineer 2025-06-07. Rolling junior postings.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/transmarketgroup",
   "jobs_spec": "gh:transmarketgroup",
-  "evidence": "Greenhouse full board 2026-10-08 (18) and posting text: Junior SWE and Junior Data Engineer live (bachelor's, on-site Chicago), rolling, no class year, deadline or sponsorship text. Posted before Jul 1 but evergreen junior roles.",
+  "evidence": "Greenhouse full board (18) 2026-10-20: Junior SWE and Junior Data Engineer live, rolling, no class year, deadline or sponsorship text. Posted before Jul 1 but evergreen junior roles. Junior Data Center/Desktop Engineer is IT (3-5 yrs), not counted.",
   "confidence": "medium"
 }

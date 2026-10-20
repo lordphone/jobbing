@@ -1,15 +1,30 @@
 {
   "company": "NASA Jet Propulsion Laboratory (JPL)",
   "tier": 4,
-  "status": "no_program_found",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Scientific Applications Software Engineering I (Cloud Systems Software Engineer I)",
+      "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Scientific-Applications-Software-Engineering-I_R6139",
+      "location": "Pasadena, CA",
+      "opened": "2026-10-14",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Level I; requires 'Master's in a similar discipline with 0 years of related work experience' (or Bachelor's with 1 year); $94,328-$115,648",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history shows only postdoc postings (2026-05 to 2026-07); no new-grad SWE",
   "jobs_page": "https://citjpl.wd5.myworkdayjobs.com/Jobs",
   "jobs_spec": "wd:citjpl/wd5/Jobs",
-  "evidence": "Workday API full (95) 2026-10-08: level-I roles are mechanical, mechatronics, structural and Enterprise Cybersecurity Engineer I (IT security, not SWE); software roles are Lead, Teamcenter Developer IV, SQA III TS/SCI, Data Scientist II/IV. No entry SWE. No citizenship line quoted for an eligible role, so not excluded.",
-  "confidence": "high",
-  "postings": [],
-  "checked": "2026-10-08",
+  "evidence": "Workday full board (127) read 2026-10-20; Level I Scientific Applications SWE (Pasadena, startDate 2026-10-14, MS with 0 yrs accepted) live via API. Only a NASA designated-country bar (US citizens/LPRs exempt), no citizenship requirement stated. Other Level I roles are non-software.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
   "no_sponsorship": false,
   "excluded_reason": null
 }

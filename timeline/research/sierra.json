@@ -1,7 +1,7 @@
 {
   "company": "Sierra",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -11,19 +11,20 @@
       "opened": "2026-08-31",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "New Grad 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-01",
   "last_cycle_basis": "jobs.py history: Software Engineer - New Grad - Agent first seen 2025-09-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Sierra",
   "jobs_spec": "ashby:Sierra",
-  "evidence": "Ashby API 2026-10-08 (full): live Software Engineer, Agent (New Grad 2027) SF and NYC, published 2026-08-31 (Singapore duplicate excluded). APX (New Grad 2027) not SWE. No citizenship line or deadline.",
+  "evidence": "Ashby full board (189) re-read 2026-10-20: Software Engineer, Agent (New Grad 2027) SF/NY live, published 2026-08-31. Singapore and London copies and interns excluded. Other SWE roles ask 4+ years or state no level.",
   "confidence": "high"
 }

@@ -1,29 +1,30 @@
 {
   "company": "WebMD (Internet Brands)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "AI Engineer (AI Automation Analyst)",
+      "title": "Associate AI Software Engineer (AI Automation Analyst)",
       "url": "https://jobs.jobvite.com/webmd/job/oepEAfwB",
       "location": "Newark, NJ",
       "opened": "2026-08-14",
       "date_source": "page text (jobvite datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "requires 'Up to 3 years of experience in a technical or analyst role'; $50,000-$75,000; prototyping and automation duties",
+      "level_basis": "body: 'Up to 3 years of experience in a technical or analyst role'; Associate title; $50,000-$75,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first seen 2025-11-14: Associate AI Software Engineer (El Segundo, CA), Internet Brands Jobvite https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/webmd",
   "jobs_spec": null,
-  "evidence": "Jobvite list (69) read 2026-10-08. AI Engineer Newark, NJ has Apply, up to 3 yrs, $50-75K, hybrid analyst/engineer so borderline SWE. AI Systems Engineer is IT admin; Production Engineer senior; others non-SWE.",
-  "confidence": "low"
+  "evidence": "Jobvite list read 2026-10-20 (no API): Associate AI Software Engineer, Newark NJ (datePosted 2026-08-14) still listed with Apply; body is AI Automation Analyst, up to 3 years technical or analyst experience. Other tech roles are Lead, Architect or analyst.",
+  "confidence": "medium"
 }

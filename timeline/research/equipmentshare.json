@@ -1,15 +1,16 @@
 {
   "company": "EquipmentShare",
-  "tier": 4,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No 2025-07 to 2026-01 new-grad SWE posting found in tracker history or on the board.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/equipmentsharecom",
   "jobs_spec": "gh:equipmentsharecom",
-  "evidence": "Greenhouse full board (1044) read 2026-10-08: software roles are Senior Software Engineer and a Software Engineer intern (Columbia MO); no SWE I/new-grad posting. Earlier tracker SWE 1 (gh_jid 8071715) not on board.",
-  "confidence": "high"
+  "evidence": "gh:equipmentsharecom board (1068) read 2026-10-20: only software role is Senior Software Engineer; interns only otherwise. Tracker Software Engineer 1 (gh_jid 8071715, seen 2026-10-06) is now 404 on the Greenhouse API, so closed.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

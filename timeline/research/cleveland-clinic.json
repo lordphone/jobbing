@@ -1,15 +1,16 @@
 {
   "company": "Cleveland Clinic",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none in Jul 2025-Jan 2026; tracker shows entry developer reqs posted in spring (EBI Database Developer 1 2026-03-10, Software Developer 1 Cleveland 2026-04-08) and Software Developer 1 Weston FL 2026-09-16",
+  "last_cycle_basis": "none in Jul 2025-Jan 2026; tracker shows entry developer reqs in spring (Software Developer 1 Cleveland 2026-04-08) and Software Developer 1 Weston FL first seen 2026-09-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
   "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
-  "evidence": "Workday board 2026-10-08 (2291, full) + CXS 'software developer': only Software Developer II/III remain and a Staff/Senior ML scientist. Software Developer 1 (Weston FL, req 334982, 2026-09-16) is no longer listed; earlier browser check showed the page does not exist. No live entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday board read in full (2339 listed): no software or developer titles. Software Developer 1 (Weston FL, first seen 2026-09-16) is gone from the board and search.",
+  "confidence": "medium"
 }

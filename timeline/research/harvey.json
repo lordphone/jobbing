@@ -1,7 +1,7 @@
 {
   "company": "Harvey",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -11,7 +11,7 @@
       "opened": "2026-10-02",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Winter 2026 - Spring 2027",
+      "grad_window": "graduated Winter 2026 - Spring 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -24,11 +24,17 @@
       "opened": "2026-10-02",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Winter 2026 - Spring 2027",
+      "grad_window": "graduated Winter 2026 - Spring 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+      "reason": "gone: not on the Ashby board and page shows Job not found"
     }
   ],
   "last_cycle_opened": "2025-08-22",
@@ -37,6 +43,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/harvey",
   "jobs_spec": "ashby:harvey",
-  "evidence": "Ashby API full board (335) 2026-10-08: two live SWE New Grad (2027) postings, SF and NYC, published 2026-10-02, BS/MS graduating Winter 2026-Spring 2027, $165,000-$181,500. No citizenship, sponsorship or deadline text. Other SWE roles ask 2+ to 10+ yrs at $160K+ (SWE Security 2+ yrs, not counted).",
+  "evidence": "Ashby full board (338) re-read 2026-10-20: two SWE New Grad (2027) postings, SF and NYC, published 2026-10-02, $165K-$181.5K, live. Software Engineer, Security (2+ yrs) is now gone. Generic Software Engineer roles have no level, not counted.",
   "confidence": "high"
 }

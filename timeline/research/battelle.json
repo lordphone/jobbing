@@ -1,29 +1,30 @@
 {
   "company": "Battelle",
   "tier": 5,
-  "status": "excluded",
-  "excluded_reason": "citizenship",
+  "checked": "2026-10-20",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Engineer - Embedded Systems (Entry Level)",
-      "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS76480EXTERNALENUS/Software-Engineer-Embedded-Systems-Entry-Level",
+      "title": "AI/ML Engineer - Entry Level",
+      "url": "https://jobs.battelle.org/us/en/job/76620/AI-ML-Engineer-Entry-Level",
       "location": "Columbus, OH",
-      "opened": "2026-08-26",
-      "date_source": "page text (dateCreated)",
+      "opened": "2026-10-12",
+      "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "level_basis": "Entry Level title; 'Zero to two years of relevant experience'",
+      "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-21",
-  "last_cycle_basis": "tracker first seen; Early Career Software Engineer, Columbus OH",
+  "last_cycle_basis": "tracker first seen; Early Career Software Engineer, Columbus OH (jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.battelle.org/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom widgets 2026-10-08 (185, all listed). Entry Level Embedded SWE (Apply Now present): 'Must be a sole U.S. citizen and able to obtain and maintain a government TS/SCI security clearance'. Junior Embedded Systems Developer and other software/data roles also say US Citizen + DoD clearance.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "no_sponsorship": false
+  "evidence": "Phenom search API (187) and job pages read 2026-10-20. AI/ML Engineer - Entry Level, Columbus OH (76620, 0-2 yrs, created 2026-10-12) live, no citizenship or clearance text, 'unable to sponsor'. Other entry software roles say 'Must be a US Citizen' with clearance.",
+  "confidence": "high"
 }

@@ -6,51 +6,25 @@
     {
       "title": "Early Career Consult Program - Associate AI Engineer",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
-      "location": "Frisco, TX (Dallas Frisco AI Hub)",
+      "location": "Frisco, TX",
       "opened": "2026-08-12",
-      "date_source": "tracker first seen (Workday startDate 2026-10-02)",
-      "deadline": null,
-      "grad_window": null,
+      "date_source": "tracker first seen (same req R-66739; Workday startDate 2026-10-02)",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Software Engineer - Development",
-      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer---Development_R-63192-1",
-      "location": "Frisco, TX (Dallas Frisco AI Hub)",
-      "opened": "on or before 2026-10-07",
-      "date_source": "workday startDate 2026-10-07 (may be a repost)",
+      "no_sponsorship": true,
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required: \"2+ years experience working as a software engineer\"; pay $63,360-$137,040; no lead/architect duties",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Software-Engineer_R-63512",
-      "location": "Frisco, TX (Dallas Frisco AI Hub)",
-      "opened": "on or before 2026-10-07",
-      "date_source": "workday startDate 2026-10-07 (may be a repost)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required: \"2 years experience working as a software engineer on complex software projects\"; .NET focus; no lead duties",
-      "no_sponsorship": true
+      "level_basis": null
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history before 2026-08 (Associate AI Engineer first seen 2026-08-12)",
+  "last_cycle_basis": "tracker history: first Kyndryl early-career postings seen 2026-08-12; no earlier cycle found",
   "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers",
   "jobs_spec": "wd:kyndryl/wd5/KyndrylEarlyCareers",
-  "jobs_spec_basis": "early-career roles are on KyndrylEarlyCareers; KyndrylProfessionalCareers (wd:kyndryl/wd5/KyndrylProfessionalCareers) also lists Frisco SWEs",
-  "evidence": "Both Workday boards read in full 2026-10-08 (EarlyCareers 40, ProfessionalCareers 600). Associate AI Engineer (0-3 yrs, no sponsorship) open; two Frisco Software Engineer postings need 2 yrs. RTP Software Engineering Developer needs 5+ yrs and US citizens/green card.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Workday EarlyCareers board (37, full) and detail 2026-10-20: Associate AI Engineer (Frisco AI Hub) live, \"0-3 years of experience in software engineering, AI, machine learning\"; posting says it will not sponsor visas. Other early-career roles are design, cyber, support or non-US.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false
 }

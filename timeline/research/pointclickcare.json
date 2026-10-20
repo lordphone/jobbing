@@ -1,15 +1,30 @@
 {
   "company": "PointClickCare",
-  "tier": 6,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Canada- Jr Software Engineer (SRE)",
+      "url": "https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0",
+      "location": "Mississauga, ON (Toronto area); Remote (Canada)",
+      "opened": "2026-09-01",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Jr Software Engineer; requires 0-2 years of experience through employment, internship, or co-op programs",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none in 2025-07 to 2026-01; earlier Associate Data Engineer, Salt Lake City first seen 2025-01-16",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "None in 2025-07 to 2026-01; earlier Associate Data Engineer, Salt Lake City first seen 2025-01-16",
   "jobs_page": "https://jobs.lever.co/pointclickcare",
   "jobs_spec": "lever:pointclickcare",
-  "evidence": "Lever API 2026-10-07, 73 postings: only junior SWE is 'Canada- Jr Software Engineer (SRE)' (0-2 yrs, 2026-09-01), Remote or Mississauga, no Toronto/Vancouver listed. No US entry SWE. Not counted as open.",
-  "confidence": "medium"
+  "evidence": "Lever full board (80) and detail 2026-10-20: Canada Jr Software Engineer (SRE), Mississauga or remote Canada, 0-2 yrs, created 2026-09-01, listed. Mississauga counts as Toronto area. Intermediate (Salt Lake City) and marketing analytics roles not entry.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

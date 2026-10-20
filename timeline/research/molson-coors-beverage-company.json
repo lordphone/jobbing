@@ -1,15 +1,16 @@
 {
   "company": "Molson Coors Beverage Company",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no last-cycle posting found",
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://careers.molsoncoors.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom widgets API full board (220 jobs) read 2026-10-08: only IT-entry role is IT Rotational Program Associate (Milwaukee), which is IT program coordination (Jira, Power BI, SAP), not software engineering; other tech are managers. No entry SWE.",
-  "confidence": "medium",
+  "evidence": "Phenom widgets search 2026-10-20 (software, developer, data engineer, ML, new grad, graduate): only Sr. Software Engineer, Manager Software Engineering, interns, sales and plant roles. No entry SWE.",
+  "confidence": "high",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "postings": [],
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

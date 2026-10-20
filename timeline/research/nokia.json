@@ -1,5 +1,7 @@
 {
   "company": "Nokia",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "excluded",
   "postings": [
     {
@@ -19,11 +21,10 @@
   "last_cycle_opened": "2026-01-15",
   "last_cycle_basis": "tracker first seen: Software Developer, Naperville IL",
   "excluded_reason": "citizenship",
+  "no_sponsorship": true,
   "jobs_page": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle board 2026-10-08 (608 postings, full): only entry-plausible US software role, Software Developer (job 40564), says 'Qualified candidates must be US Citizen or Greencard holder', no sponsorship (NSA). Other US software roles need 5+ yrs or are hardware; Canada 'Jr. Embedded BSP SW Engineer' lists no city (IP routing, hardware-adjacent) and SDE needs 2-4 yrs.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "no_sponsorship": true
+  "evidence": "Oracle board re-read 2026-10-20 (593, full) plus detail: only entry-plausible US software role, Software Developer (40564), says 'must be US Citizen or Greencard holder' (NSA, no sponsorship). Other US/Canada software roles ask 2-5+ yrs, are senior, or co-op/student.",
+  "confidence": "high",
+  "dropped": []
 }

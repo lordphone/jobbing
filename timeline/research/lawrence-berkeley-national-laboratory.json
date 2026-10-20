@@ -1,7 +1,7 @@
 {
   "company": "Lawrence Berkeley National Laboratory (Berkeley Lab)",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107332",
       "location": "Berkeley, CA",
       "opened": "2026-08-18",
-      "date_source": "taleo posting date",
+      "date_source": "taleo posting date (Aug 18, 2026)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://lbl.taleo.net/careersection/5/jobsearch.ftl?searchType=1&lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo REST searches 2026-10-08 plus postings opened in browser: Controls Software Engineer 107332 (Level 1/2) is listed; Level 1 = BS + 2 yrs or advanced degree with no experience required; no visa sponsorship. Other tech roles are senior (Beamline Controls 12+ yrs, HPC Platform 8+ yrs), group leads, postdocs. Single rolling posting, not a program.",
-  "confidence": "medium"
+  "evidence": "Taleo list (77 jobs, all read) and browser 2026-10-20. Controls Software Engineer 107332 (Aug 18) still live with Apply: Level 1 BS+2 yrs or advanced degree, 2-yr term, no visa sponsorship. Network Automation (BS+5), Beamline Controls (12+ yrs), HPC roles are senior.",
+  "confidence": "medium",
+  "dropped": []
 }

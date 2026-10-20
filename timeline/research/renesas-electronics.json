@@ -1,15 +1,16 @@
 {
   "company": "Renesas Electronics",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE posting in tracker history",
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or on the board",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/RenesasElectronics",
   "jobs_spec": "sr:RenesasElectronics",
-  "evidence": "SmartRecruiters API 2026-10-08 (946 postings, full): US/Canada engineering is application, validation, process, module product engineers (hardware) and Staff/Senior software; entry software roles (Associate Embedded SWE) are Greece/Vietnam only.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "SmartRecruiters board re-read 2026-10-20 (891, full): US entry roles are hardware validation, application and product engineers. Software roles are in Europe/India/Japan. No entry-level US software.",
+  "confidence": "high",
+  "dropped": []
 }

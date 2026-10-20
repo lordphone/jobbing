@@ -1,29 +1,56 @@
 {
   "company": "ID.me",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": "Graduating May/June 2027",
+      "live_verified": "api",
+      "no_sponsorship": false,
+      "level_basis": null,
       "title": "Summer 2027- Software Development Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
       "location": "Mountain View, CA",
       "opened": "2026-09-04",
       "date_source": "greenhouse first_published",
+      "level": "new-grad title"
+    },
+    {
       "deadline": null,
-      "grad_window": "Graduating May/June 2027",
+      "grad_window": null,
       "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "no_sponsorship": false,
+      "level_basis": "0\u20132 years of professional software engineering experience; title says New Grad / Early Career",
+      "title": "Software Development Engineer II \u2013 Life Hub (Super App) (New Grad / Early Career)",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-05",
+      "date_source": "greenhouse first_published",
+      "level": "new-grad title"
+    },
+    {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "no_sponsorship": false,
+      "level_basis": "early-career role for engineers 0 to 2 years into their career",
+      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-05",
+      "date_source": "greenhouse first_published",
+      "level": "new-grad title"
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-12",
   "last_cycle_basis": "Tracker history: Software Development Engineer first seen 2025-11-12 on same university board https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7031610003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/idmeuniversityrecruiting",
   "jobs_spec": "gh:idmeuniversityrecruiting",
-  "evidence": "gh:idmeuniversityrecruiting full (7) and gh:idme full (50) 2026-10-08: SDE New Grad (grad May/June 2027) live; no citizenship text. Earlier Developer Portal SWE II New Grad (8011089003) now redirects to board error page, so dropped; Life Hub SWE II also gone.",
+  "evidence": "gh:idmeuniversityrecruiting (7) and gh:idme (46) read 2026-10-20: SDE New Grad (grad May/June 2027) plus two SWE II New Grad / Early Career roles (0-2 yrs) live. No citizenship text found.",
   "confidence": "high"
 }

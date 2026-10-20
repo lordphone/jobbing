@@ -2,14 +2,15 @@
   "company": "QuantumScape",
   "tier": 4,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no tracker postings",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.quantumscape.com/search/",
   "jobs_spec": null,
-  "evidence": "SuccessFactors list re-read over HTTP 2026-10-08 (both pages, ~28 roles): process, cell, hardware, mechanical, firmware, EHSS, sourcing, directors; software-like roles are Senior Infrastructure Engineer and SMTS Failure Analysis Data Science. No entry SWE or new-grad track.",
+  "evidence": "SuccessFactors list read in browser 2026-10-20 (26 roles, both pages): senior, principal, director, process, cell, hardware and firmware roles. Software-like roles are Senior Infrastructure Engineer and SMTS Failure Analysis Data Science. No entry-level software role or new-grad track.",
   "confidence": "high",
-  "checked": "2026-10-08"
+  "dropped": [],
+  "postings": [],
+  "checked": "2026-10-20",
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

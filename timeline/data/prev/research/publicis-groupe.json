@@ -1,0 +1,44 @@
+{
+  "company": "Publicis Groupe (incl. Publicis Sapient)",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate, Client Integrations Engineer (Epsilon New Grad Program)",
+      "url": "https://careers.publicisgroupe.com/jobs/174428?lang=en-us",
+      "location": "Chicago, IL",
+      "opened": "2026-10-05",
+      "date_source": "careers.publicisgroupe.com API posted_date",
+      "deadline": "2026-10-27",
+      "grad_window": "Epsilon New Grad Program (no class year stated)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Epsilon, Data Practice)",
+      "url": "https://careers.publicisgroupe.com/jobs/166907?lang=en-us",
+      "location": "Westminster, CO",
+      "opened": "2026-09-09",
+      "date_source": "careers.publicisgroupe.com API posted_date",
+      "deadline": "2026-11-09",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "B.S. in CS; '1-3 years of job related experience and/or directly related college coursework'; works 'under the guidance of senior engineers'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no dated source; tracker has only Publicis Groupe marketing/data analyst roles (Aug-Sep 2026); Sapient's early-career page lists a Junior Software Engineer grad role but its Apply links go to an internship search",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.publicisgroupe.com/jobs",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Groupe Jibe board careers.publicisgroupe.com/api/jobs lists all agencies incl. Sapient and Epsilon (994 US postings); Sapient apply links go to sapient-publicisgroupe.icims.com",
+  "evidence": "Jibe API careers.publicisgroupe.com 2026-10-19: Epsilon Associate Client Integrations Engineer (New Grad Program, deadline 10/27) and Epsilon Software Engineer Westminster (1-3 yrs or coursework, deadline 11/9) both applyable. Irving SWE needs 2-3 yrs of Java, SWE 2 and Agentic Developer need more; left out.",
+  "confidence": "medium"
+}

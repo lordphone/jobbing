@@ -1,15 +1,15 @@
 {
   "company": "Domino's Pizza",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Technology Rotation Program",
       "url": "https://jobs.smartrecruiters.com/Dominos/744000146020360",
       "location": "Ann Arbor, MI",
-      "opened": "2026-08-27",
-      "date_source": "smartrecruiters releasedDate",
+      "opened": "2026-08-26",
+      "date_source": "tracker first seen (Technology Rotation Program - Multiple Teams); smartrecruiters releasedDate 2026-08-27",
       "deadline": null,
       "grad_window": "Winter 2027 and Spring 2027 graduates",
       "live_verified": "api",
@@ -19,11 +19,12 @@
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not in tracker history for 2025-07 to 2026-01; unknown",
+  "last_cycle_basis": "not in tracker history for 2025-07 to 2026-01 (history search); unknown",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Dominos",
   "jobs_spec": "sr:Dominos",
-  "evidence": "SmartRecruiters API 2026-10-08: Technology Rotation Program active=true, released 2026-08-27; two-year software-development program for Winter/Spring 2027 grads. Other tech roles are SWE II / 5+ yr or senior. No deadline stated.",
-  "confidence": "high"
+  "evidence": "SmartRecruiters detail 2026-10-20: Technology Rotation Program (Ann Arbor, released 2026-08-27) still live for Winter/Spring 2027 grads, 2-yr software development program. Other tech roles are SWE II, Engineer III, Data Platform Engineer (5+ yrs).",
+  "confidence": "high",
+  "dropped": []
 }

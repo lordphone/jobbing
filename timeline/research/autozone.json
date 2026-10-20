@@ -1,21 +1,13 @@
 {
   "company": "AutoZone",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [
+  "postings": [],
+  "dropped": [
     {
-      "title": "Systems Engineer Associate",
       "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
-      "location": "Memphis, TN",
-      "opened": "2026-07-27",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: Systems Engineer Associate 130511 not on the Oracle board (searched) 2026-10-20"
     }
   ],
   "last_cycle_opened": "2026-07-27",
@@ -24,6 +16,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
   "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle board 2026-10-08 (searched, 4049 listed): 'Systems Engineer Associate' 130511 (first seen 2026-07-27) page says no longer available. Live Memphis Systems Engineers need 3-7+ yrs; Associate Systems Engineer (QE) needs 2-4 yrs testing; 2027 postings are internships.",
+  "evidence": "Oracle board (searched, not full) 2026-10-20: Systems Engineer Associate 130511 not on board. Associate Systems Engineer (Quality Engineering) 157247 asks 2-4 yrs testing and is a test role, left out; other US Systems Engineers need 4-7 yrs. 2027 postings are interns.",
   "confidence": "medium"
 }

@@ -1,15 +1,43 @@
 {
   "company": "Factory AI",
   "tier": 3,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, AI",
+      "url": "https://jobs.ashbyhq.com/factory/2243dab2-62dc-4c64-b4bc-8f7314475607",
+      "location": "San Francisco, CA",
+      "opened": "2025-03-24",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of hands-on experience in AI/ML engineering roles post-acquisition of a Bachelor's or Master's degree'; no team-lead or mentoring duties; judgement call (evergreen)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Research Engineer",
+      "url": "https://jobs.ashbyhq.com/factory/c5c92ee0-6ab9-4e91-b73a-63700c85fa5f",
+      "location": "San Francisco, CA",
+      "opened": "2024-05-02",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of hands-on experience in AI/ML engineering roles' post-degree; no team-lead or mentoring duties; judgement call (evergreen)",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or dated new-grad posting found for Factory AI.",
+  "last_cycle_basis": "No tracker history or dated new-grad posting found for Factory AI (tracker 'factory' hits are CloudFactory/Cheesecake Factory).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/factory",
   "jobs_spec": "ashby:factory",
-  "evidence": "Ashby full board (56) 2026-10-08: SWE roles ask 3-5+ yrs; Software Engineer, AI and Research Engineer (2024-25) ask 2+ yrs post-degree with autonomous/lead duties, not counted as entry-level. No new-grad title.",
-  "confidence": "medium"
+  "evidence": "Ashby full board (62) read and screened 2026-10-20: SWE AI and Research Engineer ask 2+ yrs AI/ML post-degree, within the 2-year rule (evergreen, borderline), both live. Other SWE 3-5+ yrs; FDE and Deployed Staff left out.",
+  "confidence": "low",
+  "dropped": []
 }

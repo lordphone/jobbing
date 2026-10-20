@@ -1,0 +1,35 @@
+{
+  "company": "Berkshire Hathaway Energy",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
+      "location": "Des Moines, IA; Davenport, IA; Sioux City, IA; Reno, NV; Richmond, VA",
+      "opened": "2026-06-29",
+      "date_source": "oracle cloud posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    }
+  ],
+  "last_cycle_opened": "2025-07-04",
+  "last_cycle_basis": "tracker first seen for 'Software Engineer 1 - Corporate Applications' (Salt Lake City/Las Vegas/Des Moines) via jobs.py history",
+  "excluded_reason": null,
+  "no_sponsorship": true,
+  "jobs_page": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+  "jobs_spec": "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
+  "evidence": "Oracle CX_1 board 2026-10-19 (119, full): Software Engineer 1 req 10004529 live via API, no sponsorship. SE 2/3 reqs need more years. Multi-level SE req 10005871 is not on the board.",
+  "confidence": "high",
+  "checked": "2026-10-19",
+  "dropped": [
+    {
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
+      "reason": "gone: posting page showed 'This job is no longer available' and API returns nothing"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "company": "Affirm",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -35,21 +35,48 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Software Engineer I; 'previous work or internship experience'; CAD 101,000-151,000",
       "no_sponsorship": false,
       "title": "Software Engineer I, Frontend (Upfunnel)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
       "location": "Remote (Canada; residents of AB, BC, MB, NB, NL, NS, ON, PE or SK only; no city listed)",
       "opened": "2026-09-11",
       "date_source": "greenhouse first_published"
+    },
+    {
+      "title": "Software Engineer I, Fullstack (Search)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "location": "Remote (US, no city listed)",
+      "opened": "2026-10-15",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I title",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I, Fullstack (Search)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+      "location": "Remote (Canada, no city listed)",
+      "opened": "2026-10-15",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I title",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-30",
-  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' NYC / 'Software Engineer \u2013 Early Career' first seen 2025-11-30, https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' NYC / 'Software Engineer – Early Career' first seen 2025-11-30, https://job-boards.greenhouse.io/affirm/jobs/7485072003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/affirm",
   "jobs_spec": "gh:affirm",
-  "evidence": "gh:affirm full board 2026-10-08 (186): Early Career SWE NYC and SF (published 2026-10-06) live via API, $130-180K, no sponsorship text, no deadline. SWE I Frontend (Upfunnel) is remote Canada, incl. BC/ON residents. Spain/Poland SWE I and SWE II roles not counted. Matches 2026-10-07 file.",
-  "confidence": "high"
+  "evidence": "gh:affirm full board 2026-10-19: Early Career SWE NYC and SF (published 2026-10-06) live via API, no sponsorship text, no deadline. SWE I Fullstack (Search) Remote US and Canada (2026-10-15), SWE I Frontend (Upfunnel) Canada remote. Spain/Poland SWE I not counted.",
+  "confidence": "high",
+  "dropped": []
 }

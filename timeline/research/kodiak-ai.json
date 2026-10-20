@@ -13,17 +13,31 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires 2+ years building fullstack apps; BS/MS; $130,000-$160,000; no lead/senior duties",
+      "level_basis": "requires BS/MS or equivalent and '2+ years of experience building intuitive fullstack applications'; $130,000-$160,000; no lead/senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Controls (C++)",
+      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4312761009",
+      "location": "Mountain View, CA",
+      "opened": "2026-07-17",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ year of experience developing production-level vehicular controls software'; $145,000-$190,000; duties implement/test, no lead or architecture ownership (borderline, domain-specific)",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "tracker (Simplify) 'Autonomy/AI Software Engineer - Early Career' first seen 2025-09-19",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/kodiak",
   "jobs_spec": "gh:kodiak",
-  "evidence": "Greenhouse read in full (70) 2026-10-08: no new-grad titled role. Fullstack Engineer, UI Tools (2+ yrs, $130-160K, no senior duties) is a borderline unlabeled entry. Controls and Embedded SWE need 2+ yrs plus automotive depth (left out). Postings carry an export-control clause, not a citizenship requirement.",
-  "confidence": "low",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse full board (68) read 2026-10-20: no new-grad titled role, only Winter 2027 interns. Fullstack UI Tools (2+ yrs) and Controls C++ (2+ yrs) are borderline unlabeled entries. Embedded SWE (2+ yrs, hardware bring-up, posted 2025-06) left out. Same as prior file.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

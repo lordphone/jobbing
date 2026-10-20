@@ -1,29 +1,30 @@
 {
   "company": "Cirrus Logic",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "AI Applications Engineer",
+      "title": "AI Engineer (AI Applications team)",
       "url": "https://jobs.eu.lever.co/cirrus/39e72f1c-e12b-4395-8f42-7e23b4928e98",
       "location": "Austin, TX",
       "opened": "2026-09-14",
-      "date_source": "lever createdAt",
+      "date_source": "page JSON-LD datePosted (earlier run)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Required: 'Bachelor's degree ... 1+ years of relevant software engineering experience'; no lead/mentor duties, no senior title",
+      "level_basis": "Required: '1+ years of relevant software engineering experience'; no lead/mentor duties, no senior title",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; New College Graduate roles (validation/product/test, not SWE) posted from Sept 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.cirrus.com/careers/jobs",
   "jobs_spec": "levereu:cirrus",
-  "evidence": "Lever EU board in full (126), posting API 2026-10-08: AI Applications Engineer (Austin) needs 1+ yr SWE, no senior duties, says unable to sponsor. Applied AI/Automation (6+ yrs) and Software Tools (6+ yrs) excluded; New College Grad roles are validation, not SWE.",
+  "evidence": "Lever EU board full (125) 2026-10-20: AI Engineer page (unlisted by API) loads with apply link, 1+ yr, unable to sponsor. Software Tools needs 6+ yrs. New College Grad roles are validation/product/test, not SWE.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Nominal",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://jobs.gem.com/nominal/am9icG9zdDqzyjGh1V7-Ch-Nh0J_hwYU",
       "location": "New York, NY; Los Angeles, CA; Austin, TX",
       "opened": "2026-09-11",
-      "date_source": "gem first_published",
+      "date_source": "gem first_published_at (api.gem.com)",
       "deadline": null,
       "grad_window": "on track to graduate in Summer 2027 or sooner",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -22,10 +22,10 @@
       "url": "https://jobs.gem.com/nominal/am9icG9zdDpgt_L0hB_S2rbd-acejJJS",
       "location": "New York, NY; Los Angeles, CA",
       "opened": "2026-09-20",
-      "date_source": "gem first_published",
+      "date_source": "gem first_published_at (api.gem.com)",
       "deadline": null,
       "grad_window": "on track to graduate in Summer 2027 or sooner",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -37,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/nominal",
   "jobs_spec": null,
-  "evidence": "Gem job board API 2026-10-08 (37 postings) lists both Summer 2027 new-grad postings live. Earlier-found ITAR clause accepts citizen, LPR, refugee, asylee 'or be eligible to obtain the required authorizations', not a strict US-person bar, so not excluded.",
-  "confidence": "high"
+  "evidence": "Gem board read in full via api.gem.com (41) 2026-10-20. Both Summer 2027 new-grad software postings listed and the Mission Dev one showed Apply in browser. ITAR clause ends 'or be eligible to obtain the required authorizations from the U.S. Department of State', so not excluded. Other SWE roles senior; Mission Ops New Grad not SWE.",
+  "confidence": "high",
+  "dropped": []
 }

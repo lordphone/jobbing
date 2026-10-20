@@ -1,15 +1,15 @@
 {
   "company": "Danaher",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Engineer, Desktop Software",
-      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
+      "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
       "location": "Irvine, CA",
       "opened": "2026-09-29",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (Workday startDate 2026-10-02)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -18,12 +18,13 @@
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2026-07-07",
-  "last_cycle_basis": "tracker first-seen: Software Engineer 1, Indianapolis, IN 2026-07-07 is this-cycle (closed); no new-grad SWE in the 2025-07 to 2026-01 window",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Tracker: Software Engineer 1 (Indianapolis) first seen 2026-07-07 is this cycle (closed); no new-grad SWE found 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
   "jobs_spec": "wd:danaher/wd1/DanaherJobs",
-  "evidence": "Workday CXS 2026-10-08: Masimo (Danaher OpCo) Engineer, Desktop Software, Irvine CA on-site, B.S. in CS, no years required, works with guidance from experienced engineers, live (apply open). Other SWE-type roles need 3+ yrs. Software Engineer 1 Indianapolis (2026-07) closed.",
-  "confidence": "high"
+  "evidence": "Workday posting API 2026-10-20: Masimo Engineer, Desktop Software (Irvine) live, canApply true, BS CS no years, guided by experienced engineers. Other software roles non-US or senior. Tracker lead confirmed on company board.",
+  "confidence": "medium",
+  "dropped": []
 }

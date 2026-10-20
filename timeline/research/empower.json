@@ -1,15 +1,16 @@
 {
   "company": "Empower",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-12-11",
-  "last_cycle_basis": "jobs.py history: 'Associate Software Engineer' (Hartford CT; Greenwood Village CO, Starting Summer 2026) first seen 2025-12-11 on Empower Workday",
+  "last_cycle_basis": "jobs.py history: Associate Software Engineer (Greenwood Village CO / Hartford CT, Starting Summer 2026) first seen 2025-12-11 on Empower Workday",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://empower.wd12.myworkdayjobs.com/empower",
   "jobs_spec": "wd:empower/wd12/empower",
-  "evidence": "Workday board (111, full) 2026-10-08: US SWE roles are Senior/Lead/Principal; Automation Quality Engineer wants 3-5 yrs; entry engineers are Bangalore; 2027 interns are actuarial. No Associate Software Engineer live; last cycle's appeared in December.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday full board 2026-10-19 (121): US engineering roles are Senior/Director, Security Engineer and Automation Quality Engineer; entry developer is Bangalore. Last cycle's Associate Software Engineer appeared Dec 2025; none yet.",
+  "confidence": "medium"
 }

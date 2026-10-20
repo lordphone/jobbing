@@ -1,29 +1,30 @@
 {
- "company": "Tyler Technologies",
- "tier": 5,
- "status": "open",
- "postings": [
-  {
-   "title": "Application Developer",
-   "url": "https://jobs.jobvite.com/tylertech/job/o45IAfwb",
-   "location": "Augusta, ME; Yarmouth, ME",
-   "opened": "on or before 2026-10-08",
-   "date_source": "page text (no posted date shown)",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "browser",
-   "level": "unlabeled",
-   "level_basis": "Requires '1+ years' professional experience'; salary USD 65,000-80,000; team developer, no lead duties",
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": "2026-06-16",
- "last_cycle_basis": "Tracker history: Associate Software Engineer, Plano TX, first seen 2026-06-16 (ad hoc posting, now closed); outside the Jul-Jan window.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://jobs.jobvite.com/tylertech/jobs",
- "jobs_spec": null,
- "evidence": "Jobvite list 2026-10-08 (105 jobs) scanned: no Associate Software Engineer in the US. Application Developer (Maine) page shows Apply, 1+ yr at $65-80K: borderline entry. Summer 2027 interns not counted; other US SWE roles Senior; Philippines dev roles out of region.",
- "confidence": "low",
- "checked": "2026-10-08"
+  "company": "Tyler Technologies",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Application Developer",
+      "url": "https://jobs.jobvite.com/tylertech/job/o45IAfwb",
+      "location": "Augusta, ME; Yarmouth, ME",
+      "opened": "on or before 2026-10-07",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires '1+ years' professional experience; salary USD 65,000-80,000; works with a team, no lead duties",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2026-06-16",
+  "last_cycle_basis": "Tracker history: Associate Software Engineer, Plano TX, first seen 2026-06-16 (ad hoc posting, now closed); outside the Jul-Jan window.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.jobvite.com/tylertech/jobs",
+  "jobs_spec": null,
+  "evidence": "Jobvite list and posting page read by HTTP 2026-10-20: Application Developer (Maine, Apply button shown) kept from earlier run. Rest of the software list is senior or lead, Philippines, or Summer 2027 interns. Associate SWE posted ad hoc (Plano, Jun 2026).",
+  "confidence": "medium"
 }

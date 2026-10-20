@@ -1,29 +1,16 @@
 {
   "company": "Paylocity",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Engineer Software (AI Labs)",
-      "url": "https://2000recruiting.paylocity.com/recruiting/jobs/Details/47607/Paylocity/Associate-Engineer-Software",
-      "location": "Pittsford, NY",
-      "opened": "2026-09-25",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": "Graduated within the last 12 months (no class year)",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) return Job Not Found, so no dated opening confirmed.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
   "jobs_spec": null,
-  "evidence": "Browser+HTTP 2026-10-08: all-listings 'engineer' (32) and 'developer' (9) searches. Associate Engineer Software 47607 (AI Labs, Pittsford NY, datePosted 2026-09-25) is listed with Apply; asks for grad within 12 months, no class year. Other engineer roles senior, Guadalajara or interns.",
-  "confidence": "high"
+  "evidence": "Product & Technology and Early Career listings read in browser 2026-10-20: US software roles are Senior/Staff only; interns in Rochester, entry engineers in Guadalajara/India. Kept closed from earlier run; no dated this-cycle opening confirmed.",
+  "confidence": "low"
 }

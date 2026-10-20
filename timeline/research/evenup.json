@@ -1,29 +1,16 @@
 {
   "company": "EvenUp",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer (New Grad), AI Entities",
-      "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5",
-      "location": "San Francisco, CA (hybrid); Toronto, Canada (hybrid)",
-      "opened": "2026-09-30",
-      "date_source": "ashby graphql publishedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-07-14",
-  "last_cycle_basis": "Tracker first seen 'Software Engineer - New Graduate' (SF/Toronto) https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d; new-grad SWE again Apr 2026",
+  "last_cycle_basis": "Tracker first seen 'Software Engineer - New Graduate' (SF/Toronto) 2025-07-14; new-grad SWE again Apr 2026 and 2026-09-30",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/evenup",
   "jobs_spec": null,
-  "evidence": "Ashby board (46, via jobs.ashbyhq.com graphql) 2026-10-08: one New Grad SWE (AI Entities), listed, published 2026-09-30. Other engineer roles ask 3-10+ yrs or are senior. Board lists SF (hybrid); Toronto from tracker lead.",
-  "confidence": "high"
+  "evidence": "Ashby graphql board (48) 2026-10-20: the New Grad SWE AI Entities posting (2026-09-30) and Apr 2026 New Grad roles are no longer listed. Remaining SWE roles: 3 to 5+ yrs, senior, or mentoring/ownership duties (AI Document Generation, New Products).",
+  "confidence": "medium"
 }

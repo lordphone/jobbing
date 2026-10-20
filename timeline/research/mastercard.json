@@ -1,42 +1,39 @@
 {
   "company": "Mastercard",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Site Reliability Engineer I, Launch Program 2027 – St. Louis, MO, US",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+      "title": "AI Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
       "location": "O'Fallon, MO",
-      "opened": "2026-09-24",
+      "opened": "2026-10-16",
       "date_source": "workday startDate",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
+      "grad_window": "graduating April 2027 - June 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Launch Program 2027; anticipated graduation April-June 2027",
       "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+      "reason": "gone: not on the CorporateCareers Workday board (full) and the job API returns permission denied (403) on 2026-10-20"
     },
     {
-      "title": "Data Engineer I, Launch Program 2027 – Arlington, VA, US",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-      "location": "Arlington, VA",
-      "opened": "2026-09-30",
-      "date_source": "workday startDate; tracker first seen 2026-08-24",
-      "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
+      "reason": "gone: not on the CorporateCareers Workday board (full) and the job API returns permission denied (403) on 2026-10-20"
     }
   ],
   "last_cycle_opened": "2025-11-12",
   "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, Campus Workday site) first seen 2025-11-12",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://mastercard.wd1.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mastercard/wd1/Campus",
-  "evidence": "2026-10-08 Workday Campus (79, full): SRE I (O'Fallon) and Data Engineer I (Arlington) Launch 2027 live, grad Dec 2026-Jun 2027, no sponsorship (F1/OPT ineligible). No Toronto/Vancouver SWE launch roles now; only TPM/sales ones.",
-  "confidence": "high"
+  "evidence": "Workday Campus (46, full) 2026-10-20: AI Engineer I Launch 2027 (O'Fallon, started 2026-10-16, grads Apr-Jun 2027) live via API. No sponsorship, F1/OPT ineligible. Two older Software Engineer I reqs gone from CorporateCareers.",
+  "confidence": "medium"
 }

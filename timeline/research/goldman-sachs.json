@@ -1,7 +1,7 @@
 {
   "company": "Goldman Sachs",
-  "tier": 4,
-  "checked": "2026-10-08",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -38,7 +38,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -51,7 +51,7 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "final-year undergraduate and graduate students",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -63,6 +63,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://higher.gs.com",
   "jobs_spec": null,
-  "evidence": "higher.gs.com GraphQL CAMPUS listing 2026-10-08 returns all four 2027 Engineering New Analyst roles; each role page opened in browser shows Apply. NYC/Seattle salary USD 110-115K. Quant Strats not counted. No sponsorship text or deadline.",
-  "confidence": "high"
+  "evidence": "higher.gs.com GraphQL (api-higher.gs.com) CAMPUS search 2026-10-20 (214 roles, all paged) lists the four 2027 Americas Engineering New Analyst roles (NYC, Dallas, SLC, Bellevue). Other SWE roles are Associate 2+ yrs. No sponsorship text or deadline.",
+  "confidence": "high",
+  "dropped": []
 }

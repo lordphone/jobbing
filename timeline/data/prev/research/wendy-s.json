@@ -1,0 +1,30 @@
+{
+ "company": "Wendy's",
+ "tier": 5,
+ "checked": "2026-10-19",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineer \u2013 Reliability & Configuration",
+   "url": "https://www.wendys-talent.com/jobs/46088",
+   "location": "Dublin, OH (remote work expected)",
+   "opened": "2026-08-17",
+   "date_source": "wendys-talent Jibe API posted_date",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "'This entry level position will assist in the development, deployment and maintenance of configuration management programs'; requires BS CS or 4+ yrs, 2+ yrs experience; $74K-$126K",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No tracker history; no earlier new-grad posting found.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.wendys-talent.com/jobs/categories/Information+Technology",
+ "jobs_spec": null,
+ "evidence": "Jibe API 2026-10-19 (75 jobs) and icims page returns 200: Engineer - Reliability & Configuration (Dublin OH, remote) self-described 'entry level' (BS CS, 2+ yrs, $74K-$126K); mentoring line looks like boilerplate, kept as earlier run counted it. Cloud Foundations needs 3+ yrs; rest Lead/Manager/Sr. No grad program.",
+ "confidence": "low",
+ "dropped": []
+}

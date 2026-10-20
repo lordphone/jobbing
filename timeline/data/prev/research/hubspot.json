@@ -1,0 +1,17 @@
+{
+  "company": "HubSpot",
+  "tier": 3,
+  "checked": "2026-10-19",
+  "status": "unknown",
+  "postings": [],
+  "last_cycle_opened": "2025-09-08",
+  "last_cycle_basis": "jobs.py history: Software Engineer (Cambridge, MA; Remote) first seen 2025-09-08 on RippleMatch (https://app.ripplematch.com/v2/public/job/c730fa3b); HubSpot routes entry SWE via RippleMatch",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.hubspot.com/careers/jobs?department=engineering&office=north-america",
+  "jobs_spec": null,
+  "jobs_spec_basis": "careers feed wtcfns.hubspot.com/careers/graphql answers but its jobs query returns upstream 404; Greenhouse slugs and Workday probe 404",
+  "evidence": "2026-10-19: hubspot.com/careers/jobs says 'No jobs are currently listed'; RippleMatch company page (where Emerging Talent sends NA roles) shows no jobs without sign-up. Emerging Talent page gives no 2027 timing. Can't read the list; retry later. Rechecked 2026-10-19 in browser: still 'No jobs are currently listed'.",
+  "confidence": "low",
+  "dropped": []
+}

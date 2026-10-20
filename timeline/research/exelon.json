@@ -1,15 +1,16 @@
 {
   "company": "Exelon",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no last-cycle posting found",
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
   "jobs_spec": null,
-  "evidence": "Exelon Jibe JSON API full board (112 jobs) read 2026-10-08: only 2027 summer interns (incl. IT & CS, Data Science, Cyber), utility engineering (Associate Engineer - New Graduate is power engineering) and analyst roles. No entry SWE or developer posting.",
+  "evidence": "Exelon Jibe API searches 2026-10-20 (software, developer, data engineer, ML, graduate, new grad): engineering roles are power engineers, Sr Data Scientist, a cyber summer intern. No entry SWE.",
   "confidence": "high",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "postings": [],
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

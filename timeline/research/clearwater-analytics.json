@@ -1,9 +1,22 @@
 {
   "company": "Clearwater Analytics",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Development Engineer I",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Engineer-I_R12059",
+      "location": "Boise, ID",
+      "opened": "2026-10-14",
+      "date_source": "workday startDate",
+      "deadline": "2026-12-24",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Level I title; posting asks 2+ yrs production development and 1 yr LLM/agentic work",
+      "no_sponsorship": false
+    },
     {
       "title": "Quantitative Developer I",
       "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quantitative-Developer-I_R12180",
@@ -16,6 +29,19 @@
       "level": "unlabeled",
       "level_basis": "'Engineers at entry-level work on coding, debugging'; requires 1+ years building software; $105,000-$120,000",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Software-Development-Engineer_R11464",
+      "location": "New York, NY",
+      "opened": "2026-02-17",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires 2+ years; 'not expected at entry level' for distributed-systems experience; duties are develop/test/assist, no leading or mentoring",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -24,6 +50,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers",
   "jobs_spec": "wd:clearwateranalytics/wd1/Clearwater_Analytics_Careers",
-  "evidence": "Workday full board 2026-10-08 (273): Quantitative Developer I (New York) live, canApply true, 1+ yrs, entry-level text, $105-120K; Associate SDE June 2027 is London only; Data Flow Engineer I (Boise) is data ops, not counted; US SDE roles II/III/Senior.",
-  "confidence": "medium"
+  "evidence": "Workday full board 2026-10-20 (279): SDE I Boise (2+ yrs, apply by 2026-12-24), Quantitative Developer I NYC (entry-level, 1+ yr), SDE NYC (2+ yrs, kept). Associate SDE June 2027 roles are London only. Boise SDE R2524-3 asks to own services, left out.",
+  "confidence": "medium",
+  "dropped": []
 }

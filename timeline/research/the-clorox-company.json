@@ -1,16 +1,17 @@
 {
   "company": "The Clorox Company",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-03-16",
   "last_cycle_basis": "Tracker: 'Analytics Analyst' Oakland/Pleasanton CA first seen 2026-03-16 (closed; not SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox",
   "jobs_spec": "wd:clorox/wd1/Clorox",
-  "jobs_spec_basis": "Careers page links to Clorox Workday site (206 postings); InviteClorox is a 5-post side site",
-  "evidence": "Workday Clorox full board 2026-10-08 (206) plus InviteClorox (5): SWE roles are Dublin only; US early-career roles are R&D, Sales Analyst, Supply Chain Leadership Development, MBA and interns. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-20 (192): AI/platform engineer roles are Dublin only; US roles are plant/process engineers, R&D scientist. No US entry SWE.",
+  "confidence": "high",
+  "jobs_spec_basis": "Careers page links to Clorox Workday site; InviteClorox is a small side site"
 }

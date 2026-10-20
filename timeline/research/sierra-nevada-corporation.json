@@ -1,15 +1,30 @@
 {
   "company": "Sierra Nevada Corporation",
   "tier": 5,
-  "status": "excluded",
-  "excluded_reason": "citizenship",
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX---TX_TP3/Software-Engineer-I_R0030529",
+      "location": "Plano, TX",
+      "opened": "2026-08-26",
+      "date_source": "tracker first seen (same req R0030529; Workday postedOn shows repost 2026-10-16)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; '0-2+ years of experience in software development'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-09",
   "last_cycle_basis": "tracker first seen; Software Engineer I, Southern Pines NC/Reston VA (snc.wd1.myworkdayjobs.com/.../Southern-Pines-NC/Software-Engineer-I_R0027824)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site",
   "jobs_spec": "wd:snc/wd1/snc_external_career_site",
-  "evidence": "Workday 2026-10-08 (376, full). Software Engineer I (For 2026 Interns Only), Dayton R0030889 and Plano R0030584: interns only, 'U.S. Citizenship status is required'; clearance required. Summer 2027 SWE interns are interns. Others are II/III or senior.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "postings": [],
-  "no_sponsorship": false
+  "evidence": "Workday full board 2026-10-20 (376), live via API. Plano SWE I (R0030529, 0-2+ yrs) has no clearance ask, only the export notice 'U.S. Citizen, lawful permanent resident ... or eligible to obtain the required authorizations'. Lone Tree SWE I R0031025 needs Secret clearance and citizenship. Interns excluded.",
+  "confidence": "medium"
 }

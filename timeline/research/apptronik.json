@@ -1,15 +1,16 @@
 {
   "company": "Apptronik",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in tracker history",
+  "last_cycle_basis": "No last-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/apptronik",
   "jobs_spec": "gh:apptronik",
-  "evidence": "gh:apptronik full board (77) 2026-10-08: software roles are Lead/Senior/Staff; Controls Engineer - Actuation and firmware roles are not SWE-entry. No qualifying posting.",
+  "evidence": "gh:apptronik full board (81): software roles Lead/Senior/Staff; Controls Engineer - Actuation is controls, not entry SWE. No new-grad SWE.",
   "confidence": "high"
 }

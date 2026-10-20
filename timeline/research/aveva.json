@@ -1,15 +1,16 @@
 {
   "company": "AVEVA",
-  "tier": 6,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "status": "closed",
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "tracker history: Artificial Intelligence Graduate (Lake Forest, CA) 2025-09-15; Software Developer Graduate (San Leandro, CA etc.) 2025-11-10",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "2025-09-15 tracker: Artificial Intelligence Graduate (Lake Forest, CA); Software Developer Graduate (San Leandro, CA etc.) 2025-11-10",
   "jobs_page": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
   "jobs_spec": "wd:aveva/wd3/AVEVA_careers",
-  "evidence": "Workday API 2026-10-07, 259 postings, full. Junior SWE only Derry UK. US: Houston SDE (moderate complexity, works independently), AI Software Engineer (seasoned), Data Engineer (3+ yrs), Experienced Software Developer: none entry. US grad track posted Sep-Nov last cycle; not yet this cycle.",
-  "confidence": "medium"
+  "evidence": "Workday full board (240) 2026-10-20: this-cycle US Software Developer Graduate - AI Proficient (R014947, tracker 2026-10-12) is not on the board or API. Live US SDE Houston, AI Software Engineer Lake Forest show no entry-level wording (independent work / seasoned), so left out; Experienced roles ask more.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

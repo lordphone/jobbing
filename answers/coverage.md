@@ -14,7 +14,7 @@ Common behavioral question types and the inventory stories that fit. **Bold** = 
 | Leadership / mentoring | "Led a team", "Helped someone grow" | `hd-lead-mvp` + `hd-mentor-process` (8-intern team, PR reviews); `nb-jira-process` (onboarded Khalil) |
 | Helping another team | "Worked across teams" | `nb-llm-failure`; `nb-dramabreak-ads` (unblocked SPM for the team) |
 | User impact | "Something you're proud of", "Impact on users" | `nb-manual-broadcast` (alerts beat FOX by a minute); `nb-morning-digest` (5,026 users, ~81%); `nb-llm-pipeline` |
-| Customers / stakeholders | "Worked with a customer" | `za-demos-contracts` (demos, contracts, client iteration; recruiters shaped scoring) |
+| Customers / stakeholders | "Worked with a customer" | `za-demos-contracts` (demos, contracts, client iteration; recruiters shaped scoring); `questions/domain-experts.md` (non-technical domain experts → system behavior; ZenAI + `nb-llm-pipeline` rules and decision log) |
 | Conflict / disagreement | "Disagreed with a teammate or manager" | none in inventory — GAP |
 | Relevant skills | "3 relevant skills", "Top skills for this role" | `questions/relevant-skills.md` — pick from `inventory/skills.md` by JD; back each with `nb-fastapi-backend`, `hd-lead-mvp` / `za-mock-interview`, `nb-agentic-search` / `nb-llm-pipeline` |
 | Qualities for the role | "What makes someone great at X, and why you?" | `questions/agent-engineer.md`; `nb-llm-pipeline` (measured on real traffic), `nb-agentic-search` (citations the model can't author, evals), `nb-llm-failure` + `nb-fastapi-backend` (ownership), `za-demos-contracts` (customers) |

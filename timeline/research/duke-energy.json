@@ -1,15 +1,16 @@
 {
   "company": "Duke Energy",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no Jul 2025-Jan 2026 SWE posting; tracker shows Data Engineer (Charlotte/Raleigh) 2026-02-02 and Associate IT Software Engineer first seen 2026-04-16, both closed",
+  "dropped": [],
+  "last_cycle_opened": "2026-02",
+  "last_cycle_basis": "tracker: Data Engineer, Charlotte/Raleigh, first seen 2026-02-02 (Simplify); Associate IT Software Engineer first seen 2026-04-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://dukeenergy.wd1.myworkdayjobs.com/search",
   "jobs_spec": "wd:dukeenergy/wd1/search",
-  "evidence": "Workday board 2026-10-08 (103, full): no software/data/IT developer roles; only Engineer I (process/nuclear/mechanical) and 2027 IT/cyber intern or co-op programs. Associate IT Software Engineer (Apr 2026) is gone.",
+  "evidence": "Workday full board 2026-10-20 (76): no software or data roles. Engineer I/II postings are energy storage, grid, nuclear. No entry SWE now.",
   "confidence": "high"
 }

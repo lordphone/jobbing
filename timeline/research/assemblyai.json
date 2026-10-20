@@ -1,15 +1,30 @@
 {
-  "company": "AssemblyAI",
-  "tier": 4,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or dated new-grad posting found for AssemblyAI.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/assemblyai",
-  "jobs_spec": "gh:assemblyai",
-  "evidence": "gh:assemblyai full board 2026-10-08 (9): Senior engineers, Finance Engineer and Security Operations Engineer (not SWE), sales. No entry-level SWE.",
-  "confidence": "high"
+ "company": "AssemblyAI",
+ "tier": 4,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Agent Experience",
+   "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744387005",
+   "location": "Remote - North America (no city listed)",
+   "opened": "2026-10-16",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of professional software engineering experience'; works with senior engineers, no lead duties; $160,000-$210,000",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No tracker history or dated new-grad posting found for AssemblyAI.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/assemblyai",
+ "jobs_spec": "gh:assemblyai",
+ "evidence": "gh:assemblyai full board 2026-10-20 (15): SWE Agent Experience (published 2026-10-16) asks 2+ yrs, works with senior engineers, no lead duties, counted as unlabeled. Others are senior inference, finance/security engineers, GTM. Location only North America.",
+ "confidence": "medium",
+ "dropped": []
 }

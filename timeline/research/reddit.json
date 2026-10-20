@@ -1,15 +1,16 @@
 {
   "company": "Reddit",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-08-05",
-  "last_cycle_basis": "Tracker (RippleMatch): 'New Grad: Software Engineer' SF/Chicago/LA first seen 2025-08-05.",
+  "dropped": [],
+  "last_cycle_opened": "2025-08-04",
+  "last_cycle_basis": "Tracker (RippleMatch): 'New Grad: Software Engineer' SF/Chicago/LA first seen 2025-08-04 (another tracker 2025-08-06).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/reddit",
   "jobs_spec": "gh:reddit",
-  "evidence": "gh:reddit 2026-10-08 (156 postings): no new-grad/entry titles. SWE SF requires master's + 4 yrs, ML Engineer 5 yrs; Ingestion Platform 2+ yrs but leads migrations; Android/iOS roles lead projects. Last year opened Aug 5; not posted yet.",
+  "evidence": "gh:reddit (156, full) 2026-10-20: no new-grad or entry titles; read 13 unlabeled eng roles, all ask 3+ yrs, mentor others, or lead architecture (Ingestion Platform 2+ yrs but leads migrations). Last cycle opened early Aug 2025; nothing posted yet this cycle.",
   "confidence": "medium"
 }

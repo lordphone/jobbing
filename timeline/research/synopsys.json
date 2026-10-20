@@ -1,6 +1,7 @@
 {
   "company": "Synopsys",
   "tier": 3,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -11,20 +12,19 @@
       "date_source": "page text (Date posted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Minimum: 'Bachelor's ... with 2+ years of experience, or Master's degree in a related field' (no years for Master's); $101,000-$151,000; no lead/mentor duties (borderline)",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history found 0 tracker postings for Synopsys in 2025-07..2026-01; no early-career page dates found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.synopsys.com/search-jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers.synopsys.com/search-jobs/results endpoint lists all postings; no ATS API spec",
-  "evidence": "Synopsys results endpoint 2026-10-08, all 604 postings read: US/Canada engineering titles are Staff/Senior/Principal or hardware, except HPC Software Engineer (Canonsburg PA, Master's path, borderline) and Data Engineer (5+ yrs). Posting page loaded over HTTP, no Apply-button check in browser. Interns otherwise.",
-  "confidence": "low",
-  "checked": "2026-10-08"
+  "evidence": "Synopsys search results endpoint 2026-10-20, all 638 postings read (about 100 US/Canada): engineering titles are senior/principal, silicon/hardware, field or sales, except HPC Software Engineer (Canonsburg PA, BS+2 yrs or Master's, $101K-$151K; borderline). Page shows Apply.",
+  "confidence": "medium"
 }

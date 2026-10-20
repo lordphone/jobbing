@@ -1,10 +1,11 @@
 {
   "company": "State Street",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer - REST API Development, Officer (Junior)",
+      "title": "Software Engineer - REST API Development, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140",
       "location": "Burlington, MA",
       "opened": "2026-09-20",
@@ -13,46 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'early-career engineer'; 0-2 years; $70,000-$118,750",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Junior Software Engineer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2",
-      "location": "Quincy, MA",
-      "opened": "2026-09-16",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-16",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'Junior' title; 2-3 years preferred; $52,000-$91,000",
-      "no_sponsorship": false
-    },
-    {
-      "title": "SW Engineer I - Full Stack, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
-      "location": "Burlington, MA",
-      "opened": "2026-09-09",
-      "date_source": "workday startDate",
-      "deadline": "2026-12-12",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'Engineer I'; 'Junior engineers will receive coaching'; 1-5 years",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer - Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Developer---Officer_R-798966-1",
-      "location": "Quincy, MA; Princeton, NJ",
-      "opened": "2026-10-07",
-      "date_source": "workday startDate",
-      "deadline": "2026-11-20",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "1-2 years commercial development; $70,000-$118,750",
+      "level_basis": "'early-career engineer'; 0-2 years of experience; $70,000-$118,750",
       "no_sponsorship": false
     },
     {
@@ -67,15 +29,41 @@
       "level": "unlabeled",
       "level_basis": "'In this entry-level role'; 0-2 years required; $67,000-$109,750",
       "no_sponsorship": false
+    },
+    {
+      "title": "SW Engineer I - Full Stack, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
+      "location": "Burlington, MA",
+      "opened": "2026-09-09",
+      "date_source": "workday startDate",
+      "deadline": "2026-12-12",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Engineer I'; 'Junior engineers will receive coaching'; 1-5 years; $70,000-$118,750",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer - Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Developer---Officer_R-798966-1",
+      "location": "Quincy, MA; Princeton, NJ",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-20",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'1 - 2 years of commercial software development'; $70,000-$118,750",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-03",
-  "last_cycle_basis": "tracker_last_cycle from worklist entry (history also shows 'Software Engineer 1 - Web Frameworks' 2025-12-12)",
+  "last_cycle_basis": "tracker first seen 2025-07-03 (history also shows Software Engineer 1 - Web Frameworks 2025-12-12)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://statestreet.wd1.myworkdayjobs.com/Global",
   "jobs_spec": "wd:statestreet/wd1/Global",
-  "evidence": "Workday board (1115, full) 2026-10-08, cxs detail: Junior SWE (Quincy), SW Engineer I Full Stack, REST API Officer (0-2 yrs), Software Developer Officer (1-2 yrs), Toronto Full Stack all live (canApply). Other Officer/AVP SWE roles ask 3+ yrs or have no stated level. No formal program or sponsorship line.",
+  "evidence": "Workday board (1299, full) and detail 2026-10-20: four entry-level Officer SWE postings (REST API, Toronto Full Stack, SW Engineer I, Software Developer) still listed. Other Officer SWE roles ask 2-9+ yrs or give no level (Software Engineering & Development, Officer R-789867 unclear, left out). No formal program.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "dropped": []
 }

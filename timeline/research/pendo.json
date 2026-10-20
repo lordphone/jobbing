@@ -1,7 +1,7 @@
 {
   "company": "Pendo",
-  "tier": 6,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires 2+ years; $108K-$131K; owns well-scoped features, no team lead or architecture duties",
+      "level_basis": "requires 2+ years building production web apps; $108K-$131K; 'Own well-scoped features'; no leadership or architecture duties",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/pendo",
   "jobs_spec": "gh:pendo",
-  "evidence": "Greenhouse API + detail 2026-10-08 (22 postings, full): Raleigh Full Stack SWE needs 2+ yrs, $108K-131K, well-scoped features, no leadership duties: borderline entry, counted. SWE (AI) NYC needs 3+ yrs, not counted. No new-grad track.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board 25 postings 2026-10-20. Raleigh Full Stack SWE (2+ yrs, $108-131K, own well-scoped features) kept as unlabeled entry, live on API. NY Software Engineer (AI) needs 3+ years; rest senior, Israel or non-engineering.",
+  "confidence": "low",
+  "dropped": []
 }

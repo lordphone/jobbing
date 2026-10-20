@@ -1,15 +1,16 @@
 {
   "company": "Bentley Systems",
-  "tier": 6,
-  "checked": "2026-10-08",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none in 2025-07 to 2026-01; earlier Associate Software Engineer, Exton PA first seen 2024-11-08",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": "2024-11-08",
+  "last_cycle_basis": "Earlier Associate Software Engineer, Exton PA first seen 2024-11-08 per jobs.py history; none in 2025-07 to 2026-01",
   "jobs_page": "https://bentleysystems.wd5.myworkdayjobs.com/bentley",
   "jobs_spec": "wd:bentleysystems/wd5/bentley",
-  "evidence": "Workday API 2026-10-07 (80 postings, full): no graduate/associate roles. US SWE II needs 4+ yrs; Software Engineer, Documentation Platform (Exton/Philadelphia, 2+ yrs) is borderline but owns the platform roadmap, left out. Others senior.",
-  "confidence": "medium"
+  "evidence": "Workday full board (89) 2026-10-20: no graduate/associate roles. US Software Engineer, Documentation Platform (Exton PA) asks 2+ yrs but says it will help drive the roadmap and own the platform, so left out as not entry. Others senior or non-US.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

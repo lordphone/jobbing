@@ -1,14 +1,14 @@
 {
   "company": "JPMorgan Chase",
-  "tier": 4,
-  "checked": "2026-10-08",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
       "location": "Chicago, IL; Columbus, OH; Houston, TX; Jersey City, NJ; New York, NY; Palo Alto, CA; Plano, TX; Tampa, FL; Wilmington, DE",
-      "opened": "2026-08-03",
+      "opened": "2026-08-02",
       "date_source": "oracle API posted",
       "deadline": "2026-11-06",
       "grad_window": "Jul 2026 - Jun 2027 (start Jul 2027)",
@@ -21,7 +21,7 @@
       "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102",
       "location": "Chicago, IL; Columbus, OH; Houston, TX; Jersey City, NJ; New York, NY; Palo Alto, CA; Plano, TX; Tampa, FL; Wilmington, DE",
-      "opened": "2026-08-03",
+      "opened": "2026-08-02",
       "date_source": "oracle API posted",
       "deadline": "2026-11-06",
       "grad_window": "Jul 2026 - Dec 2026 (start Feb 2027)",
@@ -37,6 +37,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "Oracle detail 2026-10-08: both 2027 Software Engineer Program postings (Jul and Feb start) served, posted 2026-08-03, end 2026-11-06. No employment-based sponsorship, no OPT/CPT.",
-  "confidence": "high"
+  "evidence": "Oracle keyword searches (not full board) 2026-10-20: both 2027 Software Engineer Program US postings (Jul and Feb start) re-opened via API detail, posted 2026-08-03, end 2026-11-06. No employment-based sponsorship. Software Engineer II/III roles are experienced, not counted.",
+  "confidence": "high",
+  "dropped": []
 }

@@ -1,29 +1,30 @@
 {
   "company": "Capital One",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "open",
+  "checked": "2026-10-20",
+  "status": "leftover_2026",
   "postings": [
     {
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-07-19",
-      "date_source": "tracker first seen",
+      "location": "Toronto, ON",
+      "opened": "2026-10-20",
+      "date_source": "workday postedOn",
       "deadline": null,
-      "grad_window": null,
+      "grad_window": "Bachelor's obtained Sep 2025 \u2013 Sep 2026",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title \"New Grad\"; basic qual: degree obtained between September 2025 and September 2026",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2025-09-09",
-  "last_cycle_basis": "tracker history: US Technology Development Program Associate first seen 2025-09-09 (McLean/Richmond/Plano); Toronto Associate SWE 2025-08-17",
+  "dropped": [],
+  "last_cycle_opened": "2025-08-17",
+  "last_cycle_basis": "tracker history: Toronto Associate Software Engineer first seen 2025-08-17; US Technology Development Program 2025-09-09",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
   "jobs_spec": "wd:capitalone/wd12/Capital_One",
-  "evidence": "Workday full board (1928) 2026-10-08: Toronto Associate SWE New Grad (R247320) served, canApply true. US TDP Aug 2027 and Feb 2027 postings (posted ~2026-09-13, no sponsorship) now return 404 on capitalonecareers.com = closed. Mexico TDP 2027 not US/Canada.",
-  "confidence": "high"
+  "evidence": "Workday full board (1991) 2026-10-20: Toronto New Grad Card Expansion SWE posted today, Apply live, but requires degree Sep 2025\u2013Sep 2026 (2026 grads), so leftover. US TDP Feb 2027 gone; TDP Mexico 2027 is not US/Canada.",
+  "confidence": "medium"
 }

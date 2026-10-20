@@ -1,16 +1,16 @@
 {
  "company": "Ascension",
- "status": "no_program_found",
- "last_cycle_opened": null,
- "last_cycle_basis": "tracker history only shows non-entry roles (MDM Specialist, Clinical AI Data Scientist); no new-grad SWE.",
- "jobs_page": "https://jobs.ascension.org/us/en/search-results",
- "jobs_spec": "oracle:ibpcjb.fa.ocs.oraclecloud.com/CX_1",
- "evidence": "Oracle board (partial search) plus 8 keyword searches (software, developer, data engineer, programmer, ML) 2026-10-08: only Senior/Manager technology roles and Software Engineering Manager. No entry SWE.",
- "confidence": "medium",
- "postings": [],
  "tier": 5,
- "checked": "2026-10-08",
+ "checked": "2026-10-20",
+ "status": "no_program_found",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; no tech new-grad program found.",
  "excluded_reason": null,
  "no_sponsorship": false,
- "jobs_spec_basis": "careers page job links go to ibpcjb Oracle CX_1; board test returned 2338 postings"
+ "jobs_page": "https://jobs.ascension.org/us/en/search-results",
+ "jobs_spec": "oracle:ibpcjb.fa.ocs.oraclecloud.com/CX_1",
+ "evidence": "Oracle board (2315 of 3455 via keyword searches) 2026-10-20, plus extra software, developer, data engineer, technology analyst searches: tech roles are Software Engineering Manager, Senior Technology Analyst, Application Owner, Senior network engineers; nurse new-grad programs only. No entry SWE.",
+ "confidence": "medium"
 }

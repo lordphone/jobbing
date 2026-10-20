@@ -1,7 +1,7 @@
 {
   "company": "iHeartMedia",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,16 +14,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires a Master's degree and 24 months experience; duties are building software for the ad platform, no lead or mentor duties",
+      "level_basis": "Requires a Master's degree and 24 months experience; duties are building software for the ad platform, no lead or mentor duties; accepting applications on an ongoing basis",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Dallas-TX-Dallas-Pkwy/Software-Engineer_Req38734-2",
+      "location": "Dallas, TX",
+      "opened": "2026-06-10",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires a Master's degree and 24 months experience; duties are designing and deploying services and writing tests, no lead or mentor duties",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-01-26",
   "last_cycle_basis": "Tracker: Software Engineer Level 1 (NYC), https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-NY/Software-Engineer-Level-1_Req36805-2",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM",
   "jobs_spec": "wd:iheartmedia/wd5/External_iHM",
-  "evidence": "Workday full board 2026-10-08 (301). Software Engineer Req38905 (San Antonio) needs Master's + 24 months, no senior duties, canApply true. Dallas (Jun), Nashville, Austin Platform (earlier) have the same 24-month ask; other roles ask 3-5+ yrs. Prior file said no_program; the 24-month ask counts as entry-level.",
+  "evidence": "Workday full board (299) 2026-10-20 plus posting API. Jelli SWE Req38905 (San Antonio) and iHeartMedia Entertainment SWE Req38734 (Dallas) both live (canApply), each ask Master's + 24 months, no lead duties. Req37558 mentors, Req39449 5+, Req39448 3+, Req39441 6+, Req38372 5+ yrs.",
   "confidence": "medium"
 }

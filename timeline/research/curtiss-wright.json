@@ -1,15 +1,16 @@
 {
   "company": "Curtiss-Wright",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": "2025-12-15",
   "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday full (366) 2026-10-08. Graduate Engineer (Frederick MD, 0-2 yrs) builds power-plant simulator software but requires a mechanical/nuclear/chemical degree, so not counted. US software roles are 5+ yrs, senior, or need US citizenship (DoD). Canada roles are Ottawa/Mississauga.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-20 (371, full) screened. Graduate Engineer Frederick MD (0-2 yrs) requires a mechanical, nuclear or chemical engineering degree and builds plant simulation models, so not SWE. Oracle System Developer and Manufacturing SW Developer say 'candidates must be US citizens' (DoD); other software roles are 5+ yrs, senior, or Canada.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

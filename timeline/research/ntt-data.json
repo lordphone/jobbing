@@ -1,42 +1,35 @@
 {
-  "company": "NTT DATA",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Junior Developer",
-      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
-      "location": "Arlington, VA (remote)",
-      "opened": "2026-09-29",
-      "date_source": "page text (Date: Sep 29, 2026)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Junior title; text asks 3 yrs Python, 2 yrs dev; ability to obtain Public Trust",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Junior Developer",
-      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425007800/",
-      "location": "Arlington, VA (remote)",
-      "opened": "2026-09-29",
-      "date_source": "page text (Date: Sep 29, 2026)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Junior title; text asks 3 yrs Python, 2 yrs dev; ability to obtain Public Trust",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker first seen 2025-10-02: Digital Technology Engineer / Senior Analyst Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
-  "jobs_spec": null,
-  "evidence": "careers-inc 2026-10-08: Junior Developer (Arlington VA remote, Req 388418, Sep 29) opened, Apply present; asks Python 3 yrs, dev 2 yrs, 'Ability to obtain/maintain a Public Trust Clearance' (no citizenship text). Two reqs. RSS searches show no other entry SWE; Pathways portal not checked.",
-  "confidence": "low"
+ "company": "NTT DATA",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Junior Developer",
+   "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
+   "location": "Arlington, VA (remote)",
+   "opened": "2026-08-31",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425007800/",
+   "reason": "gone: page says 'Sorry, this position has been filled.'"
+  }
+ ],
+ "last_cycle_opened": "2025-10-02",
+ "last_cycle_basis": "tracker first seen 2025-10-02: Digital Technology Engineer / Senior Analyst Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
+ "jobs_spec": null,
+ "evidence": "careers-inc.nttdata.com US/Canada feed (1532 jobs) read 2026-10-20: only entry SWE is Junior Developer (Arlington VA remote, req 1425010700, Apply shown; asks Public Trust, 1-3 yrs listed, borderline). Twin req 1425007800 now says filled. Entry Level Business Analyst not SWE. No 2027 program posting seen.",
+ "confidence": "medium"
 }

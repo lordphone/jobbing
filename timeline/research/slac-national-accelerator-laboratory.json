@@ -1,15 +1,30 @@
 {
   "company": "SLAC National Accelerator Laboratory",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Controls & AI Systems Engineer",
+      "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/SLAC/job/201009",
+      "location": "Menlo Park, CA",
+      "opened": "2026-10-17",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Summary: Entry-level position for a developing professional; BS or equivalent; Python controls/ML software (EPICS, bluesky)",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no new-grad cycle found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/SLAC/jobs",
   "jobs_spec": "oracle:careersearch.stanford.edu/SLAC",
-  "evidence": "Shared Stanford/SLAC Oracle board API 2026-10-08 (433, full): SLAC (Menlo Park) software roles need 5 yrs (Software Developer, Experiment Controls; Scientific Systems SWE) or 4 yrs; Science and Engineering Associates are non-software. Software Developer 1/ML roles are Stanford campus/Medicine. No SLAC new-grad program.",
-  "confidence": "medium"
+  "evidence": "Oracle SLAC site (436, full; shared with Stanford) read 2026-10-20: Controls & AI Systems Engineer (SSRL, Python controls software) says Entry-level position, BS required, posted 2026-10-17, live. Software Developer 1 roles are Stanford University labs, not SLAC. No new-grad cycle.",
+  "confidence": "low"
 }

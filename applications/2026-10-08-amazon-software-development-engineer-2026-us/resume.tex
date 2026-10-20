@@ -1,0 +1,58 @@
+% Amazon — Software Development Engineer - 2026 (US) — 3177934
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Machine Learning, Large Language Model Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Operating Systems, Mobile Computing Laboratory
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the FastAPI / MongoDB backend from its first commit to 89 endpoints on AWS EKS (Helm, Jenkins), with $\sim$1{,}450 offline tests behind a ruff / pyright / pytest gate; migrated nine integrations server-side so the iOS binary ships zero third-party API credentials.
+  \item Replaced a 25--30 request client fan-out with one backend call and a shared 10.9\,MB cache (78$\times$ smaller); diagnosed a five-day Live Activity CronJob outage and fixed it with paired job and scheduler deadlines.
+  \item Sole SwiftUI engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs; peak DAU 1{,}119); shipped Firebase auth, server-driven UI over 27 widget types, and ActivityKit Live Activities with a shared scoreboard widget.
+  \item Shipped agentic search with hybrid retrieval, a bounded tool-calling loop, SSE streaming, and server-resolved citations; deterministic entity resolution achieved 100\% P@1 on real logged queries.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) 2023 Fall Batch}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app, built from 0$\to$1 in React, Next.js, and Supabase; owned authentication, user session state, and PostgreSQL database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions, worked with recruiters on scoring categories, and demoed the product with fast client iterations until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an adaptive probabilistic safety certificate with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty, including icy conditions.
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Go, Java, C, TypeScript, JavaScript, Swift, SQL \\[1pt]
+  \textbf{Backend \& Data} & FastAPI, REST APIs, MongoDB, PostgreSQL, Supabase, React, Next.js \\[1pt]
+  \textbf{Cloud \& Quality} & AWS, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub Actions, pytest, CI/CD \\[1pt]
+  \textbf{ML \& Mobile} & PyTorch, CUDA, RAG, LLM tool calling / agents, SwiftUI, ActivityKit, Firebase \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering and speed from 1\,s video, with a data pipeline over 33 hours of Comma2k19; trained on local CUDA and GCP Vertex AI and ran streaming inference.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for student programs, including company-sponsored hackathons, alumni events, and tech outings.
+\end{itemize}
+
+\end{document}

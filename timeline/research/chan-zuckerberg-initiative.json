@@ -1,15 +1,16 @@
 {
   "company": "Chan Zuckerberg Initiative (CZI)",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No early-career SWE posting found; board shows only experienced roles.",
+  "last_cycle_basis": "no tracker history or new-grad posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chanzuckerberginitiative",
   "jobs_spec": "gh:chanzuckerberginitiative",
-  "evidence": "Greenhouse full board (7) 2026-10-08: Senior SWE Internal Tools, Senior TPM, analyst, comms and marketing roles. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (7) read 2026-10-20: only Staff SWE Internal Tools plus analyst/security/marketing roles. No entry-level SWE. Sister Biohub board has senior/PhD-level roles.",
+  "confidence": "medium"
 }

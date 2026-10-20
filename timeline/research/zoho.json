@@ -1,15 +1,16 @@
 {
   "company": "Zoho",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.zohocorp.com/jobs/Careers",
   "jobs_spec": null,
-  "evidence": "careers.zohocorp.com page data 2026-10-08: only 2 openings (Technical Support Engineers, Sales Executives, both India). No US new-grad developer role found.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Browser read careers.zohocorp.com 2026-10-20: only Technical Support Engineers and Sales Executives listed; no US developer or new-grad role.",
+  "confidence": "medium"
 }

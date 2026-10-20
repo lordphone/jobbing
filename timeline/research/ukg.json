@@ -1,15 +1,16 @@
 {
   "company": "UKG",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
+  "last_cycle_basis": "No tracker history found; unknown.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.ukg.com/careers",
   "jobs_spec": "eightfold:apply.ukg.com/ukg.com",
-  "evidence": "Eightfold board 2026-10-08 (101 US, full): SWE roles are III/Staff/Principal; Software Development Engineer (Lowell) opened via API needs 5+ yrs. Only Summer 2027 internships (Atlanta, Lowell) are early-career, not counted.",
-  "confidence": "medium"
+  "evidence": "Eightfold pcsx search in browser 2026-10-20 (112 US, full): SWE roles are III/Staff/Principal/Lead; sampled III, DevOps and SDE postings need 4-5+ yrs, and the DevOps posting says no sponsorship. No entry SWE.",
+  "confidence": "high"
 }

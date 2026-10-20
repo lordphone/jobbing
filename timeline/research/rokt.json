@@ -1,16 +1,17 @@
 {
   "company": "Rokt",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-04-16",
-  "last_cycle_basis": "Workable Junior Software Engineer NYC first seen 2026-04-16 (outside Jul-Jan window; off-cycle); web search also shows a 2025 Graduate Software Engineer NYC",
+  "last_cycle_basis": "Workable Junior Software Engineer NYC first seen 2026-04-16 (off-cycle, outside Jul-Jan window)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/rokt/",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-10-08 lists 13 jobs, none engineering. Junior Software Engineer (NYC) first seen 2026-04-16 is gone; Rokt hires junior/graduate SWE in NYC off-cycle (spring).",
-  "confidence": "medium",
-  "jobs_spec_basis": "Workable has no public job-list spec in jobs.py; read via apply.workable.com widget API"
+  "jobs_spec_basis": "Workable board read via apply.workable.com widget API; no jobs.py spec",
+  "evidence": "Workable widget API 2026-10-20 (11 jobs): no engineering roles (account, success, sales, Tokyo ops). Rokt hired Junior SWE in NYC off-cycle (first seen 2026-04-16); nothing live now.",
+  "confidence": "medium"
 }

@@ -1,15 +1,30 @@
 {
   "company": "Publix Super Markets",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer – POS Software Engineering 2 (Hybrid)",
+      "url": "https://jobs.publix.com/job-opening/software-engineer-pos-software-engineering-2-hybrid/",
+      "location": "Lakeland, FL",
+      "opened": "2026-09-08",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Required: 1+ years each in enterprise apps, SQL Server, C#/.NET, Blazor/React/Angular; $90K-$135K; no lead or mentor duties; Intermediate/Senior/Lead titles sit above it",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.publix.com/tech-software-engineer",
+  "jobs_page": "https://jobs.publix.com/jobs/?department_type_slug=publix-technology",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08 jobs.publix.com Publix Technology department (18 results): software titles are Lead/Senior/Intermediate ($97K+), plus architect, analyst and service technician; no entry-level SWE or new-grad program. Unchanged.",
+  "evidence": "Publix Technology list (25 jobs, 3 pages) and POS posting page 2026-10-20: Apply present, posted 2026-09-08, 1+ yrs, will not file USCIS petitions. Left out Generative AI Engineer (owns and leads AI platform, 2+ yrs .NET); rest Intermediate, Senior or Lead.",
   "confidence": "medium"
 }

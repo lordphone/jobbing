@@ -1,42 +1,43 @@
 {
-  "company": "P&G",
-  "status": "open",
-  "postings": [
-    {
-      "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
-      "location": "Cincinnati, OH",
-      "opened": "2026-09-30",
-      "date_source": "workday startDate (repost; tracker first seen the 2027 Grads set 2026-08-16)",
-      "deadline": null,
-      "grad_window": "upcoming 2027 graduates",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Data & AI Engineering (2027 Grads)",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913",
-      "location": "Cincinnati, OH",
-      "opened": "2026-08-16",
-      "date_source": "tracker first seen (workday startDate 2026-09-30)",
-      "deadline": null,
-      "grad_window": "2027 graduates",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker shows no new-grad SWE posting for P&G in Jul 2025 - Jan 2026",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://pg.wd5.myworkdayjobs.com/1000",
-  "jobs_spec": "wd:pg/wd5/1000",
-  "evidence": "Workday CXS searches + detail 2026-10-08: IT Engineering (software/platform/network) and Data & AI Engineering 2027 Grads live in Cincinnati, canApply true; both \"Immigration Sponsorship is not available for this role\". IT Security and Digital Marketing Technology 2027 Grads not counted.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "tier": 5
+ "company": "P&G",
+ "status": "open",
+ "postings": [
+  {
+   "title": "IT Engineering (Software, Platform, & Network) (2027 Grads)",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
+   "location": "Cincinnati, OH",
+   "opened": "2026-08-23",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": "Spring or Summer 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "2027 Grads program: 'graduating in the Spring or Summer of 2027'",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Data & AI Engineering (2027 Grads)",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913",
+   "location": "Cincinnati, OH",
+   "opened": "2026-08-16",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": "Spring or Summer 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "2027 Grads program: 'graduating in the Spring or Summer of 2027'",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "unknown; tracker shows no new-grad SWE posting for P&G in Jul 2025 - Jan 2026",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://pg.wd5.myworkdayjobs.com/1000",
+ "jobs_spec": "wd:pg/wd5/1000",
+ "evidence": "Workday board (280 listed) plus CXS search '2027 Grads' read 2026-10-20: Data & AI Engineering and IT Engineering (Software, Platform & Network) 2027 Grads live via detail API (Cincinnati), no deadline, no sponsorship. Digital Marketing Tech, IT Security, Data Science (Master's) not counted.",
+ "confidence": "high",
+ "checked": "2026-10-20",
+ "tier": 5,
+ "dropped": []
 }

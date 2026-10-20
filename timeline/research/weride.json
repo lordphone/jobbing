@@ -1,11 +1,10 @@
 {
   "company": "WeRide",
-  "tier": 5,
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "New Grads 2027 - Software Engineer, Algorithm",
-      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
       "location": "San Jose, CA",
       "opened": "2026-08-10",
       "date_source": "lever createdAt",
@@ -14,11 +13,11 @@
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false
+      "no_sponsorship": false,
+      "title": "New Grads 2027 - Software Engineer, Algorithm",
+      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
     },
     {
-      "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
       "location": "San Jose, CA",
       "opened": "2026-08-10",
       "date_source": "lever createdAt",
@@ -27,16 +26,18 @@
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
-      "no_sponsorship": false
+      "no_sponsorship": false,
+      "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "tracker first-seen; 'New Grads 2026 - General Software Engineer', San Jose CA (jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/weride",
   "jobs_spec": "lever:weride",
-  "evidence": "Lever API 2026-10-08 (17 postings, full): two New Grads 2027 San Jose postings live, grad window Dec 2026–Jun 2027; no citizenship/clearance/sponsorship text, no deadline. Other SWE reqs ask 3+ yrs; China 2026 postings ignored.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Lever weride full board read 2026-10-20: two New Grads 2027 San Jose postings live (Algorithm; Perception/CV), grad window Dec 2026-Jun 2027. 2026 China new-grad postings and old evergreen roles not counted.",
+  "confidence": "high"
 }

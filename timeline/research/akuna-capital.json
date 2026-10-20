@@ -1,7 +1,7 @@
 {
   "company": "Akuna Capital",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating by Aug 2027",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating by Aug 2027",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -38,7 +38,7 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": "Graduating Aug 2027 or prior",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -50,6 +50,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/akunacapital",
   "jobs_spec": "gh:akunacapital",
-  "evidence": "gh:akunacapital full board (41) lists the three Chicago roles, first_published 2026-07-13; pages opened via WebFetch 2026-10-08 show Apply Now, graduating by Aug 2027, F-1 OPT/STEM OPT accepted, no years required, no deadline. Python Business Ops SWE needs 3-5 yrs (excluded).",
-  "confidence": "high"
+  "evidence": "gh:akunacapital full board (40) re-read 2026-10-20; detail confirms three Chicago roles live on API, first_published 2026-07-13, graduating by Aug 2027, no deadline. Other Chicago SWE roles need 3-5+ yrs or lead duties; others are interns or non-US.",
+  "confidence": "high",
+  "dropped": []
 }

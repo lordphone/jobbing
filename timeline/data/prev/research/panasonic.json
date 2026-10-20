@@ -1,0 +1,82 @@
+{
+  "company": "Panasonic",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Full Stack)",
+      "url": "https://careers.na.panasonic.com/jobs/49874",
+      "location": "Irvine, CA",
+      "opened": "2026-07-30",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE; no senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Embedded / Linux",
+      "url": "https://careers.na.panasonic.com/jobs/50895",
+      "location": "Irvine, CA",
+      "opened": "2026-09-29",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '0-3 years of proven experience in software engineering'; Bachelor's CS/SE/EE",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I – Embedded Systems",
+      "url": "https://careers.na.panasonic.com/jobs/50269",
+      "location": "Irvine, CA",
+      "opened": "2026-10-08",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; 0 - 3 years' work experience; Bachelor's CS/CE/SE",
+      "no_sponsorship": false
+    },
+    {
+      "title": "MTS I, Software",
+      "url": "https://careers.na.panasonic.com/jobs/51759",
+      "location": "Irvine, CA",
+      "opened": "2026-10-15",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "MTS I; '0-2+ years of experience in software development with a Bachelor's degree'; work 'under guidance'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "MTS I, Software Engineer",
+      "url": "https://careers.na.panasonic.com/jobs/51755",
+      "location": "Irvine, CA",
+      "opened": "2026-10-19",
+      "date_source": "jibe api posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "MTS I; '0 - 3 years' work experience'",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-09-10",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1 - Microservices, Beaverton OR (careers.na.panasonic.com/jobs/44350)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.na.panasonic.com/jobs",
+  "jobs_spec": null,
+  "evidence": "Jibe API re-read 2026-10-19 (492 postings, full): five Irvine CA entry-level software roles (SWE Full Stack, SWE Embedded/Linux, SWE I, MTS I x2) ask 0-3 yrs, no citizenship line found. Left out: MTS II (3+ yrs), MTS III-V, Software Engineer III, 49873 (8+ yrs), ML Engineer IV.",
+  "confidence": "high",
+  "dropped": []
+}

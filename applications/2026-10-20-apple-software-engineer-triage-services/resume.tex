@@ -1,0 +1,60 @@
+% Apple — Software Engineer, Triage Services (Cupertino, CA) — Role Number 200683343
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Distributed Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Large Language Models in Practice, Computer Architecture
+
+\section{Work Experience}
+\role{NewsBreak}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Designed and shipped a personalized LLM alert pipeline as a Kubernetes CronJob: bge embeddings shortlist near-duplicates, an LLM scores each article, a per-topic 7-day percentile gate selects, and an LLM same-story judge dedupes before APNs ($\sim$2\,min ingest-to-decision).
+  \item Logged why each item fired or not and calibrated in production shadow (4{,}100+ decisions, 127-alert holdout, prompt ablations); live: 1.8 median alerts/user/day at 4\% filler, 2/day cap held over 11{,}745 user-days.
+  \item Designed an SSE search agent: deterministic RAG on turn 1, then a bounded tool-calling loop ($\le$3 hops, 5 tools, 45\,s) over hybrid retrieval (keyword + bge vectors, fused by RRF) with server-resolved citations; entity resolution reached 100\% P@1 on real logged queries at 0.4\,ms.
+  \item Root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces to an unbounded reasoning loop and a Helm env shadowing the code default; sized a 2{,}048-token cap against p95 1{,}197 tokens.
+  \item Built the \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings) FastAPI / MongoDB backend from its first commit to 89 endpoints and $\sim$1{,}450 fully-offline tests; stood it up on AWS EKS on day 3 and set up Prometheus / Grafana.
+  \item Root-caused a 5-day silent Kubernetes CronJob outage: an empty image tag left the Job in non-terminal ImagePullBackOff, so Forbid concurrency skipped every later run; fixed it with paired deadlines.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a Next.js, FastAPI, and Supabase app on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built the LLM mock-interview app from 0$\to$1 as sole engineer in React, Next.js, and Supabase; owned auth, session state, and database interactions.
+  \item Iterated AI scoring with recruiters to match real hiring; three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{AI \& Agents} & Python, LLM tool calling / agents, RAG, RRF, bge embeddings, MCP, Claude Code \\[1pt]
+  \textbf{Infra} & Kubernetes (EKS), Docker, Helm, Prometheus, Grafana, Langfuse, AWS, Linux, CI/CD \\[1pt]
+  \textbf{Data \& Backend} & C, Go, SQL, MongoDB, PostgreSQL, Redis Streams, FastAPI, asyncio, pytest, LangChain \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{Operating Systems (C):} Implemented a pthread-based quicksort for UW--Madison coursework and contributed xv6 system-call entry points and a clone wrapper with pointer-argument validation.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

@@ -1,7 +1,7 @@
 {
   "company": "Commure",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -11,19 +11,34 @@
       "opened": "2026-09-11",
       "date_source": "tracker first seen",
       "deadline": null,
-      "grad_window": "graduating recently or within the upcoming academic year (2027 cohort)",
+      "grad_window": "graduating recently or within the upcoming academic year",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0",
+      "location": "Mountain View, CA; Phoenix, AZ; Austin, TX; Los Angeles, CA; Boston, MA; New York City, NY; San Francisco, CA; Remote",
+      "opened": "2026-06-26",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's degree; 1+ years of professional experience in software engineering or a similar role",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-27",
   "last_cycle_basis": "Tracker history: 'New Grad 2026: Software Engineer' first seen 2025-08-27, Mountain View, CA.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Commure",
   "jobs_spec": "ashby:Commure",
-  "evidence": "Early Career 2027 SWE is unlisted on the Ashby board but its page loads with Apply (browser 2026-10-08); tracker first seen 2026-09-11, API earlier showed published 2026-09-24. Scribe AI SWE (1-4 yrs) and FDE (1+ yrs) left out as unclear.",
+  "jobs_spec_basis": "kept ashby:Commure; API omits the Early Career posting, page verified in browser",
+  "evidence": "Early Career 2027 SWE (MV/LA, $130-150K) not in Ashby API list but page loads with Application tab in browser 2026-10-20. FDE asks 1+ yrs, kept. Scribe AI SWE asks 1-4 yrs, left out; other SWE need 2+ to 3+.",
   "confidence": "high"
 }

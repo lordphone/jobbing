@@ -1,7 +1,7 @@
 {
   "company": "Viasat",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "excluded",
   "postings": [
     {
@@ -14,16 +14,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Early Career title; 0-3 yrs",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-06-07",
   "last_cycle_basis": "tracker first seen: Full Stack Software Engineer, Early Career (Carlsbad, CA; Remote) https://careers.viasat.com/jobs/4457",
   "excluded_reason": "citizenship",
   "no_sponsorship": false,
   "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API (291 jobs) re-read 2026-10-08. Only entry SWE, Embedded SWE Early Career 6723 (0-3 yrs): 'requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'. Systems Test Engineer Early Career 6892 is test. Software Engineer 6907 (2+ yrs) tagged US Citizenship; other US SWE roles need clearance or 3-8 yrs.",
+  "evidence": "Jibe API 2026-10-20 (197 for software). Embedded Software Engineer Early Career 6723 (0-3 yrs) still live but requires U.S. citizenship and active SECRET or TOP SECRET clearance. Other entry-level SWE roles carry the US Citizenship tag or need 3+ yrs.",
   "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Traba",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [
     {
@@ -18,12 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No last-cycle new-grad posting found",
+  "last_cycle_basis": "No last-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/traba",
   "jobs_spec": "ashby:traba",
-  "evidence": "Posting page opened in browser 2026-10-08: 'Job not found'. Ashby board (32, full) lists only Senior/Staff SWE (NYC, 2026-09-29). New Grad SWE (NYC) first seen 2026-07-22 is gone.",
+  "evidence": "ashby:traba full board (30) lists only Senior/Staff SWE and PMs. Software Engineer New Grad (NYC, first seen 2026-07-22) shows 'Job not found' in browser 2026-10-20 and is not on the API board. Closed.",
   "confidence": "high"
 }

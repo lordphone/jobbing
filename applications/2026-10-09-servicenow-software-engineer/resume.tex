@@ -1,0 +1,61 @@
+% ServiceNow — Software Engineer (JB0075018)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Large Language Model Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Algorithms, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Primary backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings, peak DAU 1{,}119): opened the service with its first commit, wrote 83\% of its commits, and authored 344 PRs across five repos (340 merged).
+  \item Built the FastAPI / MongoDB REST backend to 89 endpoints and $\sim$1{,}450 fully-offline unit tests behind a pytest CI gate; stood up production AWS EKS (Docker, Helm, Jenkins) on day 3.
+  \item Shipped a personalized LLM news-alert pipeline ($\sim$1{,}200 LLM calls/day); evaluated prompt ablations in production shadow on 4{,}100+ logged decisions and cut filler alerts 34\% $\to$ 4\%.
+  \item Shipped an LLM search agent: RAG on turn 1, a bounded tool-calling loop ($\le$3 hops, 5 tools) for follow-ups, and server-resolved citations; entity resolution took real logged queries 0\% $\to$ 100\% P@1.
+  \item Debugged production: a 5-day silent Kubernetes CronJob outage (ImagePullBackOff + Forbid concurrency), and a 65\% failure rate in another team's LLM workers, traced via Langfuse to an unbounded reasoning loop.
+  \item Introduced the team's Jira backlog, wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs, and onboarded the team's second engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led 8 interns through Agile sprints to ship a React, Next.js, FastAPI, and Supabase MVP on GCP.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built the LLM mock-interview app from 0$\to$1 as sole engineer in React, Next.js, and Supabase; owned auth, session state, and database interactions.
+  \item Demoed the product and iterated with clients until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages \& AI} & Python, Java, JavaScript, TypeScript, SQL, LLM tool calling / agents, RAG, Claude Code / AI coding tools \\[1pt]
+  \textbf{Web \& Data} & REST APIs, FastAPI, React, Next.js, PostgreSQL, MongoDB, Supabase, Git, Agile/Scrum \\[1pt]
+  \textbf{Testing \& Cloud} & pytest, CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes (EKS), AWS, GCP, Grafana \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{\href{https://github.com/lordphone/my-av}{my-av}:} Built a CNN-GRU model that predicts steering angle and speed from 20-frame (1\,s) video; processed 33 hours of Comma2k19 footage and ran streaming inference on local CUDA and GCP Vertex AI.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

@@ -1,29 +1,30 @@
 {
   "company": "Perplexity",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Member of Technical Staff (New Grad)",
-      "url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
-      "location": "San Francisco, CA",
-      "opened": "2026-09-29",
+      "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+      "url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+      "location": "San Francisco, CA; New York, NY",
+      "opened": "2026-06-04",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "Students and recent graduates (no year stated)",
+      "grad_window": null,
       "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years; \"we're open to strong junior and mid-level candidates\"",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "GitHub tracker history: no SWE new-grad posting 2025-07 to 2026-01; only Associate Product Manager Program (2025-07-25)",
+  "last_cycle_basis": "unknown; GitHub tracker history shows no SWE new-grad posting 2025-07 to 2026-01 (only an Associate Product Manager program 2025-07-25)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Perplexity",
   "jobs_spec": "ashby:Perplexity",
-  "evidence": "Ashby board 2026-10-08 (129, full): general MTS (New Grad) portal for students/recent grads, SF, published 2026-09-29. 'AI Products (Early Career - Industry)' is for industry candidates already working 1+ yrs, not counted. Other MTS ask 2-6+ yrs at $220K+ (Computer Growth: 2+ yrs, not entry pay). No sponsorship text.",
+  "evidence": "Ashby full board (134) re-read 2026-10-20: MTS (New Grad) 9/29 says the general portal closed for 2026, so not counted. MTS AI Products Early Career says new grads should not apply. Computer Growth SWE asks 2+ years, open to junior, kept.",
   "confidence": "medium"
 }

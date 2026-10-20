@@ -1,15 +1,16 @@
 {
   "company": "Vista Equity Partners",
-  "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker had 'Agentic Factory Consultant' (remote US, 2026-08-13), a consulting role, not on board now",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers2-vistaequitypartners.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS listing (in_iframe, 1 page) 2026-10-08: 8 postings, all senior (Principal Architect, Associate Director/Director, talent consultants). No entry-level SWE; engineering hiring is at portfolio companies.",
-  "confidence": "medium"
+  "evidence": "iCIMS listing rendered no jobs on 2026-10-20 (list sits in an iframe the pane and WebFetch could not read). The 2026-10-19 read of 6 jobs showed only Principal Architect and Director roles, so no entry SWE; engineering is at portfolio companies.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

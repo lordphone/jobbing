@@ -1,19 +1,13 @@
 {
   "company": "Comcast",
-  "status": "open",
-  "postings": [
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Machine Learning Engineer 1",
-      "url": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Machine-Learning-Engineer-1_R445311",
-      "location": "New York, NY",
-      "opened": "2026-10-07",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-16",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Engineer 1 level; \"Relevant Work Experience 0-2 Years\"",
-      "no_sponsorship": false
+      "url": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Engineer--4-Days-Onsite--Englewood--CO--FreeWheel_R445145",
+      "reason": "gone: not on the 646-posting Workday board or CXS searches; CXS returns 403 and the job page has no title (a live req shows one)"
     }
   ],
   "last_cycle_opened": "2025-08-21",
@@ -22,8 +16,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers",
   "jobs_spec": "wd:comcast/wd115/Comcast_Careers",
-  "evidence": "Workday CXS searches 2026-10-08 (software engineer 1, engineer 1, junior, entry level, new grad): only ML Engineer 1 (NY, 0-2 yrs, ends 2026-10-16) qualifies; canApply true. Other SWE roles are level 2+.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5
+  "evidence": "Full Workday board 2026-10-20 (646) and CXS searches: Junior Software Engineer (FreeWheel) R445145, seen live 2026-10-19, is gone (job page carries no title, CXS 403). Other SWE roles need 2+ to 5-7 yrs or are senior; not counted.",
+  "confidence": "medium"
 }

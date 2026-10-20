@@ -1,15 +1,30 @@
 {
   "company": "Scopely",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Machine Learning",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-19",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum: Master's plus one (1) year experience incl. internships; $165,131-$180,946; no senior duties",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: off-cycle 'Engineer' (Culver City) 2026-03-11 and Full Stack Engineer (Bellevue) 2026-05-11, level unclear; no 2025-07 to 2026-01 new-grad posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/scopely",
   "jobs_spec": "gh:scopely",
-  "evidence": "Greenhouse API 2026-10-08 (171, full): no US/Canada entry-level SWE; engineering openings are in Spain, India, Japan, Mexico, China or Senior/Staff (US Senior Backend, Staff SWE SF). No new-grad program seen.",
+  "evidence": "Greenhouse API 2026-10-20 (171, full) and posting read: Software Engineer, Machine Learning (San Francisco, first published 2026-10-19) needs Master's plus 1 year (internships count), no senior duties, counted as unlabeled entry-level. Other entry-looking roles are outside US.",
   "confidence": "medium"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Infleqtion",
   "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "This role is open to both entry-level and senior-level candidates; requires Bachelor's; $145,000-$170,000",
+      "level_basis": "Posting: \"This role is open to both entry-level and senior-level candidates\"; Bachelor's required, PhD preferred",
       "no_sponsorship": false
     },
     {
@@ -27,16 +26,19 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "This role is open to both entry-level and senior-level candidates; requires Bachelor's; $145,000-$170,000",
+      "level_basis": "Posting: \"This role is open to both entry-level and senior-level candidates\"; Bachelor's required, PhD preferred",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-09",
   "last_cycle_basis": "tracker first seen Quantum Software Engineer, Chicago (https://apply.workable.com/coldquanta/j/00EC28A7E5/)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/coldquanta/",
   "jobs_spec": null,
-  "evidence": "Workable API (84 jobs) 2026-10-08: both Chicago compiler postings (published 2026-08-24) still published; text says 'open to both entry-level and senior-level candidates', Bachelor's required, PhD preferred. QEC/Energy/Nuclear roles PhD-focused or senior; not counted. Export-control note (no citizenship quote).",
-  "confidence": "medium"
+  "jobs_spec_basis": "Workable API v3 accounts/coldquanta/jobs (POST, paged) lists all jobs",
+  "evidence": "Workable API (58 jobs) read 2026-10-20: both Chicago compiler postings (2026-08-24) live, open to entry and senior, Bachelor's required. QEC needs PhD; Nuclear, Energy Grid, Integrations and Digital Engineering state no level or years, so left out. Export-control note only, no citizenship rule.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

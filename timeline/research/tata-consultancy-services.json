@@ -1,30 +1,31 @@
 {
-  "company": "Tata Consultancy Services (TCS)",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Junior FDE",
-      "url": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/431331J",
-      "location": "Milford, OH",
-      "opened": "on or before 2026-10-07",
-      "date_source": "page text (no posted date shown; first seen 2026-10-07)",
-      "deadline": "2026-11-05",
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Experience 0 - 2 Years; Bachelor of Computer Information Systems; $85,000-$100,000; 'Junior' title",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no dated first-party source found; campus boards (Handshake, Rice CDO) list TCS Software Engineer (Entry-Level), undated",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/search",
-  "jobs_spec": null,
-  "evidence": "Browser iBegin US 2026-10-08: paged all 241 pages (2410 results). Only Junior FDE (Milford OH, 0-2 yrs, Apply live, apply by 2026-11-05) fits. Other software roles banded 2-4/2-5 yrs (Java Dev, Spring, Gen AI Engineer, SWE AI Native), left out.",
-  "confidence": "medium",
-  "jobs_spec_basis": "iBegin US search works in browser (en-US locale); pulled all 2350 US postings via its search API"
+ "company": "Tata Consultancy Services (TCS)",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Junior FDE",
+   "url": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/431331J",
+   "location": "Milford, OH",
+   "opened": "on or before 2026-10-07",
+   "date_source": "page text (no posted date shown; first seen 2026-10-07)",
+   "deadline": "2026-11-05",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Experience 0 - 2 Years; Bachelor of Computer Information Systems; $85,000-$100,000; 'Junior' title",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_basis": "no dated first-party source found; campus boards list TCS Software Engineer (Entry-Level), undated",
+ "jobs_page": "https://ibegin.tcsapps.com/candidate/next/en-US/jobs/search",
+ "jobs_spec": null,
+ "jobs_spec_basis": "iBegin US search works in browser; POST /api/en-US/search/jobs with NEXT-XSRF-TOKEN and experienceLevelFilters ['entry_level'] lists the entry band",
+ "evidence": "iBegin search API (entry_level band, 112 jobs, read 2026-10-20): Junior FDE 431331J (Milford OH, 0-2 yrs, apply by 2026-11-05) still listed. Other entry-band tech roles (Junior SRE, Java Engineer, Software Engineer AI Native) ask 2-4+ yrs and were not counted.",
+ "confidence": "medium",
+ "checked": "2026-10-20",
+ "dropped": [],
+ "no_sponsorship": false,
+ "excluded_reason": null,
+ "last_cycle_opened": null
 }

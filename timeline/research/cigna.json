@@ -1,55 +1,16 @@
 {
   "company": "Cigna",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Technology Development Program (TECDP) - Software Engineering Track - Start Date: July 12, 2027",
-      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470",
-      "location": "Morris Plains, NJ; Bloomington, MN",
-      "opened": "2026-08-12",
-      "date_source": "tracker first seen 2026-08-12 (earlier req, reposted); current req workday startDate 2026-09-09",
-      "deadline": "mid-October 2026 or once filled (posting text)",
-      "grad_window": "start date July 12, 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Technology Development Program (TECDP) - Artificial Intelligence Track - Start Date: July 12, 2027",
-      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Artificial-Intelligence-Track---Start-Date--July-12--2027_26010465",
-      "location": "Bloomfield, CT; Morris Plains, NJ; Austin, TX; St. Louis, MO",
-      "opened": "2026-08-11",
-      "date_source": "tracker first seen 2026-08-11 (earlier req, reposted); current req workday startDate 2026-09-09",
-      "deadline": "mid-October 2026 or once filled (posting text)",
-      "grad_window": "start date July 12, 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027",
-      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track---Start-Date--July-12--2027_26010467",
-      "location": "Bloomfield, CT; Morris Plains, NJ; St. Louis, MO",
-      "opened": "2026-08-12",
-      "date_source": "tracker first seen 2026-08-12 (earlier req, reposted); current req workday startDate 2026-09-09",
-      "deadline": "mid-October 2026 or once filled (posting text)",
-      "grad_window": "start date July 12, 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
+  "status": "closed",
   "last_cycle_opened": "2025-09-04",
   "last_cycle_basis": "tracker first seen: TECDP Artificial Intelligence / Infrastructure & Cloud tracks, cigna.wd5.myworkdayjobs.com/cignacareers",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
   "jobs_spec": "wd:cigna/wd5/cignacareers",
-  "evidence": "Full Workday board (577) + jobs.py detail 2026-10-08: TECDP Software, AI, Data & Analytics tracks (start Jul 12 2027) live; 'do not now or in future require visa sponsorship incl. H-1B, CPT/OPT/STEM'; window closes mid-October 2026 or once filled. Cyber Security track not SWE; Software Engineering Advisor roles are mid-level.",
-  "confidence": "high"
+  "evidence": "Full Workday board (520) read 2026-10-20: US Software Engineering Advisor roles ask 5 yrs (opened Austin, Bloomfield, Plano, Morris Plains); Associate Advisor roles are Hyderabad only. No TECDP or graduate posting live, so last cycle's TECDP is gone.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

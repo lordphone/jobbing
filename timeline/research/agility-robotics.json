@@ -1,7 +1,7 @@
 {
   "company": "Agility Robotics",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,16 +14,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Title 'I/II' includes level I; asks '2+ years of relevant experience, including research-level and industry experience'; base pay $114K-$148K",
+      "level_basis": "Title 'I/II' includes level I; asks '2+ years of relevant experience'; B.S. or M.S. accepted; base $114,000-$148,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'agility': only a Mechanical Engineer posting (non-SWE, 2026-06-16); no new-grad SWE in 2025-07 to 2026-01.",
+  "last_cycle_basis": "jobs.py history 'agility': only a Mechanical Engineer posting (2026-06-16); no new-grad SWE in 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/agilityrobotics",
   "jobs_spec": "gh:agilityrobotics",
-  "evidence": "Greenhouse full board (77) and posting text re-read 2026-10-08: only entry-level SWE is Robotics Software Engineer I/II, Salem OR (onsite), first published 2026-10-02. All other engineering roles senior/staff or non-software. Borderline: I/II title, 2+ yrs.",
+  "evidence": "gh:agilityrobotics full board (74) read 2026-10-20; posting text read via API: I/II level, 2+ yrs, BS/MS, Salem OR. Other engineering roles are senior/staff or non-software. Borderline I/II, kept.",
   "confidence": "medium"
 }

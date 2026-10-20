@@ -1,6 +1,7 @@
 {
   "company": "Whatnot",
   "tier": 3,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
       "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
       "opened": "2026-08-31",
-      "date_source": "ashby publishedDate (GraphQL)",
+      "date_source": "ashby job posting API publishedDate",
       "deadline": null,
       "grad_window": "degree by Summer 2027",
       "live_verified": "api",
@@ -17,14 +18,14 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "tracker first-seen for prior cycle (carried from earlier research file; not in current jobs.py history, which shows 2024-09-02 'New Grad 2025' and a 2026-07-13 NYC posting)",
-  "jobs_page": "https://jobs.ashbyhq.com/whatnot",
-  "jobs_spec": null,
-  "jobs_spec_basis": "Ashby posting-api returns 404 for whatnot; board read via jobs.ashbyhq.com GraphQL (151 postings)",
-  "evidence": "Ashby GraphQL full list (151) 2026-10-08: 'Software Engineer, 2027 New Grad' listed and open, published 2026-08-31, degree by Summer 2027; no sponsorship or deadline text. Other SWE roles ask 4+ yrs or are Senior/Staff. Same as 2026-10-07 file.",
-  "confidence": "high",
-  "checked": "2026-10-08",
+  "last_cycle_basis": "tracker first-seen for prior cycle (carried from earlier research file; jobs.py history shows 2024-09-02 'New Grad 2025' and a 2026-07-13 NYC posting)",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://www.whatnot.com/careers/discover",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Ashby posting-api returns 404 for whatnot; jobs.ashbyhq.com/whatnot page embeds the job list",
+  "evidence": "Ashby GraphQL (jobs.ashbyhq.com/whatnot) 2026-10-19: Software Engineer, 2027 New Grad still listed (published 2026-08-31; graduate by Summer 2027; hubs NYC/SF/LA/Seattle). Other US SWE roles are senior/staff or mid-level.",
+  "confidence": "high"
 }

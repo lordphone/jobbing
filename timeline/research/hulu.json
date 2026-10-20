@@ -1,6 +1,7 @@
 {
   "company": "Hulu",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [
     {
@@ -17,13 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first-seen for Software Engineer I, Seattle WA at https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Hulu posts under Disney. Product Software Engineer I (opened 2026-08-17, deadline 2026-10-05) returns HTTP 404 on disneycareers.com 2026-10-08 and is absent from Disney Workday (598, full): only Product SWE II/Senior+/Lead, a Decision Science grad associate (parks) and interns.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Hulu posts under Disney. Product Software Engineer I (opened 2026-08-17, deadline 2026-10-05) page returns 404 and is absent from Disney Workday (399, full); other US software roles are II, Senior or 3+ yrs. No entry SWE live.",
+  "confidence": "high"
 }

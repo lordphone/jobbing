@@ -1,22 +1,9 @@
 {
   "company": "Home Depot",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer (Remote)",
-      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624",
-      "location": "Remote (US) (Georgia virtual, no city listed)",
-      "opened": "2026-09-29",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Minimum Years of Work Experience: 1; no leadership experience; 'assisting in developing' duties; bachelor's degree",
-      "no_sponsorship": false
-    },
     {
       "title": "Software Engineer - Workforce Management",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer---Workforce-Management_Req190607",
@@ -27,16 +14,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Minimum Years of Work Experience: 1; no leadership experience; bachelor's degree",
+      "level_basis": "Minimum Years of Work Experience: 1; no leadership experience; 'Assists in developing, testing, deploying'; pay up to $130,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Developer, Online",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Developer--Online_Req194858",
+      "location": "Atlanta, GA",
+      "opened": "2026-10-13",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Years of Work Experience: 1 (preferred 3-5); 0 direct reports; 'works to become proficient in one or more programming languages'. Borderline.",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker history only shows a 2024-07 Software Engineer and 2025-08 Associate Data Scientist",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://homedepot.wd5.myworkdayjobs.com/careerdepot",
   "jobs_spec": "wd:homedepot/wd5/careerdepot",
-  "evidence": "Workday API 2026-10-08 (985 listed): two base-level Software Engineer reqs (194624, 190607) live, min 1 yr, no leadership, no class year. Others are II/Senior or 3+ yrs; Data Engineer roles not counted (unclear level). Embedded SWE needs 3+ yrs.",
+  "evidence": "Workday board 2026-10-20 (780 listed) + screens: Software Engineer - Workforce Management (min 1 yr, no leadership) and Developer, Online (min 1, pref 3-5, borderline, kept) live. Automation, Application, Embedded, IT Developer need 3-4+ yrs. 2027 internship only.",
   "confidence": "medium"
 }

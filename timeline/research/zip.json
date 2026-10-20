@@ -1,7 +1,5 @@
 {
   "company": "Zip",
-  "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -9,10 +7,10 @@
       "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
       "location": "Toronto, ON, Canada",
       "opened": "2026-08-25",
-      "date_source": "ashby publishedAt",
+      "date_source": "ashby publishedAt (2026-10-08 board listing)",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
-      "live_verified": "api",
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,7 +22,7 @@
       "opened": "2026-08-25",
       "date_source": "tracker first seen 2026-08-25 (Ashby hosted-page publishedDate 2026-10-02, likely repost)",
       "deadline": null,
-      "grad_window": "Dec 2026 – Jun 2027",
+      "grad_window": "Dec 2026 \u2013 Jun 2027",
       "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
@@ -33,10 +31,13 @@
   ],
   "last_cycle_opened": "2025-08-22",
   "last_cycle_basis": "tracker history first-seen 'New Grad 2026: Software Engineer' (Ashby 5f28357a-...)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/zip",
   "jobs_spec": "ashby:zip",
-  "evidence": "Ashby board (126) lists Toronto 2027-start new-grad (2026-08-25); SF twin unlisted on board API but its page opened in browser 2026-10-08, hybrid SF, grads Dec 2026-Jun 2027. Other SWE roles ask 3-5+ yrs. No deadline or sponsorship text.",
-  "confidence": "high"
+  "evidence": "Both 2027-start new-grad SWE pages (Toronto, SF) opened in browser 2026-10-20 with Apply, grads Dec 2026-Jun 2027. Neither is on the Ashby list API (118 postings). Other SWE roles are All Levels or mid-senior.",
+  "confidence": "medium",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

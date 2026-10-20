@@ -1,15 +1,16 @@
 {
   "company": "Ursa Major",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-10-09",
-  "last_cycle_basis": "tracker first seen: Software Engineer, Loveland CO (ursamajor.com/careers/?gh_jid=4585198005); not a new-grad label",
-  "excluded_reason": null,
+  "last_cycle_basis": "tracker first seen: Software Engineer, Loveland CO, https://ursamajor.com/careers/?gh_jid=4585198005 (not clearly entry-level)",
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/ursamajor",
   "jobs_spec": "gh:ursamajor",
-  "evidence": "Greenhouse full board 2026-10-08 (111): only SWE roles are Senior Embedded and Senior Test SWE; sole entry role is Development Research Engineer I, Energetics (not SWE). Last-cycle SWE posting gone.",
-  "confidence": "high"
+  "evidence": "Greenhouse ursamajor full board read 2026-10-20: software roles are Senior Embedded and Senior Test SWE; rest are propulsion/manufacturing roles and non-software summer 2027 interns. Postings carry U.S. Person clauses. No entry-level SWE.",
+  "confidence": "medium"
 }

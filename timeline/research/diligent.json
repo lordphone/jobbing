@@ -1,15 +1,16 @@
 {
   "company": "Diligent",
-  "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no new-grad SWE posting for Diligent Corporation in window (Diligent Robotics is a different company)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/diligentcorporation",
   "jobs_spec": "gh:diligentcorporation",
-  "evidence": "Greenhouse API 2026-10-08 (92, full): Vancouver Software Engineer II asks 2-3 and 3-5 yrs (mid-level); other SWE roles Budapest/London or senior; US roles director/solutions.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (34) 2026-10-20: no entry engineering roles in US/Toronto/Vancouver; Software Engineer II Vancouver is mid-level, rest senior or sales/solutions.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

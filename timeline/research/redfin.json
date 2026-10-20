@@ -8,7 +8,7 @@
       "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
       "location": "Detroit, MI; Cypress Waters, TX",
       "opened": "2026-07-26",
-      "date_source": "tracker first seen",
+      "date_source": "tracker first seen (workday startDate 2026-08-07)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -17,16 +17,16 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer (Agentic AI Applications)",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer--Agentic-AI-Applications-_R-083562",
-      "location": "Detroit, MI",
-      "opened": "on or before 2026-09-07",
-      "date_source": "workday postedOn (30+ days); startDate 2026-07-21",
+      "title": "Software Developer I",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
+      "location": "Seattle, WA",
+      "opened": "2026-05-22",
+      "date_source": "tracker first seen (same req R-083083, reposted 2026-10-08)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'Minimum Qualifications 2+ years of professional software development experience'; no lead/mentor/architecture duties; no higher level in title",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
@@ -37,7 +37,8 @@
   "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
   "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
   "jobs_spec_basis": "Redfin hiring moved to Rocket careers; Redfin Workday site denied",
-  "evidence": "Rocket Workday 2026-10-08 (383, full): Software Engineer I (mentorship, full-stack, canApply true) and Software Engineer (Agentic AI, 2+ yrs) live. SWE II/Senior excluded; ML Developer is remote Ontario (not Toronto/Vancouver). Dates: SWE I opened per tracker; Agentic 'on or before' is a bound from startDate.",
+  "evidence": "Rocket Workday 2026-10-20 (381, full): Software Engineer I (Detroit/Cypress Waters) and Software Developer I (Seattle, req reposted 2026-10-08) still live via detail; Full Stack Developer and Team Leader not entry-level.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "checked": "2026-10-20",
+  "dropped": []
 }

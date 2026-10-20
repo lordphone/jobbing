@@ -1,15 +1,30 @@
 {
   "company": "Symbotic",
   "tier": 4,
-  "status": "not_yet",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Robotics Planning Engineer (All Levels)",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Robotics-Planning-Engineer--All-Levels-_R7014",
+      "location": "Wilmington, MA",
+      "opened": "2026-10-16",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Title says \"All Levels\"; no years required; base from $96,000; no lead or mentor duties. Borderline: wants experience in robotics or algorithm development.",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-30",
-  "last_cycle_basis": "earlier research: 'New Grad-Software Engineer' (Burlington, MA) first seen 2026-01-30; history also shows New Grad SWE/ML Ops/3D Graphics 2026-05-18/19 and New Grad SWE 2024-11-11",
+  "last_cycle_basis": "tracker first seen: New Grad-Software Engineer (Burlington, MA) 2026-01-30; also New Grad SWE postings 2026-05-18/19 (closed)",
   "jobs_page": "https://symbotic.wd504.myworkdayjobs.com/Symbotic",
   "jobs_spec": "wd:symbotic/wd504/Symbotic",
-  "evidence": "Workday board full (133) 2026-10-08: US SWE roles are Co-op/Intern, Staff/Senior, Software Support Engineer (2+ yrs support/NOC; ops, not counted), Robotics Planning Engineer All Levels (no entry-level signal). New Grad Onsite Project Manager not SWE. No 2027 new-grad SWE yet.",
-  "confidence": "high",
-  "postings": [],
-  "checked": "2026-10-08",
+  "evidence": "Workday full board (125) 2026-10-20: Robotics Planning Engineer (All Levels, Wilmington MA, 2026-10-16) is the only counted role, borderline level. Others are co-op/intern, Senior, support roles needing 2+ yrs, Vietnam roles. Last cycle's New Grad SWE postings are closed.",
+  "confidence": "low",
+  "checked": "2026-10-20",
+  "dropped": [],
   "no_sponsorship": false,
   "excluded_reason": null
 }

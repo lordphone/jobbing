@@ -1,29 +1,30 @@
 {
-  "company": "Robert Half",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
-      "location": "San Ramon, CA (remote)",
-      "opened": "2026-04-06",
-      "date_source": "tracker first seen (Workday startDate now 2026-08-26)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "tracker first seen 2025-10-31: Software Engineer I San Ramon CA (JR-258714); rolling reposts since 2025-04",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers",
-  "jobs_spec": "wd:roberthalf/wd1/roberthalfcareers",
-  "evidence": "Workday full board 2026-10-08 (29): Software Engineer I (JR-259943, San Ramon) still listed, canApply true, no prior experience required; no citizenship/sponsorship text. Other SWE roles II/III/IV. Rolling, no class year.",
-  "confidence": "medium"
+ "company": "Robert Half",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer I",
+   "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
+   "location": "San Ramon, CA",
+   "opened": "2026-04-06",
+   "date_source": "tracker first seen (Workday startDate now 2026-08-26)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-31",
+ "last_cycle_basis": "tracker first seen 2025-10-31: Software Engineer I San Ramon CA (JR-258714); rolling reposts since 2025-04",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers",
+ "jobs_spec": "wd:roberthalf/wd1/roberthalfcareers",
+ "evidence": "Workday full board (33) read 2026-10-20: Software Engineer I (JR-259943, San Ramon) live, canApply true, requires no previous professional experience, no class year, no citizenship text. Other engineer roles are II to IV or contract.",
+ "confidence": "high"
 }

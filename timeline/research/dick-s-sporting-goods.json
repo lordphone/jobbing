@@ -1,15 +1,16 @@
 {
   "company": "Dick's Sporting Goods",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-12-05",
   "last_cycle_basis": "tracker first seen 2025-12-05: 'Technology Development Program - Data Science (2026)'; Software Engineer I (remote) seen 2024-11-11 two cycles ago",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG",
   "jobs_spec": "wd:dickssportinggoods/wd1/DSG",
-  "evidence": "Workday board 2026-10-08: only Summer 2027 corporate internships (incl. Software Engineering) and a Finance Development Program; no 2027 new-grad tech program yet. Last cycle Technology Development Program posted Nov-Dec 2025, so expect Nov-Dec.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "postings": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "evidence": "Workday full board 2026-10-20: software roles are Lead/Senior SWE and a Summer 2027 Software Engineering internship; Finance Development Program is live but no Technology Development Program or entry SWE yet. Last cycle TDP posted 2025-12-05, so expect Nov-Dec.",
+  "confidence": "medium"
 }

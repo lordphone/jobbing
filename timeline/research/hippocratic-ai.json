@@ -1,29 +1,30 @@
 {
-  "company": "Hippocratic AI",
-  "tier": 4,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Forward Deployment Engineer (Residency Program)",
-      "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e",
-      "location": "Menlo Park, CA",
-      "opened": "2026-09-19",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "front door to FDE track: 6 months Resident then 6 months Associate FDE; requires bachelor's and '2+ years' (not enforced for entry roles)",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/Hippocratic%20AI",
-  "jobs_spec": "ashby:Hippocratic%20AI",
-  "evidence": "Ashby full board 2026-10-08 (47): FDE Residency (Menlo Park, published 2026-09-19) is the entry track (6-mo resident then associate FDE); builds prompts and EHR integrations. Other SWE/ML/FDE roles are mid/senior (Integration Engineer 5+ yrs). Judgement call on SWE fit.",
-  "confidence": "medium"
+ "company": "Hippocratic AI",
+ "tier": 4,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Forward Deployment Engineer (Residency Program)",
+   "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/af91b9bd-4452-42c0-93d5-e1943070618e",
+   "location": "Menlo Park, CA",
+   "opened": "2026-09-19",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Residency is the entry track into FDE; requires '2+ years of professional industry experience in software development, AI/ML'; no lead duties",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.ashbyhq.com/Hippocratic%20AI",
+ "jobs_spec": "ashby:Hippocratic%20AI",
+ "evidence": "Ashby full board 2026-10-20 (38): FDE Residency (Menlo Park, published 2026-09-19) is the entry track, asks 2+ yrs, builds prompts and integrations in Python (counted). Others are Senior/Staff/Director or non-engineering.",
+ "confidence": "medium",
+ "dropped": []
 }

@@ -1,15 +1,16 @@
 {
   "company": "Illumina",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: Software Engineer 1 Cambridge UK (2026-04) only; no US new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
   "jobs_spec": "wd:illumina/wd1/illumina-careers",
-  "evidence": "Workday illumina-careers 2026-10-08 (159, full): US roles are Engineer 1/2 Process Development, Quality and Mfg engineers (not software); software roles (Automation SWE, Sr SWE, Software Engineer 1 UK) are Singapore/India/UK only. No US entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "Workday full board (162) read 2026-10-20: US Engineer 1 / Systems Support Engineer 1 roles are lab, process or support engineering, not software; software roles are Senior/Staff or Singapore, India, UK.",
+  "confidence": "high"
 }

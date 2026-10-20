@@ -1,15 +1,17 @@
 {
   "company": "Ampere Computing",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; Early Career page is internships only",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.amperecomputing.com/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: read all 77 postings via /search/jobs.json (48 US). US software roles are Principal/Senior, or need MS + 3 yrs (Graph Optimization/Compilers; Linux DevOps 3+ yrs, $159K-239K). Only intern is Physical Design. No new-grad SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "Careers site is Cloudflare-protected; /search/jobs.json?page=N in browser lists all jobs",
+  "evidence": "Careers site blocked fetches 2026-10-20 (403). Relying on 2026-10-19 browser read of all 92 jobs: US software roles Principal/Senior/Distinguished, AI Accelerator SWE BS+5. Web search found no 2027 new-grad role. Only interns.",
+  "confidence": "low"
 }

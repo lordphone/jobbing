@@ -1,15 +1,16 @@
 {
   "company": "Electrify America",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No entry-level SWE found in trackers",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.volkswagen-group.com/Electrify_America/search/",
   "jobs_spec": null,
-  "evidence": "VW Group board filtered to Electrify America, read in browser 2026-10-08 (4 of 4): Technical Field Service PM, Customer & Marketing Data Analyst, Logistics Manager, Contract Software Engineer II - Backend (Reston VA, contract, level II). No entry-level SWE; no tracker history.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "VW Group sitemap for Electrify_America 2026-10-20 (5 postings): only software role is Contract Software Engineer II - Backend (Reston VA, contract, level II). No entry-level SWE.",
+  "confidence": "medium"
 }

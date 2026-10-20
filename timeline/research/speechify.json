@@ -1,15 +1,16 @@
 {
   "company": "Speechify",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-10-11",
-  "last_cycle_basis": "tracker/history: closed 'Software Engineer, Platform' posting, San Angelo, TX, first seen 2025-10-11 (https://job-boards.greenhouse.io/speechify/jobs/5672315004)",
+  "last_cycle_basis": "tracker/history: closed 'Software Engineer, Platform' posting first seen 2025-10-11 (https://job-boards.greenhouse.io/speechify/jobs/5672315004)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/speechify",
   "jobs_spec": "gh:speechify",
-  "evidence": "gh:speechify (492 postings, full) 2026-10-08: every posting is 'Tech Lead' or 'Team Lead, Android Core Product' in many location variants; no entry-level SWE. Platform SWE posting from 2025-10 is gone. Not-yet based on last cycle's Oct posting.",
+  "evidence": "gh:speechify full board (738) 2026-10-20: only Tech Lead / Team Lead Android and 'Software Engineer, AI Data' location variants (5+ yrs). No entry-level SWE live. not_yet based on last cycle's October opening.",
   "confidence": "medium"
 }

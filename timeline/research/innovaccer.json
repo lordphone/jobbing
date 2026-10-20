@@ -1,15 +1,17 @@
 {
   "company": "Innovaccer",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no entry (one 2026-03 AI Researcher SF)",
+  "last_cycle_basis": "No last-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.workable.com/innovaccer-analytics/",
   "jobs_spec": null,
-  "evidence": "Workable API 2026-10-08 (73 jobs): US engineering is SDE III, FDE (3-7 yrs), Principal/Staff AI Engineer, Security Engineer II, AI Researcher (MS/PhD, publications); entry roles are India (Noida). No US new-grad SWE.",
-  "confidence": "medium"
+  "jobs_spec_basis": "Workable board read via apply.workable.com widget API; no jobs.py spec",
+  "evidence": "Workable widget API 2026-10-20 (87 jobs): US engineering is SDE III, Security II, Principal/Staff/Senior AI, Staff UI/UX; entry SDE-II roles are Noida only. No US/Toronto/Vancouver entry SWE.",
+  "confidence": "high"
 }

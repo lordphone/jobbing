@@ -3,13 +3,14 @@
   "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": "2025-12-12",
-  "last_cycle_basis": "tracker first seen: Americas Delivery Center Technology Experienced Analyst, Cincinnati OH (Technology Analyst also 2026-02-18); not core SWE",
+  "last_cycle_basis": "tracker first seen 2025-12-12 (Americas Delivery Center Technology Analyst, Cincinnati); also Technology Analyst 2026-03-13",
+  "excluded_reason": null,
   "jobs_page": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA",
   "jobs_spec": "wd:roberthalf/wd1/ProtivitiNA",
-  "evidence": "Workday full board (159) 2026-10-08: 2027 Technology Consulting Consultant (Chicago, Atlanta) and Intern roles are general IT consulting (databases, networks), not SWE; Americas Delivery Center Analyst is ops support; developer roles are Manager+. No entry SWE.",
+  "evidence": "Workday full board (176) read 2026-10-20: 2027 roles are Technology Consulting Consultant (Chicago, Atlanta), internships and audit; developer roles are Manager/Senior Manager. Technology Analyst roles in Cincinnati are delivery-center analyst, not SWE.",
   "confidence": "medium",
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
+  "dropped": [],
   "postings": [],
-  "excluded_reason": null,
   "no_sponsorship": false
 }

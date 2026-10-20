@@ -1,15 +1,30 @@
 {
-  "company": "Modal",
-  "tier": 2,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/modal",
-  "jobs_spec": "ashby:modal",
-  "evidence": "ashby:modal full board (41) 2026-10-08: MTS roles ask 5+ yrs or list none with broad $150-350K pay; no new-grad title. FDE-ML asks 2+ yrs but works with customer CTOs, $180-250K: judged not entry-level. History empty.",
-  "confidence": "medium"
+ "company": "Modal",
+ "tier": 2,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Forward Deployed Engineer - ML",
+   "url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
+   "location": "New York, NY; San Francisco, CA",
+   "opened": "2026-02-23",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of professional ML engineering experience'; no lead/mentor duties; $180K-$250K",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.ashbyhq.com/modal",
+ "jobs_spec": "ashby:modal",
+ "evidence": "ashby:modal full (43) 2026-10-20: no new-grad title. FDE-ML (2+ yrs, no lead duties, $180K-$250K) still live, meets the unlabeled rule though customer-facing; borderline. MTS roles 5+ yrs; Product Backend lists no years, left out.",
+ "confidence": "medium"
 }

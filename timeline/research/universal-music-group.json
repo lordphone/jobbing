@@ -1,15 +1,16 @@
 {
   "company": "Universal Music Group",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No new-grad SWE posting 2025-07 to 2026-01 in tracker history; nearest is Junior Software Developer (NYC) first seen 2024-10-09, two cycles ago (https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/New-York-New-York/Junior-Software-Developer_UMG-17506).",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://umusic.wd5.myworkdayjobs.com/UMGUS",
   "jobs_spec": "wd:umusic/wd5/UMGUS",
-  "evidence": "Workday UMGUS board read in full (33 postings, 2026-10-07): tech roles are senior, or Nashville IT/SRE/security engineers asking 3-5+ yrs. No entry-level SWE. Had a junior SWE track in 2024.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday UMGUS full board (34) 2026-10-20: tech roles are Senior/Lead ServiceNow, Nashville IT/SRE/security/systems and a VP. No entry SWE live.",
+  "confidence": "high"
 }

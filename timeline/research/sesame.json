@@ -1,15 +1,16 @@
 {
   "company": "Sesame",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad posting found; tracker history rows for 'sesame' belong to Open Sesame, a different company",
+  "last_cycle_basis": "no new-grad posting found; tracker history rows for 'sesame' belong to OpenSesame, a different company",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/sesame",
   "jobs_spec": "ashby:sesame",
-  "evidence": "ashby:sesame 2026-10-08 (26 postings, full): engineering roles are expert/lead (iOS, ML serving, Research Engineer, Staff SWE), rest hardware or non-eng. No entry-level title.",
-  "confidence": "high"
+  "evidence": "ashby:sesame 2026-10-20 (25, full): iOS asks technical leadership, ML serving leads multi-month projects, Character Platform 4+, Data Eng 5+, QA 7-8 yrs; Research Engineer and iOS Device Integration state 'experienced', cross-team direction. No entry-level role.",
+  "confidence": "medium"
 }

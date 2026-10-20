@@ -1,15 +1,17 @@
 {
   "company": "Expensify",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/expensify",
   "jobs_spec": "ashby:expensify",
-  "evidence": "Ashby board 2026-10-08 (5 postings, full): sales roles only (account/channel managers); no engineering roles, so no entry-level SWE this cycle.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Ashby API 2026-10-20 returns jobs [] and the board page is empty; careers page we.are.expensify.com/apply shows Open Positions (0).",
+  "confidence": "high",
+  "jobs_spec_basis": "we.are.expensify.com jobs page shows 0 openings; ashby:expensify empty, kept as saved board"
 }

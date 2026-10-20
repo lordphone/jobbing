@@ -1,0 +1,39 @@
+{
+  "company": "Carrier Global",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Digital Technology Leadership Program",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
+      "location": "Palm Beach Gardens, FL",
+      "opened": "2026-08-23",
+      "date_source": "tracker first seen (repost; this req startDate is 2026-10-19)",
+      "deadline": "2026-11-13",
+      "grad_window": "2026 or 2027 graduate, June 2027 start",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    }
+  ],
+  "no_sponsorship": true,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting in jobs.py history; DTLP first seen 2026-08-23 is this cycle",
+  "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
+  "jobs_spec": "wd:carrier/wd5/jobs",
+  "evidence": "Workday board (1047, full) 2026-10-19: DTLP now live as req 30216139 (startDate 2026-10-19, ends 2026-11-13), repost of 30218704-1 / 30218705; kept opened 2026-08-23. 2026/27 grads, June 2027 start, no sponsorship; rotations in data/AI, enterprise systems, digital products, cybersecurity (not pure SWE). Validation Software Engineer (Fort Wayne) is test/strategy-owning, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-19",
+  "tier": 5,
+  "excluded_reason": null,
+  "dropped": [
+    {
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30218705",
+      "reason": "gone: not on the Workday board and the CXS lookup returns nothing; reposted as req 30216139 (same title, location, program)"
+    },
+    {
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30218704-1",
+      "reason": "gone: not on the Workday board and the CXS lookup returns nothing; reposted as req 30216139 (same title, location, program)"
+    }
+  ]
+}

@@ -30,3 +30,28 @@ Agents: LLM tool calling, MCP
 Models and APIs: DeepSeek, DeepInfra
 ML: PyTorch, CUDA
 ```
+
+
+## Amazon — SDE, specialized domains ML and Mobile iOS — 2026-10-08
+
+Question: "Please share your work experience/project summary (3-4 lines) you have done in the specialized domain selected above"
+
+Sources: `pj-my-av` (inventory/projects.md); `nb-swiftui-app`, `nb-server-driven-ui`, `nb-live-activities` (inventory/newsbreak.md).
+
+```text
+I built a PyTorch CNN-GRU model to predict steering angle and speed from video, using 33 hours of Comma2k19 driving footage.
+I trained it on local CUDA and GCP Vertex AI and implemented streaming inference for real-time predictions.
+At NewsBreak, I was the primary iOS engineer for SportsBreak, building and shipping the app in Swift/SwiftUI.
+I implemented Firebase authentication, server-driven UI, and ActivityKit Live Activities; the app reached 5,999 installs and peak DAU of 1,119.
+```
+
+
+## Amazon — C/C++ experience — 2026-10-08
+
+Question: "Describe your experience/familiarity coding and designing in C or C++ programing language (Any internship or project work experience is counted)."
+
+Source: `pj-cs537-os` (inventory/projects.md).
+
+```text
+In my undergraduate Operating Systems course (CS 537) at UW–Madison, I wrote multiple projects in C, including a pthread-based quicksort using recursion, dynamic allocation, mutexes, and condition variables. I also contributed to an xv6 kernel project, implementing user-space system-call entry points and a clone system-call wrapper that validates pointer arguments. These projects gave me hands-on experience designing C routines, working with pointers and memory, coordinating threads, and understanding the user/kernel boundary.
+```

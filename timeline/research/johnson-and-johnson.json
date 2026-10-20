@@ -1,29 +1,30 @@
 {
   "company": "Johnson & Johnson",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer DevOps",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632",
+      "title": "Software Engineer, GUI",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--GUI_R-103326-1",
       "location": "Santa Clara, CA",
-      "opened": "2026-08-26",
+      "opened": "2026-10-14",
       "date_source": "workday startDate",
-      "deadline": "2026-10-11",
+      "deadline": "2026-10-22",
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Employer will accept a Master's degree in Computer Science and 1 year of experience; supports AWS infrastructure, duties not senior; pay about $188k",
+      "level_basis": "Employer will accept a Master's degree in Computer Science and 2 years of experience; pay $137,000-$165,000; no lead/architecture duties (Auris Health)",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker history: R&D Software Engineer 1 (Santa Clara) first seen 2025-11-01, reposted 2026-01-28",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
   "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Workday board 2026-10-08 (180, full): no new-grad titles; US software roles senior, staff or co-op. Software Engineer DevOps (Santa Clara) is not in the board list or search but its CXS page shows canApply true, ends 2026-10-11; master's plus 1 yr, so borderline level.",
-  "confidence": "low",
-  "checked": "2026-10-08",
-  "tier": 5
+  "evidence": "Workday board and CXS searches 2026-10-20 (1819 postings): Software Engineer, GUI (Auris Health) still live, ends 2026-10-22, accepts MS + 2 yrs, no lead duties. Co-ops, senior/staff/principal software and AI roles not counted.",
+  "confidence": "medium"
 }

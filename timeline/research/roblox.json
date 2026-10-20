@@ -1,7 +1,7 @@
 {
   "company": "Roblox",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -29,6 +29,84 @@
       "level": "unlabeled",
       "level_basis": "Early in your career: 1-3 years of professional experience or a recent grad; $153K-$197K",
       "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Test Frameworks & Tooling",
+      "url": "https://careers.roblox.com/jobs/8229705",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-06",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years of experience; $153,120-$196,750",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Engine Systems",
+      "url": "https://careers.roblox.com/jobs/8159854",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-08",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years of professional experience; works from defined designs, with guidance; $168,680-$212,490",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Creator",
+      "url": "https://careers.roblox.com/jobs/8115917",
+      "location": "San Mateo, CA",
+      "opened": "2026-08-26",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "An engineer with 1-3 years of experience; $153K-$196K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, GenAI Platform",
+      "url": "https://careers.roblox.com/jobs/8171283",
+      "location": "San Mateo, CA",
+      "opened": "2026-09-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "1-3 years of experience in software engineering; $153K-$196K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, ROS",
+      "url": "https://careers.roblox.com/jobs/8262223",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-09",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "1-3 years of experience in software engineering (internships included); $168K-$212K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Data Model",
+      "url": "https://careers.roblox.com/jobs/8159857",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-08",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of software engineering experience, no senior duties; $168K-$212K",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-06",
@@ -37,6 +115,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roblox",
   "jobs_spec": "gh:roblox",
-  "evidence": "gh:roblox (259, full) 2026-10-08: [2027] SWE Early Career (2026-08-05) live; also Foundation AI (Agent Infra) SWE says 'or a recent grad', added as unlabeled. Other SWEs ask 1-3+ yrs, not counted (Test Frameworks 1+ yrs borderline). Posts say no H-1B sponsorship support. No deadline.",
-  "confidence": "high"
+  "evidence": "gh:roblox (261, full) 2026-10-20 via API: [2027] SWE Early Career live. Seven earlier unlabeled SWEs (1-3 / 1+ / 2+ yrs at early-career pay) still on the board and kept; Data Access (leads), Engine Infrastructure (no years), Account Security and Engine Scalability (3+ yrs) left out. Posts say no H-1B sponsorship.",
+  "confidence": "high",
+  "dropped": []
 }

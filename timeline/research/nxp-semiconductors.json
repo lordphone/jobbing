@@ -1,15 +1,16 @@
 {
   "company": "NXP Semiconductors",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
   "last_cycle_opened": "2026-06-25",
-  "last_cycle_basis": "tracker first seen: NFC System Software Engineer - Entry Level, San Jose CA (nxp.wd3.myworkdayjobs.com/en-US/careers); now gone",
+  "last_cycle_basis": "tracker first seen: NFC System Software Engineer - Entry Level, San Jose CA 2026-06-25; now gone (a spring/summer posting, outside the Jul 2025-Jan 2026 window)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://nxp.wd3.myworkdayjobs.com/careers",
   "jobs_spec": "wd:nxp/wd3/careers",
-  "evidence": "Workday API 2026-10-08 (810 postings, full): US entry roles are Systems & Applications Engineer (Austin, San Jose; customer support, board bring-up, hardware-heavy), test and reliability lab; software grad/junior roles are Europe only (Glasgow, Bucharest). Last US entry SWE (NFC, 2026-06-25) is gone.",
+  "evidence": "Workday board re-read 2026-10-20 (812, full): US entry roles are hardware/apps/sales, not software. Austin AI Security Engineers ask 5+ yrs. Junior software and 2027 campus roles are in Europe/China.",
   "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "dropped": []
 }

@@ -1,22 +1,9 @@
 {
   "company": "Blend",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
-    {
-      "title": "NC Career Fair Software Engineer",
-      "url": "https://job-boards.greenhouse.io/blend/jobs/6214287004",
-      "location": "Raleigh, NC",
-      "opened": "2026-10-01",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'looking for early-career engineers'; requires 1-3 years; $92K-$109K",
-      "no_sponsorship": false
-    },
     {
       "title": "Software Engineer - AI Native (Full Stack)",
       "url": "https://job-boards.greenhouse.io/blend/jobs/6141420004",
@@ -27,16 +14,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'looking for early-career engineers'; requires 1-3 years; $92K-$109K",
+      "level_basis": "'looking for early-career engineers'; requires 1–3 years; $92K–$109K",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/blend",
   "jobs_spec": "gh:blend",
-  "evidence": "Greenhouse API 2026-10-08, 14 postings full: NC Career Fair SWE (2026-10-01) and AI Native Full Stack (2026-08-11) target early-career engineers (1-3 yrs, $92-109K), Raleigh in-office. Other SWE posts ask 2-6+ yrs. No deadline or sponsorship text.",
+  "evidence": "Greenhouse API 2026-10-20, 15 postings full: AI Native Full Stack SWE (Raleigh, early-career, 1-3 yrs, $92-109K) live. Other SWE posts ask 2-6+ yrs; Business Automation Eng 3+ yrs.",
   "confidence": "medium"
 }

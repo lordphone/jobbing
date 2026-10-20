@@ -2,14 +2,15 @@
   "company": "Joby Aviation",
   "tier": 4,
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no tracker postings",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers-jobyaviation.icims.com/jobs/intro",
   "jobs_spec": null,
-  "evidence": "iCIMS list re-read over HTTP 2026-10-08 (all pages). Embedded Software Engineer is firmware and needs BS+3 yrs or MS+1 yr; Software Integration Eng (2+ yrs), Navigation, Autonomy Embedded (5+), UI (5+) require 'US Person'; Simulator SWE 5+ yrs; rest Senior/Staff. No entry SWE or new-grad track.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "iCIMS list (9 pages, 168 jobs) read 2026-10-20. Software Integration Engineer (2+ yrs, US Person), Embedded SWE (BS 3+ yrs or MS 1+ yrs, posted 2024), Navigation SWE (US Person), Autonomy Embedded and UI (5+ yrs) not entry level. No new-grad track; several roles require 'US Person'.",
+  "confidence": "medium",
+  "dropped": [],
+  "postings": [],
+  "checked": "2026-10-20",
+  "last_cycle_opened": null,
+  "last_cycle_basis": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

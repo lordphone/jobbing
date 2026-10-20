@@ -1,16 +1,30 @@
 {
   "company": "AMD",
   "tier": 3,
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software System Designer",
+      "url": "https://careers.amd.com/careers-home/jobs/91827",
+      "location": "Markham, ON, Canada",
+      "opened": "2026-10-14",
+      "date_source": "page text (AMD careers JSON posted_date)",
+      "deadline": null,
+      "grad_window": "recent graduate or graduating within the next academic term",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'We're looking for a motivated, recent-graduate software engineer'; Bachelor's, Python, full-stack prototyping; CAD $75,600",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-24",
   "last_cycle_basis": "tracker last cycle 2025-07-24 (Software Developer - GPU IO Libraries, Calgary/Remote, unlabeled); 2027 intern/co-op wave opened 2026-08-20",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.amd.com/careers-home/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers.amd.com/api/jobs JSON returns all postings with description and city",
-  "evidence": "AMD careers JSON 2026-10-08, all 1307 postings read. 2027 SWE/ML/compiler intern-co-op roles live (not counted); only graduate roles are FAE/TSE rotational programs (not SWE). Unlabeled full-time SWEs (e.g. SDE Secaucus, Markham AI tools) state no years or level: left out as unclear.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "AMD careers JSON 2026-10-20, all 1280 postings (775 US/Canada) read. One entry-level SWE: Software System Designer (Markham, ON, Greater Toronto Area), recent-graduate full-stack role, applyable. Other US SWE roles state no level or years or are senior; Systems Design Engineer (New Grad) is hardware debug.",
+  "confidence": "medium"
 }

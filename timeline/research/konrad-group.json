@@ -1,0 +1,44 @@
+{
+  "company": "Konrad Group",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Mobile Developer (Entry Level)",
+      "url": "https://www.konrad.com/careers/job/7976082003?gh_jid=7976082003",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-08-25",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer (Entry Level)",
+      "url": "https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003",
+      "location": "Toronto, ON, Canada",
+      "opened": "on or before 2026-09-15",
+      "date_source": "tracker first seen (greenhouse first_published 2024-02-15 is an older evergreen repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-09-15",
+  "last_cycle_basis": "Tracker history: Software Developer Entry Level (Toronto) first seen 2025-09-15; London entry-level 2026-03-18",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.konrad.com/careers",
+  "jobs_spec": "gh:konradgroup",
+  "evidence": "Greenhouse API 2026-10-20 (102 postings): Toronto Mobile Developer (Entry Level) and Software Developer (Entry Level) still live; other Toronto devs ask 2+ yrs or more. No sponsorship line.",
+  "confidence": "medium",
+  "jobs_spec_basis": "konrad.com careers job links carry ?gh_jid; gh:konradgroup board (Konrad titles) is the company's own"
+}

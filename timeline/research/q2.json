@@ -1,22 +1,9 @@
 {
   "company": "Q2",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-12745",
-      "location": "Cary, NC",
-      "opened": "2026-09-03",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'up to 2+ years of related experience'; Bachelor's; works with experienced engineers",
-      "no_sponsorship": true
-    },
     {
       "title": "Machine Learning Engineer",
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Machine-Learning-Engineer_REQ-12736",
@@ -31,12 +18,18 @@
       "no_sponsorship": true
     }
   ],
+  "dropped": [
+    {
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-12745",
+      "reason": "gone: Software Engineer (Cary) REQ-12745 absent from board listing and its page shows 'The page you are looking for doesn't exist'"
+    }
+  ],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "Tracker first seen: Software Engineer, Morrisville NC (REQ-11664), 2025-09-19.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
   "jobs_spec": "wd:q2ebanking/wd5/Q2",
-  "evidence": "Workday full board 2026-10-08 (51): Software Engineer (Cary) and ML Engineer (Cary/Austin/Charlotte) need up to 2+ yrs, 'unable to sponsor'; other US SWE roles 3-5+ yrs or senior. 2027 interns also open.",
+  "evidence": "Workday full board 2026-10-20 (57): Machine Learning Engineer (Cary/Austin/Charlotte) live via API, 2+ yrs, unable to sponsor. Cary Software Engineer REQ-12745 now gone. Other US SWE roles senior; 2027 interns excluded.",
   "confidence": "medium"
 }

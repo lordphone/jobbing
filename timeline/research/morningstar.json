@@ -1,15 +1,16 @@
 {
   "company": "Morningstar",
-  "tier": 5,
-  "status": "not_yet",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-12-01",
   "last_cycle_basis": "tracker history: 'Associate Software Engineer' Chicago first seen 2025-12-01 (since closed); another Associate Software Engineer - Credit Tech 2026-02-26",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://morningstar.wd5.myworkdayjobs.com/Morningstar",
   "jobs_spec": "wd:morningstar/wd5/Morningstar",
-  "evidence": "Workday board (191, full) 2026-10-08: SWE roles Senior/Lead (Chicago, Toronto, NY, Mumbai). Only entry roles: Development Program Quant Track (Jan 2027, Chicago, closes 2026-10-20), an Associate Quantitative Analyst validation role, not SWE; Equity Research track.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Full Workday board and search 2026-10-20: only Mumbai/London/senior SWE remain. Chicago/Toronto Associate Software Engineer (REQ-058508-1, first seen 2026-10-15) page in browser says 'The page you are looking for doesn't exist': closed.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

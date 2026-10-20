@@ -1,0 +1,21 @@
+{
+  "company": "Fannie Mae",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No SWE new-grad tracker hit; tracker only shows non-SWE Analytics & Modeling program (2025-10-31, 2026-08-19).",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers",
+  "jobs_spec": "wd:fanniemae/wd1/FannieMaeCareers",
+  "evidence": "Workday full board (61) 2026-10-19: Jr. Cloud Automation Engineer (JR2956) is no longer listed and its page says it does not exist. Other engineers are Senior/Lead/Advisor or financial engineering; Campus Technology Program is internship; Analytics & Modeling Program is non-SWE.",
+  "confidence": "medium",
+  "dropped": [
+    {
+      "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Jr-Cloud-Automation-Engineer_JR2956",
+      "reason": "gone: browser page says the page you are looking for does not exist and the posting is not on the full board"
+    }
+  ]
+}

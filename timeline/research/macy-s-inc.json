@@ -1,15 +1,21 @@
 {
   "company": "Macy's, Inc.",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [
+    {
+      "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780",
+      "reason": "ruled out: posting text says 'The Macy's Technology Summer Internship Program' and 'Rising seniors majoring in Computer Science'"
+    }
+  ],
   "last_cycle_opened": "2025-09-17",
   "last_cycle_basis": "tracker first-seen: Macy's Tech Early Careers - Software Engineer, Johns Creek GA, https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
   "jobs_spec": "oracle:ebwh.fa.us2.oraclecloud.com/CX_1001",
-  "evidence": "Oracle board searched (2976 of 5294) plus browser keyword search 2026-10-08: only 2027 Summer Internship - Technology (Johns Creek, 2026-09-21); software roles are Senior/Director/Principal. Full-time Tech Early Careers SWE not live yet; last cycle's posted 2025-09-17. Unchanged.",
+  "evidence": "Oracle board 2026-10-20 (2676 listed of 6230, searched) and posting API: '2027 Tech Early Careers - Software Engineer' (91780) body is the Summer Internship template for rising seniors, so not counted. No full-time posting yet. Changed from open for that reason.",
   "confidence": "medium"
 }

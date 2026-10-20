@@ -1,15 +1,16 @@
 {
   "company": "Bitwarden",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found (jobs.py history); no company early-careers date found.",
+  "last_cycle_basis": "No tracker history (jobs.py history); no early-careers page found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/bitwarden",
   "jobs_spec": "gh:bitwarden",
-  "evidence": "Greenhouse API 2026-10-08, 37 postings (full): engineering is Senior/Staff/Lead/Manager or Noida; only unlabeled US eng is Implementation Engineer (customer support). No entry-level SWE.",
+  "evidence": "Greenhouse API 2026-10-20 (35, full): engineering is Senior/Staff, mostly Noida; non-senior ones are Noida SDET and a US customer-support implementation engineer. No entry SWE.",
   "confidence": "high"
 }

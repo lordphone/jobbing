@@ -1,6 +1,7 @@
 {
   "company": "Five Rings",
   "tier": 1,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -17,13 +18,13 @@
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2025-08-06",
-  "last_cycle_basis": "tracker history: Software Developer (New York) first seen 2025-08-06",
+  "dropped": [],
+  "last_cycle_opened": "2025-07-23",
+  "last_cycle_basis": "tracker history: Campus Full Time 2026 Software Developer London first seen 2025-07-23 (US cycle opened 2025-08-06)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/fiveringsllc",
   "jobs_spec": "gh:fiveringsllc",
-  "evidence": "gh:fiveringsllc API 2026-10-08 (17 postings, full): Campus Full Time 2027 Software Developer NYC listed, $300K base, no deadline. London variant, interns, LINK 2027 workshop, Trading Operations Engineer (ops/support, not SWE) not counted. Same as prior file.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "gh:fiveringsllc API (17 postings, full) re-read 2026-10-20: Campus Full Time 2027 Software Developer NYC live, published 2026-07-14, Apply live. London copy, interns, quant trader, trading assistant, ops engineer and sophomore-only LINK program do not count.",
+  "confidence": "high"
 }

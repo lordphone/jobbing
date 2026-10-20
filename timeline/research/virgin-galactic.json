@@ -1,15 +1,16 @@
 {
   "company": "Virgin Galactic",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
-  "jobs_page": "https://vgcareers.virgingalactic.com/global/en",
-  "jobs_spec": null,
-  "evidence": "Phenom widgets 2026-10-08 (70 roles, all listed). Software roles: Spaceflight Simulation SWE (req 2252, opened in browser: '5+ years of professional software development experience'), Specialist Engineer Software Test, IT Developer III x2. Only 'Engineer I' is Structures Design. No entry-level SWE.",
-  "confidence": "high",
-  "checked": "2026-10-08",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://vgcareers.virgingalactic.com/global/en/",
+  "jobs_spec": null,
+  "evidence": "Careers site search API read in full 2026-10-20 (78 jobs): software roles are Spaceflight Simulation Software Engineer (senior), IT Developer III x2 and Specialist Engineer, Software Test. No entry-level software role, no new-grad track.",
+  "confidence": "high"
 }

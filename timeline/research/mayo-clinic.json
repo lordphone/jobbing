@@ -1,55 +1,30 @@
 {
-  "company": "Mayo Clinic",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "level": "new-grad title",
-      "live_verified": "browser",
-      "grad_window": null,
-      "date_source": "page text (Date posted)",
-      "title": "Associate AI/ML Engineer",
-      "url": "https://jobs.mayoclinic.org/job/rochester/associate-ai-ml-engineer/33647/100348969504",
-      "location": "Rochester, MN",
-      "opened": "2026-09-08",
-      "deadline": "2026-10-08",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "level": "unlabeled",
-      "live_verified": "browser",
-      "grad_window": null,
-      "date_source": "page text (Date posted)",
-      "title": "Software Engineer - Omniverse Simulation",
-      "url": "https://jobs.mayoclinic.org/job/rochester/software-engineer-omniverse-simulation/33647/100951617456",
-      "location": "Rochester, MN",
-      "opened": "2026-09-21",
-      "deadline": "2026-10-12",
-      "level_basis": "Requires BS and 'a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience'",
-      "no_sponsorship": true
-    },
-    {
-      "level": "unlabeled",
-      "live_verified": "browser",
-      "grad_window": null,
-      "date_source": "page text (Date posted)",
-      "title": "Software Engineer - Oracle Integration",
-      "url": "https://jobs.mayoclinic.org/job/rochester/software-engineer-oracle-integration/33647/99509280800",
-      "location": "Rochester, MN",
-      "opened": "2026-08-20",
-      "deadline": null,
-      "level_basis": "Requires BS and 'a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience'; $97K-$143K",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_basis": "not found",
-  "jobs_page": "https://jobs.mayoclinic.org/search-jobs/software%20engineer",
-  "jobs_spec": null,
-  "evidence": "Browser 2026-10-08, jobs.mayoclinic.org search 'software engineer' (39 results) and posting pages (Apply Now shown): Associate AI/ML Engineer (expires 10-08), SWE Omniverse (expires 10-12), SWE Oracle Integration (1 yr incl. internships). Data Engineer (new 10-08, no sponsorship) is data not SWE. Others senior.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "last_cycle_opened": null
+ "company": "Mayo Clinic",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - Oracle Integration",
+   "url": "https://jobs.mayoclinic.org/job/rochester/software-engineer-oracle-integration/33647/99509280800",
+   "location": "Rochester, MN",
+   "opened": "2026-08-20",
+   "date_source": "page text (Date posted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Requires BS and 'a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience'; $97,448-$143,270",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "not found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.mayoclinic.org/search-jobs/software%20engineer",
+ "jobs_spec": null,
+ "evidence": "Mayo careers search and job page 2026-10-20: Software Engineer - Oracle Integration live (Apply Now, posted 2026-08-20, Rochester hybrid, BS plus 1-2 yrs, no sponsorship). Data Engineer postings are data roles, left out. Other IT roles Senior or Principal. No campus SWE program.",
+ "confidence": "medium",
+ "checked": "2026-10-20"
 }

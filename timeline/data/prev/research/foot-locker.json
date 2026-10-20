@@ -1,0 +1,31 @@
+{
+ "company": "Foot Locker (part of Dick's Sporting Goods)",
+ "tier": 5,
+ "checked": "2026-10-19",
+ "status": "closed",
+ "postings": [
+  {
+   "title": "Associate Software Engineer - Merchandise Technology",
+   "url": "https://careers.footlocker.com/jobs/71916",
+   "location": "Remote (US)",
+   "opened": "2026-09-15",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2025-12-05",
+ "last_cycle_basis": "Simplify tracker: Technology Development Program - Data Scientist posting first seen 2025-12-05 (history search)",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://careers.footlocker.com",
+ "jobs_spec": null,
+ "evidence": "Jibe API 2026-10-19: engineer titles are Sr/Lead/Boomi/Data & Analytics; Associate Software Engineer 71916 returns 404 on careers site and is absent from API, so closed.",
+ "confidence": "high",
+ "jobs_spec_basis": "careers.footlocker.com is a Jibe site; /api/jobs lists all postings but no board spec exists",
+ "dropped": []
+}

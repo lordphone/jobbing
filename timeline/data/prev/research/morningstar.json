@@ -1,0 +1,21 @@
+{
+  "company": "Morningstar",
+  "status": "closed",
+  "postings": [],
+  "last_cycle_opened": "2025-12-01",
+  "last_cycle_basis": "tracker history: 'Associate Software Engineer' Chicago first seen 2025-12-01 (since closed); another Associate Software Engineer - Credit Tech 2026-02-26",
+  "jobs_page": "https://morningstar.wd5.myworkdayjobs.com/Morningstar",
+  "jobs_spec": "wd:morningstar/wd5/Morningstar",
+  "evidence": "Associate Software Engineer (Chicago/Toronto, first seen 2026-10-15) was live 2026-10-18 but is now absent from the full Workday board and search; cxs page returns 403. Browser pane unavailable, so page not seen. Other SWE roles are Mumbai/London/senior.",
+  "confidence": "low",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": [
+    {
+      "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1",
+      "reason": "gone: absent from full Workday board (183) and from text search for REQ-058508; cxs job page now returns 403 permission denied (live job pages return 200)"
+    }
+  ]
+}

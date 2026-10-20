@@ -1,15 +1,30 @@
 {
   "company": "Stifel Financial",
   "tier": 5,
-  "status": "not_yet",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Developer- Credit Analytics",
+      "url": "https://careers-stifel.icims.com/jobs/10047/developer--credit-analytics/job",
+      "location": "Saint Louis, MO",
+      "opened": "2026-10-09",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Minimum Required: 0-2 years' of post Bachelor's progressive experience in software development; works with team guidance",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "'2025 Future In Technology Program' existed last cycle (builtin.com listing); no confirmed date",
-  "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
-  "jobs_spec": null,
-  "evidence": "iCIMS keyword searches 2026-10-08 (software, developer, engineer, technology analyst/program, graduate 2027; filters may be partial): tech roles are Sr Developer Full Stack, cloud/security engineers, service desk; no entry-level SWE or tech program. Only 2027 item is venture banking credit analyst.",
-  "confidence": "low",
-  "checked": "2026-10-08",
+  "last_cycle_basis": "unknown; builtin showed a '2025 Future In Technology Program' but no first-party dated posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
+  "jobs_spec": null,
+  "evidence": "iCIMS full list (142 postings, 3 pages) read 2026-10-20: Developer- Credit Analytics (St. Louis) page shows Apply, requires 0-2 yrs post-bachelor's software development, no sponsorship line. Other tech roles are senior, architect, cloud/ops or analyst; no graduate tech program.",
+  "confidence": "medium",
+  "checked": "2026-10-20"
 }

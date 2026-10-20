@@ -1,15 +1,16 @@
 {
   "company": "Anthropic",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no Anthropic new-grad SWE posting; only Fellows and a London rotational program",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/anthropic",
   "jobs_spec": "gh:anthropic",
-  "evidence": "gh:anthropic full board (648) read and screened 2026-10-08: no new-grad or early-career SWE titles; US engineer roles ask 4-10+ years or give no years and read mid-level. Fellows Program is fixed-term, not counted.",
-  "confidence": "medium"
+  "evidence": "gh:anthropic full board (670) read and screened 2026-10-20: no new-grad or entry SWE titles; Fellows programs and STEM Fellow are not full-time SWE; Associate Applied AI rotational is London only. No new-grad track.",
+  "confidence": "high"
 }

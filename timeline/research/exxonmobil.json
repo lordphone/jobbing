@@ -1,29 +1,30 @@
 {
-  "company": "ExxonMobil",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Students Seeking Full-Time Employment in Trading (track: Trading Data, Analytics and AI)",
-      "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
-      "location": "Spring, TX",
-      "opened": "2026-08-10",
-      "date_source": "tracker first seen 2026-08-10 (careers site now shows post date Oct 7, 2026, a repost)",
-      "deadline": null,
-      "grad_window": "graduating 2026/2027 or within last three years",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-31",
-  "last_cycle_basis": "tracker history: 'Engineering Students Seeking Full-Time Employment' (generic engineering, not SWE-specific) first seen 2025-10-31; 'New Grad: Software Developer' Calgary 2025-01-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.exxonmobil.com/search/",
-  "jobs_spec": null,
-  "evidence": "Careers search pages 2026-10-08 (10 keyword searches): posting 1417890600 shows Apply now; Trading Data, Analytics and AI track needs Python/C#/SQL and CI/CD familiarity. 2026USH Trading Desk Full Stack Developer (Spring) asks no years but reads experienced; not counted. Generic STEM early-career pool not SWE-specific.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5
+ "company": "ExxonMobil",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Students Seeking Full-Time Employment in Trading",
+   "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
+   "location": "Spring, TX",
+   "opened": "2026-08-10",
+   "date_source": "page text posted date",
+   "deadline": null,
+   "grad_window": "Graduating 2026/2027 or within last three years",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": "Global Trading new-grad program; Trading Data, Analytics and AI track (Python/C#/SQL, agile software development, data pipelines); borderline SWE, other tracks are trading analytics",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-10-31",
+ "last_cycle_basis": "Tracker: 'Engineering Students Seeking Full-Time Employment' first seen 2025-10-31",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.exxonmobil.com/search/",
+ "jobs_spec": null,
+ "evidence": "jobs.exxonmobil.com searched 2026-10-20 (software, graduate, developer, full-time employment): Students Seeking Full-Time Employment in Trading (Spring TX) page live with Apply now; Trading Data, Analytics and AI track borderline SWE. No other US entry software postings; Trading Desk Full Stack Developer is Singapore.",
+ "confidence": "low",
+ "checked": "2026-10-20",
+ "tier": 5,
+ "dropped": []
 }

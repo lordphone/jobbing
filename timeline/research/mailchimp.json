@@ -1,20 +1,33 @@
 {
   "company": "Mailchimp",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer 1 (Early Career / New College Grad, general posting)",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+      "title": "Software Engineer 1 (New College Grad, general posting)",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
       "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
       "opened": "2025-08-14",
-      "date_source": "page text (JSON-LD datePosted); evergreen posting",
+      "date_source": "tracker first seen (earlier posting, reposted 2026-10-15 under a new link)",
+      "deadline": null,
+      "grad_window": "Degree completed within the last 12 months",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Category 'Software Engineering, New College Grad'; 'Less than 12 months of relevant professional work experience'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Developer 1, Canada Tax Content",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-09-18",
+      "date_source": "page text (JSON-LD datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Category 'New College Grad'; 'less than two years of industry experience'",
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'entry-level, growth-oriented role'; 'BS/MS ... or recent graduate'; 1-2 years developing in C#/C++/Java",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "Mailchimp is part of Intuit; jobs.intuit.com Software Engineer 1 general posting re-fetched 2026-10-08: Apply present, datePosted 2025-08-14, evergreen, no citizenship/sponsorship text. Plain HTTP fetch, not browser.",
-  "confidence": "medium"
+  "evidence": "2026-10-20 fetched both Intuit pages: SWE 1 New College Grad general posting (Mountain View, Atlanta, Charlotte, NY, San Diego) and Toronto Software Developer 1 both show Apply Now. Evergreen, not tied to 2027. Mailchimp is part of Intuit.",
+  "confidence": "medium",
+  "dropped": []
 }

@@ -1,15 +1,30 @@
 {
   "company": "Philips (Royal Philips)",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE date found for last cycle; only the this-cycle GDP (analytics-leaning, no sponsorship) seen",
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI / Algorithm Engineer – Vascular Imaging (Bedford, MA)",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/AI---Algorithm-Engineer---Vascular-Imaging--Bedford--MA-_592684",
+      "location": "Bedford, MA",
+      "opened": "2026-10-15",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "You have at least 2 years of post-graduation professional experience in algorithms, machine learning, or software development",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2026-08-10",
+  "last_cycle_basis": "Tracker: AI & Analytics Associate - Graduate Development Program, Nashville, first seen 2026-08-10 (this cycle, now gone); no SWE new-grad date for last cycle",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
   "jobs_spec": "wd:philips/wd3/jobs-and-careers",
-  "evidence": "Workday board 2026-10-08 (811, full) + CXS 'graduate development'/2027 searches: 2027 GDP AI & Analytics Associate (Nashville, first seen 2026-08-10) absent. US software items are test/quality, senior, co-ops, interns. No live entry-level SWE.",
+  "evidence": "Workday API (785 listed, full) and posting: AI / Algorithm Engineer, Bedford MA, canApply true, requires at least 2 years, will not consider sponsorship. Other US software roles are senior or test/quality. Counted as in earlier run.",
   "confidence": "medium"
 }

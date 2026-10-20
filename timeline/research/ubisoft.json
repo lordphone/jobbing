@@ -1,15 +1,16 @@
 {
   "company": "Ubisoft",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
+  "tier": 4,
+  "checked": "2026-10-20",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; global board has no US postings to check against",
+  "last_cycle_basis": "no US entry-level SWE history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/ubisoft2",
   "jobs_spec": "sr:ubisoft2",
-  "evidence": "SmartRecruiters 2026-10-07 (329 postings, full): no US postings; 4 Toronto roles are design/producer/VFX only; engineering is Montreal, Europe or Pune (only junior engineer is Pune). No US/Toronto/Vancouver entry SWE.",
-  "confidence": "medium"
+  "status": "no_program_found",
+  "evidence": "sr:ubisoft2 full (328) 2026-10-20: programmer roles are Montreal, Europe, India, China (outside scope), most ask 5+ yrs. No US, Toronto or Vancouver entry SWE.",
+  "confidence": "high"
 }

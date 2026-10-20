@@ -1,15 +1,16 @@
 {
   "company": "Sephora (LVMH)",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history of a new-grad SWE track",
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://join.sephora.com/careers",
   "jobs_spec": "eightfold:join.sephora.com/sephora.com",
-  "evidence": "join.sephora.com Eightfold board (1110 US postings, full, 2026-10-08) read in full: only engineering titles are Senior Engineer IT Services Engineering, Senior Manager Network Retail & Corporate Engineering, Senior Engineering Systems Manager. No software, developer, graduate or early-career roles; rest retail, DC, corporate.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Eightfold join.sephora.com full US board (1040) 2026-10-20: no software, data or ML entry engineering roles; only Senior Engineer roles.",
+  "confidence": "high"
 }

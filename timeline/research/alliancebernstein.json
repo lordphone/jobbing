@@ -1,7 +1,7 @@
 {
   "company": "AllianceBernstein",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,21 +9,35 @@
       "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2",
       "location": "Nashville, TN",
       "opened": "on or before 2026-06-19",
-      "date_source": "tracker first seen 2026-06-19 (workday startDate 2026-07-15; postedOn 30+ days)",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'Recent graduates accepted; 2+ years of professional experience is a strong plus'",
+      "level_basis": "Qualifications: 'Recent graduates accepted; 2+ years of professional experience'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Programmer/Analyst",
+      "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Programmer-Analyst_R0019310-4",
+      "location": "Nashville, TN",
+      "opened": "2026-10-16",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "B.S. in Computer Science and 2+ years hands-on C# programming; works with Application Architects, no senior duties",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-16",
   "last_cycle_basis": "tracker 'Software Development Associate' Nashville first seen 2025-09-16",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
   "jobs_spec": "wd:abglobal/wd1/abcampuscareers",
-  "evidence": "Browser + Workday 2026-10-08: Software Developer (Nashville) live with Apply; recent grads accepted. Campus-board Software Development Associate (R0019882, rec. grads) quotes 'Must be a U.S. Citizen or Permanent Resident', not counted. Other engineers senior/Pune.",
+  "evidence": "Workday 2026-10-20: main board Software Developer (Nashville, 'Recent graduates accepted; 2+ years') and campus Programmer/Analyst (2026-10-16, B.S., 2+ yrs C#) counted. Campus Software Development Associate (R0019882, 2026-09-15) says 'Must be a U.S. Citizen or Permanent Resident', not counted. Rechecked 2026-10-20.",
   "confidence": "medium"
 }

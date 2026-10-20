@@ -1,15 +1,16 @@
 {
   "company": "Cribl",
   "tier": 3,
-  "status": "not_yet",
+  "checked": "2026-10-20",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: Software Engineer - Core Platform first seen 2026-01-21 (unlabeled, not clearly new-grad); no new-grad program found",
+  "last_cycle_basis": "no entry-level SWE postings found on board or trackers",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cribl",
   "jobs_spec": "gh:cribl",
-  "evidence": "Greenhouse board 2026-10-08, 66 postings (full): only non-senior SWE is Software Engineer, Core Platform (US remote, $150-175K, no years stated, 'set technical direction', end-to-end ownership/on-call): unclear, not counted. Rest are Senior/Staff/sales engineers.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse board 74 postings (full): only non-senior SWE is Software Engineer, Core Platform (remote US, no years stated, technical direction, end-to-end ownership, on-call, base $150K-$175K). Not entry-level; rest senior/staff/sales.",
+  "confidence": "medium"
 }

@@ -1,0 +1,43 @@
+{
+  "company": "Nelnet",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Junior/Mid-Level IT Software Engineer - .NET/Web",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Centennial-CO/Junior-Mid-Level-IT-Software-Engineer---NET-Web_R23090",
+      "location": "Centennial, CO; Lincoln, NE; Brownsville, TX; Boise, ID; Madison, WI",
+      "opened": "2026-09-09",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "IT Software Engineer",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/IT-Software-Engineer_R23145",
+      "location": "Lincoln, NE; Madison, WI; Centennial, CO",
+      "opened": "2026-10-07",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Junior-level software engineers are encouraged to apply'; experience 'preferably 2+ years'; $70k - $100k",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-11-17",
+  "last_cycle_basis": "Tracker first seen 'IT Software Engineer - Entry Level' Madison WI/Centennial CO/Lincoln NE (nelnet.wd1.myworkdayjobs.com), flagged US citizenship",
+  "excluded_reason": "citizenship",
+  "no_sponsorship": false,
+  "jobs_page": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet",
+  "jobs_spec": "wd:nelnet/wd1/MyNelnet",
+  "evidence": "Workday full board (63) 2026-10-19: R23090 and R23145 live via API, both quote 'Nelnet will be unable to hire applicants without United States citizenship' (federal clearance). Other SWE roles need citizenship or 3+ yrs. Interns not counted.",
+  "confidence": "high",
+  "dropped": []
+}

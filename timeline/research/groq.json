@@ -1,15 +1,17 @@
 {
   "company": "Groq",
+  "tier": 4,
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker New Grad SWE first seen 2024-09-03 only; nothing in 2025-07 to 2026-01",
+  "last_cycle_basis": "jobs.py history: New Grad Software Engineer first seen 2024-09-03 only (two cycles ago); nothing 2025-07 to 2026-01",
   "jobs_page": "https://jobs.gem.com/groq",
   "jobs_spec": null,
-  "evidence": "Gem board API 2026-10-08 (33 postings) read: engineering is Sr./Staff, Storage Engineer (4+ yrs, $270K+) and Cloud Platform SWE (new 2026-10-07, $224K+, US-person text); rest finance/legal/sales. No entry role. Nvidia licensing deal late 2025.",
+  "jobs_spec_basis": "Gem board API api.gem.com/job_board/v0/groq/job_posts lists all posts",
+  "evidence": "Gem board API (36 posts) read 2026-10-20: US engineering roles are Sr/Staff, Storage Engineer (4+ yrs), and a Kubernetes Platform Engineer with no level stated and a U.S. Person export-control requirement, not counted. No entry-level software role.",
   "confidence": "high",
-  "tier": 3,
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "SLB",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://careers.slb.com/jobdescription.aspx?id=EF18828-en_US%201",
       "location": "Houston, TX",
       "opened": "2026-08-10",
-      "date_source": "slb careers (Coveo) jobposteddate, from earlier check",
+      "date_source": "slb careers Coveo search index jobposteddate (2026-08-10)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.slb.com/job-listing",
   "jobs_spec": null,
-  "evidence": "Opened posting page in browser 2026-10-08: Apply Now present, Houston, 'highly skilled graduates' for Back End, Front End, Full Stack SWE, ML, AI, Data engineer. No class year, citizenship or sponsorship limit text (E-Verify only). Posted date carried from earlier Coveo check, not re-read.",
-  "confidence": "medium"
+  "evidence": "Opened careers.slb.com posting 2026-10-20: Early Careers - Digital Technology (Houston) shows Apply Now, for graduates in Back End, Front End, Full Stack, ML, AI engineer. No class year, citizenship or sponsorship limit stated. Other US SWE roles are Experienced Professional.",
+  "confidence": "medium",
+  "dropped": []
 }

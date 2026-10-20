@@ -1,29 +1,30 @@
 {
  "company": "ZS Associates",
  "tier": 5,
- "status": "open",
+ "checked": "2026-10-20",
+ "status": "leftover_2026",
  "postings": [
   {
    "title": "Business Technology Solutions Associate",
-   "url": "https://careers-zs.icims.com/jobs/67648/login",
-   "location": "Princeton, NJ; Chicago, IL",
+   "url": "https://jobs.zs.com/jobs/67648",
+   "location": "Evanston, IL",
    "opened": "2026-09-22",
-   "date_source": "tracker first seen 2026-09-22 (Jibe posted_date 2026-10-07 after update)",
+   "date_source": "tracker first seen (Jibe posted_date now 2026-10-15)",
    "deadline": null,
-   "grad_window": "degree completed, available to start full-time in 2026 (posting text)",
+   "grad_window": "degree completed, start full-time 2026 (posting text)",
    "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": "Jibe tag 'Recent Graduate'; duties are implementing and developing technology solutions under a development team",
+   "level_basis": "Recent Graduate track; 0-3+ yrs; implements technology solutions in Python/SQL; asks Bachelor's/Master's in CS/MIS",
    "no_sponsorship": true
   }
  ],
- "last_cycle_basis": "tracker first seen 2026-09-22 Business Technology Solutions Associate; no prior-cycle date found",
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no earlier ZS SWE new-grad posting found in tracker history; unknown",
+ "excluded_reason": null,
  "no_sponsorship": true,
  "jobs_page": "https://jobs.zs.com/jobs",
  "jobs_spec": null,
- "evidence": "jobs.zs.com Jibe API 2026-10-08 (all 164 US jobs read): only Recent Graduate tech role is Business Technology Solutions Associate (67648; Python/SQL/RDBMS, 0-3 yrs, 'not eligible for visa sponsorship'). AI Engineer Associate Consultant (67605) is tagged Experienced, needs LLM production experience; excluded. Interns are 2026 program.",
- "confidence": "medium",
- "checked": "2026-10-08",
- "last_cycle_opened": null,
- "excluded_reason": null
+ "evidence": "Jibe API (290 jobs) read 2026-10-20: only grad tech role is Business Technology Solutions Associate (Evanston, live), text needs full-time start in 2026, so not for 2027 grads. AI Engineer Associate Consultant and Associate LLM Engineer (Toronto) ask 1-5 yrs with architecture-lead duties; BTS Associate Consultant roles ask 3-5+ yrs. No sponsorship.",
+ "confidence": "medium"
 }

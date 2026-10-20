@@ -1,15 +1,35 @@
 {
-  "company": "Cboe Global Markets",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No last-cycle (2025-07 to 2026-01) new-grad SWE posting found in tracker history.",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE",
-  "jobs_spec": "wd:cboe/wd1/External_Career_CBOE",
-  "evidence": "Workday full board (105) 2026-10-08: Associate Software Engineer - Web (KC, tracker 2026-08-04) no longer listed; closed inferred (URL not recoverable). Chicago Software Engineer (R-4636-2) live but 2+ yrs, architecture docs, billions-of-events experience: judged mid-level, not counted. Others senior or interns.",
-  "confidence": "medium"
+ "company": "Cboe Global Markets",
+ "tier": 4,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer",
+   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer_R-4656-1",
+   "location": "Kansas City, MO",
+   "opened": "2026-10-09",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Real-time team; work 'with guidance and support from peers and mentors'; ideal candidate has '2+ years of experience with C++ or experience in another programming language with a strong desire to learn C++'; $97,750-$126,500",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No last-cycle (2025-07 to 2026-01) new-grad SWE posting found in tracker history.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE",
+ "jobs_spec": "wd:cboe/wd1/External_Career_CBOE",
+ "evidence": "2026-10-20 Workday full board (117): Associate Software Engineer, Web (KC) is gone (page not found, off board). Software Engineer (KC real-time C++, mentored, 2+ yrs ideal, no sponsorship) kept as unlabeled. Chicago Software Engineer requires 2+ yrs and owns projects, left out; other SWE roles need 5+ yrs.",
+ "confidence": "medium",
+ "dropped": [
+  {
+   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2",
+   "reason": "gone: browser page says 'The page you are looking for doesn't exist' and it is not on the Workday board list"
+  }
+ ]
 }

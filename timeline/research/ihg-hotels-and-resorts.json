@@ -1,15 +1,16 @@
 {
   "company": "IHG Hotels & Resorts",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "careers.ihg.com loads in browser pane 2026-10-08; keyword searches (software 1 non-US, developer 1 Mexico, data 4, technology 5, AI 10, cloud 1, graduate 1 Japan): no US entry SWE or tech grad program; tech roles are managers or non-US.",
-  "confidence": "high"
+  "evidence": "careers.ihg.com keyword 'software engineer' on 2026-10-20 returned 'No results found'; earlier checks found only Manager/Head level tech roles. No US entry SWE.",
+  "confidence": "medium"
 }

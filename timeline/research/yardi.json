@@ -1,15 +1,16 @@
 {
   "company": "Yardi",
-  "tier": 5,
-  "checked": "2026-10-08",
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker shows only 2024 SDE I postings (2024-10-14, 2024-12-22 Santa Barbara), outside last-cycle window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.yardi.com/openings/",
   "jobs_spec": null,
-  "evidence": "Browser read careers.yardi.com/openings 2026-10-08 (all listed): no software/SDE roles; mostly Associate Technical Account Manager, sales, client services. Tracker shows SDE I Santa Barbara in 2024.",
-  "confidence": "medium"
+  "evidence": "Could not reopen the openings page 2026-10-20 (Cloudflare 403, no browser tab free). Carried from 2026-10-19 browser read (~60 roles, no software or developer roles). A web search surfaced an SDE I Santa Barbara posting (RES25425895) that could not be opened or dated, so not counted. Yardi posted SDE I Oct and Dec 2024.",
+  "confidence": "low",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

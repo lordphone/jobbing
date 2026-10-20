@@ -1,7 +1,7 @@
 {
   "company": "C3.ai",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -31,12 +31,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2024-09-25",
   "last_cycle_basis": "tracker: generic SWE postings first seen 2024-09-25; no explicit 2025-cycle new-grad title found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/c3iot",
   "jobs_spec": "gh:c3iot",
-  "evidence": "Greenhouse gh:c3iot 2026-10-08 (90, full) and boards-api text: two live New Grad 2027 postings in Redwood City, published 2026-09-14. Software Engineer, Full Stack - Applications needs 3+ yrs, not counted. No citizenship, sponsorship or deadline text.",
+  "evidence": "gh:c3iot full board (93), 2026-10-20: both New Grad 2027 postings live on board API (Redwood City, 2026-09-14; grads Dec 2026 / Summer-Fall 2027). FDE Federal New Grad 2027 (Tysons VA, 2026-10-19) requires citizenship and TS/SCI clearance, so not counted. Full Stack Applications asks 3+ yrs; Associate SRE is infra, not counted.",
   "confidence": "high"
 }

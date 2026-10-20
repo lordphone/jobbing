@@ -1,15 +1,69 @@
 {
   "company": "Base Power",
   "tier": 3,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Backend",
+      "url": "https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410",
+      "location": "Austin, TX",
+      "opened": "2026-04-14",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1\u20135 years of professional software experience; no lead/mentor duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Supply Chain Tooling Engineer",
+      "url": "https://jobs.ashbyhq.com/base-power/e2eb05ac-5d49-4ba8-8897-c874dd720640",
+      "location": "Austin, TX",
+      "opened": "2026-06-22",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years building production software; no lead duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/base-power/3bc0ab1f-fac8-4390-9c89-471c942725c3",
+      "location": "Austin, TX",
+      "opened": "2026-10-15",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years building production software; no lead/mentor duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Full Stack Software Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/base-power/ab473247-85f9-4be7-8cd8-da909e7cc9ef",
+      "location": "Austin, TX",
+      "opened": "2026-10-15",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years building production software; no lead/mentor duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/base-power",
   "jobs_spec": "ashby:base-power",
-  "evidence": "ashby full board (191) 2026-10-08: Austin SWE Backend asks 1-5 yrs (range tops at 5, not counted), Product 2+ yrs and mentors, Infrastructure/Algorithms are experienced owner roles; only a Software Engineering Intern is early-career.",
-  "confidence": "medium"
+  "evidence": "ashby:base-power full board (191) re-read 2026-10-20, screened 33. Counted Backend (1-5 yrs), Supply Chain Tooling and two Growth SWE (2+ yrs), no lead duties. Left out Core Experience (designs architecture), FDE, no-years Infra/Security roles, senior and 3+ yr roles.",
+  "confidence": "medium",
+  "dropped": []
 }

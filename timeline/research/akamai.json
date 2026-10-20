@@ -1,15 +1,30 @@
 {
   "company": "Akamai",
   "tier": 4,
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer (Software Engineer I, Control Plane & Developer Experience, Akamai Inference Cloud)",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678",
+      "location": "United States (no city listed)",
+      "opened": "2026-10-19",
+      "date_source": "oracle HCM posted date (API)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "posting text: \"As a Software Engineer I ... work alongside experienced engineers\"; requires Bachelor's/Master's in CS and basic proficiency, no years; pay $75,700-$136,300",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-14",
-  "last_cycle_basis": "tracker first-seen: Software Engineer I (Remote in USA), Akamai Oracle HCM job 897, 2025-07-14",
+  "last_cycle_basis": "tracker first seen: Software Engineer I (Remote in USA), Akamai Oracle HCM job 897, 2025-07-14",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.akamai.com/en/sites/CX_1",
   "jobs_spec": "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle HCM full board (252) 2026-10-08: US/Canada software roles are Senior/Principal. Software Engineer II (US, 2026-09-25, job 4090) is an LCA-style 'multiple openings' posting needing a bachelor's plus coursework, no years, but titled II, so not counted. No Software Engineer I or grad role live.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Oracle HCM board (282) 2026-10-20: Software Engineer I (job 2678, Control Plane, US remote) absent from the list API but its page loads with Apply Now, so kept. Other US software roles are II (3 yrs), Senior or SRE; Canada SWE II asks 2 yrs but is a level II. Opened date kept from the 2026-10-19 run.",
+  "confidence": "medium"
 }

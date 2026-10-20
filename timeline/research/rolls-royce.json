@@ -1,15 +1,30 @@
 {
   "company": "Rolls-Royce (aerospace; Rolls-Royce North America)",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "closed",
-  "postings": [],
+  "status": "excluded",
+  "postings": [
+    {
+      "title": "Junior Machine Learning Engineering (closed, page gone 2026-10-18)",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
+      "location": "Indianapolis, IN",
+      "opened": "2026-09-15",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": "Dec 2026 / May 2027",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "'Junior' in title; grads Dec 2026/May 2027",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-01-04",
   "last_cycle_basis": "tracker first seen 2026-01-04: Launch into Control System Configuration Management, Indianapolis (Workday Intern_Graduate)",
-  "excluded_reason": "clearance",
-  "no_sponsorship": false,
+  "excluded_reason": "citizenship",
   "jobs_page": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate",
   "jobs_spec": "wd:rollsroyce/wd3/Intern_Graduate",
-  "evidence": "Workday full (91) 2026-10-08. Junior Machine Learning Engineering (Indianapolis, posted 2026-09-15, said U.S. Citizen) now returns 'page doesn't exist' in browser and is off the board. Remaining US roles are Controls Operations Engineer (citizenship + clearance), apprentices, interns, UK.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-20 (101, full). Junior ML Engineering (Indianapolis, U.S. Citizen) is not on the board and its page shows 'The page you are looking for doesn't exist' in the browser. Live Controls Operations Engineer says 'you must also be a U.S. Citizen with the ability to obtain and maintain a high-level security clearance', grads May-Dec 2026. Others intern/apprentice/UK/EU.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false
 }

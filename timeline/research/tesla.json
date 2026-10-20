@@ -1,7 +1,7 @@
 {
   "company": "Tesla",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -31,25 +31,39 @@
       "no_sponsorship": false
     },
     {
-      "title": "AI Engineer, Whole Body Controls, Optimus",
+      "title": "SI Engineer, Whole Body Controls, Optimus",
       "url": "https://www.tesla.com/careers/search/job/275999",
       "location": "Palo Alto, CA",
-      "opened": "on or before 2026-10-08",
-      "date_source": "page text (listed on careers state API; no date shown)",
+      "opened": "on or before 2026-07-06",
+      "date_source": "tracker first seen (as AI Engineer - Whole Body Controls)",
       "grad_window": null,
       "live_verified": "browser",
       "deadline": null,
       "level": "unlabeled",
-      "level_basis": "'We hire at all levels, including recent graduates with ...' (job text, checked 2026-10-08); no years required",
+      "level_basis": "'We hire at all levels, including recent graduates with strong deep learning fundamentals' (job text 2026-10-13); no years required",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Maps & Navigation, Robotaxi",
+      "url": "https://www.tesla.com/careers/search/job/245750",
+      "location": "Palo Alto, CA",
+      "opened": "on or before 2026-10-13",
+      "date_source": "page text (no date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'looking for motivated Software Engineers at all levels'; no years required; $140,000-$312,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-05",
   "last_cycle_basis": "tracker first-seen 'Software Engineer, Machine Learning Integration, Optimus' (Palo Alto, CA), job/245229 (no formal new-grad program; 'New Grad 2025: Software Engineer' seen 2025-06-29)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.tesla.com/careers/search/?site=US",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: careers state API (8465 listings) has only Winter/Spring 2027 interns and a Berlin Associate SWE as entry-labeled. Scanned text of 177 US full-time SWE/ML/AI posts: three Optimus Whole Body Controls posts (Palo Alto) say 'We hire at all levels, including recent graduates'. No formal 2027 new-grad program.",
+  "evidence": "Tesla careers state API and job-text API read in the browser 2026-10-20: all four Optimus and Robotaxi software postings still listed with full text saying they hire at all levels incl. recent graduates, no years. About 100 other software postings state no level or years, or ask 5+ years, not counted.",
   "confidence": "medium"
 }

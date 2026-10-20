@@ -1,15 +1,16 @@
 {
   "company": "Rapid7",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
+  "last_cycle_basis": "jobs.py history: no new-grad SWE entries (only a Business Systems Analyst 2025-11)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://mymoose.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:mymoose/wd1/Careers",
-  "evidence": "Workday board 2026-10-08 (34 postings, full): software roles only Software Engineer II/Senior DevOps in Pune; US roles are sales engineering, analyst, legal. No US/Toronto/Vancouver entry SWE.",
+  "evidence": "Workday API 2026-10-20, 42 postings (full): software roles are SWE II/Senior DevOps in Pune; Associate Sales Engineer is UK; US roles are analysts, VP, sales. No entry SWE.",
   "confidence": "high"
 }

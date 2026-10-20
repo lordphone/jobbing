@@ -1,15 +1,16 @@
 {
   "company": "A.P. Moller-Maersk",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history has only US Data Analyst roles (2026-07/08); no SWE new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://maersk.wd3.myworkdayjobs.com/maersk_careers",
   "jobs_spec": "wd:maersk/wd3/maersk_careers",
-  "evidence": "Workday maersk_careers full board 2026-10-08 (1303): software roles are India, Colombia, Taiwan, Turkey; US postings are customs, warehouse, IT support. Graduate programme is Europe. No US entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-20: software and AI/ML roles are in India, China, Denmark, Spain; US postings are infrastructure or analyst. No US entry SWE.",
+  "confidence": "medium"
 }

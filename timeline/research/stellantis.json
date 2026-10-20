@@ -1,15 +1,16 @@
 {
   "company": "Stellantis",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
-  "jobs_page": "https://careers.stellantis.com/job-search-results/",
-  "jobs_spec": null,
-  "evidence": "m-cloud jobs API behind careers.stellantis.com 2026-10-08 (663 jobs, all paged; 179 US). US early-career: 2027 interns (incl. Technical Software, Business Software), year-round Student Programs, non-SWE Graduate Programs, CIE 2027 (mechanical/electrical rotational). Software Platform Pilot needs 8 yrs. No entry-level SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.stellantis.com/job-search-results/",
+  "jobs_spec": null,
+  "evidence": "Stellantis jobs API (m-cloud, all 703 postings paged) 2026-10-20: 213 US postings are interns, 'Student Programs' (planning, product owner, data analytics), CIE training (mechanical), skilled trades. No entry-level SWE posting.",
+  "confidence": "high"
 }

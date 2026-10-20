@@ -1,29 +1,16 @@
 {
   "company": "Yext",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/yext/jobs/8224109",
-      "location": "Washington, DC; Rosslyn, VA",
-      "opened": "2026-09-24",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '1+ years of professional software engineering experience'; no lead/mentor duties",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "closed",
   "last_cycle_opened": "2025-12-02",
   "last_cycle_basis": "tracker first seen; Software Engineer, Washington DC: https://job-boards.greenhouse.io/yext/jobs/7011931",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/yext",
   "jobs_spec": "gh:yext",
-  "evidence": "Greenhouse API and detail 2026-10-08: Software Engineer, DC/Rosslyn VA, first published 2026-09-24, 1+ yrs required, still listed, no citizenship text or deadline. London SE non-US; Senior roles separate.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (25) 2026-10-20: no US entry SWE; only London Software Engineer, Senior SWE and managers. Earlier run recorded a NYC Software Engineer (published 2026-09-04) now gone; its URL could not be re-found, and NYC Jan 2026 SWE 7277738 is not on the board.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

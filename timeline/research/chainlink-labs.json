@@ -1,16 +1,17 @@
 {
   "company": "Chainlink Labs",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history: only Software Engineer 1 first seen 2026-07-27 (not labeled new grad); nothing in 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/chainlink-labs",
   "jobs_spec": null,
-  "evidence": "Ashby board via jobs.ashbyhq.com non-user-graphql 2026-10-08, 24 jobs: engineers are Senior/Manager; SWE Data Feeds and Data Growth are Brazil only; only Research Internship otherwise. No US/Canada entry SWE.",
-  "confidence": "medium",
-  "jobs_spec_basis": "ashby posting API 404; board readable via jobs.ashbyhq.com non-user-graphql, so no spec"
+  "evidence": "Ashby board read in browser 2026-10-20 (23 jobs, 8 engineering). Engineering roles are Senior, Manager, or LatAm-only Software Engineer Data; no US/Canada entry-level. Earlier Software Engineer 1 posting is gone.",
+  "confidence": "high",
+  "jobs_spec_basis": "Ashby API returns no data; careers board opened in browser, kept jobs_spec null"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Jump Trading",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -31,12 +31,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-07",
-  "last_cycle_basis": "tracker history: Campus AI/ML Researcher first seen 2025-08-07/14",
+  "last_cycle_basis": "jobs.py history: Campus ML Research Engineer - Full-Time (Chicago/NYC) first seen 2025-08-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/jumptrading",
   "jobs_spec": "gh:jumptrading",
-  "evidence": "gh:jumptrading full board (109) 2026-10-08: two Campus AI Research Engineer full-time roles (Chicago/NY) live, updated 2026-08-18; posting says it sponsors work visas. Campus Systems Engineer (Chicago) is trading infrastructure/network, left out. London/Amsterdam roles non-US.",
-  "confidence": "medium"
+  "evidence": "gh:jumptrading full board (99) read 2026-10-20: two Campus AI Research Engineer full-time roles (Chicago/NY) live via API, accept CPT/OPT and sponsor visas. Campus Systems Engineer is trading-infra ops, left out. Experienced SWE roles ask 5+ yrs.",
+  "confidence": "high"
 }

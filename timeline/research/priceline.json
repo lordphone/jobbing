@@ -1,7 +1,7 @@
 {
   "company": "Priceline",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -18,12 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker 'Associate Data Developer - Fintech' (2026-04-27) is Toronto, not a Jul 2025-Jan 2026 posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://priceline.wd1.myworkdayjobs.com/Priceline",
   "jobs_spec": "wd:priceline/wd1/Priceline",
-  "evidence": "Workday cxs 2026-10-08: Associate Java Developer (Toronto) still listed, canApply true, startDate 2026-07-13, asks 2+ yrs Core Java. Other Toronto roles (iOS 4+ yrs, Java Developer and Full-Stack 5+ yrs) are mid/senior. No US entry SWE. Borderline: Associate title with 2+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday full (58) 2026-10-20: Associate Java Developer (Toronto, R5644) still listed and live; asks 2+ yrs Core Java, $85-100K CAD. Other Toronto roles ask 4-5+ yrs; Mumbai roles non-US.",
+  "confidence": "high"
 }

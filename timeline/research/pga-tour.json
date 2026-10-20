@@ -1,15 +1,16 @@
 {
   "company": "PGA TOUR",
-  "tier": 9,
-  "checked": "2026-10-08",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no first-party evidence of a prior new-grad SWE opening.",
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.teamworkonline.com/golf-tennis-jobs/pgatour/pga-tour-",
-  "jobs_spec": null,
-  "evidence": "TeamWork PGA TOUR org filter read in browser 2026-10-08 (21 jobs): tech roles are Forward Deployed Engineer (Manager level) and Senior Software Engineer (Director level); no entry SWE.",
+  "jobs_page": "https://pgatour.wd5.myworkdayjobs.com/PGATOURExternal",
+  "jobs_spec": "wd:pgatour/wd5/PGATOURExternal",
+  "evidence": "wd:pgatour full (19): Senior Software Engineer, Forward Deployed Engineer (Minimum 5 years), QA roles; only 2027 program is a summer internship. No entry SWE.",
   "confidence": "high"
 }

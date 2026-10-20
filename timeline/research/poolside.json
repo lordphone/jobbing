@@ -1,15 +1,17 @@
 {
   "company": "Poolside",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/poolside",
+  "jobs_page": "https://poolside.ai/careers",
   "jobs_spec": "ashby:poolside",
-  "evidence": "Ashby board (full, 2 postings) 2026-10-08: Member of Engineering (Infrastructure; Inference Infrastructure), both Remote (EMEA); none US/Canada or entry-level. No tracker history.",
-  "confidence": "medium"
+  "jobs_spec_basis": "poolside.ai/careers lists the same two Ashby posting IDs",
+  "evidence": "Ashby 2026-10-20 (full, 2 postings, same as poolside.ai/careers): Member of Engineering Infrastructure and Inference Infrastructure, both Remote (EMEA) only. No US/Canada role, no entry-level.",
+  "confidence": "high",
+  "dropped": []
 }

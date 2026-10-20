@@ -1,7 +1,6 @@
 {
   "company": "Wellmark",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "SmartRecruiters level Associate; \"Bachelor's degree ... and at least 1 year of software development experience\"",
+      "level_basis": "requires bachelor's and at least 1 year of software development experience; Associate level",
       "no_sponsorship": true
     }
   ],
@@ -24,6 +23,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/WellmarkInc",
   "jobs_spec": "sr:wellmarkinc",
-  "evidence": "SmartRecruiters 2026-10-08 (49, full), API active=true: Software Engineer - Member Experience Delivery (Des Moines, Associate level, bachelor + 1 yr, no sponsorship) live. Technology Associate Program (2026-08-31) inactive. Other SWE roles are Sr/Lead or internships.",
-  "confidence": "medium"
+  "evidence": "SmartRecruiters board 2026-10-20 (50, full) and posting API: SWE Member Experience Delivery live (Associate level, requires 1 yr, no sponsorship). Platform Engineer closed; other SWE roles Sr/Lead/intern; Technology Associate Program closed.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": []
 }

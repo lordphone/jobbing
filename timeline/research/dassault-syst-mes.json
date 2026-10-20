@@ -1,15 +1,16 @@
 {
   "company": "Dassault Systèmes",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history (jobs.py history) or company early-careers page found; unknown.",
+  "last_cycle_basis": "No US tracker history; Graduate Program postings found only for consulting (DELMIA Royal Oak) and Italy.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.3ds.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "3ds.com career search API 2026-10-08, all 681 postings; US/Canada list read. Borderline, left out: Waltham Software Engineer 549418 (opened 2026-09-17; requires 2-5 yrs, system level 'Senior', Master's preferred). Others senior, PhD, 3-6+ yrs, QA, ops or interns. No entry SWE program.",
-  "confidence": "medium"
+  "evidence": "3ds.com apisearch API 2026-10-20 (707, all read, US/Canada checked): software roles need 2-7 yrs or are Senior; AI QA Engineer (San Diego, Junior) is QA and left out; DELMIA Graduate Program is consulting. No entry SWE.",
+  "confidence": "high"
 }

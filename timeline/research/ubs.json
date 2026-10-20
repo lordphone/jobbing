@@ -1,42 +1,16 @@
 {
   "company": "UBS",
   "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "2027 Graduate Talent Program - Technology - Raleigh",
-      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=349412",
-      "location": "Raleigh, NC",
-      "opened": "on or before 2026-09-18",
-      "date_source": "job board last-updated date (no posted date shown)",
-      "deadline": null,
-      "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "2027 Graduate Talent Program - Technology - NY/ NJ",
-      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=348622",
-      "location": "New York, NY; Weehawken, NJ",
-      "opened": "on or before 2026-10-05",
-      "date_source": "job board last-updated date (no posted date shown)",
-      "deadline": null,
-      "grad_window": "Graduating Dec 2026 - Jun 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "UBS says US Graduate Talent Program applications typically open in September; no tracker history hit for UBS.",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "Opened both UBS graduate board posting pages in browser 2026-10-08: Apply present; Technology Engineer / Data Engineer Graduate (Java/Python), grads Dec 2026-Jun 2027, ~$105-110K, no employment-based sponsorship incl. OPT/CPT. No deadline or posted date shown.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null
+  "evidence": "2026-10-20 jobs.ubs.com graduates board (BrassRing search API, all 89 listings paged): only US roles are 2027 summer internships and a Weehawken Group Data Management Office GTP (data governance, not SWE). Raleigh 2027 GTP Technology (349412, seen live earlier) is gone. Tech GTP Software Engineer / AI Engineer are Zurich only.",
+  "confidence": "medium",
+  "dropped": []
 }

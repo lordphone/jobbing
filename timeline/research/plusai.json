@@ -1,7 +1,6 @@
 {
   "company": "PlusAI",
   "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -27,7 +26,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: MS or higher in CS/ML, good C++/Python; '2+ years' is only desirable",
+      "level_basis": "Required: MS or higher in CS/ML, good C++/Python; '2+ years of Industry experience in ML and C++ software' listed under preferred-style items",
       "no_sponsorship": false
     },
     {
@@ -40,7 +39,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: BS in CS/EE, C++14 hands-on coding; no years requirement; $120,000 - $200,000; no lead/mentor duties",
+      "level_basis": "Required: BS in CS/EE, C++14 hands-on coding; no years requirement; $120,000 - $200,000",
       "no_sponsorship": false
     },
     {
@@ -53,16 +52,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: 'Minimum 2+ years of professional experience', MS or PhD; no lead/mentor duties (borderline: at the 2-year limit)",
+      "level_basis": "Required: 'Minimum 2+ years of professional experience', MS or PhD (at the 2-year limit)",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "No new-grad-titled SWE tracker history found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/plus-2",
   "jobs_spec": "lever:plus-2",
-  "evidence": "Lever API (38 postings, full) 2026-10-08, posting bodies read: Data (MS, 1+ yrs), Simulation (MS; 2+ yrs only desirable), Runtime & C++ Middleware (BS, no years), Runtime (MS, 2+ yrs required) read as entry-level, all still listed. Rest Senior/Staff or test/integration. Unchanged status; added two roles.",
-  "confidence": "medium"
+  "evidence": "Lever full board (43) read 2026-10-20; the four earlier-counted SWE postings are still listed and kept. Software Integration and V&V roles ask 2+ yrs but are test/integration, left out. No new-grad-titled role. Medium confidence on level.",
+  "confidence": "medium",
+  "dropped": [],
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "HPE",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,8 +9,8 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624",
       "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
       "opened": "2026-08-25",
-      "date_source": "tracker first seen",
-      "deadline": "2027-07-06 (estimated)",
+      "date_source": "workday startDate",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
@@ -21,9 +21,9 @@
       "title": "Cloud Engineer Graduate",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628",
       "location": "Spring, TX; Westford, MA; Ft. Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
-      "opened": "on or before 2026-08-28",
+      "opened": "2026-08-28",
       "date_source": "workday startDate",
-      "deadline": "2027-07-06 (estimated)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
@@ -66,7 +66,20 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"Typically 0-2 years experience\"; Bachelor's in CS; Subscriber Services group",
+      "level_basis": "Bachelor's in CS, \"Typically 0-2 years experience\"",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Storage Systems/Software Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626",
+      "location": "Andover, MA",
+      "opened": "2026-10-08",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Bachelor's or Master's in CS, \"Typically 0-2 years experience\"",
       "no_sponsorship": false
     }
   ],
@@ -76,6 +89,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://hpe.wd5.myworkdayjobs.com/acjobsite",
   "jobs_spec": "wd:hpe/wd5/acjobsite",
-  "evidence": "Workday API 2026-10-08 (1596 postings, full), detail read, canApply true: Software and Cloud Engineer Graduate (BS/MS, 0-2 yrs; posting estimates application closure 2027-07-06), Puerto Rico graduate roles, Westford SWE 0-2 yrs. Firmware, test, hardware, sales-ops SRE I graduate roles not counted.",
-  "confidence": "high"
+  "evidence": "Workday board re-read 2026-10-20 (1627, full), screened ~52 US/PR titles. Same six postings found: graduate SWE/Cloud reqs, Puerto Rico graduate reqs, Westford SWE (0-2 yrs), Andover storage SWE (0-2 yrs). OEM Systems SW I needs 2-4 yrs. Hardware, test, firmware graduate roles not counted.",
+  "confidence": "high",
+  "dropped": []
 }

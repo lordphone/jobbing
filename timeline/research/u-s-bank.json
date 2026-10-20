@@ -1,21 +1,34 @@
 {
   "company": "U.S. Bank",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer 1 - Mainframe (Cobol)",
-      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686",
-      "location": "Brookfield, WI; Atlanta, GA; Hopkins, MN; Edison, NJ; Chicago, IL; Gresham, OR; Denver, CO; Charlotte, NC; Irving, TX; Earth City, MO",
-      "opened": "2026-10-01",
+      "title": "Software Engineer 1 \u2013 Full-stack, Generative AI, Cloud",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031",
+      "location": "Hopkins, MN; Charlotte, NC; Brookfield, WI; Irving, TX",
+      "opened": "2026-10-15",
       "date_source": "workday startDate",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-30",
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Software Engineer 1 level title; requires two to three years of relevant experience (entry level, not enforced per rules)",
-      "no_sponsorship": false
+      "level_basis": "'Software Engineer 1'; two to three years relevant experience; $92,820-$109,200",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer 1 - ServiceNow - Financial Service Operations",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---ServiceNow---Financial-Service-Operations_2026-0030980-1",
+      "location": "Minneapolis, MN",
+      "opened": "2026-10-15",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-28",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "'Software Engineer 1'; two to three years relevant experience",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-12-02",
@@ -24,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
   "jobs_spec": "wd:usbank/wd1/US_Bank_Careers",
-  "evidence": "Workday full board (1245) and cxs 2026-10-08: Software Engineer 1 - Mainframe (Cobol) live, canApply true, end 2026-10-23, basic qual 2-3 yrs; no 2027 rotational program. Other US SWE roles need 5+ yrs.",
-  "confidence": "high"
+  "evidence": "Workday board (340, full) and detail 2026-10-20: Software Engineer 1 full-stack GenAI (end 2026-10-30) and Software Engineer 1 ServiceNow (Minneapolis, end 2026-11-28) live, both 2-3 yrs, no visa sponsorship. 2027 programs are banking/real estate.",
+  "confidence": "high",
+  "dropped": []
 }

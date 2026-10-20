@@ -1,15 +1,30 @@
 {
   "company": "Zebra Technologies",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Professional I",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
+      "location": "Lincolnshire, IL",
+      "opened": "2026-10-20",
+      "date_source": "workday startDate / postedOn Posted Today",
+      "deadline": "2026-10-24",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Professional I is Zebra's entry tier; requires bachelor's and 'relevant experience' with no years stated; key skill 'Successful completion of a Zebra Technologies Internship'",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-02-02",
   "last_cycle_basis": "tracker first seen: Software Engineer - I, Lake Grove NY 2026-02-02; SWE 1 reqs also 2026-08-24 to 2026-09-09 (Lincolnshire IL, Holtsville NY, Kennesaw GA)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers",
   "jobs_spec": "wd:zebra/wd501/Zebra_careers",
-  "evidence": "Workday board (235, full) 2026-10-08 has no US entry SWE; US software roles are Advanced/Senior (5-8+ yrs). Software Engineer 1 postings (Lincolnshire JR102952 opened 2026-08-24, Holtsville, Kennesaw) are gone from the board and page not found per prior browser check.",
-  "confidence": "high"
+  "evidence": "Workday board re-read 2026-10-20 (256, full) plus detail: Software Engineer, Professional I (JR103780, Lincolnshire IL) posted today, endDate 2026-10-24, canApply true, no years asked. Other US/Canada software roles are Advanced, II, Senior or 3+ yrs. Earlier SWE 1 reqs are gone. Prior file said closed.",
+  "confidence": "high",
+  "dropped": []
 }

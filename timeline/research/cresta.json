@@ -1,15 +1,16 @@
 {
   "company": "Cresta",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; board shows only intern postings (Toronto SWE/ML interns 2024, FDE intern 2026-02), no new-grad SWE.",
+  "last_cycle_basis": "No tracker history; board shows only intern postings and non-SWE associate roles, no new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cresta",
   "jobs_spec": "gh:cresta",
-  "evidence": "gh:cresta full board (89) 2026-10-08, screened: SWE roles are Senior/Staff/Lead; SRE 5+ yrs, Application Support 4+ yrs, GTM Engineer (not SWE); only interns otherwise. No entry-level SWE in US/Canada.",
-  "confidence": "high"
+  "evidence": "gh:cresta full board (84) 2026-10-20, screened: SWE roles are Senior/Staff/Lead; Growth Engineer 7+ yrs, AI Engineer GTM is go-to-market, SRE 5+ yrs, SDET Berlin 5+ yrs. No entry-level SWE in US/Canada.",
+  "confidence": "medium"
 }

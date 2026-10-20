@@ -1,15 +1,16 @@
 {
   "company": "Waymo",
   "tier": 2,
-  "checked": "2026-10-08",
-  "status": "leftover_2026",
+  "checked": "2026-10-20",
+  "status": "not_yet",
   "postings": [],
-  "last_cycle_opened": "2025-12-22",
-  "last_cycle_basis": "Greenhouse first_published of PhD New Grad MLE (gh_jid 7488508), still live; tracker also shows 2026-03/05 PhD new-grad scientist roles",
+  "last_cycle_opened": "2026-03-31",
+  "last_cycle_basis": "New-grad tracker first-seen 'Software Engineer' (US, gh_jid 7769024) 2026-03-31, then Mountain View 2026-05-27 (both closed): Waymo posts BS/MS new-grad SWE in spring. PhD New Grad MLE (2025-12-22) not counted.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/waymo",
   "jobs_spec": "gh:waymo",
-  "evidence": "Greenhouse API 2026-10-08 (373 postings, full). Only new-grad title is PhD-only MLE, first published 2025-12-22 (last cycle, PhD so not counted). 2027 roles are summer interns. Unlabeled SWE roles ask 2+ to 5+ yrs (e.g. Vehicle Platforms C++ 2+ yrs, Perception Scaling Eval 2+): not counted.",
-  "confidence": "high"
+  "evidence": "gh:waymo (368, full) 2026-10-20: only new-grad title is PhD-only MLE Perception (not counted); otherwise Summer 2027 interns. 2+ yr SWE/MLE roles pay $170-216K (L4 band) and the rest ask 3-5+ yrs (Marketplace 4+, Pipeline 5+, RTC 3+, Perception Scaling 2+ industrial AI); not counted. No qualifying posting is live. Waymo posted BS/MS new-grad SWE in spring last cycle.",
+  "confidence": "high",
+  "dropped": []
 }

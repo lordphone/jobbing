@@ -1,15 +1,16 @@
 {
   "company": "Costco",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found for Costco",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.costco.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.costco.com 2026-10-08 (browser + JSON API): Information Technology category shows 0 results; keyword software/engineer/developer/data scientist/early career return no tech roles; Home/Regional Offices has 5 non-tech. 1 web search found only old 2024-25 experienced Issaquah SWE listings. No new-grad SWE program.",
+  "evidence": "careers.costco.com API and browser 2026-10-20 (20.5K jobs): keyword searches software, developer, engineer, data, analytics, technology return only warehouse, depot, fleet and pharmacy roles. No corporate tech postings or early-career track.",
   "confidence": "medium"
 }

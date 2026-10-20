@@ -1,21 +1,13 @@
 {
   "company": "BlackEdge Capital",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Graduate Quantitative Developer",
       "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005",
-      "location": "Chicago, IL",
-      "opened": "2026-07-24",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "graduating in 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: API 404 and browser redirected to the board with error=true"
     }
   ],
   "last_cycle_opened": "2025-08-13",
@@ -24,6 +16,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/blackedgecapital",
   "jobs_spec": "gh:blackedgecapital",
-  "evidence": "Greenhouse full board 2026-10-08 (5): Graduate Quantitative Developer live, \"Graduating in 2027\", Chicago. Graduate Quant Researcher 2027 not SWE. Trading Strategy Software Engineer is senior-style (deep systems, ownership), not counted.",
+  "evidence": "Greenhouse full board (3) 2026-10-20: Graduate Quantitative Developer 4703827005 gone (API 404, browser redirected to board). Graduate Quant Researcher not SWE; Trading Strategy Software Engineer is senior-style, not counted. Was open 2026-10-19.",
   "confidence": "high"
 }

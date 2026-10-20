@@ -1,16 +1,29 @@
 {
   "company": "Quora",
   "tier": 4,
-  "status": "leftover_2026",
+  "status": "open",
   "postings": [
     {
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
       "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
-      "location": "Remote (US); Remote (Canada: Toronto, Vancouver)",
+      "location": "Remote (US); Remote (Canada)",
       "opened": "2026-09-25",
       "date_source": "ashby publishedAt",
       "deadline": null,
-      "grad_window": "2025 or 2026 graduate, or pursuing B.S./M.S./Ph.D.",
+      "grad_window": "A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D.",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+      "location": "Remote (US); Remote (Canada)",
+      "opened": "2026-10-15",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "B.S./M.S./Ph.D. completed or in progress; able to start full-time in early 2027",
       "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
@@ -23,7 +36,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/quora",
   "jobs_spec": "ashby:quora",
-  "evidence": "Ashby API 2026-10-08 (5, full): live 'Software Engineer New Grad, ML Platform' (published 2026-09-25) requires 'A 2025 or 2026 graduate with or pursuing a B.S., M.S., or Ph.D.': 2026 window so leftover. Earlier 2026-07/08 New Grad SWE postings gone.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Ashby API 2026-10-20 (7, full) and detail: ML Engineer New Grad (2026-10-15, start early 2027) and SWE New Grad ML Platform (2026-09-25, 2025 or 2026 grad) both live; no other entry roles.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": []
 }

@@ -4,6 +4,8 @@ Clones SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027 and speedyapply/2
 $TMPDIR/newgrad-trackers (re-downloadable), extracts SimplifyJobs snapshots from past cycles out of git history,
 and writes timeline/data/trackers.json. Tracker data is a lead and last-cycle history only, never proof of "open".
 Unmatched tracker company names go to timeline/data/unmatched_tracker_names.txt; add real matches to overrides.json.
+Names in skip_tracker_names.json (normalized name -> why it isn't on the list) were reviewed already and are left out,
+so each company-list review only sees names nobody has judged yet.
 """
 import json, re, os, subprocess, collections, datetime as dt, html
 from common import *
@@ -85,13 +87,15 @@ ATS = [(r'(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board\?for
        (r'([\w-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([\w-]+)', 'workday'),
        (r'jobs\.smartrecruiters\.com/([\w-]+)', 'smartrecruiters')]
 
+SKIP = json.load(open(os.path.join(S, 'skip_tracker_names.json')))
 by_c = collections.defaultdict(list)
 unmatched = collections.Counter()
 ats = collections.defaultdict(collections.Counter)
 for r in recs.values():
     cid = match(idx, r['company'])
     if cid is None:
-        unmatched[r['company']] += 1
+        if norm(r['company']) not in SKIP:
+            unmatched[r['company']] += 1
         continue
     r['cid'] = cid
     by_c[cid].append(r)

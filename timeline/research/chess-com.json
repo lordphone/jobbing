@@ -1,15 +1,16 @@
 {
   "company": "Chess.com",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No this-cycle or last-cycle entry-level SWE posting found; no tracker history.",
+  "last_cycle_basis": "no tracker history; no entry-level SWE posting found for last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.chess.com/jobs",
   "jobs_spec": null,
-  "evidence": "Browser read of chess.com/jobs 2026-10-08, 12 roles: Engineering Internship, Security Engineer, SRE, Senior Manager Data Science, Senior Design Engineer; all remote. No entry-level SWE. Job list is the Rippling board linked from the page.",
-  "confidence": "medium"
+  "evidence": "chess.com/jobs read in browser pane 2026-10-20: 13 roles; engineering: Engineering Internship, Security Engineer, SRE, Sr Manager Data Science. No entry-level SWE.",
+  "confidence": "high"
 }

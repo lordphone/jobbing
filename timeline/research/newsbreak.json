@@ -1,6 +1,7 @@
 {
   "company": "NewsBreak",
-  "tier": 9,
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -13,8 +14,8 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Title New Grad; posting: recent graduate role",
+      "no_sponsorship": false
     },
     {
       "title": "NewsBreak Venture, AI Growth Intelligence Engineer (New Grad)",
@@ -26,8 +27,8 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Requires bachelor's or master's, recent grad or up to ~2 years",
+      "no_sponsorship": false
     },
     {
       "title": "Software Engineer, ML Infra (Junior & New Grad)",
@@ -39,17 +40,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Junior & New Grad title; requires 2+ years; reposted 2026-07-31",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-17",
   "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Mountain View (job 4054592006), 2025-09-17; earlier rolling 2024-09-04",
-  "no_sponsorship": true,
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/newsbreak",
   "jobs_spec": "gh:newsbreak",
-  "evidence": "Greenhouse board read in full (58 postings, 2026-10-08); three live New Grad/Junior postings (specs say recent grad / up to ~2 yrs; ML Infra: 2+ yrs or Master's, reposted 2026-07-31). Rotation Program (3+ yrs) and seniors excluded; ML Engineer Local Search left out (level unclear).",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null
+  "evidence": "gh:newsbreak read in full 2026-10-20 (66): three New Grad/Junior postings live on the API (recent grad / up to ~2 yrs; ML Infra 2+ yrs, reposted 2026-07-31). Rotation Program (3+ yrs), seniors, interns, no-years AI Engineer roles left out. Unchanged vs prior file.",
+  "confidence": "high"
 }

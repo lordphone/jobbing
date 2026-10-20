@@ -1,15 +1,16 @@
 {
   "company": "Helion",
   "tier": 3,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad software posting found in tracker history or on the board.",
+  "last_cycle_basis": "No tracker history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/helion",
   "jobs_spec": "ashby:helion",
-  "evidence": "Ashby full board (68) 2026-10-07 read: hardware/physics/materials roles, Summer 2027 hardware interns, and Senior Software Engineer Plant Control (5+ yrs) / Senior Manager Software. No entry-level software posting.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "ashby:helion 2026-10-20 (67, full): hardware, physics, materials, test roles and senior software only; no entry-level SWE.",
+  "confidence": "high"
 }

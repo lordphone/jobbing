@@ -1,7 +1,7 @@
 {
   "company": "DoorDash",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -37,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/doordashusa",
   "jobs_spec": "gh:doordashusa",
-  "evidence": "gh:doordashusa (468, full) and gh:doordashcanada (35, full) 2026-10-08: both entry-level postings first published 2026-09-04, live on API, read via Greenhouse API. No deadline or sponsorship text. Toronto role requires a Canadian university degree.",
-  "confidence": "high"
+  "evidence": "gh:doordashusa (458) and gh:doordashcanada (40), full, 2026-10-20: both entry-level postings (first published 2026-09-04) live via API. Toronto needs a Canadian degree. Unlabeled SWEs ask 2+ yrs at higher pay than SWE I (mid-level scope) and were left out.",
+  "confidence": "high",
+  "dropped": []
 }

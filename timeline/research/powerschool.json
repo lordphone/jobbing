@@ -1,7 +1,7 @@
 {
   "company": "PowerSchool",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,21 +9,35 @@
       "url": "https://careers-powerschool.icims.com/jobs/53084/associate-software-engineer/job",
       "location": "Dallas, TX",
       "opened": "2026-09-14",
-      "date_source": "page text (JSON-LD datePosted) and tracker first seen",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Minimum Qualifications: '1 year or less of relevant and related work experience'; IC1 Associate Software Engineer",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://careers-powerschool.icims.com/jobs/52965/software-engineer/job",
+      "location": "Dallas, TX",
+      "opened": "2026-09-14",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Minimum Qualifications: 'Minimum of 2 years of relevant and related work experience'; duties are day-to-day full-stack work and code reviews, no lead or architecture ownership",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No last-cycle posting found in tracker history or board.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-powerschool.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS list and posting fetched 2026-10-08: Associate Software Engineer IC1 (Dallas) shows Apply, datePosted 2026-09-14, 1 yr or less; validThrough 2027-09-14 is not a stated deadline. Software Engineer IC2 (2 yrs plus functional-language experience) left out; others Senior/Lead.",
+  "evidence": "iCIMS pages fetched by HTTP 2026-10-20: Associate Software Engineer IC1 (1 yr or less) and Software Engineer (2 yrs min) both show Apply, Dallas. Other listed software roles are Senior or Lead.",
   "confidence": "medium"
 }

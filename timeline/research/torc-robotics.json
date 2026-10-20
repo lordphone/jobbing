@@ -1,13 +1,12 @@
 {
   "company": "Torc Robotics",
   "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "ML Engineer, I - MLOps Framework",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002",
-      "location": "Remote (US)",
+      "location": "Remote - US",
       "opened": "2026-08-25",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -33,10 +32,12 @@
   ],
   "last_cycle_opened": "2025-09-03",
   "last_cycle_basis": "tracker first-seen; 'Machine Learning Engineer I - App Engine - Cuda', Ann Arbor MI",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/torcrobotics",
   "jobs_spec": "gh:torcrobotics",
-  "evidence": "Greenhouse full board (48) re-read 2026-10-08: ML Engineer I - MLOps (2026-08-25, 0-3+ yrs, $132-159K) and Software Engineer I - Data Engineering (2026-09-03) both still listed; no citizenship, sponsorship or deadline text. Commissioning Systems Engineer I (new 2026-10-06) is not software.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (47) read 2026-10-20; two Level-I engineering postings listed live by API: ML Engineer I MLOps (0-3+ yrs) and SWE I Data Engineering. Commissioning Systems Engineer I is not software. Metrics for Release SWE I is gone.",
+  "confidence": "high",
+  "dropped": [],
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

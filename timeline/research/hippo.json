@@ -1,15 +1,16 @@
 {
   "company": "Hippo",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no new-grad SWE postings",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/hippo70",
   "jobs_spec": "gh:hippo70",
-  "evidence": "gh:hippo70 full board 2026-10-08 (21): no engineering or software roles at all (actuarial data scientist, PM, legal, underwriting, marketing). No new-grad history.",
-  "confidence": "medium"
+  "evidence": "gh:hippo70 full board (18) 2026-10-20: no engineering or software roles (actuarial, claims, underwriting, product, tax, reinsurance, HR).",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

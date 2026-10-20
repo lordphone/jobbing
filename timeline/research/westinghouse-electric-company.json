@@ -1,7 +1,7 @@
 {
   "company": "Westinghouse Electric Company",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-%28high-potential-program%29-NC/1436332800/",
       "location": "Cranberry Township, PA; Etna, PA",
       "opened": "2026-10-02",
-      "date_source": "page listing date",
+      "date_source": "page datePosted meta",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -42,19 +42,6 @@
       "level": "unlabeled",
       "level_basis": "'0+ years of experience'; requires bachelor's, C/C++ 'through coursework, internships, or academic projects'",
       "no_sponsorship": false
-    },
-    {
-      "title": "I&C SW Specialist",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-SW-Specialist-OR/1410998600/",
-      "location": "Warrendale, PA",
-      "opened": "2026-09-17",
-      "date_source": "page text (posted Sep 17, 2026)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "requires bachelor's in CS/EE/related, 0+ years of experience; $58.4K-$73K",
-      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-25",
@@ -63,6 +50,12 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.westinghousenuclear.com/search/",
   "jobs_spec": null,
-  "evidence": "careers.westinghousenuclear.com search + posting pages fetched 2026-10-08, all Apply now: AI Delivery (Catalyst program), CS/Software Engineer (0+ yrs), Safety SW I&C HMI req 1411189300 (0+ yrs), I&C SW Specialist (0+ yrs). HMI reqs 1410681600 (4+ yrs) and 1410687800 (3+ yrs) not entry-level, removed. Only generic export-control line; no citizenship/clearance text. SW Development Engineer needs 3+ yrs.",
-  "confidence": "medium"
+  "evidence": "Careers search (SuccessFactors HTML, software, graduate and developer searches) 2026-10-20, pages fetched with Apply now: AI Delivery, CS/Software Engineer, Safety SW I&C HMI (33454), all 0+ yrs. I&C SW Specialist now closed. Software Development Engineer (3 yrs), Engineer I (mechanical), senior roles left out. Only generic export-control line.",
+  "confidence": "medium",
+  "dropped": [
+    {
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-SW-Specialist-OR/1410998600/",
+      "reason": "gone: posting page showed 'This position is no longer accepting applications'"
+    }
+  ]
 }

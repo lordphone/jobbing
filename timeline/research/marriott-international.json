@@ -1,16 +1,21 @@
 {
   "company": "Marriott International",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [
+    {
+      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
+      "reason": "gone: posting page shows 'This job is no longer available' and the requisition API returns nothing"
+    }
+  ],
   "last_cycle_opened": "2025-11-05",
   "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Browser 2026-10-08: req 26085377 (FLEX Associate SWE CDP, 0-3 yrs) now says 'no longer available'; Aug Associate SWE Android/iOS also gone. Keyword searches show only Senior/Director/FLEX Senior and AI SDET (test) SWE roles. Changed from open: posting closed.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "jobs_spec_basis": "Oracle board over 3000: searched keywords only; CDP req confirmed by direct page open"
+  "evidence": "Oracle board 2026-10-20 (6690 listed of 13254, searched): no software roles besides senior or security architect. FLEX Associate SWE - CDP (26085377, posted 2026-07-10) page now says it is no longer available.",
+  "confidence": "medium"
 }

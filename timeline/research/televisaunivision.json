@@ -1,7 +1,7 @@
 {
   "company": "TelevisaUnivision",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://univision.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:univision/wd1/External",
-  "evidence": "Workday API 2026-10-07 (univision/External, ~40 postings paged): engineering is Senior Looker Developer (Miami) and Mexico City roles; rest news, sales, production. No entry SWE. jobs.py board hit a 429 but direct API worked.",
-  "confidence": "high"
+  "evidence": "Workday full board (87) 2026-10-20: no entry SWE; engineering roles senior or non-software.",
+  "confidence": "high",
+  "dropped": []
 }

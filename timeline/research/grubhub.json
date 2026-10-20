@@ -1,15 +1,16 @@
 {
   "company": "Grubhub (owned by Wonder)",
-  "tier": 9,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
+  "tier": 4,
+  "checked": "2026-10-20",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
+  "last_cycle_basis": "no new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://wonder.wd1.myworkdayjobs.com/Grubhub_Careers",
   "jobs_spec": "wd:wonder/wd1/Grubhub_Careers",
-  "evidence": "Fresh run 2026-10-08: Workday board full (35): only Staff/Senior/Sr Staff engineering roles; no entry SWE. No program.",
+  "status": "no_program_found",
+  "evidence": "wd:wonder/wd1/Grubhub_Careers full (33) 2026-10-20: only engineering-like role is NetSuite Engineer (finance systems, 1-3 yrs NetSuite, not SWE); rest sales, finance, data science senior. No entry SWE.",
   "confidence": "high"
 }

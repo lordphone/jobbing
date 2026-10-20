@@ -1,0 +1,17 @@
+{
+ "company": "GoPro",
+ "tier": 5,
+ "checked": "2026-10-19",
+ "status": "no_program_found",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker or first-party record found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/goprojobs",
+ "jobs_spec": "gh:goprojobs",
+ "evidence": "Greenhouse goprojobs: careers page redirects to job-boards.greenhouse.io/goprojobs, which shows 'There are no current openings' (API 0 postings). Board is correct but empty.",
+ "confidence": "high",
+ "jobs_spec_basis": "careers page redirects to job-boards.greenhouse.io/goprojobs; it shows no current openings"
+}

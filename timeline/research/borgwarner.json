@@ -1,15 +1,16 @@
 {
   "company": "BorgWarner",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "no new-grad SWE history in trackers",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers",
   "jobs_spec": "wd:borgwarner/wd5/BorgWarner_Careers",
-  "evidence": "Workday (349, full) 2026-10-08, screened: US software roles are Cloud SW Development Lead, Software Systems Staff, Senior SWE, PMT Engineer Analytics (4-6 yrs). Seneca Controls Engineer (0-2 yrs) is plant controls/PLC, not SWE. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-20 (100, full). Only US software-ish role is AI/ML Systems Engineer (Arden NC, posted 2026-10-19): BS, no years stated, $77.6K-109K, but turbomachinery ML with end-to-end pipeline ownership and guiding technical execution, so left out as unclear. Others are interns or senior.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

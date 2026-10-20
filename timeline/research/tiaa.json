@@ -1,29 +1,16 @@
 {
   "company": "TIAA",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "2027 Early Talent Rotational Program: Technology",
-      "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Technology_R260900410",
-      "location": "Charlotte, NC; Dallas, TX",
-      "opened": "2026-09-28",
-      "date_source": "workday postedOn (earlier first read); API startDate refreshed 2026-10-07",
-      "deadline": "2026-10-09",
-      "grad_window": "Bachelor's; start Jan 2027 or Jul 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2025-09-15",
   "last_cycle_basis": "tracker: 'Early Talent Rotational Program: Technology' first seen 2025-09-15 (Charlotte/Dallas/NY)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://tiaa.wd1.myworkdayjobs.com/Search",
   "jobs_spec": "wd:tiaa/wd1/Search",
-  "evidence": "Workday API 2026-10-08: 2027 Early Talent Rotational Program: Technology (Charlotte, Dallas) listed, canApply true, API endDate 2026-10-09, no experience required, Engineer track includes software; start Jan or Jul 2027.",
-  "confidence": "high"
+  "evidence": "Workday full board (226) 2026-10-20: 2027 Early Talent Rotational Program Technology (R260900410, end 2026-10-09) no longer listed, detail denied. US engineering roles are Lead/Senior/Director; Associate Full Stack Developer is Mumbai.",
+  "confidence": "high",
+  "dropped": []
 }

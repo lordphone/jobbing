@@ -1,15 +1,16 @@
 {
   "company": "Labcorp",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Durham NC 2025-09-07 (https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628)",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Durham NC 2025-09-07 (labcorp.wd1 job 2526628)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://labcorp.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:labcorp/wd1/external",
-  "evidence": "Workday board 2026-10-08 (1841, full) read fresh: US SWE live is SDE II (Durham), Senior/Staff/Lead/Principal roles, Production Bioinformatics Engineer (advanced degree or 6+ yrs per prior read); AEM devs are India. No entry SWE; last Associate SWE opened Sep 2025.",
-  "confidence": "medium"
+  "evidence": "Workday board read in full (1883 listed) plus keyword search: US software roles are Lead/Senior/Staff and AEM Developer. Last cycle's Software Development Engineer I (Remote) is gone from search. No entry SWE live.",
+  "confidence": "high"
 }

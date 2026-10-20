@@ -1,16 +1,17 @@
 {
   "company": "Thoughtworks",
-  "tier": 10,
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker first seen: Consultant Graduate Developer, Chicago IL (also Graduate Developer, Toronto); repeats Feb, Mar, Apr, Jul 2026",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://www.thoughtworks.com/en-us/careers/jobs",
   "jobs_spec": "gh:thoughtworks",
-  "jobs_spec_basis": "careers job URLs use ?gh_jid ids; gh:thoughtworks (37 postings, named Thoughtworks) is the real board, not the referral-only board",
-  "evidence": "gh:thoughtworks full list (36) 2026-10-08: no graduate developer; US roles lead/senior. Chicago Graduate Developer (first seen 2026-07-08, id 8037730) returns 404 on API and careers page. Graduate postings recur through the year.",
+  "evidence": "gh:thoughtworks full list 2026-10-20 (42): no US or Toronto graduate developer; only graduate posts are Bucharest support. Chicago Graduate Developer 8037730 (seen 2026-07-08) gone from API and 404 on site. Graduate posts recur through the year.",
   "confidence": "medium",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "jobs_spec_basis": "careers job URLs use ?gh_jid ids; gh:thoughtworks (named Thoughtworks) is the real board, not the referral-only board"
 }

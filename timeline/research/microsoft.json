@@ -1,43 +1,104 @@
 {
   "company": "Microsoft",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (IC2, #EiP), AI infrastructure",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
-      "location": "Redmond, WA",
-      "opened": "2026-10-02",
-      "date_source": "eightfold postedTs",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
+      "location": "Cambridge, MA",
+      "opened": "2026-10-12",
+      "date_source": "eightfold creationTs",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "#EiP tag; required: bachelor's degree plus coding experience, no years stated",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineering IC2",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
       "location": "Redmond, WA",
       "opened": "2026-10-07",
-      "date_source": "eightfold postedTs",
+      "date_source": "eightfold creationTs",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: bachelor's in CS with proven coding experience, no years stated; IC2 entry level",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Entra Management Admin UX)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+      "location": "Redmond, WA",
+      "opened": "2026-09-02",
+      "date_source": "eightfold creationTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Forward Deployed Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+      "location": "Redmond, WA",
+      "opened": "2026-10-08",
+      "date_source": "eightfold creationTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
+      "location": "Redmond, WA",
+      "opened": "2026-10-20",
+      "date_source": "pcsx postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Forward Deployed Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+      "location": "Redmond, WA",
+      "opened": "2026-10-20",
+      "date_source": "pcsx postedTs",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "IC2 level; required: bachelor's in CS with proven coding experience, no years (1+ year preferred)",
       "no_sponsorship": false
     }
   ],
+  "dropped": [
+    {
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+      "reason": "gone: page shows No longer accepting applications"
+    },
+    {
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+      "reason": "gone: page shows No longer accepting applications"
+    }
+  ],
   "last_cycle_opened": "2025-07-07",
-  "last_cycle_basis": "tracker history: 'Software Engineer - Fullstack', Redmond WA, first seen 2025-07-07, https://jobs.careers.microsoft.com/global/en/job/1835561/",
+  "last_cycle_basis": "tracker history: 'Software Engineer - Fullstack', Redmond WA, first seen 2025-07-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.careers.microsoft.com",
   "jobs_spec": "eightfold:apply.careers.microsoft.com/microsoft.com",
-  "jobs_spec_basis": "eightfold spec returns partial/flaky results; used site's own /api/pcsx search and position_details plus browser pages",
-  "evidence": "pcsx search + browser 2026-10-08: two IC2 SWE postings in Redmond show Apply now (Oct 2, Oct 7). CoreAI #EiP posting (...989020) now 'No longer accepting applications'; earlier IC2 postings also gone. 'Software Engineering'/SDE/SWE 2 roles ask 2+ yrs, Applied ML Engineer needs MS+1 yr: not counted. No deadline.",
+  "evidence": "pcsx search and position_details API 2026-10-20: six IC2 Software Engineer postings live (bachelor required, no years). Two earlier ones now show No longer accepting. 557027406 FDE says Microsoft cannot sponsor. IC3 (SWE II, 2+ years), senior and CTJ clearance roles not counted.",
   "confidence": "medium"
 }

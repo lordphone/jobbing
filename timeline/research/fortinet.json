@@ -15,6 +15,32 @@
       "level": "unlabeled",
       "level_basis": "Requires BS/MS and 'Frontend experience from an internship, co-op, coursework, or personal projects'; no years required; $123,000-$151,000",
       "no_sponsorship": true
+    },
+    {
+      "title": "Early Careers: Software Development Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-16",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Early Careers: Software Development Engineer'; Job Requirements '0-3 years'; $134,000-$220,000",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23408",
+      "location": "Santa Clara, CA",
+      "opened": "2026-07-03",
+      "date_source": "oracle ExternalPostedStartDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Early Career Candidates with 0–2 years of professional experience, including recent graduates, are encouraged to apply'; $123,000-$151,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -23,7 +49,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:edel.fa.us2.oraclecloud.com/CX_2001",
-  "evidence": "Oracle board (1002, full) 2026-10-08; screened US/Canada software roles: only SDE (GUI) reads entry-level (internship/coursework experience ok, $123-151K); others need 3+ yrs, are mid-level, or state no level. Must work in US without sponsorship. Last-cycle new-grad pipelines are 2026 or non-SWE.",
+  "evidence": "Oracle board (1024, full) 2026-10-20; screened US/Canada software roles. Counted Early Careers SDE Sunnyvale (0-3 yrs), SDE (GUI) Sunnyvale (coursework ok), SDE Santa Clara (0-2 yrs, new find). Left out: Agent Security (3+ yrs), Burnaby roles, test/systems/support. Postings need US work authorization without sponsorship.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "checked": "2026-10-20",
+  "dropped": []
 }

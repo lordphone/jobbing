@@ -1,15 +1,17 @@
 {
   "company": "Solana Labs",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history for Solana Labs.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://jobs.solana.com",
+  "jobs_page": "https://jobs.ashbyhq.com/solanalabs",
   "jobs_spec": null,
-  "evidence": "No Solana Labs first-party board: jobs.solana.com is a Getro ecosystem board with other companies' jobs. Web search 2026-10-08 shows only senior/staff Solana Labs roles on aggregators. No entry-level SWE found.",
-  "confidence": "low"
+  "evidence": "Ashby API for solanalabs lists 0 jobs 2026-10-20. Solana Labs largely wound down into Anza/Solana Foundation; Anza roles are experienced.",
+  "confidence": "medium",
+  "jobs_spec_basis": "solanalabs.com Careers link goes to jobs.ashbyhq.com/solanalabs; API lists 0 jobs, kept spec null"
 }

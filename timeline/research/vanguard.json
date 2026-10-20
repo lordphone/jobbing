@@ -1,7 +1,7 @@
 {
   "company": "Vanguard",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -33,8 +33,8 @@
     {
       "title": "Entry Level Application Engineer - Dallas - 2027 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853",
-      "location": "Dallas/Ft. Worth, TX",
-      "opened": "on or before 2026-09-07",
+      "location": "Dallas/Ft. Worth, TX (Plano, TX)",
+      "opened": "2026-08-25",
       "date_source": "workday postedOn (30+ days); startDate 2026-08-25",
       "deadline": null,
       "grad_window": "2027 start date; 0-3 yrs experience",
@@ -60,7 +60,7 @@
       "title": "Technology Leadership Program - Application Development (NC)",
       "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082",
       "location": "Charlotte, NC",
-      "opened": "on or before 2026-09-10",
+      "opened": "2026-09-10",
       "date_source": "workday startDate 2026-09-10",
       "deadline": null,
       "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
@@ -81,27 +81,15 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
-    },
-    {
-      "title": "Technology Leadership Program, Investment Systems (PA)",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technology-Leadership-Program--Investment-Systems--PA-_181452",
-      "location": "Malvern, PA",
-      "opened": "on or before 2026-09-10",
-      "date_source": "workday startDate 2026-09-10",
-      "deadline": null,
-      "grad_window": "graduating Dec 2026 or Spring 2027; starts 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-14",
   "last_cycle_basis": "tracker history: 'Application Engineer - I - Gifs' (Malvern, PA) first seen 2025-11-14",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
   "jobs_spec": "wd:vanguard/wd5/vanguard_external",
-  "evidence": "Workday board (368, full) 2026-10-08, cxs canApply true: three Entry Level Application Engineer 2027 postings, three TLP Application Development / Investment Systems tracks, TX app dev TLP (ends 2026-12-17); none sponsor. Other TLP tracks (Data Science & AI, Risk & Security Engineering, analysts) left out as non-SWE.",
-  "confidence": "high"
+  "evidence": "Workday board (350, full) and detail 2026-10-20: three Entry Level Application Engineer 2027 postings (0-3 yrs, Charlotte/Malvern/Plano) and TLP Application Development NC/PA/TX (Dec 2026 or Spring 2027 grads) live; none sponsor. Data Science and Risk & Security tracks left out as non-SWE; new Full-Stack Engineer and AI Engineer reqs state no years, left out.",
+  "confidence": "high",
+  "dropped": []
 }

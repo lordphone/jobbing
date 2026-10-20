@@ -1,15 +1,16 @@
 {
   "company": "Attentive",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-03-04",
-  "last_cycle_basis": "tracker first seen: Software Engineer 1 (SF), https://job-boards.greenhouse.io/attentive/jobs/4121843009 (spring cycle); SWE 1 - AI Product 2026-03-27",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1 (SF) job 4121843009 (spring cycle); SWE 1 - AI Product 2026-03-27",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/attentive",
   "jobs_spec": "gh:attentive",
-  "evidence": "Greenhouse full board 2026-10-08 (30): only Senior/Staff/Principal SWE/ML, a director, a PM intern, Support Engineer. SWE 1 roles were posted Mar 2026 (spring), so none expected until then.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-20 (27, full): no SWE, only senior/other roles; SWE 1 roles from Mar 2026 are gone. Spring-cycle new-grad hiring.",
+  "confidence": "high"
 }

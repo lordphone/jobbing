@@ -1,7 +1,7 @@
 {
   "company": "New Relic",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/newrelic",
   "jobs_spec": "gh:newrelic",
-  "evidence": "Greenhouse API 2026-10-08, 50 postings (full). Counted: SWE-IAM (Java) Portland, requires 1+ yrs, unlabeled level (borderline), no visa sponsorship. Excluded: Container Fabric SWE (deep K8s/Go expertise). No new-grad program.",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-20 (53, full). Counted: SWE-IAM (Java) Portland, requires 1+ yrs, no senior duties, borderline unlabeled, no visa sponsorship. Excluded: Container Fabric (K8s/Go on-call, no sponsorship), SWE II roles, Associate IT Infrastructure Engineer (IT, not SWE).",
+  "confidence": "medium",
+  "dropped": []
 }

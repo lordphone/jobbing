@@ -7,10 +7,10 @@
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95881EXTERNALENUS",
       "location": "Remote (US, contiguous 48 states; onboarding Fort Worth, TX)",
       "opened": "2026-09-04",
-      "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29, likely repost)",
+      "date_source": "phenom postedDate",
       "deadline": null,
-      "grad_window": "recent grads or pursuing CS/IT/Data Science/AI degree; starts 2027-02-01, 2027-06-14, 2027-09-20; <3 yrs experience",
-      "live_verified": "browser",
+      "grad_window": "Pursuing or completed a CS/IT/DS/AI degree, less than 3 years professional experience; anticipated starts 2/1/2027, 6/14/2027, 9/20/2027",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -20,12 +20,12 @@
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95574EXTERNALENUS",
       "location": "Remote (US, contiguous 48 states)",
       "opened": "2026-07-28",
-      "date_source": "phenom postedDate (page JSON-LD datePosted 2026-09-29)",
-      "deadline": "approximately 2026-10-06 (posting says closes about 7 days after posting date 2026-09-29); still listed 2026-10-08",
+      "date_source": "phenom postedDate",
+      "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Software Engineer I/II; basic quals: bachelor's in CS or 2 yrs software experience",
+      "level_basis": "Level I/II (L3 $93,750-$125,000); requires a bachelor's in CS or 2 years of software experience, no years beyond that. Page says it may close about 7 days after posting but still showed Apply Now 2026-10-18",
       "no_sponsorship": false
     }
   ],
@@ -34,10 +34,10 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "jobs_spec_basis": "jobs.bnsf.com is Phenom; /widgets refineSearch API lists the board; no jobs.py spec",
-  "evidence": "Phenom widgets API (106 jobs) and posting pages 2026-10-08: bnsf tech Trainee 2027 (<3 yrs, no OPT/H-1B assistance now or future) and Full Stack SWE I/II (text open to H-1B transfers/STEM OPT but also says no assistance; closes ~7 days after 2026-09-29, still listed). Other 2027 roles are non-software.",
-  "confidence": "high",
+  "evidence": "BNSF Phenom search 2026-10-20: bnsf tech Trainee 2027 (posted 2026-09-04, CS/IT/DS/AI, <3 yrs, no sponsorship) and Full Stack SWE I/II (posted 2026-07-28, sponsors H-1B/TN/OPT) both still listed with apply links. Sr/Staff, interns and audit trainees not counted.",
+  "confidence": "medium",
   "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "dropped": []
 }

@@ -1,15 +1,21 @@
 {
   "company": "Lucid",
   "tier": 4,
-  "status": "no_program_found",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
+      "reason": "gone: Greenhouse API returns 404 for job 5242854007, it is not on the 445-posting board, and the Greenhouse-hosted page redirects to the search page"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no Lucid Motors new-grad SWE in tracker history; tracker hits are Lucid Software (different company)",
   "jobs_page": "https://lucidmotors.com/careers/search",
   "jobs_spec": "gh:lucidmotors",
-  "evidence": "gh:lucidmotors full board (442) 2026-10-08: software/ML roles are Senior/Staff; unlabeled Perception SWE, Perception ML and Data Infrastructure SWE each require 3+ years (Greenhouse API text). No new-grad or 2027 posting.",
-  "confidence": "high",
-  "postings": [],
-  "checked": "2026-10-08",
+  "evidence": "gh:lucidmotors full board (445) read 2026-10-20. The ADAS Behavior Planning SWE (0-3 yrs, Newark, posted 2026-10-08) counted yesterday is gone. Perception SWE Newark needs 3+ yrs, Data Infra 3+ yrs. No other entry-level software role.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
   "no_sponsorship": false,
   "excluded_reason": null
 }

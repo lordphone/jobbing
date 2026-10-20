@@ -2,28 +2,15 @@
   "company": "Wellington Management",
   "tier": 5,
   "status": "closed",
-  "postings": [
-    {
-      "title": "Technology Associate",
-      "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Associate_R94786-1",
-      "location": "Boston, MA",
-      "opened": "2026-09-08",
-      "date_source": "tracker first seen (workday startDate 2026-09-10)",
-      "deadline": "2026-10-02",
-      "grad_window": "Fall 2026 - Summer 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
   "last_cycle_opened": "2026-02",
   "last_cycle_basis": "tracker 'Technology Associate Programme' London 2026-02-10 (outside US); no US posting last cycle found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://wellington.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:wellington/wd5/Campus",
-  "evidence": "Technology Associate (Boston, apply-by 2026-10-02) now shows 'page doesn't exist' in browser; absent from Campus board (9, full) and external board (122, full: only Senior/Lead SWE, QE Analyst needing 2+ yrs). Remaining Campus roles non-US interns. No sponsorship.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Campus board (9, full) 2026-10-20: non-US internships, a Boston tax co-op and business associates only. Boston Technology Associate (tracker 2026-09-08) not on the board, so gone. Earlier check of External board: Senior/Lead SWE only; Quality Engineering Analyst is QA.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

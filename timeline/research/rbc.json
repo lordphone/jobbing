@@ -1,16 +1,17 @@
 {
-  "company": "RBC (Royal Bank of Canada)",
   "tier": 5,
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2025-11-02",
-  "last_cycle_basis": "tracker first seen 2025-11-02 'Developer - RBC Amplify 2026' Toronto/Calgary/Halifax/Vancouver (rbc.wd3.myworkdayjobs.com/rbcglobal1)",
+  "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false,
+  "postings": [],
+  "company": "RBC (Royal Bank of Canada)",
+  "status": "closed",
+  "last_cycle_opened": "2025-11-02",
+  "last_cycle_basis": "tracker first seen 2025-11-02 'Developer - RBC Amplify 2026' Toronto/Calgary/Halifax/Vancouver (rbc.wd3.myworkdayjobs.com/rbcglobal1)",
   "jobs_page": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1",
   "jobs_spec": "wd:rbc/wd3/rbcglobal1",
-  "jobs_spec_basis": "Campus roles post on separate board wd:rbc/wd3/ExternalPrivatePostingStudents (18 postings, full); rbcglobal1 kept as main list.",
-  "evidence": "Main board (843) and campus board ExternalPrivatePostingStudents (18) read 2026-10-08. Campus now lists only 2027 winter interns/co-ops. Prior Aug-Sep Toronto/Vancouver new-grad postings (per earlier file) are gone from both boards; page not opened. Remaining Software/AI roles need 2-5+ yrs (DevOps Developer 2+ yrs, approves PRs, not counted).",
+  "jobs_spec_basis": "Campus roles post on separate board wd:rbc/wd3/ExternalPrivatePostingStudents (14 postings, full); rbcglobal1 kept as main list.",
+  "evidence": "Workday cxs API 2026-10-20 (rbcglobal1 keyword searches plus students board): no entry SWE in US, Toronto or Vancouver. Toronto AI Engineer needs 2-5 yrs ML in production, no level; US devs are Associate Director/Lead; Vancouver SRE is ops; students board has 2027 summer/winter interns only.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "checked": "2026-10-20"
 }

@@ -1,7 +1,7 @@
 {
   "company": "SpaceXAI (xAI)",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,16 +14,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "early-career engineers can take on real ownership; role is a great fit for engineers who are early in their careers; no years of experience asked",
+      "level_basis": "'early-career engineers can take on real ownership'; no years asked; pay $150K-$350K",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no xAI new-grad SWE posting 2025-07 to 2026-01",
+  "dropped": [],
+  "last_cycle_opened": "2025-07-20",
+  "last_cycle_basis": "jobs.py history / tracker first-seen for xAI software roles, 2025-07 (trackers, not first-party)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/xai",
+  "jobs_page": "https://x.ai/careers/open-roles",
   "jobs_spec": "gh:xai",
-  "evidence": "gh:xai full board (307) 2026-10-08: Ads Product SWE (Palo Alto) targets early-career, no years asked, no citizenship text. Evals says all levels but needs 3+ yrs; other SWE need 2-7+; 2027 interns only otherwise.",
+  "jobs_spec_basis": "x.ai/careers open roles page links every job to gh:xai",
+  "evidence": "gh:xai full board (305) read and screened 2026-10-20: Ads Product SWE live via API, says early-career engineers, no years asked. Evals says all levels but requires 3+ yrs. Other SWE roles ask 2+ yrs with senior duties or no level, left out.",
   "confidence": "medium"
 }

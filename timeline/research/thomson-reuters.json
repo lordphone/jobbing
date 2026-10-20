@@ -1,6 +1,7 @@
 {
   "company": "Thomson Reuters",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -13,17 +14,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires 'At least 2 years software engineering experience'; US pay $88,200-$163,800; no senior duties or level in title",
+      "level_basis": "requires 'At least 2 years software engineering experience'; US pay $101,600-$188,700; no senior duties or level in title",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-20",
   "last_cycle_basis": "tracker history: 'AI Engineer - New Grad - Materia AI' (Toronto) first seen 2025-11-20; US 'AI Engineer - New Grad - Materia' (Eagan/NYC) 2026-01-06; recurring through 2026-06-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:thomsonreuters/wd5/External_Career_Site",
-  "evidence": "Workday API 2026-10-08 (452, full) + detail. Research Engineer (2 yrs, endDate 2026-10-30) is borderline-entry, still live. Other US SWE need 3+ yrs/senior; CoCounsel FDE 2-4 yrs; Co-op is intern. No New Grad Materia posting live now.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday full board (480) 2026-10-20 plus detail API (endDate 2026-10-30). Research Engineer asks 2 yrs, borderline entry, listed. McLean SWE and GenAI roles need clearance and US citizenship; other SWE need 3+ yrs or senior. No New Grad Materia posting now.",
+  "confidence": "medium"
 }

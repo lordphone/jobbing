@@ -1,0 +1,16 @@
+{
+  "company": "The Trade Desk",
+  "tier": 3,
+  "checked": "2026-10-19",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": "2026-04-10",
+  "last_cycle_basis": "tracker history: 'Software Engineer 1' Irvine first seen 2026-04-10; 2024 cycle 'New Grad 2025: Software Engineer' 2024-08-14; no 2025-07..2026-01 posting. Ad hoc timing.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/thetradedesk",
+  "jobs_spec": "gh:thetradedesk",
+  "evidence": "Rechecked 2026-10-19 (board API plus detail): no entry-level SWE listed. 'Software Engineer 1' Bellevue (first seen 2026-07-27, gh_jid 5196864007) returns 404 from the Greenhouse API, so closed.",
+  "confidence": "medium"
+}

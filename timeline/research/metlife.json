@@ -1,42 +1,31 @@
 {
-  "company": "MetLife",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Junior AI Engineer",
-      "url": "https://www.metlifecareers.com/en_US/ml/JobDetail/Jr-AI-Engineer-20496/20496",
-      "location": "Cary, NC",
-      "opened": "2026-10-06",
-      "date_source": "page text (Posted Date)",
-      "deadline": "at least 2027-01-04",
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Junior title, grade 08T, 'working under the direction of senior engineers'; no required years, preferred 0-1 years",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Development-Engineer/20744",
-      "location": "Cary, NC",
-      "opened": "2026-09-23",
-      "date_source": "page text (Posted Date)",
-      "deadline": "at least 2026-10-08",
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Required: bachelor's + 1+ year (or internship/project experience); grade 09T; $67,800-$88,000; no seniority title",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker record; earlier entry-level JobDetail/16566 and /18191 returned 404 with no dates",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
-  "jobs_spec": null,
-  "evidence": "MetLife careers (Avature) searched in browser 2026-10-08 (software, engineer, developer, AI, data, junior, associate, graduate; ~120 postings): Cary NC Junior AI Engineer and Software Development Engineer show Apply. Other US tech roles are Senior/Lead/Principal/Director; Solutions Engineer grade 10T; India roles ignored.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+ "company": "MetLife",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Junior AI Engineer",
+   "url": "https://www.metlifecareers.com/en_US/ml/JobDetail/Jr-AI-Engineer-20496/20496",
+   "location": "Cary, NC",
+   "opened": "2026-10-06",
+   "date_source": "page text (Posted Date)",
+   "deadline": "at least 2027-01-04",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Junior title, grade 08T, 'under the direction of senior engineers'; no required years, preferred 0-1 years; $55,800-$75,000",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Junior Software Engineer (Bridgewater NJ, JobDetail 18191, posted 2026-07-27 per aggregators, page now 404) is this cycle, not last; no Jul 2025-Jan 2026 record found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
+ "jobs_spec": null,
+ "jobs_spec_basis": "careers site blocks automated fetches (HTTP 406); Avature board, no API",
+ "evidence": "Avature board re-read over HTTP 2026-10-20 (the 406 block is gone): Junior AI Engineer (Cary NC, 20496, posted 2026-10-06) page shows Apply Now; required list has no years, preferred 0-1 yrs. Other US-visible items are Hyderabad, interns or senior. Old Bridgewater Junior SWE not listed.",
+ "confidence": "medium"
 }

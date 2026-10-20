@@ -35,3 +35,4 @@ Hi [Name]! I'm a CMU master's student and just applied for HP IQ's AI Software E
 
 | Name | Link | Type | Sent | Status | Notes |
 |------|------|------|------|--------|-------|
+| Mahdi Hajiali | https://www.linkedin.com/in/mahdihajiali/ | CMU alum | 10-09 | no reply, connected 10-09 | HP data scientist (agentic GenAI), San Diego; CMU GenAI & LLM certificate |

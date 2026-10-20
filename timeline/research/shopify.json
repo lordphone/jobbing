@@ -1,15 +1,16 @@
 {
   "company": "Shopify",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no reliable last-cycle new-grad date; tracker generic Remote 'Software Engineer' listings (2025-07-30 onward) not new-grad-specific",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.shopify.com/careers",
+  "jobs_page": "https://www.shopify.com/careers/disciplines/engineering-data",
   "jobs_spec": null,
-  "evidence": "2026-10-08 browser: shopify.com/careers list has no engineering postings at all (corporate/support roles only). Engineering page offers Dev Degree, internships, APM, design apprentice only. Same as 2026-10-07 file; tracker SWE listing from 2025 not found.",
+  "evidence": "Browser 2026-10-20, careers engineering-data Software (12), Applied ML (13), Infrastructure (16) tabs: early career only Dev Degree, 4-month internships (open to recent grads), APM and Design Apprentice. Generic Software Engineers/Frontend/Mobile postings give no level, so no entry signal; rest Senior/Staff/EM. No new-grad SWE track.",
   "confidence": "medium"
 }

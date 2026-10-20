@@ -1,15 +1,16 @@
 {
   "company": "Jefferies",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US new-grad SWE posting tracked in 2025-26",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "unknown; no US entry-level SWE posting found (tracker: Associate Software Developer Fixed Income Tech NYC 2026-06-18, experienced, closed)",
   "jobs_page": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:hdid.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle full board 2026-10-08 (157): no 2027 tech analyst posting. US software roles are Associate (2-3+ yrs, $125-150K) or senior (KDB 7+ yrs, Swaps $175K+); entry-level titles are India/London/Hong Kong only. Not counted.",
-  "confidence": "medium"
+  "evidence": "Oracle full board (160) 2026-10-20, screened US tech postings: Credit eTrading Java (3+ yrs finance), Swaps Platform ($175K-$200K), KDB (7+ yrs), C# AVP are experienced. Entry-titled engineering roles are London, Pune or Hong Kong. No US graduate tech program.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

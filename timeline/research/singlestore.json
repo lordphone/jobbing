@@ -1,7 +1,5 @@
 {
   "company": "SingleStore",
-  "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -59,10 +57,13 @@
   ],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "Tracker first seen 2025-09-19 (Software Engineer, Seattle); 2024 university graduate postings 2024-09-20",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/singlestore",
   "jobs_spec": "gh:singlestore",
-  "evidence": "gh:singlestore full board (45) read 2026-10-08: four US new-grad SWE postings (Engine/Helios) listed via API, first published 2026-09-15 and 2026-09-21. Engine ones say must be legally authorized to work in US; no sponsorship ban, no deadline.",
-  "confidence": "high"
+  "evidence": "gh:singlestore board (45) re-read 2026-10-20: four US new-grad SWE postings (Engine/Helios, SF or Seattle) live via API and detail, first published 2026-09-15 and 2026-09-21. Must be US-authorized; no sponsorship ban, no deadline.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

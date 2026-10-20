@@ -1,29 +1,16 @@
 {
   "company": "Clay",
   "tier": 3,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Early Career Software Engineer",
-      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273",
-      "location": "New York, NY",
-      "opened": "2026-10-01",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2024-10",
   "last_cycle_basis": "tracker history: Software Engineer Early Career (2025) first seen 2024-10-17 (ashby claylabs); none found 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/claylabs",
   "jobs_spec": "ashby:claylabs",
-  "evidence": "Ashby full board (57) 2026-10-08: Early Career Software Engineer (New York), listed, published 2026-10-01; asks recently graduated or graduating CS degree. Other SWE roles senior. No deadline, window or sponsorship line.",
-  "confidence": "high"
+  "evidence": "Ashby 2026-10-20 (60, full): no early-career SWE listed, only a SWE Intern. Early Career SWE (NYC, tracker first seen 2026-10-01, ashby 16778e12) is not on the board and its page shows 'Job not found' in the browser, so closed. Other SWE roles ask 4-8+ yrs; Applied AI and DevEx state no years (unclear).",
+  "confidence": "medium",
+  "dropped": []
 }

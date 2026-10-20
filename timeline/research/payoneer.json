@@ -1,15 +1,16 @@
 {
   "company": "Payoneer",
-  "tier": 5,
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/payoneer",
   "jobs_spec": "gh:payoneer",
-  "evidence": "Greenhouse full board 2026-10-08 (99): no US entry-level engineering role; engineering is Israel/India/China/Poland. Only US eng role is Senior Staff Engineer - Stablecoin (Remote, US); other US roles are GTM, product, tax, treasury.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse API 2026-10-20, 101 postings full: engineering roles are India, China, Israel; only US engineering is Senior Staff Engineer - Stablecoin. No US or Toronto/Vancouver entry-level SWE.",
+  "confidence": "high"
 }

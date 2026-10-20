@@ -1,15 +1,16 @@
 {
   "company": "Hasbro (incl. Wizards of the Coast)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history found.",
+  "last_cycle_basis": "no new-grad SWE history in trackers (history search)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/hasbro",
   "jobs_spec": "gh:hasbro",
-  "evidence": "Greenhouse full board 2026-10-08 (117): US software roles are Senior/Principal/SDE II. Customer Success Engineer (Boston) is a customer-facing 2+ yr LLM-integration role, not entry SWE; Montreal full stack needs 3+ yrs (not Toronto/Vancouver).",
-  "confidence": "medium"
+  "evidence": "Greenhouse gh:hasbro full board (107) 2026-10-20: US software roles are Principal/Senior/SDE II; Customer Success Engineer (Boston) is customer support, asks 2+ yrs software; 2027 Summer IT & Software Internship is an internship. No entry full-time software role.",
+  "confidence": "high"
 }

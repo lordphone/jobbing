@@ -1,15 +1,16 @@
 {
   "company": "Bath & Body Works",
   "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party record of a new-grad SWE posting; only a Summer 2027 Internship Program is listed",
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.bathandbodyworks.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.bathandbodyworks.com browser keyword searches 2026-10-08 (2415 jobs total; engineer 6, software 1, developer 481): only tech title near SWE is Associate Test Automation Developer, which requires '5+ years of software development experience'. Other hits are Manufacturing/Package Engineer I (not software) and Senior Analyst AI & Data. API blocked for scripts; full list not paged.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Browser 2026-10-20, careers keyword searches (software 13, engineer 6, data 29, technology 21): Senior Applications Analyst, Senior Analyst AI & Data Product Delivery, manufacturing/package engineers, R&D PMs. No entry SWE or new-grad tech program.",
+  "confidence": "medium"
 }

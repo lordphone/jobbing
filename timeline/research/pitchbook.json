@@ -1,15 +1,31 @@
 {
   "company": "PitchBook (Morningstar)",
   "tier": 5,
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1",
+      "location": "Chicago, IL; Toronto, ON",
+      "opened": "2026-10-16",
+      "date_source": "workday startDate; tracker first seen 2026-10-15",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Associate title; requires BS in CS and one OO language, no years stated; builds MCP server / AI agent services",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": "2025-12-19",
   "last_cycle_basis": "Tracker history: Associate Machine Learning Engineer (NYC, Seattle) first seen 2025-12-19; Morningstar Associate Software Engineer Chicago 2025-12-01",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/pitchbookdata",
-  "jobs_spec": "gh:pitchbookdata",
-  "evidence": "Greenhouse full board 2026-10-08 (20): ML Engineer (Seattle, $125-180K, 2+ yrs, guides junior engineers) is mid-level; others Sr/Lead/Staff. Morningstar Workday (parent, 191 + 29): no entry SWE; Development Program Quant Track (Chicago, Jan 2027) is quant, not SWE. Last cycle's associate roles not reposted.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "jobs_page": "https://morningstar.wd5.myworkdayjobs.com/morningstar",
+  "jobs_spec": "wd:morningstar/wd5/morningstar",
+  "jobs_spec_basis": "PitchBook is a Morningstar company; entry SWE roles post on Morningstar Workday. PitchBook's own gh:pitchbookdata board (23) has none.",
+  "evidence": "Morningstar Workday full board 2026-10-20 (181): Chicago/Toronto Associate Software Engineer REQ-058508-1 page says 'The page you are looking for doesn't exist'. Only Mumbai ASE remains. PitchBook gh board ML Engineer (Seattle, 2+ yrs, guides junior engineers) left out.",
+  "confidence": "high"
 }

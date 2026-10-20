@@ -1,15 +1,16 @@
 {
   "company": "JetBlue Airways",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No new-grad SWE posting in tracker history; only Analyst/Associate Analyst business-track roles.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.jetblue.com",
   "jobs_spec": null,
-  "evidence": "careers.jetblue.com (SuccessFactors) all 61 jobs paged 2026-10-08: tech roles are Lead Engineer Full Stack, Managers, Senior Analysts, Architect; Junior Analyst Cloud Eng Compliance (Paisly) is compliance, not SWE. No entry SWE.",
-  "confidence": "high"
+  "evidence": "careers.jetblue.com paged all 57 postings 2026-10-20: tech roles are Senior Analyst IT/Infrastructure, aviation engineers; no software entry role or tech new-grad program.",
+  "confidence": "medium"
 }

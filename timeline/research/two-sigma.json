@@ -1,12 +1,12 @@
 {
   "company": "Two Sigma",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineering Full-Time Campus Hire (NYC)",
-      "url": "https://careers.twosigma.com/careers/JobDetail/14014",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014",
       "location": "New York, NY",
       "opened": "on or before 2026-09-08",
       "date_source": "tracker first seen",
@@ -19,7 +19,7 @@
     },
     {
       "title": "Software Engineering Full-Time Campus Hire (Houston)",
-      "url": "https://careers.twosigma.com/careers/JobDetail/14018",
+      "url": "https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018",
       "location": "Houston, TX",
       "opened": "on or before 2026-09-08",
       "date_source": "tracker first seen",
@@ -31,12 +31,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no Two Sigma SWE campus posting 2025-07 to 2026-01 (only 2024-09-12 quant posting)",
+  "last_cycle_basis": "jobs.py history: only 2024-09-12 New Grad Quant Researcher and 2026 postings; no SWE posting 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.twosigma.com/careers/InternshipsAndEarlyCareers",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: Internships & Early Careers list (9 roles) has two SWE Full-Time Campus Hire postings, both pages show Apply; bachelor's/master's/PhD, no citizenship, sponsorship or deadline text. Quant/AI/Data roles are not SWE.",
+  "evidence": "2026-10-20 browser: SWE Full-Time Campus Hire pages for NYC (14014) and Houston (14018) show Apply, Early Careers level, bachelor/master/PhD. No citizenship, sponsorship or deadline text. Quant/AI/Data roles not SWE.",
   "confidence": "high"
 }

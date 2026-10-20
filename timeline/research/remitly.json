@@ -1,21 +1,21 @@
 {
   "company": "Remitly",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "no_sponsorship": false,
+      "level_basis": "posting says 'AI Native Software Engineer I'; no years required; $124,000-$155,000",
       "title": "AI Native Software Engineer",
       "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
       "location": "Seattle, WA",
       "opened": "2026-09-24",
       "date_source": "tracker first seen (Workday startDate 2026-09-25)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "posting text: 'As a AI Native Software Engineer I'; no years required; $124,000-$155,000",
-      "no_sponsorship": false
+      "level": "unlabeled"
     }
   ],
   "last_cycle_opened": "2026-04-24",
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "jobs_spec": "wd:remitly/wd5/Remitly_Careers",
-  "evidence": "Workday CXS 2026-10-08 (157, full): 'AI Native Software Engineer I' Seattle is live (canApply), no years asked, level I. Older 'AI Native Software Engineer' (Seattle/Arlington, 2026-04) is senior-style and not counted. Other eng roles Burnaby/senior.",
-  "confidence": "medium"
+  "evidence": "wd:remitly full board (158) 2026-10-20: AI Native Software Engineer I (Seattle, $124-155K, posting says 'I', no years) live. Seattle SDE (posted 10-19) needs Master's+2 yrs at higher pay, level unclear, not counted. Same as earlier run.",
+  "confidence": "high",
+  "dropped": []
 }

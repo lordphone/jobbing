@@ -1,16 +1,17 @@
 {
  "company": "Align Technology",
+ "tier": 5,
+ "checked": "2026-10-20",
  "status": "no_program_found",
+ "postings": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history; no last-cycle posting found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://jobs.aligntech.com/search-job",
  "jobs_spec": "pinpoint:jobs-aligntech",
- "jobs_spec_basis": "jobs.aligntech.com careers page links to jobs-aligntech.pinpointhq.com; full board of 214 listed",
- "evidence": "Pinpoint postings.json read in full (214) 2026-10-08: software roles are in India, Austria, Armenia, Germany. Only US/Canada SWE is Embedded Software Engineer (San Jose), 5+ yrs, firmware lead.",
+ "jobs_spec_basis": "jobs.aligntech.com careers page links to jobs-aligntech.pinpointhq.com; full board of 215 listed",
+ "evidence": "Pinpoint board read in full (216) 2026-10-20: software roles are in India, Austria, Germany, Spain (Jr. Software Engineer). Only US SWE is Embedded Software Engineer (San Jose), firmware, left out; US/Canada rest is sales, legal, finance.",
  "confidence": "high",
- "postings": [],
- "tier": 5,
- "checked": "2026-10-08",
- "excluded_reason": null,
- "no_sponsorship": false
+ "dropped": []
 }

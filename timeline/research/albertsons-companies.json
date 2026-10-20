@@ -1,15 +1,16 @@
 {
   "company": "Albertsons Companies",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker 'Albertsons' hits are retail 'Entry Level Front End' store roles (2026-05/06), not software program",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
   "jobs_spec": "oracle:eofd.fa.us6.oraclecloud.com/CX_1001",
-  "evidence": "Oracle board searched (4058 of 8363) 2026-10-08: no entry software roles; tech hits are Sr. Staff Engineer AI Incubation and Senior Director Data Engineering. 'Front End Entry Level' (incl. 'Entry Level Front End Engineer' in history) are store front-end/cashier jobs. Unchanged.",
-  "confidence": "high"
+  "evidence": "Oracle board 2026-10-20 (4133 listed of 8377, searched via new-grad and role keywords): no software or developer titles; only plant or maintenance engineers and retail 'Front End Entry Level' store roles. Search not exhaustive.",
+  "confidence": "medium"
 }

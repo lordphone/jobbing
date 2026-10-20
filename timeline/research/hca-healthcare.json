@@ -1,29 +1,16 @@
 {
   "company": "HCA Healthcare",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Application Developer ServiceNow",
-      "url": "https://careers.hcahealthcare.com/jobs/18307670-associate-application-developer-servicenow",
-      "location": "Nashville, TN (work from home)",
-      "opened": "2026-10-02",
-      "date_source": "page text (JSON-LD datePosted), earlier check",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Associate title; 'Less than one year's experience'; ServiceNow System Administrator cert required",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "not found; no dated HCA entry-level SWE posting from Jul 2025 - Jan 2026",
   "jobs_page": "https://careers.hcahealthcare.com/search/jobs?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: ServiceNow associate developer page loads with Apply (CereCore, <1 yr, needs ServiceNow admin cert; borderline). Searches software engineer / new grad developer: other tech roles Senior/Consulting or 5 yrs (Application Developer 5 yrs). Search is fuzzy, so coverage partial.",
+  "evidence": "Careers site loaded in browser 2026-10-20 (searches: software engineer, associate software engineer, application developer, new graduate technology, software engineer I). IT roles are Senior, Consulting, Staff, Principal or II; Application Developer asks 5 yrs. No entry-level SWE found. No API, not fully enumerated.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "tier": 5,
+  "checked": "2026-10-20",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

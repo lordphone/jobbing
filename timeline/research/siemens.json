@@ -1,7 +1,7 @@
 {
   "company": "Siemens",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524948",
       "location": "Burlington, MA",
       "opened": "2026-10-06",
-      "date_source": "page text (Posted since 06-Oct-2026)",
+      "date_source": "page text (Posted since 15-Oct-2026, a repost date); earlier file had 06-Oct-2026, kept",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -37,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: ~10 keyword searches on jobs.siemens.com (72 unique results, 999+ total, not exhaustive); both postings show Apply. Other US software roles are Mid-level/Experienced (3+ yrs). Burlington posting has ITAR/EAR note (US Person or export license), not a hard exclusion.",
-  "confidence": "low"
+  "evidence": "Siemens pages opened 2026-10-20: 524948 (Early Professional, 0-3 yrs C++, ITAR/EAR contingency on US Person status or export license, not a hard exclusion) and 507651 (Early Professional, bachelor+2 yrs or grad degree) both show Apply. Other US software roles seen are Mid or Experienced. No API.",
+  "confidence": "medium",
+  "dropped": []
 }

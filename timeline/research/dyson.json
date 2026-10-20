@@ -1,15 +1,16 @@
 {
   "company": "Dyson",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; US early-careers page https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states lists no software track",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.dyson.com/en-gb/search-results/?countries=1440",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08 careers.dyson.com: all 35 US postings read (service techs, retail, finance, supply chain, one Principal compliance engineer, Reliability Engineer); global 'software' search (47) has only Senior/Lead roles in China/Singapore/Malaysia/UK/India/Poland. Graduate programs are UK/Singapore. No US or Canada entry SWE. Unchanged.",
+  "evidence": "Browser pane 2026-10-20: careers.dyson.com US list, all 25 postings paged: service technicians, retail, sales, finance, compliance and reliability engineers; no software roles. US early-careers page names no software track.",
   "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "SiriusXM",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
@@ -10,6 +10,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.siriusxm.com/careers/jobs?categories=Engineering",
   "jobs_spec": null,
-  "evidence": "careers.siriusxm.com Jibe API 2026-10-07 (65 jobs): US engineering roles all Senior/Staff/Principal; Bucharest/Dublin roles non-US. No entry-level or new-grad SWE.",
-  "confidence": "high"
+  "evidence": "careers.siriusxm.com Jibe API 2026-10-20 (18 engineering jobs): all Staff/Senior/Principal or Bucharest/Dublin. No entry SWE.",
+  "confidence": "high",
+  "dropped": [],
+  "jobs_spec_basis": "careers.siriusxm.com Jibe API (/api/jobs) lists all 55 jobs; no jobs.py spec"
 }

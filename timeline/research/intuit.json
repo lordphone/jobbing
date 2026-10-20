@@ -1,42 +1,43 @@
 {
-  "company": "Intuit",
-  "tier": 3,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer 1",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-      "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
-      "opened": "unknown (evergreen general posting)",
-      "date_source": "page text",
-      "grad_window": null,
-      "live_verified": "no",
-      "deadline": null,
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer 1, Canada Tax Content",
-      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-18",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "unlabeled",
-      "level_basis": "Software Developer 1; '1-2 years developing software' (coursework/internships count); 'a recent graduate may qualify'",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-17",
-  "last_cycle_basis": "worklist tracker_last_cycle: 2025-10-17",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.intuit.com",
-  "jobs_spec": null,
-  "evidence": "WebFetch 2026-10-08 (page text, Apply Now present, no closed text): Software Engineer 1 (<2 yrs industry exp, 5 US locations), evergreen, no date/sponsorship text. Toronto Software Developer 1 Canada Tax Content: recent grad may qualify. Intuit search has 169 'software engineer 1' hits, rest senior/staff. Fetched, not browser-rendered.",
-  "confidence": "medium"
+ "company": "Intuit",
+ "tier": 3,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer 1",
+   "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+   "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
+   "opened": "2025-08-14",
+   "date_source": "tracker first seen (evergreen New College Grad posting; current link datePosted 2026-10-15)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Developer 1, Canada Tax Content",
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+   "location": "Toronto, ON, Canada",
+   "opened": "2026-09-18",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Software Developer 1; entry-level role; '1-2 years' C#/C++/Java; recent graduates also considered",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-08-15",
+ "last_cycle_basis": "tracker: Software Engineer 1 (Mountain View) first seen 2025-08-15; many SWE1 postings Oct 2025-Jan 2026",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.intuit.com",
+ "jobs_spec": null,
+ "evidence": "Browser 2026-10-20: Software Engineer 1 (category New College Grad; degree within 12 months; MV/Atlanta/Charlotte/NYC/San Diego; datePosted 2026-10-15) and Toronto Software Developer 1 (posted 2026-09-18) both show Apply Now. New College Grad search lists only these two SWE roles plus Summer 2027 interns. No sponsorship text. No listing API.",
+ "confidence": "high"
 }

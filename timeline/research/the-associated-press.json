@@ -1,15 +1,16 @@
 {
   "company": "The Associated Press (AP)",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad SWE posting found in tracker history",
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.ap.org/search/",
   "jobs_spec": null,
-  "evidence": "careers.ap.org search read in browser 2026-10-08: whole board lists 5 jobs (Consumer Product Strategist, Director Newsroom Communications, Technical Support Specialist Rome, Production Coordinator London, Research Product Manager). No software roles.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.ap.org browser 2026-10-20: all 8 jobs read (video producers, research product manager, election stringer, vote entry, junior HR partner, consumer product strategist, production coordinator). No engineering roles.",
+  "confidence": "high"
 }

@@ -1,15 +1,30 @@
 {
   "company": "Skydio",
   "tier": 3,
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Autonomy Software Engineer",
+      "url": "https://jobs.ashbyhq.com/skydio/a48fe41b-030b-4f11-bf25-df7446151854",
+      "location": "San Mateo, CA",
+      "opened": "2025-12-15",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1+ years of experience writing production level code for autonomous robots'; no lead/mentor duties",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no tracker postings",
+  "last_cycle_basis": "No tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/skydio",
   "jobs_spec": "ashby:skydio",
-  "evidence": "Ashby full board 2026-10-08 (153) screened: entry-level only Summer 2027 interns. US SWE/autonomy roles are Senior/Staff or 3+ yrs; no-years roles pay $170K+ (experienced). Autonomy SWE 1+ yrs owns capabilities end-to-end ($147-210K), left out.",
+  "evidence": "Ashby full board 2026-10-20 (157) screened: Autonomy SWE (1+ yr, no senior duties, no restriction text) still live since 2025-12-15, counted unlabeled. Other US SWE ask 3+ yrs or state none; Embedded/Wireless SWE are firmware; SRE has US-person text; Product Design Early Career is mechanical.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "dropped": []
 }

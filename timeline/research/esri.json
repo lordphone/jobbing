@@ -39,7 +39,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "requires 1+ yrs supporting commercial software dev; QA-leaning duties (borderline)",
       "no_sponsorship": false
     },
     {
@@ -164,9 +164,10 @@
   "last_cycle_basis": "Tracker history: Software Development Engineer I, St. Louis MO, first seen 2025-07-25.",
   "jobs_page": "https://job-boards.greenhouse.io/esri",
   "jobs_spec": "gh:esri",
-  "evidence": "Greenhouse API 2026-10-08 (full) and posting text read. Counted I roles (1+ yrs) and 9 Application Developer - JavaScript (2+ yrs, no sponsorship). Excluded SDE I St. Louis (citizenship+clearance), Product Engineer I Sharing (test automation), Zurich SWE I (non-US).",
+  "evidence": "Greenhouse API 2026-10-20 (495, full), postings re-read. Kept I roles (1+ yrs) and 9 Application Developer - JavaScript (2+ yrs, no sponsorship). Excluded: SDE I St. Louis (US citizenship and clearance), Product Engineer I Sharing (test automation), TS/SCI roles, SDE San Antonio (2 yrs, C++).",
   "confidence": "medium",
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

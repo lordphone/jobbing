@@ -1,0 +1,31 @@
+{
+  "company": "Rivian",
+  "tier": 3,
+  "checked": "2026-10-19",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/34249",
+      "location": "Palo Alto, CA",
+      "opened": "2026-10-19",
+      "date_source": "rivian careers API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "requires '1+ Years of experience in software development'; $97,700-$129,420 (low band); no lead/mentor duties",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-12-03",
+  "last_cycle_basis": "tracker first seen: Software Engineer - Engineering Productivity - Infotainment Platform, Palo Alto (careers.rivian.com/jobs/27934)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.rivian.com/careers-home/jobs",
+  "jobs_spec": null,
+  "jobs_spec_basis": "main board has no jobs.py spec; careers.rivian.com/api/jobs read in full (946); Rivian-VW JV roles on ashby:rivianvw.tech (144)",
+  "evidence": "Rivian careers API 2026-10-19 (950) and JV Ashby (142) read. New 'Software Engineer' (EV charging, Palo Alto, req 34249) posted today, page opens, 1+ yrs, low pay band, counted unlabeled. Earlier Enterprise Software req 30795 gone. SWE II, JV roles (3+ yrs), Cloud Ops, AppSec (2+ yrs security) not counted; others Staff/Senior or interns.",
+  "confidence": "medium",
+  "dropped": []
+}

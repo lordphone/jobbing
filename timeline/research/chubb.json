@@ -1,7 +1,7 @@
 {
   "company": "Chubb",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864",
       "location": "Philadelphia, PA; Jersey City, NJ",
       "opened": "2026-09-18",
-      "date_source": "oracle posted date",
+      "date_source": "oracle posted",
       "deadline": null,
       "grad_window": "June 2027 start",
       "live_verified": "api",
@@ -18,12 +18,13 @@
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-26",
-  "last_cycle_basis": "tracker first-seen date: Technology Associate, Philadelphia PA / NYC",
+  "last_cycle_basis": "tracker first-seen: Technology Associate, Philadelphia PA / NYC",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001",
-  "evidence": "Oracle CX_2001 full board 2026-10-08 (733) read fresh + detail: Technology Associate - June 2027 (TAP software/data/cyber tracks), Philadelphia/Jersey City, posted 2026-09-18, no end date; 'Sponsorship, now or in the future, is not available'. Programmer Analyst unclear/mid-level; Junior Automated Test Engineer is test; Toronto AI Engineer 2-5 yrs.",
+  "evidence": "Oracle board (726 listed, full) and posting API: Technology Associate Program, entry-level Software Engineer track, live. Posting says sponsorship is not available. Associate Developer (Stamford) needs 3-5 years, not counted.",
   "confidence": "high"
 }

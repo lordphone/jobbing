@@ -1,16 +1,17 @@
 {
   "company": "DreamWorks Animation",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-04-09",
   "last_cycle_basis": "Tracker: DreamWorks Technology Software Engineer I (Glendale) released 2026-04-09, now inactive",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.nbcunicareers.com/find-a-job?keyword=software+engineer",
   "jobs_spec": "sr:NBCUniversal3",
-  "jobs_spec_basis": "board lists DreamWorks-titled postings (DreamWorks Technology, DreamWorks Animation interns) under NBCUniversal3; NBCU owns DreamWorks.",
-  "evidence": "sr:NBCUniversal3 (454, full) 2026-10-08: DreamWorks postings are Spring 2027 interns (not counted) and Principal Engineer, AI. No entry SWE live. DreamWorks Technology Software Engineer I appeared 2026-04-09 and is gone.",
-  "confidence": "low"
+  "evidence": "sr:NBCUniversal3 full (427) 2026-10-20: DreamWorks postings are a Principal Engineer, AI and non-SWE roles. No entry SWE now; last cycle Software Engineer I (Glendale) released 2026-04-09, now gone.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Board lists DreamWorks Technology postings under NBCUniversal SmartRecruiters; careers page 403 to fetch, so link not seen"
 }

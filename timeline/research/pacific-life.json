@@ -1,7 +1,7 @@
 {
   "company": "Pacific Life",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,16 +14,17 @@
       "grad_window": "first rotation starts July 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "18-month Technology Rotation Program, CS/IS/engineering degree preferred; IT rotation, not SWE-specific",
+      "level_basis": "18-month Technology Rotation Program (three 6-month assignments on technology teams); CS/IS/engineering degree preferred; IT rotation, not SWE-specific",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no matching SWE new-grad posting for this company",
+  "last_cycle_basis": "no tracker history or dated university page found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
   "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
-  "evidence": "Workday board 2026-10-08 (117, full) + posting text: Technology Rotation Program Associate (July 2027 start, posted 2026-09-25, canApply true) live; borderline SWE (IT rotation, CS degree preferred, no sponsorship text). Other engineers are security/Appian/senior; software internships Summer 2027 only.",
+  "evidence": "Workday full board (129) + CXS detail 2026-10-20: Technology Rotation Program Associate live (startDate 2026-09-25, canApply, no end date). Borderline SWE rotation, kept as an earlier run counted it. Other engineers are IAM/security/Appian.",
   "confidence": "medium"
 }

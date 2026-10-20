@@ -1,29 +1,16 @@
 {
   "company": "Southern Company",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Application Developer I (Integrations)",
-      "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
-      "location": "Atlanta, GA; Naperville, IL",
-      "opened": "2026-09-30",
-      "date_source": "oracle posted start date",
-      "deadline": "2026-10-14",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Developer I; requires Associates degree or vocational training, works 'with supervision'",
-      "no_sponsorship": false
-    }
-  ],
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "jobs.py history: Data Analytics Analyst - Load Research (Atlanta), first seen 2025-11-13, closest analyst-track new-grad posting; Oracle Application Developer 1 also seen 2026-04-03",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
   "jobs_spec": "oracle:emje.fa.us6.oraclecloud.com/CX_1001",
-  "evidence": "Oracle CX_1001 full board (100) 2026-10-08: Application Developer I (Integrations) live, posted 2026-09-30, API end 2026-10-15 03:55 UTC (Oct 14 US); entry duties, associate degree, Atlanta GA and Naperville IL. BI Developer is analytics; Forecast-to-Report developer needs 5+ yrs; Data Scientist (all levels) is data science.",
-  "confidence": "high",
-  "checked": "2026-10-08",
-  "tier": 5,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Oracle CX_1001 full board (90) 2026-10-20: Application Developer 1 - Integrations (req 21843, first seen 2026-09-30) not on board. Developer II is SME-level, .NET 5+ yrs, ERP 7-10 yrs; Databricks Data Engineer text unreadable, not counted.",
+  "confidence": "medium"
 }

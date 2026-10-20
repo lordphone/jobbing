@@ -296,6 +296,10 @@ def screen(target):
               f'(pass URLs to screen others)')
     with cf.ThreadPoolExecutor(8) as ex:
         for j, p in zip(picks, ex.map(lambda j: posting(j[3]), picks)):
+            if p == 'closed':
+                print(f'- {j[0]} | {j[1]} | {j[3]}')
+                print('    (CLOSED: the board marks it as no longer taking applications)')
+                continue
             if isinstance(p, dict):
                 print(f"- {p['title']} | {'; '.join(p['locations'])[:120]} | {j[3]}")
             else:
@@ -340,10 +344,12 @@ def workday(tenant, sites):
 
 
 def posting(url):
-    """One posting via its job-board API: dict(title, text, dates, locations); 'missing' if the board answered
-    without it; 'failed' if the lookup itself failed (says nothing about open/closed); 'noapi' if unsupported."""
+    """One posting via its job-board API: dict(title, text, dates, locations); 'closed' if the board returned it
+    marked as no longer taking applications (SmartRecruiters active=false, Workday canApply/posted false); 'missing'
+    if the board answered without it; 'failed' if the lookup itself failed (says nothing about open/closed); 'noapi'
+    if unsupported."""
     u = urllib.parse.urlparse(url)
-    t, title, dates, locs, resp = '', '', '', [], {}
+    t, title, dates, locs, resp, closed = '', '', '', [], {}, False
     m = re.search(r'greenhouse\.io/(?:embed/job_app\?for=)?([\w-]+)/jobs/(\d+)', url) or \
         (re.search(r'gh_jid=(\d+)', url) and None)
     if m:
@@ -361,6 +367,7 @@ def posting(url):
         resp = get(f'https://{u.netloc}/wday/cxs/{tenant}/{site}/{path}')
         j = (resp or {}).get('jobPostingInfo', {})
         title, t = j.get('title', ''), text(j.get('jobDescription'))
+        closed = j.get('canApply') is False or j.get('posted') is False
         dates = f"postedOn={j.get('postedOn')} startDate={j.get('startDate')} endDate={j.get('endDate')} timeType={j.get('timeType')}"
         locs = [j.get('location', '')] + list(j.get('additionalLocations') or [])
     elif 'lever.co' in u.netloc:
@@ -388,6 +395,7 @@ def posting(url):
         j = resp = get(f'https://api.smartrecruiters.com/v1/companies/{cid}/postings/{jid}')
         j = j or {}
         title = j.get('name', '')
+        closed = j.get('active') is False
         t = text(' '.join(s.get('text', '') for s in ((j.get('jobAd') or {}).get('sections') or {}).values()))
         dates = f"releasedDate={j.get('releasedDate')}"
         lo = j.get('location') or {}
@@ -409,6 +417,8 @@ def posting(url):
         return 'noapi'
     if not title:
         return 'failed' if resp is None else 'missing'
+    if closed:
+        return 'closed'
     return {'title': title, 'text': t, 'dates': dates, 'locations': list(dict.fromkeys(x.strip() for x in locs if x and x.strip()))}
 
 
@@ -420,6 +430,10 @@ def detail(url):
     if p == 'failed':
         print('LOOKUP FAILED (network error, timeout, rate limit or blocked). This says nothing about whether the '
               'posting is open: retry, or open it in the browser pane.')
+        return
+    if p == 'closed':
+        print('CLOSED: the job board returned this posting marked as no longer taking applications '
+              '(SmartRecruiters active=false or Workday canApply=false). That is gone, per Closed means.')
         return
     if p == 'missing':
         print('NOT ON THE BOARD: the job board answered but did not return this posting. It may be closed or just '

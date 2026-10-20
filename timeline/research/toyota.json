@@ -1,29 +1,30 @@
 {
   "company": "Toyota",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Data Platform Engineer",
-      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/Data-Platform-Engineer_10336396",
-      "location": "Plano, TX (listed as Plano North)",
-      "opened": "2026-09-30",
+      "title": "AI/ML Platform Engineer",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/AI-ML-Platform-Engineer_10337203",
+      "location": "Plano, TX",
+      "opened": "2026-10-01",
       "date_source": "workday startDate",
-      "deadline": "2026-10-16",
+      "deadline": "2026-11-09",
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires \"2+ years of experience in software engineering, data engineering, or platform engineering\"; duties: build/support platform components, code reviews; no senior level",
+      "level_basis": "This is an early-career software engineering role for candidates with 1-3 years of professional experience",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-22",
-  "last_cycle_basis": "tracker first seen: 'Machine Learning Engineer - Entry Level', Plano TX (jobs.py history)",
+  "last_cycle_basis": "tracker first seen: Machine Learning Engineer – Entry Level, Plano TX (jobs.py history)",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://toyota.wd503.myworkdayjobs.com/tmna",
   "jobs_spec": "wd:toyota/wd503/tmna",
-  "evidence": "Workday (127, full) 2026-10-08: Data Platform Engineer (TFS, Plano) canApply true, endDate 2026-10-16, no sponsorship for this role. Other SWE/SRE: 3-5+ yrs, Senior or Lead. Earlier AI/ML Platform Engineer (Early Career) no longer on board.",
+  "evidence": "Workday board 2026-10-20 (114, full) screened. AI/ML Platform Engineer (Plano) live via API, early-career 1-3 yrs, ends 2026-11-09, no sponsorship now or in future. Georgetown AI/ML Engineer needs 3-5+ yrs. Other software roles senior or lead.",
   "confidence": "medium"
 }

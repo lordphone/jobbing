@@ -1,0 +1,82 @@
+{
+  "company": "Audible",
+  "tier": 4,
+  "checked": "2026-10-19",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer, Early Career",
+      "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
+      "location": "Cambridge, MA",
+      "opened": "2026-09-04",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Basic quals: currently enrolled in or completed a bachelor's or graduate degree",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, Consumer Domains",
+      "url": "https://www.amazon.jobs/en/jobs/10560727/software-development-engineer-consumer-domains",
+      "location": "Newark, NJ",
+      "opened": "2026-09-25",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years; $121,600-$180,600; no lead or architecture duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10539152/software-development-engineer",
+      "location": "Newark, NJ",
+      "opened": "2026-09-14",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "no years required, bachelor's in CS; internship experience preferred",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10566605/software-development-engineer",
+      "location": "Newark, NJ",
+      "opened": "2026-10-01",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years; $121,600-$180,600",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, Audible AI Voice Production",
+      "url": "https://www.amazon.jobs/en/jobs/10580035/software-development-engineer-audible-ai-voice-production",
+      "location": "Cambridge, MA",
+      "opened": "2026-10-15",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years non-internship experience; duties for moderate-scale problems, no lead or architecture",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "prior hint: a Newark NJ early-career SWE existed last cycle but its page was 404; no tracker confirmation, so unknown.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
+  "jobs_spec": "amazon:",
+  "evidence": "amazon.jobs search json 2026-10-19: SDE Early Career (Cambridge) plus four unlabeled SDE roles with 0-1+ years basic quals, all listed live. Excluded: FinTech SDE and new iOS SDE (own key components, mentoring), Creator Marketplace (3+ years), II/Senior.",
+  "confidence": "high"
+}

@@ -1,29 +1,30 @@
 {
   "company": "United Airlines",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Software Developer",
-      "url": "https://careers.united.com/us/en/job/HSC00001080/Associate-Software-Developer",
-      "location": "Houston, TX",
-      "opened": "2026-09-14",
+      "title": "Software Developer - Customer Care Technology",
+      "url": "https://careers.united.com/us/en/job/WHQ00026870",
+      "location": "Chicago, IL",
+      "opened": "2026-09-30",
       "date_source": "phenom postedDate",
-      "deadline": "2026-10-14",
+      "deadline": "2026-11-23",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Associate title; minimum quals: Bachelor's + 1+ year experience; $73,150-$95,224",
+      "level_basis": "minimum quals: bachelor's and 2+ years software development; supports senior developers, no lead duties (borderline mid-level: 'self-sufficient, little supervision')",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows only 2026 analyst roles and Developer - IT Front End (Houston, 2026-07-23, closed); United runs an Early Career Digital Leadership Program (ECDLP) for tech",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.united.com/us/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom search + page 2026-10-08: Associate Software Developer reqStatus Open, Apply Now button present, postingEndDate 2026-10-14; \"legally authorized to work in the US without sponsorship\". Developer - IT and Software Developer - Customer Care need 2+ yrs or ECDLP, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5
+  "evidence": "Phenom search API 2026-10-20 (133 jobs, all read): Software Developer - Customer Care Technology (Chicago) still listed; 2+ yrs, no-sponsorship line, borderline mid-level. Other tech roles India, senior or non-SWE. Deadline 11-23 carried from earlier run.",
+  "confidence": "low"
 }

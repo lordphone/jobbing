@@ -1,29 +1,43 @@
 {
-  "company": "Cargill",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer Associate - Technology Development Program 2027, Atlanta, GA",
-      "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-associate-technology-development-program-2027-atlanta-ga/23251/99050313792",
-      "location": "Atlanta, GA",
-      "opened": "2026-09-17",
-      "date_source": "page text (date posted)",
-      "deadline": null,
-      "grad_window": "Page text says Dec 2025 - Summer 2026, start June 2026 (conflicts with 2027 title and 2026-09-17 posting date; likely stale copy)",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2024-08",
-  "last_cycle_basis": "tracker: 'New Grad 2025: Associate Software Engineer', Atlanta GA, first seen 2024-08-10 (https://careers.cargill.com/en/job/-/-/23251/68562401376)",
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.cargill.com/en/search-jobs/software%20engineer",
-  "jobs_spec": null,
-  "evidence": "2026-10-08 posting page (Job ID 330657) fetched: Apply Now present, posted 2026-09-17, '2027' in title but stale Dec 2025-Summer 2026 grad text; requires right to work not based solely on student or third-party-sponsored visa. Searches (software engineer, TDP, associate software engineer) show it as the only US entry SWE; Summer 2027 intern separate.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null
+ "company": "Cargill",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer Associate - Technology Development Program 2027, Atlanta, GA",
+   "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-associate-technology-development-program-2027-atlanta-ga/23251/99050313792",
+   "location": "Atlanta, GA",
+   "opened": "2026-09-17",
+   "date_source": "page text (date posted)",
+   "deadline": null,
+   "grad_window": "Page text says Dec 2025 - Summer 2026, start June 2026 (conflicts with 2027 title and 2026-09-17 posting date; likely stale copy)",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Cloud Platform Engineer",
+   "url": "https://careers.cargill.com/en/job/atlanta/cloud-platform-engineer/23251/100730641632",
+   "location": "Atlanta, GA; Dalton, GA; Gainesville, GA; Newnan, GA; Valdosta, GA; Albany, GA; Flowery Branch, GA",
+   "opened": "2026-09-16",
+   "date_source": "page text (date posted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Minimum requirement of 2 years of relevant work experience; moderately complex duties, no lead/mentor/architecture ownership",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2024-08-10",
+ "last_cycle_basis": "tracker: 'New Grad 2025: Associate Software Engineer', Atlanta GA, first seen 2024-08-10 (https://careers.cargill.com/en/job/-/-/23251/68562401376)",
+ "no_sponsorship": true,
+ "jobs_page": "https://careers.cargill.com/en/search-jobs/software%20engineer",
+ "jobs_spec": null,
+ "evidence": "Both posting pages fetched 2026-10-20 still live with Apply Now: TDP Software Engineer Associate (Atlanta, 2027 in title, posted 2026-09-17) and Cloud Platform Engineer (2 yrs min, posted 2026-09-16, will not sponsor visas). Search listing is JS-driven, so full board scan not repeated; earlier crawl found other software roles senior/Bengaluru.",
+ "confidence": "medium",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "excluded_reason": null,
+ "dropped": []
 }

@@ -1,16 +1,17 @@
 {
   "company": "CommonSpirit Health",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
+  "last_cycle_basis": "unknown; no tracker history for CommonSpirit software roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.commonspirit.careers/search-jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "commonspirit.careers is TalentBrew; /search-jobs/results parseable; Apply links go to careers-commonspirit.icims.com",
-  "evidence": "Browser 2026-10-08, commonspirit.careers searches (software engineer, developer, associate software, programmer, new graduate IT): only IT Principal/Sr Software Engineer, Epic application analysts, integration engineers, architects; no entry-level SWE or new-grad program.",
-  "confidence": "medium"
+  "evidence": "commonspirit.careers searches 2026-10-20 (software engineer, developer, data engineer, ML, new grad): IT roles are Principal software engineer and Epic integration engineers; IT Integration Engineer asks 4-5 yrs. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "jobs_spec_basis": "careers site is TalentBrew; /search-jobs/results endpoint returns the full result HTML",
+  "dropped": []
 }

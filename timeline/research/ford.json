@@ -1,15 +1,30 @@
 {
-  "company": "Ford",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2025-11-26",
-  "last_cycle_basis": "tracker first-seen date for '2026 Ford Undergraduate Program - Tech & Data Automation' (job 55690)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-  "jobs_spec": "oracle:efds.fa.em5.oraclecloud.com/CX_1",
-  "evidence": "Oracle API full board (897) 2026-10-08, US/Canada software postings screened: none undergraduate/early-career/new-grad; SWE roles ask 2-8+ yrs (Full Stack AI Apps 2+ yrs but $85-232K mid-level range; In-Vehicle Network Dev 2+ yrs embedded, no sponsorship). Last cycle's Undergraduate Program posted 2025-11-26; expect ~late Nov.",
-  "confidence": "medium"
+ "company": "Ford",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Full Stack Software Engineer",
+   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72609",
+   "location": "Dearborn, MI",
+   "opened": "2026-10-09",
+   "date_source": "oracle posting date (requisition API)",
+   "deadline": "2026-11-27",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Posting seeks an 'early- to mid-career' engineer: '1 to 4 years of professional software engineering experience. Strong internships or co-ops count.'",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2025-11-26",
+ "last_cycle_basis": "tracker first-seen date for '2026 Ford Undergraduate Program - Tech & Data Automation' (job 55690)",
+ "jobs_page": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+ "jobs_spec": "oracle:efds.fa.em5.oraclecloud.com/CX_1",
+ "evidence": "Oracle full board 2026-10-20 (868) re-screened: no labeled new-grad SWE (Early Career Program roles in Long Beach are Mechanical/Hardware and Supply Chain). Counted borderline Dearborn Full Stack SWE 72609 (early- to mid-career, 1-4 yrs, closes 2026-11-27, no visa sponsorship), live via API. Others need 2-8+ yrs or own architecture/lead.",
+ "confidence": "medium",
+ "checked": "2026-10-20",
+ "dropped": [],
+ "no_sponsorship": false,
+ "excluded_reason": null
 }

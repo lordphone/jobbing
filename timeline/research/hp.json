@@ -1,12 +1,12 @@
 {
   "company": "HP",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Software Development Graduate Roles",
-      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
       "location": "Spring, TX; Corvallis, OR; Vancouver, WA; Palo Alto, CA",
       "opened": "2026-09-18",
       "date_source": "workday startDate",
@@ -18,21 +18,8 @@
       "no_sponsorship": true
     },
     {
-      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
-      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3168009",
-      "location": "Fort Collins, CO; Spring, TX; Austin, TX",
-      "opened": "on or before 2026-08-25",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": "2026 and 2027 pipeline",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
       "title": "Software Product Security Engineer",
-      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745-1",
       "location": "Spring, TX",
       "opened": "2026-08-24",
       "date_source": "tracker first seen",
@@ -40,12 +27,12 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"0-2 years of software development experience\"; \"under the guidance of senior engineers\"",
+      "level_basis": "\"0-2 years of software development experience\"; $123,100 to $150,400; no senior duties",
       "no_sponsorship": false
     },
     {
       "title": "AI Software Engineer - HP IQ",
-      "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
       "location": "San Francisco, CA",
       "opened": "2026-09-25",
       "date_source": "workday startDate",
@@ -53,16 +40,31 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires Masters and \"1+ years of experience in backend software development\"; $127,000 - $175,000; no senior duties",
+      "level_basis": "\"1+ years of experience in backend software development\"; no senior duties",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Applications Engineer",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1",
+      "location": "Fort Collins, CO",
+      "opened": "2026-10-19",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "University (UNI) graduate hire req: \"no more than 24 months of prior work experience\", \"No more than 12 months since graduation\"; $65,600 to $101,000",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-10-11",
-  "last_cycle_basis": "jobs.py history: Software Development Engineer, Spring TX / Palo Alto CA / Boise ID / Corvallis OR, first seen 2025-10-11 (closed); Software Development Graduate pipeline reposts",
+  "last_cycle_basis": "jobs.py history: Software Development Engineer, Spring TX / Palo Alto CA / Boise ID / Corvallis OR, first seen 2025-10-11 (closed)",
   "excluded_reason": null,
   "no_sponsorship": true,
-  "jobs_page": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
-  "jobs_spec": "wd:hp/wd5/exteu-ac-careersite",
-  "evidence": "Workday API 2026-10-08 (1208 postings, full), detail read, canApply true: two graduate pipeline reqs (\"not offer work authorization sponsorship\") plus two unlabeled entry-level software roles. Technical and Engineering Graduate Roles (hardware mix) not counted.",
-  "confidence": "medium"
+  "jobs_page": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+  "jobs_spec": "wd:hp/wd5/ExternalCareerSite",
+  "jobs_spec_basis": "Saved exteu-ac-careersite lists only 20 postings now; ExternalCareerSite lists 834 and holds the same reqs.",
+  "evidence": "ExternalCareerSite re-read 2026-10-20 (844, full) plus detail API; all four postings have canApply true. Graduate pipeline req is unlisted in search but live. Software Quality Engineer (QA) and 2+ yr roles not counted. Applications Engineer is a UNI graduate-hire req.",
+  "confidence": "medium",
+  "dropped": []
 }

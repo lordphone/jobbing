@@ -21,9 +21,10 @@
   "last_cycle_basis": "Rolling EDG requisition; no tracker history and no distinct last-cycle open date found.",
   "jobs_page": "https://www.mathworks.com/company/jobs/opportunities.html",
   "jobs_spec": null,
-  "evidence": "Browser pane opened EDG req 16217 (Natick, BS/MS/PhD, Explore EDG apply link) and WebFetch read all 4 search pages 2026-10-08 (75 jobs). Only entry track is EDG (rotational dev + customer-facing). Compiler Engineer LLVM needs demonstrated compiler experience; rest senior or ambassadors.",
+  "evidence": "Browser 2026-10-20: job search (80 jobs) lists EDG New Career Program (req 16217, Natick MA) tagged New Career; posting page loads with an apply link. Rotational dev plus customer-facing work, not pure SWE. All other US roles are Experienced.",
   "confidence": "medium",
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

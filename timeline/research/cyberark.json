@@ -1,15 +1,17 @@
 {
   "company": "CyberArk",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for CyberArk; unknown.",
+  "last_cycle_basis": "No tracker history; no CyberArk or Palo Alto early-careers date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.paloaltonetworks.com/en/search-jobs/cyberark/47263/1",
-  "jobs_spec": null,
-  "evidence": "CyberArk is now on Palo Alto Networks' board. CyberArk-tagged search opened in browser pane 2026-10-08 (first page read): sales, domain consultants, Israel/India senior or principal engineering; no entry SWE in the US. PANW generic new-grad SWE not tagged CyberArk; not counted.",
-  "confidence": "medium"
+  "jobs_spec": "wd:paloaltonetworks/wd5/panwexternalcareers",
+  "evidence": "PANW Workday 2026-10-20 (full): US CyberArk-office engineering is Principal/Architect level; no entry SWE with a CyberArk office.",
+  "confidence": "high",
+  "jobs_spec_basis": "CyberArk roles carry CyberArk office names on Palo Alto Networks' Workday board; board lists 620 jobs in full"
 }

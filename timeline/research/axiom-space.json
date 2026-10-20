@@ -1,15 +1,16 @@
 {
   "company": "Axiom Space",
   "tier": 4,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
+  "excluded_reason": "citizenship",
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows only 2024 postings (RF Software Engineer, AI&T Technician); none in the 2025-07 to 2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history (only 2024 BambooHR roles)",
   "jobs_page": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:axiomspace/wd5/External_Career_Site",
-  "evidence": "Workday full board (96) re-read 2026-10-08: software roles are Flight Software (5+ yrs), Software Systems (10+), SQA, Platform Engineer AWS (4+), seniors; Software Safety Engineer says 'Proof of U.S. Citizenship or US Permanent Residency is a requirement'. Only Associate role is Materials & Processing. No entry SWE.",
-  "confidence": "medium"
+  "evidence": "Workday full board (113) read 2026-10-20: software roles are Flight Software (5+ yrs), Avionics SW Project Eng (5 yrs), Senior roles, SWE Intern; none entry-level. Postings say 'Proof of U.S. Citizenship or US Permanent Residency is a requirement'.",
+  "confidence": "high",
+  "dropped": [],
+  "postings": [],
+  "checked": "2026-10-20",
+  "no_sponsorship": false
 }

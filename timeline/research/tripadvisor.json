@@ -1,15 +1,16 @@
 {
   "company": "Tripadvisor",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
+  "tier": 4,
+  "checked": "2026-10-20",
   "postings": [],
-  "last_cycle_opened": "2025-07-22",
-  "last_cycle_basis": "tracker first seen: Oxford SWE I first published 2025-07-22; Canada SWE I (Remote in Canada) 2025-07-28",
+  "dropped": [],
+  "last_cycle_opened": "2025-07-28",
+  "last_cycle_basis": "tracker first seen: Software Engineer I, Remote in Canada (2025-07-28); Android Engineer Ottawa 2025-09-09; SWE I London/Oxford 2025-04 to 2025-08",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/tripadvisor",
   "jobs_spec": "gh:tripadvisor",
-  "evidence": "Greenhouse full board 2026-10-08 (103): SWE I postings are London/Oxford UK and Bokun Reykjavik (3+ yrs); US Workday Integrations Engineer needs 3+ yrs. No US/Toronto/Vancouver entry SWE. Last cycle Canada SWE I.",
+  "status": "not_yet",
+  "evidence": "gh:tripadvisor full (90) 2026-10-20: Software Engineer I (0-2 yrs) is London and Oxford only, Jr SWE is Reykjavik; US engineering is Workday Integrations Engineer (3+ yrs). New-grad track exists but nothing live in US, Toronto or Vancouver.",
   "confidence": "high"
 }

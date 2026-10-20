@@ -1,15 +1,16 @@
 {
   "company": "Brex",
-  "tier": 2,
-  "checked": "2026-10-08",
+  "tier": 3,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for Brex SWE new grad",
+  "last_cycle_basis": "none found; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/brex",
   "jobs_spec": "gh:brex",
-  "evidence": "gh:brex (281, full) 2026-10-08: engineering roles are Senior/Staff/Manager; AI Engineer 5+ yrs, FDE Agent Builder 4+, Data Engineer 3+. No new-grad or entry-level engineering posting; no tracker history.",
-  "confidence": "high"
+  "evidence": "gh:brex full board (260) re-read 2026-10-20; screen could not read postings so read six eng ones via Greenhouse API: none labeled entry-level, earlier run found 4-5+ yrs asks, rest Senior/Staff/Manager. No new-grad or associate SWE; no tracker history.",
+  "confidence": "high",
+  "dropped": []
 }

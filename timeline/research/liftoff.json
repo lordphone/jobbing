@@ -1,15 +1,16 @@
 {
   "company": "Liftoff",
-  "tier": 9,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad history found.",
+  "last_cycle_basis": "no new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/liftoff",
   "jobs_spec": "gh:liftoff",
-  "evidence": "Greenhouse full board 2026-10-08 (20): two ML Engineer postings (US/CA remote) need 3+ yrs per earlier read, security engineer, senior/staff SWE. No entry-level SWE. liftoff.io job pages not readable via API this run; titles/levels judged from board list and prior read.",
-  "confidence": "medium"
+  "evidence": "gh:liftoff full (17) 2026-10-20. US ML Engineer 7909043 is Senior (3+ yrs), 7671577 requires a PhD ($215-275K). Others senior, security or non-eng. No entry-level SWE.",
+  "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Depository Trust & Clearing Corporation (DTCC)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463",
       "location": "Jersey City, NJ; Tampa, FL; Dallas, TX",
       "opened": "2026-08-25",
-      "date_source": "oracle posted date",
-      "grad_window": "Expected graduation May 2027; 18-month EDGE program",
-      "live_verified": "browser",
+      "date_source": "oracle posted date; tracker first seen 2026-08-25",
       "deadline": "2026-10-30",
+      "grad_window": "Expected graduation May 2027",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -23,20 +23,21 @@
       "location": "Jersey City, NJ; Tampa, FL; Dallas, TX",
       "opened": "2026-08-25",
       "date_source": "oracle posted date",
-      "grad_window": "Expected graduation May 2027; 18-month EDGE program",
-      "live_verified": "browser",
       "deadline": "2026-10-30",
+      "grad_window": "Expected graduation May 2027",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-31",
   "last_cycle_basis": "Tracker history: Cybersecurity Analyst - EDGE Program first seen 2025-10-31 (Software Engineer 2025-12-17).",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:ebxr.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle API (432, full) + detail + browser 2026-10-08: both 2027 EDGE postings live (APPLY NOW), end 2026-10-30; require permanent US work authorization without sponsorship. Associate/Software Engineer roles need 4+ yrs. Infrastructure Engineer EDGE is IT, borderline.",
+  "evidence": "Oracle API (full board, 448) + detail 2026-10-20: both 2027 EDGE IT postings live, end 2026-10-30; need permanent US work authorization without sponsorship. Software Development Associate, Software Engineer and DevOps Associate roles need 4+ yrs. Infrastructure Engineer EDGE is IT, borderline.",
   "confidence": "high"
 }

@@ -1,15 +1,16 @@
 {
   "company": "Meta",
   "tier": 1,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-07-07",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer - University Grad - Research Infrastructure' (Burlingame/Redmond) first seen 2025-07-07, https://www.metacareers.com/jobs/23968798566082979; main SWE UG roles mid-Aug 2025 (tracker 2025-08-14)",
+  "last_cycle_basis": "tracker first-seen 2025-07-07, Software Engineer - University Grad - Research Infrastructure; general Software Engineer (University Grad) 2025-08-14 (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://www.metacareers.com/jobsearch/?teams%5B0%5D=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&offices%5B0%5D=USA",
+  "jobs_page": "https://www.metacareers.com/jobsearch?q=University%20Grad",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: metacareers University Grad - Engineering, Tech & Design filter for USA shows 0 items; students page lists only Montreal and Dublin University Grad roles and PhD research. No US 2027 new-grad SWE posting yet.",
+  "evidence": "2026-10-20 browser: University Grad search lists 20 items over 2 pages: Montreal AI research engineer, Network Production Engineer (Menlo Park, Europe), ASIC, PhD research and interns. A software-engineer university-grad 2027 query returns 0. No US/Toronto/Vancouver BS/MS 2027 SWE grad posting yet.",
   "confidence": "medium"
 }

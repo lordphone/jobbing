@@ -1,29 +1,16 @@
 {
   "company": "MUFG",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": ".NET Developer, Analyst",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/XMLNAME-NET-Developer--Analyst_10079740-WD-1",
-      "location": "New York, NY",
-      "opened": "2026-10-07",
-      "date_source": "workday postedOn (Posted Today; startDate 2026-10-07)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Analyst-level title; requires 'Minimum 2 years' .NET Core and 2 years Angular; $89k - $141k; no lead/mentor duties",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "closed",
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; tracker shows ML Engineer - Data Pipelines 2025-12-29 (experienced, closed)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers",
   "jobs_spec": "wd:mufgub/wd3/mufg-careers",
-  "evidence": "Workday full board 2026-10-08 (686): .NET Developer, Analyst (New York) live, 2 yrs required, Analyst level, borderline entry fit. Other US software titles are AVP/VP; 2027 programs are banking analyst or summer interns.",
-  "confidence": "medium"
+  "evidence": "Workday full board (693) 2026-10-20: US software titles are AVP/VP or need 5+ yrs (Tempe Software Engineering wants 5 yrs Workday HCM). 2027 programs are Summer Analyst (risk, financial crimes), not SWE. Analyst - Data Products and AI Enablement (opened 2026-10-15) still absent.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

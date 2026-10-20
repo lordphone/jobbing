@@ -1,15 +1,43 @@
 {
   "company": "Charles Schwab",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://career-schwab.icims.com/jobs/127949/associate-software-engineer/job",
+      "location": "Austin, TX",
+      "opened": "2026-10-15",
+      "date_source": "page text (iCIMS Posted Date)",
+      "deadline": "2026-10-24",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Requires 'Bachelor's degree in computer science or a related field' and '0\u20131+ years of software development experience, including internships or academic projects'; $44.23-$45.19/hour",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer (React/.NET)",
+      "url": "https://career-schwab.icims.com/jobs/124933/software-development-engineer-%28react-.net%29/job",
+      "location": "Austin, TX",
+      "opened": "2026-10-15",
+      "date_source": "page text (iCIMS Posted Date)",
+      "deadline": "2026-10-30",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires BS and '2+ years' each in React, C#/.NET, CI/CD; builds and maintains internal tools, no lead/mentor duties; $135,000-$148,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-11-21",
   "last_cycle_basis": "tracker history: Junior Software Development Engineer first seen 2025-11-21 (https://career-schwab.icims.com/jobs/117180/job)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://career-schwab.icims.com",
   "jobs_spec": null,
-  "evidence": "iCIMS search 'software engineer' (54 results) 2026-10-08: SWE roles are Senior/Lead/Sr Specialist or ask 3-5+ yrs (Java Developer 127729: 5+). Associate - Java Developer (126708, Southlake, posted 10-07, closes 10-09) needs degree completed May 2023 or earlier: not for 2027 grads. Associate SWE reqs recurred Nov-Apr last cycle.",
-  "confidence": "medium"
+  "evidence": "iCIMS search (curl) and posting pages 2026-10-20: Associate Software Engineer 127949 (Austin, 0-1+ yrs, deadline 10/24) and SDE React/.NET 124933 (Austin, 2+ yrs, deadline 10/30) live with Apply. All other SWE/dev roles (Full Stack, .NET, Java, iOS, Android, Data Engineer, SRE, AI Platform) ask 3-9+ yrs.",
+  "confidence": "medium",
+  "dropped": []
 }

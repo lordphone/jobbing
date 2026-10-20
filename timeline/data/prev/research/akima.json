@@ -1,0 +1,17 @@
+{
+  "company": "Akima",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.akima.com/jobs",
+  "jobs_spec": null,
+  "evidence": "careers.akima.com/api/jobs read in full 2026-10-19 (762 jobs): no entry-level SWE. Associate Software Programmer needs active TS/SCI and 3+ yrs, DevSecOps Engineer I and Unity Game Developer require US citizenship, Software Engineer (Ashburn) wants expert WordPress/JS. No campus program found.",
+  "confidence": "medium",
+  "jobs_spec_basis": "akima.com/careers 'view all jobs' goes to careers.akima.com/jobs (iCIMS front end with a jobs API); no jobs.py spec"
+}

@@ -1,6 +1,7 @@
 {
   "company": "Nasdaq",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -13,17 +14,17 @@
       "grad_window": "currently pursuing or recently completed degree (no class year)",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'Currently pursuing or recently completed a degree in Computer Science' (also asks 3 yrs AWS API experience)",
+      "level_basis": "'Currently pursuing or recently completed a degree in Computer Science'; 'start your career'; $77,000 - $135,000 (but also asks 3 yrs AWS API experience)",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-02-05",
   "last_cycle_basis": "tracker history: 'Graduate Software Engineer' (Toronto, ON) first seen 2026-02-05; no US new-grad SWE posting found in 2025-07..2026-01",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
   "jobs_spec": "wd:nasdaq/wd1/Global_External_Site",
-  "evidence": "2026-10-08 Workday (183, full): Atlanta Analyst - Software Developer still live, aimed at recent grads (also asks 3 yrs AWS API); no sponsorship. Boston and Philadelphia SWE look mid-level, left out.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "2026-10-20 Workday board (full) screened: Atlanta Analyst - Software Developer live via API, recent-grad framing though it asks 3 yrs AWS APIs (kept, earlier run counted it). Boston SWE (2-4 yrs), Philadelphia Data SE (2+), Toronto roles mid-level. No sponsorship.",
+  "confidence": "medium"
 }

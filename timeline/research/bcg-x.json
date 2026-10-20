@@ -1,29 +1,16 @@
 {
   "company": "BCG X",
-  "tier": 10,
-  "checked": "2026-10-08",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [
-    {
-      "title": "Forward Deployed AI Engineer - Campus",
-      "url": "https://careers.bcg.com/global/en/job/59067",
-      "location": "Boston, MA; Los Angeles, CA; Seattle, WA; San Francisco, CA; Manhattan Beach, CA; Dallas, TX; Miami, FL; Brooklyn, NY; New York, NY; Pittsburgh, PA; Washington, DC; Chicago, IL",
-      "opened": "2026-08-19",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "Dec 2026 - Aug 2027 (per search summaries)",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-24",
   "last_cycle_basis": "tracker: BCG X 'AI Engineer' (general, Boston/Seattle/SF etc.) first seen 2025-11-24, https://careers.bcg.com/global/en/job/55995",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.bcg.com/global/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom search API 2026-10-08, all 900 jobs read: campus Forward Deployed AI Engineer 59067 (first seen 2026-08-19) returns 410 gone. Only live US FDE is 59461 (Sept 22; pay bands I-Senior, no years or class year); not counted as new-grad.",
+  "evidence": "Phenom API 2026-10-20 (912 postings, all read): campus Forward Deployed AI Engineer 59067 (posted 2026-08-19) returns HTTP 410. FDE 59461 (Sep 22) has lead/guide-teams duties and no class year, not entry-level. Campus FDE 59702/59703 are internships.",
   "confidence": "medium"
 }

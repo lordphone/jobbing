@@ -1,7 +1,7 @@
 {
   "company": "Xaira Therapeutics",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,20 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Hires across levels; 'candidates earlier in their careers' need only strong academic or early industry experience, no years asked; base $184.5K-225.5K",
+      "level_basis": "Hires across levels; 'For candidates earlier in their careers: Strong academic or early industry experience', no years asked; base $184.5K-225.5K",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Lab Automation - Robotics Engineer",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007",
+      "location": "South San Francisco, CA",
+      "opened": "2026-08-18",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Recent graduates with strong robotics, automation, hardware/software integration, or relevant project experience are encouraged to apply'; no years asked; $150K-$180K. Robotics software with hardware work (borderline)",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xairatherapeutics",
   "jobs_spec": "gh:xairatherapeutics",
-  "evidence": "gh:xairatherapeutics full board (28) 2026-10-08: Lab Software Engineer is multi-level with an earlier-career track (borderline, counted as unlabeled). AI in Residence is research (MS/PhD); Lab Automation Robotics Engineer is hardware-heavy; other SWE roles senior.",
-  "confidence": "low"
+  "evidence": "Greenhouse full board (28) read 2026-10-20: Lab Software Engineer (all levels, early-career wording, no years asked) and Lab Automation Robotics Engineer (recent grads encouraged) still live, kept. AI in Residence is a fixed-term program; other SWE roles senior.",
+  "confidence": "low",
+  "dropped": []
 }

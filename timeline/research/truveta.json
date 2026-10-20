@@ -1,6 +1,7 @@
 {
   "company": "Truveta",
-  "tier": 3,
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -28,15 +29,28 @@
       "level": "unlabeled",
       "level_basis": "'seeking enthusiastic new graduates'; 2+ yrs; $110,000-$145,000",
       "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - Security & Trust",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004",
+      "location": "Seattle, WA",
+      "opened": "2026-10-14",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'seeking enthusiastic new graduates'; lists 3+ yrs; $110,000-$145,000",
+      "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-09",
   "last_cycle_basis": "jobs.py history: 'Software Engineer \u2013 Entry Level - Front End' (Seattle) first seen 2025-10-09; another Entry Level role 2025-11-03.",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/truveta",
   "jobs_spec": "gh:truveta",
-  "evidence": "Full Greenhouse board (38) read 2026-10-08; Seattle Clinical Analytics (2+ yrs) and Analytical Platform (3+ yrs) both say seeking enthusiastic new graduates, $110-145K, no visa sponsorship. Others senior or India. Greenhouse API confirms both live.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Full Greenhouse board (36) read 2026-10-20; three Seattle SWE roles say 'seeking enthusiastic new graduates', $110-145K, 2-3+ yrs, no visa sponsorship. Data Processing (3+ yrs, no new-grad text) and the rest are senior or India. Matches prior file.",
+  "confidence": "medium"
 }

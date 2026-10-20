@@ -47,3 +47,10 @@ Header city: Mountain View, CA (JD is San Francisco).
 - Last content bottom (pdftotext -bbox yMax): 760.62 pt
 - Unused height: 792 − 25.92 − 760.62 = 5.46 pt (passes 0–12 pt)
 - Visual review: rendered at 110 dpi. No empty bottom strip, clipping, overlap, or cramped text; all skill rows fit on one line.
+
+## Revision 2026-10-09 — NewsBreak trimmed 7 → 5 bullets (his request)
+
+- Merged the two nb-agentic-search bullets into one; merged nb-fastapi-backend with nb-eks-standup / nb-observability.
+- Cut: nb-catalog-cache (fan-out 25–30 → 1, 78× cache), nb-cronjob-outage, Jenkins, "~2 min ingest-to-decision".
+- Refilled with pj-codingplans (project) and the longer za-mock-interview / za-auth-db line (Next.js, Supabase, PostgreSQL; auth, session state, database).
+- Final PDF: 1 page; last content bottom 759.92 pt; unused 792 − 25.92 − 759.92 = 6.16 pt (passes); rendered at 110 dpi, no visual defects.

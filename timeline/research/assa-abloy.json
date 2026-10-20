@@ -1,20 +1,20 @@
 {
   "company": "ASSA ABLOY",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Software Engineer",
-      "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/",
-      "location": "Phoenix, AZ; New Haven, CT",
-      "opened": "2026-09-29",
-      "date_source": "page text (posted Sep 29, 2026)",
-      "deadline": "2026-10-16",
+      "title": "Associate Engineer",
+      "url": "https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/",
+      "location": "Berlin, CT",
+      "opened": "2026-09-17",
+      "date_source": "tracker first seen (page datePosted meta 2026-10-16)",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level": "unlabeled",
+      "level_basis": "'Overall 0-2 years of experience in websites or web applications development'; AEM/Java/React developer working under a technical lead",
       "no_sponsorship": false
     }
   ],
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://assaabloy.jobs2web.com/search/",
   "jobs_spec": null,
-  "evidence": "jobs2web search + posting fetched 2026-10-08: Associate Software Engineer (Phoenix AZ; New Haven CT), entry level, Apply now, bachelor's or bootcamp, page shows end date 16-Oct-2026, no sponsorship text. Frontend/Backend SWE need 3+ yrs; AI Scientist is PhD-level research; firmware/embedded roles excluded.",
-  "confidence": "medium"
+  "evidence": "jobs2web searches 2026-10-20 (software engineer, graduate/early career; 577-933 postings, only page 1 of each readable) plus posting page: Associate Engineer (Berlin CT, entry level, 0-2 yrs web dev, Apply now) live. Page shows an unlabeled '31-Oct-2026' (not treated as a deadline). Other software roles on page 1 are senior or non-US; earlier check found Phoenix SWE roles needing 3+ yrs.",
+  "confidence": "medium",
+  "dropped": []
 }

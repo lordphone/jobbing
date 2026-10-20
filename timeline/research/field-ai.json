@@ -1,7 +1,7 @@
 {
   "company": "Field AI",
-  "tier": 3,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement; C++/Python/ROS on real robots",
+      "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement",
       "no_sponsorship": false
     },
     {
@@ -27,16 +27,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement; C++/Python/ROS",
+      "level_basis": "\"Background appropriate for a junior-to-mid engineer; fresh MS and PhD graduates welcome\"; no years requirement",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history of a US new-grad SWE cycle.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/field-ai",
   "jobs_spec": "lever:field-ai",
-  "evidence": "Lever API 2026-10-08 (99 postings), screened 50 eng roles. No new-grad program, but two Irvine humanoid roles say junior-to-mid, fresh MS grads welcome, no years asked. Other roles need 2-10+ yrs, hardware/robotics-heavy.",
+  "evidence": "Lever full board (109) read 2026-10-20. No new-grad program, but two Irvine humanoid roles say junior-to-mid, fresh MS grads welcome, no years asked; both still listed. Other roles need more experience or state no level. Matches prior file.",
   "confidence": "medium"
 }

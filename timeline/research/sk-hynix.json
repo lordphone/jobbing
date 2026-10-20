@@ -1,15 +1,16 @@
 {
   "company": "SK hynix",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "jobs.py history finds no SK hynix postings",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/skhynixamerica",
   "jobs_spec": "gh:skhynixamerica",
-  "evidence": "Both US Greenhouse boards read in full 2026-10-08 (skhynixamerica 52, skhynixmemorysolutionsamericainc 26): software roles are interns only, Sr/Staff firmware/AI/validation, or a Research Scientist; engineering is mostly hardware design. SWE new-grad hiring happens in Korea.",
-  "confidence": "high"
+  "evidence": "Greenhouse board re-read 2026-10-20 (skhynixamerica 51, full): roles are hardware design, packaging, test, EHS, marketing, or senior system roles (AI/HPC System Engineer needs 6+ yrs, ADK needs 3+). No entry-level software posting.",
+  "confidence": "high",
+  "dropped": []
 }

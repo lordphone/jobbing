@@ -1,15 +1,16 @@
 {
   "company": "Alpaca",
-  "tier": 4,
-  "checked": "2026-10-08",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no entry",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/alpaca",
   "jobs_spec": "gh:alpaca",
-  "evidence": "gh:alpaca full board (76) read 2026-10-08: SWE roles ask 3-4+ yrs or are senior/staff; Core Trading has no years line (global remote, unlevelled); no new-grad track.",
-  "confidence": "medium"
+  "evidence": "gh:alpaca full board (67) read 2026-10-20: SWE roles ask 3-4+ yrs, lead experience, or are senior/staff, mostly global remote; no new-grad track.",
+  "confidence": "high",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

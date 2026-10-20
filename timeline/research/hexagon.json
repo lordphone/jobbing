@@ -1,15 +1,16 @@
 {
   "company": "Hexagon",
-  "tier": 6,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE tracker history (only Calgary, Canada Software Engineer - Algorithms 2026-08-05)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "No US new-grad SWE tracker history (only Calgary, Canada Software Engineer - Algorithms 2026-08-05)",
   "jobs_page": "https://hexagon.com/company/careers/job-listings",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-07: hexagon.com job list filtered US Engineering(5), R&D(3), IT(2): only SWEs are Williamsburg VA (3-5+ yrs C#/C++) and Camarillo Senior. Canada: Toronto only Senior Embedded + QA co-op (rest Calgary/Sudbury). Applications Engineer I (Miamisburg) is services, not SWE.",
-  "confidence": "medium"
+  "evidence": "Could not reopen the listings 2026-10-20 (Cloudflare 403, no browser tab free). Carried from 2026-10-19 browser read of all 84 US and 35 Canada listings: US Software Engineer R&D asks 3-5+ yrs; Toronto roles senior or QA co-op. No entry SWE found; web search found no Hexagon graduate program.",
+  "confidence": "low",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

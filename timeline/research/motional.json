@@ -13,17 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires \"0 - 3+ years of C++ software development (educational experience ... also counts)\"; separate Senior posting exists; $142,000-$190,000",
+      "level_basis": "requires \"0 - 3+ years of C++ software development (educational experience ... also counts)\"; separate Senior posting exists; $142,000-$190,000 (borderline: also lists mentoring juniors as a duty)",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-02",
   "last_cycle_basis": "tracker first seen: ML Engineer postings 2025-12-02 (Greenhouse); Associate Software Engineer 2024-10-17",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/motional",
   "jobs_spec": "gh:motional",
-  "evidence": "Greenhouse API full (74) 2026-10-08: unleveled Motion Planning Engineer asks 0-3+ yrs C++, borderline entry, no class year. Perception Engineer needs 2 yrs automotive industry experience (left out). Associate AV Test Engineer (0-2 yrs) is QA/test, not counted. Other SWE roles Senior/Principal or Singapore.",
+  "evidence": "Greenhouse API full board (81) read 2026-10-20. Unleveled Motion Planning Engineer asks 0-3+ yrs C++, borderline entry, no class year. ML Systems Eng (no years stated, $144K+), Perception Eng (2 yrs automotive) and Systems Integration (1+ yr) not clearly entry software, left out. Rest senior or Singapore.",
   "confidence": "medium",
-  "checked": "2026-10-08"
+  "checked": "2026-10-20",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,7 +1,7 @@
 {
   "company": "Altamira Technologies",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,18 +12,19 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
       "level_basis": "Qualifications: 'Entry level to 10+ years of experience in software or AI/ML development roles'; page states no clearance or citizenship requirement",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-12-18",
   "last_cycle_basis": "tracker first seen: Junior Software Engineer, Wright-Patterson AFB OH (jobs.jobvite.com/altamiracorps/job/oms6yfwc), later closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/altamiracorps/jobs",
   "jobs_spec": null,
-  "evidence": "Jobvite list (~50) and ~25 software/data postings read 2026-10-08. Only AI/ML Engineer (Fairborn) says 'Entry level to 10+ years' with no clearance text (DoD/IC customer, so clearance likely needed in practice; borderline). All other SWE roles need TS/SCI/citizenship or 2+ yrs plus TS/SCI; 2027 items are interns requiring US citizen.",
-  "confidence": "low"
+  "evidence": "Jobvite list (49) and all software/AI/data postings read 2026-10-20. Only AI/ML Engineer R&D (Fairborn OH, datePosted 2026-08-21) says 'Entry level to 10+ years', Apply live, page lists no clearance (DoD/IC customer, borderline, kept). Junior Algorithm Dev and Junior DevOps need TS/SCI; other SWE roles need TS/SCI or 5-8+ yrs; 2027 items are interns.",
+  "confidence": "medium"
 }

@@ -1,29 +1,16 @@
 {
   "company": "Stanley Black & Decker",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineer I, Digital",
-      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830",
-      "location": "Towson, MD; Remote (US)",
-      "opened": "2026-09-13",
-      "date_source": "tracker first seen (Workday startDate 2026-09-14)",
-      "deadline": "2026-10-23",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Engineer I; 'perform standard engineering assignments with guidance'; foundational full stack / front-end / back-end / API skills; no years ask",
-      "no_sponsorship": true
-    }
-  ],
+  "status": "closed",
+  "no_sponsorship": true,
   "last_cycle_opened": null,
   "last_cycle_basis": "none found Jul 2025-Jan 2026; tracker shows only Product Data Analyst (Decorah IA, 2026-05-20) and Engineer 1 - Digital 2026-09-13",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site",
   "jobs_spec": "wd:sbdinc/wd1/Stanley_Black_Decker_Career_Site",
-  "evidence": "Workday full board 2026-10-08 (634): Engineer I, Digital live, ends 2026-10-23, no visa sponsorship. Engineer 1 Software Engineering - Motor Control (REQ-1000052383, Towson) and Leadership Program Embedded Software are embedded C firmware (BSEE/BSCS), not counted. Full Stack Developer (Towson) needs 3+ yrs.",
-  "confidence": "high"
+  "evidence": "Workday full board (634) 2026-10-20: Engineer I, Digital (REQ-1000051830) is gone, so closed. Engineer 1, Software Engineering - Motor Control (Towson MD, REQ-1000052383, ends 2026-12-31) is power-tool firmware, not counted; he may want to review it.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "tier": 5,
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null
 }

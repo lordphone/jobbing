@@ -1,15 +1,16 @@
 {
   "company": "GoDaddy",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no dated history found; Emerging Talent page mentions New College Grad hires but lists no dates",
+  "last_cycle_basis": "no dated history found; Emerging Talent page mentions interns converting to new college grad hires but lists no dates",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.godaddy/emergingtalent",
   "jobs_spec": "gh:godaddy",
-  "evidence": "Greenhouse gh:godaddy 2026-10-08 (32, full): only SDE AI Services (5+ yrs) and senior/staff/director engineering roles. Emerging Talent page (read 2026-10-08) says it hires interns and New College Grads but lists no open roles or dates.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (34) read 2026-10-20: only SDE AI Services (US, 5+ yrs) and senior/staff/director engineering roles; others India/Colombia/Canada senior. Emerging Talent page lists internship info, no open new-grad roles or dates.",
+  "confidence": "high"
 }

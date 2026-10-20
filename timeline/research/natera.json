@@ -1,15 +1,16 @@
 {
   "company": "Natera",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: only Quality Process Analyst; no new-grad SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/natera",
   "jobs_spec": "gh:natera",
-  "evidence": "Greenhouse natera 2026-10-08 (211, full): SWE roles are Contract Full Stack (5+ yrs), Salesforce SWE (8+ yrs), automation/service engineers; Forward Deployed AI Solutions Engineer states no years but reads senior (most technical person in the room), not counted. No new-grad SWE.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (225) read 2026-10-20: SWE roles are Contract Full Stack (leads design, mentors), Salesforce SWE (architecture, senior), Principal/Senior/Manager; ML Scientist is research (publication record). None entry-level.",
+  "confidence": "high"
 }

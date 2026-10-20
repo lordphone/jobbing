@@ -1,15 +1,16 @@
 {
   "company": "Everlaw",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-22",
   "last_cycle_basis": "tracker first seen; Software Engineer - Early Career, Oakland CA: https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/everlaw",
   "jobs_spec": "gh:everlaw",
-  "evidence": "Greenhouse 2026-10-08 (40, full): Software Engineer 1 (Oakland, first published 2026-08-31, job 4705236006) absent; its page redirects to the board with error=true. Remaining SWE roles Senior+. Earlier posting said Everlaw does not sponsor visas (carried from prior file).",
-  "confidence": "medium"
+  "evidence": "Greenhouse API 2026-10-20 (36, full): Software Engineer 1 (Oakland, job 4705236006) returns API 404 and its page redirects to the board with error=true; remaining SWEs are Senior.",
+  "confidence": "high"
 }

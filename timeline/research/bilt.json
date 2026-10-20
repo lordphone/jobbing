@@ -1,15 +1,17 @@
 {
   "company": "Bilt",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no first-party or tracker date found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/bilt",
   "jobs_spec": null,
-  "evidence": "2026-10-08 Gem API (18): Back End Engineer (All Levels, 5+ yrs target), Forward Deployed and Senior FDE. No entry-level engineering role.",
+  "jobs_spec_basis": "careers page jobs.gem.com/bilt; Gem public API lists all postings, no ATS feed in jobs.py",
+  "evidence": "2026-10-20 Gem job-board API (19 postings, full): Back End Engineer (All Levels) requires 5+ yrs; Software Engineer, AI requires 4+ yrs backend; Senior FDE. No entry-level engineering role or new-grad track.",
   "confidence": "high"
 }

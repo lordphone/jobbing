@@ -1,16 +1,16 @@
 {
   "company": "Magnite",
-  "tier": 9,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-03",
-  "last_cycle_basis": "jobs.py history: Engineer 1 - Automation and Custom Applications (NYC) first seen 2025-11-03, closed 2026-04; entry Belfast UK roles Oct-Dec 2025",
+  "last_cycle_basis": "tracker first seen: Engineer 1 - Automation and Custom Applications, NYC (2025-11-03; closed by 2026-04-03); Belfast Engineer 1 roles 2025-10 to 2026-02",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": null,
-  "evidence": "Workday CXS (host osv-rubicon, tenant osv_rubicon) 2026-10-08, all 37 read: Engineer II (Broomfield/LA/NY 3+ yrs; Boston/NY), Senior, Belfast student placements. No US Engineer 1 live; entry track existed (NYC 2025-11, closed 2026-04).",
-  "confidence": "high",
-  "jobs_spec_basis": "Saved spec gave HTTP 422: Workday CXS needs host osv-rubicon but tenant osv_rubicon (underscore); jobs.py spec cannot express that. Board itself works."
+  "evidence": "Workday CXS osv_rubicon/MagniteCareers read in full 2026-10-20 (34). Boston Engineer II (2+ yrs, $130-145K) and Broomfield Engineer II (3+ yrs) carry a II level, left out; no Engineer 1 live; Belfast placements are UK. Entry Engineer 1 existed last cycle (NYC 2025-11-03).",
+  "confidence": "medium"
 }

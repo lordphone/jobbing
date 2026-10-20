@@ -1,7 +1,5 @@
 {
   "company": "InterSystems",
-  "tier": 6,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -13,15 +11,20 @@
       "deadline": null,
       "grad_window": "Fall 2026 or Spring 2027 (BS, MS or PhD)",
       "live_verified": "api",
-      "level": "new-grad title"
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-08",
-  "last_cycle_basis": "tracker history: Core Development Program, Boston MA, first seen 2025-09-08, https://www.intersystems.com/careers/careers-search/?gh_jid=6667825003",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "2025-09-08 tracker: Core Development Program, Boston MA, https://www.intersystems.com/careers/careers-search/?gh_jid=6667825003",
   "jobs_page": "https://job-boards.greenhouse.io/intersystems",
   "jobs_spec": "gh:intersystems",
-  "evidence": "Greenhouse API + detail 2026-10-08 (123 postings): Core Development Program (Boston, BS/MS/PhD grads Fall 2026 or Spring 2027) live; no citizenship or sponsorship text. Quality Development Program is test/QA, left out. Tracker lead 7827894003 matches.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (115) and detail 2026-10-20: Core Development Program (Boston, BS/MS/PhD grads Fall 2026 or Spring 2027) live, updated 2026-10-07, no citizenship text. Quality Development Program is testing-focused, left out. Other grad roles are UK.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,7 +1,7 @@
 {
   "company": "Chick-fil-A",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [
     {
@@ -24,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.chick-fil-a.com/corporate/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-08 (94 postings): tech roles are Sr. Lead engineers and a Summer 2027 SWE intern (not counted). Digital Fellow req 20298 (tracker first seen 2026-08-17; 2-yr rotation with a Software Engineering track) now 404 in browser. Class year unconfirmed.",
-  "confidence": "low"
+  "evidence": "Jibe API 2026-10-20: tech roles are Sr. Lead Software/Data Engineer. Digital Fellow req 20298 returns 404 and is absent from API, so closed.",
+  "confidence": "medium",
+  "dropped": []
 }

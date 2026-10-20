@@ -1,29 +1,43 @@
 {
-  "company": "Mistral AI",
-  "tier": 2,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Research Engineer, Full Stack",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c",
-      "location": "Palo Alto, CA",
-      "opened": "2026-09-11",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 'You have 2+ years as a technical individual contributor'; no lead/mentor duties; degree in CS",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad history in trackers or board",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/mistral.ai",
-  "jobs_spec": "ashby:mistral.ai",
-  "evidence": "ashby:mistral.ai full board 2026-10-08 (207): no new-grad title. Research Engineer, Full Stack (Palo Alto) fits unlabeled rule: 2+ yrs, no lead duties, posted 2026-09-11. NY Backend wants mid-to-senior; other US roles ask 4-7+ yrs. Borderline.",
-  "confidence": "low"
+ "company": "Mistral AI",
+ "tier": 2,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Research Engineer, Full Stack",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c",
+   "location": "Palo Alto, CA",
+   "opened": "2026-09-11",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 'You have 2+ years as a technical individual contributor'; no lead/mentor duties; degree in CS",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/2ec2dacd-1117-479b-a4c1-efa9df530798",
+   "location": "Palo Alto, CA; New York, NY; San Francisco, CA",
+   "opened": "2026-07-10",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 'PhD / master in AI / data science' and '2+ years as a technical individual contributor'; no lead duties",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no new-grad history in trackers or board",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.ashbyhq.com/mistral.ai",
+ "jobs_spec": "ashby:mistral.ai",
+ "evidence": "ashby:mistral.ai full (217) 2026-10-20: no new-grad title. RE Full Stack (Palo Alto) and US Forward Deployed MLE both require 2+ yrs IC, no lead duties (borderline, no pay listed), kept as earlier run counted. NY Backend says mid-level to senior, left out; others 4-7+ yrs.",
+ "confidence": "medium"
 }

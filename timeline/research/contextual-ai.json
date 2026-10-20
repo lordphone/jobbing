@@ -1,16 +1,17 @@
 {
   "company": "Contextual AI",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "unknown",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no history rows",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers page has no ATS link; no API board found",
-  "evidence": "2026-10-08 browser: contextual.ai/careers Open roles section is empty in server HTML and after render; no ATS link, iframe or job-feed request. Could be no openings or a broken embed. Web search found only old GTM roles (Solutions Engineer, FDE). Retry later.",
+  "jobs_spec_basis": "careers page has no ATS link or open-roles list in browser; no API board found",
+  "evidence": "2026-10-20 browser pane and WebFetch: contextual.ai/careers has an empty Open roles section and no ATS link; Ashby/Greenhouse/Lever guesses return nothing. Board unreadable, so unknown. Retry later.",
   "confidence": "low"
 }

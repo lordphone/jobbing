@@ -1,20 +1,32 @@
 {
   "company": "GlobalFoundries",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
-      "title": "AI/ML Analytics Engineer (2027 New College Graduate)",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Engineer--2027-New-College-Graduate-_JR-2604942",
-      "location": "Malta, NY",
-      "opened": "on or before 2026-09-28",
-      "date_source": "workday postedOn (startDate 2026-09-28)",
+      "title": "Software Engineer (2027 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
+      "location": "Austin, TX; Santa Clara, CA",
+      "opened": "2026-10-08",
+      "date_source": "workday startDate",
       "deadline": null,
-      "grad_window": "Graduating with Bachelor's or Master's (2027 NCG)",
+      "grad_window": "Graduating 2027 (New College Graduate program)",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "borderline ML-vs-analytics: builds predictive models and agentic solutions for fab data; Python/SQL preferred",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI/ML Systems Engineer (2027 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+      "location": "Richardson, TX",
+      "opened": "2026-10-19",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Graduating 2027 (New College Graduate program)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
@@ -24,6 +36,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://globalfoundries.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:globalfoundries/wd1/External",
-  "evidence": "Workday full board 2026-10-08 (735 postings): 2027 NCG AI/ML Analytics Engineer (Malta) is live, no citizenship line. Fab Automation Engineer NCG (Vermont) is robotics/hardware, left out; Full Stack Agentic (Austin) senior; 2026 NCG roles are leftovers.",
-  "confidence": "medium"
+  "evidence": "Workday board re-read 2026-10-20 (520, full) plus detail: Software Engineer 2027 NCG (Austin, Santa Clara) live; AI/ML Systems Engineer 2027 NCG (Richardson) is workload performance modeling, counted as AI role. FAE, design, fab automation (hardware), business NCG roles, 2026 NCG leftovers and 7+ yr Full Stack not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": []
 }

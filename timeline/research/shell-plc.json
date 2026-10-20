@@ -1,29 +1,30 @@
 {
   "company": "Shell plc (Shell USA)",
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
-      "title": "Shell Graduate Program 2027 - United States",
+      "title": "Shell Graduate Program 2027 - United States (covers Commercial, Technical, Trading & Supply, Information Digital Technologies, Finance)",
       "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Graduate-Program-2027---United-States_R205157-1",
-      "location": "Houston, TX; Midland, TX; Norco, LA; New Orleans, LA; San Diego, CA; Deer Park, TX; Galena Park, TX; Geismar, LA; Monaca, PA; Sewaren, NJ",
+      "location": "Houston, TX; Midland, TX; Norco, LA; New Orleans, LA; San Diego, CA",
       "opened": "2026-09-02",
-      "date_source": "earlier file (postedOn 28 days before 2026-09-30); current Workday startDate 2026-10-01 is a repost",
+      "date_source": "workday startDate",
       "deadline": "2027-02-01",
-      "grad_window": "final year of study or <3 years experience; start months Feb and Aug 2027",
+      "grad_window": "final-year or <3 yrs work experience; graduate before start; Feb and Aug 2027 start",
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Graduate programme (final year or <3 yrs); one posting covers Commercial, Technical, Trading & Supply, Information Digital Technologies and Finance; not SWE-specific",
+      "level": "new-grad title",
+      "level_basis": "3-year graduate programme; one posting covers all functions including Information Digital Technologies, so SWE slots are uncertain; salary $74,000-$138,000",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "on or before 2026-06-13",
-  "last_cycle_basis": "jobs.py history 'shell': Shell Graduate Programme 2026 - UK (Trading and Supply) first seen 2026-06-13; US 2026 timing assumed similar",
-  "no_sponsorship": true,
+  "last_cycle_basis": "jobs.py history: Shell Graduate Programme 2026 postings first seen on or before 2026-06-13",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Workday full board (139) 2026-10-08: US Graduate Program 2027 live (start 2026-10-01, endDate 2027-02-01); one posting covers all functions incl. Information Digital Technologies, so SWE slots uncertain. Posting bars temporary visas; some PhD/Master's exceptions.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "tier": 5,
-  "excluded_reason": null
+  "evidence": "Workday full board (139) + detail 2026-10-20: US Graduate Program 2027 live (start 2026-10-01, ends 2027-02-01), one posting covering all functions incl. IDT, so SWE track uncertain. Kept as earlier run counted it. Other Shell grad postings are non-US.",
+  "confidence": "medium"
 }

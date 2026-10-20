@@ -1,29 +1,35 @@
 {
   "company": "Polaris Inc.",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
-      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
+      "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
+      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
       "location": "Medina, MN; Plymouth, MN",
-      "opened": "on or before 2026-08-24",
+      "opened": "2026-08-24",
       "date_source": "workday startDate",
       "deadline": "2026-11-30",
-      "grad_window": "Graduating Aug 2026 – May 2027",
+      "grad_window": "Aug 2026 – May 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Leadership Development Program 'for recent graduates'; graduation date between August 2026 and May 2027",
       "no_sponsorship": true
     }
   ],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first seen 2025-11-01: Digital & Information Technology Leadership Development Program Associate, Wayzata MN",
-  "excluded_reason": "us person / itar",
-  "no_sponsorship": true,
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs",
   "jobs_spec": "wd:polaris/wd5/PolarisJobs",
-  "evidence": "Workday full (138) 2026-10-08, posting API: D&IT LDP (Digital Product Development track, incl. software engineering) live to 2026-11-30; \"Must be a U.S. person (U.S. citizen, U.S. national, lawful permanent resident, asylee, or refugee) and not require sponsorship\". Data Science track and mechanical-leaning Engineering Dev Program not counted.",
-  "confidence": "high"
+  "evidence": "Workday board (138, full) 2026-10-20. D&IT LDP Predictive Data Science track (ML, MLOps, AI rotations; MS accepted; deadline 2026-11-30) says 'U.S. work authorization without future sponsorship requirements' and has no U.S.-person line, so counted, borderline since it is a rotational data-science program. Digital Product Development track excluded (U.S. person). Status changed from excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "dropped": [
+    {
+      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
+      "reason": "ruled out: 'Must be a U.S. person (U.S. citizen, U.S. national, lawful permanent resident, asylee, or refugee)' and 'not eligible for sponsorship'; MIS/business degree track"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,18 +12,32 @@
       "date_source": "icims datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Associate title, 'Full Stack Developer I'; requires 1+ years; works on well-defined features under guidance of senior engineers",
       "no_sponsorship": false
+    },
+    {
+      "title": "Full Stack Developer (Settlements platform)",
+      "url": "https://careers-ice.icims.com/jobs/13120/full-stack-developer/job",
+      "location": "Atlanta, GA",
+      "opened": "2026-07-24",
+      "date_source": "icims datePosted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires 2+ yrs Java; 'development ... with guidance from senior engineers'; 'eagerness to grow into a well-rounded full-stack engineer'; pay not shown",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-02-24",
   "last_cycle_basis": "tracker history: 'Software Engineer 1' Jacksonville FL first seen 2026-02-24 (careers-ice.icims.com/jobs/12331)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "2026-10-08 iCIMS page fetched: Associate Full Stack Developer (Jacksonville) shows Apply, posted 2026-10-01, asks 1+ yrs. NYSE Full Stack SWE (2+ yrs, owns problems) and Junior SDET not counted.",
+  "evidence": "2026-10-20 browser: searched iCIMS (engineer, developer) and opened junior-looking dev reqs. Associate Full Stack Developer (Jacksonville, 1+ yrs) and Atlanta Full Stack Developer (2+ yrs, guided) live with Apply. Other Full Stack/Engineer II reqs ask 3+ yrs, not counted.",
   "confidence": "medium"
 }

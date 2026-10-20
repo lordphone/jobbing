@@ -1,15 +1,16 @@
 {
  "company": "Boehringer Ingelheim",
  "tier": 5,
+ "checked": "2026-10-20",
  "status": "no_program_found",
  "postings": [],
- "last_cycle_basis": "not found; searches show only co-ops/interns as early-career US tech roles",
- "jobs_page": "https://jobs.boehringer-ingelheim.com",
- "jobs_spec": null,
- "evidence": "Software Engineer AI (Ridgefield CT, posted 2026-09-16, Apply live) left out: one posting for a ladder; only Senior (BS+2/MS+1) and Principal quals are listed, no base-level quals, and it names higher levels. Rest are co-ops/seniors. Earlier file said open; borderline, review by hand.",
- "confidence": "low",
- "checked": "2026-10-08",
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Not verified; no tracker history.",
  "excluded_reason": null,
  "no_sponsorship": false,
- "last_cycle_opened": null
+ "jobs_page": "https://jobs.boehringer-ingelheim.com",
+ "jobs_spec": null,
+ "evidence": "jobs.boehringer-ingelheim.com sitemap 2026-10-20 (titles read): US tech entry roles are IT co-ops (AI Project Manager, Data Science, IT Engineer, Scientific Software Engineering) and interns. Software/AI engineer roles are Senior, Principal or non-US. No new-grad SWE.",
+ "confidence": "medium"
 }

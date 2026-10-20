@@ -1,15 +1,16 @@
 {
   "company": "Hermeus",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "excluded",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history; only a 2026-06-24 'Manufacturing Engineer, New Grad' (non-SWE).",
-  "excluded_reason": "us person / itar",
-  "no_sponsorship": false,
+  "status": "no_program_found",
   "jobs_page": "https://jobs.lever.co/hermeus",
   "jobs_spec": "lever:hermeus",
-  "evidence": "Lever (83) re-read 2026-10-08: SWE postings (Flight Software incl. Atlanta C&C, Autonomy, Internal Applications) say hire 'must either be a U.S. person' (export control). Other SWE roles senior; SWE interns only; new-grad title is Manufacturing Engineer (non-SWE).",
-  "confidence": "high"
+  "evidence": "Lever full board (81) read 2026-10-20: only New Grad role is Manufacturing Engineer (not software). Flight Software Engineer (LA) calls itself Senior; Autonomy SWE and Flight SW C&C list no years and read experienced. Export clause says U.S. person or deemed-export eligible, not a hard bar.",
+  "confidence": "medium",
+  "dropped": [],
+  "postings": [],
+  "checked": "2026-10-20",
+  "last_cycle_opened": null,
+  "last_cycle_basis": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

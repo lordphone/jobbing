@@ -1,29 +1,30 @@
 {
   "company": "Coalition",
-  "tier": 4,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
       "title": "Frontend Engineer, Underwriting",
       "url": "https://www.coalitioninc.com/job-posting?gh_jid=4734028005",
-      "location": "Remote (US)",
+      "location": "Remote (US) (no city listed)",
       "opened": "2026-09-16",
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Two or more years of professional software development experience; base $115,000-$168,000",
+      "level_basis": "Two or more years of professional software development experience; base $115,000-$168,000; no lead/mentor duties",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-21",
   "last_cycle_basis": "tracker history: Software Engineer I (Remote USA/Canada) first seen 2025-07-21",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/coalition",
   "jobs_spec": "gh:coalition",
-  "evidence": "gh:coalition full board (39) read 2026-10-08: Frontend Engineer, Underwriting (US) asks 2+ yrs, no lead/mentor duties; borderline. Other SWE roles ask more or are senior/staff or Salesforce/AI-specialist. No SWE I live.",
-  "confidence": "low"
+  "evidence": "gh:coalition board (46) read 2026-10-20: Frontend Engineer, Underwriting (US) requires 2+ yrs, no lead/mentor duties, $115-168K, listed on careers page; borderline unlabeled. Canada twin lists no city. AI Automation needs 5+ yrs. No SWE I live.",
+  "confidence": "low",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "dropped": []
 }

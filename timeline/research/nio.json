@@ -1,15 +1,31 @@
 {
   "company": "NIO",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Robotics Researcher",
+      "url": "https://jobs.lever.co/nio-usa/aeb18492-fd65-481d-88a3-00dcceb55840",
+      "location": "San Jose, CA",
+      "opened": "2026-06-19",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires \"master's or Ph.D.\", no years asked; ideal for PhD students or recent graduates. Research title, borderline",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad history in trackers",
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/nio-usa",
   "jobs_spec": "lever:nio-usa",
-  "evidence": "NIO USA Lever (9 postings, full, San Jose only): AI infra/LLM/research engineers need 3-5+ yrs, others Staff/Sr. Old Workday NIO_Careers board is gone. No entry-level SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "no NIO new-grad posting in tracker history",
+  "evidence": "NIO USA Lever (5, full) re-read 2026-10-20. Staff roles and AI Technical Lead are senior. AI Robotics Researcher (Master or PhD, no years, for recent graduates) still live and kept from earlier run as a borderline research role. No new-grad SWE track.",
+  "confidence": "low"
 }

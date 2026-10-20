@@ -1,15 +1,16 @@
 {
   "company": "OneTrust",
-  "tier": 6,
-  "checked": "2026-10-08",
-  "status": "not_yet",
+  "tier": 4,
+  "checked": "2026-10-20",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "no tracker or board history of a new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/onetrust",
   "jobs_spec": "gh:onetrust",
-  "evidence": "Greenhouse API 2026-10-08 (94): the two Atlanta 'Software Engineer' reqs (2026-07-30, 2026-09-01) read 'Senior Software Engineer', 4+ yrs. All other engineering roles are Senior, Staff or Principal. No entry-level SWE.",
+  "evidence": "Rechecked 2026-10-20 on full board API, same result. Greenhouse API 2026-10-19, 87 postings (full): both Atlanta Software Engineer reqs (7948281, 8167257) say 'looking for a Senior Software Engineer'; rest Senior/Staff or non-US. No entry-level SWE.",
   "confidence": "high"
 }

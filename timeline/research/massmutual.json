@@ -1,29 +1,16 @@
 {
-  "company": "MassMutual",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Quantitative Developer",
-      "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872",
-      "location": "New York, NY",
-      "opened": "2026-07-01",
-      "date_source": "tracker first seen (Workday startDate 2026-09-10 is a repost)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Minimum: bachelor's plus 6+ months developing software via internships/academic projects; $86,200-$113,100",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2026-04-13",
-  "last_cycle_basis": "Tracker: Associate Software Engineer (Cincinnati, MMAscend) first seen 2026-04-13; off-cycle",
-  "jobs_page": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
-  "jobs_spec": "wd:massmutual/wd1/MMCareers",
-  "evidence": "Workday board 2026-10-08 (76, full). Quantitative Developer (NYC) live, canApply true; min bachelor's plus 6+ months software experience, builds data pipelines/models. Other dev, AI and data roles need 4-8+ years.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "MassMutual",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": "2026-04",
+ "last_cycle_basis": "tracker: Associate Software Engineer, Cincinnati OH, first seen 2026-04-13 (MMAscendCareers); no Jul 2025-Jan 2026 entry SWE posting found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
+ "jobs_spec": "wd:massmutual/wd1/MMCareers",
+ "evidence": "Workday full board (72) re-read 2026-10-20: Quantitative Developer is no longer listed. Remaining software roles need 4-8+ yrs (AI Engineer 4+, Policy Admin 8+). Actuarial leadership programs are not SWE. No entry SWE live.",
+ "confidence": "high"
 }

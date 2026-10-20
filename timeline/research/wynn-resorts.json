@@ -1,15 +1,16 @@
 {
   "company": "Wynn Resorts",
-  "tier": 9,
+  "tier": 5,
+  "checked": "2026-10-20",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no SWE new-grad history in trackers; unknown",
-  "jobs_page": "https://jobs.smartrecruiters.com/wynnresorts",
-  "jobs_spec": "sr:wynnresorts",
-  "evidence": "SmartRecruiters 2026-10-08 (139, full): only software role is Sr. Full Stack Engineer Martech (Las Vegas); other engineer titles are facilities/shop or process. No entry SWE.",
-  "confidence": "high",
-  "checked": "2026-10-08",
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://jobs.smartrecruiters.com/wynnresorts",
+  "jobs_spec": "sr:wynnresorts",
+  "evidence": "sr:wynnresorts full (137): engineer titles are facilities/shop/process; only software role is Sr. Full Stack Engineer (Las Vegas). No entry SWE or new-grad program.",
+  "confidence": "high"
 }

@@ -177,6 +177,7 @@ tags: mobile
 facts:
 - launched 2026-06-17 after 3+ FIFA/World Cup trademark rejections (06-10, 06-12, 06-15)
 - cut the hero World Cup feature to launch at all
+- worked with legal for guidance while stuck on the trademark rejections (see nb-cross-dept)
 - ATT rejection: SwiftUI `.onChange` does not fire for its initial value, so cold launch skipped the prompt; moved to `didBecomeActive`
 - custom product page ASO approved 2026-07-15 after one rejection
 - #129 App Store Sports chart
@@ -348,6 +349,20 @@ approved:
 ---
 
 # Cross-team / process
+
+## nb-cross-dept
+
+tags: leadership, stakeholders
+facts:
+- quick, startup-style environment
+- title was Engineering Intern, but he was entrusted with major ownership
+- communicated with multiple departments
+- especially legal, when the app needed best practices or guidance
+- legal example 1: guidance while the App Store launch was stuck on FIFA / World Cup trademark rejections (see nb-app-store)
+- legal example 2: stripped live chat out of the app because the team did not have the monitoring tools for it yet
+- what legal specifically advised, and his exact part in each decision, are not recorded; do not invent them
+approved:
+- default: Worked across multiple departments in a startup-style team, especially legal when the app needed best-practice guidance.
 
 ## nb-dramabreak-ads
 

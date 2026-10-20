@@ -1,16 +1,17 @@
 {
   "company": "Armis",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no tracker entries; no prior-cycle new-grad posting found",
+  "last_cycle_basis": "No tracker history; Armis (acquired by ServiceNow) has no early-careers date found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/ServiceNow",
   "jobs_spec": "sr:ServiceNow",
-  "jobs_spec_basis": "ServiceNow closed Armis acquisition Apr 2026; Armis roles now apply via careers.servicenow.com (SmartRecruiters ServiceNow)",
-  "evidence": "ServiceNow SmartRecruiters board 2026-10-08 (707, full): Armis-tagged engineering roles are Bangalore Sr/Staff; US Armis roles are sales/CS/solutions. Moveworks new-grad SWE is ServiceNow's, not Armis. armis.com/careers 403.",
-  "confidence": "medium"
+  "evidence": "ServiceNow SmartRecruiters 2026-10-20 (full): Armis/Veza engineering is Staff/Senior in Tel Aviv or Bangalore, rest partners/sales. The only entry SWE (Moveworks, Mountain View) is a different team.",
+  "confidence": "high",
+  "jobs_spec_basis": "armis.com/armis-careers job links all go to jobs.smartrecruiters.com/ServiceNow; Armis roles tagged (Armis/Veza)"
 }

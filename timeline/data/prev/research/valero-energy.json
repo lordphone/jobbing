@@ -1,0 +1,17 @@
+{
+  "company": "Valero Energy",
+  "status": "no_program_found",
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history 'valero': only Technical Support Associate 1 (2025-10-06) and Data Scientist 1 (2026-02-10), not SWE",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Taleo; no jobs.py spec. REST POST /careersection/rest/jobboard/searchjobs?lang=en&portal=101430233 lists all jobs",
+  "evidence": "valero.taleo.net REST job-board API 2026-10-19, all 38 jobs read: refinery/ethanol operations, engineering, legal, finance. IT items only Database Administration Specialist and Technical Support Associate I. Commercial Development Program is not SWE. No entry SWE.",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-19",
+  "dropped": []
+}

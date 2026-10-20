@@ -1,7 +1,7 @@
 {
   "company": "Target",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -15,32 +15,6 @@
       "live_verified": "api",
       "level": "unlabeled",
       "level_basis": "1+ years of software development experience; $75,400-$135,700; base Engineer level, 'with guidance'",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Engineer - Stores & Supply Chain",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Stores---Supply-Chain_R0000476444",
-      "location": "Brooklyn Park, MN",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate (may be a repost)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "1+ years of software development experience; $75,400-$135,700; base Engineer level, 'with guidance'",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Android Engineer - Flagship Mobile App",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000449891",
-      "location": "Brooklyn Park, MN",
-      "opened": "2026-09-17",
-      "date_source": "workday startDate of earlier req R0000453889 (reposted 2026-10-07)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "1+ years of experience with Android development; $75,400-$135,700; base Engineer level, 'with guidance'",
       "no_sponsorship": false
     },
     {
@@ -107,14 +81,67 @@
       "level": "unlabeled",
       "level_basis": "2+ years of software development experience; $75,400-$135,700; base Engineer level",
       "no_sponsorship": false
+    },
+    {
+      "title": "Engineer - Guest Facing Devices",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Guest-Facing-Devices_R0000477642",
+      "opened": "2026-10-14",
+      "level_basis": "1+ years of software development experience; base Engineer level",
+      "location": "Brooklyn Park, MN",
+      "date_source": "workday startDate (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer - US",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---US_R0000454091",
+      "opened": "2026-10-14",
+      "level_basis": "1+ years of software development experience; base Engineer level",
+      "location": "Brooklyn Park, MN",
+      "date_source": "workday startDate (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer - Tax Technology",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Tax-Technology_R0000454052-1",
+      "opened": "2026-10-09",
+      "level_basis": "1+ years of software development experience; base Engineer level",
+      "location": "Brooklyn Park, MN",
+      "date_source": "workday startDate (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Engineer - Guest Feedback",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---Guest-Feedback_R0000475403",
+      "location": "Brooklyn Park, MN",
+      "opened": "2026-10-19",
+      "date_source": "workday startDate (may be a repost)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "1+ years of software development experience; $75,400-$135,700; base Engineer level",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-02-25",
   "last_cycle_basis": "tracker first seen: Technology Leadership Program - Starting August 2026, Brooklyn Park MN (Workday, now closed); spring opening",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://target.wd5.myworkdayjobs.com/targetcareers",
   "jobs_spec": "wd:target/wd5/targetcareers",
-  "evidence": "Workday search + posting pages 2026-10-08: no Technology Leadership Program live (last opened Feb 2026). Base-level 'Engineer' roles (Brooklyn Park) ask 1-2+ yrs, pay from $75,400: counted as unlabeled entry (judgment call). Android req reposted under R0000449891 (old R0000453889 gone); Full-Stack PLM added.",
+  "evidence": "Workday board 2026-10-20 (2000 listed, flaky) plus detail reads: ten base Engineer reqs (Brooklyn Park MN) live, each asks 1+ yrs software development (PLM: 2+). No Technology Leadership Program live. Unlabeled-entry judgment call; kept earlier-counted postings still live.",
   "confidence": "medium"
 }

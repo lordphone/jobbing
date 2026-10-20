@@ -1,33 +1,19 @@
 {
   "company": "CAE",
   "tier": 5,
-  "checked": "2026-10-08",
   "status": "excluded",
   "postings": [
     {
       "title": "MTS Software Engineer",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969",
       "location": "Charleston, SC",
-      "opened": "on or before 2026-08-10",
+      "opened": "2026-08-10",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires \"1–3 years of experience in software development, systems integration, or engineering support roles\"",
-      "no_sponsorship": false
-    },
-    {
-      "title": "ATS Software Engineer",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/ATS-Software-Engineer_122983-1",
-      "location": "Altus, OK",
-      "opened": "on or before 2026-08-10",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires \"1–3 years of experience in software development, systems integration, or engineering support roles\"",
+      "level_basis": "1–3 years of experience in software development, systems integration, or engineering support roles",
       "no_sponsorship": false
     }
   ],
@@ -37,6 +23,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://cae.wd3.myworkdayjobs.com/career",
   "jobs_spec": "wd:cae/wd3/career",
-  "evidence": "Workday API 2026-10-08 (380, full): US entry-ish SWE roles (Charleston, Altus; 1-3 yrs) say 'Government contract requirements, only U.S. citizens are eligible for this role'. Junior Software Developer is Mirabel, Canada (not Toronto/Vancouver). Excluded.",
-  "confidence": "high"
+  "evidence": "Workday full board 2026-10-20 (386). US entry-ish SWE roles (MTS Software Engineer Charleston, ATS Software Engineer Altus, 1-3 yrs) say 'Government contract requirements, only U.S. citizens are eligible for this role' and need DoD clearance eligibility. Junior Software Developer (Mirabel, Quebec) is outside scope.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "dropped": []
 }

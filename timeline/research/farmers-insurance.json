@@ -1,16 +1,16 @@
 {
   "company": "Farmers Insurance (Farmers Group, Zurich Insurance Group)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party history found (tracker shows closed Associate Data Scientist 2026-03 and Associate Business Solutions Analyst 2026-07, not SWE)",
+  "last_cycle_basis": "no tracker or first-party new-grad SWE history found (tracker shows closed Associate Data Scientist 2026-03, not SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.farmersinsurance.com",
   "jobs_spec": null,
-  "jobs_spec_basis": "SuccessFactors site, no API; full list paged via ?startrow= in 25s",
-  "evidence": "jobs.farmersinsurance.com SuccessFactors board 2026-10-08, all 151 listings paged: Python Developer (4+ yrs per prior read), Agile Dev Team Member IV, Cloud Platform Engineer, Solution Engineers, data scientists; FBS engineers are Mexico. No entry SWE or new-grad program.",
-  "confidence": "high"
+  "evidence": "Paged all 144 listings via the SuccessFactors search: US tech roles are Solution Engineer (7 yrs), AI Forward Deployed Engineer (5 yrs), Cloud roles and Associate Data Scientist (not SWE). No entry SWE.",
+  "confidence": "medium"
 }

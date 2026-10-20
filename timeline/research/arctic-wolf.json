@@ -1,15 +1,16 @@
 {
   "company": "Arctic Wolf",
-  "tier": 6,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history",
+  "last_cycle_basis": "no tracker or board history of a new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://arcticwolf.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:arcticwolf/wd1/External",
-  "evidence": "Workday full board (121) 2026-10-08: only entry-level match is Professional Services Engineer 1 (Waterloo ON; Eden Prairie MN; San Antonio TX), a services role, not SWE. Developer roles are Bengaluru; Canada dev roles Staff/Senior.",
-  "confidence": "medium"
+  "evidence": "Rechecked 2026-10-20 on full board API, same result. Workday API 2026-10-19, 118 postings (full): developer roles are Senior/Staff in Bengaluru; Professional Services Engineer 1 is customer implementation; Infrastructure Developer (Eden Prairie) is 2-4 yrs infra ops. No entry SWE.",
+  "confidence": "high"
 }

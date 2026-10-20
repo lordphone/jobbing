@@ -1,15 +1,16 @@
 {
   "company": "Clarivate",
-  "tier": 6,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none in 2025-07 to 2026-01; ad hoc Software Engineer Philadelphia first seen 2026-02-02, no program",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "None in 2025-07 to 2026-01; ad hoc Software Engineer Philadelphia first seen 2026-02-02, no program",
   "jobs_page": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers",
   "jobs_spec": "wd:clarivate/wd3/Clarivate_Careers",
-  "evidence": "Workday API 2026-10-07, 190 postings read: SWE roles are Lead/Senior (Bangalore, Barcelona, Belgrade, Ann Arbor); entry-titled Associate DevOps/Tech Ops are Belgrade/Jerusalem/Bangalore. No US/Toronto/Vancouver entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board (185) 2026-10-20: no US/Toronto/Vancouver software roles at entry level; entry-titled DevOps roles are Belgrade/Jerusalem and analyst roles are non-SWE. US engineering is senior/lead. Only ad hoc entry SWE last cycle (Philadelphia 2026-02).",
+  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

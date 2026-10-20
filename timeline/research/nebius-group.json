@@ -1,15 +1,16 @@
 {
   "company": "Nebius Group",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "only US Early Talent role seen: ML Solution Architect (Early Talent), remote US, first 2026-06-17 (tracker); a 3-month paid contract, not SWE",
+  "last_cycle_basis": "jobs.py history: no tracker data; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/nebius",
   "jobs_spec": "gh:nebius",
-  "evidence": "Greenhouse API 2026-10-08 (367 postings, full): only entry-titled roles are Early Talent in Prague/Amsterdam. US remote SWE roles (Infrastructure SWE, Frontend, ML Infra, FDE) read: strong/senior experience required, not counted.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (378) 2026-10-20: Early Talent roles are Prague/Amsterdam plus a US ML Solution Architect contract, not SWE. US Frontend, Infrastructure SWE and SRE postings state no level or years, left out.",
+  "confidence": "medium"
 }

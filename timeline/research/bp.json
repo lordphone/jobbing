@@ -1,15 +1,16 @@
 {
   "company": "bp",
-  "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'bp': US graduate postings Jun-Aug 2026 are trading/shipping and subsurface engineering only; no SWE",
-  "jobs_page": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers",
-  "jobs_spec": "wd:bpinternational/wd3/bpEarlyCareers",
-  "evidence": "Workday bpEarlyCareers (7, full) 2026-10-08: SWE-type graduate roles (Technology Data & AI, Enterprise Tech) are Kuala Lumpur only; US roles are internship/other. No US entry SWE.",
-  "confidence": "high",
-  "checked": "2026-10-08",
   "tier": 5,
+  "checked": "2026-10-20",
+  "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "US graduate postings Jun-Aug 2026 were trading/shipping and subsurface engineering only; no US SWE grad found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers",
+  "jobs_spec": "wd:bpinternational/wd3/bpEarlyCareers",
+  "evidence": "bpEarlyCareers full board (18) read 2026-10-20: technology graduate roles (Info Sec, Data & AI, Enterprise Tech) are Malaysia only; US none. No US SWE graduate posting.",
+  "confidence": "medium"
 }

@@ -1,55 +1,17 @@
 {
   "company": "McKinsey",
-  "tier": 10,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - QuantumBlack, AI by McKinsey",
-      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineer-quantumblackaibymckinsey-112342",
-      "location": "Atlanta, GA; Boston, MA; Chicago, IL; Denver, CO; Newark, NJ; New York, NY",
-      "opened": "on or before 2026-10-08",
-      "date_source": "page text (no posted date shown)",
-      "deadline": null,
-      "grad_window": "Dec 2026 – Aug 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "AI Data Engineer - QuantumBlack, AI by McKinsey",
-      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
-      "location": "Atlanta, GA; Boston, MA; Chicago, IL; Newark, NJ; New York, NY; Raleigh, NC; San Francisco, CA; Washington, DC",
-      "opened": "on or before 2026-10-02",
-      "date_source": "page text (no posted date shown)",
-      "deadline": null,
-      "grad_window": "Dec 2026 – Aug 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "AI Data Engineer - QuantumBlack, AI by McKinsey (Toronto)",
-      "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112449",
-      "location": "Toronto, ON",
-      "opened": "on or before 2026-10-02",
-      "date_source": "page text (no posted date shown)",
-      "deadline": null,
-      "grad_window": "Dec 2026 – Aug 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker coverage of McKinsey (jobs.py history empty); no dated source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-08: QuantumBlack Software Engineer 112342 (US, grad Dec 2026-Aug 2027, CS degree), AI Data Engineer 112288 (US) and 112449 (Toronto) all show Apply Now. Board of 623 jobs scanned; other US engineer roles are senior/principal. No sponsorship text seen.",
-  "confidence": "high"
+  "evidence": "McKinsey jobs gateway API 2026-10-20 (613 listings, all read): QuantumBlack Software Engineer 112342 and AI Data Engineer 112288/112449 (seen 2026-10-08) are not listed. US/Toronto engineering roles need 2-5+ yrs, citizenship or TS/SCI, or are senior; Software Delivery Analyst is a BI/data delivery role. No entry-level SWE.",
+  "confidence": "medium",
+  "jobs_spec_basis": "careers page calls gateway.mckinsey.com/apigw-x0cceuow60/v1/api/jobs/search (pageSize=20, start=page); no jobs.py spec"
 }

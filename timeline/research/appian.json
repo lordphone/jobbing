@@ -1,29 +1,43 @@
 {
- "company": "Appian",
- "tier": 5,
- "status": "open",
- "postings": [
-  {
-   "title": "Associate Application Engineer (2027 Graduates)",
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
-   "location": "McLean, VA",
-   "opened": "2026-07-23",
-   "date_source": "greenhouse first_published",
-   "deadline": null,
-   "grad_window": "2027 graduates",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": "2025-09-23",
- "last_cycle_basis": "Tracker history: Associate Application Engineer - Dec 2025 Grads, McLean VA, first seen 2025-09-23.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/appian",
- "jobs_spec": "gh:appian",
- "evidence": "Greenhouse full board 2026-10-08 (163): Associate Application Engineer (2027 Graduates) McLean VA live (page 200 with apply form, updated 2026-09-29); posting says Appian will not sponsor. Tracker SWE 8041241 is 404. Other 2027 roles are consulting. No deadline.",
- "confidence": "high",
- "checked": "2026-10-08"
+  "company": "Appian",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Application Engineer (2027 Graduates)",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8035372",
+      "location": "McLean, VA",
+      "opened": "2026-07-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": "2027 graduates",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Product Engineer",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8264454",
+      "location": "McLean, VA",
+      "opened": "2026-10-08",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "body says 'As an Associate Product Engineer'; asks '1 to 5 years of professional or foundational internship experience'; works 'under the guidance of senior engineers'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-09-23",
+  "last_cycle_basis": "Tracker history: Associate Application Engineer - Dec 2025 Grads, McLean VA, first seen 2025-09-23.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/appian",
+  "jobs_spec": "gh:appian",
+  "evidence": "Greenhouse full board (165) 2026-10-20: Associate Application Engineer (2027 Graduates) and Product Engineer (Associate, 1-5 yrs, works under senior engineers) live via API. Tracker lead 8041241 returns 404 on the API, not on board. Consulting roles and Database Engineer left out.",
+  "confidence": "high"
 }

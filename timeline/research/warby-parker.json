@@ -1,15 +1,16 @@
 {
   "company": "Warby Parker",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'warby': no postings found",
+  "last_cycle_basis": "no tracker history; no entry-level SWE posting found for last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.warbyparker.com/en/sites/WarbyParkerCareers",
   "jobs_spec": "oracle:fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle board API 2026-10-08 (894, full): software roles are Staff SWE (Search & Recs) and Senior SWE Android II; Process Engineer is not software. No entry-level SWE.",
+  "evidence": "Oracle board full (924): only software role is Senior Software Engineer, Android II (NYC); Process Engineer is surfacing/manufacturing. No entry SWE.",
   "confidence": "high"
 }

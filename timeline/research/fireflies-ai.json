@@ -1,15 +1,16 @@
 {
   "company": "Fireflies.ai",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad posting in tracker history",
+  "last_cycle_basis": "none found: no tracker history or university page",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/fireflies",
   "jobs_spec": null,
-  "evidence": "jobs.gem.com/fireflies (Gem API, 9 roles) 2026-10-08: Full stack Engineer (Manila), Security Engineer (Vancouver, 3+ yrs), rest design/marketing/recruiting in Philippines/India. No US/Toronto/Vancouver entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Gem board API (api.gem.com job_board fireflies, 8 roles) 2026-10-20: Full stack Engineer (Manila), Security Engineer (Vancouver, not SWE); rest design, marketing, recruiting in Philippines or India. No US/Canada entry-level SWE.",
+  "confidence": "medium"
 }

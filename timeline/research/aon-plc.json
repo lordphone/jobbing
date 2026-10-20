@@ -1,15 +1,16 @@
 {
   "company": "Aon plc",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker record",
+  "last_cycle_basis": "unknown; no tracker record for a US entry software role",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.aon.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.aon.com JSON API 2026-10-08 (software, developer, engineer, graduate, early careers, junior, associate): US/Toronto/Vancouver tech roles are senior or need 3+ yrs (PathWise AI Developer Toronto 3+); early careers are actuarial, broking, health. Early Careers Junior C#/SQL Developer is Montreal only.",
-  "confidence": "high"
+  "evidence": "jobs.aon.com API and sitemap 2026-10-20: only entry developer role is Early Careers Junior C#/SQL Developer in Montreal (not Toronto/Vancouver). US tech roles are manager/lead/IAM.",
+  "confidence": "medium"
 }

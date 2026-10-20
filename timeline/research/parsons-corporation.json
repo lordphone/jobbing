@@ -1,36 +1,30 @@
 {
   "company": "Parsons Corporation",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Software Engineer TS",
-      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
-      "location": "Centreville, VA",
-      "opened": "on or before 2026-09-05",
-      "date_source": "workday postedOn (Posted 30+ Days Ago); tracker first seen 2026-07-01",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api"
-    },
-    {
-      "title": "Associate Vulnerability Researcher Engineer",
-      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---FL-Melbourne/Associate-Vulnerability-Researcher-Engineer_R186346",
-      "location": "Melbourne, FL",
-      "opened": "2026-09-23",
+      "title": "Applied AI Engineer",
+      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Westminster/Applied-AI-Engineer_R187096",
+      "location": "Westminster, CO",
+      "opened": "2026-10-12",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api"
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years Python and a bachelor's; no leadership duties; Security Clearance Requirement: None; $74,800-$130,900",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-11-03",
   "last_cycle_basis": "tracker first seen: Software Engineer I, San Antonio TX (Parsons Workday)",
-  "excluded_reason": "clearance",
+  "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://parsons.wd5.myworkdayjobs.com/search",
   "jobs_spec": "wd:parsons/wd5/search",
-  "evidence": "Workday full (1915) 2026-10-08, posting API. Associate Vulnerability Researcher (Melbourne FL) and Junior Software Developer TS/SCI (Herndon) require Top Secret clearance; Centreville SWE needs TS clearance (US citizenship). Civil roles are non-software.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-20 (480, partial listings vary run to run), detail read via API (Apply available). Applied AI Engineer (Westminster, Critical Infrastructure): 2+ yrs Python, 'Security Clearance Requirement: None', no citizenship line, borderline level. Other SWE roles need TS/SCI, Secret, U.S. citizen or 5-15 yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "tier": 5,
+  "dropped": []
 }

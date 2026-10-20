@@ -12,8 +12,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "0-2 years of related experience is desired; infotainment software/hardware development; no senior duties",
+      "level": "new-grad title",
+      "level_basis": "careers page data yearsExpReqd '0-1 years (college entry level)'",
       "no_sponsorship": false
     },
     {
@@ -25,8 +25,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's in EE or related; 0-2 years relevant experience; works with moderate oversight",
+      "level": "new-grad title",
+      "level_basis": "careers page data yearsExpReqd '0-1 years (college entry level)'",
       "no_sponsorship": false
     },
     {
@@ -38,8 +38,8 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "4-yr BSc in CS/EE/CE; 0-3 years of related experience desired; 'will learn process and requirements'",
+      "level": "new-grad title",
+      "level_basis": "careers page data yearsExpReqd '0-1 years (college entry level)'",
       "no_sponsorship": false
     }
   ],
@@ -47,9 +47,10 @@
   "last_cycle_basis": "tracker only shows Engineering Development Program (manufacturing, not SWE) 2025-01; no earlier SWE new-grad posting found",
   "jobs_page": "https://careers.honda.com/us/en/search-results?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Phenom widgets search 'software' 2026-10-08 (69 hits, all read) plus posting pages (Apply present): three Raymond OH entry-level SWE roles, rolling, no deadline, no citizenship/sponsorship text. Senior, test, ADAS-test and Cloud Applications Engineer roles not counted.",
+  "evidence": "Careers sitemap and page data 2026-10-20: three Raymond OH SWE roles live in sitemap, page data yearsExpReqd '0-1 years (college entry level)', no citizenship or sponsorship text. East Liberty Software, AI & Data Analytics (1 to 3 yrs), CAE tooling and test-engineer roles not counted.",
   "confidence": "medium",
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "dropped": []
 }

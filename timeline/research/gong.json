@@ -1,15 +1,16 @@
 {
   "company": "Gong",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/gongio",
   "jobs_spec": "gh:gongio",
-  "evidence": "Greenhouse board (99, full) 2026-10-08: R&D roles are in Tel Aviv/Dublin and Senior/Staff; US roles are go-to-market. No entry-level SWE in US/Toronto/Vancouver.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse API 2026-10-20, 96 postings full: R&D roles are Tel Aviv/Dublin and senior; US roles are go-to-market. No US entry-level SWE.",
+  "confidence": "high"
 }

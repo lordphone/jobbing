@@ -11,7 +11,7 @@ A tracker listing never makes a company "open" by itself. If the company's own b
 matching posting, the company is not_yet; if no board could be read, it is tracker_lead (check it first-party).
 The listing is kept in the "Tracker lead" column either way.
 """
-import json, re, csv, glob, datetime as dt, collections
+import json, os, re, csv, glob, datetime as dt, collections
 from common import *
 
 companies = load_companies()
@@ -47,17 +47,6 @@ def job_ids(s):
     s = s or ''
     return set(re.findall(r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}', s, re.I)) | \
         set(re.findall(r'(?<![\w-])(?:[A-Z]{1,3}-?)?\d{5,}(?:-\d+)?', s)) - {''}
-
-
-def url_id(u):
-    """The posting's own ID: the last ID in the URL path (earlier ones are often a site or board ID)."""
-    ids = [m.group(0) for m in re.finditer(r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}|'
-                                           r'(?<![\w-])(?:[A-Z]{1,3}-?)?\d{5,}(?:-\d+)?', re.sub(r'[?#].*', '', u or ''), re.I)]
-    return {ids[-1]} if ids else set()
-
-
-def norm_url(u):
-    return re.sub(r'^https?://(www\.)?|[?#].*$|/+$', '', (u or '').strip().lower())
 
 
 def norm_title(t):
@@ -109,6 +98,22 @@ def parse_date(s):
     if not m:
         return None
     return dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3) or 15))
+
+
+first_seen = json.load(open(SEEN_PATH)) if os.path.exists(SEEN_PATH) else {}
+
+
+def posted_and_discovered(url, opened):
+    """Posted: the date the posting showed, or '' when it showed none. Discovered: the first day a run saw the link."""
+    current = opened_value(opened)
+    if not url:
+        return current, ''
+    e = first_seen.setdefault(url, {'discovered': TODAY.isoformat(), 'opened': []})
+    posted = earliest_opened(current, e['opened'], e['discovered'])
+    if current and current not in e['opened']:
+        e['opened'] = sorted(e['opened'] + [current], key=lambda v: (v[-10:], v.startswith('on or')))
+    # "on or before" a day we had already seen it says nothing the Discovered date doesn't
+    return ('' if posted.startswith('on or') and posted[-10:] >= e['discovered'] else posted), e['discovered']
 
 
 rows = []
@@ -239,9 +244,10 @@ for c in companies:
             continue
         seen.add(url or title)
         ap = application_for(cid, title, url)
+        posted, discovered = posted_and_discovered(url, iso(opened))
         postings.append({'Company': c['name'], 'Tier': c['tier'], 'Role': title, 'Level': level, 'Link': url, 'Location': loc,
-                         'Areas': ', '.join(areas_of(loc)) if loc else r['Areas'], 'Opened': iso(opened),
-                         'Deadline': deadline, 'Applied': f"{ap['status']} ({ap['date']})" if ap else '',
+                         'Areas': ', '.join(areas_of(loc)) if loc else r['Areas'], 'Posted': posted,
+                         'Discovered': discovered, 'Deadline': deadline, 'Applied': f"{ap['status']} ({ap['date']})" if ap else '',
                          # the posting's own sponsorship line when research recorded one, else the company's
                          'Sponsorship': r['Sponsorship'] if no_spon is None else ('no sponsorship' if no_spon else ''),
                          'Confidence': r['Confidence'], 'Source': r['Source']})
@@ -277,10 +283,11 @@ with open(f'{OUT}/status.csv', 'w', newline='') as f:
     w.writerows(rows)
 
 with open(f'{OUT}/postings.csv', 'w', newline='') as f:
-    w = csv.DictWriter(f, fieldnames=['Company', 'Tier', 'Role', 'Level', 'Link', 'Location', 'Areas', 'Opened', 'Deadline',
-                                      'Applied', 'Sponsorship', 'Confidence', 'Source'])
+    w = csv.DictWriter(f, fieldnames=['Company', 'Tier', 'Role', 'Level', 'Link', 'Location', 'Areas', 'Posted', 'Discovered',
+                                      'Deadline', 'Applied', 'Sponsorship', 'Confidence', 'Source'])
     w.writeheader()
     w.writerows(postings)
+json.dump(dict(sorted(first_seen.items())), open(SEEN_PATH, 'w'), indent=1)
 
 cnt = collections.Counter(r['Status'] for r in rows)
 print(cnt, 'applied at', len(applied), 'companies |', len(postings), 'open postings,',
@@ -306,7 +313,7 @@ company_notes = {r['Company']: r['Notes'] for r in rows}
 for p in postings:
     p['Notes'] = company_notes.get(p['Company'], '')
 apply_now = sorted([p for p in postings if not p['Applied']],
-                   key=lambda r: (r['Tier'], r['Company'], r['Opened'] or '9999'))
+                   key=lambda r: (r['Tier'], r['Company'], (r['Posted'] or r['Discovered'])[-10:] or '9999'))
 applied_rows = [r for r in rows if r['Applied']]
 open_left = collections.Counter(p['Company'] for p in apply_now)
 for r in applied_rows:
@@ -343,7 +350,8 @@ L = [f'# 2027 New-Grad Timeline', '',
      f'- **No US new-grad SWE track found:** {len(nop)}',
      f'- **Dropped (citizenship, green card, or clearance required):** {len(exc)} — kept in `status.csv` as `excluded`', '',
      '"Apply now" only counts postings seen on the company\'s own job board. GitHub trackers (SimplifyJobs, '
-     'speedyapply, vanshb03) are used for leads and last-cycle dates. Workday dates are the latest repost.', '']
+     'speedyapply, vanshb03) are used for leads and last-cycle dates. Posted is the earliest date the posting showed, '
+     'blank when it showed none; Discovered is the first day a run saw its link.', '']
 
 
 def table(rs, cols):
@@ -363,18 +371,18 @@ L += table(applied_rows, ['Company', 'Tier', 'Applied', 'Status', 'Open, not app
 L += ['## Apply ASAP: stated deadlines', '',
       'Open, not yet applied, and the posting states a deadline. Soonest first. Most postings state none, '
       'so a missing entry is not a sign of time to spare.', '']
-L += ['### In your areas', ''] + table(mine(asap), ['Company', 'Tier', 'Role', 'Areas', 'Deadline', 'Days left', 'Opened',
+L += ['### In your areas', ''] + table(mine(asap), ['Company', 'Tier', 'Role', 'Areas', 'Deadline', 'Days left', 'Posted', 'Discovered',
                                                     'Sponsorship']) + ['']
-L += ['### Elsewhere', ''] + table(others(asap), ['Company', 'Tier', 'Role', 'Deadline', 'Days left', 'Opened',
+L += ['### Elsewhere', ''] + table(others(asap), ['Company', 'Tier', 'Role', 'Deadline', 'Days left', 'Posted', 'Discovered',
                                                  'Sponsorship']) + ['']
 L += ['## 1. Apply now', '',
       'One row per open posting you haven\'t applied to, by tier and company, oldest first. Level "unlabeled" means the '
       'title has no level but the posting reads entry-level (see the research file\'s level_basis); blank means not recorded yet. '
       '"Your areas" are set in `.agents/skills/new-grad-timeline/scripts/areas.json`; '
       'every company is still researched, and the rest are listed under Elsewhere.', '']
-L += ['### In your areas', ''] + table(mine(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Areas', 'Opened',
+L += ['### In your areas', ''] + table(mine(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Areas', 'Posted', 'Discovered',
                                                         'Deadline', 'Confidence', 'Sponsorship', 'Notes']) + ['']
-L += ['### Elsewhere', ''] + table(others(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Opened', 'Deadline',
+L += ['### Elsewhere', ''] + table(others(apply_now), ['Company', 'Tier', 'Role', 'Level', 'Location', 'Posted', 'Discovered', 'Deadline',
                                                       'Confidence', 'Sponsorship', 'Notes']) + ['']
 L += ['## Tracker leads: confirm on the company site', '',
       'A GitHub tracker lists these as open, but no one has checked the company\'s own board yet.', '']

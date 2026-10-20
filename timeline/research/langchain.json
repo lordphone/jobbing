@@ -1,7 +1,7 @@
 {
   "company": "LangChain",
   "tier": 3,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -13,7 +13,7 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
+      "level": "new-grad title",
       "level_basis": "Early Career in title; requires 1-3 years; OTE $160,000-185,000",
       "no_sponsorship": false
     },
@@ -26,7 +26,7 @@
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
-      "level": "unlabeled",
+      "level": "new-grad title",
       "level_basis": "Early Career in title; requires 1-3 years; OTE $160,000-185,000",
       "no_sponsorship": false
     },
@@ -63,6 +63,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/langchain",
   "jobs_spec": "ashby:langchain",
-  "evidence": "Ashby full board (100) 2026-10-08: two Deployed Engineer (Early Career) postings (SF, NYC; 1-3 yrs; customer-facing) plus LangSmith Frontend and FullStack roles asking 2+ yrs (judgement call). Other roles 3+ yrs or senior.",
-  "confidence": "medium"
+  "evidence": "Ashby full board (104) read and screened 2026-10-20: Deployed Engineer (Early Career) SF and NYC (1-3 yrs) live; LangSmith Frontend/FullStack ask 2+ yrs, kept. Other Deployed Engineers ask 3+ yrs; Agent Systems (GTM) has no years, left out.",
+  "confidence": "medium",
+  "dropped": []
 }

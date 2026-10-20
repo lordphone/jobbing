@@ -1,7 +1,7 @@
 {
   "company": "Nelnet",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "excluded",
   "postings": [
     {
@@ -37,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet",
   "jobs_spec": "wd:nelnet/wd1/MyNelnet",
-  "evidence": "Workday full board (69) 2026-10-08: both junior-level SWE postings say 'Nelnet will be unable to hire applicants without United States citizenship' and need federal clearance. Others need 3+ yrs; Data Engineer says no sponsorship. Interns otherwise.",
-  "confidence": "high"
+  "evidence": "Workday full board (64) 2026-10-20: R23090 and R23145 live via API, both quote 'Nelnet will be unable to hire applicants without United States citizenship' (federal clearance). Other SWE roles need citizenship or 3+ yrs. Interns not counted.",
+  "confidence": "high",
+  "dropped": []
 }

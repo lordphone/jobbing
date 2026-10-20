@@ -1,42 +1,30 @@
 {
-  "company": "eBay",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Applied Researcher 1 - Multimodal AI",
-      "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1---Multimodal-AI_R0076692",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-30",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Applied Researcher 1 (level 1); '1 or more years of experience building computer vision and/or multimodal systems'",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Applied Researcher 1",
-      "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/San-Jose/Applied-Researcher-1_R0077134",
-      "location": "San Jose, CA",
-      "opened": "2026-10-07",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-15",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Applied Researcher 1 (level 1); Master's degree minimum, no years of experience required",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2026-02",
-  "last_cycle_basis": "prior research: '2026 Software Engineer - Recent Graduates' (San Jose/Austin); tracker: Software Engineer 1 NYC 2025-02-27, Applied Researcher 1 Austin 2026-04-03, Toronto 2026-04-20",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://ebay.wd5.myworkdayjobs.com/apply",
-  "jobs_spec": "wd:ebay/wd5/apply",
-  "evidence": "Workday full board (299) 2026-10-08: only entry-level fits are research-flavored Applied Researcher 1 (Toronto, San Jose; San Jose ends 10-15, no sponsorship). New San Jose 'MTS 1, Software Engineer' x2 left out: 5 yrs / 2 yrs per skill, $187K+. Other SWE roles senior, 3+ yrs or India/Europe.",
-  "confidence": "low",
-  "checked": "2026-10-08"
+ "company": "eBay",
+ "tier": 4,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Applied Researcher 1 - Multimodal AI",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1---Multimodal-AI_R0076692",
+   "location": "Toronto, ON, Canada",
+   "opened": "2026-09-30",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Level 1 title; 'Ph.D. or M.S.' accepted; '1 or more years of experience building computer vision and/or multimodal systems'; hands-on applied ML model role",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2026-02",
+ "last_cycle_basis": "prior research: '2026 Software Engineer - Recent Graduates' (San Jose/Austin); tracker: Software Engineer 1 NYC 2025-02-27, Applied Researcher 1 Austin 2026-04-03, Toronto 2026-04-20",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://ebay.wd5.myworkdayjobs.com/apply",
+ "jobs_spec": "wd:ebay/wd5/apply",
+ "evidence": "Workday full board (274) 2026-10-20: MTS 1 SWE San Jose is really MTS 2 (3 yrs, $187K+), not entry; Austin Full Stack Platform Engineer has no years and no sponsorship, not counted. Toronto Applied Researcher 1 (1+ yr) live.",
+ "confidence": "medium"
 }

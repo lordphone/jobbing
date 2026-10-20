@@ -1,0 +1,17 @@
+{
+  "company": "Pacific Gas and Electric Company (PG&E)",
+  "status": "closed",
+  "last_cycle_opened": "2025-11-12",
+  "last_cycle_basis": "jobs.py history: AI and Automation Programmer Analyst, Associate (Oakland CA) first seen 2025-11-12",
+  "jobs_page": "https://jobs.pge.com/search-jobs",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Custom careers site, no API; search pages read by fetch",
+  "evidence": "jobs.pge.com searches 2026-10-19 (software, developer, associate, programmer, data, AI): no entry software role; Data Platform Engineer is DBA/infra (2 yrs), Automation Specialist Associate is SCADA support. Product Engineer Associate gone per earlier check; kept closed.",
+  "confidence": "medium",
+  "checked": "2026-10-19",
+  "tier": 5,
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
+}

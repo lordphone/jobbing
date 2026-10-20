@@ -1,8 +1,8 @@
 {
   "company": "Zoom Communications",
   "tier": 4,
-  "checked": "2026-10-08",
-  "status": "not_yet",
+  "checked": "2026-10-20",
+  "status": "closed",
   "postings": [],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker first seen 'Software Engineer' Remote (Zoom Workday) 2025-08-17; 'New Grad: Software Engineer' San Jose 2024-09-11",
@@ -10,6 +10,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "jobs_spec": "wd:zoom/wd5/Zoom",
-  "evidence": "Workday (106, full) 2026-10-08, screened 28 eng reqs: US SWE reqs want 2-5+ yrs, master's, pay $188K-$275K, no sponsorship. Closest: SE San Jose R19178 (1 yr, $187,741, started 2026-05) not counted as mid-level pay. No new-grad posting.",
-  "confidence": "medium"
+  "evidence": "Workday (80, full) 2026-10-20: R19178 (Master+1yr SWE, San Jose) no longer on board, so closed. Remaining US eng: SWE R19749 6+ yrs, Full Stack 5-8 yrs, Audio AI PhD, others senior or unclear (R19747, WebRTC).",
+  "confidence": "low",
+  "dropped": []
 }

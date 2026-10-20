@@ -1,7 +1,7 @@
 {
   "company": "Palantir",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -42,6 +42,19 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, New Grad - Query Engines",
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "location": "New York, NY",
+      "opened": "2026-10-19",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-06-13",
@@ -50,6 +63,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/palantir",
   "jobs_spec": "lever:palantir",
-  "evidence": "Lever API (315, full) + apply pages 200, 2026-10-08: Chicago and NYC FDSE New Grad Commercial (grad Dec 2026/Spring 2027) and NYC PCL Engineer New Grad live. Other US new-grad SWE/FDIE roles (Defense, Infrastructure, US Gov) require US security clearance or eligibility: excluded. NYC FDSE URL reused from last cycle.",
-  "confidence": "high"
+  "evidence": "Lever API (306, full) 2026-10-20: Chicago and NYC FDSE New Grad Commercial, NYC PCL Engineer New Grad and new NYC SWE New Grad - Query Engines (created 2026-10-19, no clearance or citizenship text, read in full) live. Every other US new-grad SWE/FDIE role quotes 'Active US Security clearance, or eligibility and willingness to obtain' (all 17 rechecked 2026-10-20): excluded. Unlabeled SWEs ask 2-4+ yrs at $135K-$200K; left out. NYC FDSE URL reused from 2025-06.",
+  "confidence": "high",
+  "dropped": []
 }

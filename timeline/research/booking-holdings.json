@@ -1,29 +1,43 @@
 {
-  "company": "Booking Holdings",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Java Developer",
-      "url": "https://priceline.wd1.myworkdayjobs.com/priceline/job/Toronto/Associate-Java-Developer_R5644",
-      "location": "Toronto, ON, Canada",
-      "opened": "on or before 2026-09-05 (workday startDate 2026-07-13)",
-      "date_source": "workday startDate / postedOn 30+ days",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; requires '2+ years of experience in Core Java'; $85,000-100,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no Booking Holdings new-grad SWE history found; KAYAK Associate Software Engineer (MA) first seen 2026-07-20, no longer on Ashby board; Priceline Associate Data Developer Toronto 2026-04-27",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://priceline.wd1.myworkdayjobs.com/priceline",
-  "jobs_spec": "wd:priceline/wd1/priceline",
-  "evidence": "Priceline Workday board (56, full) 2026-10-08: Associate Java Developer Toronto still live (2+ yrs Core Java, startDate 2026-07-13, entry 'Associate' title). Other Toronto devs need 4-5+ yrs; Mumbai/US roles senior. KAYAK/OpenTable checked, no entry SWE found.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+ "company": "Booking Holdings",
+ "tier": 4,
+ "checked": "2026-10-20",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Java Developer",
+   "url": "https://priceline.wd1.myworkdayjobs.com/priceline/job/Toronto/Associate-Java-Developer_R5644",
+   "location": "Toronto, ON, Canada",
+   "opened": "on or before 2026-09-05 (workday startDate 2026-07-13)",
+   "date_source": "workday startDate / postedOn 30+ days",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Associate title; requires '2+ years of experience in Core Java'; $85,000-100,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Ads (Backend)",
+   "url": "https://jobs.ashbyhq.com/kayak/85165d45-de15-444d-8a5e-b7fdb8f3cf1e",
+   "location": "Cambridge, MA; Concord, MA",
+   "opened": "2026-10-08",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "No years required, 'internships, or substantial personal or academic projects' count, works 'with guidance from senior engineers'; $110,000-125,000",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no Booking Holdings new-grad SWE history found; KAYAK Associate Software Engineer (MA) first seen 2026-07-20, no longer on Ashby board; Priceline Associate Data Developer Toronto 2026-04-27",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://priceline.wd1.myworkdayjobs.com/priceline",
+ "jobs_spec": "wd:priceline/wd1/priceline",
+ "evidence": "Priceline Workday (58, full) 2026-10-20: Associate Java Developer Toronto live (2+ yrs Core Java); other Toronto devs need 4+ yrs. KAYAK Ashby (43, full): SWE Ads Backend (Cambridge/Concord MA) published 2026-10-08, still listed.",
+ "confidence": "medium"
 }

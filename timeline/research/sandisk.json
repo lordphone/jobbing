@@ -1,16 +1,30 @@
 {
   "company": "Sandisk",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Software Engineer - Consumer Application",
+      "url": "https://avature.sandisk.com/Careers/JobDetail/Associate-Software-Engineer-Consumer-Application/3364",
+      "location": "Milpitas, CA (remote work mode)",
+      "opened": "on or before 2026-10-17",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "\"This is a junior role\"; \"New college grads are welcome\"; $88,700-$150,800",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "SmartRecruiters NCG postings last cycle were firmware (Senior Firmware Dev NCG Masters, Milpitas, 2025-08-19), FAE and automation dev; no dated SWE found",
+  "last_cycle_basis": "no dated prior-cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://avature.sandisk.com/Careers",
   "jobs_spec": null,
-  "jobs_spec_basis": "Sandisk careers page Search Jobs links go to avature.sandisk.com/Careers",
-  "evidence": "Careers page links to Avature board (avature.sandisk.com/Careers). Paged all 38 postings in browser 2026-10-08: none in the US; fresh-grad roles are Asia hardware/test/packaging. Old SmartRecruiters board returns 0. NCG program exists (firmware/data platform), no US SWE now.",
-  "confidence": "medium"
+  "evidence": "Avature job page 3364 re-opened by fetch 2026-10-20: Apply present, junior role, new college grads welcome, no sponsorship or citizenship line. Others are senior, hardware or Penang.",
+  "confidence": "high",
+  "dropped": []
 }

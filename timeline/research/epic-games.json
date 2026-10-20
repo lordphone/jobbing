@@ -1,15 +1,16 @@
 {
   "company": "Epic Games",
   "tier": 3,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no new-grad SWE postings in 2025-07 to 2026-01; nearest are 2024 programmer roles",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no new-grad or entry-level SWE posting in tracker history (only 2024 coordinator/programmer roles)",
   "jobs_page": "https://job-boards.greenhouse.io/epicgames",
   "jobs_spec": "gh:epicgames",
-  "evidence": "Greenhouse board read in full 2026-10-08 (150): US programmer roles (AI Programmer 'experienced', shipped AAA; Animation Systems; ML Engineer PhD or 3+ yrs) are experienced. Build Programmer (Cary NC) states no level or years, left out as unclear. Only interns (Cary) are entry-level. No new-grad FT role.",
-  "confidence": "medium"
+  "evidence": "Greenhouse board read in full (139) 2026-10-20. US/Canada programmer roles are Senior/Lead/Principal; ML Engineer, Memory requires 'PhD in Computer Science... or 3+ years of relevant industry experience'. Only interns otherwise. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-20",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

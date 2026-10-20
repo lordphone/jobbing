@@ -1,55 +1,17 @@
 {
   "company": "XPENG",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
-    {
-      "title": "2027 Campus Recruiting General Intelligence Center Full-Time Position",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680015002",
-      "location": "Santa Clara, CA",
-      "opened": "2026-08-04",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "2027 Campus Recruiting Robotics Center Full-Time Position",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680040002",
-      "location": "Santa Clara, CA",
-      "opened": "2026-08-04",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "2027 Stanford Career Fair Full-Time Position",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8811971002",
-      "location": "Santa Clara, CA",
-      "opened": "2026-09-22",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "tracker first seen: Autonomous Driving Center Full-Time Position 2025-08-14 (Greenhouse, now closed)",
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xpengmotors",
   "jobs_spec": "gh:xpengmotors",
-  "evidence": "Greenhouse (27 jobs, full): three pooled 2027 campus full-time postings live (AI/ML, AI infra, software engineering pathways; Robotics Center is AI/ML and motion control). No citizenship or sponsorship text. Other SWE roles Senior/Staff.",
+  "jobs_spec_basis": "tracker first seen: Autonomous Driving Center Full-Time Position https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
+  "evidence": "Greenhouse board (22, full) 2026-10-20 has no entry role. The three 2027 campus postings (8680015002, 8680040002, 8811971002) are off the API, and opening the 8680015002 and 8811971002 URLs redirected to the board listing, so they are closed.",
   "confidence": "medium"
 }

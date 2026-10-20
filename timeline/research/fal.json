@@ -1,15 +1,16 @@
 {
   "company": "fal",
-  "tier": 4,
-  "checked": "2026-10-08",
+  "tier": 3,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad history in trackers; jobs.py history has none",
+  "last_cycle_basis": "no new-grad history in trackers; jobs.py history matches only Falconwood, a different company",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/fal-ai",
   "jobs_spec": "ashby:fal-ai",
-  "evidence": "ashby:fal-ai full board 2026-10-08 (40): SWE/SRE/ML roles need 3-5+ yrs or Senior/Staff; ML Engineer, Safety (SF) requires prior hands-on trust & safety experience and owns systems end to end, no entry-level language. No new-grad track.",
-  "confidence": "high"
+  "evidence": "ashby:fal-ai 2026-10-20 (44, full): read every SWE/ML role: 3-5+ yrs or Senior/Staff; ML Engineer Safety needs trust and safety experience, no entry label. No entry-level role.",
+  "confidence": "medium"
 }

@@ -1,29 +1,30 @@
 {
-  "company": "General Mills",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Digital & Technology Associate - Campus Recruiting",
-      "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732",
-      "location": "Minneapolis, MN",
-      "opened": "2026-09-10",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": "Grad date Dec 2026 or Spring 2027; start Jan 2027 or Summer 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Campus Recruiting rotational program (two 12-month roles); full-time roles incl. Technical Analyst, Data Engineer, Platform Engineer, Machine Learning Engineer; base $90,000",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for this company; no last-cycle date found",
-  "no_sponsorship": true,
-  "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
-  "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
-  "evidence": "Workday full board (365) re-read 2026-10-08 and posting API: D&T Associate - Campus Recruiting (Minneapolis) live, canApply, no end date, 'will not sponsor... work visas'. Rotational program incl. Data/Platform/ML Engineer roles; other tech roles are Mumbai or senior.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-08",
-  "excluded_reason": null
+ "company": "General Mills",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Digital & Technology Associate - Campus Recruiting",
+   "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732",
+   "location": "Minneapolis, MN",
+   "opened": "2026-09-10",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": "Grad date Dec 2026 or Spring 2027; start Jan 2027 or Summer 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Campus Recruiting rotational program (two 12-month roles); full-time roles incl. Technical Analyst, Data Engineer, Platform Engineer, Machine Learning Engineer; base $90,000",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; no last-cycle date found",
+ "no_sponsorship": true,
+ "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
+ "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
+ "evidence": "Workday board read in full (364) 2026-10-20: D&T Associate Campus Recruiting (Minneapolis, startDate 2026-09-10, rotational, roles incl. Data/Platform/ML Engineer, grad Dec 2026/Spring 2027, no visa sponsorship) still listed live via API. All other tech roles are Mumbai or senior.",
+ "confidence": "medium",
+ "tier": 5,
+ "checked": "2026-10-20",
+ "excluded_reason": null,
+ "dropped": []
 }

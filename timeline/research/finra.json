@@ -1,15 +1,16 @@
 {
   "company": "FINRA",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: Software Engineer, Woodbridge NJ, first seen 2026-03-25 (not last-cycle window, experience level unverified).",
+  "last_cycle_basis": "Tracker history: Software Engineer, Woodbridge NJ, first seen 2026-03-25 (outside last-cycle window, experience level unverified).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://finra.wd1.myworkdayjobs.com/FINRA",
   "jobs_spec": "wd:finra/wd1/FINRA",
-  "evidence": "Workday API 2026-10-08 (56, full): engineering roles Senior/Staff/Principal/Lead only; HONORS Program 2027 is a JD legal program, not tech. Tracker's Mar/May 2026 Software Engineer postings gone; no entry SWE live.",
+  "evidence": "Workday API 2026-10-20 (51, full): engineering roles are Staff/Lead/Senior only; no entry SWE or new-grad tech program. Tracker's Mar/May 2026 Software Engineer postings are gone.",
   "confidence": "high"
 }

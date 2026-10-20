@@ -1,29 +1,21 @@
 {
   "company": "Highmark Health",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
-  "postings": [
+  "checked": "2026-10-20",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "ETDP Associate - Software Engineering",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020",
-      "location": "Pittsburgh, PA",
-      "opened": "2026-10-08",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": "Bachelor's graduated within the last year, 3.2+ GPA",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Enterprise Technology Development Program, two-year early-career rotational program in the Software Engineering track",
-      "no_sponsorship": true
+      "reason": "gone: browser page says 'The page you are looking for doesn't exist' and the Workday search no longer lists it"
     }
   ],
   "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, remote (PA et al.) 2025-12-03; Associate Application Developer reqs 2026-03, 2026-06 now closed",
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer 2025-12-03",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark",
   "jobs_spec": "wd:highmarkhealth/wd1/highmark",
-  "evidence": "Workday board 2026-10-08 (1240, full) + posting text: ETDP Associate - Software Engineering (enGen, Pittsburgh, start 2026-10-08) canApply true, 'we do not offer visa sponsorship', bachelor's graduated within last year. Associate Software Engineer (J286291) says 'CANDIDATE MUST BE US Citizen', so excluded and not listed.",
-  "confidence": "high"
+  "evidence": "Workday board read in full (1926 listed): ETDP Associate - Software Engineering (posted 2026-10-07) now returns 'page doesn't exist' in the browser and is absent from the search. Software Engineer J281003 needs 3+ years and US citizenship. Associate Info Sec Engineer is not SWE.",
+  "confidence": "medium"
 }

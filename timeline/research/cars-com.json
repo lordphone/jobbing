@@ -1,15 +1,16 @@
 {
   "company": "Cars.com (Cars Commerce)",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-25",
   "last_cycle_basis": "Tracker first seen: Software Engineer - Frontend (Remote USA), https://cars.wd12.myworkdayjobs.com/en-US/cars/job/United-States-Remote/Software-Engineer_JR10748 (level unverified)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://cars.wd12.myworkdayjobs.com/cars",
   "jobs_spec": "wd:cars/wd12/cars",
-  "evidence": "Workday board 2026-10-08 (31, full): engineering roles are Lead Software Quality Test Engineer and Solutions Engineer; rest sales, finance, product. Last-cycle Frontend Software Engineer (2025-11-25) is gone; its entry level was not verified.",
-  "confidence": "medium"
+  "evidence": "wd:cars full (29): only Staff Software Engineer and Lead Software Quality Test Engineer; rest sales, finance, legal. No entry SWE now. Last-cycle Frontend SWE posting (2025-11-25) level unverified.",
+  "confidence": "high"
 }

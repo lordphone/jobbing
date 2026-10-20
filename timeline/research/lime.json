@@ -1,15 +1,17 @@
 {
   "company": "Lime",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in tracker history; none found.",
+  "last_cycle_basis": "no tracker history; no entry-level SWE posting found for last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Lime",
   "jobs_spec": null,
-  "evidence": "Ashby board (non-user-graphql) 2026-10-08, 65 postings: engineering is Senior, Staff, Manager, Lead or Technical Lead; operations 'Associate' roles only. No junior SWE or new-grad program. posting-api 404s so no spec.",
-  "confidence": "high"
+  "evidence": "Read Ashby board via GraphQL (58 postings): engineering is Engineering Manager, Senior, Staff, NetSuite or Analytics roles; no entry-level software role in US/Canada.",
+  "confidence": "high",
+  "jobs_spec_basis": "Careers page links to jobs.ashbyhq.com/Lime; no jobs.py spec, read via Ashby GraphQL."
 }

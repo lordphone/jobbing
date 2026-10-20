@@ -1,15 +1,16 @@
 {
   "company": "Kimberly-Clark",
   "status": "no_program_found",
+  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting in tracker history or first-party board",
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL",
   "jobs_spec": "wd:kimberlyclark/wd1/GLOBAL",
-  "evidence": "Workday GLOBAL full board (154) 2026-10-08: only 2027 co-ops/internships incl. AI & Project Management Co-Op (Atlanta, not counted); US engineering roles are plant/process/electrical; no entry SWE.",
+  "evidence": "Workday GLOBAL full board (157) 2026-10-20: only 2027 AI & Project Management Co-Op (Atlanta, co-op not counted), process and environmental engineers. No entry software role.",
   "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
+  "no_sponsorship": false,
   "excluded_reason": null,
-  "postings": [],
-  "no_sponsorship": false
+  "dropped": [],
+  "tier": 5
 }

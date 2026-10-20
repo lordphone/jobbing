@@ -1,15 +1,16 @@
 {
   "company": "NBCUniversal",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-11-05",
   "last_cycle_basis": "jobs.py history: Software Engineer - Fandango (North Hollywood) first seen 2025-11-05; Dreamworks Technology Software Engineer I 2026-04-09",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/NBCUniversal3",
   "jobs_spec": "sr:NBCUniversal3",
-  "evidence": "SmartRecruiters 2026-10-08 (454, full): US software titles are Sr./Staff/Manager. Associate Solutions Architect, Ad Technology (ad-tech solutions) and Jr. Data Scientist are not SWE, not counted. No entry SWE live.",
-  "confidence": "high"
+  "evidence": "SmartRecruiters full board 2026-10-20 (427): US engineer titles are broadcast, facilities or systems; software and data titles are senior or non-US. Associate Solutions Architect, Ad Technology is not SWE. No entry-level US SWE live.",
+  "confidence": "medium"
 }

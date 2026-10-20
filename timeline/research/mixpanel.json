@@ -1,15 +1,16 @@
 {
   "company": "Mixpanel",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2026-04-15",
   "last_cycle_basis": "jobs.py history: 'Software Engineer - New Grad' first seen 2026-04-15 (SF), closed",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/mixpanel",
   "jobs_spec": "gh:mixpanel",
-  "evidence": "Greenhouse board (51, full) 2026-10-08: only SWE is Distributed Systems (SF, 2026-08-31) requiring 3+ yrs, not entry-level; others are customer/delivery/marketing systems. Tracker saw 'Software Engineer - New Grad' SF 2026-04-15, now closed.",
-  "confidence": "high",
-  "checked": "2026-10-08"
+  "evidence": "Greenhouse API 2026-10-20 (46, full): only US SWE is Distributed Systems (SF) requiring 3+ yrs on a senior-heavy team. Last cycle New Grad SWE (SF, 2026-04-15) is closed.",
+  "confidence": "medium"
 }

@@ -68,3 +68,25 @@ facts:
 - he hosts a group of CMU badminton players every weekend
 - manages everybody's usernames and passwords so the group can guarantee it has courts to play on
 note: for written answers; not printed on resumes yet. Stack and dates not given.
+
+
+## pj-cs537-os
+
+tags: systems, c, concurrency, operating-systems
+facts:
+- UW–Madison undergraduate CS 537 operating systems coursework; user confirms writing multiple projects
+- saved source: /Volumes/Recycle Bin/Files/school/UW-Madison/CS 537/
+- C quicksort project (`p3a/psort.c`): recursive partitioning, pthread worker creation, mutex-protected thread-count updates, condition-variable completion signaling, dynamically allocated worker arguments, sorted-order check
+- experience with C pointers, arrays, structs, dynamic allocation, recursion, and POSIX threading
+- team xv6 project (`p3b/cs537-p3b`): contributed user-space syscall entry points (`usys.S`, commit 051d336, Lordphone Wen) and `sys_clone` wrapper (`sysproc.c`, commit 940d788, lordphone)
+- `sys_clone` retrieves four pointer arguments with `argptr`, returns an error on argument failure, and calls kernel `clone`
+- familiarity with the user/kernel system-call boundary and xv6 syscall argument handling
+notes:
+- inspected source and local Git history on 2026-10-08; did not build or run these archived projects
+- quicksort archive is a prototype: DATA_LENGTH=100 versus worker-spawn threshold >100000; do not claim measured parallel speedup or production correctness
+- kernel `clone` implementation is attributed to teammate Garry; do not claim sole ownership
+- `join` is a stub returning 888; do not claim completed kernel threading or join support
+- p4 contains starter/example files and stubbed MFS library operations; authorship and completed filesystem implementation are not established
+- these files support C experience, not C++ experience
+approved:
+- default: Implemented a pthread-based quicksort in C for UW–Madison operating systems coursework and contributed xv6 system-call entry points and a clone wrapper with pointer-argument validation.

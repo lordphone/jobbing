@@ -1,15 +1,16 @@
 {
   "company": "L.L.Bean",
   "tier": 5,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "no new-grad SWE history in trackers (history search)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://llbean.wd1.myworkdayjobs.com/llbean_careers",
   "jobs_spec": "wd:llbean/wd1/llbean_careers",
-  "evidence": "Workday full board 2026-10-08 (123): retail, merchant, design, supply chain; only engineer is Associate Industrial Engineer (Freeport, ME; not software). No software roles.",
-  "confidence": "high"
+  "evidence": "Workday board 127 full 2026-10-20: only Associate Industrial Engineer and Senior SAP ABAP Developer (Costa Rica); no entry-level SWE.",
+  "confidence": "high",
+  "dropped": []
 }

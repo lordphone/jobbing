@@ -1,15 +1,16 @@
 {
   "company": "Uber",
   "tier": 2,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-08-12",
-  "last_cycle_basis": "jobs.py history: 'Graduate 2025 Software Engineer I, US' San Francisco first seen 2025-08-12, https://www.uber.com/global/en/careers/list/147250/",
+  "last_cycle_basis": "jobs.py history: 'Graduate 2025 Software Engineer I, US' San Francisco first seen 2025-08-12",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.uber.com",
   "jobs_spec": "oracle:iaziqy.fa.ocs.oraclecloud.com/UberCareers",
-  "evidence": "Oracle HCM full board (623) 2026-10-08: no US SWE I / 2027 grad; only two 2026 PhD-only SWE II (AV Labs). Tracker lead SWE I job 160017 (first seen 2026-07-09): jobs.uber.com page says 'Not found' in browser, so closed.",
+  "evidence": "Oracle HCM full board (714) 2026-10-20: no US or Toronto SWE I or 2027 grad SWE role; only PhD-only 2026 AV Labs SWE II and SWE II roles asking 2+ years. This-cycle SWE I 160017 (first seen 2026-07-09) shows Not found on jobs.uber.com in the browser, so closed.",
   "confidence": "high"
 }

@@ -1,15 +1,16 @@
 {
   "company": "Cambridge Mobile Telematics",
-  "tier": 3,
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "not_yet",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: 'Software Engineer I' postings first seen 2024-10-09 to 2025-02-03 (cycle before last); nothing labeled entry-level 2025-07 to 2026-01 (2025-12-19 'Software Engineer - Backend' level unclear).",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cambridgemobiletelematics",
   "jobs_spec": "gh:cambridgemobiletelematics",
-  "evidence": "Greenhouse full board (22) 2026-10-08: US engineering all Principal/Senior; only unlabeled engineers (SRE, Customer Solutions SWE) are Budapest. No SWE I or new-grad posting now.",
-  "confidence": "medium",
-  "checked": "2026-10-08",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Greenhouse full board (24) read 2026-10-20: US engineering all Principal/Senior; only unlabeled engineers are IT Security (2+ yrs security, Cambridge) or Budapest. No SWE I or new-grad posting now.",
+  "confidence": "high"
 }

@@ -1,15 +1,30 @@
 {
   "company": "Redwood Materials",
-  "status": "not_yet",
-  "postings": [],
+  "tier": 3,
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - ML/Computer Vision (Battery Sorting)",
+      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6099577004?gh_jid=6099577004",
+      "location": "McCarran, NV; San Francisco, CA",
+      "opened": "2026-06-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "desired: 'B.S. ... 2+ years of industry experience working with machine learning models'; no lead/mentor duties; $152,500-$200,000",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker entry found",
+  "last_cycle_basis": "No tracker history of new-grad SWE; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/redwoodmaterials",
   "jobs_spec": "gh:redwoodmaterials",
-  "evidence": "Greenhouse full board 2026-10-08 (138): SWE roles are Senior/Staff or 2-5+ yrs at $150K+ (Site Controller 2+ yrs, ML/CV Battery Sorting 2+ desired, left out as unclear). Staff Recruiter, Early Career and Interns posted 2026-09-22 hints a program is coming.",
-  "confidence": "low",
-  "checked": "2026-10-08",
-  "tier": 3
+  "evidence": "Greenhouse full board 2026-10-20 (140) read and screened: ML/CV SWE (2+ yrs desired, no senior duties) still live, counted unlabeled. Site Controller owns orchestration/architecture; Infra SWE 5+ yrs; Validation/Embedded are test/firmware.",
+  "confidence": "medium",
+  "dropped": []
 }

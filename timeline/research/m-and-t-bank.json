@@ -1,8 +1,9 @@
 {
-  "company": "M&T Bank",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "open",
+  "checked": "2026-10-20",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "postings": [
     {
       "title": "2027 Technology Development Program - Software Engineering",
@@ -18,12 +19,12 @@
       "no_sponsorship": true
     }
   ],
+  "company": "M&T Bank",
+  "status": "open",
   "last_cycle_opened": "2025-07-30",
   "last_cycle_basis": "tracker first-seen 2025-07-30 'Technology Development Program - Software Engineering' Buffalo NY (Campus board)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://mtb.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:mtb/wd5/Campus",
-  "evidence": "Campus Workday (45, full) 2026-10-08: 2027 Technology Development Program - Software Engineering (Buffalo) live, canApply true, 'Work Visa Sponsorship not offered', bachelor's CS, GPA 3.0. Cybersecurity track not counted. No deadline stated.",
+  "evidence": "Campus Workday (45, full) 2026-10-20: 2027 Technology Development Program - Software Engineering (Buffalo) live, 'Work Visa Sponsorship not offered'. Not counted: Cybersecurity TDP, Executive Associate Program - Technology (3 yrs), hourly Technology Apprentice (ZDP), IS Forward Deployed Product Analyst.",
   "confidence": "high"
 }

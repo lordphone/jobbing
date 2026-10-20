@@ -1,15 +1,16 @@
 {
   "company": "Dow Inc.",
-  "tier": 5,
-  "checked": "2026-10-08",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": "2026-02-11",
   "last_cycle_basis": "Tracker: Associate Data Engineer on Dow board, first seen 2026-02-11 (spring; closest entry software-adjacent role)",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://dow.wd1.myworkdayjobs.com/ExternalCareers",
   "jobs_spec": "wd:dow/wd1/ExternalCareers",
-  "evidence": "Workday full board 2026-10-08 (204): no SWE new-grad role. Campus Graduate R&D (BS/MS) R2068809 (ends 2026-12-01, no sponsorship) is a chemistry/engineering R&D program that lists CS and data science/engineering as one area, not a SWE track. IT campus grad is PhD only. ML Engineer needs 3+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday full board (185) 2026-10-20: Campus Graduate R&D/Manufacturing/Information Systems is PhD-only; BS/MS R&D track is chemistry; IT campus roles are internships. ML Engineer (mentors juniors) and Legal Software Developer (3 yrs min) not entry-level.",
+  "confidence": "medium",
+  "tier": 5,
+  "checked": "2026-10-20",
+  "postings": [],
+  "excluded_reason": null,
+  "dropped": []
 }

@@ -1,15 +1,16 @@
 {
   "company": "SiFive",
   "tier": 4,
+  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history found 0 tracker postings for SiFive",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://sifive.wd1.myworkdayjobs.com/sifivecareers",
   "jobs_spec": "wd:sifive/wd1/sifivecareers",
-  "evidence": "Workday full board (127) 2026-10-08: only new-grad title is System Validation Engineer (Hsinchu/Bengaluru). US software-ish roles (Software Engineer - Platform Technologies, DV Infrastructure - Platform, Language & Frontend Design) state no years or entry level, so unclear and left out; rest are Staff/Principal or 3+ yrs.",
-  "confidence": "medium",
-  "checked": "2026-10-08"
+  "evidence": "Workday full board (130) 2026-10-20: only new-grad title is System Validation Engineer (Hsinchu, Taiwan). US Software Engineer - Platform Technologies, Language & Frontend Design Engineer and DV Infrastructure - Platform list no years or level, so not counted as entry-level; FPGA RTL Simulation SWE asks 7+ yrs.",
+  "confidence": "high"
 }

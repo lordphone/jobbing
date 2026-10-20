@@ -1,14 +1,13 @@
 # ZenAI
 
-- company-line: ZenAI — MiraclePlus (Formerly YC China) 2023 Fall Batch
-- company-line-short: ZenAI — MiraclePlus (Formerly YC China) F23
+- company-line: ZenAI — MiraclePlus (Formerly YC China) F23
 - title: Full Stack Developer
 - dates: September -- December 2023
 - location: Beijing, China
 - stack: React, Next.js, Supabase, PostgreSQL
 - outcome-note: the company pivoted away from this product at the end. Do not invent what they pivoted to. Do not print the mock-interview app as the lasting company direction.
 
-Prefer `company-line` on generated resumes. `company-line-short` is only for tight headers.
+Always print `company-line` (F23) on resumes and copy-paste text; do not spell out "2023 Fall Batch".
 
 ## za-mock-interview
 

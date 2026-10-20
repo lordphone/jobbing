@@ -1,15 +1,16 @@
 {
   "company": "BILL Holdings (Bill.com)",
-  "tier": 6,
-  "checked": "2026-10-08",
+  "tier": 4,
+  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: only non-SWE Associate Risk/Fraud Data Scientist roles (2025-10-30, 2026-04-16)",
+  "last_cycle_basis": "no tracker or board history of a new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.bill.com/careers",
   "jobs_spec": "gh:billcom",
-  "evidence": "Greenhouse API 2026-10-08, 42 postings: engineering titles are Senior/Staff/Principal; Software Engineer II (2026-10-04) and II Payments Platform are mid-level, not counted. No entry SWE.",
+  "evidence": "Rechecked 2026-10-20 on full board API, same result. Greenhouse API 2026-10-19, 45 postings (full): Software Engineer II reqs need '3+ years' Java, level II, and say no visa sponsorship; rest Senior/Staff. No entry-level SWE.",
   "confidence": "high"
 }

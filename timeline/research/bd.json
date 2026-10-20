@@ -1,15 +1,30 @@
 {
   "company": "BD (Becton, Dickinson and Company)",
   "tier": 5,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
+      "location": "Sparks, MD",
+      "opened": "2026-10-08",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: Software Engineer I, Sparks MD, 2025-01-17 (two cycles ago, outside last-cycle window); none in 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
   "jobs_spec": "wd:bdx/wd1/EXTERNAL_CAREER_SITE_USA",
-  "evidence": "Workday full board 2026-10-08 (340) plus searches: no entry SWE; Clinical Database Programmer needs 3+ yrs, DevSecOps Engineer is experienced; only Quality Engineer I and Entry Level Electrical Service Engineer. Software Engineer I opened Jan two cycles ago.",
-  "confidence": "medium"
+  "evidence": "Workday API (646 listed, full): Software Engineer I, Sparks MD, canApply true, requires a BS only, no years stated, $75.8K-$121.3K. Posted 2026-10-09 per API, tracker first seen 2026-10-08.",
+  "confidence": "high"
 }

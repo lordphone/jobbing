@@ -1,18 +1,13 @@
 {
   "company": "Wise",
   "tier": 4,
-  "checked": "2026-10-08",
+  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [
+  "postings": [],
+  "dropped": [
     {
-      "title": "Graduate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
-      "location": "Austin, TX",
-      "opened": "2026-09-22",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": "Graduating 2026 or 2027",
-      "live_verified": "no"
+      "reason": "gone: Austin Graduate Software Engineer (2026-09-22), SmartRecruiters API says active=false (CLOSED) and it is absent from the board"
     }
   ],
   "last_cycle_opened": null,
@@ -21,6 +16,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.smartrecruiters.com/Wise",
   "jobs_spec": "sr:Wise",
-  "evidence": "2026-10-08 SmartRecruiters (403, full): no US entry engineering role; only Senior Security Engineer (Austin). Austin Graduate SWE (2026-09-22) was already expired and is not on the board. No sponsorship.",
+  "evidence": "2026-10-20 SmartRecruiters (407, full): Austin Graduate SWE (posted 2026-09-22, no sponsorship) is closed and off the board. Current Graduate SWE is London only. US roles are all non-engineering.",
   "confidence": "high"
 }

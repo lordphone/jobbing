@@ -1,29 +1,17 @@
 {
  "company": "John Hancock (Manulife)",
  "tier": 5,
- "status": "open",
- "postings": [
-  {
-   "title": "Associate Applied AI Engineer – GenAI Systems",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-2",
-   "location": "Toronto, ON, Canada",
-   "opened": "2026-10-04",
-   "date_source": "tracker first seen; workday startDate 2026-10-05",
-   "deadline": "2026-10-19",
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  }
- ],
+ "checked": "2026-10-20",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
  "last_cycle_opened": "2025-11-24",
  "last_cycle_basis": "tracker: Associate Full-Stack Software Engineer (Toronto/Kitchener) first seen 2025-11-24; Associate ML Engineer (Toronto) 2025-12-03; Boston New Grad SWE 2024-12-20 the year before.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
  "jobs_spec": "wd:manulife/wd3/MFCJH_Jobs",
- "evidence": "Manulife Workday board read in full (618) 2026-10-08: Toronto Associate Applied AI Engineer (0-3 yrs, endDate 2026-10-19) live. Boston/Waterloo SWE and AI Engineer need 3-5+ yrs; Associate full-stack roles are Philippines/Malaysia. Board is Manulife-wide.",
- "confidence": "high",
- "checked": "2026-10-08",
- "excluded_reason": null,
- "no_sponsorship": false
+ "evidence": "Workday API board read in full (613) 2026-10-20: no US/Toronto/Vancouver entry SWE. Toronto/Boston/Waterloo full-stack/back-end screened need 3-5+ yrs; Associate roles are Philippines/Malaysia. Earlier 2026-10-08 Toronto Associate Applied AI Engineer not on board.",
+ "confidence": "medium",
+ "jobs_spec_basis": "board confirmed; lists John Hancock/Manulife careers in full"
 }

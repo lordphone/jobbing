@@ -1,7 +1,5 @@
 {
   "company": "Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)",
-  "tier": 5,
-  "checked": "2026-10-08",
   "status": "open",
   "postings": [
     {
@@ -37,6 +35,9 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/BoschGroup",
   "jobs_spec": "sr:BoschGroup",
-  "evidence": "SmartRecruiters API (4882) 2026-10-08, US filtered, posting API read: Owatonna Software Engineer (Entry Level label, E2/E3) and Vehicle Diagnostics (Associate, no years required) active; no sponsorship. Embedded/Agentic SWE need 3-5+ yrs; Motorsport roles are application engineering, left out.",
-  "confidence": "medium"
+  "evidence": "SmartRecruiters API 2026-10-20 (US search for software, ML, graduate, entry terms): both Owatonna SWE postings still listed and live; both state 'Future sponsorship for work authorization not available'. Other US SWE need 3+ yrs; Motorsport Connectivity Engineer is application engineering, not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-20",
+  "tier": 5,
+  "dropped": []
 }

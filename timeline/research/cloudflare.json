@@ -1,15 +1,30 @@
 {
   "company": "Cloudflare",
   "tier": 3,
-  "checked": "2026-10-08",
-  "status": "not_yet",
-  "postings": [],
+  "checked": "2026-10-20",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Systems Engineer, Browser Isolation",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155?gh_jid=8276155",
+      "location": "Austin, TX",
+      "opened": "2026-10-13",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "no years required; 'seek help when needed', 'with support from experienced teammates'; 'You do not need to have led an organization-wide architecture effort'",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-08-27",
   "last_cycle_basis": "tracker lead only: 'System Engineer - Docs Platform' first seen 2025-08-27, not clearly new-grad",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cloudflare",
   "jobs_spec": "gh:cloudflare",
-  "evidence": "gh:cloudflare (424, full) 2026-10-08: no new-grad or early-career titles. Generic 'Software Engineer' roles (8212060, Rulesets, FL) state no years or level and are mostly non-US locations; US ones (Mobile SDK senior, Egress, R2 Gateway) ask 3+ yrs. Left out.",
-  "confidence": "medium"
+  "evidence": "gh:cloudflare (436, full) 2026-10-20: no new-grad titles; re-read ~45 SWE/Systems Engineer postings via API. Only Austin Browser Isolation reads early-level (no years, 'accountable for reliable delivery within a defined component', 'seek help'); counted. Others ask 3+ yrs, mentor/lead, senior or give no entry signal.",
+  "confidence": "low",
+  "dropped": []
 }
