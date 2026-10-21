@@ -1,0 +1,56 @@
+% Etsy — Software Engineer I, Marketplace Makers (Brooklyn, NY) — JR6037
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{New York, NY}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Foundations of Software Engineering, Software Refactoring, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Algorithms, Data Structure \& Programming III, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store as the team's sole SwiftUI engineer and primary backend author; the app reached $\sim$6{,}000 installs and 1{,}119 peak daily active users, tracked through a 72-event Amplitude analytics catalog; built Firebase auth with Google, Apple, and email sign-in.
+  \item Built the Python FastAPI and MongoDB backend from its first commit to 89 REST endpoints and 7 Kubernetes CronJobs on AWS EKS, with $\sim$1{,}450 offline tests gating every merge in CI (ruff, pyright, pytest).
+  \item Built a coaching marketplace (profiles, reviews, booking; $\sim$5{,}500 lines) behind a feature flag and verified no deep link or notification could open it; A/B tested \href{https://apps.apple.com/app/id6758861738}{DramaBreak} menu options by click-through rate in Amplitude.
+  \item Shipped Stripe web checkout for DramaBreak with a signature-verified webhook and idempotent fulfillment, and server-driven UI over 27 widget types so a new catalog surface ships without an App Store release.
+  \item Built a personalized breaking-news alert pipeline (embeddings, LLM scoring, LLM duplicate check); ran it in shadow mode on production traffic for 11 days to cut filler alerts from 34\% to 4\%, and shipped an LLM morning digest to 5{,}026 users ($\sim$81\% of the base).
+  \item Root-caused Live Activity pushes that had never worked (iOS drops a start push with no alert while APNs returns 200) and a 5-day silent CronJob outage; wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs, and onboarded the second engineer.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions, worked with recruiters so scoring matched real hiring, and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & TypeScript, JavaScript, Python, SQL, HTML, CSS, Java, Go, Swift \\[1pt]
+  \textbf{Full-Stack} & React, Next.js, Tailwind CSS, FastAPI, REST APIs, PostgreSQL, MySQL, MongoDB, Stripe \\[1pt]
+  \textbf{Testing \& Data} & pytest, Unit Testing, TDD, Amplitude, Git, Jira, Agile/Scrum \\[1pt]
+  \textbf{AI \& LLM} & LangChain, RAG, LLM tool calling / agents, Claude Code / AI coding tools \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, CI/CD, GitHub Actions, Prometheus, Grafana \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and tested KV caching, long context, and needle-in-a-haystack to expose nerfed caching and heavy quantization.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

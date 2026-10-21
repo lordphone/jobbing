@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-21 | Etsy | Software Engineer I, Marketplace Makers | https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1 | draft | — | 2026-10-21-etsy-software-engineer-i-marketplace-makers | Full-Stack Engineer Intern | JR6037; Brooklyn hybrid 1–2 days/wk; $120–162K Geo-1; PHP not in inventory; sponsorship "may be limited" |
 | 2026-10-21 | Akamai | Software Engineer I (Edge Platform) | | draft | — | 2026-10-21-akamai-software-engineer-i-edge-platform | Backend Engineer Intern | 4237; US remote (Cambridge, MA listed); certificate/config systems; JD wants Spring Boot, Angular (not in inventory); $75.7–136.3K; no posting URL in paste |
 | 2026-10-21 | C3 AI | Forward Deployed Engineer, New Grad 2027 | https://c3.ai/job-description/8804558002?gh_jid=8804558002 | applied | referred | 2026-10-21-c3-ai-forward-deployed-engineer-new-grad-2027 | Full-Stack Engineer Intern | ID 8804558002; Redwood City; $120–150K; customer-facing, travel as needed; ref: Diksha Baruah |
 | 2026-10-20 | SambaNova Systems | AI Performance Engineer - New Grad | | draft | — | 2026-10-20-sambanova-ai-performance-engineer-new-grad | AI Engineer Intern | San Jose / Austin on-site 3–5 days; $131.2–196.8K; weak fit (no vLLM/TensorRT, Triton, C++); no posting URL in paste |
