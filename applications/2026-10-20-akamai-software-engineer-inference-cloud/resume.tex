@@ -1,0 +1,61 @@
+% Akamai — Software Engineer (Inference Cloud, Control Plane & Developer Experience) — Job 2678
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Large Language Model Systems, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Software Engineering, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Backend Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the \href{https://apps.apple.com/app/id6762649287}{SportsBreak} FastAPI / MongoDB backend from its first commit to 89 REST endpoints, with $\sim$1{,}450 offline tests gating every merge (ruff, pyright, pytest); wrote 34 contract-first API specs.
+  \item Shipped Firebase auth (Google, Apple, email) with guest-first sessions upgraded in place, and moved nine third-party integrations server-side so the iOS binary ships zero third-party API credentials.
+  \item Shipped Stripe web checkout for \href{https://apps.apple.com/app/id6758861738}{DramaBreak} with a signature-verified webhook as the only trusted fulfillment path and idempotent fulfillment that reclaims stale pending payments.
+  \item Built an LLM search API that streams answers over SSE: fixed RAG retrieval on the first question, a capped tool-calling agent on follow-ups, and server-resolved citations the model cannot author.
+  \item Stood up the service on EKS (Helm, Jenkins) on day 3 and set up Prometheus / Grafana; diagnosed a 5-day silent CronJob outage (ImagePullBackOff + Forbid concurrency) and fixed it with paired deadlines.
+  \item Root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces to an unbounded reasoning loop and a Helm env shadowing the code default; sized a token cap to the failing path.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; designed database schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Led PR reviews, broke down user stories, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built the LLM mock-interview web app from 0$\to$1 as sole engineer in React, Next.js, and Supabase (PostgreSQL); owned auth, session state, and database interactions.
+  \item Demoed the product to clients and iterated AI scoring with recruiters so its categories matched real-life hiring; three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Go, JavaScript, TypeScript, SQL, Bash, Swift, Java \\[1pt]
+  \textbf{APIs \& Practices} & REST APIs, FastAPI, Server-Sent Events, Stripe, Git, GitHub Actions, CI/CD, pytest \\[1pt]
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, Prometheus, Grafana, Linux \\[1pt]
+  \textbf{Data \& AI} & MongoDB, PostgreSQL, Supabase, React, Next.js, LangChain, RAG, LLM tool calling \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought plans from Z.AI, MiniMax, and Kimi and tested KV caching and long context to show which providers nerfed caching or quantized models.
+  \item \textbf{my-av:} Built a CNN-GRU that predicts steering and speed from 1s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI with streaming inference.
+\end{itemize}
+
+\end{document}
