@@ -34,6 +34,7 @@ facts:
 - AI job matching
 approved:
 - default: Designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+- short: Designed the schemas and REST APIs for LangChain resume parsing, resume suggestions, and job matching.
 - llm: Designed database schemas and REST APIs for LangChain LLM features, including resume parsing, improvement suggestions, and AI job matching.
 
 ## hd-mentor-process

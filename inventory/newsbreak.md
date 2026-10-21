@@ -20,6 +20,7 @@
 - DramaBreak App Store link: https://apps.apple.com/app/id6758861738 — when a resume names DramaBreak, hyperlink the name to this page (`\href{https://apps.apple.com/app/id6758861738}{DramaBreak}`)
 - stack: Python 3.12, FastAPI, MongoDB/Motor, Pydantic, Swift/SwiftUI, Firebase, APNs, Amplitude, AppLovin MAX, Kubernetes/EKS, Helm, Jenkins, Docker, GitHub Actions, Langfuse, Prometheus, Grafana, RAG
 - grew the app with the team
+- believability (resume bullets): one or two headline numbers per bullet, not five. Show a denominator instead of a bare "100%" (20/20, not 0% → 100% P@1). Never print a ratio without what it compares (13.2 MB → 10.9 MB "78×" reads as a math error unless "per user" is explicit). Leave precision trivia (0.17 s, 1:1 line ratio, 27 routers, 11,745 user-days, 340/344 PRs) for interviews. Do not pair 1.4K App Store ratings with ~6,000 installs in one line: the ratings were counted after the internship and the ratio looks implausible side by side.
 
 ---
 
@@ -39,6 +40,7 @@ facts:
 approved:
 - default: Sole SwiftUI engineer (teammates made the iOS init commit) and primary backend author (69% of iOS commits; opened the backend with its first commit); authored 344 pull requests across five repositories (340 merged).
 - window: Sole full-time engineer on SportsBreak iOS + backend between one engineer rolling off and the next joining, whom I onboarded.
+- believable: Shipped SportsBreak to the App Store as the team's sole SwiftUI engineer and primary backend author; the app reached ~6,000 installs and 1,119 peak daily active users.
 
 ---
 
@@ -65,6 +67,7 @@ approved:
 - default: Built the FastAPI backend from the first commit to 89 MongoDB endpoints on EKS, with ~1,450 fully-offline tests (1:1 vs. production lines).
 - detailed: Opened a production FastAPI service with its first commit and grew it to 89 endpoints across 27 routers, ~62k lines, and ~1,450 fully-offline tests (0.17s) behind a ruff / pyright / pytest gate.
 - with-cache: Built the FastAPI / MongoDB backend from the first commit to 89 endpoints, with ~1,450 fully-offline tests, and replaced a 25–30 request client fan-out with one backend call.
+- believable: Built the FastAPI and MongoDB backend from its first commit to 89 REST endpoints and 7 Kubernetes CronJobs on AWS EKS, with ~1,450 offline tests gating every merge in CI (ruff, pyright, pytest).
 - regression: Grew the suite to ~1,450 fully-offline tests (0.17s) against a Motor fake that reproduces the production cluster's pre-4.4 `$meta` failure — the raise is the regression guard.
 
 ## nb-eks-standup
@@ -107,7 +110,7 @@ facts:
 - cache code was written by an AI agent; the code was clean and he wrote tests for it
 - found the per-user key after the pod's memory climbed toward the 512 MiB limit as the app grew (not caught before production)
 approved:
-- default: Replaced a 25–30 request client fan-out with one backend call and a shared 10.9 MB catalog cache — 78× smaller than a per-user key — sized for a 512 MiB pod.
+- default: Cut the World feed from 25–30 client requests to one backend call, and fixed a cache that never hit because it was keyed per user (13.2 MB each) by sharing one 10.9 MB copy as the pod neared its memory limit.
 - redesign: Redesigned a cache that could not hit: 13.2 MB per user (structurally-zero hit rate) → 10.9 MB shared (78×), after pod memory climbed toward its 512 MiB limit.
 
 ## nb-cronjob-outage
@@ -283,6 +286,7 @@ facts:
 - 2/day cap held over 11,745 user-days with zero violations
 - quiet hours shipped 2026-08-10 (`SVC#152`); dedupe threshold stayed 0.78
 approved:
+- believable: Built a personalized breaking-news alert pipeline (embeddings, LLM scoring, LLM duplicate check); ran it in shadow mode on production traffic for 11 days before launch, cutting filler alerts from 34% to 4%.
 - llm: Designed and shipped a personalized breaking-news pipeline: embed with bge, LLM-score each article on arrival, gate on per-topic 7-day percentile, then an LLM same-story judge so users do not get two alerts for one event; cut filler 34% → 4% by count, 29% → 3% device-weighted.
 - design: Designed ingest → embed → LLM-score → select → LLM same-story dedupe → APNs in one CronJob (~2 min): bge shortlists near-duplicates, DeepSeek scores (model never sees topic), percentile vs the topic's 7-day distribution (90th if a user has been quiet 20h), quiet hours that drop not defer, a trending path for users who follow nothing, then a final LLM judge so a user does not see two of the same notification.
 - backend: Built a personalized LLM alert pipeline as a Kubernetes CronJob, calibrated it in production shadow, then shipped it live at 1.8 median sends/day (cap 2/day and 1/topic); filler 29% → 3% of devices.
@@ -318,11 +322,11 @@ facts:
 - rejected embeddings: cosine returns one blurry neighbour where span matching returns both teams
 - eval harness runs against the real committed catalog, not a fixture
 approved:
-- default: Shipped agentic search with hybrid retrieval and server-resolved citations; entity resolution hit 100% P@1 on real logged queries.
-- with-followups: Shipped an LLM search agent with server-resolved citations and entity resolution; achieved 100% P@1 on real logged queries and enabled multi-turn conversations with suggested follow-ups.
+- default: Built an LLM search API with fixed RAG retrieval on the first question and a capped tool-calling agent on follow-ups; new entity resolution got 20/20 logged queries right that used to return nothing.
+- with-followups: Shipped an LLM search agent with server-resolved citations and entity resolution; got 20/20 real logged queries right that used to return nothing, and enabled multi-turn conversations with suggested follow-ups.
 - grounded: Built agentic search — one endpoint, two modes — with server-resolved citations (the model emits only an index, so it cannot author a URL), a bounded tool loop (≤3 hops, 45s), and SSE streaming.
 - design: Designed one SSE search-answer endpoint with two modes: turn 1 is deterministic RAG (code retrieves, model never gets tools), turn 2+ is a bounded agent (≤3 hops, 5 tools); hybrid RRF retrieval, entity resolver as the query rewriter, a question-shaped gate so bare lookups skip the LLM, and server-resolved `[n]` citations the model cannot author.
-- entities: Took real logged search queries from 0% to 100% P@1 with deterministic entity resolution at 0.4 ms over a 206-entity catalog, after rejecting embeddings with measurements.
+- entities: Got 20/20 real logged search queries right that used to return nothing, with deterministic entity resolution at 0.4 ms over a 206-entity catalog, after rejecting embeddings with measurements.
 
 ## nb-llm-failure
 
