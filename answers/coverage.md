@@ -18,6 +18,7 @@ Common behavioral question types and the inventory stories that fit. **Bold** = 
 | Conflict / disagreement | "Disagreed with a teammate or manager" | none in inventory — GAP |
 | Relevant skills | "3 relevant skills", "Top skills for this role" | `questions/relevant-skills.md` — pick from `inventory/skills.md` by JD; back each with `nb-fastapi-backend`, `hd-lead-mvp` / `za-mock-interview`, `nb-agentic-search` / `nb-llm-pipeline` |
 | Qualities for the role | "What makes someone great at X, and why you?" | `questions/agent-engineer.md`; `nb-llm-pipeline` (measured on real traffic), `nb-agentic-search` (citations the model can't author, evals), `nb-llm-failure` + `nb-fastapi-backend` (ownership), `za-demos-contracts` (customers) |
+| Project deep dive | "Describe a full-stack feature you built", "Walk us through a project" | `questions/project-deep-dive.md`; World feed: `nb-server-driven-ui` + `nb-catalog-cache` (**agent-cache**); alternates `nb-agentic-search`, `za-mock-interview` |
 | Why this company | "Why do you want to work at X?" | `questions/why-company.md`; `nb-morning-digest` (AI that saves users time) + what the JD says the company builds; personal product use if inventory has it (Perplexity) |
 | Tell me about yourself | — | not written — GAP |
 | Story that represents you / passion | "Share a story that reflects who you are", "A passion of yours" | `questions/about-you.md`; **retired-detector**; `pj-codingplans` (LLM plan-testing website) |

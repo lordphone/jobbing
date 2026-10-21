@@ -10,7 +10,7 @@ Agent-built cache that could never hit.
 
 - inventory: `nb-catalog-cache`
 - types: working with AI tools, reviewing code, performance, production issue, lesson learned
-- used with: (company not recorded, 2026-09-23)
+- used with: (company not recorded, 2026-09-23); Quora (Full Stack SWE New Grad, 2026-10-20, written)
 
 **STAR**
 - S: NewsBreak, SportsBreak app. An agent wrote the catalog cache for the main content page; clean code, I wrote tests.
