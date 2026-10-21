@@ -36,3 +36,4 @@ Hi [Name]! I'm a CMU master's student and just applied for C3 AI's FDE New Grad 
 | Name | Link | Type | Sent | Status | Notes |
 |------|------|------|------|--------|-------|
 | Zara Mansoor | https://www.linkedin.com/in/zara-mansoor/ | CMU alum | 10-09 | no reply | accepted the request with no note; FDE at C3 since Oct 2026 |
+| Diksha Baruah |  |  | 10-21 | referred 10-21 |  |
