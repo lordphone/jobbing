@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-20 | SambaNova Systems | AI Performance Engineer - New Grad | | draft | — | 2026-10-20-sambanova-ai-performance-engineer-new-grad | AI Engineer Intern | San Jose / Austin on-site 3–5 days; $131.2–196.8K; weak fit (no vLLM/TensorRT, Triton, C++); no posting URL in paste |
 | 2026-10-20 | Quora | Full Stack Software Engineer, New Grad | https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52 | draft | — | 2026-10-20-quora-full-stack-software-engineer-new-grad | Full-Stack Engineer Intern | Remote US/Canada; Core Product (Quora, not Poe); $97.6–139K US; 2025/2026 grads; backfill |
 | 2026-10-20 | Electronic Arts | EA Sports Academy - Software Engineer | https://jobs.ea.com/en_US/careers/JobDetail?jobId=216357 | draft | — | 2026-10-20-ea-sports-academy-software-engineer | Software Engineering Intern | 216357; Orlando (Tiburon) hybrid; May 2027 start; C++ required, not in inventory |
 | 2026-10-20 | Akamai | Software Engineer (Inference Cloud, Control Plane & Developer Experience) | | draft | — | 2026-10-20-akamai-software-engineer-inference-cloud | Backend Engineer Intern | 2678; US remote (Cambridge, MA listed); SWE I; $75.7–136.3K; no posting URL in paste |
