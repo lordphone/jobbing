@@ -1,0 +1,55 @@
+% Quora — Full Stack Software Engineer, New Grad (Remote US / Canada)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Large Language Model Systems, Foundations of Software Engineering\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Software Engineering, Large Language Models in Practice
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store as the team's sole SwiftUI engineer and primary backend author; the app reached $\sim$6{,}000 installs and 1{,}119 peak daily active users, tracked through a 72-event Amplitude analytics catalog.
+  \item Built the Python FastAPI and MongoDB backend from its first commit to 89 REST endpoints and 7 Kubernetes CronJobs on AWS EKS, with $\sim$1{,}450 offline tests gating every merge in CI (ruff, pyright, pytest).
+  \item Built a personalized breaking-news alert pipeline (embeddings, LLM scoring, LLM duplicate check); ran it in shadow mode on production traffic for 11 days before launch, cutting filler alerts from 34\% to 4\%.
+  \item Shipped a personalized LLM-generated morning digest to 5{,}026 users ($\sim$81\% of the base), with bullets that link back to their sources.
+  \item Built an LLM search API with fixed RAG retrieval on the first question and a capped tool-calling agent on follow-ups; new entity resolution got 20/20 logged queries right that used to return nothing.
+  \item Diagnosed a 5-day silent CronJob outage and fixed it with paired job and scheduler deadlines; set up Prometheus metrics and Grafana dashboards for the backend, and A/B tested DramaBreak menu options by click-through rate in Amplitude.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing, suggestions, and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions, worked with recruiters so scoring matched real hiring, and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, SQL, HTML, CSS, Java, Go, Swift \\[1pt]
+  \textbf{Full-Stack} & React, Next.js, FastAPI, Pydantic, REST APIs, PostgreSQL, MongoDB, Supabase \\[1pt]
+  \textbf{AI \& LLM} & LangChain, RAG, LLM tool calling / agents, Langfuse, Claude Code / AI coding tools \\[1pt]
+  \textbf{Cloud \& Practices} & AWS, GCP, Kubernetes (EKS), Docker, CI/CD, Prometheus, Grafana, pytest, Git \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and tested KV caching, long context, and needle-in-a-haystack to expose nerfed caching and heavy quantization.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}
