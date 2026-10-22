@@ -1,0 +1,59 @@
+% Bloomberg — 2027 Software Engineer - New York (New York, NY) — 21414
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{New York, NY}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Algorithms, Data Structure \& Programming III
+
+\section{Work Experience}
+\role{NewsBreak}{Software Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the FastAPI / MongoDB backend from its first commit to 89 endpoints over 26 collections and $\sim$48 indexes, with $\sim$1{,}450 fully-offline tests (0.17\,s) behind a ruff / pyright / pytest gate; stood up production AWS EKS (Helm, Jenkins) on day 3 with 7 CronJobs.
+  \item Wrote a MongoDB driver fake that reproduces the production cluster's pre-4.4 \texttt{\$meta} failure, which had silently killed a search leg behind HTTP 200; the raise is now the regression guard.
+  \item Built hybrid retrieval (substring + MongoDB \texttt{\$text} + bge vectors, fused by RRF) where a failing leg degrades to the survivors; entity resolution took real logged queries from 0\% to 100\% P@1 at 0.4\,ms.
+  \item Measured a cache that could never hit (13.2\,MB keyed per user), re-keyed it on content to a shared 10.9\,MB (78$\times$ smaller) for a 512\,MiB pod, and cut a home-load copy from 9.0 to 0.89\,ms (15 vs 127\,$\mu$s shallow vs deep).
+  \item Diagnosed a 65\% failure rate in another team's async LLM workers: a stalled Redis Streams read killed an \texttt{asyncio.gather} batch and Langfuse traces showed an unbounded reasoning loop; sized a 2{,}048-token cap against p95 1{,}197 tokens and modeled 49--66\% failures vs 65\% observed.
+  \item Sole SwiftUI engineer on \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings); traced missing ad adapters to linker dead-stripping and proved the \texttt{-ObjC} fix with a +7.5\,MB binary delta.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a Next.js, FastAPI, and Supabase app on GCP App Engine; designed database schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built an LLM mock-interview app from 0$\to$1 as sole engineer in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions; three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Java, C, Python, Go, SQL, TypeScript, Swift, Bash \\[1pt]
+  \textbf{Data \& Systems} & MongoDB, PostgreSQL, MySQL, Redis Streams, asyncio, hybrid retrieval, RRF, Linux, Git \\[1pt]
+  \textbf{Infra \& Testing} & Kubernetes (EKS), Docker, Helm, Prometheus, Grafana, GitHub~Actions, pytest, AWS \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{Operating Systems (C):} Implemented a pthread quicksort with mutexes and condition variables for UW--Madison coursework; contributed xv6 system-call entry points and a clone wrapper with pointer-argument validation.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}
