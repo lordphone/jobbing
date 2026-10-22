@@ -66,3 +66,9 @@ Sources: `pj-my-av` (inventory/projects.md); `nb-swiftui-app`, `nb-server-driven
 Mobile iOS: At NewsBreak, I was the sole SwiftUI engineer on SportsBreak and shipped it to the App Store, reaching about 6,000 installs and a peak of 1,119 daily active users. I built Firebase authentication, server-driven UI over 27 widget types so new screens ship without an App Store release, and ActivityKit Live Activities with a shared scoreboard widget.
 Machine learning: I built a PyTorch CNN-GRU that predicts steering angle and speed from 1-second video, with a data pipeline over 33 hours of Comma2k19 driving footage. I trained it on local CUDA and GCP Vertex AI and ran streaming inference for real-time predictions.
 ```
+
+## Amazon — SDE Early Career 2027 (10583340), C/C++ experience — 2026-10-22
+
+Question: "Describe your experience/familiarity coding and designing in C or C++ programing language (Any internship or project work experience is counted)."
+
+Source: `pj-cs537-os` (inventory/projects.md). Same answer as the 2026-10-08 Amazon entry.
