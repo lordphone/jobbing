@@ -4,9 +4,9 @@
 - printed title: pick one from the list below to match the JD; do not invent another
   - Software Engineering Intern — default; general SWE / "software engineer" JDs. Print "SWE Intern" only if the JD itself says SWE.
   - Engineering Intern — official title; use when no other title fits (for example infra or mobile)
-  - Backend Engineer Intern — JD is backend, APIs, or services; he was the sole backend owner and most of the work was backend
-  - Full-Stack Engineer Intern — JD is full-stack / fullstack; iOS + FastAPI from the first commit, primary on both
-  - iOS Engineer Intern — JD is iOS / Swift / SwiftUI; sole SwiftUI engineer, ~69% of iOS commits, App Store, Live Activities
+  - Backend Engineer Intern — JD is backend, APIs, or services; he was the sole backend author and most of the work was backend
+  - Full-Stack Engineer Intern — JD is full-stack / fullstack; iOS + FastAPI from the first commit, primary iOS engineer and sole backend author
+  - iOS Engineer Intern — JD is iOS / Swift / SwiftUI; primary iOS engineer, ~69% of iOS commits, App Store, Live Activities
   - AI Engineer Intern — JD is AI / ML / LLM / agents as product work; the intern work was written with AI
 - default printed title: Software Engineering Intern
 - team: Venture / NexBreak
@@ -31,16 +31,17 @@
 tags: leadership, fullstack
 facts:
 - sole full-time engineer on SportsBreak iOS + backend from ~2026-06-12 (Vivek last activity) until Khalil joined ~2026-07-01; onboarded Khalil
-- pretty much the sole SwiftUI engineer; teammates only made the iOS init commit
+- primary iOS engineer (correction from Lordphone, 2026-10-22; replaces "sole SwiftUI engineer")
+- sole backend author (correction from Lordphone, 2026-10-22; replaces "primary backend author")
 - ~69% of iOS commits (429/621); ~83% of backend (397/475)
 - team of ~6
 - authored 344 PRs across 5 repos, 340 merged
 - opened backend repo with first commit on 2026-05-12
 - iOS 43,695 lines / 222 Swift files; backend 61,661 lines / 257 py files
 approved:
-- default: Sole SwiftUI engineer (teammates made the iOS init commit) and primary backend author (69% of iOS commits; opened the backend with its first commit); authored 344 pull requests across five repositories (340 merged).
+- default: Primary iOS engineer (69% of iOS commits) and sole backend author (opened the backend with its first commit); authored 344 pull requests across five repositories (340 merged).
 - window: Sole full-time engineer on SportsBreak iOS + backend between one engineer rolling off and the next joining, whom I onboarded.
-- believable: Shipped SportsBreak to the App Store as the team's sole SwiftUI engineer and primary backend author; the app reached ~6,000 installs and 1,119 peak daily active users.
+- believable: Shipped SportsBreak to the App Store as the team's primary iOS engineer and sole backend author; the app reached ~6,000 installs and 1,119 peak daily active users.
 
 ---
 
@@ -144,8 +145,7 @@ approved:
 
 tags: mobile, frontend, fullstack
 facts:
-- pretty much the sole SwiftUI engineer
-- primary iOS author (~69% of commits)
+- primary iOS engineer (~69% of commits)
 - 43,695 lines, 233 views, 12 view models, 26 service types, 196 previews
 - iOS 18+, iPhone-only, 28 SwiftPM pins, no CocoaPods
 - Firebase auth: Google + Apple + email/password; guest-first anonymous sessions upgraded via `link()`
@@ -158,7 +158,7 @@ facts:
 - grew the app with the team
 - no iOS test target and no CI
 approved:
-- default: Sole SwiftUI engineer for SportsBreak (1.4K App Store ratings; peak DAU 1,119); shipped Firebase auth, a 72-event analytics catalog, and a binary with zero third-party API keys.
+- default: Primary iOS engineer for SportsBreak (1.4K App Store ratings; peak DAU 1,119); shipped Firebase auth, a 72-event analytics catalog, and a binary with zero third-party API keys.
 - scale: Shipped a 43,695-line SwiftUI app (233 views, 196 previews) to the App Store; iOS has no test target — 196 previews and a device/simulator protocol were the substitutes.
 
 ## nb-server-driven-ui
