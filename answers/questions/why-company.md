@@ -81,3 +81,20 @@ This summer I built an LLM search feature, and the part I cared about most was m
 ```text
 On the side, I've been buying LLM coding plans out of pocket from Z.AI, MiniMax, and Kimi and testing them on KV caching, long context, and needle-in-a-haystack to see which providers quietly nerfed caching or heavily quantized their models to save money. That taught me how much of a model's real quality comes down to how it's served, not just the weights. Fireworks' whole job is serving open models fast and well at scale, and that's the problem I want to work on. This summer I also shipped production LLM features on DeepSeek through an inference API, so I've felt the latency and reliability side as a customer too.
 ```
+
+---
+
+## EvenUp
+
+- question: In your own words, what is the core product that EvenUp builds, and how do you see Machine Learning playing a role in it?
+- company: EvenUp (Machine Learning Engineer)
+- date: 2026-10-22
+- story: `nb-agentic-search` (server-resolved citations, eval on logged queries), `nb-llm-pipeline` (hand-graded outputs, shadow mode) (inventory/newsbreak.md)
+
+```text
+EvenUp builds AI for personal injury law firms. A firm sends over a case, which is mostly a pile of medical records, bills, and accident details, and EvenUp's platform, Piai, turns it into the work a firm needs to win a fair settlement: what happened, what the injuries and treatments were, what they cost, and what the claim is worth. The goal is that an injured person gets a faster and fairer outcome, whether or not their firm can afford a big team to go through every page.
+
+ML sits at almost every step. Document understanding has to read messy, scanned, inconsistent medical records and pull out the facts that matter. NLP and LLMs turn those facts into a clear case narrative. Retrieval keeps every claim tied to the exact page it came from, because in legal work a confident wrong sentence can hurt the client. And models trained on past outcomes can help estimate what a case should settle for.
+
+The part I find most interesting is the evaluation. This summer I built an LLM search feature where the model can only cite sources by index and the server attaches the real link, so it can't make one up, and I measured it on real logged queries instead of a fixture. I also hand-graded outputs for an alert pipeline and ran it in shadow on production traffic before it sent anything. I'd want to work the same way at EvenUp, with legal experts defining what "correct" means and the models measured against it.
+```
