@@ -1,0 +1,61 @@
+% Etched — Internal Acceleration, Engineer (Special Projects) (San Jose, CA)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Large Language Model Systems, Machine Learning, Distributed Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Large Language Models in Practice, Computer Architecture, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak (Venture Team)}{AI Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built an LLM search agent: fixed RAG on the first question, a capped tool-calling loop (5 tools, $\le$3 hops) on follow-ups, and citations the model cannot author; got 20/20 logged queries right that used to return nothing.
+  \item Built a personalized breaking-news pipeline (embeddings, LLM scoring, LLM same-story judge); hand-graded alerts, ran prompt ablations, and shadowed 11 days of production traffic before launch; filler fell 34\% $\to$ 4\%.
+  \item Killed my own first alert detector two days after shipping it when 19 hours of production data showed it was 15 hours too slow, deleting the code and its calibration harness (net $-$882 lines).
+  \item Diagnosed a 65\% failure rate in another team's LLM workers: Langfuse traces showed an unbounded reasoning loop hitting a 16{,}384-token ceiling, so I sized a 2{,}048-token cap against p95 1{,}197 tokens.
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} 0$\to$1 as sole SwiftUI engineer and built its FastAPI / MongoDB backend from the first commit to 89 endpoints on AWS EKS, with $\sim$1{,}450 offline tests; its LLM morning digest reached 81\% of users.
+  \item Started the Jira backlog unprompted, wrote 34 contract-first API specs, and onboarded the second engineer; worked with legal to get through three App Store trademark rejections.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, and Supabase; owned auth, session state, and database interactions.
+  \item Iterated AI scoring and UI with clients and recruiters until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation (LuGre tire models).
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{AI \& Agents} & LLM tool calling / agents, MCP, RAG, hybrid retrieval, Langfuse, LangChain, Claude Code \\[1pt]
+  \textbf{Full Stack} & Python, TypeScript, Swift, SQL, FastAPI, React, Next.js, SwiftUI, MongoDB, PostgreSQL \\[1pt]
+  \textbf{Infra} & AWS, Kubernetes (EKS), Docker, Helm, GitHub~Actions, Prometheus, Grafana, GCP, Linux \\[1pt]
+  \textbf{Practices} & REST APIs, Server-Sent Events (SSE), CI/CD, pytest, Git, Agile/Scrum, Jira \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a website that rates LLM coding plans; bought plans from Z.AI, MiniMax, and Kimi and tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized models.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

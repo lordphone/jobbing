@@ -1,0 +1,43 @@
+# Etched — Internal Acceleration, Engineer (Special Projects)
+
+URL: https://jobs.ashbyhq.com/etched/db1dff24-2523-4728-91cc-ca885976ff7b
+
+- Location: San Jose (Santana Row), on-site, full time
+- Department: GTM
+- Compensation: $150K – $400K+ base, plus significant equity
+
+## Summary
+Our Internal Acceleration team's mandate is to build agents to accelerate the production of frontier tokens.
+You'll work directly with our founders and embed with our special projects team to build new agentic harnesses and operating systems to transform the way hardware is built in an AI native world. Your work will vary widely, and your success is measured by how much faster Etched moves, not by the lines of code you write.
+This role is for engineers who thrive on ambiguity, have real product sense, and want to own problems end to end. It's a whiteboard for future founders. The problems we solve are time-sensitive and business-critical. This role will not be a 9-5, and the ideal candidate is excited about that.
+
+## You may be a good fit if you
+- Have at least 1-5+ years of experience building and shipping software end to end, ideally at a fast-moving startup
+- Have strong full-stack skills. We care less about whether you write every line yourself and more about whether what you ship works
+- Have built LLM agents or AI tooling that real users depend on, which means more than calling an API: context engineering, tool integration, evals, and failure analysis
+- Use AI to ramp fast on unfamiliar domains. Agentic coding tools and frontier models are how you work, not an add-on
+- Have product sense, design taste, and extreme attention to detail
+- Have extreme agency: you find the real problem, not just the stated one
+
+## Key Responsibilities
+- Embed with our special projects team to find the highest-leverage bottlenecks, and own each one from first idea to a tool engineers rely on every day.
+- Build and deploy LLM agents wired into our engineering workflows via tool-calling and MCP.
+- Ship full-stack internal products from zero to one: the interfaces, data pipelines, and infrastructure that define how Etched builds.
+- Measure what works. Design evals and track adoption so we double down on the tools that matter and kill the ones that don't.
+- Take on special projects directly with the founders, surfacing problems across the company and doing whatever it takes to hit critical milestones.
+
+## Strong candidates may also have
+- Exposure to chip development, kernels, hardware, or manufacturing.
+- Infrastructure, data engineering, or DevOps experience
+- Fine-tuning, RAG over proprietary technical data, or multi-agent orchestration
+- Startup experience, especially through hypergrowth
+
+## Benefits
+- Medical, dental, vision; $500/month credit for waiving medical
+- $2,500/month housing subsidy within walking distance of the office
+- Relocation support to San Jose (Santana Row)
+- Wellness benefits; daily lunch and dinner
+- Unlimited compute budget subject to ROI justification
+
+## About Etched
+Etched is building hardware for frontier intelligence. Co-designs chips, racks, software, and manufacturing for inference throughput and latency across prefill and decode. Fully in-person team in San Jose; no boundaries between engineering and research.
