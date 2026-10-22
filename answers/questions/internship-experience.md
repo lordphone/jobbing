@@ -6,7 +6,7 @@
 
 Software Engineering Intern, NewsBreak, Mountain View, CA (May to August 2026)
 
-I worked on NewsBreak's venture team, a small team that builds new apps for the company. Most of my summer went into SportsBreak, an iOS sports app. I was the only SwiftUI engineer on it and wrote most of the backend.
+I worked on NewsBreak's venture team, a small team that builds new apps for the company. Most of my summer went into SportsBreak, an iOS sports app. I was the primary iOS engineer on it and the only one writing the backend.
 
 I made the first commit on the backend, a Python FastAPI service on MongoDB, and kept building it out over the summer. By the end it had 89 endpoints, ran on AWS EKS, and had about 1,450 tests running in CI. I also handled deployment and monitoring, and tracked down a scheduled job that had been silently failing for five days.
 

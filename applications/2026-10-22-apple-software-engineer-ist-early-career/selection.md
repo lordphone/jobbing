@@ -6,7 +6,7 @@ Header: Mountain View, CA (Austin-only posting; default).
 
 ## Used
 - nb-fastapi-backend (believable): first commit to 89 REST endpoints, 7 CronJobs on AWS EKS, ~1,450 offline tests gating CI. JD: server side development (Python), Software Engineer (Backend), SDET.
-- nb-swiftui-app + nb-third-party-proxy: SportsBreak sole SwiftUI engineer, ~6,000 installs, peak DAU 1,119, Firebase auth + Sign in with Apple, nine integrations server-side so the binary ships zero API keys. JD: iOS development (Swift), iOS Engineer, secure transactions.
+- nb-swiftui-app + nb-third-party-proxy: SportsBreak primary iOS engineer, ~6,000 installs, peak DAU 1,119, Firebase auth + Sign in with Apple, nine integrations server-side so the binary ships zero API keys. JD: iOS development (Swift), iOS Engineer, secure transactions.
 - nb-server-driven-ui + nb-live-activities: 27 widget types, no App Store release for new surfaces; ActivityKit Live Activities with shared scoreboard module. JD: iOS / frontend.
 - nb-eks-standup + nb-observability + nb-cronjob-outage: day-3 EKS (Helm, Jenkins, Docker), Prometheus/Grafana, 5-day CronJob outage fix. JD: Site Reliability Engineer, Infrastructure Services, AWS foundational services.
 - nb-llm-pipeline (believable): CronJob pipeline, ~2 min, 11-day shadow, filler 34% to 4%. JD: quantitative skills.
