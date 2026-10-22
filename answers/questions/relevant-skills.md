@@ -55,3 +55,14 @@ Source: `pj-cs537-os` (inventory/projects.md).
 ```text
 In my undergraduate Operating Systems course (CS 537) at UW–Madison, I wrote multiple projects in C, including a pthread-based quicksort using recursion, dynamic allocation, mutexes, and condition variables. I also contributed to an xv6 kernel project, implementing user-space system-call entry points and a clone system-call wrapper that validates pointer arguments. These projects gave me hands-on experience designing C routines, working with pointers and memory, coordinating threads, and understanding the user/kernel boundary.
 ```
+
+## Amazon — SDE Early Career 2027 (10583340), specialized domains ML and Mobile iOS — 2026-10-22
+
+Question: "Please share your work experience/project summary (3-4 lines) you have done in the specialized domain selected above"
+
+Sources: `pj-my-av` (inventory/projects.md); `nb-swiftui-app`, `nb-server-driven-ui`, `nb-live-activities` (inventory/newsbreak.md). Adapted from the 2026-10-08 Amazon answer; installs rounded to ~6,000 per the believability rule.
+
+```text
+Mobile iOS: At NewsBreak, I was the sole SwiftUI engineer on SportsBreak and shipped it to the App Store, reaching about 6,000 installs and a peak of 1,119 daily active users. I built Firebase authentication, server-driven UI over 27 widget types so new screens ship without an App Store release, and ActivityKit Live Activities with a shared scoreboard widget.
+Machine learning: I built a PyTorch CNN-GRU that predicts steering angle and speed from 1-second video, with a data pipeline over 33 hours of Comma2k19 driving footage. I trained it on local CUDA and GCP Vertex AI and ran streaming inference for real-time predictions.
+```
