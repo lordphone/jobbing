@@ -1,0 +1,61 @@
+% Cisco — Software Developer Full Stack / Backend II (Full Time) - Canada — Req 2025999
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Toronto, ON}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Software Engineering, Algorithms, Computer Architecture
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Built the SportsBreak FastAPI / MongoDB backend from its first commit to 89 REST endpoints as sole backend author; moved nine third-party integrations server-side so the iOS binary ships zero API keys.
+  \item Primary iOS engineer for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} (1.4K App Store ratings; peak DAU 1{,}119) in SwiftUI; shipped Firebase auth and a 72-event analytics catalog with a server-side allowlist.
+  \item Grew the suite from 25 to $\sim$1{,}450 fully-offline tests (0.17\,s) behind a ruff / pyright / pytest CI gate; its MongoDB fake reproduces a production failure that silently killed a search leg behind HTTP 200.
+  \item Stood up the service on AWS EKS (Helm, Jenkins) on day 3; diagnosed a DNS $\to$ TLS $\to$ admission-policy chain blocking iOS clients on public networks; set up Prometheus / Grafana.
+  \item Redesigned a cache that could not hit (13.2\,MB keyed per user) into a 10.9\,MB shared catalog, 78$\times$ smaller, after pod memory climbed toward its 512\,MiB limit; cut a 25--30 request client fan-out to one backend call.
+  \item Diagnosed a 5-day silent CronJob outage: an empty image tag left the Job in non-terminal ImagePullBackOff, so Forbid concurrency skipped every later run; fixed with paired deadlines.
+\end{itemize}
+
+\vspace{1pt}
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a Next.js, FastAPI, and Supabase web app on GCP App Engine; designed database schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing, and scalable code.
+\end{itemize}
+
+\vspace{1pt}
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built the LLM mock-interview web app from 0$\to$1 as sole engineer in React, Next.js, and Supabase (PostgreSQL); owned auth, session state, and database interactions.
+  \item Demoed the product to clients and iterated AI scoring with recruiters so its categories matched real-life hiring; three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Research Experience}
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher $|$ Advisor: Prof.\ Yorie Nakahira}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, Java, C, TypeScript, JavaScript, SQL, Go, Swift, Bash \\[1pt]
+  \textbf{Web \& Backend} & FastAPI, REST APIs, React, Next.js, SwiftUI, MongoDB, PostgreSQL, Supabase \\[1pt]
+  \textbf{Testing \& Systems} & pytest, Unit Testing, TDD, ruff, pyright, mitmproxy, Linux, Git, CI/CD, GitHub Actions \\[1pt]
+  \textbf{Cloud \& ML} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Prometheus, PyTorch, LangChain \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{Operating Systems (C):} Implemented a pthread-based quicksort for UW--Madison coursework and contributed xv6 system-call entry points and a clone wrapper with pointer-argument validation.
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders with voltage-to-frequency converters and streamed real-time data to the onboard NVIDIA Jetson.
+\end{itemize}
+
+\end{document}
