@@ -1,0 +1,58 @@
+% Glean — Software Engineer (L25-161399, full-stack)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Distributed Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Software Engineering
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} as primary iOS engineer and sole backend author; built the Python FastAPI / MongoDB service from its first commit to 89 REST endpoints, with $\sim$1{,}450 offline tests gating CI.
+  \item Built server-driven UI over 27 widget types so a new feed surface ships without an App Store release, and cut the World feed from 25--30 client requests to one backend call.
+  \item Built a 72-event Amplitude analytics catalog with a server-side allowlist, ran a menu A/B test read by click-through rate in Amplitude, and set up Prometheus metrics and Grafana dashboards for the backend.
+  \item Built an LLM search API with hybrid retrieval fused by RRF and SSE streaming; deterministic entity resolution got 20/20 real logged queries right that used to return nothing, at 0.4\,ms per resolve.
+  \item Designed an alert pipeline that selects by percentile against each topic's rolling 7-day score distribution, with an LLM same-story check; cut filler alerts from 34\% to 4\% after 11 days in shadow.
+  \item Fixed a cache that never hit because it was keyed per user (13.2\,MB each) by sharing one 10.9\,MB copy near the pod's 512\,MiB limit; shipped Stripe checkout with a signature-verified, idempotent webhook.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 and ship it on GCP App Engine; led PR reviews and mentored interns on Git workflows, testing protocols, and scalable code.
+  \item Designed the database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app, built from 0$\to$1 in React, Next.js, Supabase, and PostgreSQL; owned auth, session state, and database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions and client demos until three 200--500-person companies signed.
+\end{itemize}
+
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & TypeScript, JavaScript, Java, Python, Go, Swift, SQL, HTML, CSS, C \\[1pt]
+  \textbf{Full-Stack} & React, Next.js, Tailwind CSS, Express, FastAPI, REST APIs, Supabase, SwiftUI \\[1pt]
+  \textbf{Data \& Analytics} & PostgreSQL, MongoDB, Amplitude, Grafana, Prometheus, RAG, hybrid retrieval \\[1pt]
+  \textbf{Cloud \& Testing} & AWS, GCP, Kubernetes (EKS), Docker, GitHub~Actions, pytest, Unit Testing, Git \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{Operating Systems (UW--Madison):} Implemented a pthread-based quicksort in C and contributed xv6 system-call entry points and a clone wrapper with pointer-argument validation.
+  \item \textbf{my-av:} Built a CNN-GRU that predicts steering and speed from 1\,s video; trained on 33 hours of Comma2k19 on local CUDA and GCP Vertex AI.
+\end{itemize}
+
+\end{document}
