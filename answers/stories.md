@@ -60,7 +60,7 @@ Deleted my own breaking-news detector after 19 hours of production data.
 
 - inventory: `nb-retired-detector`, `nb-llm-pipeline`
 - types: failure / mistake, data-driven decision, story that represents you, lesson learned
-- used with: (company not recorded, 2026-09-30)
+- used with: (company not recorded, 2026-09-30); Formlabs (2026-10-23, most complex project)
 
 **STAR**
 - S: NewsBreak, SportsBreak breaking-news push alerts. First detector used corroboration (how many publishers covered a story).
