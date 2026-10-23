@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-23 | Snap | Software Engineer, Backend, Level 3 | https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0-1 | draft | — | 2026-10-23-snap-software-engineer-backend-level-3 | Backend Engineer Intern | Q426SWE0; LA/SF/Palo Alto/NYC/Bellevue, in office 4+ days; $118–176K Zone A; ends 2026-10-28; level 3 asks "proven track record" at scale |
 | 2026-10-23 | Mercury | Software Engineer - Mercury Command | https://job-boards.greenhouse.io/mercury/jobs/6233238004 | draft | — | 2026-10-23-mercury-software-engineer-mercury-command | AI Engineer Intern | 6233238004; SF/NY/Portland or remote US/Canada; $122.4–176K USD / $115.7–166.4K CAD; asks 1–4 yrs; Haskell/Redux not in inventory |
 | 2026-10-23 | Brain Co. | AI Product Engineer, 2027 New Grad | https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e | draft | — | 2026-10-23-brainco-ai-product-engineer-2027-new-grad | AI Engineer Intern | SF Bay hybrid; eligibility line says bachelor's Spring 2027 |
 | 2026-10-23 | Fivetran | Software Engineer I (Oracle Connector Team) | https://www.fivetran.com/careers/job?gh_jid=8028409003 | draft | — | 2026-10-23-fivetran-software-engineer-i-oracle-connector | Backend Engineer Intern | 8028409003; Toronto hybrid 2 days/wk; contract; $88.8–106.6K CAD |
