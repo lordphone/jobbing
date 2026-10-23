@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-23 | Formlabs | Software Engineer, API & Automation | https://careers.formlabs.com/job/8312364/apply/?gh_jid=8312364 | draft | — | 2026-10-23-formlabs-software-engineer-api-automation | Backend Engineer Intern | Somerville, MA on-site |
 | 2026-10-23 | Databricks | Associate Forward Deployed Engineer | https://www.databricks.com/company/careers/professional-services-operations/associate-forward-deployed-engineer-8910846002?gh_jid=8910846002 | draft | — | 2026-10-23-databricks-associate-forward-deployed-engineer | Full-Stack Engineer Intern | CSQ427R339; Mountain View/NYC hybrid, ~20% customer travel; asks 2+ yrs; no pay range listed |
 | 2026-10-23 | Altera | AI Cloud Data Engineer | https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/AI-Cloud-Data-Engineer_R03371-1 | draft | — | 2026-10-23-altera-ai-cloud-data-engineer | AI Engineer Intern | R03371; Toronto; $110–120K CAD; posted 2026-10-23; asks 1+ yr ML/GenAI; AI screening |
 | 2026-10-22 | Apple | Software Engineer, IS&T Early Career Opportunities | https://jobs.apple.com/en-us/details/200688599 | draft | — | 2026-10-22-apple-software-engineer-ist-early-career | Software Engineering Intern | 200688599; Austin; posted 2026-10-19; IS&T pool (frontend/iOS/backend/SRE/SDET); no pay range listed |
