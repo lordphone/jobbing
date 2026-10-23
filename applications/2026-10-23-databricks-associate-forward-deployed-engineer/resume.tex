@@ -1,0 +1,57 @@
+% Databricks — Associate Forward Deployed Engineer (CSQ427R339)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Data Science for Software Engineering, Machine Learning, Large Language Model Systems\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Software Engineering
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store as primary iOS engineer and sole backend author ($\sim$6{,}000 installs, 1{,}119 peak daily active users); built the FastAPI / MongoDB backend from its first commit to 89 REST endpoints and 7 Kubernetes CronJobs, with $\sim$1{,}450 offline tests gating every merge in CI (ruff, pyright, pytest).
+  \item Stood up the service on production AWS EKS (Docker, Helm, Jenkins) on day 3, diagnosed a DNS $\to$ TLS $\to$ admission-policy chain blocking iOS clients on public networks, and set up Prometheus / Grafana.
+  \item Designed a personalized LLM data pipeline as a Kubernetes CronJob (ingest $\to$ embed $\to$ LLM-score $\to$ select $\to$ LLM same-story dedupe $\to$ push in $\sim$2~min); ran it in shadow on production traffic for 11 days before launch, cutting filler alerts from 34\% to 4\%.
+  \item Built an LLM search API: deterministic RAG over hybrid retrieval on the first question, a bounded tool-calling agent on follow-ups, and server-resolved citations; fixed 20/20 logged queries that returned nothing.
+  \item Built server-driven UI over 27 widget types so new surfaces ship without an App Store release, and migrated nine third-party integrations server-side so the app ships zero third-party API credentials.
+  \item Introduced the team's Jira backlog, wrote 34 contract-first API specs and $\sim$10{,}000 lines of engineering docs, onboarded the second engineer, and worked with legal on launch guidance.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 and ship it on GCP App Engine; led PR reviews and mentored interns on Git workflows and testing.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app (React, Next.js, Supabase, PostgreSQL); demoed it and iterated with clients until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher}{February -- June 2026}{}
+\begin{itemize}
+  \item Mapped natural-language instructions to formal safety specs with multi-turn LLMs and implemented Bayesian estimators for real-time road-friction adaptation.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Python, TypeScript, JavaScript, SQL, Swift, Go, Java, HTML, CSS \\[1pt]
+  \textbf{Full Stack} & FastAPI, React, Next.js, REST APIs, Pydantic, Supabase, Firebase, pytest \\[1pt]
+  \textbf{Cloud \& CI/CD} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, GitHub~Actions, CI/CD, Grafana \\[1pt]
+  \textbf{Data \& AI} & MongoDB, PostgreSQL, MySQL, RAG, LLM tool calling / agents, LangChain, PyTorch \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering angle and speed from 1\,s video; built a data pipeline over 33 hours of Comma2k19 and trained on local CUDA and GCP Vertex AI, with streaming inference.
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and benchmarked KV caching, long context, and needle-in-a-haystack to expose nerfed caching.
+\end{itemize}
+
+\end{document}
