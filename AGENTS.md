@@ -13,6 +13,7 @@ This repo generates one-page LaTeX resumes from an experience bank.
 - Output PDF is always `Lordphone_Wen_Resume.pdf`. Keep `resume.tex` as the source.
 - `approved` lines are a starting point, not a lock. Rewrite or fuse freely as long as the facts stay real.
 - Do not add a skill that is not in `inventory/skills.md`.
+- When he asks for a list of postings or companies, give it as the table `.agents/skills/full-search/scripts/recent.py` prints (Posted, Discovered, Company, Role, Tier, Location, Deadline, with each role linked to its posting), newest first. By default it covers every tier and only the New York (incl. New Jersey), Bay Area, Seattle, LA, Austin, Vancouver, Toronto and Quebec areas, plus any remote role; widen it only when he asks (`--any-location`, `--max-tier`). Add columns only when the list needs them (e.g. Applied, Outreach).
 - When asked for bullet points, put them in copyable `text` code blocks with literal `•` bullets. Keep company/role headings outside the blocks, with a separate block for each role. For copy-paste resume text, also give the company, job title, and location each in its own `text` block above that role's bullets.
 - Copy-paste text (for application forms) puts every field in its own `text` block, including names a heading already shows:
   - Work / research: company, job title, location (omit if the resume leaves it blank), dates, then the bullets.
