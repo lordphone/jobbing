@@ -1,0 +1,58 @@
+% PayPal — Software Engineer (R0138295)
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Foundations of Software Engineering, Software Refactoring\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Algorithms, Data Structure \& Programming III, Operating Systems
+
+\section{Work Experience}
+\role{NewsBreak}{Backend Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store as sole backend author and primary iOS engineer; built the Python FastAPI / MongoDB service from its first commit to 89 REST endpoints and 7 Kubernetes CronJobs, with $\sim$1{,}450 offline tests gating every merge in CI (ruff, pyright, pytest).
+  \item Stood up the containerized service on production AWS EKS (Docker, Helm, Jenkins) on day 3 with HPA autoscaling and Prometheus / Grafana monitoring; debugged a DNS $\to$ TLS $\to$ admission-policy chain that blocked iOS clients on public networks and drove a public-domain fix.
+  \item Fixed a 5-day silent CronJob outage (stuck ImagePullBackOff + Forbid concurrency) with job and scheduler deadlines; traced a 65\% failure rate in a shared Redis Streams LLM pipeline to an unbounded reasoning loop.
+  \item Fixed an AI-agent-written cache that never hit (keyed per user, 13.2\,MB each) by sharing one 10.9\,MB copy as the pod neared its memory limit; cut the World feed from 25--30 client requests to one call.
+  \item Built a real-time alert pipeline as a Kubernetes CronJob (ingest $\to$ embed $\to$ LLM-score $\to$ dedupe $\to$ push in $\sim$2\,min); ran it in production shadow for 11 days before launch, cutting filler alerts from 34\% to 4\%.
+  \item Migrated nine third-party integrations server-side so the app ships zero third-party API credentials; wrote 34 contract-first API specs and $\sim$10{,}000 lines of docs, and onboarded the team's second engineer.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to take a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 and ship it on GCP App Engine; led PR reviews and mentored interns on Git workflows and testing.
+  \item Designed and reviewed the database schemas and REST API structure for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app (React, Next.js, Supabase, PostgreSQL); owned auth and the database and iterated with clients until three 200--500-person companies signed.
+\end{itemize}
+
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty, including ice.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & Java, Python, Go, C, SQL, Swift, TypeScript, JavaScript, Bash \\[1pt]
+  \textbf{Backend \& Data} & REST APIs, FastAPI, Pydantic, asyncio, MongoDB, PostgreSQL, MySQL, Redis Streams \\[1pt]
+  \textbf{Cloud \& Testing} & AWS, GCP, Kubernetes (EKS), Docker, Helm, Jenkins, pytest, Unit Testing, Git \\[1pt]
+  \textbf{AI Tooling} & Claude Code / AI coding tools, LLM tool calling / agents, Langfuse, RAG \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{Operating Systems (UW--Madison):} Wrote a multi-threaded C quicksort with pthreads, mutexes, and condition-variable completion signaling; contributed xv6 system-call entry points and a \texttt{clone} wrapper.
+  \item \textbf{Wisconsin Autonomous:} Integrated wheel-speed encoders on the competition rover and streamed real-time data to the onboard NVIDIA Jetson.
+  \item \textbf{my-av:} Built a PyTorch CNN-GRU that predicts steering and speed from 1\,s video; trained on GCP Vertex AI.
+\end{itemize}
+
+\end{document}

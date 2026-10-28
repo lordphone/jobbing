@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-27 | PayPal | Software Engineer | https://paypal.eightfold.ai/careers/job/274922972416 | draft | — | 2026-10-27-paypal-software-engineer-r0138295 | Backend Engineer Intern | R0138295; San Jose hybrid; $116.5–173K; Java / Spring role, not in inventory; asks 1+ yr experience |
 | 2026-10-27 | Fortinet | Early Careers: Software Development Engineer | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770 | draft | — | 2026-10-27-fortinet-early-careers-software-development-engineer | Software Engineering Intern | 24770; Sunnyvale; $92–154K; embedded/C role; requires work auth without sponsorship |
 | 2026-10-23 | Glean | Software Engineer (search / distributed) |  | applied | — | 2026-10-23-glean-software-engineer-l25-163426 | Software Engineering Intern | L25-163426; Mountain View hybrid; $187–234K; requires master's; C++ not in inventory; apply with references |
 | 2026-10-23 | Glean | Software Engineer (full-stack) |  | applied | — | 2026-10-23-glean-software-engineer-l25-161399 | Full-Stack Engineer Intern | L25-161399; Mountain View hybrid; $187–234K; requires master's; Node.js/Flask/C++ not in inventory; apply with references |
