@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-27 | SambaNova Systems | Cloud Platform Engineer - New Grad | | draft | — | 2026-10-27-sambanova-cloud-platform-engineer-new-grad | Engineering Intern | San Jose / Austin on-site 3–5 days; pay posted as placeholder $1–999,999; no posting URL in paste; Ansible / Datadog / vLLM not in inventory |
 | 2026-10-27 | Glean | Software Engineer (search / ML) |  | draft | — | 2026-10-27-glean-software-engineer-l24-158959 | Software Engineering Intern | L24-158959; Mountain View hybrid; $215–279K; requires master's + 2 yrs experience; TensorFlow/scikit-learn/C++ not in inventory; apply with references |
 | 2026-10-27 | PayPal | Software Engineer | https://paypal.eightfold.ai/careers/job/274922972416 | draft | — | 2026-10-27-paypal-software-engineer-r0138295 | Backend Engineer Intern | R0138295; San Jose hybrid; $116.5–173K; Java / Spring role, not in inventory; asks 1+ yr experience |
 | 2026-10-27 | Fortinet | Early Careers: Software Development Engineer | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770 | draft | — | 2026-10-27-fortinet-early-careers-software-development-engineer | Software Engineering Intern | 24770; Sunnyvale; $92–154K; embedded/C role; requires work auth without sponsorship |

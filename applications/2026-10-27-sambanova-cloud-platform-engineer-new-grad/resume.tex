@@ -1,0 +1,58 @@
+% SambaNova Systems — Cloud Platform Engineer - New Grad
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Distributed Systems, Large Language Model Systems, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Operating Systems, Computer Architecture, Algorithms
+
+\section{Work Experience}
+\role{NewsBreak}{Engineering Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Stood up the containerized Python service on production AWS EKS (Docker, Helm, Jenkins) on day 3; traced a DNS $\to$ TLS $\to$ admission-policy chain blocking iOS clients on public networks to a public-domain fix.
+  \item Set up Prometheus metrics and Grafana dashboards for the backend's EKS nodes; configured HPA autoscaling (2--4 pods at 70\% CPU) and a two-stage amd64 Docker image after a C extension crashed on arm64.
+  \item Added a ruff / pyright / pytest GitHub Actions gate after tests had sat red on \texttt{main} (Jenkins only built the image), and caught a stale ArgoCD app with prune and self-heal on that would have wiped Jenkins deploys.
+  \item Fixed a 5-day silent Kubernetes CronJob outage (non-terminal ImagePullBackOff + Forbid concurrency) with paired job and scheduler deadlines; traced a 65\% failure rate in another team's LLM pipeline via Langfuse to an unbounded reasoning loop and a Helm env value shadowing the code default.
+  \item Fixed a cache that never hit (keyed per user, 13.2\,MB each) by sharing one 10.9\,MB copy as the 512\,MiB pod neared its memory limit; cut the World feed from 25--30 client requests to one backend call.
+  \item Sole backend author for \href{https://apps.apple.com/app/id6762649287}{SportsBreak} ($\sim$6{,}000 installs): built the FastAPI / MongoDB service from its first commit to 89 REST endpoints and 7 CronJobs, including an LLM alert pipeline ($\sim$1{,}200 LLM calls/day) run in production shadow for 11 days before launch.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app on GCP App Engine; led PR reviews and mentored interns on Git workflows and testing.
+  \item Designed database schemas and REST APIs for LangChain LLM features: resume parsing, improvement suggestions, and AI job matching.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Sole engineer on a VC-backed startup's LLM mock-interview web app (React, Next.js, Supabase, PostgreSQL); owned auth and the database and iterated with clients until three 200--500-person companies signed.
+\end{itemize}
+
+\role{Control \& Learning Group --- Carnegie Mellon University}{Graduate Researcher}{February -- June 2026}{}
+\begin{itemize}
+  \item Developed an Online Adaptive Probabilistic Safety Certificate (PSC) with PhD researchers; outperformed Adaptive MPC in 3-DOF vehicle simulations under environmental uncertainty.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Cloud \& Infra} & AWS, GCP, Kubernetes (EKS), kubectl, Helm, Docker, Terraform, Linux, Bash \\[1pt]
+  \textbf{CI/CD \& Monitoring} & GitHub Actions, Jenkins, ArgoCD, CI/CD, Prometheus, Grafana, Langfuse \\[1pt]
+  \textbf{Languages} & Python, Go, C, SQL, Java, TypeScript \\[1pt]
+  \textbf{Backend \& AI} & FastAPI, REST APIs, MongoDB, PostgreSQL, RAG, LLM tool calling / agents \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a site that rates LLM coding plans; bought Z.AI, MiniMax, and Kimi plans and benchmarked KV caching, long context, and needle-in-a-haystack to expose nerfed caching and quantization.
+  \item \textbf{Operating Systems (UW--Madison):} Wrote a multi-threaded C quicksort with pthreads and mutexes; contributed xv6 system-call entry points.
+  \item \textbf{Wisconsin Autonomous:} Streamed real-time rover wheel-speed encoder data to the onboard NVIDIA Jetson.
+\end{itemize}
+
+\end{document}
