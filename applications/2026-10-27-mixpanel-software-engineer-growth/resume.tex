@@ -1,0 +1,53 @@
+% Mixpanel — Software Engineer, Growth (San Francisco, Hybrid) — 8157627
+\documentclass[11pt, letterpaper]{article}
+\input{../../shared/preamble}
+
+\begin{document}
+
+\header{Mountain View, CA}
+
+\section{Education}
+\edu{Carnegie Mellon University}{M.S.\ in Software Engineering \ $|$ \ GPA: 4.0 / 4.0}{Expected May 2027}{}
+Selected Coursework: Data Science for Software Engineering, Foundations of Software Engineering, Machine Learning\\[1pt]
+\edu{University of Wisconsin--Madison}{B.S.\ in Computer Science \& B.S.\ in Computer Engineering \ $|$ \ GPA: 3.72 / 4.0}{May 2024}{}
+Selected Coursework: Software Engineering, Algorithms, Mobile Computing Laboratory
+
+\section{Work Experience}
+\role{NewsBreak}{Full-Stack Engineer Intern}{May -- August 2026}{Mountain View, CA}
+\begin{itemize}
+  \item Shipped \href{https://apps.apple.com/app/id6762649287}{SportsBreak} to the App Store as primary iOS engineer and sole backend author; the app reached $\sim$6{,}000 installs and 1{,}119 peak daily active users.
+  \item Instrumented a 72-event Amplitude analytics catalog behind typed emit methods and a server-side allowlist, and built guest-first Firebase sign-in that upgrades anonymous sessions to Google, Apple, or email accounts.
+  \item Ran an A/B test on \href{https://apps.apple.com/app/id6758861738}{DramaBreak} menu options and read click-through rate in Amplitude; shipped a personalized LLM morning digest on SportsBreak that reached 5{,}026 users ($\sim$81\% of the base).
+  \item Built server-driven UI over 27 widget types so a new feed surface ships without an App Store release, and cut the World feed from 25--30 client requests to one backend call; fixed its cache, which never hit because it was keyed per user, by sharing one copy as the pod neared its memory limit.
+  \item Built the Python FastAPI and MongoDB backend from its first commit to 89 REST endpoints on AWS EKS, with $\sim$1{,}450 offline tests gating every merge in CI; set up Prometheus metrics and Grafana dashboards.
+  \item Built a personalized LLM alert pipeline, ran it in shadow on production traffic for 11 days with a per-item decision log, and cut filler alerts from 34\% to 4\% before launch; root-caused a 65\% failure rate in another team's LLM workers via Langfuse traces.
+\end{itemize}
+
+\role{Haddee Education}{Engineering Lead}{June -- September 2025}{San Diego, CA}
+\begin{itemize}
+  \item Led an 8-intern team through Agile sprints to ship a React, Next.js, FastAPI, and Supabase web app from 0$\to$1 on GCP App Engine; designed schemas and REST APIs for LangChain resume parsing and AI job matching.
+  \item Broke down user stories, led PR reviews, and mentored interns on Git workflows, testing protocols, and scalable code practices.
+\end{itemize}
+
+\role{ZenAI --- MiraclePlus (Formerly YC China) F23}{Full Stack Developer}{September -- December 2023}{Beijing, China}
+\begin{itemize}
+  \item Built a VC-backed startup's LLM mock-interview web app from 0$\to$1 as the sole engineer in React, Next.js, Supabase, and PostgreSQL; owned authentication, session state, and database interactions.
+  \item Iterated AI scoring and UI from user-testing sessions and fast client feedback, and demoed the product until three 200--500-person companies signed contracts.
+\end{itemize}
+
+\section{Skills}
+\begin{tabularx}{\textwidth}{@{}l @{\hspace{7pt}} >{\raggedright\arraybackslash}X@{}}
+  \textbf{Languages} & TypeScript, JavaScript, Python, Swift, SQL, HTML, CSS, Go, Java \\[1pt]
+  \textbf{Full-Stack} & React, Next.js, Tailwind CSS, FastAPI, REST APIs, Supabase, Firebase, Stripe, SwiftUI \\[1pt]
+  \textbf{Analytics \& AI} & Amplitude, Claude Code / AI coding tools, LLM tool calling / agents, MCP, RAG, LangChain \\[1pt]
+  \textbf{Data \& Cloud} & PostgreSQL, MongoDB, AWS, Kubernetes (EKS), Docker, GitHub Actions, CI/CD, Prometheus, Grafana \\[1pt]
+  \textbf{Certifications} & AWS Certified Solutions Architect -- Associate, AWS Certified Cloud Practitioner \\
+\end{tabularx}
+
+\section{Projects \& Leadership}
+\begin{itemize}
+  \item \textbf{codingplans:} Building a website that rates LLM coding/token plans; bought plans from Z.AI, MiniMax, and Kimi and tested KV caching, long context, and needle-in-a-haystack to show which providers nerfed caching or heavily quantized their models.
+  \item \textbf{ECE Leadership \& Engagement Fellow} (CMU, Aug 2026 -- present): Own budgeting, marketing, and outreach for ECE student programs --- company-sponsored hackathons, alumni events, and tech event outings.
+\end{itemize}
+
+\end{document}

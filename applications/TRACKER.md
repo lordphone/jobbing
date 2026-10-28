@@ -4,6 +4,7 @@ Newest first. Status is one of: `draft` · `applied` · `oa` · `screen` · `int
 
 | Date | Company | Role | Link | Status | Outreach | Folder | NB title | Notes |
 |------|---------|------|------|--------|----------|--------|----------|-------|
+| 2026-10-27 | Mixpanel | Software Engineer, Growth | https://job-boards.greenhouse.io/mixpanel/jobs/8157627 | draft | — | 2026-10-27-mixpanel-software-engineer-growth | Full-Stack Engineer Intern | 8157627; SF hybrid; asks 2+ yrs full-stack; no salary listed |
 | 2026-10-27 | Microsoft | Software Engineer (Global Secure Access Datapath) | https://apply.careers.microsoft.com/careers/job/1970393557045516 | draft | — | 2026-10-27-microsoft-software-engineer-200063403 | Backend Engineer Intern | 200063403; Mountain View, 3 days/week in-office; IC2 $111.1–183.7K Bay; Microsoft Cloud background check; C++/Envoy/DPDK not in inventory |
 | 2026-10-27 | Addepar | AI Engineer - AI Platform | https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | draft | — | 2026-10-27-addepar-ai-engineer-ai-platform | AI Engineer Intern | 8906234002; New York; asks 1–3+ yrs; $163–203.5K; no sponsorship incl. F-1/OPT |
 | 2026-10-27 | Fortinet | Early Careers: AI Automation Engineer | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771 | draft | — | 2026-10-27-fortinet-early-careers-ai-automation-engineer | AI Engineer Intern | 24771; Sunnyvale onsite; $110–170K; requires work auth without sponsorship |
