@@ -1,30 +1,30 @@
 {
-  "company": "Providence",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Data Engineer I IS - Remote",
-      "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/456122",
-      "location": "Napa, CA; Seattle, WA; Redmond, WA; Portland, OR; Irvine, CA; Lubbock, TX (remote, must live within 65 miles of these)",
-      "opened": "2026-09-24",
-      "date_source": "oracle cloud posted date",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Data Engineer I title; required: bachelor's in CS/Engineering and 1 or more year of related experience in Snowflake, Control-M, ADF. Borderline: text also says senior-level hands-on ownership of production data operations and mentoring junior engineers",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-09-23",
-  "last_cycle_basis": "tracker first seen 2025-09-23: Data Software Engineer 1 - Enterprise Information Services (evac.fa.us2.oraclecloud.com CX_2 job 388647)",
-  "no_sponsorship": false,
-  "jobs_page": "https://providence.jobs/jobs/?q=software+engineer",
-  "jobs_spec": "oracle:evac.fa.us2.oraclecloud.com/CX_1001",
-  "evidence": "Oracle CX_1001 full board (2160) 2026-10-19: Data Engineer I (req 456122) still listed, posted 2026-09-24, no end date. Level I, 1+ yr, but duties mention senior-level ownership and mentoring: borderline. Other IS software/data roles are Senior/Principal.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "excluded_reason": null,
-  "dropped": []
+ "company": "Providence",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Data Engineer I IS - Remote",
+   "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/456122",
+   "location": "Napa, CA; Seattle, WA; Redmond, WA; Portland, OR; Irvine, CA; Lubbock, TX",
+   "opened": "2026-09-24",
+   "date_source": "oracle cloud posted date",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Data Engineer I title; required: bachelor's in CS/Engineering and 1 or more year of related experience. Borderline: text also mentions mentoring junior engineers",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-23",
+ "last_cycle_basis": "tracker first seen 2025-09-23: Data Software Engineer 1 - Enterprise Information Services (evac.fa.us2.oraclecloud.com CX_2 job 388647)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://providence.jobs/jobs/?q=software+engineer",
+ "jobs_spec": "oracle:evac.fa.us2.oraclecloud.com/CX_1001",
+ "evidence": "Oracle CX_1001 full board (2109) read 2026-10-26: Data Engineer I IS (req 456122) live via API, posted 2026-09-24, no end date; level I, 1+ yr, mentoring mention borderline, kept from earlier run. Other IS roles senior/principal/II; rest clinical or facilities.",
+ "confidence": "low",
+ "checked": "2026-10-26"
 }

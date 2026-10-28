@@ -1,20 +1,8 @@
 {
  "company": "John Deere",
+ "tier": 5,
  "status": "open",
  "postings": [
-  {
-   "title": "Software Developer",
-   "url": "https://johndeere.eightfold.ai/careers/job/137483152431",
-   "location": "East Moline, IL",
-   "opened": "2026-08-27",
-   "date_source": "eightfold t_create",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "no years asked; 'experience in coding and problem-solving'; bachelor's CS; pay up to $112,476, starting ~$74,988",
-   "no_sponsorship": true
-  },
   {
    "title": "Engineer, Software",
    "url": "https://johndeere.eightfold.ai/careers/job/137482580263",
@@ -68,28 +56,92 @@
    "no_sponsorship": true
   },
   {
-   "title": "Software Developer",
-   "url": "https://johndeere.eightfold.ai/careers/job/137483929577",
+   "title": "Robotics Engineer",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483871353",
    "location": "Urbandale, IA",
-   "opened": "2026-10-14",
-   "date_source": "eightfold t_create",
+   "opened": "2026-10-12",
+   "date_source": "page text (eightfold create date)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "requires '2 or more years of full stack, hands-on development experience'; bachelor's CS or equivalent; no senior duties",
+   "level_basis": "experience via 'practical work experiences, relevant internships or academic experience'; C++/Linux; bachelor's CS; pay $86.9K-$130.3K; no years asked",
    "no_sponsorship": true
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483482668",
+   "location": "East Moline, IL; Chicago, IL",
+   "opened": "2026-09-16",
+   "date_source": "page text (eightfold create date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "no years asked; skills are 'Knowledge of' Spark/SQL, 'Familiarity with' Fabric; bachelor's or master's; pay $86.9K-$130.3K",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Engineer, Software",
+   "url": "https://johndeere.eightfold.ai/careers/job/137481169803",
+   "location": "Ankeny, IA",
+   "opened": "2026-06-03",
+   "date_source": "eightfold creationTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "no years asked; embedded C/C++ skills; degree or equivalent related work experience; pay $74,988-$112,476",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Engineer, Software",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483615949",
+   "location": "Waterloo, IL",
+   "opened": "2026-10-02",
+   "date_source": "eightfold postedTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "no years asked; bachelor's in SWE/CS/EE; pay $74,988-$112,476; 'Demonstrated ability to work independently', no senior duties",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Software Controls Engineer",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483512133",
+   "location": "Coffeyville, KS",
+   "opened": "2026-10-19",
+   "date_source": "eightfold postedTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "no years asked; MATLAB Simulink and C++ skills; pay up to $112,476; no senior duties",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://johndeere.eightfold.ai/careers/job/137482532344",
+   "reason": "gone: careers.deere.com page says 'No longer accepting applications' (IT Development Program - Software Engineering)"
+  },
+  {
+   "url": "https://johndeere.eightfold.ai/careers/job/137483152431",
+   "reason": "gone: careers.deere.com page says 'No longer accepting applications' (Software Developer, East Moline)"
+  },
+  {
+   "url": "https://johndeere.eightfold.ai/careers/job/137483929577",
+   "reason": "gone: careers.deere.com page says 'No longer accepting applications' (Software Developer, Urbandale)"
   }
  ],
  "last_cycle_opened": "2026-03-09",
  "last_cycle_basis": "tracker: IT Development Program - Software Engineering (Des Moines IA; Chicago IL; Davenport IA) first seen 2026-03-09",
  "excluded_reason": null,
- "no_sponsorship": false,
+ "no_sponsorship": true,
  "jobs_page": "https://johndeere.eightfold.ai/careers",
  "jobs_spec": "eightfold:johndeere.eightfold.ai/johndeere.com",
- "evidence": "Eightfold US board (199, full) read 2026-10-19; five earlier entry-level software postings still live, plus Urbandale Software Developer (2+ yrs) added. Visa sponsorship NOT available. EDPs are not SWE; Chicago SWE needs 3 yrs; other embedded/controls roles skipped.",
+ "evidence": "Eightfold board 2026-10-26 (203 US, full) plus posting API and careers.deere.com: 7 earlier entry-level software roles still listed plus 2 added; IT Development Program and 2 Software Developer reqs now closed. Waterloo Engineer, Software 137483015302 and Chicago SWE ask 3 yrs, left out. All say VISA sponsorship NOT available.",
  "confidence": "medium",
- "checked": "2026-10-19",
- "tier": 5,
- "dropped": []
+ "checked": "2026-10-26"
 }

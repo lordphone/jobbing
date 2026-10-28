@@ -1,16 +1,16 @@
 {
  "company": "minware",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "no_program_found",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "none in 2025-07 to 2026-01; only Front End Engineer postings in 2024-06 tracker history",
+ "last_cycle_basis": "no 2025-07 to 2026-01 posting; only 2024 front-end postings (opened 2024-07-13) in tracker history",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://www.minware.com/careers",
  "jobs_spec": null,
- "evidence": "Careers page 2026-10-19: no open positions at this time; Greenhouse board gone. Only 2024 front-end postings in history.",
- "confidence": "high"
+ "evidence": "Careers page fetched 2026-10-26 says 'There are no open positions at this time'; Greenhouse board API returns 404. No postings this cycle or last.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

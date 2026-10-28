@@ -1,6 +1,7 @@
 {
+  "company": "CAE",
   "tier": 5,
-  "checked": "2026-10-19",
+  "status": "excluded",
   "postings": [
     {
       "title": "MTS Software Engineer",
@@ -12,19 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "1-3 years of experience in software development",
+      "level_basis": "1–3 years of experience in software development, systems integration, or engineering support roles",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-01-22",
   "last_cycle_basis": "jobs.py history: Junior Machine Learning Engineer (Orlando/Tampa/Arlington) first seen 2026-01-22",
   "excluded_reason": "citizenship",
-  "no_sponsorship": false,
-  "company": "CAE",
-  "status": "excluded",
   "jobs_page": "https://cae.wd3.myworkdayjobs.com/career",
   "jobs_spec": "wd:cae/wd3/career",
-  "evidence": "Workday full board 2026-10-19 (391). US entry-ish roles (MTS Software Engineer Charleston, ATS Software Engineer Altus, 1-3 yrs) say 'Incumbent must be eligible for DoD Personal Security Clearance' and only U.S. citizens are eligible. Junior Software Developer (Mirabel, Quebec) is outside scope.",
+  "evidence": "Workday full board (384) read 2026-10-26. US SWE roles (MTS Software Engineer Charleston, ATS Software Engineer Altus) say 'only U.S. citizens are eligible for this role' plus DoD clearance eligibility. Junior Software Developer (Mirabel, Quebec) is outside scope.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false
 }

@@ -1,17 +1,16 @@
 {
   "company": "AppFolio",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "not_yet",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows only a 2024-10-03 Software Engineer I posting (Santa Barbara/San Diego/Dallas), outside the 2025-07 to 2026-01 window; nothing later found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker Software Engineer I first seen 2024-10-03 (two cycles ago); nothing found for 2025-26",
   "jobs_page": "https://jobs.ashbyhq.com/appfolio",
   "jobs_spec": "ashby:appfolio",
-  "evidence": "Ashby API 2026-10-20 (35, full): all engineering roles are Sr/Staff/Principal; no entry SWE. Historically hires new grads (SWE I Oct 2024).",
-  "confidence": "high",
-  "jobs_spec_basis": "appfolio.com/open-roles now embeds Ashby (jobs.ashbyhq.com embed); old Jobvite list jobs.jvistg2.com/appfolio still shows same roles"
+  "evidence": "Ashby full board (35) 2026-10-27: all engineering roles are Sr/Staff/Principal; no entry SWE. Hired new grads in 2024 (Software Engineer I), so a track exists but nothing live.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

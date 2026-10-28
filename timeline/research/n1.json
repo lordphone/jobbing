@@ -1,8 +1,6 @@
 {
-  "company": "N1",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "open",
+  "checked": "2026-10-27",
+  "dropped": [],
   "postings": [
     {
       "title": "New Grad Software Engineer (Backend Rust)",
@@ -14,7 +12,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title 'New Grad Software Engineer'",
       "no_sponsorship": false
     },
     {
@@ -27,18 +25,19 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title 'New Grad Software Engineer'",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "jobs.py history: New Grad Software Engineer - Backend Rust (Oakland, CA; NYC) first seen 2025-09-02",
+  "last_cycle_basis": "tracker first seen (tracker_last_cycle)",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "N1",
+  "tier": 4,
+  "status": "open",
   "jobs_page": "https://jobs.ashbyhq.com/n1",
   "jobs_spec": "ashby:n1",
-  "jobs_spec_basis": "n1.xyz site links to jobs.ashbyhq.com/n1; board lists N1 blockchain roles",
-  "evidence": "Ashby full board (10) read 2026-10-20: two evergreen New Grad SWE postings live, no class year, deadline or years asked. Published before 2026-07-01 but open to recent grads, so counted. Other SWE roles need 3+ yrs or are senior/intern. n1.xyz links to jobs.ashbyhq.com/n1.",
+  "evidence": "Ashby full board (11) re-read 2026-10-27: two evergreen New Grad SWE postings still live, no class year, deadline or sponsorship line. Published before 2026-07-01 but open to recent grads, so counted. Software Engineer (Full Stack) asks 3+ yrs; other SWE roles senior or intern.",
   "confidence": "medium"
 }

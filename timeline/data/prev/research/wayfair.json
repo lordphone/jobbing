@@ -1,16 +1,16 @@
 {
   "company": "Wayfair",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "not_yet",
+  "status": "unknown",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; 'Frontend Software Engineer I - Early Careers' (Boston) also on old Greenhouse link board; 2024 cycle US 'Software Engineer I' from 2024-06/07",
+  "last_cycle_basis": "Tracker: 'Software Engineer 1 - Early Careers' (Toronto, ON) first seen 2025-10-02; 2024 cycle US 'Software Engineer I' from 2024-06/07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.wayfair.com/careers/jobs?selectedJobTypeIds=8%2C4",
   "jobs_spec": null,
-  "evidence": "Browser wayfair.com/careers 2026-10-19, Early Talent + Entry Level filter: 5 US results, all Boston business roles (Summer 2027 start), no engineering. Last cycle SWE 1 Early Careers posted 2025-10-02 (Toronto).",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "2026-10-26: wayfair.com/careers/jobs returns HTTP 429 to WebFetch, and no browser tab could be opened (pane at tab cap), so the job list could not be read. Early-careers page says rolling hiring, SWE a track. On 2026-10-23 the Early Talent filter showed only Boston business roles; engineering search was blocked. Retry later.",
+  "confidence": "low",
+  "checked": "2026-10-26"
 }

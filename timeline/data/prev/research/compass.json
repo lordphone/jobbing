@@ -1,22 +1,9 @@
 {
   "company": "Compass",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer - Mobile, iOS",
-      "url": "https://www.compass.com/careers?gh_jid=8081848",
-      "location": "Boca Raton, FL",
-      "opened": "2026-07-23",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties; $126,000-$141,000",
-      "no_sponsorship": false
-    },
     {
       "title": "Software Engineer - Mobile, iOS",
       "url": "https://www.compass.com/careers?gh_jid=8285075",
@@ -27,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties; $126,000-$141,000",
+      "level_basis": "Requires '2+ years of professional iOS development'; delivers features 'with some guidance'; no senior duties; $126,000-$141,000",
       "no_sponsorship": false
     },
     {
@@ -40,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
+      "level_basis": "Requires '2+ years of professional iOS development'; delivers features 'with some guidance'; no senior duties; $126,000-$141,000",
       "no_sponsorship": false
     },
     {
@@ -53,20 +40,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer - Mobile, iOS",
-      "url": "https://www.compass.com/careers?gh_jid=8042532",
-      "location": "Boston, MA",
-      "opened": "2026-07-07",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
+      "level_basis": "Requires '2+ years of professional iOS development'; delivers features 'with some guidance'; no senior duties; $126,000-$141,000",
       "no_sponsorship": false
     },
     {
@@ -79,43 +53,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer - Mobile, iOS",
-      "url": "https://www.compass.com/careers?gh_jid=8048038",
-      "location": "Seattle, WA",
-      "opened": "2026-07-07",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer - Mobile, iOS",
-      "url": "https://www.compass.com/careers?gh_jid=8042533",
-      "location": "New York, NY",
-      "opened": "2026-07-07",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Requires '2+ years of professional iOS development'; builds well-defined features 'with some guidance'; no senior duties",
+      "level_basis": "Requires '2+ years of professional iOS development'; delivers features 'with some guidance'; no senior duties; $126,000-$141,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no new-grad SWE posting for Compass real estate (matches are other companies)",
+  "last_cycle_basis": "No new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/urbancompass",
   "jobs_spec": "gh:urbancompass",
-  "evidence": "gh:urbancompass (211, full) read 2026-10-19: eight Software Engineer - Mobile, iOS postings live (4 cities; re-read one: 'BS in CS', 2+ yrs iOS, 'with some guidance', $126K-$141K). Borderline entry-level. Other engineering is Software Engineer II, Senior, Staff or Manager.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "gh:urbancompass full board (203) 2026-10-26: four 'Software Engineer - Mobile, iOS' postings first published 2026-10-15 (NYC, Boston, Seattle, Boca Raton), 2+ yrs iOS, some guidance, borderline entry, kept from earlier run. II-titled and other roles not counted.",
+  "confidence": "medium"
 }

@@ -1,5 +1,6 @@
 {
   "company": "Shell plc (Shell USA)",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -17,14 +18,13 @@
     }
   ],
   "last_cycle_opened": "on or before 2026-06-13",
-  "last_cycle_basis": "jobs.py history: Shell Graduate Programme 2026 - UK (Trading and Supply) first seen 2026-06-13; US 2026 timing assumed similar",
+  "last_cycle_basis": "jobs.py history: Shell Graduate Programme 2026 postings first seen on or before 2026-06-13",
   "jobs_page": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "jobs_spec": "wd:shell/wd3/ShellCareers",
-  "evidence": "Workday full board (142) + CXS detail 2026-10-19: US Graduate Program 2027 live (start 2026-10-01, ends 2027-02-01), one posting covering all functions incl. IDT so SWE track uncertain. Posting restricts to U.S. work authorization; kept as counted earlier.",
+  "evidence": "Workday full board (139) + detail 2026-10-26: US Graduate Program 2027 live (ends 2027-02-01), one posting covering all functions incl. Information & Digital Technologies, so SWE track uncertain. Posting says those needing sponsorship are not eligible, with some PhD/Master's exceptions. Canada programme is Scotford/Calgary; IDT UK is London.",
   "confidence": "medium",
+  "checked": "2026-10-26",
   "dropped": [],
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+  "no_sponsorship": false
 }

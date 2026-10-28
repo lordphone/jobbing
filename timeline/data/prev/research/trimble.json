@@ -1,17 +1,30 @@
 {
  "company": "Trimble",
  "tier": 5,
- "checked": "2026-10-19",
- "status": "not_yet",
- "jobs_page": "https://trimblecareers.trimble.com/careers",
- "jobs_spec": null,
- "evidence": "Eightfold board (browser, 2026-10-19) shows 0 jobs and a notice that postings pause Oct 18-20 during a site update; old Workday board (17) has no entry software. Software Engineering RDP is listed by the company but none posted; recheck after Oct 20.",
- "confidence": "low",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer",
+   "url": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---NJ-Princeton/Software-Engineer_R57982",
+   "location": "Princeton, NJ",
+   "opened": "2026-10-22",
+   "date_source": "tracker first seen",
+   "deadline": "2026-10-30",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Trimble MAPS Data Integration SWE; requires BS in CS and 'professional or academic proficiency' in a language; no years line, no lead duties",
+   "no_sponsorship": false
+  }
+ ],
  "last_cycle_opened": "2025-11-01",
  "last_cycle_basis": "tracker first seen: Software Engineer 1 - SketchUp Warehouse Platform Team, Westminster CO (2025-11-01); no longer on board",
- "postings": [],
- "no_sponsorship": false,
  "excluded_reason": null,
- "jobs_spec_basis": "careers page Search jobs goes to trimblecareers.trimble.com (Eightfold, trimble.eightfold.ai); Workday board shrank to 16 postings, no software",
- "dropped": []
+ "no_sponsorship": false,
+ "jobs_page": "https://trimblecareers.trimble.com/careers",
+ "jobs_spec": "wd:trimble/wd1/trimblecareers",
+ "evidence": "Workday board (210, full) read 2026-10-26: Princeton NJ Software Engineer R57982 is live again (counted 10-22, missing 10-23; now start 2026-10-26, end 2026-10-30), BS only, no years. Other US SWE ask 3-5+ yrs, clearance (Sunnyvale embedded), lead duties, or own architecture (Lake Oswego R57827). Status was closed; changed because it is back.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-26"
 }

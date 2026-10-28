@@ -1,7 +1,7 @@
 {
  "company": "Stripe",
  "tier": 1,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "open",
  "postings": [
   {
@@ -11,7 +11,7 @@
    "opened": "2026-08-31",
    "date_source": "greenhouse first_published",
    "deadline": null,
-   "grad_window": "degree obtained by summer 2027; max 18 months experience",
+   "grad_window": "degree by summer 2027",
    "live_verified": "api",
    "level": "new-grad title",
    "level_basis": null,
@@ -24,7 +24,7 @@
    "opened": "2026-08-31",
    "date_source": "greenhouse first_published",
    "deadline": null,
-   "grad_window": "degree obtained by summer 2027; max 18 months experience",
+   "grad_window": "degree by summer 2027",
    "live_verified": "api",
    "level": "new-grad title",
    "level_basis": null,
@@ -37,7 +37,7 @@
    "opened": "2026-09-17",
    "date_source": "greenhouse first_published",
    "deadline": null,
-   "grad_window": "degree obtained by summer 2026; start before 2026-12-01",
+   "grad_window": "degree by summer 2026, max 18 months experience",
    "live_verified": "api",
    "level": "new-grad title",
    "level_basis": null,
@@ -50,7 +50,7 @@
    "opened": "2026-09-17",
    "date_source": "greenhouse first_published",
    "deadline": null,
-   "grad_window": "degree obtained by summer 2026; start before 2026-12-01",
+   "grad_window": "degree by summer 2026, max 18 months experience",
    "live_verified": "api",
    "level": "new-grad title",
    "level_basis": null,
@@ -59,11 +59,11 @@
  ],
  "dropped": [],
  "last_cycle_opened": "2025-09-02",
- "last_cycle_basis": "jobs.py history: Software Engineer - New Grad first seen 2025-09-02 (stripe.com/jobs/search?gh_jid=7210112); 2024 cycle 2024-08-23",
+ "last_cycle_basis": "tracker last-cycle first seen 2025-09-02",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://stripe.com/jobs/search",
  "jobs_spec": "gh:stripe",
- "evidence": "gh:stripe full board (726) read 2026-10-19; posting pages opened via Greenhouse API: US and Toronto SWE New Grad (degree by summer 2027, max 18 months experience) live. Early Career Immediate Start (degree by summer 2026, start before Dec 1) also live, kept. Other SWE roles are experienced.",
+ "evidence": "gh:stripe full board (711) and Greenhouse API 2026-10-26: four live new-grad/early-career SWE postings (US and Toronto), 18 months max experience. Other new grad roles are non-US. South SF Software Engineer needs 2+ yrs cloud infra, left out.",
  "confidence": "high"
 }

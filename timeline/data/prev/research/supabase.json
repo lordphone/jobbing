@@ -1,16 +1,16 @@
 {
-  "company": "Supabase",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has no Supabase postings",
+  "last_cycle_basis": "no tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Supabase",
+  "tier": 3,
+  "status": "no_program_found",
   "jobs_page": "https://jobs.ashbyhq.com/supabase",
   "jobs_spec": "ashby:supabase",
-  "evidence": "Rechecked 2026-10-19 (board API plus detail): no new-grad titles or history. SWE/platform roles ask 4-10+ yrs (Auth 4+, SRE 7+, Branching, Compute, Managed Postgres); SDK Python, AI Platform, Supalite state no years and read experienced. Rest support, DevRel, leadership.",
+  "evidence": "ashby:supabase full board (64) read 2026-10-26, all engineering postings screened: they ask 3-10+ yrs, or no years but own-the-system senior scope (Spark, Turso, MTS is a senior AI-lab solutions role). No entry-level label or new-grad program.",
   "confidence": "high"
 }

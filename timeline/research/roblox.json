@@ -1,7 +1,6 @@
 {
   "company": "Roblox",
   "tier": 2,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": "Class of 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Title '[2027]' and 'Early Career'; class of 2027",
       "no_sponsorship": true
     },
     {
@@ -57,19 +56,6 @@
       "no_sponsorship": true
     },
     {
-      "title": "Software Engineer, Creator",
-      "url": "https://careers.roblox.com/jobs/8115917",
-      "location": "San Mateo, CA",
-      "opened": "2026-08-26",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "An engineer with 1-3 years of experience; $153K-$196K",
-      "no_sponsorship": true
-    },
-    {
       "title": "Software Engineer, GenAI Platform",
       "url": "https://careers.roblox.com/jobs/8171283",
       "location": "San Mateo, CA",
@@ -107,6 +93,64 @@
       "level": "unlabeled",
       "level_basis": "requires 2+ years of software engineering experience, no senior duties; $168K-$212K",
       "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Notifications",
+      "url": "https://careers.roblox.com/jobs/8261393",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1–3 years of industry experience; $153K-$196K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Reliability",
+      "url": "https://careers.roblox.com/jobs/8283707",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'engineer early in your career'; at least 2 years incl. internships and research; $153K-$196K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Frontend - Economy",
+      "url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-26",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1-3 years building production web or mobile frontends; $153K-$196K",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer, Creator Services Communication",
+      "url": "https://careers.roblox.com/jobs/8283641?gh_jid=8283641",
+      "location": "San Mateo, CA",
+      "opened": "2026-10-27",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of professional software engineering experience; IC, no lead duties; $153K-$196K",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
+      "reason": "gone: Software Engineer, Creator is no longer on the Greenhouse board and the job API returns 404"
     }
   ],
   "last_cycle_opened": "2025-08-06",
@@ -115,7 +159,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://job-boards.greenhouse.io/roblox",
   "jobs_spec": "gh:roblox",
-  "evidence": "gh:roblox (261, full) 2026-10-20 via API: [2027] SWE Early Career live. Seven earlier unlabeled SWEs (1-3 / 1+ / 2+ yrs at early-career pay) still on the board and kept; Data Access (leads), Engine Infrastructure (no years), Account Security and Engine Scalability (3+ yrs) left out. Posts say no H-1B sponsorship.",
+  "evidence": "gh:roblox (269, full) read 2026-10-27 via Greenhouse API: [2027] SWE Early Career live plus unlabeled SWEs asking 1-3 / 1+ / 2+ yrs at early-career pay, incl. new Creator Services Communication. Data Access, Engine Infrastructure, Account Security, Engine Scalability (3+ yrs) left out. No H-1B sponsorship.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-27"
 }

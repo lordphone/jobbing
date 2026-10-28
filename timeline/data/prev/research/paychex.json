@@ -1,16 +1,17 @@
 {
   "company": "Paychex",
+  "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
+  "last_cycle_basis": "no tracker or careers-page evidence found",
   "jobs_page": "https://careers.paychex.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "careers.paychex.com API 2026-10-19 (497, full): US tech roles are CCaaS Platform Engineer III and Data Solutions Engineer (7 yrs required). Full-stack Python roles are Belgrade. Rest is sales, service, compliance. No entry SWE.",
+  "jobs_spec_basis": "careers.paychex.com is a Jibe site; /api/jobs lists all postings, no jobs.py spec",
+  "evidence": "careers.paychex.com Jibe API read in full 2026-10-26 (493 jobs): US tech roles are Software Engineer III (Webster NY), CCaaS Platform Engineer III and Data Solutions Engineer; Full-Stack Python roles are Belgrade only; rest sales/service. No entry-level SWE.",
   "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "postings": [],
+  "checked": "2026-10-26",
   "dropped": [],
+  "postings": [],
   "excluded_reason": null,
   "no_sponsorship": false
 }

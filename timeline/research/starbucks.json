@@ -1,7 +1,6 @@
 {
   "company": "Starbucks",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -10,21 +9,22 @@
       "location": "Seattle, WA; Nashville, TN",
       "opened": "2026-08-05",
       "date_source": "tracker first seen",
-      "deadline": "2026-11-13",
+      "deadline": "2026-11-12",
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "\"0-4 years of professional industry experience with software development\"; Bachelor's in CS; pay $111K+",
+      "level_basis": "\"0\u20134 years of professional industry experience with software development\"; Bachelor's in CS; pay $111K-$185K; Individual Contributor",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found in Jul 2025-Jan 2026 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://starbucks.eightfold.ai",
   "jobs_spec": "eightfold:starbucks.eightfold.ai/starbucks.com",
-  "evidence": "Eightfold API 2026-10-20 (950 US listed): only entry-ish SWE is software engineer- ST (Seattle, Nashville), 0-4 yrs, posted 2026-08-05 per history, API shows expiry 2026-11-13. Not a new-grad program; borderline fit.",
-  "confidence": "medium"
+  "evidence": "Eightfold board (full, US) 2026-10-27: only entry-ish SWE is this one. Opened in browser: Apply Now, posted 10/13/2026, expires 11/12/2026, 0-4 yrs, IC. Opened date kept from earlier tracker first seen. Not a new-grad program; borderline.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

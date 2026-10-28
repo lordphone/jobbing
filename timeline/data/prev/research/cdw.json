@@ -1,16 +1,16 @@
 {
-  "company": "CDW",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "not_yet",
+  "checked": "2026-10-26",
   "postings": [],
-  "last_cycle_opened": "2026-04",
-  "last_cycle_basis": "tracker: Software Engineer 1 Backend/Frontend (Illinois) posted 2026-04-13, outside the Jul-Jan window",
+  "dropped": [],
+  "last_cycle_opened": "2026-04-13",
+  "last_cycle_basis": "tracker first seen 2026-04-13 (Software Engineer 1 Backend/Frontend, Illinois remote, now off the board; Workday API returns permission denied)",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "CDW",
+  "tier": 5,
+  "status": "not_yet",
   "jobs_page": "https://cdw.wd5.myworkdayjobs.com/careers",
   "jobs_spec": "wd:cdw/wd5/careers",
-  "evidence": "Workday full board 2026-10-19 (168): no software or developer titles in the US; only consulting/support engineers, sales, warehouse and UK roles. Software Engineer 1 postings (Apr 2026, Illinois) are gone.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday full board (185) read 2026-10-26: no entry-level software or developer titles in the US; only senior or consulting, architect and infrastructure roles plus UK/South Africa roles. Spring 2026 SWE 1 Illinois remote postings are off the board.",
+  "confidence": "medium"
 }

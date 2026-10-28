@@ -1,7 +1,7 @@
 {
   "company": "ByteDance / TikTok",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -1383,19 +1383,6 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
-      "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail",
-      "location": "San Jose, CA",
-      "opened": "2026-07-27",
-      "date_source": "job ID timestamp",
-      "deadline": null,
-      "grad_window": "2027 Start (completing or recently completed Bachelor's or above)",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
       "title": "Backend Inference Framework Engineer Graduate (AML Inference) - 2027 Start",
       "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail",
       "location": "San Jose, CA",
@@ -1851,7 +1838,7 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start",
+      "title": "Software Engineer Graduate (AI Infrastructure \u2014 Compute Efficiency & Scheduling) - 2027 Start",
       "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail",
       "location": "San Jose, CA",
       "opened": "2026-07-31",
@@ -2033,22 +2020,14 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
-      "reason": "gone: joinbytedance.com page shows \"Oops! We can't find your page\" (no Apply button)"
-    },
-    {
-      "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
-      "reason": "gone: joinbytedance.com page shows \"Oops! We can't find your page\" (no Apply button)"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2025-06-16",
   "last_cycle_basis": "jobs.py history: 'Software Engineer Graduate - Applied Machine Learning' San Jose first seen 2025-06-16 (jobs.bytedance.com); 'New Grad 2026: Backend Engineer Graduate, Risk and Response' Seattle 2025-07-30 on lifeattiktok.com",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://lifeattiktok.com",
   "jobs_spec": null,
-  "evidence": "lifeattiktok search API 2026-10-19: all 111 TikTok grad postings (San Jose, Seattle) still listed; two of the 45 jobs.bytedance.com pages opened in browser show Apply. No new non-PhD SWE postings. PhD-only, intern, test, data and research scientist roles not counted.",
-  "confidence": "high"
+  "evidence": "api.lifeattiktok.com search 2026-10-26 (4313 jobs, 1857 US/Canada): all 111 lifeattiktok postings still listed; all 44 jobs.bytedance.com postings live via its detail API. No new non-PhD engineering grad roles found. Testing/Solutions/PhD-only left out.",
+  "confidence": "high",
+  "jobs_spec_basis": "lifeattiktok.com search API (api.lifeattiktok.com) and jobs.bytedance.com detail API; no jobs.py spec"
 }

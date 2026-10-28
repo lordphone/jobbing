@@ -1,7 +1,7 @@
 {
   "company": "Pacific Life",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -20,11 +20,11 @@
   ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history or dated university page found",
+  "last_cycle_basis": "no tracker first-seen in Jul 2025-Jan 2026 window; nothing found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
   "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
-  "evidence": "Workday full board (129) + CXS detail 2026-10-20: Technology Rotation Program Associate live (startDate 2026-09-25, canApply, no end date). Borderline SWE rotation, kept as an earlier run counted it. Other engineers are IAM/security/Appian.",
-  "confidence": "medium"
+  "evidence": "Workday full board (127) + detail 2026-10-27: Technology Rotation Program Associate live (start 2026-09-25, no end date), kept as borderline IT rotation counted earlier. Appian Engineer asks 5+ yrs; other engineers are security or senior; SWE/data interns excluded.",
+  "confidence": "low"
 }

@@ -1,17 +1,16 @@
 {
-  "company": "Figure",
-  "tier": 2,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no entry-level SWE among Figure tracker entries",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Figure",
+  "tier": 2,
+  "status": "no_program_found",
   "jobs_page": "https://job-boards.greenhouse.io/figureai",
   "jobs_spec": "gh:figureai",
-  "evidence": "gh:figureai full board (100) 2026-10-19: screened 31 engineering postings. SWE roles ask 3-8+ yrs at $120K-$400K. Helix Perception, XR, Mapping, Video Pretraining ask deep expertise ('Extensive experience'); Software Integration Engineer lists no years but reads mid-level. Only interns are Winter 2027. No new-grad title.",
-  "confidence": "medium",
-  "jobs_spec_basis": "careers page Apply links go to job-boards.greenhouse.io/figureai; kept gh:figureai"
+  "evidence": "gh:figureai full board (104) 2026-10-26, screened 33 engineering postings. SWE roles ask 3-8+ yrs; Helix AI roles with no years state $200K-$400K and read experienced; Software Integration Engineer (no years, BS/MS) is robotics integration and unclear, left out. Only Winter 2027 interns.",
+  "confidence": "medium"
 }

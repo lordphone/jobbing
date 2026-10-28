@@ -1,43 +1,44 @@
 {
-  "company": "Motorola Solutions",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Android Software Engineer",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
-      "location": "Plantation, FL",
-      "opened": "2026-09-10",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Position Type New Grad; Bachelor's; \"1 years of Actual Working Android development experience\"; $73,800 - $97,600",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Jr. Software Engineer, AI Agent Platform",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
-      "location": "Remote (Ontario, Canada); Remote (British Columbia, Canada)",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Position Type New Grad; Jr. title; Bachelor's degree",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-08-19",
-  "last_cycle_basis": "tracker last-cycle first seen 2025-08-19",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
-  "jobs_spec": "wd:motorolasolutions/wd5/Careers",
-  "evidence": "Workday API 2026-10-20 (840, full) plus detail: Android SWE Plantation (1+ yr, New Grad type) and Jr SWE AI Agent Platform (Ontario/BC remote, New Grad type) still live. Software Test Engineer LA (test), Silvus US-person roles, Richardson SWE (3+ yrs) and Tools Developer (3+ yrs) not counted.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Motorola Solutions",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Android Software Engineer",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+   "location": "Plantation, FL",
+   "opened": "2026-09-10",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Position Type New Grad; Bachelor's; \"1+ years of Actual Working Android development experience\"; $73,800 - $97,600",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Jr. Software Engineer, AI Agent Platform",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
+   "location": "Remote (Ontario, Canada); Remote (British Columbia, Canada)",
+   "opened": "2026-10-05",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Position Type New Grad; Jr. title; Bachelor's degree; no production experience expected",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-08-19",
+ "last_cycle_basis": "tracker last-cycle first seen 2025-08-19",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
+ "jobs_spec": "wd:motorolasolutions/wd5/Careers",
+ "evidence": "Workday full board (890) re-read 2026-10-27: Android SWE Plantation (1+ yr, Position Type New Grad) and Jr SWE AI Agent Platform (Ontario/BC remote) live via API. Gatineau juniors are outside scope; Chicago Android needs US citizenship, Silvus LA roles need U.S. Person; SLC needs 10+ yrs.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "jobs_spec_basis": "saved board wd:motorolasolutions/wd5/Careers confirmed; lists Motorola roles"
 }

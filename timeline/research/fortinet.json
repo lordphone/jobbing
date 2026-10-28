@@ -4,6 +4,32 @@
   "status": "open",
   "postings": [
     {
+      "title": "Early Careers: Software Development Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-26",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Early Careers: Software Development Engineer'; 'We Are Looking For: 0-2 years of experience in software development, including internships, co-ops, academic projects'; $92,300-$153,900",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Early Careers: AI Automation Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-23",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": "graduating by the start date",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Early Careers'; 'looking for a new graduate'; $110,000-$170,000",
+      "no_sponsorship": true
+    },
+    {
       "title": "Software Development Engineer (GUI)",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
       "location": "Sunnyvale, CA",
@@ -39,8 +65,21 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'Early Career Candidates with 0–2 years of professional experience, including recent graduates, are encouraged to apply'; $123,000-$151,000",
+      "level_basis": "'Early Career Candidates with 0\u20132 years of professional experience, including recent graduates, are encouraged to apply'; $123,000-$151,000",
       "no_sponsorship": true
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19866",
+      "location": "Burnaby, BC (Vancouver location); Vancouver, BC",
+      "opened": "2026-02-05",
+      "date_source": "oracle posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Early Career Candidates with 0\u20132 years of professional experience, including recent graduates, are encouraged to apply\"; minimum 1 year; CAD 96,800-118,300",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-01",
@@ -49,8 +88,8 @@
   "no_sponsorship": true,
   "jobs_page": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:edel.fa.us2.oraclecloud.com/CX_2001",
-  "evidence": "Oracle board (1024, full) 2026-10-20; screened US/Canada software roles. Counted Early Careers SDE Sunnyvale (0-3 yrs), SDE (GUI) Sunnyvale (coursework ok), SDE Santa Clara (0-2 yrs, new find). Left out: Agent Security (3+ yrs), Burnaby roles, test/systems/support. Postings need US work authorization without sponsorship.",
+  "evidence": "Oracle board (1053, full) read 2026-10-27. Kept Early Careers SDE 24668 (0-3 yrs) and 24770 (0-2 yrs), new Early Careers AI Automation Engineer 24771, SDE (GUI) 24399, SDE Santa Clara 23408, Burnaby Software Developer 19866. Left out 5+ to 7+ yr roles, citizenship-required SDEs, SDE 19675/19719 (no years, mid-level duties). US roles say no sponsorship.",
   "confidence": "medium",
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "dropped": []
 }

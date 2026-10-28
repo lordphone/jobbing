@@ -1,6 +1,7 @@
 {
   "company": "UPMC",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -8,24 +9,22 @@
       "url": "https://careers.upmc.com/job/23684048/information-technology-rotation-itr-program/",
       "location": "Pittsburgh, PA",
       "opened": "2026-08-25",
-      "date_source": "page metadata datePosted / m-cloud jobs API open_date",
+      "date_source": "page text (open_date)",
       "deadline": null,
       "grad_window": "Degree completed in or before June 2027; cohort starts July 2027",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Full-time entry level program; 'next cohort begins in July 2027'",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; UPMC posting timeline says applications run early August to end of October; no dated tracker record",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.upmc.com/job-search-results/?keyword=information%20technology%20rotation",
   "jobs_spec": null,
-  "evidence": "careers.upmc.com posting page 2026-10-20 (datePosted 2026-08-25): ITR program req 260001MI live with Apply now, degree by June 2027, July 2027 cohort. Rotations include software engineering, so only partly SWE. No other entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "jobs_spec_basis": "careers.upmc.com is a WordPress site backed by the m-cloud jobs API (companies/4c0b87d3-a9b3-4243-b9c7-2ad12c533ab3); read all 2812 postings",
-  "dropped": []
+  "evidence": "careers.upmc.com ITR posting read 2026-10-27: live with Apply now, open date Aug 25 2026, no close date, July 2027 cohort. Rotations include software engineering plus PM and analyst, so partly SWE. Keyword search showed no other entry-level SWE.",
+  "confidence": "medium"
 }

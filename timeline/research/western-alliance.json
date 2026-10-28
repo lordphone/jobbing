@@ -1,21 +1,16 @@
 {
-  "dropped": [
-    {
-      "url": "https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Dallas-TX/Engineer-I_R14052",
-      "reason": "gone: absent from the full Workday board and search for R14052 returns 0, detail API returns permission denied (page not viewable)"
-    }
-  ],
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "company": "Western Alliance",
   "tier": 5,
-  "status": "closed",
+  "checked": "2026-10-27",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-25",
-  "last_cycle_basis": "Tracker first seen 2025-09-25, Engineer I - AI Business Engineer, Phoenix",
+  "last_cycle_basis": "tracker last cycle 2025-09-25",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "status": "not_yet",
   "jobs_page": "https://westernalliancebank.wd5.myworkdayjobs.com/WAB",
   "jobs_spec": "wd:westernalliancebank/wd5/WAB",
-  "evidence": "Workday full board (175) 2026-10-20: Engineer I R14052 (Dallas/Phoenix, seen live 2026-10-19) no longer listed and its API detail is denied; page not openable. Remaining roles Staff/Principal; 2027 program is credit analyst.",
-  "confidence": "medium",
-  "checked": "2026-10-20"
+  "evidence": "Workday full board (147) read 2026-10-27: tracker Engineer I R14052 (Dallas) not listed. Engineers are Staff/Principal/Senior titles; 2027 program is Commercial Banking Development (credit analyst), not software.",
+  "confidence": "medium"
 }

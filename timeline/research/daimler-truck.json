@@ -1,21 +1,16 @@
 {
   "company": "Daimler Truck",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-12-02",
   "last_cycle_basis": "tracker first seen: System Engineering Analytics Engineer 1 (Portland, OR) on dtna_external",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate",
   "jobs_spec": "wd:dtna/wd5/dtna_affiliate",
-  "evidence": "Workday dtna_affiliate (94) and dtna_external (77) full 2026-10-20. Software Developer I (Detroit, posted 2026-10-19, endDate 2026-10-20) is no longer on either board and its page shows 'page doesn't exist' in the browser, so closed. Remaining software roles are Software Architect III, Senior HMI, Data Science II.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": [
-    {
-      "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Software-Developer-I_DT-20202",
-      "reason": "gone: not on either Workday board and page shows the page does not exist (API endDate was 2026-10-20)"
-    }
-  ],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday dtna_affiliate (100) and dtna_external (87) full 2026-10-27: no entry-level SWE. AI Developer (Portland) is a lead role leading a team. Tracker-seen Applied AI Engineer 1 and Manufacturing Data & AI Developer are off both boards.",
+  "confidence": "high"
 }

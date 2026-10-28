@@ -1,16 +1,16 @@
 {
   "company": "Teradyne",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2024-07-31",
-  "last_cycle_basis": "jobs.py history: 2024 NCG Software Engineer postings (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "earlier file: 2024 NCG Software Engineer postings (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing 2025-07 to 2026-01",
   "jobs_page": "https://jobs.teradyne.com",
   "jobs_spec": null,
-  "evidence": "jobs.teradyne.com RSS 2026-10-20: US New College Graduate roles are hardware verification, mechanical, test; SWE roles are experienced or ITAR-type test work. Last NCG SWE posts were 2024. Earlier file said closed, but no this-cycle SWE posting is evidenced.",
-  "confidence": "medium"
+  "evidence": "jobs.teradyne.com searched over HTTP 2026-10-27 (377 listings). New College Graduate roles are hardware verification, mechanical, test, field apps. Software Engineer (Compute Test) posts say 'Experienced', lead customers, no visa sponsorship; others ask 5+ yrs. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -1,23 +1,9 @@
 {
   "company": "Marriott International",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "FLEX Associate Software Engineer - Customer Data Platform",
-      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
-      "location": "Bethesda, MD",
-      "opened": "2026-07-10",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "unlabeled",
-      "level_basis": "earlier run read: \"well-suited for an early-career professional\"; 0-3 years of experience (including internships or academic projects)",
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-26",
+  "status": "closed",
+  "postings": [],
   "dropped": [],
   "last_cycle_opened": "2025-11-05",
   "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
@@ -25,7 +11,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "jobs_spec_basis": "Oracle board over 3000: searched keywords only; CDP req not in search list or requisition API this run, page not openable",
-  "evidence": "Oracle board 2026-10-19 (6646 listed of 13324, searched): Bethesda tech roles are Senior/FLEX Fusion only; Engineer I roles are hotel facilities. FLEX Associate SWE - CDP (26085377, 0-3 yrs, opened via page 2026-10-18) now returns nothing from the Oracle requisition API, like the closed 26099780; browser pane was unavailable (tab cap) to open the page, so status unknown. Retry.",
-  "confidence": "low"
+  "evidence": "Oracle board 2026-10-26 (keyword searched, not full): no Associate SWE postings; US software roles are FLEX temporary, Senior, Director or Tech Lead. Jul-Aug 2026 Associate SWE reqs seen earlier are gone. Closed, as before.",
+  "confidence": "medium"
 }

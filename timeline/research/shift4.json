@@ -1,30 +1,21 @@
 {
   "company": "Shift4",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [
+  "postings": [],
+  "dropped": [
     {
-      "title": "Software Engineer (Software Engineer I, SkyTab)",
       "url": "https://shift4payments.wd108.myworkdayjobs.com/Shift4_External_CareerSite/job/Atlanta-GA-Office/Software-Engineer---SkyTab_JR0000468-1",
-      "location": "Atlanta, GA; Tampa, FL; Center Valley, PA",
-      "opened": "2026-09-28",
-      "date_source": "workday postedOn (earlier run)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: not on the Workday board (76, full) 2026-10-26; browser page says 'The page you are looking for doesn't exist.'"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; not found in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.shift4.com/careers",
   "jobs_spec": "wd:shift4payments/wd108/Shift4_External_CareerSite",
-  "evidence": "Workday full board 2026-10-20 (66): SkyTab Software Engineer I not listed, and its page in the browser says 'The page you are looking for doesn't exist'. Remaining engineers need 3+ or 5+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday full board (76) read 2026-10-27: SkyTab Software Engineer I (posted 2026-09-28) still gone from board. Remaining: Full Stack Financial Systems 3+ yrs, Data Platform 5+ yrs. New Data Engineer (posted 10/27) asks 1-3 yrs, mid-level data role, left out.",
+  "confidence": "high",
+  "checked": "2026-10-27"
 }

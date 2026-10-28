@@ -1,7 +1,6 @@
 {
   "company": "Stifel Financial",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -9,7 +8,7 @@
       "url": "https://careers-stifel.icims.com/jobs/10047/developer--credit-analytics/job",
       "location": "Saint Louis, MO",
       "opened": "2026-10-09",
-      "date_source": "tracker first seen",
+      "date_source": "page text datePosted (JSON-LD)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -25,6 +24,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-stifel.icims.com/jobs/search?ss=1",
   "jobs_spec": null,
-  "evidence": "iCIMS 2026-10-19: Developer- Credit Analytics (ID 2026-10047, St. Louis) has an Apply button; requires 0-2 yrs post-bachelor's software development, works with team guidance, no sponsorship line. Keyword searches (developer, engineer, software, technology, graduate) found only senior or non-SWE other roles.",
-  "confidence": "medium"
+  "evidence": "iCIMS list (4 pages) and posting page read 2026-10-26: Developer- Credit Analytics (St. Louis) live with Apply, datePosted 2026-10-09, requires 0-2 yrs software development. Left out: Cloud Engineer (IT ops), Sr Developer roles, summer 2027 interns.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

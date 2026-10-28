@@ -1,16 +1,30 @@
 {
   "company": "Yardi",
-  "status": "not_yet",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Development Engineer I",
+      "url": "https://careers.yardi.com/openings/job-posting/RES25425895/",
+      "location": "Santa Barbara, CA",
+      "opened": "on or before 2026-10-26",
+      "date_source": "page text (no date shown; first seen 2026-10-26)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Level I; foundational programming skills, no years of experience required",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows only 2024 SDE I postings (2024-10-14, 2024-12-22 Santa Barbara), outside last-cycle window",
+  "last_cycle_basis": "tracker history shows SDE I postings 2024-10-14 and 2024-12-22 (two cycles ago); none in 2025-07 to 2026-01",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.yardi.com/openings/",
   "jobs_spec": null,
-  "evidence": "Could not reopen the openings page 2026-10-20 (Cloudflare 403, no browser tab free). Carried from 2026-10-19 browser read (~60 roles, no software or developer roles). A web search surfaced an SDE I Santa Barbara posting (RES25425895) that could not be opened or dated, so not counted. Yardi posted SDE I Oct and Dec 2024.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "dropped": [],
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.yardi.com/openings read in browser 2026-10-27: Software Development Engineer I (Santa Barbara, RES25425895) still listed, page shows Login to Apply; bachelor's, no years asked, no citizenship line. Associate QA Engineer (Cleveland) is test, not counted. Posting date not shown.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

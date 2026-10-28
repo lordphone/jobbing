@@ -1,56 +1,43 @@
 {
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "postings": [
-    {
-      "title": "Software Engineer | Enterprise Technology & Security Development Program",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
-      "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
-      "opened": "2026-09-11",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Data Engineer | Enterprise Technology & Security Development Program",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
-      "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
-      "opened": "2026-09-11",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Software Engineer I",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49903",
-      "location": "Johnston, RI",
-      "opened": "2026-10-19",
-      "date_source": "oracle posted date",
-      "deadline": "2026-10-23",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "company": "Citizens (Citizens Financial Group)",
-  "status": "open",
-  "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board job 41913)",
-  "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
-  "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle board (485, full) 2026-10-19: new Software Engineer I (Johnston RI, 'recent college graduate or early-career', ends 2026-10-23, no sponsorship line). ETS Development Program SWE and Data Engineer reqs (Spring 2027 grad, no visa sponsorship) still served by detail API though absent from list.",
-  "confidence": "high"
+ "company": "Citizens (Citizens Financial Group)",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer | Enterprise Technology & Security Development Program",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
+   "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
+   "opened": "2026-09-11",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Data Engineer | Enterprise Technology & Security Development Program",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
+   "location": "Johnston, RI; Phoenix, AZ; Plano, TX",
+   "opened": "2026-09-11",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": "Spring 2027 graduation (program start 2027-06-28)",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-30",
+ "last_cycle_basis": "tracker first-seen 2025-10-30 (Data Engineer, Citizens Oracle board job 41913)",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://hcgn.fa.us2.oraclecloud.com",
+ "jobs_spec": "oracle:hcgn.fa.us2.oraclecloud.com/CX_1",
+ "evidence": "Oracle board (502, full) 2026-10-26 omits the ETS programs, but the requisition detail API still returns ETS Software Engineer (49291) and Data Engineer (49290) with full text, Spring 2027 grads, start 2027-06-28, Johnston/Phoenix/Plano. Not in public list (no posted dates). Permanent work authorization required, no sponsorship.",
+ "confidence": "medium"
 }

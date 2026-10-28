@@ -1,30 +1,30 @@
 {
-  "company": "The Voleon Group",
-  "tier": 2,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - University Hire 2027",
-      "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c",
-      "location": "Berkeley, CA; New York City, NY",
-      "opened": "2026-08-25",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": "Graduating class of 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-30",
-  "last_cycle_basis": "tracker first seen: Software Engineer - University Hire 2026 (Berkeley) 2025-10-30",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/voleon",
-  "jobs_spec": "ashby:voleon",
-  "evidence": "ashby:voleon full board (58) 2026-10-19: Software Engineer - University Hire 2027 (published 2026-08-25, class of 2027, Berkeley and NYC, $175K-$210K) still live; needs US work authorization, no citizenship line. Other SWEs ask 3+ yrs or are senior; SRE is ops (2 yrs), left out.",
-  "confidence": "high",
-  "dropped": []
+ "company": "The Voleon Group",
+ "tier": 2,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - University Hire 2027",
+   "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c",
+   "location": "Berkeley, CA; New York City, NY",
+   "opened": "2026-08-25",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": "Graduating class of 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title \"University Hire 2027\"; \"Graduating class of 2027\"",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-30",
+ "last_cycle_basis": "tracker first seen: Software Engineer - University Hire 2026 (Berkeley) 2025-10-30",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.ashbyhq.com/voleon",
+ "jobs_spec": "ashby:voleon",
+ "evidence": "ashby:voleon full board (60) 2026-10-26: Software Engineer - University Hire 2027 (published 2026-08-25, class of 2027, Berkeley and NYC) live via API; needs US work authorization only. Not counted: SWE roles needing 3+ yrs, Senior/Staff, SRE (2 yrs, posted April, not this cycle).",
+ "confidence": "high"
 }

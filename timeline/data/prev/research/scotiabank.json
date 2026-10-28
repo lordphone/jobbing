@@ -1,7 +1,7 @@
 {
   "company": "Scotiabank (Bank of Nova Scotia)",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -9,10 +9,10 @@
       "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
       "location": "Toronto, ON",
       "opened": "2026-10-04",
-      "date_source": "careers search list date",
+      "date_source": "page datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "'Junior' in title",
       "no_sponsorship": false
@@ -25,19 +25,45 @@
       "date_source": "earlier run (careers site); search list shows 2026-10-19",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "'Junior' in title; requires familiarity with one language, Git, REST",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Platform Engineer (req 261791)",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Associate-Platform-Engineer-ON-M5H-1H1/603281017/",
+      "location": "Toronto, ON",
+      "opened": "2026-10-03",
+      "date_source": "page datePosted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Associate' in title; no years asked; React, Node JS, Java app development, no senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Full stack Developer (Front End Focus) (req 264129)",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Full-stack-Developer-%28Front-End-Focus%29-ON-M1L4S2/603523017/",
+      "location": "Toronto, ON",
+      "opened": "2026-10-10",
+      "date_source": "page datePosted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "'Junior' in title; posting lists 3+ yrs, which is not enforced for a Junior title",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history found",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.scotiabank.com/go/Student-&-New-Grad-Jobs/2298417/",
   "jobs_spec": null,
-  "evidence": "Careers search 2026-10-19: both Toronto Junior Software Engineer postings (req 267400 and 264671) show Apply, no years asked. Other Toronto SWE roles are Software Engineer, Senior or Staff. US roles are capital markets.",
+  "evidence": "2026-10-26: searched jobs.scotiabank.com (software, developer, engineer, graduate) and re-read the four counted Toronto postings over HTTP: all show Apply now. Others (Programmer Analyst 1-3 yrs, AI Platform 3+, Data and AI 4+, Full-Stack 5+, Crypto 5+) are mid or senior. SOAR 2027 is Indigenous-only business program.",
   "confidence": "medium"
 }

@@ -1,16 +1,21 @@
 {
   "company": "Guidewire Software",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "not_yet",
+  "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1",
+      "reason": "gone: not on the Workday board (118, full) or in the Workday search for 'Junior' on 2026-10-26; an earlier browser check showed 'page doesn't exist' (detail lookup failed, browser pane unavailable)"
+    }
+  ],
   "last_cycle_opened": "2025-12-04",
   "last_cycle_basis": "Tracker first seen: AI Engineer, San Mateo CA, 2025-12-04; also Machine Learning Engineer I - Generative AI 2025-06-24 and Software Engineer 1 San Mateo 2026-06-08 (gone).",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://guidewire.wd5.myworkdayjobs.com/external",
   "jobs_spec": "wd:guidewire/wd5/external",
-  "evidence": "Workday full board 2026-10-19 (120): US SWE/ML req is ML Platform Engineer (3+ yrs). Toronto Consultant Developer asks 2-4 yrs. Entry reqs (SWE 1, ML Engineer I) recur in San Mateo but none live.",
-  "confidence": "medium"
+  "evidence": "Workday full board (118) 2026-10-26: Junior AI Engineer - Applied AI (posted 2026-10-21) no longer on the board; prior run saw page gone. Other US/Toronto SWE and ML reqs are II/III/Senior/Staff (SWE II asks 2-5 yrs); Toronto Consultant Developer asks 2-4 yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

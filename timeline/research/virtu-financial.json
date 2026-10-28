@@ -1,7 +1,7 @@
 {
   "company": "Virtu Financial",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -18,13 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found; tracker history shows no new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/virtu",
   "jobs_spec": "gh:virtu",
-  "evidence": "gh:virtu full board (49) re-read 2026-10-20, screened 11. No new-grad title; 2027 SWE internships only. Evergreen C#/.NET frontend SWE (first published 2019) asks 2+ yrs at $130K, kept as unlabeled. Other NY SWE roles 3+/5+ yrs; desktop C# role has no years line, left out.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "gh:virtu full board (46) read 2026-10-27. No new-grad title; 2027 SWE internships only. Evergreen C#/.NET frontend SWE (published 2019, live via API) asks 2+ yrs at $130K, kept as unlabeled. Other NY SWE roles need 3+/5+ yrs; desktop C# role has no entry signal, left out.",
+  "confidence": "medium"
 }

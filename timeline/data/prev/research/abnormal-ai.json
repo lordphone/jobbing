@@ -1,7 +1,7 @@
 {
   "company": "Abnormal AI",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -20,11 +20,16 @@
   ],
   "last_cycle_opened": "2025-10-09",
   "last_cycle_basis": "tracker first seen 'Software Engineer 1 - Identity Security' SF 2025-10-09; 'Software Engineer 1 - Data Platform' 2025-10-30 (both closed)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/abnormalsecurity",
   "jobs_spec": "gh:abnormalsecurity",
-  "evidence": "Greenhouse full board 2026-10-18 (85): Software Engineer 1 - Cloud Infrastructure (Remote USA, first published 2026-10-17) is the only US entry role, live via API; ML Engineer I is Singapore only. Other US SWE roles are II or Senior. Rechecked 2026-10-19: SWE 1 Cloud Infrastructure still live via API.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "2026-10-26: Greenhouse full board (85) read; US-remote Software Engineer 1 - Cloud Infrastructure live on API (1-2 yrs, SWE 1 title). SWE 1 Data Platforms is now gone. ML Engineer I (Singapore) and SWE 1 Platform (Bangalore) not US; SWE II roles are higher level.",
+  "confidence": "high",
+  "dropped": [
+    {
+      "url": "https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003",
+      "reason": "gone: Greenhouse API returns Job not found and the posting is no longer on the board (board 86 -> 85)"
+    }
+  ],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

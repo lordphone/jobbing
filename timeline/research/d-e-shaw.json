@@ -1,7 +1,6 @@
 {
   "company": "D.E. Shaw",
   "tier": 1,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -32,12 +31,13 @@
     }
   ],
   "dropped": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "unknown; evergreen posting with no dated history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.deshaw.com/careers",
   "jobs_spec": null,
-  "evidence": "Careers list and posting pages re-read 2026-10-20, NYC only, no citizenship text. Software Developer welcomes all experience levels; HC Analytics Developer asks 1-3 years. DESIM asks 2 years but lists supervising duties, Quant Systems and Full-Stack GAI unclear, not counted. Others need 3+ years or are interns.",
-  "confidence": "medium"
+  "evidence": "Careers list and both postings re-read 2026-10-27 (page fetch, Apply Now present), NYC only, no citizenship text. Software Developer welcomes all levels; HC Analytics Developer asks 1-3 yrs. Left out: Full-Stack, Applied AI Engineer, DESIM, Dev Experience, Quant Systems, Infra, interns.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

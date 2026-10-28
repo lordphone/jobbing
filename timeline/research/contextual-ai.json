@@ -1,17 +1,17 @@
 {
   "company": "Contextual AI",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "unknown",
   "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no history rows",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://contextual.ai/careers",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers page has no ATS link or open-roles list in browser; no API board found",
-  "evidence": "2026-10-20 browser pane and WebFetch: contextual.ai/careers has an empty Open roles section and no ATS link; Ashby/Greenhouse/Lever guesses return nothing. Board unreadable, so unknown. Retry later.",
-  "confidence": "low"
+  "jobs_spec_basis": "careers page HTML has an Open roles heading but no roles or ATS link; Ashby, Greenhouse, Lever slugs 404",
+  "evidence": "contextual.ai/careers opened in the browser pane 2026-10-27: Open roles section lists no roles and has no ATS link or embed. gh/ashby/lever slugs (contextualai, contextual) not found. One web search found only third-party GTM and forward-deployed listings. First-party list empty or unreadable, so unknown.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found"
 }

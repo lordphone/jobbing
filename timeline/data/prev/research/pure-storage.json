@@ -1,7 +1,6 @@
 {
   "company": "Pure Storage",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,18 +13,19 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title 'Software Engineer Grad 2027'; salary $122,000-$183,000; posting says no application deadline, rolling",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-02-17",
   "last_cycle_basis": "jobs.py history: Graduate Software Engineer, Santa Clara CA, greenhouse 7258968, first seen 2026-02-17 (closed); before that Software Engineer Grad, Hyperscale 2024-07-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/purestorage",
   "jobs_spec": "gh:purestorage",
-  "jobs_spec_basis": "Company rebranded Everpure; careers opportunities page loads the purestorage Greenhouse board",
-  "evidence": "Greenhouse board 2026-10-19, 374 postings (full): 'Software Engineer Grad 2027' (Santa Clara, C++) first_published 2026-10-06, live, no application deadline, rolling; no sponsorship text. Other US SWE roles lead initiatives, ask 3-6+ yrs or pay $149K+, not counted.",
+  "jobs_spec_basis": "purestorage.com careers redirects to everpuredata.com (rebrand); board lists FlashArray/Portworx/Santa Clara jobs, same company",
+  "evidence": "Greenhouse board 2026-10-26 (366, full): 'Software Engineer Grad 2027' (Santa Clara) first_published 2026-10-06, live via API, no deadline (rolling). Other US SWE roles ask 3-6 or 5+ yrs, or list no level (Software Engineer C++ 8102970, Fullstack AI Infra) and were left out; India/Prague roles non-US.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26"
 }

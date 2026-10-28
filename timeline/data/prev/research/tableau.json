@@ -1,7 +1,6 @@
 {
   "company": "Tableau",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -12,20 +11,33 @@
       "date_source": "tracker first seen 2026-08-05; Workday postedOn is a repost (startDate 2026-10-14)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Labs Rotational Fellowship, Emerging Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "opened": "2026-10-15",
+      "date_source": "tracker first seen 2026-10-15; Workday startDate 2026-10-16",
+      "deadline": "2026-11-06",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Emerging Talent program for new graduates; requires up to 2 years of internship or professional experience in software engineering/ML; $114,400-$147,000",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-12",
   "last_cycle_basis": "Salesforce Software Engineering AMTS New Grad, tracker first seen 2025-08-12 (jobs.py history salesforce)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "Salesforce AMTS College Grad posting (JR355250) re-checked 2026-10-19 via jobs.py detail: live on Workday API, no citizenship line or deadline. Board listing call returns no response, so board basis kept. Tableau posts under Salesforce; not Tableau-specific.",
+  "evidence": "Tableau posts under Salesforce Workday (1568, full) re-read 2026-10-26: AMTS (College Grad) JR355250 live, 7 US locations, no deadline; AI Labs Rotational Fellowship live, apply by Nov 6. Not Tableau-specific. Database Engineering Associate not software.",
   "confidence": "medium",
-  "jobs_spec_basis": "Tableau posts under Salesforce; board listing call fails but posting detail loads on this board",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

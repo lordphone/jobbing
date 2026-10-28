@@ -1,43 +1,43 @@
 {
-  "company": "Rocket Companies",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer I",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
-      "location": "Detroit, MI; Cypress Waters, TX",
-      "opened": "2026-07-26",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Level I title; 1-3 yrs professional experience listed",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer I",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
-      "location": "Seattle, WA",
-      "opened": "2026-05-22",
-      "date_source": "workday startDate (possible repost of the May 2026 Seattle Software Developer I)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Level I title; 1-3 yrs professional experience listed",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Software Engineer I Bentonville 2025-02-11 and Software Developer I Seattle 2026-05-01 (rolling level-I roles); no Jul 2025-Jan 2026 date found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
-  "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
-  "evidence": "Workday full board 2026-10-19 (378) + detail via API: Software Engineer I (Detroit/Cypress Waters, 1-3 yrs) and Software Developer I (Seattle, 1-3 yrs) live. Full Stack Developer needs 3+ yrs, excluded. Rolling level-I roles.",
-  "confidence": "high"
+ "company": "Rocket Companies",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer I",
+   "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975",
+   "location": "Detroit, MI; Cypress Waters, TX",
+   "opened": "2026-07-26",
+   "date_source": "workday startDate (earlier run recorded 2026-07-26; startDate now 2026-08-07)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Level I title; 1-3 yrs professional experience listed",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Developer I",
+   "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
+   "location": "Seattle, WA",
+   "opened": "2026-05-22",
+   "date_source": "workday startDate (earlier run recorded 2026-05-22; startDate now 2026-10-08, possible repost)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Level I title; 1-3 years of professional experience in software development",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Tracker: Software Engineer I Bentonville 2025-02-11 and Software Developer I Seattle 2026-05-01 (rolling level-I roles); no Jul 2025-Jan 2026 date found.",
+ "jobs_page": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
+ "jobs_spec": "wd:quickenloans/wd5/rocket_careers",
+ "evidence": "Workday full board (379) and posting text via API 2026-10-26: Software Developer I (Seattle) and Software Engineer I (Detroit/Cypress Waters) live, both level I at 1-3 yrs. Full Stack Developer needs 3+ yrs, Senior/II excluded. Earlier opened dates kept; Seattle I may be a repost.",
+ "confidence": "high",
+ "checked": "2026-10-26",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

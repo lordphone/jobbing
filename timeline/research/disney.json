@@ -1,17 +1,21 @@
 {
  "company": "Disney",
  "tier": 4,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "closed",
  "postings": [],
- "dropped": [],
+ "dropped": [
+  {
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+   "reason": "gone: not on either full Workday board; page showed 'The page you are looking for doesn't exist' (2026-10-23)"
+  }
+ ],
  "last_cycle_opened": "2025-08-15",
- "last_cycle_basis": "tracker first seen: Software Engineer I, Seattle WA (disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661)",
+ "last_cycle_basis": "tracker first seen: Software Engineer I, Seattle WA (disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661), 2025-08-15",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
  "jobs_spec": "wd:disney/wd5/disneycareerdc",
- "jobs_spec_basis": "careers page Apply links go to Disney Workday; both disneycareerdc and disneycareer boards checked",
- "evidence": "Workday disneycareer (399) and disneycareerdc (441) full boards 2026-10-20: no Software Engineer I; US SWE are II, Senior or need 3+ yrs (Orlando SWE, Burbank Software Data Engineer); only Spring 2027 engineering intern. Earlier this-cycle SWE I postings gone.",
+ "evidence": "Both Workday boards (disneycareer 356, disneycareerdc 395, full) read 2026-10-27: Product Software Engineer I (Glendale, 10151599) is on neither board (page gone 2026-10-23). Other US SWE are II, Senior, Lead; Orlando Software Engineer asked 3+ yrs earlier.",
  "confidence": "medium"
 }

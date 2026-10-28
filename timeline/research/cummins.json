@@ -1,16 +1,21 @@
 {
- "company": "Cummins",
- "status": "closed",
+ "checked": "2026-10-27",
  "postings": [],
+ "dropped": [
+  {
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427178",
+   "reason": "gone: page says 'This job is no longer available', API returns nothing, not in board list"
+  }
+ ],
  "last_cycle_opened": "2025-11-03",
- "last_cycle_basis": "tracker history: Software Engineer I (Indiana) first seen 2025-11-03",
+ "last_cycle_basis": "tracker first seen Software Engineer I, Indiana, 2025-11-03",
  "excluded_reason": null,
  "no_sponsorship": false,
+ "company": "Cummins",
+ "tier": 5,
+ "status": "closed",
  "jobs_page": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
  "jobs_spec": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
- "evidence": "Full Oracle board (1228) read 2026-10-20: no US entry software title; US new-grad titles are manufacturing/mechanical engineering associates, School-to-Work is validation. Tracker lead Electronic Systems Engineer - Software 2433277 is not on the board listing, no posted date. Treated as closed.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+ "evidence": "Oracle board (1149, full) 2026-10-27: Electronic Systems Engineer - Software 2427178 (Columbus IN, entry level, opened 2026-10-26) now shows 'no longer available'. Other US roles are non-software or IT systems 1-3 yrs. 2027 Early Career roles are China.",
+ "confidence": "medium"
 }

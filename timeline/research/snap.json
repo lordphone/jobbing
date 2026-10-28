@@ -1,30 +1,43 @@
 {
-  "company": "Snap",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Level 3, Backend",
-      "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-10-16",
-      "date_source": "workday startDate (posted yesterday)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Level 3 (Snap entry level); minimum qualifications only BS/BA in a technical field, no years; $98,000-$146,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2024-09-26",
-  "last_cycle_basis": "tracker history: New Grad: Software Engineer, Full Stack (Seattle) first seen 2024-09-26; no new-grad posting found 2025-07..2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
-  "jobs_spec": "wd:snapchat/wd1/snap",
-  "evidence": "Workday snap (196) and sourced (163) boards 2026-10-20, full: Software Engineer Level 3 Backend in Toronto live (L3, BS only, no years). Applications Engineer L3 (LA/Palo Alto) requires 2+ yrs after bachelor's or master's plus 1+ yr post-grad experience, left out. All US SWE/MLE are Level 4+.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Snap",
+ "tier": 3,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Backend, Level 3",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0",
+   "location": "Los Angeles, CA; San Francisco, CA; Palo Alto, CA; New York, NY; Bellevue, WA",
+   "opened": "2026-10-23",
+   "date_source": "workday startDate",
+   "deadline": "2026-10-28",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Level 3 (lowest SWE level); minimum qualifications only BS/BA and no years of experience listed; $118K-$176K",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Level 3, Backend",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/sourced/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218",
+   "location": "Toronto, ON, Canada",
+   "opened": "2026-10-16",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Level 3; minimum qualifications only BS/BA and no years of experience listed",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2024-09-26",
+ "last_cycle_basis": "tracker first seen 2024-09-26 (2 years ago); no 2025 cycle date found",
+ "no_sponsorship": false,
+ "jobs_page": "https://snapchat.wd1.myworkdayjobs.com/snap",
+ "jobs_spec": "wd:snapchat/wd1/snap",
+ "evidence": "Workday snap (211) and sourced (179) boards read in full 2026-10-27; Level 3 Backend (US, ends 2026-10-28; Toronto) live via API and is the entry rung. Level 4+ mid/senior. Min quals BS/BA, no years. No class-year title. Tracker Level 4 not counted.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null
 }

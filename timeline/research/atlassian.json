@@ -1,7 +1,7 @@
 {
   "company": "Atlassian",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -23,6 +23,19 @@
       "location": "Seattle, WA",
       "opened": "2026-09-24",
       "date_source": "tracker first seen (iCIMS datePosted 2026-09-25)",
+      "deadline": null,
+      "grad_window": "graduating by August 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    },
+    {
+      "title": "Data Engineer, 2027 Graduate U.S.",
+      "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+      "location": "Seattle, WA",
+      "opened": "2026-10-05",
+      "date_source": "page text (iCIMS datePosted 2026-10-05)",
       "deadline": null,
       "grad_window": "graduating by August 2027",
       "live_verified": "api",
@@ -53,17 +66,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '2+ years experience with one or more prominent languages'; no lead/mentor duties; $124,749-$196,225 by zone (top above grad band)",
+      "level_basis": "requires '2+ years experience'; no lead/mentor duties; $124,749-$196,225 by zone",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Frontend Software Engineer",
+      "url": "https://careers-americas.icims.com/jobs/26674/frontend-software-engineer/job",
+      "location": "San Francisco, CA",
+      "opened": "on or before 2026-10-13",
+      "date_source": "listing feed updatedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of experience building large-scale frontend applications using React'; no lead or mentoring duties",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-03",
   "last_cycle_basis": "tracker history: 'New Grad 2026: Software Engineer' Seattle first seen 2025-09-03",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.atlassian.com/company/careers/all-jobs?team=Graduates",
   "jobs_spec": null,
-  "evidence": "Atlassian careers listings feed (360 jobs) 2026-10-20 lists SWE and ML Engineer 2027 Graduate US (Seattle) and SWE 2027 Graduate Canada, all with apply URLs; US not for F1/J1 or any sponsorship, Canada no sponsorship at hire. Backend SWE SF (2+ yrs) borderline, kept. Canada-remote Full Stack (1-3+ yrs) not counted (no Toronto/Vancouver city); Data grads not counted.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Atlassian careers listings feed (371) 2026-10-27: 2027 Graduate SWE, ML Engineer, Data Engineer (Seattle) and SWE Canada (BC) live. Backend SWE 25539 and Frontend SWE 26674 (2+ yrs, SF) kept as unlabeled. Full Stack (4+), Backend Canada (3+), Data Scientist, Security grad, AI Researcher (PhD) not counted.",
+  "confidence": "high"
 }

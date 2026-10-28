@@ -1,16 +1,30 @@
 {
   "company": "Fermi National Accelerator Laboratory (Fermilab)",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker history shows only postdoc, JROTC and an 'AI Associate' (2025-11) entry",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Associates",
+      "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
+      "location": "Batavia, IL",
+      "opened": "2026-10-26",
+      "date_source": "workday startDate",
+      "deadline": "2026-10-28",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Bachelor's, master's degree, or PhD in AI, ML or related field and up to 2 years of relevant experience'; $70,800-$93,200; 1-year term",
+      "no_sponsorship": false
+    }
+  ],
   "jobs_page": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers",
   "jobs_spec": "wd:fermilab/wd5/FermilabCareers",
-  "evidence": "Workday full board (65) read 2026-10-20: only software-like role is Kubernetes Engineer (BS+5 years); rest are technicians, mechanical/electrical engineers, network analyst, admin, postdocs. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board (69) 2026-10-27: AI Associates (Batavia, 1-year term, up to 2 yrs exp, BS/MS/PhD AI/ML) still live, kept as unlabeled, borderline research-associate. Deadline from Workday endDate 2026-10-28. No citizenship line seen. Kubernetes Engineer needs 5+ yrs; rest non-software.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found"
 }

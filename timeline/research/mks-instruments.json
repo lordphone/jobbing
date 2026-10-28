@@ -1,16 +1,30 @@
 {
- "company": "MKS Instruments",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "no_program_found",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history; none found",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas",
- "jobs_spec": "wd:mksinst/wd1/mkscareersamericas",
- "evidence": "Workday Americas board full (169) 2026-10-20: US software roles are Senior Software Engineer (UT) and Sr. Software Test Engineer - Firmware; others are hardware/test/manufacturing. Tracker Colorado Springs SWE on mks2.com is MKS2 Technologies, a different company.",
- "confidence": "medium"
+  "company": "MKS Instruments",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Rochester-NY/Software-Engineer_R22713",
+      "location": "Rochester, NY",
+      "opened": "2026-10-22",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires \"2 years of job-related work experience\"; $71,025-$118,375; no lead duties",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_basis": "none found",
+  "jobs_page": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas",
+  "jobs_spec": "wd:mksinst/wd1/mkscareersamericas",
+  "evidence": "Workday Americas board (120, full) read 2026-10-27: Software Engineer R22713 (Rochester NY, 2 yrs) live via API, counted. Software Test Engineer is test, left out. ITAR/EAR text says certain positions 'may need' U.S. person status; not stated as required for this role.",
+  "confidence": "medium",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "checked": "2026-10-27"
 }

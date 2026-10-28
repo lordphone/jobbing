@@ -1,16 +1,17 @@
 {
   "company": "J.Crew Group",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found; tracker shows only Ecommerce Assistant (2026-03) and Analyst - Design Sourcing Systems (2026-08)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jcrew.wd1.myworkdayjobs.com/jcrewcareers",
   "jobs_spec": "wd:jcrew/wd1/MadewellCareers",
-  "evidence": "Workday board 363 full 2026-10-20: no software engineering postings; only analyst roles.",
-  "confidence": "medium",
-  "dropped": []
+  "jobs_spec_basis": "saved Madewell board confirmed; jcrewcareers board (1246) also read in full",
+  "last_cycle_basis": "none found",
+  "evidence": "Workday boards read in full 2026-10-27: jcrewcareers (560) and MadewellCareers (368). No software, engineering, data or technology postings; only retail, store and corporate non-tech roles.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

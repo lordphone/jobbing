@@ -1,16 +1,16 @@
 {
   "company": "Epirus",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "status": "excluded",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker or board history found",
-  "excluded_reason": null,
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/epirus",
   "jobs_spec": "gh:epirus",
-  "evidence": "Greenhouse epirus (38, full) read 2026-10-19: Future Opportunities SWE is a resume pool needing 2+ yrs C/C++ and citizen/LPR line; Senior SWE-Test is senior. No live entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (39) 2026-10-26: only non-senior SWE is Future Opportunities - Software Engineering (evergreen, 2+ yrs C/C++); its ITAR section says 'applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident'. Other SWE is Senior.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

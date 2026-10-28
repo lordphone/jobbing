@@ -1,16 +1,16 @@
 {
   "company": "Health Care Service Corporation (HCSC)",
-  "status": "not_yet",
+  "tier": 5,
+  "checked": "2026-10-27",
   "postings": [],
-  "last_cycle_opened": "2026-03",
-  "last_cycle_basis": "previous research file: entry Associate Developer reqs appeared spring 2026 and closed (not re-verified this run)",
-  "no_sponsorship": true,
+  "dropped": [],
+  "last_cycle_opened": "2026-02-27",
+  "last_cycle_basis": "tracker first seen: Associate Developer - Mainframe (Helena, MT) 2026-02-27 (off-cycle); Associate Automation Programmer 2026-04-29",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External",
   "jobs_spec": "wd:hcsc/wd1/HCSC_External",
-  "evidence": "Workday full board (188) 2026-10-20: Early Careers postings are interns (developer, programmer, security), a New Grad Actuarial Analyst and Leadership Development Program; no entry software role live.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "excluded_reason": null,
-  "dropped": []
+  "status": "not_yet",
+  "evidence": "Workday full board (191) read 2026-10-27: Early Careers postings are interns (automation programmer, product engineering developer, finance developer, infrastructure) and a New Grad Leadership Development Program for MHA/MBA students (not software). No entry-level developer role live; tracker shows associate developer reqs posted in early 2026.",
+  "confidence": "medium"
 }

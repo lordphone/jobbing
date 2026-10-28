@@ -1,16 +1,16 @@
 {
  "company": "DuPont de Nemours",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "no_program_found",
  "postings": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history; no last-cycle posting found",
- "excluded_reason": null,
- "no_sponsorship": true,
+ "last_cycle_basis": "no tracker or first-party software new-grad posting found",
  "jobs_page": "https://dupont.wd5.myworkdayjobs.com/jobs",
  "jobs_spec": "wd:dupont/wd5/jobs",
- "evidence": "Workday board read in full (194) 2026-10-20: US engineering roles are manufacturing, automation controls, process, mechanical; Azure/cloud roles are Hyderabad or senior. No software new-grad track. Earlier '2027 Full-time Engineering Opportunities' was plant engineering, not software.",
+ "evidence": "Workday full board (210) read 2026-10-27: 2027 Full-time Entry-Level Engineering Opportunities is a plant/operations engineering program with no software duties. Site Reliability Engineer (Hemlock) is manufacturing ops, 3+ yrs. Other engineering is manufacturing, automation, reliability or India/Europe.",
  "confidence": "high",
- "dropped": []
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-27"
 }

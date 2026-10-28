@@ -1,30 +1,21 @@
 {
   "company": "Ford",
   "tier": 5,
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Full Stack Software Engineer",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72609",
-      "location": "Dearborn, MI",
-      "opened": "2026-10-09",
-      "date_source": "oracle posting date (requisition API)",
-      "deadline": "2026-11-27",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Posting seeks an 'early- to mid-career' engineer: '1 to 4 years of professional software engineering experience. Strong internships or co-ops count.'",
-      "no_sponsorship": true
+      "reason": "gone: browser page says 'This job is no longer available' and it is not on the Oracle board"
     }
   ],
   "last_cycle_opened": "2025-11-26",
-  "last_cycle_basis": "tracker first-seen date for '2026 Ford Undergraduate Program - Tech & Data Automation' (job 55690)",
+  "last_cycle_basis": "tracker first seen 2025-11-26 (2026 Ford Undergraduate Program - Tech & Data Automation)",
   "jobs_page": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:efds.fa.em5.oraclecloud.com/CX_1",
-  "evidence": "Oracle full board (878) 2026-10-19 re-screened: no labeled new-grad SWE (only Mechanical/Hardware early career, Long Beach). Counted borderline Dearborn Full Stack SWE 72609 (1-4 yrs, internships count, closes 2026-11-27, no visa sponsorship), live via API. Other SWE postings need 2-8+ yrs or own architecture.",
+  "evidence": "Oracle full board (901) 2026-10-26 screened. Prior Full Stack SWE 72609 gone. Full Stack SWE Ford Pro asks 3+ yrs; other US software roles ask 5+ yrs or senior. Early Career Program (72607) is a 6-month program, no sponsorship, not counted.",
   "confidence": "medium",
-  "checked": "2026-10-19",
-  "dropped": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

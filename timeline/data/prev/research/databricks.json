@@ -1,9 +1,35 @@
 {
  "company": "Databricks",
  "tier": 1,
- "checked": "2026-10-19",
- "status": "not_yet",
- "postings": [],
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Forward Deployed Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+   "location": "Mountain View, CA",
+   "opened": "2026-10-23",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Associate title; 'This early-career role is ideal for a strong software engineer'; asks 2+ yrs software or data engineering; full-stack Python and TypeScript",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Associate Forward Deployed Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+   "location": "New York, NY",
+   "opened": "2026-10-22",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Associate title; 'This early-career role is ideal for a strong software engineer'; asks 2+ yrs software or data engineering; full-stack Python and TypeScript",
+   "no_sponsorship": false
+  }
+ ],
  "dropped": [],
  "last_cycle_opened": "2025-08-08",
  "last_cycle_basis": "jobs.py history: New Grad 2026: Software Engineer first seen 2025-08-08 (Bellevue, Mountain View, San Francisco)",
@@ -11,6 +37,7 @@
  "no_sponsorship": false,
  "jobs_page": "https://job-boards.greenhouse.io/databricks",
  "jobs_spec": "gh:databricks",
- "evidence": "gh:databricks full board (899) read 2026-10-19: no new-grad SWE yet; only SWE interns (2027), PM/Design New Grad 2027, Systems PhD SWE (PhD only). US AI FDE says not for new graduates; US Web Products SWE asks 4+ yrs.",
- "confidence": "high"
+ "evidence": "gh:databricks full board (899) read 2026-10-26: two Associate Forward Deployed Engineer postings (Mountain View 10-23, NYC 10-22) live via API, early-career, 2+ yrs. Still no new-grad SWE: Systems PhD SWE is PhD only, Web Products SWE 4+ yrs, AI FDE senior. Product Design and PM New Grad are not SWE.",
+ "confidence": "high",
+ "checked": "2026-10-26"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Sherwin-Williams",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +8,7 @@
       "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624433",
       "location": "Cleveland, OH",
       "opened": "2026-10-05",
-      "date_source": "oracle posted start date; reposted from 2622657 (2026-10-05, now gone), possibly originally Associate Full Stack Application Developer 2622642 first seen 2026-09-03",
+      "date_source": "oracle posted 2026-10-13; earlier copy 2622657 posted 2026-10-05 (gone)",
       "deadline": "2026-10-28",
       "grad_window": null,
       "live_verified": "api",
@@ -18,26 +17,40 @@
       "no_sponsorship": true
     },
     {
-      "title": "B2B/EDI Developer",
-      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625645",
+      "title": "SCADA Full Stack Application Developer - Industrial Automation",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621324",
       "location": "Cleveland, OH",
-      "opened": "2026-10-07",
-      "date_source": "oracle posted start date",
-      "deadline": "2026-10-22",
+      "opened": "2026-10-05",
+      "date_source": "oracle posted 2026-10-23; repost of 2624433, earliest copy kept as opened",
+      "deadline": "2026-11-07",
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires bachelor's CS/IS and 2+ years integration/middleware development; works 'with senior guidance as needed'",
+      "level_basis": "requires bachelor's CS and 2+ years software development; 'developing understanding' of tools; works 'with the senior engineers'",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Back End Applications Developer",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627502",
+      "location": "Cleveland, OH",
+      "opened": "2026-10-27",
+      "date_source": "oracle posted",
+      "deadline": "2026-11-22",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years back-end development; 'foundational coding and programming skills', 'contributing to the design, building, and maintenance'",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker SWE posting 2025-07..2026-01; only Data Management Analyst 2026-03-10 and R&D programs",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
   "jobs_spec": "oracle:ejhp.fa.us6.oraclecloud.com/CX_2",
-  "evidence": "Oracle API 2026-10-20 (2311, full): SCADA Full Stack (ends 10-28) and B2B/EDI (ends 10-22) need bachelor's plus 2+ yrs, work with senior engineers, no sponsorship. Borderline entry level; SCADA Lead role is senior.",
+  "evidence": "Oracle board (2321, full) 2026-10-27: two SCADA Full Stack postings still live (BS + 2 yrs, no sponsorship) plus new Back End Applications Developer (2+ yrs, foundational skills, no sponsorship). Senior/Lead software roles excluded. Borderline, kept.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27"
 }

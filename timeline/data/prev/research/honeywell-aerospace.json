@@ -1,7 +1,7 @@
 {
   "company": "Honeywell Aerospace",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -11,10 +11,10 @@
       "opened": "2026-08-31",
       "date_source": "oracle posted",
       "deadline": null,
-      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
-      "live_verified": "api",
+      "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "'Recent Grad 2027' in title; graduated or graduating Aug 2026 - May 2027",
       "no_sponsorship": true
     },
     {
@@ -24,10 +24,10 @@
       "opened": "2026-08-31",
       "date_source": "oracle posted",
       "deadline": null,
-      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
-      "live_verified": "api",
+      "grad_window": "Graduated or graduating Aug 2026 \u2013 May 2027",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "'Recent Grad 2027' in title; graduated or graduating Aug 2026 - May 2027",
       "no_sponsorship": true
     }
   ],
@@ -38,6 +38,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/jobs",
   "jobs_spec": "oracle:icfcjb.fa.ocs.oraclecloud.com/Aerospace",
-  "evidence": "Oracle detail 2026-10-19: both Recent Grad 2027 reqs (120524, 120511) live via API though absent from the board list, no end date, no sponsorship, no citizenship text. Software Engineer I Clearwater 125642 requires US citizen. Advanced SWE roles need 4-5+ yrs.",
-  "confidence": "high"
+  "evidence": "Oracle board (749, full) 2026-10-26 lacks Recent Grad 2027 reqs 120524 (SWE) and 120511 (IS/Cyber/DS), but jobs.py detail loads both with descriptions, no end date, no sponsorship; kept. SWE I Clearwater 99125642 needs US citizen (excluded); Advanced SWEs need 3-5+ yrs.",
+  "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Dyson",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; US early-careers page https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states lists no software track",
+  "last_cycle_basis": "no dated source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.dyson.com/en-gb/search-results/?countries=1440",
   "jobs_spec": null,
-  "evidence": "Browser pane 2026-10-19: careers.dyson.com US list, all 27 postings paged: service technicians, retail, sales, finance, tax, compliance and reliability engineers; no software roles. US early-careers page names no software track.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "careers.dyson.com US list read in browser 2026-10-26 (all 26 jobs): sales, finance, tax, service technician, retail, Reliability Engineer, support. Keyword search 'software engineer' (43 global results) shows software roles only in Singapore, China, UK, Malaysia, Philippines. No US or Canada software role.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

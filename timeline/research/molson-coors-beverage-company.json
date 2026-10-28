@@ -1,16 +1,16 @@
 {
   "company": "Molson Coors Beverage Company",
+  "tier": 5,
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "jobs_page": "https://careers.molsoncoors.com/us/en/search-results",
-  "jobs_spec": null,
-  "evidence": "Phenom widgets search 2026-10-20 (software, developer, data engineer, ML, new grad, graduate): only Sr. Software Engineer, Manager Software Engineering, interns, sales and plant roles. No entry SWE.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "no record found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://careers.molsoncoors.com/us/en/search-results",
+  "jobs_spec": null,
+  "evidence": "careers.molsoncoors.com sitemap (261 URLs) read 2026-10-27. IT roles are Manager Software Engineering, Sr Software Engineer (Salesforce), Data Platform Manager, IT Intern, brewery systems; Data Insights Apprentice is UK. No entry-level SWE in US or Canada.",
+  "confidence": "medium"
 }

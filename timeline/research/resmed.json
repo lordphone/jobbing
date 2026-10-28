@@ -1,8 +1,7 @@
 {
   "company": "ResMed",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
+  "checked": "2026-10-27",
   "postings": [
     {
       "title": "Associate iOS Developer",
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Associate title; requires minimum 2 years related experience, bachelor's",
       "no_sponsorship": false
     },
     {
@@ -27,20 +26,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Associate Android Developer",
-      "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
-      "location": "San Diego, CA",
-      "opened": "2026-10-04",
-      "date_source": "tracker first seen",
-      "deadline": "2026-10-23",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Associate title; requires 2+ years, bachelor's or equivalent",
       "no_sponsorship": false
     }
   ],
@@ -51,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
   "jobs_spec": "wd:resmed/wd3/ResMed_External_Careers",
-  "evidence": "Workday API (279 listed, full) and posting API: three Associate roles in San Diego live, canApply true, each asks about 2 years or less. Android API end date 2026-10-23 used as deadline. Senior iOS (3+ yrs) not counted.",
+  "status": "open",
+  "evidence": "Workday full board (264) 2026-10-27: Associate iOS (start 2026-09-22) and Associate Software Engineer (start 2026-10-01), San Diego, live via API, 2 yrs asks under Associate title, $90-113K. iOS Developer needs 3+ yrs; Platform SWE (JR_036564) is an older req.",
   "confidence": "high"
 }

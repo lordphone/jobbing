@@ -1,21 +1,16 @@
 {
- "company": "EPAM Systems",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "closed",
- "postings": [],
- "dropped": [
-  {
-   "url": "https://careers.epam.com/en/vacancy/junior-android-engineer-blt0i089vi7bj2ibpdv_en",
-   "reason": "gone: URL redirects to the EPAM jobs search page"
-  }
- ],
- "last_cycle_opened": null,
- "last_cycle_basis": "none found; EPAM hires US juniors only occasionally",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://careers.epam.com/en/jobs/united_states_of_america",
- "jobs_spec": null,
- "evidence": "careers.epam.com US list (219 jobs via site search API, all read) 2026-10-20: no Junior or entry titles; only Middle-level (Node.js Developer) and senior+. Earlier Junior Android Engineer (Sunnyvale, seen 2026-09-29) still redirects to the jobs search, so closed.",
- "confidence": "medium"
+  "company": "EPAM Systems",
+  "tier": 5,
+  "checked": "2026-10-27",
+  "status": "unknown",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; EPAM hires US juniors only occasionally",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.epam.com/en/jobs/united_states_of_america",
+  "jobs_spec": null,
+  "evidence": "Could not read the board this run: careers.epam.com is a JS app with no usable plain API, and the browser pane had no free tab. The 2026-10-26 browser read listed all 227 US jobs as Senior/Lead/Director/Management plus one Middle Node.js (4+ yrs), and an earlier Junior Android Engineer (seen 2026-09-29) was gone. Retry in the browser.",
+  "confidence": "low"
 }

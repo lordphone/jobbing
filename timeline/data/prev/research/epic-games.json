@@ -3,14 +3,14 @@
   "tier": 3,
   "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history has no new-grad SWE postings in 2025-07 to 2026-01; nearest are 2024 programmer roles",
+  "last_cycle_basis": "no new-grad or entry-level SWE posting in tracker history (only 2024 coordinator/programmer roles)",
   "jobs_page": "https://job-boards.greenhouse.io/epicgames",
   "jobs_spec": "gh:epicgames",
-  "evidence": "Greenhouse board read in full (135). US/Canada programmer roles are Senior/Lead/Principal; ML Engineer, Memory requires 'PhD ... or 3+ years of relevant industry experience'. Only 2027 interns are entry-level.",
+  "evidence": "Greenhouse board read in full (150) 2026-10-26. US/Canada programmer roles are Senior/Lead/Principal or interns; ML Engineer, Memory needs 'PhD or 3+ years'; QA Engineer needs '3+ years'. No entry-level SWE this cycle.",
   "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": [],
   "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
   "no_sponsorship": false,
-  "excluded_reason": null
+  "checked": "2026-10-26"
 }

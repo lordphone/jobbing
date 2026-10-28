@@ -1,16 +1,16 @@
 {
-  "company": "TransUnion",
-  "status": "not_yet",
-  "last_cycle_opened": "2026-02-18",
-  "last_cycle_basis": "tracker history: 'Entry Level Software Engineer' (Boca Raton FL) first seen 2026-02-18; outside Jul-Jan window",
-  "jobs_page": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
-  "jobs_spec": "wd:transunion/wd5/TransUnion",
-  "evidence": "Workday full board 2026-10-19 (242): US dev roles Senior/Lead/Architect; US QA Engineer is not SWE; entry-titled devs are India/Costa Rica. Tracker Boca Raton entry SWE (Feb 2026) gone; spring timing.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": "2026-02-18",
+  "last_cycle_basis": "tracker first seen: Developer, Boca Raton FL (2026-03-12); earlier research noted entry SWE Feb 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_spec": "wd:transunion/wd5/TransUnion",
+  "company": "TransUnion",
+  "tier": 5,
+  "status": "not_yet",
+  "jobs_page": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
+  "evidence": "Workday full board (243) 2026-10-26: US dev roles are Senior/Lead or Security Automation Engineer (10+ yrs); Associate Data Engineer postings are Pune only. No entry-titled dev roles in US/Canada. Company hired in spring last cycle.",
+  "confidence": "medium"
 }

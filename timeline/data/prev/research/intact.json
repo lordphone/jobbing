@@ -1,22 +1,16 @@
 {
-  "company": "Intact",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
-      "reason": "gone: browser page for R155934 shows 'The page you are looking for doesn't exist', absent from Workday board (169) and from the site's own search; tracker also marks it closed"
-    }
-  ],
-  "last_cycle_opened": "2025-09-23",
-  "last_cycle_basis": "tracker history: 'New Grad Tech Development Program - Software Development - Cloud' Toronto first seen 2025-09-23 (R149021); earlier cycle 2025-02-05",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://intactfc.wd3.myworkdayjobs.com/intactfc",
-  "jobs_spec": "wd:intactfc/wd3/intactfc",
-  "jobs_spec_basis": "found by jobs.py workday brute force; tracker new-grad postings link to intactfc.wd3 Workday site intactfc",
-  "evidence": "2027-cycle New Grad Tech Development Program (R155934, Toronto/Montreal, first seen 2026-09-27) is gone: page shows not found, not on Workday board (169, full) or site search. Other roles are senior or Montreal-only. Reopening later is possible.",
-  "confidence": "medium"
+ "company": "Intact",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-23",
+ "last_cycle_basis": "tracker first seen: New Grad Tech Development Program - Software Development - Cloud, Toronto, 2025-09-23",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://intactfc.wd3.myworkdayjobs.com/intactfc",
+ "jobs_spec": "wd:intactfc/wd3/intactfc",
+ "evidence": "Workday full board (158) and search API 2026-10-26: no new-grad or Tech Development Program posting; R155934 New Grad Tech Dev Program (Toronto/Montreal, first seen 2026-09-27) not on board or search. Remaining tech roles are Intermediate (3+ yrs), Specialist (7+), Senior or Principal.",
+ "confidence": "high"
 }

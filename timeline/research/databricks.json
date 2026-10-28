@@ -1,16 +1,61 @@
 {
-  "company": "Databricks",
-  "tier": 1,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-08-08",
-  "last_cycle_basis": "jobs.py history: New Grad 2026: Software Engineer first seen 2025-08-08 (Bellevue, Mountain View, San Francisco)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/databricks",
-  "jobs_spec": "gh:databricks",
-  "evidence": "gh:databricks full board (901) read 2026-10-20: no new-grad SWE yet; only SWE interns (2027), PM/Design New Grad 2027, Systems PhD SWE (PhD only). US AI FDE says not for new graduates; US Web Products SWE asks 4+ yrs. Last cycle opened 2025-08 per trackers.",
-  "confidence": "high"
+ "company": "Databricks",
+ "tier": 1,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - New Grad (2027 Start)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+   "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, Canada",
+   "opened": "on or before 2026-10-26",
+   "date_source": "tracker first seen 2026-10-26 (greenhouse first_published 2023-08-04 is a reused req)",
+   "deadline": null,
+   "grad_window": "Fall 2026 - Spring 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+   "location": "Bellevue, WA; Mountain View, CA",
+   "opened": "on or before 2026-10-26",
+   "date_source": "tracker first seen 2026-10-26 (greenhouse first_published 2023-08-04 is a reused req)",
+   "deadline": null,
+   "grad_window": "Fall 2026 - Spring 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Associate Forward Deployed Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+   "location": "Mountain View, CA",
+   "opened": "2026-10-23",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Associate title; early-career role ideal for a strong software engineer; asks 2+ yrs software or data engineering; full-stack Python and TypeScript",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+   "reason": "gone: Greenhouse API 404, not on the board list"
+  }
+ ],
+ "last_cycle_opened": "2025-08-08",
+ "last_cycle_basis": "jobs.py history: New Grad 2026: Software Engineer first seen 2025-08-08 (Bellevue, Mountain View, San Francisco)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/databricks",
+ "jobs_spec": "gh:databricks",
+ "evidence": "gh:databricks full board (899) read 2026-10-27: two Software Engineer New Grad (2027 Start) postings live via API (graduate Fall 2026 or Spring 2027), plus Associate FDE (Mountain View, 2+ yrs). Req ids are reused from 2023 so first_published is old. NYC Associate FDE 8907988002 now 404.",
+ "confidence": "high"
 }

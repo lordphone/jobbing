@@ -1,16 +1,21 @@
 {
-  "company": "Qualtrics",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-07-18",
-  "last_cycle_basis": "tracker first seen 'Software Engineer I' Seattle (qualtrics Greenhouse) 2025-07-18; SDE I Customer Experience Reston 2025-05-15",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/qualtrics",
-  "jobs_spec": "gh:qualtrics",
-  "evidence": "Greenhouse API 2026-10-20 (79, full): only Software Engineer I - OXM (Mexico City). Tracker-seen Software Engineer 1 Provo (first seen 2026-10-15) is gone from API (404), so closed. Earlier file said not_yet; rolling SWE I posts may reappear.",
-  "confidence": "medium"
+ "company": "Qualtrics",
+ "tier": 4,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811",
+   "reason": "gone: Greenhouse API returns 404 and the job is not on the full board (Software Engineer 1, Provo, tracker first seen 2026-10-15)"
+  }
+ ],
+ "last_cycle_opened": "2025-07-18",
+ "last_cycle_basis": "tracker first seen 'Software Engineer I' Seattle (qualtrics Greenhouse) 2025-07-18; SDE I Customer Experience Reston 2025-05-15",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/qualtrics",
+ "jobs_spec": "gh:qualtrics",
+ "evidence": "Greenhouse API 2026-10-27 (87, full): only Software Engineer I - OXM is entry-level and it is Mexico City. No US SWE roles listed. Tracker-seen Software Engineer 1 Provo (8264811) is gone: API 404, so closed.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

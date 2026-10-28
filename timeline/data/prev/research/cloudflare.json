@@ -1,7 +1,7 @@
 {
   "company": "Cloudflare",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -18,13 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-27",
   "last_cycle_basis": "tracker lead only: 'System Engineer - Docs Platform' first seen 2025-08-27, not clearly new-grad",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/cloudflare",
   "jobs_spec": "gh:cloudflare",
-  "evidence": "gh:cloudflare (full) 2026-10-19: no new-grad titles; read ~66 unlabeled eng roles. Austin Browser Isolation reads early-level (no years, own well-scoped features with support from experienced teammates), counted; offer may need export-license authorization, not citizenship. Others ask 3+ yrs, mentor/lead or give no entry signal.",
-  "confidence": "low",
-  "dropped": []
+  "evidence": "gh:cloudflare (457, full) 2026-10-26: no new-grad titles; screened engineer postings. Only Austin Systems Engineer, Browser Isolation reads early-level (no years, support from teammates). Others ask 3+ yrs, are senior, mentor others, or are non-US.",
+  "confidence": "medium"
 }

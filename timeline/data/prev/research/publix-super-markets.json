@@ -1,30 +1,35 @@
 {
-  "company": "Publix Super Markets",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer – POS Software Engineering 2 (Hybrid)",
-      "url": "https://jobs.publix.com/job-opening/software-engineer-pos-software-engineering-2-hybrid/",
-      "location": "Lakeland, FL",
-      "opened": "2026-09-08",
-      "date_source": "page text (Date Posted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Required: 1+ years each in enterprise apps, SQL Server, C#/.NET, Blazor/React/Angular; $90K-$135K; no lead or mentor duties; Intermediate/Senior/Lead titles sit above it",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no new-grad history found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://jobs.publix.com/jobs/?department_type_slug=publix-technology",
-  "jobs_spec": null,
-  "evidence": "Publix Technology list (23 jobs, 3 pages read) and POS posting page 2026-10-19: Apply present, posted 2026-09-08, 1+ yrs, no sponsorship (will not file USCIS petitions). Left out Generative AI Engineer (owns AI platform per earlier run) and QA; rest Intermediate/Senior/Lead.",
-  "confidence": "medium"
+ "company": "Publix Super Markets",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer \u2013 POS Software Engineering 2 (Hybrid)",
+   "url": "https://jobs.publix.com/job-opening/software-engineer-pos-software-engineering-2-hybrid/",
+   "location": "Lakeland, FL",
+   "opened": "2026-09-08",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Required: 1+ years each in enterprise apps, SQL Server, C#/.NET, Blazor/React/Angular; $90K-$135K; no lead or mentor duties; Intermediate/Senior/Lead titles sit above it",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.publix.com/job-opening/associate-software-engineer-finance-systems-hybrid/",
+   "reason": "gone: page now redirects to a login page and the job is absent from the 24-job Publix Technology list (per_page=100)"
+  }
+ ],
+ "last_cycle_basis": "unknown; no new-grad history found",
+ "jobs_page": "https://jobs.publix.com/jobs/?department_type_slug=publix-technology",
+ "jobs_spec": null,
+ "evidence": "Publix Technology list (24 jobs, all) and posting page read 2026-10-26: POS Software Engineer (1+ yrs required, posted Sep 8) live with Apply. Associate SWE Finance Systems (Oct 22) no longer listed. Generative AI Engineer needs 3+ yrs; others Intermediate/Senior/Lead. Publix files no USCIS petitions.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "last_cycle_opened": null,
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

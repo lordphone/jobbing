@@ -1,25 +1,12 @@
 {
   "company": "Corning",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
-      "title": "Engineer, Software Developer",
-      "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/",
-      "location": "Corning, NY",
-      "opened": "2026-10-05",
-      "date_source": "page text (posting date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's; no years required, \"coursework, internships, co-ops, or project work\" counts as experience",
-      "no_sponsorship": true
-    },
-    {
       "title": "Division Digital Software Engineer",
-      "url": "https://corningjobs.corning.com/job/x/1405277500/",
+      "url": "https://corningjobs.corning.com/job/Concord-Division-Digital-Software-Engineer-NC-28026/1405277500/",
       "location": "Concord, NC",
       "opened": "2026-09-27",
       "date_source": "page text (posting date)",
@@ -37,7 +24,12 @@
   "no_sponsorship": true,
   "jobs_page": "https://corningjobs.corning.com",
   "jobs_spec": null,
-  "evidence": "Both postings re-opened 2026-10-19 via page fetch, Apply now present, no sponsorship stated. Software Developer (early career, Corning NY) and Division Digital SWE (1+ yr, Concord NC) count. Prior run: IT/OT SWE need 5 yrs; data roles 3-7+.",
+  "evidence": "Corning SuccessFactors search (software, developer, US filter) and posting pages fetched 2026-10-26. Division Digital SWE (Concord NC, 1+ yr, Apply now, no sponsorship) live. Software Developer (Corning NY) still filled. Applications Developer (Hickory, 3+ yrs) and CORE (engineering-only rotational program) left out. Posting page opened via WebFetch (browser pane unavailable).",
   "confidence": "medium",
-  "dropped": []
+  "dropped": [
+    {
+      "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/",
+      "reason": "gone: page says 'Sorry, this position has either been filled or is not available' and it is absent from careers search on 2026-10-23"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "company": "MediaTek",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
+  "status": "unknown",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
@@ -11,7 +11,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.mediatek.com/en/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "Careers site tRPC API /api/trpc/job.getJobs (batch=1, paged, limit 20) lists all jobs",
-  "evidence": "Careers tRPC API 2026-10-19 (616 jobs, 60 US): US software roles are Sr Staff, Principal or Firmware Principal. Only US new-grad posting is a DFT Engineer (hardware, 2026-10-19). 2027 campus software roles are in Taiwan, Singapore, Sweden.",
-  "confidence": "medium"
+  "jobs_spec_basis": "Careers site tRPC API /api/trpc/job.getJobs (locale en_US, limit 100, page 1-7) lists all jobs; erroring on 2026-10-26",
+  "evidence": "2026-10-26: careers tRPC job.getJobs now returns HTTP 500 for every input, site pages redirect-loop in WebFetch, browser pane at tab cap, so board not re-read. Earlier read (2026-10-23, 620 jobs, 69 US) found only Sr Staff/Principal US software roles and hardware US new-grad roles; retry.",
+  "confidence": "low"
 }

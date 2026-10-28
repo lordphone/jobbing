@@ -1,30 +1,43 @@
 {
- "company": "ExxonMobil",
- "status": "open",
- "postings": [
-  {
-   "title": "Students Seeking Full-Time Employment in Trading",
-   "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
-   "location": "Spring, TX",
-   "opened": "2026-08-10",
-   "date_source": "page text posted date",
-   "deadline": null,
-   "grad_window": "Graduating 2026/2027 or within last three years",
-   "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": "Global Trading new-grad program; Trading Data, Analytics and AI track (Python/C#/SQL, agile software development, data pipelines); borderline SWE, other tracks are trading analytics",
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": "2025-10-31",
- "last_cycle_basis": "Tracker: 'Engineering Students Seeking Full-Time Employment' first seen 2025-10-31",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://jobs.exxonmobil.com/search/",
- "jobs_spec": null,
- "evidence": "jobs.exxonmobil.com swept 2026-10-19 (software, graduate, early career, full-time employment, developer): Students Seeking Full-Time Employment in Trading (Spring TX, posted 2026-10-07) page live with Apply now; Trading Data, Analytics and AI track is borderline SWE. Generic STEM Early Career pool not counted. Trading Desk Full Stack Developer and Sr. Fullstack roles are experienced.",
- "confidence": "low",
- "checked": "2026-10-19",
- "tier": 5,
- "dropped": []
+  "company": "ExxonMobil",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Students Seeking Full-Time Employment in Trading",
+      "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/",
+      "location": "Spring, TX",
+      "opened": "2026-08-10",
+      "date_source": "page text posted date",
+      "deadline": null,
+      "grad_window": "Graduating 2026/2027 or within last three years",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Global Trading new-grad program; Trading Data, Analytics and AI track (Python/C#/SQL, agile software development, data pipelines); borderline SWE, other tracks are trading analytics",
+      "no_sponsorship": false
+    },
+    {
+      "title": "2026USH - Trading Desk Full Stack Developer",
+      "url": "https://jobs.exxonmobil.com/job/Spring-2026USH-Trading-Desk-Full-Stack-Developer-TX-77389/1424876900/",
+      "location": "Spring, TX",
+      "opened": "2026-09-29",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "2026USH university-hire req code (same as '2026USH Geology Specialist'); required quals list a Bachelor's and skills with no years of experience; no lead/senior duties",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-10-31",
+  "last_cycle_basis": "Tracker: 'Engineering Students Seeking Full-Time Employment' first seen 2025-10-31",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.exxonmobil.com/search/",
+  "jobs_spec": null,
+  "evidence": "jobs.exxonmobil.com US searches (software, developer, new graduate, early career) and both posting pages re-read 2026-10-26, Apply now live. Trading new-grad program (Data, Analytics and AI track borderline SWE) and 2026USH Full Stack Developer (no years required) kept. Sr. Fullstack and SCADA Developer (5 yrs) are senior.",
+  "confidence": "low",
+  "checked": "2026-10-26",
+  "dropped": []
 }

@@ -1,30 +1,43 @@
 {
-  "company": "Carvana",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8120638",
-      "location": "Carmel, IN",
-      "opened": "2026-08-10",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 2+ years software development, bachelor's degree; duties are team-level project work, no lead/mentor/architecture; no pay range listed",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2026-01-09",
-  "last_cycle_basis": "tracker first-seen: Data Engineer - Production Analytics, Tempe AZ (not clearly new grad), https://www.carvana.com/careers/apply?gh_jid=7507650",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/carvana",
-  "jobs_spec": "gh:carvana",
-  "evidence": "Greenhouse API (1746, full) 2026-10-19: Software Engineer (Carmel IN) requires 2+ yrs, eligible for visa sponsorship, still listed; counted as unlabeled. Other engineering roles senior.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "dropped": []
+ "company": "Carvana",
+ "tier": 4,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineering Apex",
+   "url": "https://www.carvana.com/careers/apply?gh_jid=7542940",
+   "location": "Tempe, AZ",
+   "opened": "2026-01-23",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Apex early-career inaugural cohort program; 'Experience: 0\u20133 years of software development experience'; eligible for visa sponsorship",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://www.carvana.com/careers/apply?gh_jid=8120638",
+   "location": "Carmel, IN",
+   "opened": "2026-08-10",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 2+ years software development, bachelor's degree; team-level project duties, no lead or mentor duties; eligible for visa sponsorship",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2026-01-09",
+ "last_cycle_basis": "tracker first-seen: Data Engineer - Production Analytics, Tempe AZ (not clearly new grad), https://www.carvana.com/careers/apply?gh_jid=7507650",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/carvana",
+ "jobs_spec": "gh:carvana",
+ "evidence": "Greenhouse full board (1677) 2026-10-26, postings read via Greenhouse job API: Engineering Apex (Tempe, early-career cohort, 0-3 yrs, evergreen, updated Oct 23) and Software Engineer (Carmel IN, 2+ yrs) counted. ServiceNow (3+) and Data Product Engineer (2+, owns products) left out.",
+ "confidence": "medium"
 }

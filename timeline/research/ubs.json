@@ -1,16 +1,16 @@
 {
   "company": "UBS",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "UBS says US Graduate Talent Program applications typically open in September; no tracker history hit for UBS.",
+  "last_cycle_basis": "UBS says US and Canada Graduate Talent Program applications typically open in September (graduate-talent-program page); no tracker history hit for UBS.",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.ubs.com",
   "jobs_spec": null,
-  "evidence": "2026-10-20 jobs.ubs.com graduates board (BrassRing search API, all 89 listings paged): only US roles are 2027 summer internships and a Weehawken Group Data Management Office GTP (data governance, not SWE). Raleigh 2027 GTP Technology (349412, seen live earlier) is gone. Tech GTP Software Engineer / AI Engineer are Zurich only.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Raleigh 2027 Graduate Talent Program Technology (349412) opened in browser 2026-10-27: 'expired or the position has already been filled'. Aggregators hint at NY/Raleigh GTP roles; keyword search UI unusable, so other US reqs not ruled out.",
+  "confidence": "low"
 }

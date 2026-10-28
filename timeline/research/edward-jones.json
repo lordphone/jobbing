@@ -1,16 +1,16 @@
 {
-  "tier": 5,
-  "checked": "2026-10-20",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "postings": [],
   "company": "Edward Jones",
+  "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no first-party dated new-grad SWE posting found",
+  "last_cycle_basis": "no tracker history; no SWE new-grad posting found",
   "jobs_page": "https://careers.edwardjones.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "Edward Jones jobs API (m-cloud org 2144, all 2245 listings) 2026-10-20: engineer titles are Engineer III/IV or architects; Students & Recent Grads has only interns and Rotational Development / Accelerated Leadership programs (licensing, non-SWE).",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-27: careers.edwardjones.com keyword 'software engineer' returned 9 live results, all Engineer III/IV, Solutions Engineer, Architect or Developer (Tempe/St. Louis/SF), none entry-level. Other keyword and Students & Recent Grads views did not render, so coverage partial.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

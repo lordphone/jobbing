@@ -1,7 +1,6 @@
 {
   "company": "Vercel",
   "tier": 2,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -20,11 +19,12 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found: no new-grad posting in 2025-07 to 2026-01; tracker's only Vercel entry is this CDN Content role (2026-07-07)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/vercel",
   "jobs_spec": "gh:vercel",
-  "evidence": "gh:vercel (95, full) 2026-10-20 via API: no new-grad title; only Summer/Winter 27 interns. CDN Content SWE live and junior-scoped (2+ yrs, support from senior engineers), kept. Other SWEs ask 3-8+ yrs or state no years (Next.js, Backend are senior-priced); left out.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "gh:vercel full board (94) 2026-10-27, eng postings screened: no new-grad title. CDN Content SWE live via API and junior-scoped (2+ yrs, $172K-$258K), kept as borderline. Others ask 3-8+ yrs or are senior-priced with no years (Next.js, Platform, Backend, Observability 5+).",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

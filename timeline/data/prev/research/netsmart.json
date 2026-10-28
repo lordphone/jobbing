@@ -1,47 +1,53 @@
 {
   "company": "Netsmart",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer - (Dec.26/May 27 Grads)",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658",
+      "location": "Overland Park, KS",
       "opened": "2026-08-02",
       "date_source": "tracker first seen",
-      "grad_window": "Dec 2026 - May 2027",
-      "level": "new-grad title",
-      "level_basis": null,
-      "location": "Overland Park, KS",
       "deadline": null,
+      "grad_window": "Dec 2026 - May 2027",
       "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Dec.26/May 27 Grads'; requires bachelor's degree, no years",
       "no_sponsorship": true
     },
     {
       "title": "Software Engineer- .NET Experience (Onsite, Overland Park, KS)",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--NET-Experience--Onsite--Overland-Park--KS-_R015550",
-      "opened": "on or before 2026-09-17",
-      "date_source": "workday startDate",
-      "grad_window": null,
-      "level": "unlabeled",
-      "level_basis": "No years required; experience may come from internships, co-ops or projects; \"Gradually take ownership of features\"",
       "location": "Overland Park, KS",
+      "opened": "on or before 2026-09-17",
+      "date_source": "tracker first seen",
       "deadline": null,
+      "grad_window": null,
       "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; C#/.NET experience via 'internships, co-ops, academic projects, or personal projects'",
       "no_sponsorship": true
     },
     {
       "title": "Software Engineer- .NET Expereince(Onsite Overland Park, KS)",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--NET-Expereince-Onsite-Overland-Park--KS-_R015836",
+      "location": "Overland Park, KS",
       "opened": "2026-10-09",
       "date_source": "workday startDate",
-      "grad_window": null,
-      "level": "unlabeled",
-      "level_basis": "No years required; C#/.NET experience via internships, co-ops or academic projects; \"Gradually take ownership of features\"",
-      "location": "Overland Park, KS",
       "deadline": null,
+      "grad_window": null,
       "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "No years required; C#/.NET experience via 'internships, co-ops, academic projects, or personal projects'",
       "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/RPA-Automations---Software-Engineer_R015582",
+      "reason": "gone: browser page says 'The page you are looking for doesn't exist' and it is not on the Workday board"
     }
   ],
   "last_cycle_opened": "2025-11-01",
@@ -50,7 +56,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://ntst.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:ntst/wd1/careers",
-  "evidence": "Workday API 2026-10-19 (80, full) plus job JSON, all canApply true: Dec26/May27 Grads SWE and two .NET SWE postings (C#/.NET via internships or projects, no years). None offers visa sponsorship. RPA SWE and Solution Delivery Consultant not counted.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday full board (76) 2026-10-26: grad Software Engineer (Dec26/May27 Grads) and two .NET Software Engineer postings live via API, all say no visa sponsorship. RPA SWE gone (not on board). Cloud Engineer is infrastructure, not counted.",
+  "confidence": "high"
 }

@@ -3,14 +3,14 @@
  "tier": 5,
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "No SWE new-grad posting found last cycle; tracker history shows only Marketing Science Analyst roles (first seen 2025-10-21), an analytics role, not SWE. Last SWE posts were 2024-06 (Software Engineer - Python, Miami).",
+ "last_cycle_basis": "no software roles in tracker history or on the board",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.lever.co/analyticpartners",
  "jobs_spec": "lever:analyticpartners",
- "evidence": "Lever API 2026-10-19 (18 postings, full, all titles read): only marketing science analyst/consultant, director, insights manager and designer roles. Analytics consulting; no SWE postings this or last cycle.",
+ "evidence": "lever:analyticpartners full board (21) read 2026-10-26, all titles read: marketing science analyst/consultant, director, manager, sales, designer, support business analyst and a Data Science Co-Op (Jan 2027, co-op not counted). No SWE roles.",
  "confidence": "high",
- "checked": "2026-10-19",
- "dropped": []
+ "checked": "2026-10-26"
 }

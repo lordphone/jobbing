@@ -1,7 +1,7 @@
 {
   "company": "NinjaOne",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,17 +14,17 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "'1-3 years of C++ experience'; Bachelor's; duties begin with 'building and owning the testing infrastructure'; no seniority level",
+      "level_basis": "'1\u20133 years of C++ experience'; Bachelor's; duties begin with building the testing infrastructure; no seniority level",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/ninjaone/jobs",
   "jobs_spec": null,
-  "evidence": "Rechecked 2026-10-19, same result. Jobvite list read 2026-10-19: other software roles Senior/Lead/Principal, 3+ yr Localization Web Developer, or non-US. C++ Software Engineer (US remote) page live with Apply: 1-3 yrs C++, no visa sponsorship, test ownership. Counted as unlabeled entry; borderline. Opened date kept from earlier JSON-LD read.",
-  "confidence": "low",
-  "dropped": []
+  "evidence": "Jobvite list read 2026-10-26: other software roles Senior/Staff/Principal; Localization Web Developer 3+ yrs; juniors are Solutions Engineer. C++ SWE Endpoint State & Control page (re-fetched) has full description (1-3 yrs C++, not eligible for visa sponsorship, datePosted 2026-07-14) but is absent from the list view; kept as borderline unlabeled, not a shell.",
+  "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Cleveland Clinic",
+  "tier": 5,
+  "checked": "2026-10-26",
   "status": "closed",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none in Jul 2025-Jan 2026; tracker shows entry developer reqs in spring (Software Developer 1 Cleveland 2026-04-08) and Software Developer 1 Weston FL first seen 2026-09-16",
-  "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
-  "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
-  "evidence": "Workday full board re-read 2026-10-19 (2282 listed): no software or developer titles (only RN, sourcing, facilities engineers). Software Developer 1 (Weston FL, posted 2026-09-16) is absent from the board, so closed. No live entry SWE.",
-  "confidence": "medium",
-  "dropped": [],
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; tracker history shows Software Developer 1 first seen 2026-09-16 (this cycle, Weston FL)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+  "jobs_page": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
+  "jobs_spec": "wd:ccf/wd1/ClevelandClinicCareers",
+  "evidence": "Workday board (2355) read 2026-10-26: no software developer/engineer postings remain. Software Developer 1 (Weston FL, tracker first seen 2026-09-16) and Software Developer II are no longer listed or found by search, so this-cycle posting closed.",
+  "confidence": "high"
 }

@@ -1,16 +1,30 @@
 {
-  "company": "CVS Health",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-06-29",
-  "last_cycle_basis": "jobs.py history: Associate Software Engineer (Irving TX) first seen 2025-06-29; Associate Software Development Engineer (Hartford) 2025-08-29",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
-  "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
-  "evidence": "Board has 19.6k postings; CXS keyword searches 2026-10-19 (software engineer, SDE, associate software, engineer I, junior, AI/ML, developer, new grad, early career). Live SDE Hartford needs 5+ yrs, ML Engineer needs 3+ yrs MLOps, Software Engineer Workforce Insights 3 yrs: not counted. Earlier entry SDE R0944066-1 (opened 2026-10-07) is gone.",
-  "confidence": "medium"
+ "company": "CVS Health",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Full-Stack Engineer Training Program - June 2027 Cohort",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
+   "location": "Remote (US): CT; MS; MT; NC; LA; MD; ME; MN; NE; MO; ND; NY; NJ; NM; NV; OH; SC; TX; RI; SD; VT; TN; VA; WA; UT; WI; WV; OR; WY; OK; PA; CO; AL; AZ; CA; DC; FL; IA; AK; AR; ID; IL; KS; DE; GA; IN; KY; MI; MA; NH",
+   "opened": "2026-10-19",
+   "date_source": "tracker first seen 2026-10-19; workday startDate 2026-10-20",
+   "deadline": "2026-10-27",
+   "grad_window": "June 2027 cohort (program start June 7, 2027)",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "2027 cohort training program; requires '1+ years of experience (academic or professional)'; $75,000-$85,000",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-06-29",
+ "last_cycle_basis": "jobs.py history: Associate Software Engineer (Irving TX) first seen 2025-06-29; Associate Software Development Engineer (Hartford) 2025-08-29",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
+ "jobs_spec": "wd:cvshealth/wd1/CVS_Health_Careers",
+ "evidence": "Workday searched 2026-10-26 (19.7k postings, keyword searches): Full-Stack Engineer Training Program June 2027 Cohort live via API, ends 2026-10-27, requires 1+ yrs, no sponsorship. AI Engineer GenAI needs 2+ yrs hands-on deep learning (mid-level), left out; other SDE roles 3+ yrs or senior.",
+ "confidence": "high"
 }

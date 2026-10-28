@@ -1,16 +1,16 @@
 {
   "company": "Eaton Corporation",
-  "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: 2025-10-30 entries are Product Engineer / D-IT Technical Support Engineer, not SWE; no dated Jul 2025-Jan 2026 SWE new-grad posting",
-  "jobs_page": "https://eaton.eightfold.ai",
-  "jobs_spec": "eightfold:eaton.eightfold.ai/eaton.com",
-  "evidence": "Eightfold API 2026-10-20 (1173 US postings, full): Development Programs are Field Service, Applications, Operations, Engineering, Digital Integrated Solutions (not SWE). Software roles are senior, embedded or IT specialist, or internships. No entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
   "tier": 5,
+  "status": "no_program_found",
   "postings": [],
   "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: 2025-10-30 entries are Product Engineer / D-IT Technical Support Engineer, not SWE; no dated Jul 2025-Jan 2026 SWE new-grad posting",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://eaton.eightfold.ai",
+  "jobs_spec": "eightfold:eaton.eightfold.ai/eaton.com",
+  "evidence": "Eightfold US board read 2026-10-27 (1208 via API, then API blocked; browser search 'software engineer' 280 US jobs): software titles are Senior/Specialist/Manager/Lead or internships. Development Programs (Field Service, Applications, Digital Integrated Solutions power-monitoring/SCADA, Power Systems) are field/power tracks, not software. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

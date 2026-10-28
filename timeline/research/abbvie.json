@@ -1,24 +1,24 @@
 {
   "company": "AbbVie",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Associate Cloud Engineer I",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016215066",
+      "title": "Associate Software Engineer II",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016249756",
       "location": "North Chicago, IL",
-      "opened": "2026-10-19",
+      "opened": "2026-10-20",
       "date_source": "smartrecruiters releasedDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "API experience level Entry Level; requires bachelor's in CS plus internship or related experience; no years required",
+      "level_basis": "Required: Bachelor's plus 2 years of experience OR Master's degree with 0 years of experience; Associate title",
       "no_sponsorship": false
     },
     {
-      "title": "Associate Engineer, Technology II (HPC software / CI-CD)",
+      "title": "Associate Engineer, Technology II",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015744723",
       "location": "North Chicago, IL",
       "opened": "2026-09-28",
@@ -42,19 +42,12 @@
       "level": "unlabeled",
       "level_basis": "'early-career engineer'; Required: Bachelor's with 2 years OR Master's with no additional experience; API level Entry Level",
       "no_sponsorship": false
-    },
+    }
+  ],
+  "dropped": [
     {
-      "title": "Associate Software Engineer II",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016249756",
-      "location": "North Chicago, IL",
-      "opened": "2026-10-20",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required: Bachelor's plus 2 years of experience OR Master's degree with 0 years of experience; Associate title",
-      "no_sponsorship": false
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016215066",
+      "reason": "gone: Associate Cloud Engineer I, SmartRecruiters API active=false, not on the board list"
     }
   ],
   "last_cycle_opened": null,
@@ -63,7 +56,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/AbbVie",
   "jobs_spec": "sr:AbbVie",
-  "evidence": "SmartRecruiters full list (1916) 2026-10-20; all postings on the board. Associate Software Engineer II (BS+2 or MS), Cloud Engineer I, HPC Technology II and Linux Technology II are entry-level. Data, DevSecOps, software, AI roles need 4-6 yrs. No sponsorship statement seen.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "SmartRecruiters full list (1919) and screen 2026-10-27. Associate Software Engineer II (BS+2 or MS), Associate Engineer Technology II and Associate Linux Engineer II are entry-level and live. DevSecOps, Data, Device SW, Design Systems roles need 4-6 yrs.",
+  "confidence": "medium"
 }

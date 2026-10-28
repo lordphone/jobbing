@@ -1,21 +1,13 @@
 {
   "company": "Lawrence Berkeley National Laboratory (Berkeley Lab)",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
+  "checked": "2026-10-26",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Controls Software Engineer (Level 1/2)",
       "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107332",
-      "location": "Berkeley, CA",
-      "opened": "2026-08-18",
-      "date_source": "taleo posting date (Aug 18, 2026)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Level 1: bachelor's + 2 years, or an advanced degree without required experience; $104,580-$127,836",
-      "no_sponsorship": true
+      "reason": "gone: detail page says 'The job is no longer available' and it is not in the 76-job list"
     }
   ],
   "last_cycle_opened": "2025-10-07",
@@ -24,7 +16,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://lbl.taleo.net/careersection/5/jobsearch.ftl?searchType=1&lang=en",
   "jobs_spec": null,
-  "evidence": "Taleo REST search (76 jobs) and browser 2026-10-19. Controls Software Engineer 107332 (Aug 18) live with Apply button: Level 1 BS+2 yrs or advanced degree, 2-yr term, 'Visa sponsorship is not available', accepted until removed. Other SWE-like reqs (HPC platform, network, group leads) are senior.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Taleo list (all ~76) read through its JSON search 2026-10-26: no Software Engineer title. Controls Software Engineer 107332 (open 2026-08-18) no longer listed or available. Network Automation, Beamline Controls, HPC platform roles need 5+ yrs.",
+  "confidence": "medium"
 }

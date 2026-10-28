@@ -1,5 +1,6 @@
 {
  "company": "General Mills",
+ "tier": 5,
  "status": "open",
  "postings": [
   {
@@ -7,24 +8,23 @@
    "url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Digital---Technology-Associate---Campus-Recruiting_10128732",
    "location": "Minneapolis, MN",
    "opened": "2026-09-10",
-   "date_source": "workday startDate",
+   "date_source": "workday startDate (API)",
    "deadline": null,
-   "grad_window": "Grad date Dec 2026 or Spring 2027; start Jan 2027 or Summer 2027",
+   "grad_window": "Dec 2026 or Spring 2027 grad; start Jan 2027 or Summer 2027",
    "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": "Campus Recruiting rotational program (two 12-month roles); full-time roles incl. Technical Analyst, Data Engineer, Platform Engineer, Machine Learning Engineer; base $90,000",
+   "level_basis": "Campus Recruiting rotational program; full-time roles include Technical Analyst, Data Engineer, Platform Engineer, Machine Learning Engineer; base $90,000",
    "no_sponsorship": true
   }
  ],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history; no last-cycle date found",
- "no_sponsorship": true,
  "jobs_page": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
  "jobs_spec": "wd:genmills/wd1/GMI_External_Careers",
- "evidence": "Workday board read in full (364) 2026-10-20: D&T Associate Campus Recruiting (Minneapolis, startDate 2026-09-10, rotational, roles incl. Data/Platform/ML Engineer, grad Dec 2026/Spring 2027, no visa sponsorship) still listed live via API. All other tech roles are Mumbai or senior.",
+ "no_sponsorship": true,
+ "evidence": "Workday board 2026-10-27 (380, full): D&T Associate Campus Recruiting (Minneapolis) live via detail API, says it will not sponsor work visas. Other tech roles are senior or Mumbai-based.",
  "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-20",
- "excluded_reason": null,
- "dropped": []
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null
 }

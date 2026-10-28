@@ -1,43 +1,43 @@
 {
-  "company": "Pony.ai",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - Evaluation",
-      "url": "https://apply.workable.com/pony-dot-ai/j/95D88E76BE/",
-      "location": "Fremont, CA",
-      "opened": "2026-09-18",
-      "date_source": "workable published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 'BS/MS or Ph.D in Computer Science', no years; no senior duties; sibling 'Senior Software Engineer - Evaluation' exists",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer, Behavior",
-      "url": "https://apply.workable.com/pony-dot-ai/j/38035832EE/",
-      "location": "Fremont, CA",
-      "opened": "2026-09-18",
-      "date_source": "workable published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "BS in CS/ML/Robotics or equivalent; 'General software engineering experience'; no years; sibling '(Senior) Software Engineer - Behavior' exists (borderline)",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-12-03",
-  "last_cycle_basis": "tracker first seen: Software Engineer - Perception Infrastructure, Fremont 2025-12-03 (Workable)",
-  "jobs_page": "https://apply.workable.com/pony-dot-ai/",
-  "jobs_spec": null,
-  "evidence": "Workable API (9 jobs, all Fremont, published 2026-09-18) read 2026-10-20; Evaluation and Behavior SWE (non-senior, no years ask) kept as borderline entry. Path Planning SWE left out (architecture design duties); Senior/Staff/RL/intern excluded.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+ "checked": "2026-10-27",
+ "postings": [
+  {
+   "title": "Software Engineer - Evaluation",
+   "url": "https://apply.workable.com/pony-dot-ai/j/95D88E76BE/",
+   "location": "Fremont, CA",
+   "opened": "2026-09-18",
+   "date_source": "workable published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 'BS/MS or Ph.D in Computer Science', no years; no senior duties; sibling 'Senior Software Engineer - Evaluation' exists",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Behavior",
+   "url": "https://apply.workable.com/pony-dot-ai/j/38035832EE/",
+   "location": "Fremont, CA",
+   "opened": "2026-09-18",
+   "date_source": "workable published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "BS in CS/ML/Robotics or equivalent; 'General software engineering experience'; no years; sibling '(Senior) Software Engineer - Behavior' exists (borderline)",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-03",
+ "last_cycle_basis": "tracker first seen: Software Engineer - Perception Infrastructure, Fremont 2025-12-03 (Workable)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "company": "Pony.ai",
+ "tier": 4,
+ "status": "open",
+ "jobs_page": "https://apply.workable.com/pony-dot-ai/",
+ "jobs_spec": null,
+ "evidence": "Workable API (9 jobs, all Fremont, published field now 2026-10-26, earlier 2026-09-18 kept) re-read 2026-10-27; Evaluation and Behavior SWE (BS/MS, no years ask, non-senior) kept as borderline entry. Path Planning SWE left out (architecture duties); others senior, staff, MLE (MS/PhD) or intern.",
+ "confidence": "medium"
 }

@@ -1,16 +1,17 @@
 {
  "company": "Bayer",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "no_program_found",
- "postings": [],
- "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history for Bayer; no software new-grad posting found",
+ "last_cycle_basis": "none found: no Bayer new-grad SWE in tracker history",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://talent.bayer.com/careers?domain=bayer.com",
  "jobs_spec": null,
- "evidence": "talent.bayer.com Eightfold API 2026-10-20 (234 US/Canada postings, all titles read): software/data hits are co-ops (Radiology Software Development Co-Op), Staff Software Engineer, interns. Rotational Development Program (Crop Science Product Supply) is supply chain/manufacturing. No SWE new-grad.",
- "confidence": "medium"
+ "jobs_spec_basis": "talent.bayer.com is Eightfold but the eightfold spec does not apply; searched its /api/apply/v2/jobs directly",
+ "evidence": "talent.bayer.com Eightfold apply API searched 2026-10-27, US (software engineer, developer, graduate, new grad, early career, data scientist, machine learning, AI engineer, associate software): software hits are Staff Software Engineer and Head of ML Research; entry roles are Co-Ops, agronomy and business rotational programs. No entry-level SWE.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "postings": [],
+ "dropped": []
 }

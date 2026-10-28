@@ -1,16 +1,16 @@
 {
   "company": "MUFG",
   "tier": 5,
-  "status": "closed",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker shows ML Engineer - Data Pipelines 2025-12-29 (experienced, closed)",
-  "jobs_page": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers",
-  "jobs_spec": "wd:mufgub/wd3/mufg-careers",
-  "evidence": "Workday full board (693) 2026-10-20: US software titles are AVP/VP or need 5+ yrs (Tempe Software Engineering wants 5 yrs Workday HCM). 2027 programs are Summer Analyst (risk, financial crimes), not SWE. Analyst - Data Products and AI Enablement (opened 2026-10-15) still absent.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
+  "status": "no_program_found",
+  "postings": [],
   "dropped": [],
+  "last_cycle_opened": "2025-12-29",
+  "last_cycle_basis": "tracker last cycle first seen 2025-12-29",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers",
+  "jobs_spec": "wd:mufgub/wd3/mufg-careers",
+  "evidence": "2026-10-27: Workday mufg-careers (682, full) read. US software titles are AVP/VP or need 5-12+ yrs (Tempe Workday HCM 5 yrs, AI Foundational Model 8-12 yrs). 2027 analyst programmes are London only. No entry-level US SWE.",
+  "confidence": "high",
+  "checked": "2026-10-27"
 }

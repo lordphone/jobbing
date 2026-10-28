@@ -1,30 +1,16 @@
 {
- "company": "Newegg",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "leftover_2026",
- "postings": [
-  {
-   "title": "Newegg Early Career Talent Program - Temp to hire",
-   "url": "https://myjobs.adp.com/newegg/cx/job-details?reqId=5001202827206",
-   "location": "Diamond Bar, CA",
-   "opened": "2026-06-02",
-   "date_source": "ADP postingDate",
-   "deadline": null,
-   "grad_window": "Graduating on or before Dec 2026, or graduated within last 12 months",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": null,
- "last_cycle_basis": "none found",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
- "jobs_spec": null,
- "evidence": "ADP API read 2026-10-19 (89 reqs): only Early Career Talent Program (temp-to-hire, grad by Dec 2026 or within 12 months, all BUs) is a last-cycle leftover. Business System Developer (2025) is experienced. No 2027 entry SWE.",
- "confidence": "medium",
- "dropped": []
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "Newegg",
+  "tier": 5,
+  "status": "not_yet",
+  "jobs_page": "https://myjobs.adp.com/newegg/?c=2176407&d=ExternalCareerSite",
+  "jobs_spec": null,
+  "evidence": "ADP board read in browser via its job-requisitions API 2026-10-26 (26 reqs, full): only tech roles are Business System Developer (Ontario, 'proven experience', posted 2025-09) and the multi-department Early Career Talent Program (Diamond Bar, posted 2026-06-02, grads by Dec 2026, not SWE-specific). No entry-level SWE posting.",
+  "confidence": "medium"
 }

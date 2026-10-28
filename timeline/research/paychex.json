@@ -1,16 +1,17 @@
 {
   "company": "Paychex",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker or careers-page evidence found",
   "jobs_page": "https://careers.paychex.com/careers/jobs",
   "jobs_spec": null,
-  "evidence": "careers.paychex.com Jibe API 2026-10-20 (496, full): US tech roles are CCaaS Platform Engineer III and Data Solutions Engineer (Rochester); other engineering is Belgrade. No entry SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "careers.paychex.com is a Jibe site; /api/jobs lists all postings, no jobs.py spec",
+  "evidence": "careers.paychex.com Jibe API read in full 2026-10-27 (498 jobs): US tech roles are CCaaS Platform Engineer III (Rochester NY) and Data Solutions Engineer (7 yrs, mentors juniors); Full-Stack Python roles are Belgrade. No US entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

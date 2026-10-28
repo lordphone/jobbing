@@ -1,35 +1,30 @@
 {
   "company": "CLEAR (Clear Secure)",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "no_sponsorship": false,
-      "level_basis": "early career Software Engineer; 0-2 years; $105,000-$125,000",
       "title": "Software Development Engineer I",
       "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
       "location": "Austin, TX",
       "opened": "2026-10-14",
       "date_source": "greenhouse first_published",
-      "level": "new-grad title"
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"looking for an early career Software Engineer\"; \"0-2 years of professional full-stack software engineering experience\"; $105,000-$125,000",
+      "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://job-boards.greenhouse.io/clear/jobs/7901600",
-      "reason": "gone: not on gh:clear board (full board read 2026-10-20) and page redirected to board with error earlier"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-27",
-  "last_cycle_basis": "Tracker first seen 2025-11-27: Software Engineer New Grad Web/Backend/Fullstack on job-boards.greenhouse.io/clear (now closed)",
+  "last_cycle_basis": "tracker last-cycle first seen 2025-11-27",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/clear",
   "jobs_spec": "gh:clear",
-  "evidence": "gh:clear full board (64) read 2026-10-20. SDE I (Austin) is early career, 0-2 yrs, live. Infrastructure SWE (NYC) is gone. Other SWE roles need 3+ yrs or are II/III/Senior/Staff.",
+  "evidence": "gh:clear full board (64) read 2026-10-27. SDE I (Austin, posted 2026-10-14) is early career, 0-2 yrs, live via API. Other SWE roles need 3+ yrs or are II/III/Senior/Staff.",
   "confidence": "high"
 }

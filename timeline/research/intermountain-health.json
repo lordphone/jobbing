@@ -1,5 +1,7 @@
 {
   "company": "Intermountain Health",
+  "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -16,15 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; none found",
-  "jobs_page": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
-  "jobs_spec": "wd:imh/wd108/IntermountainCareers",
-  "evidence": "Workday full board (1419) 2026-10-20: AI/ML Engineer R187019 posted today, master's plus 1 yr, endDate 2026-11-25, live via API. Was no_program yesterday; posting is new. Other tech roles are staff/senior/manager; new-grad cohorts are nursing and radiology.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-20",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
+  "jobs_spec": "wd:imh/wd108/IntermountainCareers",
+  "evidence": "Workday full board (1449) read 2026-10-27: AI/ML Engineer R187019 live via API (ends 2026-11-25, master's plus 1 yr, no lead duties). Other tech roles are Staff/Manager/Senior; new-grad cohorts are nursing and radiology.",
+  "confidence": "medium"
 }

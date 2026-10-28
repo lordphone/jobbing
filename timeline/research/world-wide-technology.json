@@ -1,16 +1,17 @@
 {
  "company": "World Wide Technology (WWT)",
  "tier": 5,
- "status": "no_program_found",
+ "checked": "2026-10-27",
+ "status": "unknown",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "No tracker history; WWT runs early-in-career programs (St. Louis) but no entry software posting found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
  "jobs_spec": null,
- "evidence": "ADP MyJobs API read in full in browser 2026-10-20 (665 reqs). US developer and engineer roles ask 3-5+ yrs, 8+ yrs with TS, or are SME/senior; Data Engineer MO says no sponsorship. Associate Creative Technologist (St. Louis, 1 yr, gen-AI/low-code prototyping) is not a software engineer role, left out. Entry roles are warehouse or 2027 internships.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "dropped": []
+ "jobs_spec_basis": "ADP MyJobs public API (orgoid header) lists reqs; no board spec supported",
+ "evidence": "ADP MyJobs board needs an orgoid header I could not obtain this run (public API says 'Missing orgoid header'; browser pane at tab cap). Prior run 2026-10-26 read all 676 reqs: US software roles ask 3-5+ yrs or TS clearance. WWT's university pages describe only Associate Academy (technical consultant) and internships; no new-grad SWE posting found.",
+ "confidence": "low"
 }

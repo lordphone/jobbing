@@ -1,30 +1,16 @@
 {
-  "company": "Ericsson",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "Integration Engineer (Entry Level)",
-      "url": "https://jobs.ericsson.com/careers/job/563121777134183",
-      "location": "Plano, TX",
-      "opened": "2026-08-26",
-      "date_source": "eightfold t_create",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "new-grad title",
-      "level_basis": "Entry Level in title; bachelor's or master's, no years stated; CI/CD and automation software development",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://jobs.ericsson.com/careers",
-  "jobs_spec": "eightfold:jobs.ericsson.com/ericsson.com",
-  "evidence": "Eightfold board 2026-10-20 (96 US via search): Integration Engineer (Entry Level) 563121777134183 Plano is not in search results, but its API detail (updated 2026-10-08) and SuccessFactors apply form still load; could not open the page in a browser, so live is unconfirmed. Posting says no sponsorship. Baseband Software Test Developer (Austin) needs deep 3GPP knowledge, left out. Others ask 5+ yrs or RF.",
-  "confidence": "low"
+ "company": "Ericsson",
+ "tier": 5,
+ "status": "closed",
+ "no_sponsorship": true,
+ "last_cycle_basis": "no tracker history; none found",
+ "jobs_page": "https://jobs.ericsson.com/careers",
+ "jobs_spec": "eightfold:jobs.ericsson.com/ericsson.com",
+ "evidence": "Eightfold board 2026-10-27 (106 US), postings opened via apply API. Early Career roles are RF performance and Integration Engineer (Plano, cloud/5G core deployment, network work, not SWE). Cloud/DevOps/SVP roles are senior or experienced. An earlier entry SWE-type posting is gone per prior run, so closed. Postings say no sponsorship.",
+ "confidence": "medium",
+ "postings": [],
+ "dropped": [],
+ "checked": "2026-10-27",
+ "excluded_reason": null,
+ "last_cycle_opened": null
 }

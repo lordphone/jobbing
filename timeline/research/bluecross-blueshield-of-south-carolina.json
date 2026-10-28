@@ -1,16 +1,43 @@
 {
-  "company": "BlueCross BlueShield of South Carolina",
-  "tier": 5,
-  "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none in Jul 2025-Jan 2026; tracker shows only 2026 Statistical Programming/Business Systems Analyst 1 roles (closed), not SWE",
-  "jobs_page": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues",
-  "jobs_spec": "wd:ourhrconnect/wd501/SCBlues",
-  "evidence": "Workday board 2026-10-20 (66, full) read fresh: only Technical Team Lead, Senior and analyst, claims and actuary titles. No entry SWE; 2026 Statistical Programming and Data Analyst 1 roles are closed.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "no_sponsorship": false,
-  "excluded_reason": null,
-  "postings": [],
-  "dropped": []
+ "company": "BlueCross BlueShield of South Carolina",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "IT Training Program Analyst (ELTP) – Mainframe",
+   "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/IT-Training-Program-Analyst--ELTP----Mainframe_R1052854",
+   "location": "Columbia, SC",
+   "opened": "2026-10-22",
+   "date_source": "workday startDate",
+   "deadline": "2026-11-02",
+   "grad_window": "degree obtained before 2027-07-01",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "ELTP is a paid training program to 'prepare entry-level IT professionals'; curriculum 'focuses primarily on COBOL application development'",
+   "no_sponsorship": true
+  },
+  {
+   "title": "IT Training Program Analyst (ELTP) – IT Services and Support - Palmetto GBA",
+   "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/IT-Training-Program-Analyst--ELTP----IT-Services-and-Support---Palmetto-GBA_R1052857-1",
+   "location": "Columbia, SC",
+   "opened": "2026-10-23",
+   "date_source": "workday startDate",
+   "deadline": "2026-11-02",
+   "grad_window": "degree obtained before 2027-07-01",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "ELTP trains entry-level IT professionals for application and/or system development and/or support",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found; only Statistical Programming / Business Systems Analyst 1 roles in spring 2026, not SWE (tracker history)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues",
+ "jobs_spec": "wd:ourhrconnect/wd501/SCBlues",
+ "evidence": "Workday full board (71) 2026-10-27: ELTP postings R1052854 and R1052857-1 live via API (deadline 2026-11-02, not eligible for sponsorship). Left out ELTP R1052853, R1052855, R1052858-1 (security clearance requires US citizenship) and Associate R1052859 (associate degree level). R1052856 still gone.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

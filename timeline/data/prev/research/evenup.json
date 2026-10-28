@@ -1,16 +1,18 @@
 {
   "company": "EvenUp",
   "tier": 4,
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-26",
+  "status": "open",
+  "postings": [
+    {"title": "Machine Learning Engineer", "url": "https://jobs.ashbyhq.com/evenup/affdd14d-7563-49c4-8a78-dce44daf5c37", "location": "San Francisco, CA; Toronto, ON", "opened": "2026-10-21", "date_source": "ashby publishedDate", "deadline": null, "grad_window": null, "live_verified": "api", "level": "unlabeled", "level_basis": "no years required; 'B.S., M.S., or Ph.D.'; 'Working alongside senior ML engineers'; no lead or mentor duties", "no_sponsorship": false}
+  ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-14",
   "last_cycle_basis": "Tracker first seen 'Software Engineer - New Graduate' (SF/Toronto) 2025-07-14; new-grad SWE again Apr 2026 and 2026-09-30",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/evenup",
   "jobs_spec": null,
-  "evidence": "Ashby graphql board (48) 2026-10-19: New Grad SWE AI Entities (2026-09-30, 19eb22cd) and Apr 2026 New Grad roles no longer listed. Remaining SWE roles read: 3 to 5+ yrs, 'several years', or senior (Toronto/SF). Status unchanged: closed.",
-  "confidence": "medium",
-  "dropped": [],
-  "checked": "2026-10-19"
+  "evidence": "Ashby graphql board (52) 2026-10-26, postings read via graphql: MLE (Oct 21) asks no years, BS/MS/PhD, works alongside seniors, counted unlabeled. Backend/Frontend roles ask 3 to 10+ yrs; SWE AI DocGen and New Products have mentoring duties.",
+  "confidence": "medium"
 }

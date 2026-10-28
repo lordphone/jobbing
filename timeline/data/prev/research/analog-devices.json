@@ -13,7 +13,7 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": null,
+   "level_basis": "Job Req Type: Graduate Job; 0-2 years of relevant experience",
    "no_sponsorship": false
   },
   {
@@ -26,18 +26,31 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": null,
+   "level_basis": "Job Req Type: Graduate Job",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Associate Engineer \u2013 SDK and Tools Development",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Associate-Engineer---SDK-and-Tools-Development_R266973-1",
+   "location": "Vancouver, BC",
+   "opened": "2026-10-23",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Job Req Type: Graduate Job; title Associate Engineer",
    "no_sponsorship": false
   }
  ],
  "last_cycle_opened": "2025-12-23",
  "last_cycle_basis": "tracker first-seen: Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), 2025-12-23 (UK Associate Engineer, Embedded Software 2025-10-23)",
- "excluded_reason": null,
- "no_sponsorship": false,
  "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
  "jobs_spec": "wd:analogdevices/wd1/External",
- "evidence": "Workday full board 2026-10-19 (819): both postings read live via API, Graduate Job req type, no end date. Associate ML Engineer prefers 2-5 yrs but is Associate level; Embedded SW is firmware-leaning. Export-licence note for non-US persons is a review, not a bar. Toronto/Vancouver Embedded SWE is unlabeled mid-level, left out.",
+ "evidence": "Workday full board (842) 2026-10-26: Associate Embedded Software Engineer (US), Associate ML Engineer (Boston) and Associate Engineer SDK and Tools Development (Vancouver) all live, Job Req Type Graduate Job. Toronto Embedded Software Engineer has no level, left out. Export-control line is not a citizenship requirement.",
  "confidence": "high",
- "checked": "2026-10-19",
- "dropped": []
+ "checked": "2026-10-26",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

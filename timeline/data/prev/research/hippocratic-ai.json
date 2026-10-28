@@ -13,18 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "front door to FDE track: 6 months Resident then 6 months Associate FDE; requires bachelor's and '2+ years' (not enforced for entry roles)",
+      "level_basis": "Residency is the entry track into FDE ('Most residents graduate into full FDE roles'); requires '2+ years of professional industry experience in software development, AI/ML'; no lead duties",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
   "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Hippocratic%20AI",
   "jobs_spec": "ashby:Hippocratic%20AI",
-  "evidence": "Ashby full board 2026-10-19 (38): FDE Residency (Menlo Park, published 2026-09-19) is the entry track (6-mo resident then associate FDE), codes prompts and EHR integrations. Other SWE/ML/FDE roles are mid/senior. Judgement call on SWE fit.",
+  "evidence": "Ashby full board (52) 2026-10-26: FDE Residency (Menlo Park, published 2026-09-19) is the entry track, asks 2+ yrs in software/AI, live. Integration Engineer asks 5+ yrs; LLM Inference Systems Engineer has no level and is not counted; other engineering roles are Mid/Senior/Staff.",
   "confidence": "medium",
+  "checked": "2026-10-26",
   "dropped": [],
-  "checked": "2026-10-19"
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

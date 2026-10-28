@@ -1,7 +1,7 @@
 {
   "company": "Thoughtworks",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
   "dropped": [],
@@ -11,7 +11,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.thoughtworks.com/en-us/careers/jobs",
   "jobs_spec": "gh:thoughtworks",
-  "evidence": "gh:thoughtworks full list 2026-10-20 (42): no US or Toronto graduate developer; only graduate posts are Bucharest support. Chicago Graduate Developer 8037730 (seen 2026-07-08) gone from API and 404 on site. Graduate posts recur through the year.",
-  "confidence": "medium",
-  "jobs_spec_basis": "careers job URLs use ?gh_jid ids; gh:thoughtworks (named Thoughtworks) is the real board, not the referral-only board"
+  "evidence": "Greenhouse full list (45) 2026-10-27: no US or Toronto graduate developer; graduate posts are Bucharest and Singapore only. Chicago Graduate Developer 8037730 (first seen 2026-07-08, this cycle) is not on the board and showed 'Job not found' in an earlier browser check.",
+  "confidence": "medium"
 }

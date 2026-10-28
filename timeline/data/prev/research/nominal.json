@@ -1,7 +1,7 @@
 {
   "company": "Nominal",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "gem first_published_at (api.gem.com)",
       "deadline": null,
       "grad_window": "on track to graduate in Summer 2027 or sooner",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "gem first_published_at (api.gem.com)",
       "deadline": null,
       "grad_window": "on track to graduate in Summer 2027 or sooner",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -37,7 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.gem.com/nominal",
   "jobs_spec": null,
-  "evidence": "Gem board read in full via api.gem.com (41). Both Summer 2027 new-grad software postings open in browser with Apply. ITAR clause ends 'or be eligible to obtain the required authorizations from the U.S. Department of State', so not excluded. Other SWE roles need 4+ yrs; Mission Operations New Grad is not SWE.",
+  "evidence": "Gem board read in full via api.gem.com (40) 2026-10-26. Both Summer 2027 new-grad software postings still listed. ITAR clause allows those eligible to obtain State Dept authorizations, so not excluded. Other SWE roles are Staff or ask 4-5+ yrs. Mission Operations New Grad left out as customer deployment.",
   "confidence": "high",
   "dropped": []
 }

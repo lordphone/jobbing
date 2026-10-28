@@ -1,16 +1,16 @@
 {
   "company": "Mizuho Financial Group",
   "tier": 5,
-  "status": "closed",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history before 2026",
-  "jobs_page": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas",
-  "jobs_spec": "wd:mizuho/wd1/mizuhoamericas",
-  "evidence": "Workday full board (120) 2026-10-20: no US new-grad tech posting; engineers need 3-12+ yrs; 2027 programs are banking analysts. Payment Platform Implementation Engineer (NYC) states no level or years, so left out. Tracker's Data Engineer (Metro Park NJ) not listed.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
+  "status": "no_program_found",
+  "postings": [],
   "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; no tracker history before 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas",
+  "jobs_spec": "wd:mizuho/wd1/mizuhoamericas",
+  "evidence": "Workday full board (121) 2026-10-27: engineers need 3-12+ yrs; Associate titles are banking. Payment Platform Implementation Engineer (NYC) states no years but requires payments experience, left out. No entry SWE or new-grad tech program.",
+  "confidence": "medium"
 }

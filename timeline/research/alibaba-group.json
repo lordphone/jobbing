@@ -1,16 +1,43 @@
 {
- "company": "Alibaba Group",
- "tier": 4,
- "checked": "2026-10-20",
- "status": "no_program_found",
- "postings": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "no US new-grad SWE history found; jobs.py history has 0 entries",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://talent.alibaba.com/en/home?lang=en",
- "jobs_spec": null,
- "evidence": "talent-holding.alibaba.com experience hiring 2026-10-20 (28 jobs): only US listing is a Sunnyvale ops role, no US entry SWE. Campus site showed 0 positions without login; web search shows 2027 internship/campus drive incl. Sunnyvale, China-focused.",
- "confidence": "low",
- "dropped": []
+  "company": "Alibaba Group",
+  "tier": 4,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Applied Scientist",
+      "url": "https://campus-talent.alibaba.com/campus/position/199907780044",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-07-30",
+      "date_source": "page text (Updated on 2026-07-30)",
+      "deadline": null,
+      "grad_window": "Graduation 2026-10-31 to 2027-10-30",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Hiring Program 'Alibaba 2027 Graduate Recruitment'; qualifications 'PhD, Master's, or Bachelor's degree'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "LLM and Multimodal Post-training-AliStar",
+      "url": "https://campus-talent.alibaba.com/campus/position/199907820114",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-07-30",
+      "date_source": "page text (Updated on 2026-07-30)",
+      "deadline": null,
+      "grad_window": "Graduation 2026-10-31 to 2027-10-30",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Hiring Program 'Alibaba 2027 Graduate Recruitment'; qualifications 'Master's or PhD degree'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no US new-grad SWE history found; jobs.py history has 0 entries",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001",
+  "jobs_spec": null,
+  "evidence": "Campus site (8 jobs under Alibaba 2027 Graduate Recruitment) read in browser 2026-10-27: Applied Scientist and LLM post-training, both Sunnyvale, pages live (ML/LLM-flavored, MS/BS ok). Other jobs are non-US or operations. Dates are Updated on, so a bound.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

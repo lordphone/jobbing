@@ -1,30 +1,21 @@
 {
   "company": "WEX",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Software Development Engineer 1",
       "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Software-Development-Engineer-1_R23233",
-      "location": "Portland, ME; Boston, MA; San Francisco Bay Area, CA; Dallas, TX; Salt Lake City, UT; Seattle, WA; Remote (US)",
-      "opened": "2026-10-19",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Title level SDE 1; 'Bachelor's degree in Computer Science or equivalent education with 1+ years work experience'",
-      "no_sponsorship": false
+      "reason": "gone: browser page says 'The page you are looking for doesn't exist'; absent from Workday board"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: New Grad SDE 2024-09-08; SDE 1 2025-04-22 (outside window). Nothing 2025-07 to 2026-01.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://wexinc.wd5.myworkdayjobs.com/WEXInc",
   "jobs_spec": "wd:wexinc/wd5/WEXInc",
-  "evidence": "Workday full board 2026-10-20 (114): SDE 1 (Portland ME / US remote near 6 hubs) live, posted 2026-10-19, 1+ yrs. Software Engineer, Payments (2+ yrs) not counted: duties define Bill Pay architectural roadmap. Other US SWE are 2+ or senior.",
-  "confidence": "medium"
+  "evidence": "Workday full board (98) 2026-10-27: the US SDE 1 (R23233, started 2026-10-19, seen live 2026-10-23) is gone; its page says the page doesn't exist. Only SDE 1 left is India-Bangalore. US roles are SDE 2 and above. Closed.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

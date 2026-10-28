@@ -1,17 +1,16 @@
 {
   "company": "Ampere Computing",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "not found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.amperecomputing.com/",
   "jobs_spec": null,
-  "jobs_spec_basis": "Careers site is Cloudflare-protected; /search/jobs.json?page=N in browser lists all jobs",
-  "evidence": "Browser fetch of careers /search/jobs.json 2026-10-19 (92 jobs): US software roles are Principal/Senior/Distinguished; AI Accelerator SWE needs BS+5 or MS+3, Linux DevOps needs 3+ yrs. Only intern is Physical Design. No new-grad SWE.",
-  "confidence": "medium"
+  "evidence": "2026-10-26 careers.amperecomputing.com blocked (403 to curl and WebFetch; browser pane tab cap). Kept the 2026-10-22 browser read of all 90 jobs (53 US): US software roles Principal/Senior or BS+5 / MS+3; entry-ish only Ho Chi Minh City; early career page is internships. Search shows only senior roles.",
+  "confidence": "low",
+  "checked": "2026-10-26",
+  "dropped": []
 }

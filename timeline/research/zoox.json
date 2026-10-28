@@ -1,16 +1,30 @@
 {
-  "company": "Zoox",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only part-time/contract postings (2025-10-17 Part-Time SWE 6-month Contract) and an unlabeled 2025-11-24 SWE Automation Tools; no full-time new-grad SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.lever.co/zoox",
-  "jobs_spec": "lever:zoox",
-  "evidence": "Lever full board 2026-10-20 (237) screened: no new-grad title; SWE roles need 2-6+ yrs or state none with $172K-$285K bands. Embedded Body Systems (1+ yrs) is real-time embedded firmware-type; Student Worker roles are contracts. None counted.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Zoox",
+ "tier": 3,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Embedded Software Engineer - Body Systems",
+   "url": "https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d",
+   "location": "Foster City, CA",
+   "opened": "2026-08-06",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 1+ years of experience developing real-time embedded software; level 'All Levels'; $137K-$184K",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no new-grad SWE posting found; tracker history shows only contract/part-time student roles (2025-10-16 Contract Student Worker Software Engineer) and experienced SWE roles",
+ "jobs_page": "https://jobs.lever.co/zoox",
+ "jobs_spec": "lever:zoox",
+ "evidence": "Lever board (full) screened 2026-10-27: no new-grad title. One unlabeled low-years role counted (Embedded SWE Body Systems, 1+ yrs, live on API). Left out: Drive Systems (1-3 yrs), Mission Planning (2+ yrs, Jan), SDET 4+, ML roles 3+. Rest 3-8+ yrs.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

@@ -1,30 +1,30 @@
 {
-  "company": "MGM Resorts International",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Digital Software Engineer Associate",
-      "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1",
-      "location": "Nevada, US (Home Office; no city listed)",
-      "opened": "2026-10-05",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; requires '1 Year of Prior Relevant Experience' and a Bachelors degree in Computer Science",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker history found for an MGM new-grad SWE track.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
-  "jobs_spec": "wd:mgmresorts/wd5/MGMCareers",
-  "evidence": "Workday full board (494) 2026-10-19: Digital Software Engineer Associate (Home Office NV) listed live on API, start 2026-10-05, requires 1 year experience plus Bachelors in CS. Others senior, IT ops or facilities.",
-  "confidence": "medium"
+ "company": "MGM Resorts International",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Digital Software Engineer Associate",
+   "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1",
+   "location": "Nevada, US (Home Office; no city listed)",
+   "opened": "2026-10-05",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Associate title; requires '1 Year of Prior Relevant Experience' and a Bachelors degree in Computer Science",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "jobs.py history shows no MGM new-grad SWE in window",
+ "jobs_page": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
+ "jobs_spec": "wd:mgmresorts/wd5/MGMCareers",
+ "evidence": "Workday full board (502) 2026-10-26: Digital Software Engineer Associate (Home Office NV) still live via CXS with apply enabled, 1 yr and CS bachelors, start 2026-10-05, kept as unlabeled. Other engineering roles are senior, property maintenance or IT ops.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

@@ -1,25 +1,16 @@
 {
   "company": "MoneyLion (Gen Digital)",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [
-    {
-      "url": "https://jobs.ashbyhq.com/gen-digital/04d8f8b7-135c-4b93-8dbb-f47b9ddb51ea",
-      "reason": "gone: Machine Learning Engineer 1 (Mountain View) NOT ON THE BOARD per jobs.py detail and absent from board listing"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf",
-      "reason": "gone: AI & Machine Learning Engineer 1 (Mountain View) NOT ON THE BOARD per jobs.py detail and absent from board listing"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only two Engineer 1 postings, both 2026-06/07; none in the 2025-07..2026-01 window.",
+  "last_cycle_basis": "none found; tracker shows only 2026 Engineer 1 postings (2026-06-26, 2026-07-08)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/gen-digital",
   "jobs_spec": "ashby:gen-digital",
-  "evidence": "Ashby gen-digital full board 2026-10-20 (120): no US Engineer 1 role; US Full Stack SWE needs 10+ yrs; AI/ML Engineer II is mid-level. Both prior ML Engineer 1 postings gone from board, so closed.",
-  "confidence": "high"
+  "evidence": "Ashby gen-digital full board (113) read 2026-10-27: no US Engineer 1 role. Mountain View AI/ML Engineer II is mid-level; Full Stack SWE (Mountain View) now states 10+ years required. Brno thesis and Kuala Lumpur roles out of scope. Tracker Engineer 1 postings (Jun-Jul 2026) are no longer on the board, so closed.",
+  "confidence": "medium"
 }

@@ -1,20 +1,20 @@
 {
   "company": "Rivian",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/34249",
+      "title": "Software Engineer, Edge AI",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0",
       "location": "Palo Alto, CA",
-      "opened": "2026-10-19",
-      "date_source": "rivian careers API posted_date",
+      "opened": "2026-10-20",
+      "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '1+ Years of experience in software development'; $97,700-$129,420 (low band); no lead/mentor duties",
+      "level_basis": "'2-4 years of software engineering experience, or a BS or MS in Computer Science... with equivalent demonstrated building experience' (hackathons, projects, internship count)",
       "no_sponsorship": false
     }
   ],
@@ -24,8 +24,13 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.rivian.com/careers-home/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "main board has no jobs.py spec; careers.rivian.com/api/jobs read in full (946); Rivian-VW JV roles on ashby:rivianvw.tech (144)",
-  "evidence": "Rivian careers API 2026-10-20 (944) and JV Ashby (144) read. Software Engineer (EV charging, Palo Alto, req 34249, posted 2026-10-19) page opened with Apply link, 1+ yrs, low pay band, counted unlabeled. Early Career Cloud Engineer is cloud ops; JV Systems Architecture is systems engineering; not counted.",
+  "evidence": "2026-10-27: Rivian careers API (955, full) no longer lists Software Engineer 34249 (404). Rivian-VW Tech JV Ashby (158, full): Edge AI SWE (BS/MS accepted, live) stays. Other SWEs ask 1-6+ yrs or are II/senior. 2027 SWE internships only otherwise.",
   "confidence": "medium",
-  "dropped": []
+  "dropped": [
+    {
+      "url": "https://careers.rivian.com/careers-home/jobs/34249",
+      "reason": "gone: not in the full Rivian careers API list (955 jobs) and the job page returns 404"
+    }
+  ],
+  "jobs_spec_basis": "careers.rivian.com has a JSON jobs API (955 jobs, full); no jobs.py spec. JV roles post on ashby:rivianvw.tech"
 }

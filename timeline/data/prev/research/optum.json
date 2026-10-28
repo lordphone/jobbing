@@ -1,21 +1,43 @@
 {
   "company": "Optum (UnitedHealth Group)",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
+  "status": "open",
+  "postings": [
     {
-      "url": "https://careers.unitedhealthgroup.com/job/basking-ridge/associate-software-engineer/34088/101072065280",
-      "reason": "gone: browser page says 'this page was moved, deleted or does not exist'"
+      "title": "Associate Software Engineer",
+      "url": "https://careers.unitedhealthgroup.com/job/x/x/34088/102336384672",
+      "location": "Eden Prairie, MN; Remote (US)",
+      "opened": "2026-10-23",
+      "date_source": "page text (Date posted 10/23/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; required quals '1+ years of full-stack software development experience'; no lead or mentor duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate AI/ML Engineer",
+      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/101316245472",
+      "location": "Minnetonka, MN; Remote (US)",
+      "opened": "2026-10-19",
+      "date_source": "page text (Date posted 10/19/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; required quals '2+ years of experience in software development, machine learning, data science...'; no lead duties",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (listed Vancouver, Canada / Remote)",
+  "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (Vancouver, Canada / Remote)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.unitedhealthgroup.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "UHG careers searched in browser pane 2026-10-19 (about 600 results across software engineer, associate software engineer, AI/ML, early career, new graduate). Associate Software Engineer (Basking Ridge, posted 2026-09-24) is gone. Remaining US SWE roles need 2-5+ yrs, one (La Crosse) also requires US citizenship; entry roles are India only.",
-  "confidence": "medium"
+  "evidence": "UHG search (keyword queries) and job pages 2026-10-26: Associate SWE (1+ yrs, Eden Prairie) and Associate AI/ML (2+ yrs, Minnetonka) still listed and live, counted. Wausau, Bridgeton, La Crosse SWEs need 3-5+ yrs or citizenship.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

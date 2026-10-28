@@ -1,17 +1,30 @@
 {
   "company": "Rokt",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Junior Software Engineer - Rokt Residency",
+      "url": "https://apply.workable.com/rokt/j/616F2D0286/",
+      "location": "New York, NY",
+      "opened": "2026-10-22",
+      "date_source": "workable published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Junior Software Engineer; 18-week paid early-career residency, cohort Jan 12-May 18 2027, full-time offer $127K after",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-04-16",
-  "last_cycle_basis": "Workable Junior Software Engineer NYC first seen 2026-04-16 (off-cycle, outside Jul-Jan window)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker: Junior SWE NYC posted 2026-04-16 (off-cycle, since removed)",
   "jobs_page": "https://apply.workable.com/rokt/",
   "jobs_spec": null,
-  "jobs_spec_basis": "Workable board read via apply.workable.com widget API; no jobs.py spec",
-  "evidence": "Workable widget API 2026-10-20 (11 jobs): no engineering roles (account, success, sales, Tokyo ops). Rokt hired Junior SWE in NYC off-cycle (first seen 2026-04-16); nothing live now.",
-  "confidence": "medium"
+  "evidence": "Workable API 2026-10-27 (12 jobs): Junior Software Engineer - Rokt Residency, NYC, published 2026-10-22, still listed. 18-week full-time paid program (~$50/hr, Jan-May 2027) with possible full-time offer, borderline vs internship; counted as early-career program. No other engineering roles.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

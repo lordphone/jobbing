@@ -1,31 +1,21 @@
 {
   "company": "Confluent",
   "tier": 3,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Software Developer - Confluent Cloud Platform",
       "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131290",
-      "location": "Toronto, ON, Canada; Vancouver, BC, Canada; Markham, ON, Canada; Ottawa, ON, Canada; Calgary, AB, Canada; Bedford, NS, Canada; Remote (Canada)",
-      "opened": "on or before 2026-10-07",
-      "date_source": "ibm careers search dcdate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "IBM level 'Entry Level'; requires 1-4 years; BS/MS/PhD; CLI/Terraform team, no lead duties; CAD 80,000-129,000",
-      "no_sponsorship": true
+      "reason": "gone: not in the IBM careers search index (confluent keyword, 90 hits) 2026-10-26; page redirected home on 2026-10-23"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker: 'New Grad 2025: Software Engineer' 2024-07-31 (two cycles ago); nothing in 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.ibm.com/careers/search?q=confluent",
   "jobs_spec": null,
-  "jobs_spec_basis": "ashby:confluent now 0 jobs; careers.confluent.io is IBM-branded and its job pages 404; Confluent roles post on IBM careers",
-  "evidence": "IBM careers search API (confluent, 84 jobs) 2026-10-19: Software Developer - Cloud Platform (Canada remote, listed 2026-10-07) is the only entry-level Confluent SWE role; page does not render in browser, level read from API earlier. US roles are Senior/Staff/Principal.",
-  "confidence": "medium"
+  "evidence": "IBM careers search API (confluent keyword, 90 hits) 2026-10-26: US/Canada Confluent roles are Senior/Staff/Principal/Senior II. Software Developer - Cloud Platform (Canada, Entry Level, jobId 131290, listed 2026-10-07) still absent from the index. No entry-level Confluent SWE live.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

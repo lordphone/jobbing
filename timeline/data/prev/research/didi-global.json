@@ -1,16 +1,16 @@
 {
  "company": "DiDi Global",
  "tier": 4,
- "checked": "2026-10-19",
- "status": "not_yet",
- "postings": [],
- "dropped": [],
+ "status": "no_program_found",
  "last_cycle_opened": null,
- "last_cycle_basis": "jobs.py history: Planning Selection Autonomy SWE/Sr, San Jose, 2026-08-31, combined SWE/Senior req, not entry-level",
+ "last_cycle_basis": "No tracker new-grad SWE history; only SWE/Sr postings for Planning Selection Autonomy (2026-08/09)",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://job-boards.greenhouse.io/didi",
  "jobs_spec": "gh:didi",
- "evidence": "Greenhouse full board (9): San Jose Software Engineer, Motion Planning (2026-10-18) is a combined SWE/Senior posting ($141K-$282K, architect duties), not counted; ML Engineer role mentions Senior/Staff levels.",
- "confidence": "medium"
+ "evidence": "Greenhouse API (9, full) read 2026-10-26: SWE Motion Planning and SWE/Sr Planning Selection (San Jose) are combined-level postings with Architect duties and required domain experience, no years or entry label, not counted; ML Engineer Motion Planning is the same pattern. No entry-level or new-grad track.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "postings": [],
+ "dropped": []
 }

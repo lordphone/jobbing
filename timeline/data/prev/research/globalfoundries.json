@@ -1,13 +1,24 @@
 {
-  "company": "GlobalFoundries",
-  "tier": 5,
-  "status": "open",
+  "checked": "2026-10-26",
   "postings": [
     {
       "title": "Software Engineer (2027 New College Graduate)",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
       "location": "Austin, TX; Santa Clara, CA",
       "opened": "2026-10-08",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "Graduating 2027 (New College Graduate program)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Software Engineer (2027 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
+      "location": "Santa Clara, CA; Richardson, TX",
+      "opened": "2026-10-21",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": "Graduating 2027 (New College Graduate program)",
@@ -30,14 +41,16 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker first seen: Manufacturing Software Engineer, Essex Junction VT 2025-08-17; AI/ML Software Engineer New Grad (2026 NCG) seen 2026-08-18 is a 2026-class leftover",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "GlobalFoundries",
+  "tier": 5,
+  "status": "open",
   "jobs_page": "https://globalfoundries.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:globalfoundries/wd1/External",
-  "evidence": "Workday board re-read 2026-10-19 (775, full) plus detail: Software Engineer 2027 NCG (Austin, Santa Clara) live; new AI/ML Systems Engineer 2027 NCG (Richardson) is workload performance modeling, counted as AI role. FAE, design, business NCG roles and 2026 NCG leftovers not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Workday full board (~800) read 2026-10-26, detail via API: Software Engineer 2027 NCG (Austin, Santa Clara), AI Software Engineer 2027 NCG (Santa Clara, Richardson) and AI/ML Systems Engineer 2027 NCG (Richardson, kept) all live. Process, quality, FAE, design-manual, fab automation NCG roles not counted.",
+  "confidence": "high"
 }

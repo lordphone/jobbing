@@ -1,5 +1,7 @@
 {
   "company": "Cencora",
+  "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -16,15 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history shows only Automation Developer 1 (2026-05-12) and Data Visualization Specialist 1; no dated new-grad SWE posting found for Jul 2025 - Jan 2026",
-  "jobs_page": "https://myhrabc.wd5.myworkdayjobs.com/Global",
-  "jobs_spec": "wd:myhrabc/wd5/Global",
-  "evidence": "Full Workday board (1004) read and detail opened 2026-10-20: Engineer I, Systems Software Engineering live, under 2 yrs required, endDate 2026-10-30. Software Engineer 1 R2616789 is Poland-only, not counted.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "Tracker history shows only Automation Developer 1 (2026-05-12) and Data Visualization Specialist 1; no dated new-grad SWE posting Jul 2025 - Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://myhrabc.wd5.myworkdayjobs.com/Global",
+  "jobs_spec": "wd:myhrabc/wd5/Global",
+  "evidence": "Workday detail/cxs API 2026-10-27: Engineer I, Systems Software Engineering live (canApply true), under 2 yrs, ends 2026-10-30; absent from the listing page capped at 400 but still served. Software Engineer 1 Poland-only; Full Stack Engineer II needs 2+ yrs and mentors, left out.",
+  "confidence": "high"
 }

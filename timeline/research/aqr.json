@@ -1,30 +1,30 @@
 {
-  "company": "AQR",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Research & Portfolio Management Engineering - Analyst",
-      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
-      "location": "Greenwich, CT",
-      "opened": "2026-10-20",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Analyst-level title; \"0-5 years of professional software engineering experience\"; $135,000 to $155,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2024-09-30",
-  "last_cycle_basis": "tracker history: Junior Software Engineer-Quantitative Research (Greenwich) first seen 2024-09-30 (two cycles ago); nothing dated 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.aqr.com",
-  "jobs_spec": "gh:aqr",
-  "evidence": "gh:aqr full board (56) re-read 2026-10-20. New Greenwich RPM Engineering Analyst posted today, asks 0-5 yrs, $135-155K, counted. Associate asks 3-5 yrs, SIG 3+, VPs 7+. 2027 Engineering Summer Analyst are internships; Bengaluru roles non-US.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "AQR",
+ "tier": 3,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Research & Portfolio Management Engineering - Analyst",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+   "location": "Greenwich, CT",
+   "opened": "2026-10-20",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Analyst-level title; requires 0-5 years of professional software engineering experience",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2024-09-30",
+ "last_cycle_basis": "tracker first seen 2024-09-30 (two cycles ago)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers.aqr.com",
+ "jobs_spec": "gh:aqr",
+ "evidence": "gh:aqr board (54) and posting read via Greenhouse API 2026-10-27. Greenwich RPM Engineering Analyst (posted 2026-10-20) asks 0-5 yrs, counted. Associate 3-5 yrs, SIG 3+, VPs senior; 2027 Summer Analysts are internships; Bengaluru roles non-US.",
+ "confidence": "high"
 }

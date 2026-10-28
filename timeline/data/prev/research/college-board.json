@@ -1,16 +1,30 @@
 {
- "company": "College Board",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "not_yet",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": "2026-02-02",
- "last_cycle_basis": "tracker first seen 'Software Engineer 1 - New Grad', Remote USA (closed): https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Software-Engineer-1--New-Grad-_REQ00",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://collegeboard.wd1.myworkdayjobs.com/Careers",
- "jobs_spec": "wd:collegeboard/wd1/Careers",
- "evidence": "Workday wd:collegeboard full (49): Full Stack Engineer asks 4+ yrs, Workforce IAM Engineer 3+ yrs, rest senior/lead/director or non-eng. Last cycle SWE 1 New Grad (Feb 2026) closed. No entry SWE live now.",
- "confidence": "high"
+  "checked": "2026-10-26",
+  "postings": [
+    {
+      "title": "Software Engineer I (New Grad)",
+      "url": "https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+      "location": "Remote (US)",
+      "opened": "2026-10-19",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "title 'Software Engineer I (New Grad)'; 0-3 years; $106,000-115,000",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2026-02-02",
+  "last_cycle_basis": "tracker first seen 'Software Engineer 1 - New Grad', Remote USA (closed)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "College Board",
+  "tier": 5,
+  "status": "open",
+  "jobs_page": "https://collegeboard.wd1.myworkdayjobs.com/Careers",
+  "jobs_spec": "wd:collegeboard/wd1/Careers",
+  "evidence": "Workday board (49) and cxs 'software engineer' search 2026-10-26 do not list it, but cxs detail shows Software Engineer I (New Grad) REQ002974 with canApply true, full description, startDate 2026-10-19, 0-3 yrs, $106-115K (tracker first seen 2026-10-22). Likely unlisted but live. Other engineers 3+ yrs/senior.",
+  "confidence": "medium"
 }

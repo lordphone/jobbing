@@ -1,16 +1,16 @@
 {
   "company": "Exelon",
+  "tier": 5,
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
-  "jobs_spec": null,
-  "evidence": "Exelon Jibe API searches 2026-10-20 (software, developer, data engineer, ML, graduate, new grad): engineering roles are power engineers, Sr Data Scientist, a cyber summer intern. No entry SWE.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "no tracker or history record",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://jobs.exeloncorp.com/careers-home/jobs?categories=Information%20Technology",
+  "jobs_spec": null,
+  "evidence": "Exelon careers /api/jobs, full list (112 jobs) 2026-10-27: engineering roles are power/grid engineers, Sr Data Scientist, Sr Systems Engineer, quantitative analyst, and 2027 summer interns. No entry-level SWE.",
+  "confidence": "medium"
 }

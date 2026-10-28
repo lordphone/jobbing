@@ -1,16 +1,30 @@
 {
  "company": "Schweitzer Engineering Laboratories",
  "tier": 5,
- "status": "not_yet",
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - Web Applications - Full Stack",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Web-Applications---Full-Stack_2026-23734",
+   "location": "Charlotte, NC",
+   "opened": "2026-10-23",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "\"Typically 2+ years of experience in full stack web development\"; $97,700 - $144,400",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history for SEL",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://selinc.wd1.myworkdayjobs.com/SEL",
  "jobs_spec": "wd:selinc/wd1/SEL",
- "evidence": "Workday full board 2026-10-19 (312). No Associate Software Engineer live. Boise Full Stack lists 2+ yrs but duties include mentoring Associate Engineers; Boise SWE needs 6+, Front-End 3+. Associate roles are power-systems/hardware. Rolling Associate SWE history.",
- "confidence": "medium",
- "last_cycle_opened": "2026-04-06",
- "last_cycle_basis": "jobs.py history: rolling 'Associate Software Engineer' (Moscow ID/Pullman WA) first seen 2026-04-06, repeats 2026-05-15 and 2026-07-06; outside Jul-Jan window",
- "checked": "2026-10-19",
- "postings": [],
- "dropped": [],
- "no_sponsorship": false,
- "excluded_reason": null
+ "evidence": "Workday full board (336) 2026-10-26: Charlotte Full Stack SWE asks typically 2+ yrs, kept as borderline unlabeled. Boise Software Engineer needs 6+ yrs; firmware roles and Engineering Rotation Program are power/hardware track, not SWE.",
+ "confidence": "medium"
 }

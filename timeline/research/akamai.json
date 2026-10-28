@@ -1,20 +1,20 @@
 {
   "company": "Akamai",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (Software Engineer I, Control Plane & Developer Experience, Akamai Inference Cloud)",
-      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678",
-      "location": "United States (no city listed)",
-      "opened": "2026-10-19",
-      "date_source": "oracle HCM posted date (API)",
+      "title": "Software Engineer I (Edge Platform)",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4237",
+      "location": "Cambridge, MA (FlexBase)",
+      "opened": "2026-10-21",
+      "date_source": "oracle ExternalPostedStartDate",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "posting text: \"As a Software Engineer I ... work alongside experienced engineers\"; requires Bachelor's/Master's in CS and basic proficiency, no years; pay $75,700-$136,300",
+      "level_basis": "Software Engineer I; Bachelor CS and academic or project-based training, no years required",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +25,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.akamai.com/en/sites/CX_1",
   "jobs_spec": "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle HCM board (282) 2026-10-20: Software Engineer I (job 2678, Control Plane, US remote) absent from the list API but its page loads with Apply Now, so kept. Other US software roles are II (3 yrs), Senior or SRE; Canada SWE II asks 2 yrs but is a level II. Opened date kept from the 2026-10-19 run.",
-  "confidence": "medium"
+  "evidence": "Oracle HCM board (276, full) 2026-10-27: Software Engineer (I) job 4237, Edge Platform, posted 2026-10-21, live via requisition API, Bachelor CS and project-based training, no years asked. SWE II, SDET II, SRE and senior roles excluded; Canada SDET (Python) not entry-level.",
+  "confidence": "high"
 }

@@ -1,16 +1,16 @@
 {
   "company": "MarketAxess",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
+  "last_cycle_basis": "no tracker history; no entry SWE found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.marketaxess.com/careers/current-openings",
   "jobs_spec": null,
-  "evidence": "Careers page's own job feed (/harvest?path=/job_posts/) 2026-10-20 lists 5 jobs: Lead Software Engineer (NY), sales, trading and London product roles. No entry-level SWE. Full-time analyst hiring mostly via intern conversion.",
-  "confidence": "medium"
+  "evidence": "2026-10-27: careers page job feed (/harvest?path=/job_posts/) lists 4 jobs: Lead Software Engineer (NY), plus sales and London product roles. No entry-level SWE. No public API board.",
+  "confidence": "high",
+  "checked": "2026-10-27"
 }

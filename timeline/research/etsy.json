@@ -1,16 +1,21 @@
 {
   "company": "Etsy",
   "tier": 4,
-  "checked": "2026-10-20",
-  "postings": [],
-  "dropped": [],
+  "status": "closed",
+  "dropped": [
+    {
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
+      "reason": "gone: not on the full Workday board (74) on 2026-10-27; CXS job endpoint returns 403"
+    }
+  ],
   "last_cycle_opened": "2025-12-01",
   "last_cycle_basis": "tracker first seen: Software Engineer 1 - Machine Learning, Brooklyn (2025-12-01); Software Engineer 1 - Core Data 2026-01-07",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers",
   "jobs_spec": "wd:etsy/wd5/Etsy_Careers",
-  "status": "not_yet",
-  "evidence": "wd:etsy/wd5/Etsy_Careers full (70) 2026-10-20: no SWE I or new-grad title live. ML Engineer Search/Ads (Brooklyn) is mid-level (expertise asks, no entry label), SWE II and Senior roles above entry; ML Coordinator is non-engineering. SWE 1 track ran last cycle in Brooklyn.",
-  "confidence": "medium"
+  "evidence": "Full Workday board (74) 2026-10-27: Software Engineer I, Marketplace Makers (opened 2026-10-21) still not listed. Rest are Senior, Staff or II; ML Engineer Search Ads/Recs (JR6022) is advertised at senior level ($182k-$246k per aggregator), left out. Posting pages not readable (403).",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

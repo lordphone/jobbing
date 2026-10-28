@@ -1,7 +1,6 @@
 {
  "company": "XPO, Inc.",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "open",
  "postings": [
   {
@@ -31,13 +30,14 @@
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "No tracker history for new-grad SWE at XPO.",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.xpo.com",
  "jobs_spec": null,
- "evidence": "jobs.xpo.com pages 2026-10-19: two Boston ML Engineer reqs 389273, 389274 show Apply now; minimum BS plus 1 year software/ML engineering, pay $100K-$120K. Earlier first-seen 2026-09-19 kept; page meta datePosted 2026-10-18, validThrough 2026-11-22 (auto, not a stated deadline). No sponsorship text. Data scientist roles not counted.",
- "confidence": "medium"
+ "evidence": "jobs.xpo.com (SuccessFactors) pages fetched 2026-10-26: both Boston ML Engineer reqs show Apply now, min BS plus 1 yr, validThrough 2026-11-22 is automatic. Earlier opened 2026-09-19 kept. Other tech roles Lead/Senior.",
+ "confidence": "high",
+ "checked": "2026-10-26",
+ "dropped": []
 }

@@ -1,16 +1,16 @@
 {
   "company": "PetSmart",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.petsmart.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API on careers.petsmart.com 2026-10-20, keyword searches (engineer 5, machine learning 2, data scientist 4, technology 26, early career 2, graduate 0, intern 0): only Senior Automation Developer (UiPath) and corporate roles. No new-grad or entry SWE.",
-  "confidence": "high"
+  "evidence": "PetSmart careers jobs API 2026-10-27: keyword searches (software, engineer, developer, data scientist, machine learning, AI, graduate, entry, analytics, technology, IT) returned only store, warehouse, groomer and corporate manager/director roles plus a Product Owner (Costa Rica). No SWE postings, entry-level or otherwise.",
+  "confidence": "medium"
 }

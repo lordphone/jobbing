@@ -1,16 +1,16 @@
 {
-  "company": "Infor",
-  "status": "not_yet",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker shows a US Associate Software Engineer (Dallas TX / St. Paul MN / Alpharetta GA) first tracked 2024-09-13, now closed; nothing between 2025-07 and 2026-01.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "Infor",
+  "tier": 5,
+  "status": "not_yet",
   "jobs_page": "https://careers.infor.com/",
   "jobs_spec": null,
-  "evidence": "careers.infor.com/postings.json 2026-10-19 (238, full): US SWE roles are Senior/Principal/Team Lead (Dallas, Atlanta). Associate SWE roles only Manila, Hyderabad, Wroclaw, Bengaluru. Remote Associate (Support) is API support, Atlanta DevOps Associate is ops, neither SWE.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "postings": [],
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "careers.infor.com/postings.json 2026-10-26 (249, full): US SWE roles (Atlanta) are Senior/Principal/Lead; Associate and entry SWE only outside US (Wroclaw, Manila). Atlanta DevOps Engineer (AWS) states no years or level and requires no sponsorship, left out. Nothing entry-level in US, Toronto or Vancouver.",
+  "confidence": "medium"
 }

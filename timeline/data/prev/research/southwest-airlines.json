@@ -1,16 +1,21 @@
 {
- "company": "Southwest Airlines",
- "status": "closed",
- "postings": [],
- "last_cycle_opened": "2025-09-25",
- "last_cycle_basis": "tracker history: Associate Software Engineer / Associate Data Engineer - Direct College Hire (Dallas) first seen 2025-09-25",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://swa.wd1.myworkdayjobs.com/external",
- "jobs_spec": "wd:swa/wd1/external",
- "evidence": "Full Workday board (45) and CXS searches (software, associate, college) re-read 2026-10-19: only India Office software roles and non-software US roles. Tracker-seen Associate Software Engineer Direct College Hire (Dallas, 2026-09-21) is not on the board, so closed.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "tier": 5,
- "dropped": []
+  "company": "Southwest Airlines",
+  "tier": 5,
+  "checked": "2026-10-26",
+  "status": "unknown",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Research-Developer_R-2026-73737",
+      "reason": "gone: not in full Workday board (30) on 2026-10-26; cxs detail returns 403 permission denied (a made-up id returns 404), WebFetch page blank, browser pane unavailable; page not seen"
+    }
+  ],
+  "last_cycle_opened": "2025-09-25",
+  "last_cycle_basis": "tracker history: Associate Software Engineer / Associate Data Engineer - Direct College Hire (Dallas) first seen 2025-09-25",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://swa.wd1.myworkdayjobs.com/external",
+  "jobs_spec": "wd:swa/wd1/external",
+  "evidence": "Workday full board (30) 2026-10-26: the previously counted Operations Research Developer (Dallas) is no longer listed and its detail API returns 403, page unreadable, so likely closed but not seen. Other engineering roles are India. Retry in browser to confirm.",
+  "confidence": "low"
 }

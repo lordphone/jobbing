@@ -1,17 +1,30 @@
 {
- "company": "Trimble",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "not_yet",
- "jobs_page": "https://trimblecareers.trimble.com/careers",
- "jobs_spec": "wd:trimble/wd1/trimblecareers",
- "evidence": "Workday trimblecareers full board 2026-10-20 (196): no entry-level US software role. 2027 Rotational Development Programs posted are Civil/Geo Applications Engineer, Financial and Operations Analyst, not software. Unlabeled SWE roles need 4-7+ yrs or are not entry. No Software Engineering RDP posted yet.",
- "confidence": "medium",
- "last_cycle_opened": "2025-11-01",
- "last_cycle_basis": "tracker first seen: Software Engineer 1 - SketchUp Warehouse Platform Team, Westminster CO (2025-11-01); no longer on board",
- "postings": [],
- "no_sponsorship": false,
- "excluded_reason": null,
- "jobs_spec_basis": "Eightfold careers site returns 404 on 2026-10-20; Workday trimblecareers lists 196 jobs, all reposted 2026-10-19, so it is the live board",
- "dropped": []
+  "company": "Trimble",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer",
+      "url": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---NJ-Princeton/Software-Engineer_R57982",
+      "location": "Princeton, NJ",
+      "opened": "2026-10-22",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-30",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Trimble MAPS Data Integration SWE; requires BS in CS and 'professional or academic proficiency' in a language; no years line, no lead duties",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-11-01",
+  "last_cycle_basis": "tracker first seen: Software Engineer 1 - SketchUp Warehouse Platform Team, Westminster CO (2025-11-01); no longer on board",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://trimblecareers.trimble.com/careers",
+  "jobs_spec": "wd:trimble/wd1/trimblecareers",
+  "evidence": "Workday board (217, full) read 2026-10-27: Princeton NJ Software Engineer R57982 live via API (start 2026-10-26, end 2026-10-30), BS only, no years. Other US SWE ask 3-5+ yrs (Corvallis, Sunnyvale tools), embedded/clearance, or own architecture (Lake Oswego R57827).",
+  "confidence": "medium",
+  "dropped": [],
+  "checked": "2026-10-27"
 }

@@ -1,7 +1,7 @@
 {
   "company": "LinkedIn",
   "tier": 2,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120K-$195K",
+      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120,000 - $195,000",
       "no_sponsorship": false
     },
     {
@@ -27,22 +27,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120K-$195K",
+      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120,000 - $195,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Systems and Infrastructure",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158161003",
+      "location": "Bellevue, WA",
+      "opened": "2026-10-27",
+      "date_source": "smartrecruiters releasedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120,000 - $195,000",
       "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000153827538",
-      "reason": "gone: jobs.py detail says CLOSED (SmartRecruiters active=false)"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "tracker first seen 2025-09-02: 'Associate Product Builder (APB) - Rotational Program', Mountain View / San Francisco",
+  "last_cycle_basis": "tracker first seen 2025-09-02: Associate Product Builder (APB) - Rotational Program, Mountain View / San Francisco",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://linkedin.com/jobs",
   "jobs_spec": "sr:LinkedIn3",
-  "evidence": "sr:LinkedIn3 board (232, full) re-read 2026-10-20: no new-grad SWE title. Two SWE postings (AI Platform, Systems and Infrastructure) live, ask 1+ years basic, pay from $120K, counted as unlabeled. AI Engineer posting now closed. Associate Engineer Data Center is not software.",
+  "evidence": "sr:LinkedIn3 board (full, 209) read 2026-10-27: no new-grad SWE title. Three US SWE postings (AI Platform and Systems and Infrastructure in Mountain View, Systems and Infrastructure in Bellevue) live via API, basic 1+ years, pay from $120K, counted as unlabeled. Associate Engineer, Data Center is not SWE.",
   "confidence": "medium"
 }

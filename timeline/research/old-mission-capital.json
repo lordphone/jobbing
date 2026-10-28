@@ -1,7 +1,7 @@
 {
   "company": "Old Mission Capital",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": "2027 graduates, August start",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "2027 Graduate Program title; development program for college graduates",
       "no_sponsorship": false
     },
     {
@@ -44,14 +44,14 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-14",
   "last_cycle_basis": "tracker history: College Graduates Junior Software Engineer / New Grad 2026 first seen 2025-07-14",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/old-mission-capital",
   "jobs_spec": "ashby:old-mission-capital",
-  "evidence": "ashby:old-mission-capital full board (40) re-read 2026-10-20: 2027 Graduate Program SWE (Chicago, Jul 13), Chicago C++ and Python SWE (2+ yrs) counted. NY C++ 5+, London 3+, Research Infra and Senior roles out. Junior Trading Ops/DevOps (0-2 yrs) is ops, left out.",
-  "confidence": "medium",
-  "dropped": [],
-  "jobs_spec_basis": "careers page iframe embeds jobs.ashbyhq.com/old-mission-capital; gh board now empty; ashby board lists same jobs"
+  "jobs_spec_basis": "careers page iframe embeds jobs.ashbyhq.com/old-mission-capital; gh board now empty; ashby board lists same jobs",
+  "evidence": "ashby:old-mission-capital full board (39) read 2026-10-27: 2027 Graduate Program SWE (Chicago, Jul 13) live; Chicago C++ (2+ yrs) and Python SWE kept as earlier counted. NY C++ 5+, Research Infra 4+, London and Senior out. Junior Trading Ops/DevOps is ops, left out.",
+  "confidence": "medium"
 }

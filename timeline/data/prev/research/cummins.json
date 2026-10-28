@@ -1,16 +1,35 @@
 {
- "company": "Cummins",
- "status": "closed",
- "postings": [],
- "last_cycle_opened": "2025-11-03",
- "last_cycle_basis": "tracker history: Software Engineer I (Indiana) first seen 2025-11-03",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
- "jobs_spec": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
- "evidence": "Full Oracle board (1237) read 2026-10-19: no US entry software title; 2027 Early Career software roles are China only. Tracker lead Electronic Systems Engineer - Software 2433277 shows no posted dates (unposted); req 2434164 is gone. Treated as closed.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "tier": 5,
- "dropped": []
+  "company": "Cummins",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Electronic Systems Engineer - Software",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427178",
+      "location": "Columbus, IN",
+      "opened": "2026-10-26",
+      "date_source": "oracle posted",
+      "deadline": "2026-11-23",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Experience: Entry level/Early career professional'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277",
+      "reason": "shell: no posted dates, not in the job list (replaced by new req 2427178)"
+    }
+  ],
+  "last_cycle_opened": "2025-11-03",
+  "last_cycle_basis": "tracker first seen Software Engineer I, Indiana, 2025-11-03",
+  "jobs_page": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
+  "jobs_spec": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
+  "evidence": "Full Oracle board (1199) 2026-10-26: new req 2427178 Electronic Systems Engineer - Software (Columbus IN) posted today, entry level/early career, ends 2026-11-23, in the job list. Status changed from closed. Other US entry roles are non-software.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

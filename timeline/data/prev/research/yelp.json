@@ -1,16 +1,16 @@
 {
   "company": "Yelp",
   "tier": 4,
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2024-11",
   "last_cycle_basis": "tracker first-seen 2024-11-26: Entry Level Software Engineer (Canada: Montreal/Vancouver/Calgary/Toronto), two cycles ago; no US new-grad SWE Jul 2025-Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://yelp.careers",
   "jobs_spec": null,
-  "evidence": "yelp.careers browser search 2026-10-19: 'software engineer' gives 3 results (two Senior ML Engineers, Solutions Engineer API). No entry-level SWE; Yelp moved engineering hiring to Canada.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "yelp.careers (Phenom) full list read via its search API 2026-10-26: 19 jobs total, only engineering roles are two Senior ML Engineers (US, Toronto) and Solutions Engineer API Integration; rest sales, product, marketing, community. No entry-level SWE this cycle.",
+  "confidence": "high"
 }

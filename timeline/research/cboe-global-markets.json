@@ -1,8 +1,4 @@
 {
- "company": "Cboe Global Markets",
- "tier": 4,
- "checked": "2026-10-20",
- "status": "open",
  "postings": [
   {
    "title": "Software Engineer",
@@ -18,18 +14,17 @@
    "no_sponsorship": true
   }
  ],
- "last_cycle_opened": null,
- "last_cycle_basis": "No last-cycle (2025-07 to 2026-01) new-grad SWE posting found in tracker history.",
+ "dropped": [],
  "excluded_reason": null,
  "no_sponsorship": false,
+ "checked": "2026-10-27",
+ "company": "Cboe Global Markets",
+ "tier": 4,
+ "status": "open",
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No last-cycle (2025-07 to 2026-01) new-grad SWE posting found in tracker history.",
  "jobs_page": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE",
  "jobs_spec": "wd:cboe/wd1/External_Career_CBOE",
- "evidence": "2026-10-20 Workday full board (117): Associate Software Engineer, Web (KC) is gone (page not found, off board). Software Engineer (KC real-time C++, mentored, 2+ yrs ideal, no sponsorship) kept as unlabeled. Chicago Software Engineer requires 2+ yrs and owns projects, left out; other SWE roles need 5+ yrs.",
- "confidence": "medium",
- "dropped": [
-  {
-   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2",
-   "reason": "gone: browser page says 'The page you are looking for doesn't exist' and it is not on the Workday board list"
-  }
- ]
+ "evidence": "Workday full board (112) 2026-10-27: KC Software Engineer (C++, mentored, 2+ yrs ideal, no visa sponsorship) counted as unlabeled, live via API. Chicago SWE R-4636 needs 2+ yrs plus requirements gathering and technical design, left out as unclear; Backend Clearing, DevEx need 5+ yrs.",
+ "confidence": "medium"
 }

@@ -1,16 +1,17 @@
 {
  "company": "BuzzFeed",
  "tier": 5,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "no_program_found",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": "2024-07",
- "last_cycle_basis": "tracker history: 2024-07 opening, two years ago",
+ "last_cycle_basis": "tracker history: iOS Software Engineer first seen 2024-07-02 (Greenhouse), two years ago",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://www.buzzfeed.com/about/jobs",
  "jobs_spec": null,
- "evidence": "buzzfeed.com/about/jobs openings section empty when read in browser 2026-10-20; no API board found; web search shows only a Senior Software Engineer listing and no entry SWE.",
- "confidence": "low"
+ "evidence": "buzzfeed.com/about/jobs read in browser 2026-10-27: Openings widget uses greenhouse board buzzfeed, API returns 404, no openings listed. No postings at all, so no entry SWE role. Last tracker iOS SWE was 2024-07.",
+ "confidence": "medium",
+ "jobs_spec_basis": "page widget calls greenhouse board buzzfeed, API 404, nothing listed"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Dolby Laboratories",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,17 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requirements: \"Bachelor’s or Master’s in Computer Science and/or Electrical Engineering\"; no years of experience required; $137,100-$188,300",
+      "level_basis": "Requirements: \"Bachelor\u2019s or Master\u2019s in Computer Science and/or Electrical Engineering\"; no years of experience required; $137,100-$188,300",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: only 2024-07-12 New Grad Software Engineer Intern (Fall 24); nothing 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.dolby.com/careers",
   "jobs_spec": "eightfold:jobs.dolby.com/dolby.com",
-  "evidence": "Eightfold board (47 US) 2026-10-20: Video Software Engineer (Sunnyvale) requires BS/MS, no years, no senior duties, live via API. DVIP SWE in Test and research roles read experienced.",
-  "confidence": "medium"
+  "evidence": "Eightfold board (39 US) and posting read via Eightfold API 2026-10-27: Video Software Engineer (Sunnyvale) live, BS/MS, no years, no senior duties; counted unlabeled (borderline). DVIP QA is test and experience-heavy, other engineers senior/staff.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

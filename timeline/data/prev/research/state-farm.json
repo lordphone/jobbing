@@ -1,7 +1,6 @@
 {
   "company": "State Farm",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -18,16 +17,16 @@
       "no_sponsorship": true
     },
     {
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobs.statefarm.com/main/jobs/45888",
-      "location": "Bloomington, IL; Richardson, TX",
-      "opened": "2026-08-18",
+      "title": "Full Stack Software Engineer - Bloomington, IL",
+      "url": "https://jobs.statefarm.com/main/jobs/46400",
+      "location": "Bloomington, IL",
+      "opened": "2026-09-30",
       "date_source": "jibe posted_date",
-      "deadline": "2026-10-20",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "2-3 years of professional software development experience, or a Bachelor's degree in Computer Science plus relevant internship/project experience",
+      "level_basis": "No years of experience required; plain 'Software Engineer' title, no lead or mentor duties; pay $85,500 - $125,000 (same $85,500 floor as the Entry/Mid Java role)",
       "no_sponsorship": true
     }
   ],
@@ -38,6 +37,7 @@
   "no_sponsorship": true,
   "jobs_page": "https://jobs.statefarm.com/main/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API (jobs.statefarm.com/api/jobs) read in full 2026-10-19, 235 jobs. Two live SWE roles read entry-level (1-4 yrs Java; 2-3 yrs or bachelor's plus internship), both say no work authorization sponsorship. Frontend/Fullstack AWS need 3 yrs; GenAI, Pega, ServiceNow no entry basis. Deadline 10-20 carried from earlier run. Interns otherwise.",
-  "confidence": "medium"
+  "evidence": "Jibe API (jobs.statefarm.com/api/jobs, 241 jobs, all read) 2026-10-26: Java Entry/Mid 43198 (1-4 yrs Java) and Full Stack SWE 46400 (no years, $85.5K-$125K) live and counted, both no sponsorship. Availability Engineering SWE 45998 (no years, infra/ops heavy) borderline, left out. Frontend/Fullstack AWS need 3 yrs; Lead/Senior, Pega, GenAI, ServiceNow left out.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

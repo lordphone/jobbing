@@ -1,7 +1,7 @@
 {
   "company": "Skild AI",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -18,14 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE history; tracker shows only Robot Operator (2025-06) and Manufacturing Software Engineer (2026-05).",
+  "last_cycle_basis": "No new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/skildai-careers",
   "jobs_spec": "gh:skildai-careers",
-  "evidence": "gh:skildai-careers full (52) 2026-10-19: US SWE/ML roles want deep expertise, track records or 3-5+ yrs. Full Stack Developer (San Mateo) still live on board, lists only BS and basic skills, no years: kept as unlabeled, unclear and old (2025-01). Frontend/Android role says 'architect', left out.",
-  "confidence": "low",
-  "dropped": [],
-  "jobs_spec_basis": "careers page job links go to job-boards.greenhouse.io/skildai-careers; ashby:skildai does not exist; kept gh:skildai-careers"
+  "evidence": "gh:skildai-careers full board (52) read 2026-10-26: no new-grad title; other US SWE/ML roles need 3-5+ yrs, own or architect systems, or state no level. Full Stack Developer (San Mateo) live via API, BS only, no years; kept as unlabeled, borderline.",
+  "confidence": "medium"
 }

@@ -13,7 +13,7 @@
       "grad_window": "recent graduates or early-career (no class year)",
       "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Entry-Level Engineer title; recent graduates and early-career, no years stated",
       "no_sponsorship": true
     },
     {
@@ -31,19 +31,6 @@
     },
     {
       "title": "Full Stack Software Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/00071043911/full-stack-software-developer/",
-      "location": "Plano, TX",
-      "opened": "2026-10-17",
-      "date_source": "page text (published date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "no years required; 'will be mentored by experienced professionals'; basic React and exposure to Spring Boot; bachelor's or master's in CS",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Full Stack Software Developer",
       "url": "https://careers.cognizant.com/us-en/jobs/46857/full-stack-software-developer/",
       "location": "United States (no city listed)",
       "opened": "2026-10-15",
@@ -52,18 +39,18 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "no years required; mentorship from experienced professionals; bachelor's and/or master's degree; willingness to learn",
+      "level_basis": "no years required; $65,000; bachelor's and/or master's degree; willingness to learn",
       "no_sponsorship": true
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has zero Cognizant entries; no dated first-party record of last cycle's US entry SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "dropped": [],
+  "last_cycle_basis": "no dated first-party record of last cycle's US entry SWE posting",
   "jobs_page": "https://careers.cognizant.com/us-en/jobs/",
   "jobs_spec": null,
-  "evidence": "WebFetch of four posting pages 2026-10-20: Entry-Level Engineer Python/GenAI (Bridgewater), AI Engineer IOA (Dallas), two Full Stack Software Developer postings show Apply now, no years required, no sponsorship ($65K). Two pages carry boilerplate that the position may not be currently available. Site search would not filter, so the full US list (2112) was not read.",
+  "evidence": "2026-10-27: browser pane unavailable; WebFetch of the 3 posting pages shows Apply now, $65K, no work-authorization sponsorship, no years. Two carry 'not currently available' talent-community boilerplate, so may be pipeline reqs. Site job list not searchable.",
   "confidence": "low",
-  "checked": "2026-10-20",
-  "dropped": []
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

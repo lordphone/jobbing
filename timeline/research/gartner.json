@@ -1,16 +1,16 @@
 {
   "company": "Gartner",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no SWE date; tracker shows only Data Analyst 2026 graduates (2025-09-14) and Associate Data Scientist Spring 2027 (2026-08-12)",
+  "last_cycle_basis": "tracker: Data Analyst 2026 graduates (Stamford/Irving) 2025-09-14; analytics, not SWE",
   "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://gartner.wd5.myworkdayjobs.com/EXT",
   "jobs_spec": "wd:gartner/wd5/EXT",
-  "evidence": "Workday full board (771) read 2026-10-20: 2027 graduate roles are sales/account/client success, Data Analyst and Associate Data Scientist (Stamford, Master's level; data science, not SWE). Engineering roles are Lead/Principal/Director or Gurgaon. No entry-level SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "postings": [],
-  "no_sponsorship": false
+  "evidence": "Workday board (786, full) 2026-10-27: engineering roles are Gurgaon, Director/Lead level, or security/IT ops; US early-career roles are sales, client success and data science, not SWE. No entry SWE.",
+  "confidence": "medium"
 }

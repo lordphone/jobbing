@@ -1,17 +1,16 @@
 {
   "company": "Eversource Energy",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-07-31",
-  "last_cycle_basis": "tracker first seen: IT Associate Software Engineer (Hybrid), Westwood MA and other sites, https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hy",
+  "last_cycle_basis": "tracker first seen 2025-07-31",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.eversource.com/search-jobs/",
   "jobs_spec": "wd:eversource/wd1/ExternalSite",
-  "jobs_spec_basis": "jobs.eversource.com lists the same postings as the eversource.wd1 Workday ExternalSite board (e.g. Associate Engineer, Grid Operations Technology)",
-  "evidence": "Workday board 2026-10-20 (234, full) and jobs.eversource.com search: Associate Engineer roles are power/grid/gas engineering (Grid Operations Technology is DMS/SCADA support, no sponsorship), not software. Only IT software role is IT Senior Engineer, Software. IT Associate Software Engineer posted Jul 2025 is closed; may repost.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": []
+  "evidence": "Workday full board (223) read 2026-10-27: Associate Engineer roles are power, grid, gas and telecom engineering (Grid Operations Technology is electric operations); no software engineer or new-grad developer role.",
+  "confidence": "medium"
 }

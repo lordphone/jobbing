@@ -1,30 +1,43 @@
 {
-  "company": "Thomson Reuters",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Research Engineer (Thomson Reuters Labs)",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Research-Engineer_JREQ198562",
-      "location": "Eagan, MN; Toronto, ON; New York, NY; Ann Arbor, MI; Frisco, TX; McLean, VA; Washington, DC; San Francisco, CA; Los Angeles, CA; Irvine, CA",
-      "opened": "2026-10-02",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-30",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 'At least 2 years software engineering experience'; US pay $101,600-$188,700; no senior duties or level in title",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-11-20",
-  "last_cycle_basis": "tracker history: 'AI Engineer - New Grad - Materia AI' (Toronto) first seen 2025-11-20; US 'AI Engineer - New Grad - Materia' (Eagan/NYC) 2026-01-06; recurring through 2026-06-08",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
-  "jobs_spec": "wd:thomsonreuters/wd5/External_Career_Site",
-  "evidence": "Workday full board (480) 2026-10-20 plus detail API (endDate 2026-10-30). Research Engineer asks 2 yrs, borderline entry, listed. McLean SWE and GenAI roles need clearance and US citizenship; other SWE need 3+ yrs or senior. No New Grad Materia posting now.",
-  "confidence": "medium"
+ "company": "Thomson Reuters",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Research Engineer (Thomson Reuters Labs)",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Research-Engineer_JREQ198562",
+   "location": "Eagan, MN; Toronto, ON; New York, NY; Ann Arbor, MI; Frisco, TX; McLean, VA; Washington, DC; San Francisco, CA; Los Angeles, CA; Irvine, CA",
+   "opened": "2026-10-02",
+   "date_source": "workday startDate",
+   "deadline": "2026-10-30",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 'At least 2 years software engineering experience'; US pay $101,600-$188,700; no senior duties or level in title",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694",
+   "location": "Eagan, MN; Frisco, TX; Ann Arbor, MI; Toronto, ON",
+   "opened": "2026-10-21",
+   "date_source": "workday startDate",
+   "deadline": "2026-12-31",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "asks '1-3+ years of professional software development experience'; US pay $82,000-$152,200; no level or senior duties",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-11-20",
+ "last_cycle_basis": "tracker history: 'AI Engineer - New Grad - Materia AI' (Toronto) first seen 2025-11-20; US 'AI Engineer - New Grad - Materia' (Eagan/NYC) 2026-01-06; recurring through 2026-06-08",
+ "jobs_page": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
+ "jobs_spec": "wd:thomsonreuters/wd5/External_Career_Site",
+ "evidence": "Workday full board (497) re-read 2026-10-27; Research Engineer (2 yrs, deadline 2026-10-30) and Eagan Software Engineer (1-3+ yrs, $82K start, deadline 2026-12-31) both still live. McLean SWE requires clearance/citizenship; AI/ML and data engineers 3+; unlabeled borderline kept.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

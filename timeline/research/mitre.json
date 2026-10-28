@@ -1,7 +1,5 @@
 {
-  "company": "MITRE",
-  "tier": 4,
-  "status": "open",
+  "checked": "2026-10-27",
   "postings": [
     {
       "title": "Software Engineer",
@@ -11,25 +9,22 @@
       "date_source": "workday startDate (cxs)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'early-career Software Engineer'; requires '0-2 years of relevant experience'; $86,000-$129,000; clearance required: None",
+      "level_basis": "'early-career Software Engineer'; requires '0\u20132 years of relevant experience'; $86,000-$129,000; clearance required: None",
       "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://mitre.wd5.myworkdayjobs.com/MITRE/job/McLean-VA/Associate-Cloud-Developer_R117424-1",
-      "reason": "gone: browser page shows 'The page you are looking for doesn't exist' and the Workday API returns permission denied"
-    }
-  ],
+  "dropped": [],
+  "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history for MITRE; no dated last-cycle posting found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "MITRE",
+  "tier": 4,
+  "status": "open",
   "jobs_page": "https://careers.mitre.org/us/en",
   "jobs_spec": null,
-  "evidence": "Workday posting page opened 2026-10-20: Software Engineer (0-2 yrs, early-career, clearance None) live with Apply. Associate Cloud Developer now shows page not found. Phenom search lists Intermediate and Senior developer roles (not entry). Many MITRE roles need clearance; this one does not.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "last_cycle_opened": null,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Read careers.mitre.org Phenom index (195 jobs, all pages) 2026-10-27 and Workday detail. Software Engineer R117614 (early-career, 0-2 yrs, clearance None) live, counted. Associate cyber/modeler roles need US citizen; IC roles need TS/SCI; others senior.",
+  "confidence": "medium"
 }

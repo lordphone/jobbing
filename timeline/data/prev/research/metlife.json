@@ -1,8 +1,7 @@
 {
   "company": "MetLife",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "unknown",
+  "status": "open",
   "postings": [
     {
       "title": "Junior AI Engineer",
@@ -12,20 +11,21 @@
       "date_source": "page text (Posted Date)",
       "deadline": "at least 2027-01-04",
       "grad_window": null,
-      "live_verified": "no",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Junior title, grade 08T, 'under the direction of senior engineers'; no required years, preferred 0-1 years; $55,800-$75,000",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Junior Software Engineer (Bridgewater NJ, JobDetail 18191, posted 2026-07-27 per aggregators, page now 404) is this cycle, not last; no Jul 2025-Jan 2026 record found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers site blocks automated fetches (HTTP 406); Avature board, no API",
-  "evidence": "metlifecareers.com returned HTTP 406 Not Acceptable to curl, WebFetch and the browser pane on 2026-10-19, so the board could not be re-read. Earlier today a run read Jr AI Engineer (Cary NC, 20496) live with Apply, posted 2026-10-06; kept here unverified. Retry later.",
-  "confidence": "low"
+  "jobs_spec_basis": "careers site is an Avature board with no API; searched over HTTP",
+  "evidence": "MetLife Avature page opened in browser 2026-10-26: Junior AI Engineer (Cary NC, 20496) live with Apply, posted 2026-10-06, suggests 0-1 yrs. Earlier HTTP searches found Software Development Engineer 21288 asks 2-3 yrs and other roles 4+ yrs or non-US.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

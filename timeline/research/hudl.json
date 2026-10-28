@@ -1,16 +1,16 @@
 {
   "company": "Hudl",
+  "tier": 4,
+  "checked": "2026-10-27",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-12-08",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer \u2013 May Graduates' Lexington, KY; Lincoln, NE first seen 2025-12-08 (https://job-boards.greenhouse.io/hudl/jobs/7449433)",
-  "jobs_page": "https://job-boards.greenhouse.io/hudl",
-  "jobs_spec": "gh:hudl",
-  "evidence": "gh:hudl board (35) read 2026-10-20: US SWE roles are Senior and managers; only new US engineering post is QA Engineer (2+ yrs testing), not SWE. No US new-grad SWE live. Last cycle had a May Graduates SWE role (2025-12).",
-  "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "jobs.py history: Software Engineer \u2013 May Graduates Lexington, KY; Lincoln, NE first seen 2025-12-08 (https://job-boards.greenhouse.io/hudl/jobs/7449433)",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://job-boards.greenhouse.io/hudl",
+  "jobs_spec": "gh:hudl",
+  "evidence": "gh:hudl full board (35) 2026-10-27: US engineering is Senior SWE, Engineering Manager and a QA Engineer (Lincoln/Omaha), not SWE; SWE II roles are London/Italy. Last cycle had a May Graduates SWE posting in December, so a track exists but none live.",
+  "confidence": "high"
 }

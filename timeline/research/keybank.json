@@ -1,16 +1,16 @@
 {
+  "company": "KeyBank (KeyCorp)",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
+  "status": "not_yet",
+  "postings": [],
   "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker first seen 2026-06-03 Associate Software Engineer (outside Jul 2025-Jan 2026 window); nothing in window",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": [],
-  "company": "KeyBank (KeyCorp)",
-  "status": "not_yet",
-  "last_cycle_opened": "2026-06-03",
-  "last_cycle_basis": "tracker first-seen 2026-06-03 'Associate Software Engineer' Brooklyn OH (closed; off-cycle spring posting)",
   "jobs_page": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:keybank/wd5/External_Career_Site",
-  "evidence": "Workday full board (280) 2026-10-20: 2027 programs are risk, analytics and quantitative rotational, not SWE. Software Engineer - GCP GenAI asks 3+ yrs. The 2026-06-03 Associate Software Engineer is not listed.",
-  "confidence": "high"
+  "evidence": "Workday board (600, full) plus API searches 'software', 'technology analyst', '2027 program' read 2026-10-27: Software Engineer GCP GenAI needs 3+ yrs; rest senior/lead. Live 2027 programs are marketing, analytics, credit and internships, not software. Tracker saw an Associate Software Engineer in Jun 2026.",
+  "confidence": "medium"
 }

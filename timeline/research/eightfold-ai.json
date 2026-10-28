@@ -1,7 +1,6 @@
 {
   "company": "Eightfold AI",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,9 +11,9 @@
       "date_source": "eightfold API creation time",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "requires '1-2 years of professional software engineering experience'; feature-building duties; base $120,750-$161,000",
+      "level_basis": "Looking for '1-2 years of professional software engineering experience'; no senior duties",
       "no_sponsorship": false
     },
     {
@@ -25,9 +24,9 @@
       "date_source": "eightfold API creation time",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "requires '1-2 years of professional software engineering experience'; feature-building duties; base $120,750-$161,000",
+      "level_basis": "Looking for '1-2 years of professional software engineering experience'; no senior duties",
       "no_sponsorship": false
     }
   ],
@@ -38,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://app.eightfold.ai/careers/search",
   "jobs_spec": "eightfold:app.eightfold.ai/eightfold.ai",
-  "evidence": "Board API (22 US, full) 2026-10-20 and posting detail via apply API: two Santa Clara SWE AI Agentic roles live, ask 1-2 yrs, no senior duties. MLE asks 1-3+ yrs with model work, senior and staff roles left out.",
-  "confidence": "medium"
+  "evidence": "Careers page (51 jobs) and both job pages opened in browser 2026-10-27 (API 403 today): two Santa Clara SWE AI Agentic Product Dev roles live with Apply, require 1-2 yrs, no senior duties. MLE asks 1-3+ yrs plus Master's/PhD, left out. Other roles senior/India. Second posting page date 2026-10-13, earlier 2026-09-02 kept.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

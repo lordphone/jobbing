@@ -1,7 +1,7 @@
 {
   "company": "Karman Space & Defense",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
@@ -11,6 +11,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://karman-sd.com/job-openings/",
   "jobs_spec": null,
-  "evidence": "ADP WorkforceNow requisitions API read in full 2026-10-20 (256 openings). No software or developer titles; Development Engineer I is aerospace mechanical systems. No entry-level SWE.",
+  "jobs_spec_basis": "careers page embeds ADP WorkforceNow recruitment widget (cid 82153303-...); requisitions API paged in full; no jobs.py spec",
+  "evidence": "ADP WorkforceNow requisitions API paged in full (265) 2026-10-27: no software or developer titles; Systems/Design/Development/Quality Engineer I-III are aerospace roles, plus CNC/CMM programmers and ERP admin. No entry-level SWE.",
   "confidence": "high"
 }

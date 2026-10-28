@@ -1,7 +1,6 @@
 {
   "company": "CACI International",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,17 +13,19 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Early Career title; Salesforce developer; asks 1+ yrs; pay $63,300-$129,700; Minimum Clearance Required to Start: None",
+      "level_basis": "Early Career title; Minimum Clearance Required to Start: None; asks 1+ yr Salesforce",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-07-15",
-  "last_cycle_basis": "tracker first seen Entry Level Software Engineer - GUI Development, Rochester NY",
+  "last_cycle_basis": "tracker first seen 2025-07-15 (Entry Level Software Engineer - GUI Development, Rochester NY)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://caci.wd1.myworkdayjobs.com/external",
   "jobs_spec": "wd:caci/wd1/external",
-  "evidence": "Workday board (1759) read 2026-10-19: Web Application Developer - Early Career (Chantilly/Reston, clearance None) live. Junior SWE (TS/SCI), Entry Level C# SWE (US citizen), Junior Cyber SWE (Secret), NASA Early Career (citizen/PR) are not countable.",
-  "confidence": "medium"
+  "evidence": "Workday board re-read 2026-10-26: Web Application Developer - Early Career (clearance None, 1+ yr Salesforce) still live via API, counted. Junior SWE Sarasota (TS/SCI), Entry-Level C# (Secret, citizen), Software Safety Dev 0-2 yrs (Secret) need clearance; other SWE are 3+ yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "jobs_spec_basis": "saved board wd:caci/wd1/external confirmed; board lists CACI roles"
 }

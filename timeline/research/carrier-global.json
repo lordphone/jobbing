@@ -1,30 +1,21 @@
 {
-  "company": "Carrier Global",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Digital Technology Leadership Program",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
-      "location": "Palm Beach Gardens, FL",
-      "opened": "2026-08-23",
-      "date_source": "tracker first seen (repost; this req startDate is 2026-10-19)",
-      "deadline": "2026-11-13",
-      "grad_window": "2026 or 2027 graduate, June 2027 start",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "no_sponsorship": true,
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting in jobs.py history; DTLP first seen 2026-08-23 is this cycle",
-  "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
-  "jobs_spec": "wd:carrier/wd5/jobs",
-  "evidence": "Workday board (1040, full) 2026-10-20: DTLP req 30216139 live (ends 2026-11-13), repost of earlier reqs, kept opened 2026-08-23. 2026/27 grads, June 2027 start, no sponsorship; digital rotations, not pure SWE. Validation Software Engineer not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "tier": 5,
-  "excluded_reason": null,
-  "dropped": []
+ "company": "Carrier Global",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Leadership-Program_30216139",
+   "reason": "gone: not on the full wd:carrier board (1045 postings) listing; detail lookup blocked"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No 2025-07..2026-01 new-grad SWE posting found; Digital Technology Leadership Program first seen 2026-08-23 is this cycle",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://carrier.wd5.myworkdayjobs.com/jobs",
+ "jobs_spec": "wd:carrier/wd5/jobs",
+ "evidence": "wd:carrier full board (1045) read 2026-10-27: Digital Technology Leadership Program (this-cycle, seen 2026-08-23) absent. Engineering Leadership Program is general engineering degrees, not software. Software roles are interns, senior or non-US.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

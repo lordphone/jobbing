@@ -1,21 +1,16 @@
 {
-  "company": "Realtor.com (Move, Inc., News Corp)",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://boards.greenhouse.io/rdccareers/jobs/7800190003",
-      "reason": "gone: job 7800190003 returned 404 and board rdccareers not found"
-    }
-  ],
-  "last_cycle_opened": "2026-07-10",
-  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend (junior), Austin TX https://boards.greenhouse.io/rdccareers/jobs/7800190003",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.realtor.com",
-  "jobs_spec": null,
-  "evidence": "Greenhouse board rdccareers gone and job 7800190003 returned 404 on 2026-10-19; careers.realtor.com blocked by Cloudflare 403 on 2026-10-20 (WebFetch and curl), so no successor board could be checked. Web search found only expired or third-party listings.",
-  "confidence": "low"
+ "company": "Realtor.com (Move, Inc., News Corp)",
+ "tier": 5,
+ "status": "unknown",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found; a 2026 summer SWE intern (Austin) existed but no full-time new-grad posting dated",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers.realtor.com",
+ "jobs_spec": null,
+ "evidence": "2026-10-27: careers.realtor.com returns Cloudflare 403 to curl and WebFetch, and the shared browser pane was at its tab cap so no own tab could be opened. Web search shows only old intern and junior listings. Board unreadable, so unknown, retry later.",
+ "confidence": "low",
+ "checked": "2026-10-27"
 }

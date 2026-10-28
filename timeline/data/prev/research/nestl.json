@@ -1,16 +1,30 @@
 {
- "company": "Nestlé",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "no_program_found",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "Tracker: only UK (York) digital placements (2025-11) and a Canada Jr Data Engineer product-ownership contract (North York, 2026-07-24); no US SWE history",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://jobdetails.nestle.com",
- "jobs_spec": null,
- "evidence": "jobdetails.nestle.com US keyword searches 2026-10-19 (software, developer, data engineer, digital, graduate, AI): tech roles are controls specialists, Senior/Expert data and analytics. No entry SWE.",
- "confidence": "medium"
+  "company": "Nestlé",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Full Stack Engineer (Hybrid)",
+      "url": "https://jobdetails.nestle.com/job/New-York-Full-Stack-Engineer-%28Hybrid%29-NY-10001/1446697433/",
+      "location": "New York, NY",
+      "opened": "2026-10-13",
+      "date_source": "page text (datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "required: 'Bachelor's degree or equivalent relevant experience'; '3+ years' is listed as preferred; no lead duties",
+      "no_sponsorship": true
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE tracker history found",
+  "jobs_page": "https://jobdetails.nestle.com",
+  "jobs_spec": null,
+  "evidence": "Browser 2026-10-26: jobdetails.nestle.com US search (349 results across software, engineer, data, graduate queries) and the posting page: Nespresso Full Stack Engineer (NY) shows Apply now; bachelor's required, 3+ yrs preferred, -126K. Posting says not eligible for visa sponsorship. Other US tech roles are senior, controls or analyst; no new-grad SWE program.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,30 +1,21 @@
 {
  "company": "Chick-fil-A",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "closed",
- "postings": [
+ "postings": [],
+ "dropped": [
   {
-   "title": "Digital Fellow",
    "url": "https://careers.chick-fil-a.com/corporate/jobs/20298",
-   "location": "Atlanta, GA",
-   "opened": "2026-08-17",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
+   "reason": "gone: page returns 404 and the Jibe API does not list it"
   }
  ],
  "last_cycle_opened": null,
- "last_cycle_basis": "Tracker first seen 2026-08-17: Digital Fellow req 20298 (2-yr rotation, SWE or analyst tracks), now 404; class year unconfirmed",
+ "last_cycle_basis": "no tracker first-seen in window; nothing found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.chick-fil-a.com/corporate/jobs",
  "jobs_spec": null,
- "evidence": "Jibe API 2026-10-19: tech roles are Sr. Lead Software/Data Engineer. Digital Fellow req 20298 returns 404 and is absent from API, so closed.",
- "confidence": "medium",
- "dropped": []
+ "evidence": "Jibe API read 2026-10-26 (75 jobs): tech roles are Sr. Lead Software/Data Engineer, Director, Lead analysts. Digital Fellow req 20298 (seen 2026-08-17 by earlier run) page returns 404 and keyword search finds nothing. No live entry-level SWE.",
+ "confidence": "medium"
 }

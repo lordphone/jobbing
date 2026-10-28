@@ -1,7 +1,6 @@
 {
   "company": "GE Vernova",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -13,18 +12,19 @@
       "deadline": "2026-11-30",
       "grad_window": "Bachelor's completed by the start date",
       "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "'entry-level AI Engineer ... designed for a recent graduate'; pay $70,400-$105,600",
+      "level": "unlabeled",
+      "level_basis": "'As an entry-level AI Engineer'; 'designed for a recent graduate'",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-12-10",
   "last_cycle_basis": "tracker: Software Engineering Specialist (Bellevue, WA) first seen 2025-12-10; level unclear",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.gevernova.com/jobs",
   "jobs_spec": "wd:gevernova/wd5/vernova_externalsite",
-  "evidence": "Workday full board (2203) 2026-10-19 + detail: AI Engineer Greenville live (ends 2026-11-30), designed for a recent graduate. Left out: Roanoke Software Engineer (only for U.S. Persons), Roanoke firmware, Edison EEDPs (non-software), SRE Bellevue 3+ yrs, internships.",
-  "confidence": "medium"
+  "evidence": "Workday full board (2257) read 2026-10-26. AI Engineer Greenville live (ends 2026-11-30), entry-level recent graduate. Left out: Roanoke SWE (U.S. Persons only), Bellevue SRE (3+ yrs), EEDP (rotational, non-SWE), embedded/firmware early career.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": []
 }

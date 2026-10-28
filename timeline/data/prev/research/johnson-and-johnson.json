@@ -1,30 +1,21 @@
 {
-  "company": "Johnson & Johnson",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, GUI",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--GUI_R-103326-1",
-      "location": "Santa Clara, CA",
-      "opened": "2026-10-14",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-22",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Employer will accept a Master's degree in Computer Science and 2 years of experience; pay $137,000-$165,000; no lead/architecture duties (Auris Health)",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker history: R&D Software Engineer 1 (Santa Clara) first seen 2025-11-01, reposted 2026-01-28",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
-  "jobs_spec": "wd:jj/wd5/JJ",
-  "evidence": "Full Workday board (1340) 2026-10-19; Software Engineer, GUI (Auris Health) live via CXS, canApply, ends 2026-10-22, accepts MS + 2 yrs, no lead duties. Co-ops, senior/lead/principal software and AI roles, and general leadership programs not counted.",
-  "confidence": "medium"
+ "company": "Johnson & Johnson",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineer--GUI_R-103326-1",
+   "reason": "gone: not on the full Workday board (1900); detail lookup failed twice, earlier run saw 'page doesn't exist'"
+  }
+ ],
+ "last_cycle_opened": "2025-11-01",
+ "last_cycle_basis": "tracker history: R&D Software Engineer 1 (Santa Clara) first seen 2025-11-01, reposted 2026-01-28",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jj.wd5.myworkdayjobs.com/JJ",
+ "jobs_spec": "wd:jj/wd5/JJ",
+ "evidence": "Workday full board (1900) read 2026-10-26: Software Engineer, GUI (Auris) not listed. Remaining US tech roles are senior (Global Platform Engineer $137K+, Service Innovation 4+ yrs), co-ops, or analysts. TLDP 2027 is Europe only; Cork grad automation is Ireland.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

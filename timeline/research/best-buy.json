@@ -1,16 +1,16 @@
 {
   "company": "Best Buy",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for US new-grad SWE; Canada board tracker entries are non-SWE",
+  "last_cycle_basis": "No tracker history or dated new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bestbuy.com/bby?id=all_jobs&spa=1",
   "jobs_spec": null,
-  "evidence": "jobs.bestbuy.com US search in browser 2026-10-20: 'software engineer' 1 job (Senior Engineer), 'engineer' 12 (Senior, Manager, Associate Technical Fellow, one Data Scientist). No entry SWE or new-grad program.",
+  "evidence": "No API. Read the og:title of all 3234 job pages from the jobs.bestbuy.com sitemap 2026-10-27: tech titles are Engineering Manager (RMN Platform), Senior Engineer (In-Home Services), Data Scientist, Associate Technical Fellow, Engineer II (Supply Chain). No entry-level SWE or new-grad listing.",
   "confidence": "medium"
 }

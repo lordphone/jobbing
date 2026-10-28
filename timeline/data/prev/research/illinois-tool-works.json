@@ -1,8 +1,11 @@
 {
   "company": "Illinois Tool Works (ITW)",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker record for ITW itself in Jul 2025-Jan 2026 (only unrelated Kitware hits); summer 2027 SWE internships posted 2026-09/10",
+  "jobs_page": "https://careers.itw.com/us/en",
+  "jobs_spec": "wd:itw/wd5/External",
   "postings": [
     {
       "title": "Software Engineer",
@@ -14,7 +17,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'seeking an early career Software Engineer'; Bachelor's CS/SE; $68,000 - $84,000",
+      "level_basis": "'seeking an early career Software Engineer'; Bachelor's CS/SE, no years asked; $68,000 - $84,000",
       "no_sponsorship": false
     },
     {
@@ -27,17 +30,14 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'minimum of 1 years of industry experience'; contributor/collaborator duties, no lead or mentor",
+      "level_basis": "'minimum of 1+ years of industry experience'; contributor duties, no lead or mentor",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record for ITW itself in Jul 2025-Jan 2026 (only unrelated Kitware hits); summer 2027 SWE internships posted 2026-09/10",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.itw.com/us/en",
-  "jobs_spec": "wd:itw/wd5/External",
-  "evidence": "Workday full board (774) 2026-10-19: early career Software Engineer (Rogers MN, JR8874, matches tracker) and 1+ yr embedded Software Engineer (Appleton WI) still live. Not counted: Orting WA (technical lead of vendors), Grand Prairie (Senior, mentors), embedded SWE roles needing 4+ yrs. No new-grad program.",
+  "evidence": "Workday board (789, full) 2026-10-26, software titles screened. Rogers MN early career SWE and Appleton embedded SWE (1+ yr) live via API. Left out: Orting SWE (2+ yrs), Grand Prairie (2+ yrs), embedded roles 4+ yrs, Troy ERP developer (D365 experience), interns.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

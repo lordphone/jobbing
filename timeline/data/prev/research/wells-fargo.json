@@ -1,16 +1,16 @@
 {
   "company": "Wells Fargo",
   "tier": 5,
-  "status": "not_yet",
-  "postings": [],
+  "status": "closed",
   "last_cycle_opened": "2026-01-14",
-  "last_cycle_basis": "tracker history: Engineering Associate postings (Chandler AZ / Irving TX) first seen 2026-01-14; Technology Analyst Development Program SWE (London only) 2025-10-29",
-  "no_sponsorship": true,
+  "last_cycle_basis": "tracker history: Engineering Associate postings (Chandler AZ / Irving TX) first seen 2026-01-14, more Mar-May 2026; Technology Analyst Development Program SWE (London only) 2025-10-29",
   "jobs_page": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs",
   "jobs_spec": "wd:wf/wd1/WellsFargoJobs",
-  "evidence": "jobs.py board 2026-10-19 (1439 postings, full): US engineering roles are Lead/Senior/Principal/Manager; no entry-level full-time SWE live. Only 2027 early-career items are banking summer programs. Last cycle's Engineering Associate roles came in January.",
-  "confidence": "high",
-  "checked": "2026-10-19",
+  "evidence": "Workday full board (820) read 2026-10-26: US engineering roles are Lead/Senior/Principal/Manager; only 2027 programs are internships. Engineering Associate R-572941 (first seen 2026-09-30) is not on the board and its API now returns 403 while live reqs return data.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
   "dropped": [],
-  "excluded_reason": null
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

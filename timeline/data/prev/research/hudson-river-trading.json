@@ -1,7 +1,6 @@
 {
  "company": "Hudson River Trading",
  "tier": 1,
- "checked": "2026-10-19",
  "status": "open",
  "postings": [
   {
@@ -18,13 +17,14 @@
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": "2025-10-30",
- "last_cycle_basis": "jobs.py history: Software Engineer \u2013 2026 Grads - C++ or Python (NYC, gh_jid=7053514) first seen 2025-10-30; its lower job ID than Aug 2025 postings suggests it was posted earlier",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "jobs.py history: Software Engineer \u2013 2026 Grads - C++ or Python (NYC, gh_jid=7053514) first seen 2025-10-30; lower job ID than Aug 2025 postings suggests earlier posting",
  "jobs_page": "https://job-boards.greenhouse.io/wehrtyou",
  "jobs_spec": "gh:wehrtyou",
- "evidence": "gh:wehrtyou full board (86) read 2026-10-19; Greenhouse API page for SWE (C++ or Python) 2027 Grads live (undergrad or master's eligible for full-time in 2027, $300K), no citizenship or deadline text. Left out: Junior Trading Systems Engineer (2+ yrs Linux admin), quant, trading support, hardware/DV, interns.",
- "confidence": "high"
+ "evidence": "gh:wehrtyou full board (87) read 2026-10-26; SWE (C++ or Python) 2027 Grads live via Greenhouse API, no citizenship text. Left out: Junior Trading Systems Engineer (Linux ops), quant Algorithm Developer, trading support, hardware/DV, PhD, SWE C++/Python experienced roles (top-dev profile, $200K+).",
+ "confidence": "high",
+ "dropped": [],
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

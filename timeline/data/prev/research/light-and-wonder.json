@@ -1,16 +1,21 @@
 {
  "company": "Light & Wonder",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "closed",
  "postings": [],
- "dropped": [],
+ "dropped": [
+  {
+   "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683",
+   "reason": "gone: not on Workday board list (125) and the page in the browser shows 'The page you are looking for doesn't exist.'"
+  }
+ ],
  "last_cycle_opened": "2025-09-15",
- "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Reno/Las Vegas, 2025-09-15 (https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511)",
+ "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Reno/Las Vegas, https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
  "jobs_spec": "wd:lnw/wd5/lightwonderexternalcareers",
- "evidence": "Workday board read in full 2026-10-19 (124). This-cycle Associate Software Engineer R322683 (Reno/Las Vegas, first seen 2026-08-18) is gone: its page in the browser says the page doesn't exist. Remaining US roles are Advanced SWE and SDET, not entry.",
- "confidence": "high"
+ "evidence": "Workday board read in full 2026-10-26 (125). US: Advanced Software Engineer (Las Vegas, master's, team mentor duty) not entry; Associate QA Engineer, Software (Chicago, 0-2 yrs, posted 2026-10-26) is QA/test so left out; Associate SWE R322683 gone. Other associate dev roles are India/Bulgaria.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

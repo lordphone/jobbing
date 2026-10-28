@@ -1,16 +1,16 @@
 {
  "company": "Vantage Data Centers",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "no_program_found",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found; tracker history rows for other 'Vantage' companies (Revantage, First Advantage) are not Vantage Data Centers",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://vantagedc.wd1.myworkdayjobs.com/Vantage",
  "jobs_spec": "wd:vantagedc/wd1/Vantage",
- "evidence": "Workday full board 2026-10-19 (179): software titles are ServiceNow Developer (3+ yrs), Sr Data Engineer, DBA and facilities roles. No entry software or AI titles this cycle or last.",
- "confidence": "high",
- "last_cycle_basis": "jobs.py history: only Senior Billing & Telemetry Engineer (2026-03); no entry SWE",
- "postings": [],
- "no_sponsorship": false,
- "last_cycle_opened": null,
- "excluded_reason": null,
- "dropped": []
+ "evidence": "Workday full board (179) 2026-10-26: engineering titles are Critical Facilities, IT Infrastructure (2-4 yrs, infrastructure), ServiceNow Developer (3+ yrs) and senior roles, plus construction, finance and ops. No entry-level SWE this or last cycle; no tracker history.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

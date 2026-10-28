@@ -1,30 +1,31 @@
 {
-  "company": "Markel Group",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Software-Engineer_R0023877",
-      "location": "Richmond, VA",
-      "opened": "2026-09-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Requires '2+ years in software engineering, data engineering, or business intelligence development'; no lead/mentor duties; $74,320-$127,710; Power BI/DAX/SQL focus",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE history found for Markel",
-  "jobs_page": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers",
-  "jobs_spec": "wd:markelcorp/wd5/GlobalCareers",
-  "evidence": "Workday full board (145) + CXS 2026-10-19: Software Engineer (Richmond, canApply true) is Power BI/DAX/BI focused, 2+ yrs, no senior duties, $74K-$128K; borderline unlabeled, kept as counted earlier. Posting: no visa sponsorship now or future. 2027 IT internship only otherwise.",
-  "confidence": "medium",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+ "company": "Markel Group",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer",
+   "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Software-Engineer_R0023877",
+   "location": "Richmond, VA",
+   "opened": "2026-09-16",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Requires '2+ years in software engineering, data engineering, or business intelligence development'; no lead/mentor duties; $74,320-$127,710; Power BI/DAX/SQL focus",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_basis": "no SWE new-grad history found",
+ "jobs_page": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers",
+ "jobs_spec": "wd:markelcorp/wd5/GlobalCareers",
+ "jobs_spec_basis": "saved board confirmed; careers page job links go to this Workday site",
+ "evidence": "Workday full board (139) + posting text 2026-10-26: Software Engineer (Richmond, start 2026-09-16) still listed, BI/Power BI focused, 2+ yrs, no visa sponsorship. Borderline unlabeled, kept as earlier run counted it; no senior duties.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "last_cycle_opened": null,
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

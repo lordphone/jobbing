@@ -1,7 +1,6 @@
 {
   "company": "Tyler Technologies",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -9,12 +8,51 @@
       "url": "https://jobs.jobvite.com/tylertech/job/o45IAfwb",
       "location": "Augusta, ME; Yarmouth, ME",
       "opened": "on or before 2026-10-07",
-      "date_source": "page text (no posted date shown)",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Requires '1+ years' professional experience; salary USD 65,000-80,000; works with a team, no lead duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer (Priority Based Budgeting)",
+      "url": "https://jobs.jobvite.com/tylertech/job/oXHjAfwh",
+      "location": "Yarmouth, ME; Orono, ME",
+      "opened": "on or before 2026-10-21",
+      "date_source": "page text (no date shown; seen 2026-10-21)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires BS and '1-3 years of software design and development experience'; no lead or mentoring duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.jobvite.com/tylertech/job/owuizfwB",
+      "location": "Yarmouth, ME",
+      "opened": "on or before 2026-10-21",
+      "date_source": "page text (no date shown; seen 2026-10-21)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires BS and '1-3 years of software design and development experience'; no lead or mentoring duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - State Compliance",
+      "url": "https://jobs.jobvite.com/tylertech/job/otrMAfw0",
+      "location": "Troy, MI; Remote (US)",
+      "opened": "on or before 2026-10-21",
+      "date_source": "page text (no date shown; seen 2026-10-21)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires 'Two or more years of professional software development experience'; salary USD 80,000-95,000; no lead duties",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +63,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/tylertech/jobs",
   "jobs_spec": null,
-  "evidence": "Jobvite SWE list read via WebFetch 2026-10-19 (43). Application Developer (Maine, 1+ yr) kept from earlier run. Left out: Software Engineer Yarmouth/Orono and Yarmouth (1-3 yrs, unclear), others 2-3+ yrs, Application Engineer (SECRET clearance), Summer 2027 interns.",
-  "confidence": "low"
+  "evidence": "Jobvite searches re-run and each candidate page re-read 2026-10-26. Four 1-3 or 2+ yr roles with no lead duties still live and counted. Left out: Madison SWE (mentors, on-call, 2+ yrs), new Yarmouth SWE (3+ yrs), Drupal developer, Senior/Lead roles, Philippines roles, Summer 2027 interns.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

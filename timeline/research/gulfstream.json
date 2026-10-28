@@ -1,30 +1,21 @@
 {
   "company": "Gulfstream",
   "tier": 5,
-  "status": "open",
-  "postings": [
+  "checked": "2026-10-27",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "AI Specialist",
       "url": "https://careers.gulfstream.com/en/jobs/236712/ai-specialist/",
-      "location": "Savannah, GA",
-      "opened": "2026-09-25",
-      "date_source": "page text (JobPosting datePosted)",
-      "deadline": "2026-10-30",
-      "grad_window": "considers candidates graduating Fall 2026; degree complete before start",
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "'Entry-level AI engineer focused on implementation and learning'; requires 1 year experience; works 'under guidance'",
-      "no_sponsorship": true
+      "reason": "gone: page returns 404 Not found on 2026-10-27 and the job is absent from careers search results"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker history shows entry-level IT developer postings (Reporting Developer 1, Entry-Level ERP Application Developer) only in Apr-May 2026, outside the Jul-Jan window",
+  "last_cycle_basis": "no new-grad SWE posting found in tracker history (only 2026 entry analyst/developer roles)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.gulfstream.com/en/jobs/",
   "jobs_spec": null,
-  "evidence": "Careers search 2026-10-20 (software, developer, entry level, engineer I, data, ML, AI): only entry-level SWE-type role is AI Specialist (Savannah, Apply present, Posting End Date 10/30/2026, no sponsorship, Fall 2026 grads considered). Others are 2027 interns, senior or non-software.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": []
+  "evidence": "Careers searches 2026-10-27 (software, early career, new grad, engineer I, graduate, 2027): AI Specialist 236712 (live 2026-10-21) now 404. Software and Performance Engineer needs 5 yrs; Completions Tech Spec I is hardware; rest are interns or non-software.",
+  "confidence": "medium"
 }

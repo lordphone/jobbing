@@ -1,16 +1,16 @@
 {
   "company": "Molina Healthcare",
+  "tier": 5,
   "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history or university SWE page found",
-  "jobs_page": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
-  "jobs_spec": "oracle:hckd.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle full board re-read 2026-10-19 (392 listed): tech roles are analysts, senior engineers and VP/Director; no entry-level SWE posting this or last cycle.",
-  "confidence": "medium",
-  "dropped": [],
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history; no entry-level software posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+  "jobs_page": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
+  "jobs_spec": "oracle:hckd.fa.us2.oraclecloud.com/CX",
+  "evidence": "2026-10-26: Oracle board read in full (389): tech roles are Senior ServiceNow Engineer, Senior Engineer Big Data, Director IT; rest are sales, investigator and analyst roles. No entry-level SWE this cycle.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

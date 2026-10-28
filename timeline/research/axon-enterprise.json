@@ -1,16 +1,21 @@
 {
-  "company": "Axon Enterprise",
-  "tier": 3,
-  "status": "closed",
-  "last_cycle_opened": "2025-08-28",
-  "last_cycle_basis": "tracker first seen 2025-08-28 (trackers.json tracker_last_cycle)",
-  "jobs_page": "https://job-boards.greenhouse.io/axon",
-  "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse board read in full (488) 2026-10-20. Software Engineer I (US, published 2026-10-16, job 7703668003) is NOT ON THE BOARD, API 404. Remaining SWE I roles are Bucharest and Ho Chi Minh City; tracker lead is an AfroTech-attendees-only talent-community posting, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "postings": [],
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "Axon Enterprise",
+ "tier": 3,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": "2025-08-28",
+ "last_cycle_basis": "tracker first seen 2025-08-28 (earlier file)",
+ "jobs_page": "https://job-boards.greenhouse.io/axon",
+ "jobs_spec": "gh:axon",
+ "evidence": "Greenhouse board read in full (466) 2026-10-27: US roles are Sr/Staff/II SWE or non-software entry roles (Mission Engineer, firmware, support). Software Engineer 1 (7703668003, tracker first seen 2026-10-16) is gone: not on the board or its detail lookup. Vietnam/UK SWE roles are non-US.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://job-boards.greenhouse.io/axon/jobs/7703668003",
+   "reason": "gone: Greenhouse API says not on the board and it is absent from the full board list (tracker first seen 2026-10-16)"
+  }
+ ],
+ "no_sponsorship": false,
+ "excluded_reason": null
 }

@@ -1,16 +1,21 @@
 {
  "company": "Southwest Airlines",
- "status": "closed",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "unknown",
  "postings": [],
+ "dropped": [
+  {
+   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Research-Developer_R-2026-73737",
+   "reason": "gone: not in full Workday board (42) on 2026-10-27; cxs detail returns 403, WebFetch blank; page not seen"
+  }
+ ],
  "last_cycle_opened": "2025-09-25",
  "last_cycle_basis": "tracker history: Associate Software Engineer / Associate Data Engineer - Direct College Hire (Dallas) first seen 2025-09-25",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://swa.wd1.myworkdayjobs.com/external",
  "jobs_spec": "wd:swa/wd1/external",
- "evidence": "Full Workday board (57) and CXS searches (associate software, software engineer, college) 2026-10-20: only India Office software roles and non-software US roles; Dallas Operations Research Developer is $132K+, not entry. Tracker-seen Associate Software Engineer Direct College Hire (Dallas, 2026-09-21) not on the board, so closed.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+ "evidence": "Workday full board (42) read 2026-10-27. Previously counted Operations Research Developer (Dallas) is not listed; its cxs detail returns 403, WebFetch blank, browser pane tab cap reached, so page not seen. New Dallas Software Engineer Crew Scheduling is intermediate level, mentors juniors, not entry. Retry in browser.",
+ "confidence": "low"
 }

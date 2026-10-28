@@ -1,30 +1,21 @@
 {
- "company": "Adyen",
- "tier": 4,
- "status": "open",
- "postings": [
-  {
-   "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
-   "location": "Chicago, IL",
-   "opened": "2026-09-11",
-   "date_source": "greenhouse first_published",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "Title 'Junior'; 'Junior Full-Stack Developers'; requires 4-year CS degree, no years; $120,000-$135,000",
-   "no_sponsorship": true
-  }
- ],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "No new-grad SWE tracker hit for 2025 (only a Technical Support Engineer, Chicago, 2025-10-21)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/adyen",
- "jobs_spec": "gh:adyen",
- "evidence": "2026-10-20 Greenhouse full board (243): Full-Stack Developer (Junior), Chicago, live via API, first published 2026-09-11, requires a 4-year CS degree and no years; will not sponsor H-1B CAP. Other US/Toronto engineering is senior, MTS SF, or 5+ yrs. Earlier Software Engineer 1 Front End (8153114) is gone.",
- "confidence": "medium",
- "checked": "2026-10-20"
+  "company": "Adyen",
+  "tier": 4,
+  "checked": "2026-10-27",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+      "reason": "gone: not on board, API 404, page redirects to board ?error=true"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No new-grad SWE tracker hit for 2025 (only a Technical Support Engineer, Chicago, 2025-10-21)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/adyen",
+  "jobs_spec": "gh:adyen",
+  "evidence": "Greenhouse full board (245) 2026-10-27: Full-Stack Developer (Junior) Chicago (first published 2026-09-11) is not on the board, API 404, and its page redirects to the board with error=true. Gone, so closed. Other US engineering is MTS or senior.",
+  "confidence": "medium"
 }

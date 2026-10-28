@@ -1,16 +1,16 @@
 {
-  "company": "Zoho",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
+  "last_cycle_basis": "no tracker history or posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Zoho",
+  "tier": 4,
+  "status": "no_program_found",
   "jobs_page": "https://careers.zohocorp.com/jobs/Careers",
   "jobs_spec": null,
-  "evidence": "careers.zohocorp.com page data 2026-10-19: only Technical Support Engineers (India) and Sales Executives listed; no US new-grad developer roles.",
-  "confidence": "high"
+  "evidence": "2026-10-26: careers.zohocorp.com page data re-fetched (2 openings only: Technical Support Engineers and Sales Executives); no developer or new-grad role, none in US or Canada. Earlier web search found no Austin new-grad program.",
+  "confidence": "medium"
 }

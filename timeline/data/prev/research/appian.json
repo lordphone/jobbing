@@ -1,7 +1,6 @@
 {
   "company": "Appian",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": "2027 graduates",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "2027 Graduates in title",
       "no_sponsorship": true
     },
     {
@@ -38,6 +37,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/appian",
   "jobs_spec": "gh:appian",
-  "evidence": "Greenhouse full board (161) 2026-10-19 plus API posting text: Associate Application Engineer (2027 Graduates) and Product Engineer (Associate level) both listed. Tracker SWE 8041241 not on board. Database Engineer needs US citizen/Secret, Associate Consultant roles are consulting, left out.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (163) re-read 2026-10-26: Associate Application Engineer (2027 Graduates, will not sponsor) and Product Engineer (Associate, works under senior engineers) live via API. Consulting, DevOps (2-4 yrs), security, Database Engineer roles left out.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "jobs_spec_basis": "saved board gh:appian confirmed; careers page uses this Greenhouse board"
 }

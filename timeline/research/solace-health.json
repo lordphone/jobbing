@@ -1,7 +1,7 @@
 {
   "company": "Solace Health",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -16,29 +16,15 @@
       "level": "new-grad title",
       "level_basis": "'College Grad 2027' in title; new college graduates graduating Dec 2026 - Jun 2027",
       "no_sponsorship": false
-    },
-    {
-      "title": "Associate Platform Engineer (College Grad 2027)",
-      "url": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd",
-      "location": "Redwood City, CA",
-      "opened": "2026-08-25",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": "Graduating Dec 2026 - Jun 2027; start July 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "'College Grad 2027' in title; new college graduates graduating Dec 2026 - Jun 2027",
-      "no_sponsorship": false
     }
   ],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "not found; no tracker history",
+  "last_cycle_opened": "2025-12-31",
+  "last_cycle_basis": "tracker first seen: Associate Software Engineer - College Grad 2026 (San Carlos, CA), jobs.py history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/solace",
   "jobs_spec": "ashby:solace",
-  "jobs_spec_basis": "solace.health/careers 'See all open positions' links to jobs.ashbyhq.com/solace",
-  "evidence": "Ashby full board (29) at jobs.ashbyhq.com/solace (linked from solace.health/careers) read 2026-10-20: two College Grad 2027 engineering postings (Associate Software Engineer, Associate Platform Engineer), Redwood City, start July 2027, published 2026-08-25.",
+  "evidence": "Ashby full board (23) 2026-10-27: Associate Software Engineer (College Grad 2027) live, Redwood City, grads Dec 2026-Jun 2027. Associate Data Scientist is not SWE; Technical Lead is senior.",
   "confidence": "high"
 }

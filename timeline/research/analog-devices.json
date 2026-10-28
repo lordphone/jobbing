@@ -1,43 +1,56 @@
 {
- "company": "Analog Devices",
- "tier": 5,
- "status": "open",
- "postings": [
-  {
-   "title": "Associate Embedded Software Engineer",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
-   "location": "Wilmington, MA; San Jose, CA; Durham, NC",
-   "opened": "2026-09-15",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  },
-  {
-   "title": "Associate Machine Learning Engineer",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1",
-   "location": "Boston, MA",
-   "opened": "2026-09-23",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": "2025-12-23",
- "last_cycle_basis": "tracker first-seen: Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), 2025-12-23 (UK Associate Engineer, Embedded Software 2025-10-23)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
- "jobs_spec": "wd:analogdevices/wd1/External",
- "evidence": "Workday full board 2026-10-20 (826): both counted postings (Associate Embedded Software Engineer, Associate Machine Learning Engineer) still live via API, Graduate Job req type, no end date. Associate ML Engineer prefers 2-5 yrs but is Associate level; Embedded SW is firmware-leaning. Toronto Embedded SWE is unlabeled mid-level, left out.",
- "confidence": "high",
- "checked": "2026-10-20",
- "dropped": []
+  "company": "Analog Devices",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "opened": "2026-09-15",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Job Req Type: Graduate Job; 0-2 years of relevant experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Machine Learning Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1",
+      "location": "Boston, MA",
+      "opened": "2026-09-23",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Job Req Type: Graduate Job",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Engineer \u2013 SDK and Tools Development",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Associate-Engineer---SDK-and-Tools-Development_R266973-1",
+      "location": "Vancouver, BC",
+      "opened": "2026-10-23",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Job Req Type: Graduate Job; title Associate Engineer",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-12-23",
+  "last_cycle_basis": "tracker first-seen: Associate Machine Learning Operations Engineer - MLOps (Burlington, MA), 2025-12-23 (UK Associate Engineer, Embedded Software 2025-10-23)",
+  "jobs_page": "https://analogdevices.wd1.myworkdayjobs.com/External",
+  "jobs_spec": "wd:analogdevices/wd1/External",
+  "evidence": "Workday full board (832) 2026-10-27: Associate Embedded Software Engineer (US), Associate ML Engineer (Boston) and Associate Engineer SDK and Tools (Vancouver) live via API, Job Req Type Graduate Job. Toronto Embedded Software Engineer has no level, left out. Export-control line is not a citizenship requirement.",
+  "confidence": "high",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

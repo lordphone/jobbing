@@ -1,16 +1,31 @@
 {
   "company": "Capital One",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
+  "checked": "2026-10-26",
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "location": "Toronto, ON",
+      "opened": "2026-07-19",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": "Degree obtained Sep 2025 - Sep 2026",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
-  "last_cycle_opened": "2025-09-09",
-  "last_cycle_basis": "tracker history: US Technology Development Program Associate first seen 2025-09-09 (McLean/Richmond/Plano); Toronto Associate SWE 2025-08-17",
+  "last_cycle_opened": "2025-08-17",
+  "last_cycle_basis": "Tracker first seen 2025-08-17 (Capital One new-grad SWE)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
   "jobs_spec": "wd:capitalone/wd12/Capital_One",
-  "evidence": "Workday full board (1962) 2026-10-19: only TDP Mexico 2027 (not US/Canada); no US or Toronto new-grad SWE. Earlier run found US TDP Feb 2027 (R244320) opened 2026-09 then off the board (closed). Engineer 3/4/5 titles are experienced.",
-  "confidence": "medium"
+  "evidence": "Workday full board (2002) re-read 2026-10-26. Toronto New Grad Card Expansion (R247320) live via API but requires degree obtained Sep 2025 to Sep 2026, a 2026-cycle leftover. No US entry SWE or TDP 2027 live; US SWE roles are Staff/Principal/Senior. Mexico TDP 2027 is out of region.",
+  "confidence": "medium",
+  "jobs_spec_basis": "saved board wd:capitalone/wd12/Capital_One confirmed; lists Capital One roles"
 }

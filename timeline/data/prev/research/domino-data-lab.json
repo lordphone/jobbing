@@ -1,43 +1,43 @@
 {
-  "company": "Domino Data Lab",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - New Grad, 2027",
-      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
-      "location": "New York City, NY; Remote (US)",
-      "opened": "2026-09-09",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "Graduating Spring 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Title 'New Grad, 2027'; 'Graduating in Spring 2027'; New Grad pay $150,000-$165,000",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Forward Deployed Engineer - New Grad, 2027",
-      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
-      "location": "New York City, NY; Remote (US)",
-      "opened": "2026-09-09",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "Graduating Spring 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Title 'New Grad, 2027'; 'Graduating in Spring 2027'; New Grad pay $150,000-$165,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-10-03",
-  "last_cycle_basis": "Tracker first seen 'Software Engineer - New Grad - Campus Recruiting 2026' (SF) and 'Forward Deployed Engineer - New Grad - 2026' (NYC) https://app.careerpuck.com/job-board/domino-data-lab/job/7275094",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/dominodatalab",
-  "jobs_spec": "gh:dominodatalab",
-  "evidence": "gh:dominodatalab full board (22) 2026-10-19; both New Grad 2027 postings (SWE, FDE) live via greenhouse API, NYC or Remote US, Spring 2027 grads, visa sponsorship may be available. Other FDE roles ask 1-3 yrs customer-facing, not entry-labeled; interns excluded.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+ "company": "Domino Data Lab",
+ "tier": 4,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - New Grad, 2027",
+   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+   "location": "New York City, NY",
+   "opened": "2026-09-09",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": "Graduating Spring 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title 'New Grad, 2027'; 'Graduating in Spring 2027'",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Forward Deployed Engineer - New Grad, 2027",
+   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
+   "location": "New York City, NY",
+   "opened": "2026-09-09",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": "Graduating Spring 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title 'New Grad, 2027'; 'Graduating in Spring 2027'",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-03",
+ "last_cycle_basis": "Tracker first seen 'Software Engineer - New Grad - Campus Recruiting 2026' (SF) and 'Forward Deployed Engineer - New Grad - 2026' (NYC) https://app.careerpuck.com/job-board/domino-data-lab/job/7275094",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/dominodatalab",
+ "jobs_spec": "gh:dominodatalab",
+ "evidence": "gh:dominodatalab full board (22) and Greenhouse API 2026-10-26: both New Grad 2027 postings (SWE, FDE) live, NYC, Spring 2027 grads, visa sponsorship may be available. Other FDE roles are unlabeled or experienced; interns left out.",
+ "confidence": "high"
 }

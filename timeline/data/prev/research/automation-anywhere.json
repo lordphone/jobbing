@@ -1,30 +1,16 @@
 {
-  "company": "Automation Anywhere",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "unknown",
-  "postings": [
-    {
-      "title": "Software Engineer",
-      "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/San-Jose-California/Software-Engineer_JR1492",
-      "location": "San Jose, CA",
-      "opened": "2026-10-06",
-      "date_source": "workday startDate (prior check saw it opened 2026-10-06; API now shows startDate 2026-10-08, likely refreshed)",
-      "deadline": "2026-10-12",
-      "grad_window": null,
-      "live_verified": "no",
-      "level": "unlabeled",
-      "level_basis": "requires \"1+ years of professional experience in full stack development\"; $100,000\u2013120,000; production-support engineer reporting to Sr. Director, no lead duties",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs",
-  "jobs_spec": "wd:automationanywhere/wd5/AutomationAnywhereJobs",
-  "evidence": "Workday board (34, full) 2026-10-19 does not list San Jose Software Engineer JR1492 (endDate 2026-10-12), likely closed. Detail API and cxs job URL return 403, WebFetch empty, browser pane unavailable, so page not seen. Other engineering is India/Japan/sales.",
-  "confidence": "low"
+ "company": "Automation Anywhere",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs",
+ "jobs_spec": "wd:automationanywhere/wd5/AutomationAnywhereJobs",
+ "evidence": "Workday full board (37) read 2026-10-26: Software Engineer JR1492 (San Jose, opened 2026-10-06) absent from board and its page shows 'The page you are looking for doesn't exist' in browser, so closed kept. Remaining US roles are sales, director or product; engineering openings are non-US.",
+ "confidence": "medium"
 }

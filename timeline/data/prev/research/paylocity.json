@@ -1,16 +1,16 @@
 {
   "company": "Paylocity",
-  "status": "closed",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) return Job Not Found, so no dated opening confirmed.",
-  "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
-  "jobs_spec": null,
-  "evidence": "All-listings read by HTTP 2026-10-19 (249 postings, all pages). Earlier Associate Engineer Software 47607 (AI Labs, Pittsford NY) is no longer listed and the recruiting page redirects. Engineer Software and Data Engineer are Guadalajara only; US engineers senior/staff.",
-  "confidence": "medium",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
+  "status": "not_yet",
   "postings": [],
   "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) returned Job Not Found, undated, so no opening confirmed.",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
+  "jobs_spec": null,
+  "evidence": "Browser pane 2026-10-26: Product & Technology list (23) and Early Career list read in full. US software roles are Senior/Staff/Manager; Engineer Software and Data Engineer are Guadalajara, Database Engineer Bengaluru. Early career is interns only. No entry SWE in US.",
+  "confidence": "high"
 }

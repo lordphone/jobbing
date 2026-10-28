@@ -1,30 +1,35 @@
 {
   "company": "Viasat",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Embedded Software Engineer, Early Career",
-      "url": "https://careers.viasat.com/jobs/6723",
-      "location": "Carlsbad, CA; Tempe, AZ; Marlborough, MA",
-      "opened": "2026-08-19",
+      "title": "Software Engineer - Automation, Early Career",
+      "url": "https://careers.viasat.com/jobs/6330",
+      "location": "Carlsbad, CA",
+      "opened": "2026-10-27",
       "date_source": "viasat jibe api posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": "Early Career title; 0-3 yrs",
+      "level_basis": "Early Career tag; 'intended for someone with 0-3 years'; Graduate Development Program; no citizenship or clearance line, only 'Valid Work Permit or Visa'",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://careers.viasat.com/jobs/6723",
+      "reason": "ruled out: 'Citizenship: This position requires U.S. Citizenship and an active SECRET or TOP SECRET security clearance'"
+    }
+  ],
   "last_cycle_opened": "2025-06-07",
   "last_cycle_basis": "tracker first seen: Full Stack Software Engineer, Early Career (Carlsbad, CA; Remote) https://careers.viasat.com/jobs/4457",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": false,
   "jobs_page": "https://careers.viasat.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-20 (197 for software). Embedded Software Engineer Early Career 6723 (0-3 yrs) still live but requires U.S. citizenship and active SECRET or TOP SECRET clearance. Other entry-level SWE roles carry the US Citizenship tag or need 3+ yrs.",
-  "confidence": "high"
+  "evidence": "Jibe API (full US list) and posting opened in browser 2026-10-27: 6330 Early Career SWE (Carlsbad), posted 10-27, 0-3 yrs, no clearance. Early Career Embedded SWE 6722/6723 require citizenship plus SECRET clearance; 6907 Duluth is tagged US Citizenship. Changed from excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

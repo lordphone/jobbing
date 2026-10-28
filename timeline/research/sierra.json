@@ -1,30 +1,30 @@
 {
-  "company": "Sierra",
-  "tier": 2,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Agent (New Grad 2027)",
-      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
-      "location": "San Francisco, CA; New York, NY",
-      "opened": "2026-08-31",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": "New Grad 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-09-01",
-  "last_cycle_basis": "jobs.py history: Software Engineer - New Grad - Agent first seen 2025-09-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/Sierra",
-  "jobs_spec": "ashby:Sierra",
-  "evidence": "Ashby full board (189) re-read 2026-10-20: Software Engineer, Agent (New Grad 2027) SF/NY live, published 2026-08-31. Singapore and London copies and interns excluded. Other SWE roles ask 4+ years or state no level.",
-  "confidence": "high"
+ "company": "Sierra",
+ "tier": 2,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Agent (New Grad 2027)",
+   "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+   "location": "San Francisco, CA; New York, NY",
+   "opened": "2026-08-31",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-09-01",
+ "last_cycle_basis": "tracker first seen 2025-09-01",
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.ashbyhq.com/Sierra",
+ "jobs_spec": "ashby:Sierra",
+ "evidence": "Ashby full board (214) read 2026-10-27; SWE Agent (New Grad 2027) live via detail, SF and NY. London/Singapore copies excluded. Other US SWE roles ask 4-5+ years or are experienced.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null
 }

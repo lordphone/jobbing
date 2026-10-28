@@ -1,16 +1,21 @@
 {
-  "company": "Bose",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: 'New Grad: Machine Learning Engineer - Masters/PhD' Framingham first seen 2024-08-14 (two cycles ago); nothing for the 2025-26 cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers",
-  "jobs_spec": "wd:boseallaboutme/wd503/Bose_Careers",
-  "evidence": "Workday full board (87) 2026-10-20: US engineering roles are Senior or Principal, DSP (5+ yrs), Software Customer Resident Engineer (5+ yrs) and Software Integration Engineer (no entry label). Only co-ops are entry. No 2027 entry-level SWE.",
-  "confidence": "medium"
+ "company": "Bose",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": "2024-08-14",
+ "last_cycle_basis": "tracker: 'New Grad: Machine Learning Engineer - Masters/PhD' Framingham first seen 2024-08-14 (two cycles ago); nothing found for the 2025-26 cycle",
+ "jobs_page": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers",
+ "jobs_spec": "wd:boseallaboutme/wd503/Bose_Careers",
+ "evidence": "Workday full board (87) 2026-10-27: the Framingham Machine Learning Engineer (opened 2026-10-21, counted last run) is gone and its page says it does not exist, so closed. Software Integration Engineer asks 'strong experience'; Software Customer Resident Engineer needs 5+ yrs; rest are senior or co-op.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Machine-Learning-Engineer_R29312",
+   "reason": "gone: not on the full 87-posting Workday board 2026-10-27, and its page in the browser says 'The page you are looking for doesn't exist'"
+  }
+ ],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

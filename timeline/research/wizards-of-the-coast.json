@@ -1,17 +1,17 @@
 {
   "company": "Wizards of the Coast",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
+  "last_cycle_basis": "No tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/hasbro?departments%5B%5D=4024747009",
   "jobs_spec": "gh:hasbro",
-  "evidence": "Hasbro Greenhouse full board (107) 2026-10-20: US engineering is Senior/Principal/SDE II; 2027 Summer IT & Software Internships is an internship, not counted. No entry-level SWE.",
+  "evidence": "gh:hasbro full board (113) read 2026-10-27: US engineering is Principal/Senior/Lead/SDE II; 2027 Summer IT & Software Internship is an internship; Montreal DevOps is outside Toronto/Vancouver. No entry-level SWE.",
   "confidence": "high",
-  "jobs_spec_basis": "careers page links to gh:hasbro; Wizards of the Coast roles are posted on the Hasbro board (Renton WA)"
+  "checked": "2026-10-27",
+  "dropped": [],
+  "jobs_spec_basis": "company.wizards.com/en/careers links to job-boards.greenhouse.io/hasbro (Wizards department filter)"
 }

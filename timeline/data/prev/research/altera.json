@@ -1,16 +1,30 @@
 {
   "company": "Altera",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-26",
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Cloud Data Engineer",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/AI-Cloud-Data-Engineer_R03371-1",
+      "location": "Toronto, ON, Canada",
+      "opened": "2026-10-23",
+      "date_source": "workday postedOn",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 1+ years' experience with machine learning, deep learning, Generative AI; Bachelor's or Master's; CAD 110K-120K",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "No tracker history for Altera new-grad SWE.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://altera.wd1.myworkdayjobs.com/altera",
   "jobs_spec": "wd:altera/wd1/altera",
-  "evidence": "Workday full board (200) 2026-10-19: only new-grad title is Junior Verification Engineer (Jerusalem). US software roles checked (EDA Software Engineer 6+ yrs, Software Validation 3+, DevSecOps 6+). No entry-level software role this cycle or last.",
-  "confidence": "high"
+  "evidence": "Workday board (206, full) 2026-10-26: Toronto AI Cloud Data Engineer still live, asks 1+ yrs ML, no senior duties, counted as unlabeled entry-level (borderline). Only new-grad title is Junior Verification Engineer (Israel, hardware). Other US/Toronto software roles need 3+ to 8+ yrs; interns excluded.",
+  "confidence": "medium"
 }

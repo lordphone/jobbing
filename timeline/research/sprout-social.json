@@ -1,16 +1,17 @@
 {
   "company": "Sprout Social",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: New Grad Associate Software Engineer opened 2024-10-31 (two cycles ago, sproutsocialcollege board); none seen in Jul 2025-Jan 2026 window",
+  "last_cycle_basis": "No new-grad SWE in 2025-07 to 2026-01; earlier cycle: New Grad Associate Software Engineer first seen 2024-10-31 (tracker)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://sproutsocial.com/careers/open-positions",
   "jobs_spec": "gh:sproutsocial",
-  "evidence": "Rechecked 2026-10-20 on full board API, same result. Greenhouse API 2026-10-19, 24 postings (full): only SWE roles are Staff SWEs in Poland; US roles are sales. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "2026-10-27: Greenhouse full board (22): engineering roles are Staff SWE and Sr Applied AI/ML Scientist in Poland/Ireland. Nothing entry-level or US.",
+  "confidence": "high",
+  "jobs_spec_basis": "saved board gh:sproutsocial confirmed; careers page job links carry gh_jid"
 }

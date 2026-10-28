@@ -1,16 +1,16 @@
 {
   "company": "SUSE",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
+  "last_cycle_basis": "no tracker history or new-grad program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://suse.wd3.myworkdayjobs.com/Jobsatsuse",
   "jobs_spec": "wd:suse/wd3/Jobsatsuse",
-  "evidence": "Workday full board 2026-10-19 (28): engineering/support roles are Germany/Korea; US roles are sales and solution architects. No US entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday full board (23) read 2026-10-26: only Premium Support Engineer roles (support, Europe/Korea) tagged engineering; rest sales and consulting. No US/Canada entry SWE or new-grad track.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

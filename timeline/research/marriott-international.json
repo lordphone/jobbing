@@ -1,21 +1,16 @@
 {
   "company": "Marriott International",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [
-    {
-      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
-      "reason": "gone: posting page shows 'This job is no longer available' and the requisition API returns nothing"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-05",
   "last_cycle_basis": "tracker first-seen: Associate Software Engineer - Platform Engineering, Bethesda MD, https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25174792",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
   "jobs_spec": "oracle:ejwl.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board 2026-10-20 (6690 listed of 13254, searched): no software roles besides senior or security architect. FLEX Associate SWE - CDP (26085377, posted 2026-07-10) page now says it is no longer available.",
+  "evidence": "Oracle board 2026-10-27 (keyword searched, not full, 6666 listed): no entry-level SWE. US software roles are FLEX temporary (2+ yrs), Senior, Director or Tech Lead. Last cycle's Associate SWE reqs are gone.",
   "confidence": "medium"
 }

@@ -1,0 +1,22 @@
+{
+  "company": "GMO",
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://jobs.lever.co/gmo/df44f4c5-cb3f-4960-a984-5b26acc72962",
+      "reason": "gone: not in lever:gmo board (9 jobs) on 2026-10-27 and the posting page returns HTTP 404"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history; none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.lever.co/gmo",
+  "jobs_spec": "lever:gmo",
+  "jobs_spec_basis": "gmo.com Americas careers page links to lever.co/gmo; board lists Boston GMO roles",
+  "evidence": "Lever board (9 jobs) 2026-10-27 has no technology role. Quantitative Technology Associate Class of 2027 (opened 2026-08-31, seen live 2026-10-26) is gone: not on the board and its page returns 404. Remaining roles are non-SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
+}

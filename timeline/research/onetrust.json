@@ -1,16 +1,16 @@
 {
   "company": "OneTrust",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or board history of a new-grad SWE posting",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/onetrust",
   "jobs_spec": "gh:onetrust",
-  "evidence": "Rechecked 2026-10-20 on full board API, same result. Greenhouse API 2026-10-19, 87 postings (full): both Atlanta Software Engineer reqs (7948281, 8167257) say 'looking for a Senior Software Engineer'; rest Senior/Staff or non-US. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (78) read 2026-10-27: Atlanta Software Engineer reqs 8167257 (text: looking for a Senior Software Engineer, $116K-$175K) and 7948281 are senior; Web Developer asks 3+ yrs; AI Systems Engineer is a platform role. Rest are Senior/Staff/Principal. No entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-27"
 }

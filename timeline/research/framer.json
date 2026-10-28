@@ -1,16 +1,16 @@
 {
   "company": "Framer",
   "tier": 3,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "None found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found",
   "jobs_page": "https://www.framer.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page 2026-10-20 (no API board): 6 engineering roles, all Senior/Staff/Principal/Tech Lead, remote; no new-grad track.",
-  "confidence": "medium"
+  "evidence": "Careers page (no API) fetched 2026-10-27: engineering roles are Senior/Staff/Principal (backend, product engineer, SRE). No entry-level SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

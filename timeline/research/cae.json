@@ -1,30 +1,16 @@
 {
-  "company": "CAE",
-  "tier": 5,
-  "status": "excluded",
-  "postings": [
-    {
-      "title": "MTS Software Engineer",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Charleston-South-Carolina/MTS-Software-Engineer_122969",
-      "location": "Charleston, SC",
-      "opened": "2026-08-10",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "1–3 years of experience in software development, systems integration, or engineering support roles",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2026-01-22",
-  "last_cycle_basis": "jobs.py history: Junior Machine Learning Engineer (Orlando/Tampa/Arlington) first seen 2026-01-22",
-  "excluded_reason": "citizenship",
-  "no_sponsorship": false,
-  "jobs_page": "https://cae.wd3.myworkdayjobs.com/career",
-  "jobs_spec": "wd:cae/wd3/career",
-  "evidence": "Workday full board 2026-10-20 (386). US entry-ish SWE roles (MTS Software Engineer Charleston, ATS Software Engineer Altus, 1-3 yrs) say 'Government contract requirements, only U.S. citizens are eligible for this role' and need DoD clearance eligibility. Junior Software Developer (Mirabel, Quebec) is outside scope.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": []
+ "company": "CAE",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "excluded",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": "2026-01-22",
+ "last_cycle_basis": "tracker history: Junior Machine Learning Engineer (Orlando/Tampa/Arlington) first seen 2026-01-22",
+ "excluded_reason": "citizenship",
+ "no_sponsorship": false,
+ "jobs_page": "https://cae.wd3.myworkdayjobs.com/career",
+ "jobs_spec": "wd:cae/wd3/career",
+ "evidence": "Workday full board (384) read 2026-10-27. US SWE roles (MTS Software Engineer Charleston, ATS Software Engineer Altus, Software Engineer Binghamton) say 'only U.S. citizens are eligible for this role' plus DoD clearance eligibility. Junior Software Developer (Mirabel/Montreal, Quebec) is outside scope and needs Canadian Secret clearance.",
+ "confidence": "high"
 }

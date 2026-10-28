@@ -1,7 +1,6 @@
 {
  "company": "NYU Langone Health",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "open",
  "postings": [
   {
@@ -12,7 +11,7 @@
    "date_source": "cws jobs API open_date",
    "deadline": null,
    "grad_window": null,
-   "live_verified": "browser",
+   "live_verified": "api",
    "level": "unlabeled",
    "level_basis": "Minimum: 'Masters degree in computer science... or a bachelors degree with at least one year of relevant work experience'; $84,578-$110,000",
    "no_sponsorship": false
@@ -25,19 +24,21 @@
    "date_source": "cws jobs API open_date",
    "deadline": null,
    "grad_window": null,
-   "live_verified": "browser",
+   "live_verified": "api",
    "level": "unlabeled",
    "level_basis": "Minimum: 'Masters degree in computer engineering or a bachelor's degree... with at least 2 years of relevant work experience'; builds ML backend and frontend tools; $84,578-$130,000",
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history; not found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.nyulangone.org/job-search-results/",
  "jobs_spec": null,
- "evidence": "Both Research Engineer posting pages fetched 2026-10-20 show Apply link, no close date (ML datePosted 2026-10-08; CSTAR 2026-05-22): master's or BS plus 1-2 yrs. CSTAR has some project-lead duties but stays counted. Job search is JS-only, browser pane unavailable, so board scan was not repeated; Applied AI Engineer (1-3 yrs) left out.",
- "confidence": "medium"
+ "evidence": "CWS jobs API (org 1637, 1527 jobs) paged 2026-10-27: both Research Engineer ML postings listed Open; masters or BS plus 1-2 yrs, kept as earlier run counted them. Applied AI Engineer (1-3 yrs, coaches juniors) and HPC AI Engineer (5 yrs) left out; Research Engineer 22933443 is hardware. No new-grad program.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-27",
+ "jobs_spec_basis": "site uses m-cloud CWS API (org 1637); full list of 1536 jobs paged, no board spec supported"
 }

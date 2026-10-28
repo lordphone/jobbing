@@ -1,7 +1,7 @@
 {
   "company": "Acuity Inc.",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -9,25 +9,12 @@
       "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Program-GA-30309/1429282700/",
       "location": "Atlanta, GA",
       "opened": "2026-09-11",
-      "date_source": "careers site listing (Sep 11, 2026); tracker first seen 2026-09-11",
+      "date_source": "earlier run (tracker first seen)",
       "deadline": null,
-      "grad_window": "Start July 12, 2027; bachelor's, 0-2 yrs",
+      "grad_window": "starts July 12, 2027",
       "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Specialist Software Engineering BUILD Program",
-      "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429301800/",
-      "location": "Conyers, GA",
-      "opened": "2026-09-12",
-      "date_source": "careers site listing (Sep 12, 2026)",
-      "deadline": null,
-      "grad_window": "Start July 12, 2027; bachelor's in CS or related, under 2 yrs preferred",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level": "unlabeled",
+      "level_basis": "0 to 2 years of applicable work experience; two-year rotational early-career BUILD program",
       "no_sponsorship": false
     },
     {
@@ -35,39 +22,27 @@
       "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Program-GA-30309/1429285300/",
       "location": "Atlanta, GA",
       "opened": "2026-09-12",
-      "date_source": "careers site listing / tracker first seen 2026-09-12",
+      "date_source": "earlier run (tracker first seen)",
       "deadline": null,
-      "grad_window": "Start July 12, 2027; bachelor's, 0-2 yrs",
+      "grad_window": "starts July 12, 2027",
       "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level": "unlabeled",
+      "level_basis": "0 to 2 years of applicable work experience; two-year rotational early-career BUILD program",
       "no_sponsorship": false
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429301800/",
+      "reason": "gone: page shows 'Sorry, this position has been filled.'"
     },
     {
-      "title": "Specialist Software Engineering BUILD Program",
       "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429301900/",
-      "location": "Conyers, GA",
-      "opened": "2026-09-12",
-      "date_source": "careers site listing (Sep 12, 2026)",
-      "deadline": null,
-      "grad_window": "Start July 12, 2027; bachelor's in CS or related, under 2 yrs preferred",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: page shows 'Sorry, this position has been filled.'"
     },
     {
-      "title": "Specialist Software Engineering BUILD Program",
       "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Program-GA-30012/1429302100/",
-      "location": "Conyers, GA",
-      "opened": "2026-09-12",
-      "date_source": "careers site listing (Sep 12, 2026)",
-      "deadline": null,
-      "grad_window": "Start July 12, 2027; bachelor's in CS or related, under 2 yrs preferred",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: page shows 'Sorry, this position has been filled.'"
     }
   ],
   "last_cycle_opened": "2025-10-28",
@@ -76,7 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.acuityinc.com/search/",
   "jobs_spec": null,
-  "evidence": "careers.acuityinc.com searches 2026-10-19 (software, engineer, BUILD, early career, data, ML), pages fetched, all show Apply now: Atlanta Growth & Transformation SWE BUILD, three Conyers SWE BUILD, Atlanta Data & AI BUILD (bachelor's, 0-2 yrs, July 2027 start). Page datePosted now Oct 10-11 (reposted); kept earlier opened dates. Generic Software Engineer reqs are Senior/Lead, left out.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "careers.acuityinc.com fetched 2026-10-26: Atlanta SWE and Atlanta Data&AI BUILD postings load with Apply, start July 12 2027, 0-2 yrs. The three Conyers SWE BUILD pages now say 'position has been filled'. Other SWE reqs are Senior/Lead.",
+  "confidence": "medium"
 }

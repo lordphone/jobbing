@@ -11,7 +11,7 @@
       "date_source": "page text (no date shown); on board 2026-10-18",
       "deadline": null,
       "grad_window": "Dec 2024 - Aug 2026",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -24,7 +24,7 @@
       "date_source": "page text (no date shown); on board 2026-10-18",
       "deadline": null,
       "grad_window": "Dec 2024 - Aug 2026",
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -36,9 +36,9 @@
   "no_sponsorship": true,
   "jobs_page": "https://digitalcareers.infosys.com/infosys/global-careers",
   "jobs_spec": null,
-  "evidence": "Posting pages 145643BR and 152904BR fetched 2026-10-19 show Apply now, \"graduating from December 2024-August 2026\" and no sponsorship, so last-cycle leftover. Full Algolia board listing not re-run this pass (search key not recovered); 2026-10-18 listing showed only these two entry roles in US/Canada.",
+  "evidence": "Posting pages re-read 2026-10-26 (server-rendered, Apply now shown): Associate - Campus 152904BR and Specialist Programmer 145643BR still live, grad window Dec 2024-Aug 2026 (leftover), no sponsorship. Full board list not rescanned (no API); 2026-10-22 scan of 1251 listings found no other grad program.",
   "confidence": "medium",
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "jobs_spec_basis": "Board search uses public Algolia index production_Infosys_jobs (application UM59DWRPA1); lists every job",
   "dropped": []
 }

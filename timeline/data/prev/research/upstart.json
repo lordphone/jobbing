@@ -1,16 +1,16 @@
 {
  "company": "Upstart",
  "tier": 4,
- "checked": "2026-10-19",
  "status": "no_program_found",
- "postings": [],
  "last_cycle_opened": "2025-10-30",
- "last_cycle_basis": "tracker first-seen 2025-10-30 (Machine Learning Engineer, closed; not clearly entry-level)",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "tracker last cycle 2025-10-30",
  "jobs_page": "https://job-boards.greenhouse.io/upstart",
  "jobs_spec": "gh:upstart",
- "evidence": "2026-10-19 Greenhouse (91, full): read all 7 US-remote Software Engineer postings via the API: minimums are 3-4+ yrs; the rest are II/Senior/Principal or contract. No new-grad program or 2027 early-career posting.",
+ "evidence": "Greenhouse full board (86) read via API 2026-10-26: every non-senior Software Engineer posting needs 3 to 4+ years; SWE II roles ask 3 yrs. Applied Scientist (0-2 yrs ML) is a scientist role, not counted. No new-grad program.",
  "confidence": "high",
- "dropped": []
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-26"
 }

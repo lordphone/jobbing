@@ -1,16 +1,16 @@
 {
   "company": "Progressive",
+  "tier": 5,
   "status": "not_yet",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no entry-level SWE in tracker history; recent-graduates page lists developer jobs without dates",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; unknown",
   "jobs_page": "https://careers.progressive.com/search/jobs/",
   "jobs_spec": null,
-  "evidence": "careers.progressive.com read in browser 2026-10-20 (327 jobs; Technology category 7; keywords developer, engineer): only Senior Software Developer, Senior Full Stack Developer and DevOps Engineer Lead live; no entry-level software roles. Students & Grads page lists entry developer jobs, none posted now.",
-  "confidence": "low",
-  "checked": "2026-10-20",
-  "tier": 5,
-  "dropped": []
+  "evidence": "Browser search of careers.progressive.com 2026-10-27 ('software engineer' 4 results, 'developer' 3): only Intermediate Data Engineer, AI Data Engineer Lead, BI Developer Senior, Senior Full Stack Developer. No entry-level software role live; entry program not posted yet.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

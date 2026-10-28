@@ -1,16 +1,31 @@
 {
  "company": "Interactive Brokers",
  "tier": 4,
- "checked": "2026-10-19",
- "status": "no_program_found",
- "postings": [],
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - Compliance Tech",
+   "url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/2701",
+   "location": "Greenwich, CT; Fort Lauderdale, FL",
+   "opened": "2026-10-21",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "\"1-2 years of professional software development experience. Recent graduates should have completed at least one software development internship.\"",
+   "no_sponsorship": false
+  }
+ ],
  "last_cycle_opened": null,
  "last_cycle_basis": "Nothing dated found; hires entry developers ad hoc.",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL",
  "jobs_spec": null,
- "evidence": "2026-10-19 browser: paged all 8 pages of the Dayforce portal (187 roles). US software roles are Senior/Sr SWE, SWE III, Java Web App Developer (3+ yrs), SDET (3+), Web Infra, Data Platform, Analytics, SRE, Observability. Jr/SWE I roles are Mumbai, Budapest, Zug, London only. Summer 2027 SWE internship only.",
+ "evidence": "Posting 2701 (Software Engineer - Compliance Tech) re-read 2026-10-26 from the Dayforce page data: live, started 2026-10-21, no expiry, 1-2 yrs, recent grads with an internship welcome. Full board listing not reachable this run (search API blocked), so other roles were not re-screened; earlier run found none.",
  "confidence": "medium",
- "dropped": []
+ "dropped": [],
+ "jobs_spec_basis": "Greenhouse boards ibkr and interactivebrokersna return 404; Dayforce portal is the live board"
 }

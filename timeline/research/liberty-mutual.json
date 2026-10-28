@@ -1,30 +1,22 @@
 {
- "company": "Liberty Mutual",
- "status": "open",
- "postings": [
-  {
-   "title": "2027 TechStart Full-Time Program",
-   "url": "https://searchjobs.libertymutualgroup.com/careers/job/618519062757",
-   "location": "Portsmouth, NH; Boston, MA; Plano, TX; Indianapolis, IN",
-   "opened": "2026-08-11",
-   "date_source": "eightfold apply API t_create",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "Entry-level six-month engineering program; 0-2 years experience; Bachelor's in CS or related",
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": null,
- "last_cycle_basis": "unknown; no TechStart or entry SWE posting in tracker history for Jul 2025 - Jan 2026",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://searchjobs.libertymutualgroup.com/careers",
- "jobs_spec": null,
- "evidence": "Eightfold apply API board (200 listed) 2026-10-20: 2027 TechStart Full-Time Program (0-2 yrs) absent from listing but page and API detail load, JSON-LD validThrough 2027-02-07, so kept. Software Engineer Investments Technology (Boston) bars sponsorship, 1-3 yrs, not counted. Analyst Development Program is analytics.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+  "company": "Liberty Mutual",
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://searchjobs.libertymutualgroup.com/careers/job/618519062757",
+      "reason": "gone: 2027 TechStart Full-Time Program (created 2026-08-11) is absent from the Eightfold listing API (query TechStart returns 0) and its iCIMS apply page campus-libertymutual.icims.com/jobs/77144 returns HTTP 410"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no TechStart or entry SWE posting in tracker history for Jul 2025 - Jan 2026",
+  "jobs_page": "https://searchjobs.libertymutualgroup.com/careers",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Eightfold site: /api/apply/v2/jobs?domain=libertymutual.com lists jobs over plain HTTP",
+  "evidence": "2026-10-27 Eightfold API over HTTP: 2027 TechStart Full-Time Program (0-2 yrs, created 2026-08-11, Portsmouth NH/Boston/Plano/Indianapolis) not listed and its iCIMS apply link is gone (410). Other tech roles are Principal/Manager; remaining entry roles are claims, underwriting and co-ops.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

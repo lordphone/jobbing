@@ -1,6 +1,7 @@
 {
   "company": "Ciena",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -8,7 +9,7 @@
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608",
       "location": "Atlanta, GA",
       "opened": "on or before 2026-08-31",
-      "date_source": "workday startDate",
+      "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -17,14 +18,18 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [
+    {
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1",
+      "reason": "gone: browser page shows 'The page you are looking for doesn't exist'; not on the full board"
+    }
+  ],
   "last_cycle_opened": "2025-09-11",
   "last_cycle_basis": "tracker first seen: PON Software Engineer - New Grad, Mansfield MA 2025-09-11; Atlanta 'New Grad 2026: Software Developer' 2025-10-14",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ciena.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:ciena/wd5/Careers",
-  "evidence": "Workday board re-read 2026-10-20 (147, full) plus detail: Atlanta WaveLogic Software Developer New Grad live, no citizenship or sponsorship line. Other New Grad software roles are Ottawa/Quebec (not Toronto/Vancouver); Atlanta verification role is field applications.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": []
+  "evidence": "Workday API board 2026-10-27 (146, full): WaveLogic Software Developer - New Grad (Atlanta) live via API, canApply true. Software Engineer (Security) - New Grad R031979-1 now shows 'The page you are looking for doesn't exist' in the browser and is off the board. Ottawa/Frankfurt new-grad roles are not SWE in eligible cities.",
+  "confidence": "high"
 }

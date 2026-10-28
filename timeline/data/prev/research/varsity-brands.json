@@ -1,70 +1,49 @@
 {
- "company": "Varsity Brands",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "open",
- "postings": [
-  {
-   "title": "Software Engineer I (.Net)",
-   "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518",
-   "location": "Memphis, TN",
-   "opened": "2026-09-25",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  },
-  {
-   "title": "Software Engineer 1",
-   "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
-   "location": "Farmers Branch, TX",
-   "opened": "2026-06-12",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  },
-  {
-   "title": "Data Engineer I",
-   "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Data-Engineer-I_JR114562",
-   "location": "Farmers Branch, TX",
-   "opened": "2026-08-05",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  },
-  {
-   "title": "Front End Developer",
-   "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/US---Indiana/Front-End-Developer_JR114521",
-   "location": "Remote, IN; Remote, TX; Remote, KS",
-   "opened": "2026-09-25",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "The Software Engineer I (SE I) role is an entry-level engineering position; 0-2 years of relevant experience",
-   "no_sponsorship": false
-  }
- ],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history for Varsity before 2026-06; last cycle unknown",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://careers.varsitybrands.com/us/en",
- "jobs_spec": "wd:varsitybrands/wd503/ExternalCareerSite",
- "evidence": "Careers site (Phenom) links to Workday ExternalCareerSite; board read in full 2026-10-19 (198). Four entry roles (SE I Memphis, SE 1 Farmers Branch, Data Engineer I, Front End Developer remote) say entry-level, 0-2 yrs. Farmers Branch says no sponsorship.",
- "confidence": "high",
- "jobs_spec_basis": "careers.varsitybrands.com Apply links go to varsitybrands.wd503 Workday ExternalCareerSite; board tested"
+  "checked": "2026-10-26",
+  "postings": [
+    {
+      "title": "Software Engineer 1",
+      "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
+      "location": "Farmers Branch, TX",
+      "opened": "2026-06-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "'entry-level engineering position'; 0-2 years of relevant experience",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Data Engineer I",
+      "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Data-Engineer-I_JR114562",
+      "location": "Farmers Branch, TX",
+      "opened": "2026-08-05",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Data Engineer I is an entry-level engineering position; 0-2 years of relevant experience",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/US---Indiana/Front-End-Developer_JR114521",
+      "reason": "gone: not on the full Workday board (194) on 2026-10-26; tracker closed 2026-09-25"
+    }
+  ],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "Varsity Brands",
+  "tier": 5,
+  "status": "open",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history for Varsity before 2026-06; last cycle unknown",
+  "jobs_page": "https://careers.varsitybrands.com/us/en",
+  "jobs_spec": "wd:varsitybrands/wd503/ExternalCareerSite",
+  "jobs_spec_basis": "careers.varsitybrands.com Apply links go to varsitybrands.wd503 Workday ExternalCareerSite; board tested",
+  "evidence": "Workday full board (194) 2026-10-26: Software Engineer 1 (0-2 yrs, no sponsorship, Workday date now 2026-10-05, earlier first seen kept) and Data Engineer I live. Software Engineer II needs 2-5 yrs and mentors juniors.",
+  "confidence": "high"
 }

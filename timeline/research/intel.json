@@ -1,69 +1,61 @@
 {
-  "company": "Intel",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "CAD/EDA Tools Automation Engineer",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757",
-      "location": "Hillsboro, OR",
-      "opened": "2026-09-04",
-      "date_source": "workday startDate (API)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Job Type: College Grad; Master's + 6+ months of programming/scripting experience",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Foundry Cloud Services Developer",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
-      "location": "Hillsboro, OR; Phoenix, AZ",
-      "opened": "2026-09-24",
-      "date_source": "workday startDate (API)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Job Type: College Grad (posting also asks 2+ years of cloud development)",
-      "no_sponsorship": false
-    },
-    {
-      "title": "CAD/EDA Tools Software Engineer",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
-      "location": "Hillsboro, OR",
-      "opened": "2026-10-19",
-      "date_source": "workday startDate (API)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Job Type: College Grad; Master's + 6+ months of Python or C++ experience",
-      "no_sponsorship": false
-    },
-    {
-      "title": "CAD/EDA Tools Automation Engineer",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
-      "location": "Hillsboro, OR",
-      "opened": "2026-10-19",
-      "date_source": "workday startDate (API)",
-      "deadline": "2027-01-19",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Job Type: College Grad; Master's with 2+ years or PhD, degree by Sept 2026; Workday endDate 2027-01-19",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker first seen: Software Application Development Engineer (Phoenix, AZ), intel.wd1.myworkdayjobs.com, active 2025-11-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://intel.wd1.myworkdayjobs.com/External",
-  "jobs_spec": "wd:intel/wd1/External",
-  "evidence": "Workday full board (735) 2026-10-20; read Job Type of US software-leaning postings via the API. US software roles typed College Grad: 2 CAD/EDA Tools Automation, CAD/EDA Tools Software Engineer, Foundry Cloud Services Developer, all live. AI Research Engineer/Scientist is PhD-only (left out).",
-  "confidence": "medium"
+ "company": "Intel",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "CAD/EDA Tools Automation Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757",
+   "location": "Hillsboro, OR",
+   "opened": "2026-09-04",
+   "date_source": "workday startDate (API)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Job Type: College Grad; Master's + 6+ months of programming/scripting experience",
+   "no_sponsorship": false
+  },
+  {
+   "title": "CAD/EDA Tools Software Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+   "location": "Hillsboro, OR",
+   "opened": "2026-10-19",
+   "date_source": "workday startDate (API)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Job Type: College Grad; Master's + 6+ months of Python or C++ experience",
+   "no_sponsorship": false
+  },
+  {
+   "title": "CAD/EDA Tools Automation Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
+   "location": "Hillsboro, OR",
+   "opened": "2026-10-19",
+   "date_source": "workday startDate (API)",
+   "deadline": "2027-01-19",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Job Type: College Grad; Master's with 2+ years or PhD, degree by Sept 2026; Workday endDate 2027-01-19",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-11-01",
+ "last_cycle_basis": "tracker first seen: Software Application Development Engineer (Phoenix, AZ), intel.wd1.myworkdayjobs.com, active 2025-11-01",
+ "jobs_page": "https://intel.wd1.myworkdayjobs.com/External",
+ "jobs_spec": "wd:intel/wd1/External",
+ "evidence": "Workday board read 2026-10-27 (791, full); 3 software College Grad postings (CAD/EDA Tools Automation x2, CAD/EDA Tools SWE, Hillsboro) live via API; Foundry Cloud Services Developer is gone. Other US software roles are experienced hire (4-6+ yrs) or citizenship-required.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
+   "reason": "gone: jobs.py detail says NOT ON THE BOARD and it is absent from the full 791-posting Workday board"
+  }
+ ],
+ "no_sponsorship": false,
+ "excluded_reason": null
 }

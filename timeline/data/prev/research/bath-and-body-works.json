@@ -1,16 +1,16 @@
 {
   "company": "Bath & Body Works",
-  "last_cycle_basis": "no tracker or first-party record of a new-grad SWE posting",
-  "jobs_page": "https://careers.bathandbodyworks.com/jobs",
-  "evidence": "Browser 2026-10-19, careers keyword searches (software 12, engineer 6, machine learning 9, data 29, technology 21): Senior Applications Analyst, Senior Analyst AI & Data, manufacturing and package engineers, Summer 2027 internship. No SWE role.",
-  "confidence": "high",
+  "tier": 5,
+  "checked": "2026-10-26",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5,
-  "status": "no_program_found",
-  "last_cycle_opened": null,
+  "jobs_page": "https://careers.bathandbodyworks.com/jobs",
   "jobs_spec": null,
-  "dropped": []
+  "evidence": "careers.bathandbodyworks.com is client-rendered with API 403; read the site's job sitemaps 2026-10-26 (about 2.4k job URLs, titles in slugs): only Applications Analyst, AI/data analysts, Package Engineer I, summer 2027 internship; no entry software engineer or new-grad program.",
+  "confidence": "medium"
 }

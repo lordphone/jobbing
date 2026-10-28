@@ -1,30 +1,30 @@
 {
   "company": "Polaris Inc.",
   "tier": 5,
-  "status": "excluded",
+  "status": "open",
   "postings": [
     {
-      "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
-      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
+      "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
+      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
       "location": "Medina, MN; Plymouth, MN",
-      "opened": "2026-08-07",
+      "opened": "2026-08-24",
       "date_source": "workday startDate",
       "deadline": "2026-11-30",
       "grad_window": "Aug 2026 \u2013 May 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Leadership Development Program for recent graduates; 'Bachelor's or Master's degree in Data Science or related field with graduation date between August 2026 and May 2027'",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-01",
-  "last_cycle_basis": "tracker first seen 2025-11-01: Digital & Information Technology Leadership Development Program Associate, Wayzata MN",
-  "excluded_reason": "us person / itar",
-  "no_sponsorship": true,
+  "last_cycle_basis": "tracker first seen 2025-11-01 (jobs.py history, earlier file)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs",
   "jobs_spec": "wd:polaris/wd5/PolarisJobs",
-  "evidence": "Workday board (138, full) 2026-10-19. D&IT LDP Digital Product Development (deadline 2026-11-30, grad Aug 2026-May 2027, MIS/business degree) says 'Must be a U.S. person (U.S. citizen, U.S. national, lawful permanent resident, asylee, or refugee)' and 'not eligible for sponsorship'. Engineering Development Program is not software.",
+  "evidence": "Workday board (144, full) and API text 2026-10-26: D&IT LDP Predictive Data Science live (MS ok, grad Aug 2026-May 2027, deadline 2026-11-30, borderline data-science rotation, no sponsorship). Digital Product Development track needs MIS/business degree and US person. Engineering Development Program is mechanical.",
   "confidence": "medium",
-  "checked": "2026-10-19",
-  "dropped": []
+  "checked": "2026-10-26"
 }

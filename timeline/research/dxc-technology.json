@@ -1,43 +1,43 @@
 {
-  "company": "DXC Technology",
-  "tier": 5,
-  "status": "excluded",
-  "postings": [
-    {
-      "title": "Analyst I Software Engineering",
-      "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934",
-      "location": "Connecticut, US (no city listed)",
-      "opened": "2026-10-14",
-      "date_source": "workday startDate",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "deadline": null,
-      "grad_window": null,
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Analyst I Software Engineering",
-      "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935",
-      "location": "Connecticut, US (no city listed)",
-      "opened": "2026-10-14",
-      "date_source": "workday startDate",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "deadline": null,
-      "grad_window": null,
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2026-01-20",
-  "last_cycle_basis": "tracker first seen 2026-01-20 (Associate Professional Application Programmer, Waterbury CT)",
-  "excluded_reason": "us person / itar",
-  "jobs_page": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs",
-  "jobs_spec": "wd:dxctechnology/wd1/dxcjobs",
-  "evidence": "Workday full board (860) read 2026-10-20: both US Analyst I Software Engineering postings say \"Must be ITAR-compliant and able to provide proof of citizenship\" and \"Must be a legal US Citizen on US Soil\". Graduate programs are in Europe, Australia, Vietnam.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "no_sponsorship": false
+ "company": "DXC Technology",
+ "tier": 5,
+ "status": "excluded",
+ "postings": [
+  {
+   "title": "Analyst I Software Engineering",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935",
+   "location": "Connecticut, US (no city listed)",
+   "opened": "2026-10-14",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Analyst I Software Engineering",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934",
+   "location": "Connecticut, US (no city listed)",
+   "opened": "2026-10-14",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2026-01-20",
+ "last_cycle_basis": "tracker first seen 2026-01-20 (Associate Professional Application Programmer, Waterbury CT)",
+ "excluded_reason": "us person / itar",
+ "jobs_page": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs",
+ "jobs_spec": "wd:dxctechnology/wd1/dxcjobs",
+ "evidence": "Workday full board (1160) 2026-10-27. Analyst I Software Engineering (CT) 51586935 detail loads: 'Must be ITAR-compliant and able to provide proof of citizenship'. 51586934 lookup failed. Sr CT role needs US citizen, 5+ yrs. No other US entry SWE; 2027 Graduate roles are Australia/Europe/Asia.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "no_sponsorship": false
 }

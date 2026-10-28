@@ -1,16 +1,17 @@
 {
   "company": "Check Point Software Technologies",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for Check Point; R&D is based in Israel; unknown.",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://careers.checkpoint.com/index.php?m=cpcareers&a=search",
+  "jobs_page": "https://careers.checkpoint.com/jobs",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-19: read all 326 results of careers.checkpoint.com. R&D roles are Israel; every US/Canada posting is sales, sales/security engineering, solution architect or incident response.",
-  "confidence": "high"
+  "evidence": "careers.checkpoint.com job list (286 jobs, all 29 pages read 2026-10-26 via curl): 82 US and 11 Canada jobs are sales, sales engineering, security response, support and marketing. No software, R&D or new-grad engineering role in US, Toronto or Vancouver. Engineering roles are in Israel.",
+  "confidence": "high",
+  "jobs_spec_basis": "careers.checkpoint.com/jobs is the company's own Next.js list; no jobs.py spec"
 }

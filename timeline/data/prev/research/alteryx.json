@@ -1,6 +1,7 @@
 {
  "company": "Alteryx",
  "tier": 5,
+ "checked": "2026-10-26",
  "status": "open",
  "postings": [
   {
@@ -13,18 +14,30 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "Requires '2+ years of hands-on experience building and maintaining production software, or equivalent practical experience'; works 'with guidance from experienced engineers'; $105,000-$140,000",
+   "level_basis": "Requires '2+ years of hands-on experience building and maintaining production software, or equivalent practical experience'; $105,000-$140,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - Cloud Platform & Data Plane Transport",
+   "url": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Irvine-California/Software-Engineer_R12554-1",
+   "location": "Irvine, CA",
+   "opened": "2026-10-20",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Requires '2+ years of professional software engineering experience, or equivalent relevant experience'; $120,000-$139,000",
    "no_sponsorship": false
   }
  ],
+ "dropped": [],
  "last_cycle_opened": "2026-02-02",
  "last_cycle_basis": "Tracker history: 'Software Engineer' (Remote USA), first seen 2026-02-02, closed.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers",
  "jobs_spec": "wd:alteryx/wd108/AlteryxCareers",
- "evidence": "Workday full board (61) 2026-10-19; Workday job API canApply true. US-remote Software Engineer R12529 posted 2026-10-06 asks 2+ yrs or equivalent, guided work, $105-140K. Other US eng roles are SDET or senior. Unlabeled, borderline.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "dropped": [],
- "no_sponsorship": false,
- "excluded_reason": null
+ "evidence": "Workday full board (56) 2026-10-26: US-remote Software Engineer R12529 and Irvine Software Engineer R12554 live via API, 2+ yrs or equivalent, no senior duties, counted. SDET 4+ yrs; Sr/Lead/Staff excluded. Borderline unlabeled; no new-grad program.",
+ "confidence": "medium"
 }

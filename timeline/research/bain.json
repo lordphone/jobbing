@@ -1,7 +1,6 @@
 {
  "company": "Bain",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "open",
  "postings": [
   {
@@ -27,17 +26,18 @@
    "grad_window": null,
    "live_verified": "browser",
    "level": "unlabeled",
-   "level_basis": "Requires 2+ years; changes made with review support and guidance; bachelor's in CS",
+   "level_basis": "Requires 2+ years building backend services, APIs, or platform components; bachelor's in CS",
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history and no dated first-party source found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.bain.com/jobs/SearchJobs",
  "jobs_spec": null,
- "evidence": "Reopened AI/ML Engineer 108806 and Platform Engineer 109001 on careers.bain.com 2026-10-20: both show Apply, require 2+ yrs, counted as unlabeled entry. Searched site: Software Engineer Tech Solutions (3-5 yrs), Engineer Software Engineering (2-3+ yrs) left out; Associate Full-Stack Developer is Bain Capability Network (no US city).",
- "confidence": "medium"
+ "evidence": "careers.bain.com search and both posting pages fetched 2026-10-27: AI/ML Engineer 108806 and Platform Engineer 109001 show Apply, require 2+ yrs, counted as unlabeled entry. Other engineering roles are Senior/Lead/Staff, 3+ yrs, or India/Warsaw.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-27"
 }

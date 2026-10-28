@@ -1,7 +1,7 @@
 {
   "company": "Panasonic",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -31,7 +31,7 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer I – Embedded Systems",
+      "title": "Software Engineer I \u2013 Embedded Systems",
       "url": "https://careers.na.panasonic.com/jobs/50269",
       "location": "Irvine, CA",
       "opened": "2026-10-08",
@@ -57,18 +57,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-10",
   "last_cycle_basis": "tracker first seen: Software Engineer 1 - Microservices, Beaverton OR (careers.na.panasonic.com/jobs/44350)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.na.panasonic.com/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API re-read 2026-10-20 (489 postings, full): four Irvine CA entry-level software roles (SWE Full Stack, SWE Embedded/Linux, SWE I, MTS I Software Engineer) ask 0-3 yrs, no citizenship line (work authorization only). MTS I 51759 now 404. Left out: MTS II (3+ yrs), MTS III-V, Software Engineer III, 49873 (8+ yrs), ML Engineer IV.",
-  "confidence": "high",
-  "dropped": [
-    {
-      "url": "https://careers.na.panasonic.com/jobs/51759",
-      "reason": "gone: page returns 404 and the Jibe API no longer lists it; MTS I, Software Engineer (51755) is the similar title still live"
-    }
-  ]
+  "evidence": "Jibe API re-read 2026-10-27 (490 postings, full): four Irvine CA entry-level software roles live, each 0-3 yrs, no citizenship text, only 'valid authorization to work in the U.S.'. Other software roles need 3-8+ yrs (MTS II/III, SWE III, eCommerce).",
+  "confidence": "high"
 }

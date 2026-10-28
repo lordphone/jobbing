@@ -1,16 +1,31 @@
 {
-  "company": "The Boring Company",
-  "tier": 4,
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-26",
+  "postings": [
+    {
+      "title": "Full Stack Software Engineer (associate)",
+      "url": "https://jobs.gem.com/the-boring-company/1946fb4f-2b0a-493f-a547-477d149f461d",
+      "location": "Bastrop, TX",
+      "opened": "2023-11-09",
+      "date_source": "gem API first_published_at",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "posting says 'This role is suited for recent graduates'; Associate role is a temporary training position converting to permanent after 3-5 months; bachelor's required, no years",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; careers page lists only 2027 internships as university programs",
+  "last_cycle_basis": "no tracker history; the associate posting is evergreen since 2023-11",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "The Boring Company",
+  "tier": 4,
+  "status": "open",
   "jobs_page": "https://www.boringcompany.com/careers",
   "jobs_spec": null,
-  "evidence": "Gem API (jobs.gem.com/the-boring-company, 130 posts) read 2026-10-19. Software roles: Automation Controls SWE (field PLC, 'highly skilled and experienced'), Embedded Perception Eng (5+ yrs), Embedded Software Eng (2023, firmware). Only internships as university programs; no new-grad track.",
-  "confidence": "medium",
-  "checked": "2026-10-19"
+  "jobs_spec_basis": "careers page links to jobs.gem.com/the-boring-company; Gem API api.gem.com/job_board/v0/the-boring-company/job_posts lists all posts",
+  "evidence": "Gem API (133 posts) read 2026-10-26, posting live: Associate Full Stack Software Engineer (Bastrop, TX) says suited for recent graduates, updated 2026-10-23, no citizenship or sponsorship text. Evergreen, no class year. Embedded Software, Embedded Perception (5+ yrs), Automation Controls and other roles left out; rest non-software or internships.",
+  "confidence": "medium"
 }

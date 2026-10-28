@@ -1,16 +1,43 @@
 {
   "company": "Labelbox",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2024-09",
-  "last_cycle_basis": "Greenhouse 'Software Engineer, Early Professional' first seen 2024-09-26 (two cycles ago); nothing Jul 2025-Jan 2026.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Member of Technical Staff",
+      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5246362007",
+      "location": "San Francisco, CA",
+      "opened": "2026-09-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of professional software engineering experience'; MTS title; no lead or mentoring duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Forward Deployed Engineer, RL Environments",
+      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5101187007",
+      "location": "San Francisco, CA",
+      "opened": "2026-04-07",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of professional software engineering experience'; no lead or mentoring duties",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2024-09-26",
+  "last_cycle_basis": "2 yrs ago: Greenhouse 'Software Engineer, Early Professional' first seen 2024-09-26 (two cycles ago); nothing Jul 2025-Jan 2026",
   "jobs_page": "https://job-boards.greenhouse.io/labelbox",
   "jobs_spec": "gh:labelbox",
-  "evidence": "gh:labelbox full board (7) 2026-10-20, text read: MTS and FDE RL Environments both require 2+ yrs professional experience and own environment design; judged not entry-level. Others manager, staff or non-engineering.",
-  "confidence": "medium"
+  "evidence": "gh:labelbox full board (9) read 2026-10-27 with text: MTS (2026-09-22) and FDE RL Environments ask 2+ yrs professional SWE with product ownership, no lead duties; counted as unlabeled but borderline (an earlier run left them out). Rest staff, manager or non-SWE.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

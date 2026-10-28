@@ -1,7 +1,6 @@
 {
   "company": "BD (Becton, Dickinson and Company)",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -18,13 +17,14 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker: Software Engineer I, Sparks MD, 2025-01-17 (two cycles ago, outside last-cycle window); none in 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
   "jobs_spec": "wd:bdx/wd1/EXTERNAL_CAREER_SITE_USA",
-  "evidence": "Workday API (646 listed, full): Software Engineer I, Sparks MD, canApply true, requires a BS only, no years stated, $75.8K-$121.3K. Posted 2026-10-09 per API, tracker first seen 2026-10-08.",
-  "confidence": "high"
+  "evidence": "Workday full board (616) and detail 2026-10-27: Software Engineer I, Sparks MD, live via API (Posted 18 days ago, start 2026-10-09), no sponsorship or clearance text. DevSecOps asks 5 yrs, Clinical DB Programmer 3 yrs; other engineers are quality, manufacturing, hardware.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

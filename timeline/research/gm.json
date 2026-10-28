@@ -1,43 +1,43 @@
 {
-  "company": "GM",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
-      "location": "Austin, TX; Warren, MI",
-      "opened": "2026-09-15",
-      "date_source": "tracker first seen (workday startDate 2026-09-16)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428",
-      "location": "Austin, TX; Warren, MI",
-      "opened": "2026-09-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2025-09-27",
-  "last_cycle_basis": "tracker first-seen date for 'Software Engineer – Early Career - Software Development'",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
-  "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
-  "evidence": "Workday board listing and searches ('early career', 'entry level', 'graduate') 2026-10-20, detail reads: SWE and Data Engineer Early Careers (Austin/Warren) live, 'GM does not provide immigration-related sponsorship'. Entry-Level AI/ML Researcher roles need U.S. Person; AI Inference MLE and AV HIL are 2026-grad leftovers; Markham ON not in scope.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": []
+ "company": "GM",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
+   "location": "Austin, TX; Warren, MI",
+   "opened": "2026-09-15",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428",
+   "location": "Austin, TX; Warren, MI",
+   "opened": "2026-09-16",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-27",
+ "last_cycle_basis": "tracker first-seen date for 'Software Engineer - Early Career - Software Development'",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
+ "jobs_spec": "wd:generalmotors/wd5/Careers_GM",
+ "evidence": "Workday full board (804) read 2026-10-27: two Early Careers SWE/Data Eng postings (Austin, Warren) live via API, GM no sponsorship. AV Platform Verification and AV HIL early-career windows end 2026 (leftover). Entry-Level AI/ML researcher roles are research and U.S.-person gated.",
+ "confidence": "high"
 }

@@ -1,30 +1,16 @@
 {
   "company": "Lawrence Livermore National Laboratory (LLNL)",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "Academic Graduate Appointee (AI-enabled tools / agentic solutions, Data Science and Analytics group)",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015662656",
-      "location": "Livermore, CA",
-      "opened": "2026-09-24",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "one-year Academic Graduate Appointee open to those 'awarded a degree at the time of the employment offer'; 'Security Clearance None required'; posting page now says 'This job has expired'",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "excluded",
+  "postings": [],
+  "excluded_reason": "clearance",
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows an Academic Graduate Appointee posting 2026-03-24 and a Data Acquisition Software Development one 2026-08-25, none in 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found",
   "jobs_page": "https://www.llnl.gov/join-our-team/careers/find-your-job",
   "jobs_spec": "sr:LLNL",
-  "evidence": "SmartRecruiters full board (182) read 2026-10-19. The 2026-09-24 Academic Graduate Appointee posting is CLOSED (active=false) and off the board. Remaining software/data roles pay $146K+ with no entry label; others cite DOE Q clearance. Only 2027 interns open.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "SmartRecruiters full board (179) read 2026-10-26. Software Engineer (3743990016310306) says 'Q-level clearance requires U.S. citizenship' (DOE Q-level); Data Engineer, Data Science Engineer and Cyber Security Engineer postings carried the same line on 2026-10-23. Other computing roles are Summer 2027 interns or senior.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false
 }

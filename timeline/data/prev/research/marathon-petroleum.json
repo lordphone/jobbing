@@ -1,30 +1,21 @@
 {
-  "company": "Marathon Petroleum",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Data Operations Engineer",
-      "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-TX/Data-Operations-Engineer_00023365",
-      "location": "San Antonio, TX",
-      "opened": "2026-10-14",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-24",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'Two (2) or more years of relevant experience required'; individual contributor working with senior engineers, 'family of jobs with increasing responsibility'; applies software engineering, automation and API integration on data platforms (borderline SWE)",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found Jul 2025-Jan 2026; tracker first seen Associate Software Engineer (Findlay OH; San Antonio TX) 2026-08-31 (this cycle, now closed)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
-  "jobs_spec": "wd:mpc/wd1/MPCCareers",
-  "evidence": "Workday full board (121) 2026-10-19: Associate Software Engineer req 00023623 (posted 2026-08-31) absent from board, so closed. Data Operations Engineer (data-platform automation, 2+ yrs, ends 2026-10-24, API live) kept as borderline unlabeled. Platforms Engineer is IAM admin, not counted.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": []
+ "company": "Marathon Petroleum",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-TX/Data-Operations-Engineer_00023365",
+   "reason": "gone: not on the Workday board; page says 'The page you are looking for doesn't exist'; stated deadline 2026-10-24 passed"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history for entry SWE; Associate Software Engineer req 00023623 posted 2026-08-31 is gone",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://mpc.wd1.myworkdayjobs.com/MPCCareers",
+ "jobs_spec": "wd:mpc/wd1/MPCCareers",
+ "evidence": "Workday full board (119) 2026-10-26: Data Operations Engineer (borderline, ended 2026-10-24) is gone: page not found. Platforms Engineer - ServiceNow (2+ yrs) is platform admin, not SWE. Associate Software Engineer (2026-08-31) also gone. Senior SWE only.",
+ "confidence": "medium"
 }

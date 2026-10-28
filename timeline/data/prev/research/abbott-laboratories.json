@@ -1,21 +1,16 @@
 {
-  "company": "Abbott Laboratories",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Software-Engineer_31162670-1",
-      "reason": "gone: Workday CXS job fetch returns permission denied, and the posting is absent from the full board and from keyword searches 'Software Engineer', '31162670' on 2026-10-19"
-    }
-  ],
-  "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker: Software Engineer 1 - Digital Health Engineering (Sylmar, CA) first seen 2025-10-02",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.jobs.abbott/us/en/search-results",
-  "jobs_spec": "wd:abbott/wd5/abbottcareers",
-  "evidence": "Workday board 2026-10-19 plus CXS keyword searches: earlier Irving Software Engineer (master's + 1 yr) is no longer listed. Remaining US software roles need 2-6+ yrs: Software Integration Engineer is V&V of instruments, AI/ML 6+, AI Platform 3+, SWE in Test 3+, Software Engineer Cloud 6+. No new-grad program live.",
-  "confidence": "medium"
+ "company": "Abbott Laboratories",
+ "tier": 5,
+ "status": "not_yet",
+ "last_cycle_opened": "2025-10-02",
+ "last_cycle_basis": "tracker: Software Engineer 1 - Digital Health Engineering (Sylmar, CA) first seen 2025-10-02",
+ "jobs_page": "https://www.jobs.abbott/us/en/search-results",
+ "jobs_spec": "wd:abbott/wd5/abbottcareers",
+ "evidence": "Workday board (2000, full) read 2026-10-26: US software roles are Senior/Staff/Lead or Software Engineer II (Abbott Park Java, degree only but II-level, minimal-supervision duties, no sponsorship; Sunnyvale II is embedded test 2 yrs). Software Test Engineer Irving needs 3+ yrs; AI roles need 3+ to 6+ yrs. No entry-level SWE.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

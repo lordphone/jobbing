@@ -1,18 +1,17 @@
 {
   "company": "Dell",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer 1 - IT (IT Development Program, AI-Native Software Engineer)",
       "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784",
-      "location": "TX, United States (Round Rock, TX per tracker)",
+      "location": "Round Rock, TX",
       "opened": "2026-09-09",
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": "Graduating Dec 2026 or May 2027",
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
@@ -24,7 +23,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://iawmqy.fa.ocs.oraclecloud.com",
   "jobs_spec": "oracle:iawmqy.fa.ocs.oraclecloud.com/298784",
-  "evidence": "Oracle list re-read 2026-10-20 (459, full) omits req 298784, but its page (browser) shows Apply Now: ITDP AI-Native Software Engineer, TX, grad Dec 2026/May 2027. Other US SWE/AI roles need 5-12+ yrs or are federal.",
-  "confidence": "high",
+  "evidence": "Oracle list (510, full) 2026-10-27 omits req 298784, but detail API returns its full text: Software Engineer 1 - IT, ITDP AI-Native SWE, TX, grad Dec 2026 or May 2027. Other US software roles are senior; AI Performance Engineer pay $112K+ not entry; Associate Systems Engineer is systems.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
   "dropped": []
 }

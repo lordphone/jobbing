@@ -1,30 +1,21 @@
 {
- "company": "Ford",
- "tier": 5,
- "status": "open",
- "postings": [
-  {
-   "title": "Full Stack Software Engineer",
-   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72609",
-   "location": "Dearborn, MI",
-   "opened": "2026-10-09",
-   "date_source": "oracle posting date (requisition API)",
-   "deadline": "2026-11-27",
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "Posting seeks an 'early- to mid-career' engineer: '1 to 4 years of professional software engineering experience. Strong internships or co-ops count.'",
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": "2025-11-26",
- "last_cycle_basis": "tracker first-seen date for '2026 Ford Undergraduate Program - Tech & Data Automation' (job 55690)",
- "jobs_page": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
- "jobs_spec": "oracle:efds.fa.em5.oraclecloud.com/CX_1",
- "evidence": "Oracle full board 2026-10-20 (868) re-screened: no labeled new-grad SWE (Early Career Program roles in Long Beach are Mechanical/Hardware and Supply Chain). Counted borderline Dearborn Full Stack SWE 72609 (early- to mid-career, 1-4 yrs, closes 2026-11-27, no visa sponsorship), live via API. Others need 2-8+ yrs or own architecture/lead.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "dropped": [],
- "no_sponsorship": false,
- "excluded_reason": null
+  "company": "Ford",
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72609",
+      "reason": "gone: not on the Oracle board (915 postings, full)"
+    }
+  ],
+  "last_cycle_opened": "2025-11-26",
+  "last_cycle_basis": "tracker first seen 2025-11-26 (2026 Ford Undergraduate Program - Tech & Data Automation)",
+  "jobs_page": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+  "jobs_spec": "oracle:efds.fa.em5.oraclecloud.com/CX_1",
+  "evidence": "Oracle full board (915) screened 2026-10-27. US software roles ask 3+ to 6+ yrs or are senior. Early Career Program 72607 is a fixed 6-month pipeline term (no sponsorship), not counted. Prior Full Stack SWE 72609 gone.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

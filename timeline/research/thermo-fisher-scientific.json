@@ -1,16 +1,22 @@
 {
  "company": "Thermo Fisher Scientific",
  "tier": 5,
- "checked": "2026-10-20",
- "status": "no_program_found",
+ "status": "closed",
  "postings": [],
- "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history for a software role in Jul 2025 - Jan 2026",
+ "last_cycle_basis": "no tracker history of a new-grad SWE posting",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.thermofisher.com/global/en/search-results",
  "jobs_spec": "wd:thermofisher/wd5/ThermoFisherCareers",
- "evidence": "Workday full board (2956) re-read 2026-10-20: US software-titled roles are AVI Software Systems Engineer (Greenville) and non-software Engineer I roles; software developer roles are India, UK or Czechia. 2027 programs are HR and management. No entry US SWE.",
- "confidence": "high"
+ "evidence": "Workday board 2026-10-27 (searched, not full): Data Engineer (Pittsburgh) seen live yesterday now 404 and not listed. Other US roles are field service, lab, 3-5+ yr software, interns. No entry-level SWE live.",
+ "confidence": "medium",
+ "dropped": [
+  {
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756",
+   "reason": "gone: Workday CXS API returns 404 for the posting and it is absent from the board and a 'data engineer' search (was live 2026-10-26)"
+  }
+ ],
+ "checked": "2026-10-27",
+ "jobs_spec_basis": "saved wd5 board confirmed; careers search results link to thermofisher.wd5 board"
 }

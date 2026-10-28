@@ -13,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires BS/MS or equivalent and '2+ years of experience building intuitive fullstack applications'; $130,000-$160,000; no lead/senior duties",
+      "level_basis": "requires '2+ years of experience building intuitive fullstack applications'; $130,000-$160,000; no lead or senior duties",
       "no_sponsorship": false
     },
     {
@@ -26,18 +26,31 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '2+ year of experience developing production-level vehicular controls software'; $145,000-$190,000; duties implement/test, no lead or architecture ownership (borderline, domain-specific)",
+      "level_basis": "requires '2+ year of experience developing production-level vehicular controls software'; $145,000-$190,000; no lead duties (borderline, domain-specific)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Embedded",
+      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4005123009",
+      "location": "Mountain View, CA; San Francisco Bay Area, United States",
+      "opened": "2025-06-16",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years of software development experience'; no lead or senior duties; posting updated 2026-10-22",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-09-19",
   "last_cycle_basis": "tracker (Simplify) 'Autonomy/AI Software Engineer - Early Career' first seen 2025-09-19",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/kodiak",
   "jobs_spec": "gh:kodiak",
-  "evidence": "Greenhouse full board (67) read 2026-10-19: no new-grad titled role, only Winter 2027 interns. Fullstack UI Tools (2+ yrs) and Controls C++ (2+ yrs) are borderline unlabeled entries, kept. Embedded SWE (2+ yrs, hardware bring-up) left out. Same as prior file.",
+  "evidence": "Greenhouse full board (67) read 2026-10-26: no new-grad titled role. Fullstack UI Tools, Controls C++ and Embedded SWE (each 2+ yrs required, no senior duties) all still on the API board, kept as unlabeled entry-level; rest senior, staff or non-software.",
   "confidence": "medium",
-  "checked": "2026-10-19"
+  "checked": "2026-10-26",
+  "dropped": []
 }

@@ -1,7 +1,6 @@
 {
   "company": "Pylon",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,17 +13,18 @@
       "grad_window": "start full-time Summer 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Title 'Software Engineer, New Grad'; 'can start full-time in Summer 2027'",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "tracker first seen: New Grad - Software Engineer (SF) 2025-09-02 (earlier ones 2024-07-31, 2025-02-21)",
+  "last_cycle_basis": "tracker first seen 2025-09-02: New Grad - Software Engineer, SF (jobs.ashbyhq.com/pylon-labs)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/pylon-labs",
   "jobs_spec": "ashby:pylon-labs",
-  "evidence": "Ashby API 2026-10-20 (full board): Software Engineer, New Grad listed, SF, published 2026-07-09, asks for degree in progress and Summer 2027 start; no sponsorship text.",
+  "evidence": "Ashby full board (15) re-read 2026-10-27: Software Engineer, New Grad live via api, published 2026-07-09, start full-time Summer 2027, no sponsorship text. Other SWE roles ask 3+ yrs; intern excluded.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-27"
 }

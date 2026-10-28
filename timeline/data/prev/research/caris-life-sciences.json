@@ -1,8 +1,5 @@
 {
-  "company": "Caris Life Sciences",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
+  "checked": "2026-10-26",
   "postings": [
     {
       "title": "Associate Software Engineer - Clinical Software Products",
@@ -14,7 +11,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Associate title; requires 0-2 years of professional software engineering experience",
       "no_sponsorship": false
     },
     {
@@ -31,13 +28,16 @@
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": "2025-10-13",
-  "last_cycle_basis": "Tracker: Associate Software Engineer - Clinical Systems (Irving, TX) first seen 2025-10-13",
+  "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Caris Life Sciences",
+  "tier": 5,
+  "status": "open",
+  "last_cycle_opened": "2025-10-13",
+  "last_cycle_basis": "Tracker: Associate Software Engineer - Clinical Systems (Irving, TX) first seen 2025-10-13",
   "jobs_page": "https://carislifesciences.wd12.myworkdayjobs.com/cls",
   "jobs_spec": "wd:carislifesciences/wd12/cls",
-  "evidence": "Workday full board (124) read 2026-10-19, posting text via Workday API: Associate Software Engineer (0-2 yrs) and Software Engineer JR105463 (2+ yrs, IC, well-scoped work) live, canApply true, no end date. Data Integration Engineer (3+ yrs) and Identity Resolution left out. No sponsorship line. Added JR105463 versus earlier file.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday full board (149) 2026-10-26: Associate SWE JR105464 (0-2 yrs) and SWE JR105463 (2+ yrs) both live. Identity Resolution (5+) and Data Integration (3+) ETL roles are experienced.",
+  "confidence": "high"
 }

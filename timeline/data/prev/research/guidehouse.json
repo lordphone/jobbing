@@ -1,17 +1,21 @@
 {
   "company": "Guidehouse",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
-  "postings": [],
   "last_cycle_opened": "2025-10-08",
-  "last_cycle_basis": "tracker first seen 2025-10-08 (Junior AI Specialist, Springfield VA; US-citizenship flagged)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: Junior AI Specialist (Springfield, VA), U.S. citizenship required",
   "jobs_page": "https://guidehouse.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:guidehouse/wd1/External",
-  "evidence": "Workday full board 2026-10-19 (797): US Software Engineer and Data Engineer postings need TS/SCI or Top Secret and 8 yrs; AI Engineer needs Secret and 8 yrs; Full Stack Developer needs 3 yrs and US citizen or green card; Jr. OneStream is finance-system config. No entry-level SWE; last cycle posting gone.",
-  "confidence": "medium",
-  "jobs_spec_basis": "Board returned 802 postings this run (an earlier run listed 80); API lists vary",
-  "dropped": []
+  "dropped": [
+    {
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+      "reason": "gone: absent from Workday board and browser page shows 'page you are looking for doesn't exist' (API endDate was 2026-10-24)"
+    }
+  ],
+  "evidence": "Workday board (761, full) 2026-10-26: Campus 2027 Technical Associate Application Developer (Chicago, opened 2026-10-21, deadline 2026-10-24) now gone. Remaining US software roles need 4-8+ yrs or TS/Secret clearance; Jr. OneStream Developer needs 1 yr OneStream experience, not SWE.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,16 +1,16 @@
 {
  "company": "Restaurant Brands International",
  "tier": 5,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history; only business LDPs and internships seen.",
+ "last_cycle_basis": "no this-cycle or last-cycle new-grad posting found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site",
  "jobs_spec": "wd:rbi/wd3/RBI_External_Career_Site",
- "evidence": "Workday board 2026-10-20 (117, full): software roles are VP or Sr Director. Analyst, Data Engineer, Firehouse Subs (Jacksonville, 1+ yrs, posted 2026-10-19) is a data pipeline analyst role, not SWE, left out. Business MBA programs and internships only.",
- "confidence": "high",
- "dropped": []
+ "evidence": "Workday full board (123) 2026-10-27: software roles are VP, Sr Director or Sr Manager. Analyst, Data Engineer, Firehouse Subs (Jacksonville) is a BI/data analyst role, not counted. Only interns and non-tech graduate programs. No entry SWE.",
+ "confidence": "high"
 }

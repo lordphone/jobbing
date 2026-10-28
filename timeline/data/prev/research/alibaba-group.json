@@ -1,16 +1,43 @@
 {
   "company": "Alibaba Group",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Applied Scientist",
+      "url": "https://campus-talent.alibaba.com/campus/position/199907780044",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-07-30",
+      "date_source": "page text (Updated on 2026-07-30)",
+      "deadline": null,
+      "grad_window": "Graduation 2026-10-31 to 2027-10-30",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Hiring Program 'Alibaba 2027 Graduate Recruitment'; qualifications 'PhD, Master's, or Bachelor's degree'",
+      "no_sponsorship": false
+    },
+    {
+      "title": "LLM and Multimodal Post-training-AliStar",
+      "url": "https://campus-talent.alibaba.com/campus/position/199907820114",
+      "location": "Sunnyvale, CA",
+      "opened": "on or before 2026-07-30",
+      "date_source": "page text (Updated on 2026-07-30)",
+      "deadline": null,
+      "grad_window": "Graduation 2026-10-31 to 2027-10-30",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Hiring Program 'Alibaba 2027 Graduate Recruitment'; qualifications 'Master's or PhD degree'",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no US new-grad SWE history found; jobs.py history has 0 entries",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://talent.alibaba.com/en/home?lang=en",
+  "jobs_page": "https://campus-talent.alibaba.com/campus/position?batchId=100000760001",
   "jobs_spec": null,
-  "evidence": "Browser pane unavailable 2026-10-19 (tab cap) and the board is JS-only (WebFetch/curl blocked), so relied on the 2026-10-18 browser read of talent-holding.alibaba.com: 27 experienced-hire jobs, only US engineering role is SRE Bellevue (experienced). Web search shows a 2027 internship program incl. Sunnyvale (intern, not counted). Campus hiring China-focused.",
-  "confidence": "low",
-  "dropped": []
+  "evidence": "Campus site JSON search (campus_group_official_site, 8 jobs) read 2026-10-26: Applied Scientist and LLM post-training, both Sunnyvale, still listed in the 2027 Graduate Recruitment (ML/LLM research-flavored, MS/BS ok). Other campus jobs are non-US or non-engineering. Dates are 'Updated on', so a bound.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

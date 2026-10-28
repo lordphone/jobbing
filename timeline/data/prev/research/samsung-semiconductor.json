@@ -1,16 +1,16 @@
 {
  "company": "Samsung Semiconductor",
  "tier": 5,
+ "checked": "2026-10-26",
  "status": "not_yet",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "jobs.py history found 0 tracker postings for Samsung Semiconductor in the 2025-07..2026-01 window",
+ "last_cycle_basis": "jobs.py history: no entry-level SWE tracker postings in 2025-07..2026-01",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
  "jobs_spec": "wd:sec/wd3/Samsung_Careers",
- "evidence": "Workday full board 2026-10-19 (651): 2027 SEED New Grad (Taylor TX) is fab/EE/ME, not SWE; Engineer I Data Engineering (Plano R121061) requires 3 years and says no sponsorship. No entry-level SWE found.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "dropped": []
+ "evidence": "Workday board (659, full) read 2026-10-26: 2027 SEED New Grad (Taylor TX) is fab engineering, not SWE. Engineer I Data Engineering (Plano) says 'must have 3 years of experience' in Python modeling and ETL, left out. IT Security Engineer 3+, 5G call-processing roles 8+. Other US roles fab/equipment.",
+ "confidence": "medium"
 }

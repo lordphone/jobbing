@@ -1,16 +1,30 @@
 {
-  "company": "Thermo Fisher Scientific",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for a software role in Jul 2025 - Jan 2026",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.thermofisher.com/global/en/search-results",
-  "jobs_spec": "wd:thermofisher/wd5/ThermoFisherCareers",
-  "evidence": "Workday full board (2979) 2026-10-19 plus keyword searches: US software roles need 3-5+ yrs (AVI Software adv degree + 3, Data Systems Engineer 3+, Forward Deployed Engineer 5+). Engineer I roles are mechanical or field service. Associate Systems Developers are India only.",
-  "confidence": "medium"
+ "company": "Thermo Fisher Scientific",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Data Engineer",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Data-Engineer_R-01372756",
+   "location": "Pittsburgh, PA",
+   "opened": "2026-10-22",
+   "date_source": "workday startDate",
+   "deadline": "2026-11-12",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "\"This is an entry-level data engineering role\"; \"0\u20132 years of experience\"; Python/PySpark/Databricks pipelines",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history of a new-grad SWE posting",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.thermofisher.com/global/en/search-results",
+ "jobs_spec": "wd:thermofisher/wd5/ThermoFisherCareers",
+ "evidence": "Workday board 2026-10-26 (searched, not full, 2116 of 3017): Data Engineer (Pittsburgh) live via API, 0-2 yrs, entry-level, ends 2026-11-12. Other US 'Engineer I' roles are field service, mechanical or lab; no other software roles.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-26"
 }

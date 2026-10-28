@@ -1,16 +1,16 @@
 {
   "company": "Constellation Energy",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found Jul 2025-Jan 2026; earliest tracked entry tech postings (Associate SWE - AI, Associate Data Scientist - AI) first seen 2026-08 (this cycle)",
+  "last_cycle_opened": "2026-08",
+  "last_cycle_basis": "Aug 2026 Associate Software Engineer - AI posting jobs/138264 (seen in earlier run, now 404)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.constellationenergy.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-20 (339 jobs): no Associate Software Engineer - AI or other entry SWE; only summer 2027 internships (incl. IT Software Development) and experienced roles. The Aug-Sep 2026 Associate SWE - AI postings are gone.",
+  "evidence": "Jibe API (jobs.constellationenergy.com/api/jobs) searched 2026-10-27 for software, developer, associate software, AI, data engineer, analyst, programmer: no entry SWE. Prior Aug 2026 Associate Software Engineer - AI posting (jobs/138264) now returns 404. Only 2027 IT/software summer interns and experienced roles are live.",
   "confidence": "medium"
 }

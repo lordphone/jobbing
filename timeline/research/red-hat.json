@@ -1,30 +1,30 @@
 {
-  "company": "Red Hat",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573",
-      "location": "Raleigh, NC; Boston, MA; Lowell, MA",
-      "opened": "2026-10-05",
-      "date_source": "workday postedOn",
-      "deadline": "2026-10-30",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "Tracker history: 'Associate Software Engineer' (Durham/Raleigh/Boston), first seen 2025-09-15.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://redhat.wd5.myworkdayjobs.com/jobs",
-  "jobs_spec": "wd:redhat/wd5/jobs",
-  "evidence": "Workday API 2026-10-20 (173, full): Associate SWE R-059573 (Raleigh; Boston; Lowell) posted 2026-10-05, endDate 2026-10-30, live; text says no visa sponsorship. Raleigh Software Engineer needs 3 yrs (senior); rest interns, senior or non-US.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Red Hat",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Software Engineer",
+   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573",
+   "location": "Raleigh, NC; Boston, MA; Lowell, MA",
+   "opened": "2026-10-05",
+   "date_source": "workday startDate",
+   "deadline": "2026-10-30",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2025-09-15",
+ "last_cycle_basis": "Tracker history: 'Associate Software Engineer' (Durham/Raleigh/Boston), first seen 2025-09-15.",
+ "jobs_page": "https://redhat.wd5.myworkdayjobs.com/jobs",
+ "jobs_spec": "wd:redhat/wd5/jobs",
+ "evidence": "Workday API 2026-10-27 (151, full): Associate SWE R-059573 (Raleigh; Boston; Lowell) startDate 2026-10-05, endDate 2026-10-30, live; text says no visa sponsorship. Raleigh Software Engineer R-059799 requires 3 yrs, left out; rest are non-US, intern, senior or clearance.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

@@ -1,30 +1,21 @@
 {
   "company": "NCR Voyix",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
+  "checked": "2026-10-27",
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "SW Engineer I",
-      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
-      "location": "Atlanta, GA",
-      "opened": "2026-06-26",
-      "date_source": "workday startDate (tracker first seen 2026-06-26)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
+      "reason": "gone: absent from full Workday board (176), search for its title finds nothing, job page returns permission denied"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-11-04",
   "last_cycle_basis": "Tracker history: Software Engineer I, Atlanta GA, first seen 2025-11-04.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ncr.wd1.myworkdayjobs.com/ext_us",
   "jobs_spec": "wd:ncr/wd1/ext_us",
-  "evidence": "Fresh Workday full board 2026-10-20 (177): SW Engineer I Atlanta still live ($104.9-111K, bachelor's CS). Other SWE roles need 1-6, 3-5 or 4+ yrs, or mentoring; Associate Applied Engineer is sales engineering.",
+  "evidence": "Workday full board (176) read 2026-10-27: entry-level Software Engineer (0-2 yrs, Atlanta, posted 2026-10-21) is gone. Remaining SWE roles ask 1-6, 3-5, 4+ yrs or are SWE II; Associate Applied Engineer is sales engineering. Closed.",
   "confidence": "high"
 }

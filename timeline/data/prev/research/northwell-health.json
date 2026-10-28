@@ -1,16 +1,21 @@
 {
   "company": "Northwell Health",
+  "tier": 5,
   "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192698",
+      "reason": "gone: jobs.py detail says NOT ON THE BOARD and absent from the full board (Associate Software Engineer, Manhasset, posted 2026-07-23)"
+    }
+  ],
   "last_cycle_opened": "2025-11-17",
   "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Manhasset NY 2025-11-17",
-  "jobs_page": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
-  "jobs_spec": "oracle:eppr.fa.us2.oraclecloud.com/CX_2",
-  "evidence": "Oracle CX_2 full board re-read 2026-10-19 (947 listed): no software, developer or data engineer titles. Associate Software Engineer (Manhasset, posted Jul 2026) is gone, so closed. Not labeled new grad.",
-  "confidence": "medium",
-  "dropped": [],
-  "postings": [],
   "excluded_reason": null,
   "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+  "jobs_page": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs",
+  "jobs_spec": "oracle:eppr.fa.us2.oraclecloud.com/CX_2",
+  "evidence": "Oracle CX_2 board read in full (933) 2026-10-26: Associate Software Engineer (job 192698, posted 2026-07-23) is gone. Software Engineer FHIR & Healthcare APIs (191043, Melville) states no years but reads mid-level (Apigee proficiency, coordinates team tasks), so not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

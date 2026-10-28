@@ -1,16 +1,31 @@
 {
- "company": "CNH (CNH Industrial)",
- "status": "no_program_found",
- "postings": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history; none found",
- "jobs_page": "https://join.cnh.com/search/?q=software%20engineer",
- "jobs_spec": null,
- "evidence": "join.cnh.com RSS keyword feeds (software, developer, data engineer, machine learning, graduate, entry level, full stack) 2026-10-20: US software roles are interns (Software Engineer Intern x2), Software Engineer Tempe (earlier read: Master's plus 3 yrs each), ICT/SAP project managers. No full-time entry SWE.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-20",
- "excluded_reason": null,
- "no_sponsorship": false,
- "dropped": []
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://join.cnh.com/job/Oak-Brook-Software-Engineer-I-IL-60521/1374441255/",
+      "location": "Oak Brook, IL",
+      "opened": "on or before 2026-10-26",
+      "date_source": "page text (join.cnh.com RSS pubDate 2026-10-26)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; 'Bachelor's or Master's in Computer Science; 2 years experience or equivalent combination of education and experience (Masters + Internship)'; Job Type Full Time; $74,625-$114,425",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE tracker history found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27",
+  "company": "CNH (CNH Industrial)",
+  "tier": 5,
+  "status": "open",
+  "jobs_page": "https://join.cnh.com/search/?q=software%20engineer",
+  "jobs_spec": null,
+  "evidence": "join.cnh.com RSS keyword feeds and posting page 2026-10-27: Software Engineer I (Oak Brook, Apply Now, Bachelor's/Master's CS, 2 yrs incl. Master's + internship) still live and entry-level; other SWE/AI posts Intern, Senior or 3-5+ yrs.",
+  "confidence": "medium",
+  "jobs_spec_basis": "join.cnh.com is CNH's own SuccessFactors/jobs2web site; no API spec, read via RSS feed and posting pages"
 }

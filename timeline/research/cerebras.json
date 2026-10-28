@@ -1,7 +1,7 @@
 {
   "company": "Cerebras",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -46,7 +46,7 @@
     {
       "title": "AI Inference Core - Software Integration Engineer",
       "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887",
-      "location": "United States and Canada (no city listed)",
+      "location": "Sunnyvale, CA; Toronto, Canada",
       "opened": "2026-02-05",
       "date_source": "ashby publishedAt",
       "deadline": null,
@@ -68,33 +68,16 @@
       "level": "unlabeled",
       "level_basis": "requires Bachelor's/Master's/PhD only, no years; no senior duties",
       "no_sponsorship": false
-    },
-    {
-      "title": "Full Stack Engineer - Console Team",
-      "url": "https://jobs.ashbyhq.com/cerebras/79eec4ee-8c02-407a-899c-3848f7c2a8b8",
-      "location": "Sunnyvale, CA",
-      "opened": "2026-07-17",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'typically 1-3 years of industry experience'; no lead duties",
-      "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e",
-      "reason": "gone: Member of Technical Staff (Software Engineer) is absent from the Ashby board and the Ashby posting lookup returns null"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2026-01-06",
   "last_cycle_basis": "tracker first seen: Codesign & Nextgen - New College Grad, Sunnyvale CA, 2026-01-06 (Ashby publishedAt 2026-01-07); earlier cycle 2024-10-04",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/cerebras",
   "jobs_spec": "ashby:cerebras",
-  "evidence": "Ashby board 2026-10-20 (121 postings, full): Kernel Engineer New Grad and CoDesign NCG (evergreen) are new-grad titles, plus 4 unlabeled roles with no or <=3 yrs. Toronto 'New Grad 2026' SWE and DevOps are leftovers (graduating in 2026). MTS posting is gone.",
-  "confidence": "high"
+  "evidence": "Ashby board (118, full) re-read 2026-10-27 via API. Five postings still live: Kernel Engineer New Grad, CoDesign NCG, plus 3 unlabeled (no years, new grads/junior welcome). Toronto New Grad 2026 roles (grad 2026) are last-cycle leftovers. Host/Network IO and Core ML roles left out as unclear (1 yr with MS or 3+ yrs; no years).",
+  "confidence": "high",
+  "jobs_spec_basis": "saved board kept: ashby:cerebras lists this company own jobs"
 }

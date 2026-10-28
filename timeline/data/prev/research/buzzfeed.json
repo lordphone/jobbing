@@ -1,16 +1,17 @@
 {
  "company": "BuzzFeed",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": "2024-07",
- "last_cycle_basis": "Tracker: iOS Software Engineer (Remote USA) first seen 2024-07-02, https://boards.greenhouse.io/buzzfeed/jobs/6086132 (older than last cycle).",
+ "last_cycle_basis": "tracker history: iOS Software Engineer first seen 2024-07-02 (Greenhouse), two years ago",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://www.buzzfeed.com/about/jobs",
  "jobs_spec": null,
- "evidence": "buzzfeed.com/about/jobs Openings section empty when fetched; Greenhouse tokens buzzfeed and buzzfeedinc return 404; web search shows no 2026 SWE roles. Browser pane unavailable, so list not seen via JS.",
- "confidence": "low",
- "dropped": []
+ "evidence": "Browser 2026-10-26: buzzfeed.com/about/jobs Openings widget requests boards-api.greenhouse.io/v1/boards/buzzfeed, which returns 404 (no board, no openings listed). No postings at all, so no entry SWE role. Last tracker iOS SWE was 2024-07.",
+ "confidence": "medium",
+ "jobs_spec_basis": "page widget calls greenhouse board buzzfeed, API 404, nothing listed"
 }

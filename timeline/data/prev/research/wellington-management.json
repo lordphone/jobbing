@@ -1,16 +1,16 @@
 {
   "company": "Wellington Management",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2026-02",
   "last_cycle_basis": "tracker 'Technology Associate Programme' London 2026-02-10 (outside US); no US posting last cycle found",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://wellington.wd5.myworkdayjobs.com/Campus",
   "jobs_spec": "wd:wellington/wd5/Campus",
-  "evidence": "Campus board (9, full) 2026-10-19: non-US internships and early career only. Boston Technology Associate (tracker 2026-09-08) not on the board and its page API returns 403, so gone. External board (124, full): Senior/Lead SWE only; Quality Engineering Analyst is QA.",
-  "confidence": "medium"
+  "evidence": "Campus (16) and External (126) Workday boards full 2026-10-26: only non-US interns, co-ops, business roles, Senior/Lead SWE, and a Quality Engineering Analyst (2+ yrs QA, not SWE). Boston Technology Associate (R94786-1, seen 2026-09-08) now shows 'page doesn't exist' in browser, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

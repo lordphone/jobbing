@@ -1,31 +1,31 @@
 {
-  "company": "Whatnot",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, 2027 New Grad",
-      "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
-      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
-      "opened": "2026-08-31",
-      "date_source": "ashby job posting API publishedDate",
-      "deadline": null,
-      "grad_window": "degree by Summer 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "tracker first-seen for prior cycle (carried from earlier research file; jobs.py history shows 2024-09-02 'New Grad 2025' and a 2026-07-13 NYC posting)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.whatnot.com/careers/discover",
-  "jobs_spec": null,
-  "jobs_spec_basis": "Ashby posting-api returns 404 for whatnot; jobs.ashbyhq.com/whatnot page embeds the job list",
-  "evidence": "Ashby GraphQL (jobs.ashbyhq.com/whatnot) 2026-10-19: Software Engineer, 2027 New Grad still listed (published 2026-08-31; graduate by Summer 2027; hubs NYC/SF/LA/Seattle). Other US SWE roles are senior/staff or mid-level.",
-  "confidence": "high"
+ "checked": "2026-10-27",
+ "postings": [
+  {
+   "title": "Software Engineer, 2027 New Grad",
+   "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA",
+   "opened": "2026-08-31",
+   "date_source": "ashby publishedDate (GraphQL)",
+   "deadline": null,
+   "grad_window": "Graduating by Summer 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "title '2027 New Grad'; 'Graduated with a CS or Software Engineering degree by Summer 2027'",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-04",
+ "last_cycle_basis": "tracker first-seen for prior cycle (carried from earlier research file; jobs.py history shows 2024-09-02 'New Grad 2025' and a 2026-07-13 NYC posting)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "confidence": "high",
+ "company": "Whatnot",
+ "tier": 3,
+ "status": "open",
+ "jobs_page": "https://www.whatnot.com/careers/discover",
+ "jobs_spec": null,
+ "jobs_spec_basis": "Ashby public posting-api not available for whatnot; jobs.ashbyhq.com/whatnot GraphQL lists the board (145 postings)",
+ "evidence": "2026-10-27: Ashby GraphQL board list (143 postings) still lists Software Engineer, 2027 New Grad (NY, SF, LA, Seattle; published 2026-08-31; graduated by Summer 2027). Other US SWE/ML roles are Senior/Staff or ask 4+ yrs; a Summer 2027 intern posting excluded."
 }

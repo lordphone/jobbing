@@ -1,16 +1,25 @@
 {
   "company": "Intuitive Surgical",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
+  "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000156658099",
+      "reason": "gone: SmartRecruiters API active=false, not on board"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000156656129",
+      "reason": "gone: SmartRecruiters API active=false, not on board"
+    }
+  ],
   "last_cycle_opened": "2024-10-01",
-  "last_cycle_basis": "Tracker: RISE Software Engineer (Sunnyvale) first seen 2024-10-01; no 2025 posting found",
+  "last_cycle_basis": "tracker first-seen: RISE Software Engineer, Sunnyvale (2024-10-01); no dated 2025-26 cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Intuitive",
   "jobs_spec": "sr:Intuitive",
-  "status": "closed",
-  "evidence": "sr:Intuitive full (730) 2026-10-20: RISE Software Engineer (Sunnyvale, 2026-09-21) is closed per history/API. Software Engineer (2026-10-14) is a data-platform lead-style role asking 3+ yrs; Systems Integration SWE needs 5+ yrs; not entry-level.",
-  "confidence": "medium"
+  "evidence": "sr:Intuitive full board (777) read 2026-10-27. The two Full-Stack Software Engineer postings (Sunnyvale, 2026-10-20, Junior/Early-Career 1-2 yrs) now return CLOSED (active=false) and are absent from the board. Remaining US SWEs ask 3+ yrs or own/mentor duties.",
+  "confidence": "high"
 }

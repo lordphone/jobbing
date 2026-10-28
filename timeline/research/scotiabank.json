@@ -1,7 +1,7 @@
 {
   "company": "Scotiabank (Bank of Nova Scotia)",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -9,35 +9,53 @@
       "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
       "location": "Toronto, ON",
       "opened": "2026-10-04",
-      "date_source": "careers search list date",
+      "date_source": "page datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "'Junior' in title",
       "no_sponsorship": false
     },
     {
-      "title": "Junior Software Engineer (req 264671)",
-      "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/604648717/",
+      "title": "Associate Platform Engineer (req 261791)",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Associate-Platform-Engineer-ON-M5H-1H1/603281017/",
       "location": "Toronto, ON",
-      "opened": "2026-09-20",
-      "date_source": "earlier run (careers site); search list shows 2026-10-19",
+      "opened": "2026-10-03",
+      "date_source": "page datePosted",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Associate' in title; no years asked; React, Node JS, Java app development, no senior duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Full stack Developer (Front End Focus) (req 264129)",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Full-stack-Developer-%28Front-End-Focus%29-ON-M1L4S2/603523017/",
+      "location": "Toronto, ON",
+      "opened": "2026-10-10",
+      "date_source": "page datePosted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "'Junior' in title; requires familiarity with one language, Git, REST",
+      "level_basis": "'Junior' in title; posting lists 3+ yrs, which is not enforced for a Junior title",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/604648717/",
+      "reason": "gone: page says 'We are currently not accepting any further applicants for this role'"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.scotiabank.com/go/Student-&-New-Grad-Jobs/2298417/",
   "jobs_spec": null,
-  "evidence": "Careers search 2026-10-20: both Toronto Junior Software Engineer postings show Apply now, no years asked. Other Toronto Software Engineer/Developer roles need 3-7+ yrs. US roles are capital markets.",
+  "evidence": "2026-10-27: searched jobs.scotiabank.com (software, developer, engineer, programmer, junior) and re-read the Toronto software postings over HTTP. Three counted ones show Apply now; Junior Software Engineer (req 264671) now says not accepting applicants. Full Stack Developer 603002317 asks 2-4 yrs (internship counts), left out. Others are mid or senior.",
   "confidence": "medium"
 }

@@ -1,16 +1,43 @@
 {
   "company": "Intuitive Surgical",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000156658099",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-20",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Level: Junior / Early-Career (1\u20132 years of professional experience)\"",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000156656129",
+      "location": "Sunnyvale, CA",
+      "opened": "2026-10-20",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "\"Level: Junior / Early-Career (1\u20132 years of professional experience)\"",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
   "last_cycle_opened": "2024-10-01",
-  "last_cycle_basis": "Tracker: RISE Software Engineer (Sunnyvale) first seen 2024-10-01; no 2025 posting found",
+  "last_cycle_basis": "tracker first-seen: RISE Software Engineer, Sunnyvale (2024-10-01); no dated 2025-26 cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/Intuitive",
   "jobs_spec": "sr:Intuitive",
-  "evidence": "SmartRecruiters full board (746): RISE Software Engineer (Sunnyvale, 2026-09-21) is active=false per API, so closed. Software Engineer (Sunnyvale, 10-14) is a data-platform technical-lead role, Full Stack 3+ yrs, others 3-6+ yrs; not entry-level.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "sr:Intuitive full board (768) read 2026-10-26. Two Full-Stack Software Engineer postings (Sunnyvale, released 2026-10-20) live via API, level Junior/Early-Career 1-2 yrs. Other US SWEs (Full Stack 3+ yrs, Embedded 4-6+ yrs, Systems Integration 5+, Software Engineer 3+ yrs alt, robotics PhD/MS+yrs) left out. Earlier-closed postings stay out.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

@@ -1,7 +1,6 @@
 {
   "company": "ADT",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,19 +11,20 @@
       "date_source": "tracker first seen",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "Junior title; requires BS CS, no years of experience listed",
       "no_sponsorship": true
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No new-grad SWE posting in tracker history for ADT (name hits were other companies).",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
   "jobs_spec": "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle full board 2026-10-20 (675): Android Mobile SWE needs 3+ yrs; others mid or lead. Junior Java Developer 3021574 (not on public list, no dates) page loads in browser, BS CS, no years, no sponsorship of any work authorization.",
-  "confidence": "medium"
+  "evidence": "Oracle full board (544) 2026-10-27: Android Mobile SWE needs 3+ yrs; Full Stack lead senior. Junior Java Developer 3021574 not in public list but requisition API returns its description (says it cannot sponsor); browser unavailable. Kept open per earlier run.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

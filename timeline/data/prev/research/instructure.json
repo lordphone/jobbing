@@ -1,16 +1,30 @@
 {
- "company": "Instructure (Canvas)",
- "status": "no_program_found",
- "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history found; unknown.",
- "jobs_page": "https://jobs.ashbyhq.com/instructure",
- "jobs_spec": "ashby:instructure",
- "evidence": "Ashby full board (59) 2026-10-19: engineering postings (junior and AI platform included) are all Budapest, Hungary or senior; US roles are solutions engineers and non-engineering. No US/Toronto/Vancouver entry SWE.",
- "confidence": "high",
- "tier": 5,
- "checked": "2026-10-19",
- "postings": [],
- "dropped": [],
- "excluded_reason": null,
- "no_sponsorship": false
+  "company": "Instructure (Canvas)",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Engineer, Marketing",
+      "url": "https://jobs.ashbyhq.com/instructure/09dbdc35-5e01-4131-b95f-1d8298f0e8e9",
+      "location": "Remote (US)",
+      "opened": "2026-10-22",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years in marketing technology, automation, software, or a comparable technical role or equivalent hands-on project experience'; builds production LLM tools and API integrations, no lead duties; $85-90K",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; no SWE new-grad postings in tracker history",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.ashbyhq.com/instructure",
+  "jobs_spec": "ashby:instructure",
+  "evidence": "Ashby full board (59) read 2026-10-26: other engineering posts are Budapest or senior. Only US role is AI Engineer, Marketing (US-remote, 2+ yrs, builds LLM tools for marketing); borderline since it serves marketing, counted as unlabeled AI engineer and kept from the earlier run.",
+  "confidence": "low",
+  "checked": "2026-10-26"
 }

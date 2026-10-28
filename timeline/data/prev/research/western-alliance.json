@@ -1,30 +1,16 @@
 {
   "company": "Western Alliance",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineer I",
-      "url": "https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Dallas-TX/Engineer-I_R14052",
-      "location": "Dallas, TX; Phoenix, AZ",
-      "opened": "2026-10-15",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'begin your career'; 'Working under the guidance of senior engineers'; Bachelor's, programming in Python/C#/JS; builds and tests AI agents and automation",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
+  "status": "not_yet",
+  "postings": [],
   "last_cycle_opened": "2025-09-25",
   "last_cycle_basis": "Tracker first seen 2025-09-25, Engineer I - AI Business Engineer, Phoenix",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://westernalliancebank.wd5.myworkdayjobs.com/WAB",
   "jobs_spec": "wd:westernalliancebank/wd5/WAB",
-  "evidence": "Workday full board (200) 2026-10-19; detail live: Engineer I (Dallas/Phoenix, startDate 2026-10-15) is entry-level AI-agent development, same family as last cycle Engineer I AI roles. Rest Staff/Principal/Senior; 2027 development program is credit analyst.",
-  "confidence": "medium"
+  "evidence": "Workday full board (138) and keyword searches (Engineer I, Software Engineer, R14052) 2026-10-26: tracker Engineer I R14052 (Dallas) is not listed. Engineers are Staff/Principal/Senior; 2027 program is credit analyst and internships only. Entry track existed last cycle.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

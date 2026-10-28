@@ -1,21 +1,17 @@
 {
-  "company": "Riot Games",
-  "tier": 3,
-  "status": "closed",
-  "dropped": [
-    {
-      "url": "https://www.riotgames.com/en/work-with-us/job/8234671",
-      "reason": "gone: Greenhouse API detail says NOT ON THE BOARD and it is not in the 175-posting board list"
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad tracker history found (the 'Riot' history rows are another company on Oracle Cloud)",
-  "jobs_page": "https://job-boards.greenhouse.io/riotgames",
-  "jobs_spec": "gh:riotgames",
-  "evidence": "Greenhouse board read in full (175) 2026-10-20. SWE - Central Technology, Infrastructure (LA, 2+ yrs, published 2026-10-07, job 8234671) is gone. Other US eng roles are Senior/Staff/Principal/Manager; only a Summer 2027 SWE intern; China contract roles not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "Riot Games",
+ "tier": 3,
+ "checked": "2026-10-27",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no new-grad tracker history found (the 'Riot' history rows are another company on Oracle Cloud)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/riotgames",
+ "jobs_spec": "gh:riotgames",
+ "evidence": "Greenhouse board read in full (184) 2026-10-27. SWE Central Technology Infrastructure (LA, 2+ yrs, first published 2026-10-07, job 8234671) is still off the board and its API returns 404, so closed. Other engineering roles are Senior/Staff/Principal/Manager or China contract, plus an MBA program and a 2027 SWE intern.",
+ "confidence": "medium",
+ "jobs_spec_basis": "saved board gh:riotgames confirmed; riotgames.com job links carry gh_jid"
 }

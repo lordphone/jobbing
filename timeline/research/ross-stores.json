@@ -1,16 +1,16 @@
 {
   "company": "Ross Stores",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2026-07-20",
-  "last_cycle_basis": "tracker history: Engineer 1, Dublin CA, first seen 2026-07-20 (rossstores.taleo.net, job 26006490); Taleo page says requisition no longer available",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: Engineer 1, Dublin CA, 2026-07-20",
   "jobs_page": "https://jobs.rossstores.com/search/searchjobs",
   "jobs_spec": null,
-  "evidence": "jobs.rossstores.com sitemap 2026-10-20 (7185 jobs): IT titles are Engineer II (7+ yrs), III, IV, Security Engineer II/III, none Engineer I. Dublin CA Engineer 1 req (opened 2026-07-20) was seen gone 2026-10-17 and is absent now.",
-  "confidence": "medium"
+  "evidence": "jobs.rossstores.com job sitemap re-read 2026-10-27 (7181 jobs): IT titles are Engineer II (7+ yrs sampled), III, IV, Security Engineer II/III; no Engineer I, developer or graduate title. Dublin CA Engineer 1 req (first seen 2026-07-20) no longer listed, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "postings": []
 }

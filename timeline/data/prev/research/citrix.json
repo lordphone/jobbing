@@ -1,16 +1,16 @@
 {
  "company": "Citrix (Cloud Software Group)",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "no_program_found",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history found; unknown.",
+ "last_cycle_basis": "no tracker history or dated first-party source found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.cloud.com/jobs/search",
  "jobs_spec": null,
- "evidence": "careers.cloud.com searched in browser 2026-10-19 (HTTP list blocked by bot challenge): 'engineer' results are sales/technology strategists plus one Lead Application Development Engineer (San Ramon); a graduate/junior/developer query returned nothing. No new-grad or entry SWE.",
+ "evidence": "careers.cloud.com/jobs/search read via WebFetch 2026-10-26, both pages (56 listings): only engineering roles are Lead Application Development Engineer and Lead Product Security Engineer (San Ramon), both lead-level. No new-grad or entry-level software roles.",
  "confidence": "medium"
 }

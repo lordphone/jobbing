@@ -1,7 +1,6 @@
 {
   "company": "Indeed",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,36 +8,24 @@
       "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=17c2d37519bd8374",
       "location": "Austin, TX (posting says not considering candidates based in Austin, Texas)",
       "opened": "on or before 2026-10-06",
-      "level_basis": "Software Engineer I; requires bachelor's only, no years; 'Develop, test, and maintain features'; $94K-$142K",
-      "date_source": "company page listing opened in browser 2026-10-18 (exact date not shown); earlier seen 2026-10-08",
-      "deadline": null,
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-04",
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Site Reliability Engineer I",
-      "url": "https://www.indeed.com/cmp/Indeed/jobs?jk=a2e2294a4c0bc885",
-      "location": "Remote (US)",
-      "opened": "on or before 2026-10-07",
-      "level_basis": "Site Reliability Engineer I; requires bachelor's only, no years; $85K-$178K",
-      "date_source": "company page listing opened in browser 2026-10-18 (exact date not shown); earlier seen 2026-10-08",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
+      "level_basis": "Software Engineer I; bachelor's only, no years; 'Develop, test, and maintain features'; $94K-$142K",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker or first-party record found for a 2025-26 new-grad SWE posting.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.indeed.com/cmp/Indeed/jobs",
   "jobs_spec": null,
   "jobs_spec_basis": "Indeed's own company jobs page is its job list; no API board",
-  "evidence": "2026-10-20: Indeed company jobs page in browser (82 jobs, all 5 pages scanned); Software Engineer I (Austin) opened: bachelor's only, no years, entry duties, and Site Reliability Engineer I (Remote) still listed. Only I-level roles; rest II+/senior/intern.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-27: Indeed company jobs page (79 jobs) lists Software Engineer I (Austin) as the only entry SWE; posting page still shows Apply, bachelor's required, deadline text 10/04/2026 (passed, listing not removed; may be extended). Other SWE roles are II and up; interns.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

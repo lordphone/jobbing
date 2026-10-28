@@ -1,16 +1,16 @@
 {
   "company": "Workiva",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no tracker entries; new-grad hiring mostly via intern conversion",
+  "last_cycle_basis": "No tracker history or university-recruiting page for new-grad SWE found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://workiva.wd503.myworkdayjobs.com/careers",
   "jobs_spec": "wd:workiva/wd503/careers",
-  "evidence": "Rechecked 2026-10-20 on full board API, same result. Workday API 2026-10-19, 107 postings (full): SWE roles are Senior/Staff/Principal; Software Support Engineer is 2+ yrs support, FDE needs 5+ yrs. No entry-level SWE.",
-  "confidence": "high"
+  "evidence": "Workday API 2026-10-27 (94, full): SWE roles are Senior/Staff/Principal; Product Support Engineer is support (Amsterdam); Forward Deployed Engineer (Growth Solutions, US remote) requires 5+ years. Only a Summer 2027 ML intern. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": []
 }

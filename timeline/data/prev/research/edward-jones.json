@@ -1,16 +1,16 @@
 {
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "postings": [],
   "company": "Edward Jones",
+  "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no first-party dated new-grad SWE posting found",
+  "last_cycle_basis": "no tracker history; no SWE new-grad posting found",
   "jobs_page": "https://careers.edwardjones.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-19: keyword 'software engineer' gives 11 results, all Engineer II-IV, architect or developer; none entry-level SWE. Students & Recent Grads category has no tech track found.",
-  "confidence": "medium"
+  "evidence": "2026-10-26 browser pane unavailable and careers site is JS-rendered, so not re-read. Last read 2026-10-24: 'software engineer' search gave Engineer III/IV and other senior roles, no entry SWE or new-grad track. Kept no_program_found.",
+  "confidence": "low",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

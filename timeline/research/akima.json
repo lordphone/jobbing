@@ -1,17 +1,16 @@
 {
   "company": "Akima",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
+  "last_cycle_basis": "no new-grad SWE track found; tracker history shows only clearance-based contract roles",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.akima.com/jobs",
   "jobs_spec": null,
-  "evidence": "careers.akima.com/api/jobs read in full 2026-10-20 (758 jobs): no entry-level SWE. Associate Software Programmer needs active TS/SCI and 3+ yrs, Web Developer needs 3+ yrs and US citizenship with Secret, Qlik 5+ yrs, other developer roles clearance or senior. No campus program found.",
-  "confidence": "medium",
-  "jobs_spec_basis": "akima.com/careers 'view all jobs' goes to careers.akima.com/jobs (iCIMS front end with a jobs API); no jobs.py spec"
+  "evidence": "careers.akima.com/api/jobs read in full 2026-10-27 (738 jobs): no entry SWE. Associate Software Programmer (Fort Detrick) is titled 'TS clearance, SCI eligibility' and needs 3+ yrs; Web Developer 3+ yrs; Unity Game Developer, Junior Data Scientist, DevSecOps I mention clearance or citizenship.",
+  "confidence": "medium"
 }

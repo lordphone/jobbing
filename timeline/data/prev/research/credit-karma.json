@@ -1,44 +1,35 @@
 {
-  "company": "Credit Karma",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer 1 (Intuit-wide, category New College Grad; Credit Karma is an Intuit company)",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
-      "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
-      "opened": "2025-08-14",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": "degree completed within the last 12 months",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Category 'New College Grad'; 'less than 12 months of relevant professional work experience'; reposted from jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720 (now 404)",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer 1, Canada Tax Content (Intuit Canada, same Intuit board)",
-      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-18",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Page: 'an entry-level, growth-oriented role'; 1-2 yrs or recent BS/MS graduate",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "Intuit Software Engineer 1 page JSON-LD datePosted 2025-8-14 (https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720); tracker first seen 2025-10-22",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
-  "jobs_spec": null,
-  "jobs_spec_basis": "Credit Karma roles post on the parent Intuit board (jobs.intuit.com); no API",
-  "evidence": "2026-10-19 Intuit board (Credit Karma is an Intuit company; roles post there). Reopened both pages, Apply Now shown: Software Engineer 1 (New College Grad, posted 2026-10-15, 5 US cities) and Toronto Software Developer 1 (2026-09-18). Both Intuit-wide, not Credit Karma-branded. CK-branded search (115) has only Staff/Senior engineers and 2027 interns.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Credit Karma",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer 1 (Intuit-wide, category New College Grad; Credit Karma is an Intuit company)",
+   "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+   "location": "Mountain View, CA; Atlanta, GA; Charlotte, NC; New York, NY; San Diego, CA",
+   "opened": "2025-08-14",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": null,
+   "grad_window": "degree completed within the last 12 months",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Category 'New College Grad'; 'less than 12 months of relevant professional work experience'; reposted from jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720 (now 404); this link's datePosted 2026-10-15",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+   "reason": "gone: page returns 404 on 2026-10-26"
+  }
+ ],
+ "last_cycle_opened": "2025-08-14",
+ "last_cycle_basis": "Intuit Software Engineer 1 page JSON-LD datePosted 2025-8-14 (https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720); tracker first seen 2025-10-22",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
+ "jobs_spec": null,
+ "evidence": "Credit Karma careers send to the Intuit board (123 results for Credit Karma, page 1 all Staff/Senior). Intuit-wide Software Engineer 1 (New College Grad, 5 US cities) still live with Apply, datePosted 2026-10-15 (repost). Toronto Software Developer 1 now 404. Not CK-branded; kept as an earlier run counted it.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

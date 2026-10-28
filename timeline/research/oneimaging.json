@@ -1,6 +1,7 @@
 {
   "company": "OneImaging",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -56,14 +57,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no 2025-26 new-grad posting in tracker history; board's older SWE roles need 4-7+ years",
+  "last_cycle_basis": "no 2025-26 new-grad posting in tracker history; board's older SWE roles (2025-09) need 4-7+ yrs",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/oneimaging",
   "jobs_spec": "gh:oneimaging",
-  "evidence": "Greenhouse board (13, full) read 2026-10-20; four campus-specific Associate SWE/Data Engineer postings for Dec 2026-Jun 2027 grads, Miami start May/Jun 2027, $85K-115K. Titles say UF Only / UMiami Only, so restricted to those schools. Others need 4-7+ yrs.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "gh:oneimaging full board 2026-10-27 (16): four live campus-specific (UF Only, UMiami Only) Associate SWE / Data Engineer postings for Dec 2026-Jun 2027 grads in Miami, $85K-$115K, B.S. or M.S. Older Data/Full Stack roles need 4-7+ yrs, not counted. Campus restriction is by title; kept.",
+  "confidence": "high"
 }

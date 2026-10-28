@@ -1,16 +1,17 @@
 {
   "company": "Deel",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
+  "checked": "2026-10-27",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad posting in tracker history",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.deel.com/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page checked 2026-10-19 (browser): 254 roles; engineering is Senior/Staff/Lead, mostly LATAM or multi-location. Ashby board not reachable by API 2026-10-20. No entry-level SWE or new-grad track seen.",
-  "confidence": "medium",
-  "dropped": []
+  "status": "no_program_found",
+  "jobs_spec_basis": "public Ashby board (ashby:deel) is empty; careers page embeds Ashby job data",
+  "evidence": "2026-10-27: careers page embedded job data read in browser (about 300 roles, Ashby-backed; public Ashby board empty). US/Canada engineering is Forward Deployed Engineer Akai (US, experienced), Backend NodeJS (Canada, 4 yrs per earlier read), SRE and DevSecOps (Canada/LatAm). No entry-level SWE role.",
+  "confidence": "medium"
 }

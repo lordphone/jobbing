@@ -1,16 +1,16 @@
 {
   "company": "HCLTech",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US SWE new-grad history in trackers; unknown",
+  "last_cycle_basis": "no US SWE new-grad history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hcltech.com/search/?locationsearch=United+States",
   "jobs_spec": null,
-  "evidence": "careers.hcltech.com RSS keyword searches (software, junior, graduate, entry level, developer, AI engineer, early career, fresher, trainee) 2026-10-19: US items are Consultant, Solution Principal I, Senior Technical Lead (CA) and Early Career Associate (US, sales/support, not SWE). Campus and fresher developer roles are India. RSS returns 20 per search, so US coverage is partial.",
-  "confidence": "medium"
+  "evidence": "careers.hcltech.com is JS-only; read sitemap.xml (15120 jobs) 2026-10-26: entry titles (Campus-Beginner, Campus-Competent, Early Career Associate) sampled are India; Junior Java Developer is Malaysia. No US entry SWE found; US listing could not be filtered, so low confidence.",
+  "confidence": "low"
 }

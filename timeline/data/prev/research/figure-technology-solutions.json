@@ -1,16 +1,16 @@
 {
   "company": "Figure Technology Solutions",
   "tier": 4,
-  "status": "closed",
+  "checked": "2026-10-26",
+  "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "no tracker history for this company (tracker hits are Figure AI, a different company)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/figure",
   "jobs_spec": "gh:figure",
-  "evidence": "2026-10-19 Greenhouse full board (17): no engineering postings. Earlier-seen Associate AI Engineer (Remote, first published 2026-10-08) is not on the board; its first-party URL was not recoverable to re-open, so closed rests on the full API board.",
-  "confidence": "medium",
-  "checked": "2026-10-19"
+  "evidence": "Greenhouse full board (14) read 2026-10-26: no engineering postings at all (legal, sales, finance, design, support). No entry-level SWE this cycle.",
+  "confidence": "medium"
 }

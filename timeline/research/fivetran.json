@@ -1,16 +1,30 @@
 {
-  "company": "Fivetran",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.fivetran.com/careers",
-  "jobs_spec": "gh:fivetran",
-  "evidence": "gh:fivetran full board (177) 2026-10-20: Oakland Software Engineer postings ask 3+ and 5+ yrs (read via API), rest senior or non-SWE. No entry-level SWE.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Fivetran",
+ "tier": 4,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer I",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8028409003",
+   "location": "Toronto, ON, Canada",
+   "opened": "2026-10-23",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title 'Software Engineer I'; asks 1+ years Java or C and 1+ years cloud (Oracle Connector Team); posting says it is a contract position",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker or history record",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.fivetran.com/careers",
+ "jobs_spec": "gh:fivetran",
+ "evidence": "gh:fivetran full board (160) 2026-10-27: Software Engineer I in Toronto (published 2026-10-23, 1+ yrs Java/C, text says contract position) live via Greenhouse API, only entry SWE. Oakland SWEs need 3+ and 5+ yrs; Software Engineer II Toronto and the rest are senior/staff.",
+ "confidence": "medium"
 }

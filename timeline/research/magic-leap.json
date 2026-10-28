@@ -1,17 +1,17 @@
 {
   "company": "Magic Leap",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "unknown",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://resources.magicleap.cloud/careers",
   "jobs_spec": null,
-  "jobs_spec_basis": "careers page errors; gh:magicleap board 404 (lever/ashby also 404)",
-  "evidence": "Careers page still returns HTTP 500 2026-10-20; gh:magicleap board 404. Could not read the job list. Web search shows only Senior software roles from old postings. Retry later.",
-  "confidence": "low"
+  "jobs_spec_basis": "magicleap.com/careers redirects to resources.magicleap.cloud/careers; old gh:magicleap board now 404",
+  "evidence": "2026-10-27: careers page shows 'Application error: a server-side exception' in browser even after waiting; gh/lever/ashby APIs and job-boards.greenhouse.io/magicleap return 404. One web search found only senior listings, stale. Could not read the board; retry later.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found"
 }

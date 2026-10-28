@@ -1,11 +1,11 @@
 {
   "company": "U.S. Bank",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer 1 \u2013 Full-stack, Generative AI, Cloud",
+      "title": "Software Engineer 1 – Full-stack, Generative AI, Cloud",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031",
       "location": "Hopkins, MN; Charlotte, NC; Brookfield, WI; Irving, TX",
       "opened": "2026-10-15",
@@ -25,10 +25,23 @@
       "date_source": "workday startDate",
       "deadline": "2026-11-28",
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "'Software Engineer 1'; two to three years relevant experience",
       "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer 1 - Mainframe (Cobol)",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686",
+      "location": "Brookfield, WI; Atlanta, GA; Hopkins, MN; Edison, NJ; Chicago, IL; Gresham, OR; Denver, CO; Charlotte, NC; Irving, TX; Earth City, MO",
+      "opened": "2026-10-21",
+      "date_source": "workday startDate",
+      "deadline": "2026-11-20",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "'Software Engineer 1'; 'Two to three years of relevant experience'",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-12-02",
@@ -37,7 +50,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
   "jobs_spec": "wd:usbank/wd1/US_Bank_Careers",
-  "evidence": "Workday board (340, full) and detail 2026-10-20: Software Engineer 1 full-stack GenAI (end 2026-10-30) and Software Engineer 1 ServiceNow (Minneapolis, end 2026-11-28) live, both 2-3 yrs, no visa sponsorship. 2027 programs are banking/real estate.",
+  "evidence": "Workday board (1234, full) and cxs detail 2026-10-27: three Software Engineer 1 postings live with Apply (full-stack GenAI end 2026-10-30, ServiceNow end 2026-11-28, Mainframe Cobol end 2026-11-20), each 2-3 yrs. Python SWE 1 from tracker not on board; not counted.",
   "confidence": "high",
   "dropped": []
 }

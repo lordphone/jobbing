@@ -1,7 +1,7 @@
 {
   "company": "Credo Technology Group",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -25,7 +25,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://credosemi.com/about-credo/careers/",
   "jobs_spec": null,
-  "jobs_spec_basis": "Careers page is HiBob; public JSON at credo.careers.hibob.com/api/job-ad (header companyidentifier: credo) lists all jobs",
-  "evidence": "HiBob job-ad API (39 jobs) 2026-10-20: only counted role is San Jose Software Engineer (internal AI automation), requires 2+ yrs, $100-135K, no senior duties. Borderline unlabeled. Other software roles Senior/Staff or FAE.",
-  "confidence": "low"
+  "evidence": "HiBob job-ad API (36 jobs) 2026-10-27: only counted role is San Jose Software Engineer (internal AI automation), still listed live, requires 2+ yrs, $100-135K, embedded with business teams, no lead or mentor duties. Borderline unlabeled, kept per prior run. Other software roles are Senior Staff or Field Application Engineer.",
+  "confidence": "low",
+  "jobs_spec_basis": "Careers page is HiBob; public JSON at credo.careers.hibob.com/api/job-ad (header companyidentifier: credo) lists all jobs"
 }

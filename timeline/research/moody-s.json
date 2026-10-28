@@ -1,16 +1,16 @@
 {
   "company": "Moody's",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history hit. Early-careers page says the Technology Rotation Program (New York, 2 years, three 8-month rotations) exists and early-career roles start posting in September; no dated posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found; jobs.py history empty",
   "jobs_page": "https://careers.moodys.com/en/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.moodys.com search pages fetched 2026-10-20 (software, developer, engineer, data, graduate, early career, rotation, analyst, associate, ML): US engineering hits are Senior/Staff/Principal/VP; Toronto Software Engineer C#/.NET (2+ yrs) is labeled 'Experienced Hire', left out; Associate Fabric Platform Engineer and Associate Financial Engineer are not SWE. Only SWE interns are early-career. Tech Rotation Program (NY) not posted.",
+  "evidence": "2026-10-27: careers.moodys.com sitemap and postings opened in browser: only SWE interns are early career. Left out, all labeled Experienced Hire: Machine Learning Engineer Golden CO/Chicago (posted 10/26, 2 yrs min, advanced degree), Charlotte Associate Fabric Platform Engineer, Toronto SWE C#/.NET (2+ yrs), Associate Financial Engineer. No new-grad SWE live.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

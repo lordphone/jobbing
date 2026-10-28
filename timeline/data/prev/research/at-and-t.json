@@ -1,7 +1,7 @@
 {
   "company": "AT&T",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": "STEM degree completed before start date (recent graduates)",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "recent graduates program; STEM degree completed before start date",
+      "level_basis": "recent graduates program; STEM degree completed before start date; one of four tracks is Software Engineer",
       "no_sponsorship": true
     }
   ],
@@ -25,6 +25,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://att.wd1.myworkdayjobs.com/attcollege",
   "jobs_spec": "wd:att/wd1/attcollege",
-  "evidence": "Workday attcollege full board 2026-10-19 (6) and CXS page: TDP for recent grads with a Software Engineer track, canApply true, ends 2026-11-14. Posting: 'will not hire any applicants for Technology Development Program Full-Time who require employer sponsorship'. Internships not counted.",
+  "evidence": "Workday attcollege full board (9) read 2026-10-26: TDP for recent graduates, four tracks including Software Engineer, live per API, endDate 2026-11-14. Posting says AT&T will not hire TDP applicants who require sponsorship.",
   "confidence": "high"
 }

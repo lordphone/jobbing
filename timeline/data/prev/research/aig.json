@@ -1,16 +1,17 @@
 {
   "company": "AIG (American International Group)",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [],
+  "status": "not_yet",
   "last_cycle_opened": "2025-09-20",
   "last_cycle_basis": "tracker: New Grad 2026 Technology Analyst first seen 2025-09-20 (aig.wd1.myworkdayjobs.com)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://aig.wd1.myworkdayjobs.com/early_careers",
   "jobs_spec": "wd:aig/wd1/early_careers",
-  "evidence": "Workday early_careers full board (40) 2026-10-19: 2027 Technology Analyst, Gen AI Data Engineering and Data Office analyst postings (seen Aug-Oct 2026) are no longer listed. Only Technology and Data Office summer interns remain.",
-  "confidence": "high"
+  "jobs_spec_basis": null,
+  "evidence": "Workday early_careers (31, full) read 2026-10-26: 2027 postings are underwriting, claims, actuarial, accounting analysts and interns, none software. Main AIG board (430, full) tech roles need 3 to 10+ years (Full-Stack GenAI 3+, AI Observability 3+). Last cycle had a Technology Analyst track.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

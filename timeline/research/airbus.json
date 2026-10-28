@@ -1,35 +1,30 @@
 {
-  "company": "Airbus",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Unmanned Aircraft System (UAS) Embedded Software Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Unmanned-Aircraft-System--UAS--Embedded-Software-Engineer_JR10451237",
-      "location": "Bingen, WA",
-      "opened": "2026-10-19",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience in embedded software development, either through industry roles or substantial project work'; B.S. or M.S.; $81,000-$114,000; no senior duties",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_basis": "tracker history: only UK/EU/Canada grad or VIE roles; no US new-grad SWE",
-  "excluded_reason": null,
-  "jobs_page": "https://ag.wd3.myworkdayjobs.com/Airbus",
-  "jobs_spec": "wd:ag/wd3/Airbus",
-  "evidence": "Workday board 2026-10-20 (2000, full). New UAS Embedded Software Engineer (Bingen WA, Aerovel, posted 2026-10-19) asks 2+ yrs incl. project work, accepts a valid work visa, no ITAR line, but says Airbus does not sponsor US positions: counted, borderline level. HMI/Desktop SWE (entry) requires US Person under ITAR. Grad programs are UK/EU. Status changed from excluded.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": [
-    {
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
-      "reason": "ruled out: 'Must be a US Person under ITAR definition (U.S. Citizen, green card holder or person covered under our existing ITAR license)'"
-    }
-  ],
-  "no_sponsorship": false,
-  "last_cycle_opened": null
+ "company": "Airbus",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Unmanned Aircraft System (UAS) Embedded Software Engineer",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Unmanned-Aircraft-System--UAS--Embedded-Software-Engineer_JR10451237",
+   "location": "Bingen, WA",
+   "opened": "2026-10-19",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience in embedded software development, either through industry roles or substantial project work'; B.S. or M.S.; no senior duties",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "earlier run: tracker history shows only UK/EU/Canada grad or VIE roles; no US new-grad SWE",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://ag.wd3.myworkdayjobs.com/Airbus",
+ "jobs_spec": "wd:ag/wd3/Airbus",
+ "evidence": "Workday board (2000, full) read 2026-10-27: only US entry-level SWE is UAS Embedded SWE, Bingen WA (2+ yrs incl. project work; 'does not sponsor visas for US positions'), live via API detail. Other US roles non-software or senior. Grad programs are UK/EU/France.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": []
 }

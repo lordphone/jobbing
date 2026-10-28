@@ -1,7 +1,7 @@
 {
   "company": "LinkedIn",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120K-$195K",
+      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120,000 - $195,000",
       "no_sponsorship": false
     },
     {
@@ -27,30 +27,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120K-$195K",
-      "no_sponsorship": false
-    },
-    {
-      "title": "AI Engineer",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000153827538",
-      "location": "Mountain View, CA; Sunnyvale, CA; San Francisco, CA; New York, NY",
-      "opened": "2026-10-06",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120K-$195K",
+      "level_basis": "basic qualifications 1+ years; preferred 2+ yrs; $120,000 - $195,000",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": "2025-09-02",
-  "last_cycle_basis": "tracker first seen 2025-09-02: 'Associate Product Builder (APB) - Rotational Program', Mountain View / San Francisco",
+  "last_cycle_basis": "tracker first seen 2025-09-02: Associate Product Builder (APB) - Rotational Program, Mountain View / San Francisco",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://linkedin.com/jobs",
   "jobs_spec": "sr:LinkedIn3",
-  "evidence": "sr:LinkedIn3 board (268, full) re-read 2026-10-19: no new-grad SWE title. Three SWE/AI Engineer postings still live, ask 1+ years basic, 2+ preferred, pay from $120K, counted as unlabeled. Associate Engineer Data Center is not software.",
+  "evidence": "sr:LinkedIn3 board (full, 201) read 2026-10-26: no new-grad SWE title. Two US SWE postings (AI Platform, Systems and Infrastructure, Mountain View) live via API, basic 1+ years, pay from $120K, counted as unlabeled. Data Center engineer roles are not software; India roles non-US.",
   "confidence": "medium"
 }

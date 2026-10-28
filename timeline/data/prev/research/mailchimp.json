@@ -1,7 +1,7 @@
 {
   "company": "Mailchimp",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -16,19 +16,12 @@
       "level": "new-grad title",
       "level_basis": "Category 'Software Engineering, New College Grad'; 'Less than 12 months of relevant professional work experience'",
       "no_sponsorship": false
-    },
+    }
+  ],
+  "dropped": [
     {
-      "title": "Software Developer 1, Canada Tax Content",
       "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-18",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "'entry-level, growth-oriented role'; 'BS/MS ... or recent graduate'; 1-2 years developing in C#/C++/Java",
-      "no_sponsorship": false
+      "reason": "gone: page now returns 404 'Job Not Found - this job post no longer exists' (2026-10-26)"
     }
   ],
   "last_cycle_opened": "2025-08-15",
@@ -37,7 +30,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "Rechecked 2026-10-19, same result. Mailchimp is part of Intuit; new grads apply at jobs.intuit.com. 2026-10-19 fetched both pages: SWE 1 general posting (datePosted 2026-10-15, reposted from an older link) and Toronto Software Developer 1 both live with Apply Now. Evergreen, not tied to 2027.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "2026-10-26 fetched Intuit pages and search (Mailchimp posts under Intuit): SWE 1 New College Grad (MV, Atlanta, Charlotte, NY, San Diego; <12 months experience; JSON-LD datePosted 2026-10-15) shows Apply Now. Toronto Software Developer 1 now 'Job Not Found'. Other SWE roles are 2/Staff/Senior. Evergreen, not tied to 2027.",
+  "confidence": "medium"
 }

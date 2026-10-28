@@ -1,14 +1,15 @@
 {
   "company": "T. Rowe Price",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
       "title": "Associate Software Engineer",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
       "location": "Owings Mills, MD",
-      "opened": "2026-09-14",
-      "date_source": "tracker first seen (reposted 2026-10-09 per workday startDate)",
+      "opened": "2026-09-13",
+      "date_source": "tracker first seen (earlier link; reposted 2026-10-09 per workday startDate)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -26,14 +27,14 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "BS or MS required, no years or senior duties stated; base pay starts at $106,000",
+      "level_basis": "Required: BS or MS, no years stated, 'curious ... motivated to learn'; no lead duties",
       "no_sponsorship": true
     }
   ],
   "dropped": [
     {
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/New-York-NY/Full-Stack-Software-Engineer--T-Rowe-Price-AI-Lab-_83089",
-      "reason": "gone: not on the full Workday board; job page API returns 403"
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Software-Engineer-Python--Hybrid---Baltimore--MD-_82209",
+      "reason": "ruled out: 'Mentor junior team members' and '2+ years of progressive experience working with Python'"
     }
   ],
   "last_cycle_opened": null,
@@ -42,7 +43,6 @@
   "no_sponsorship": true,
   "jobs_page": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
   "jobs_spec": "wd:troweprice/wd5/TRowePrice",
-  "evidence": "Workday full board (133) 2026-10-20: Associate Software Engineer (entry-level, 1+ yr, reposted 10-09 from 09-14) and Multi-Asset SWE (unlabeled, no years or senior duties) both live via API. Python SWE (mentors, 2+ yrs) left out; Associate Analyst - Technology is equity research. Postings say no visa sponsorship.",
-  "confidence": "medium",
-  "checked": "2026-10-20"
+  "evidence": "Workday full board (137) read 2026-10-27: Associate Software Engineer (entry-level, 1+ yr) and Multi-Asset SWE (BS/MS, no years) live via API; both state no visa sponsorship. Python SWE (mentoring, 2+ yrs) and AI FinOps left out.",
+  "confidence": "medium"
 }

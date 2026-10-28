@@ -1,16 +1,16 @@
 {
   "company": "Socure",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "None found in tracker history.",
+  "last_cycle_basis": "no last-cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/socure",
   "jobs_spec": "ashby:socure",
-  "evidence": "Rechecked 2026-10-20 on full board API, same result. Ashby API 2026-10-19 (86, full): Software Engineer II (NY remote, Toronto, London, Bangalore) is II-level, not counted; AI Engineer (8+ yrs), AI Enablement (5+), SDET (5+), FDE (4+), Senior/Staff roles.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Ashby board (80, full) 2026-10-27: AI Engineer, FDE, AI Enablement are senior-scope; Data Scientist II roles are not SWE. No software engineer I or new-grad role.",
+  "confidence": "high"
 }

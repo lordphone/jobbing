@@ -1,16 +1,21 @@
 {
-  "company": "Navy Federal Credit Union",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Associate Application Engineer, Vienna VA, first seen 2026-08-26 (now closed); no dated Jul 2025-Jan 2026 posting.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/jobs",
-  "jobs_spec": "oracle:jobs.navyfederal.org/nfcu",
-  "evidence": "Oracle full board 2026-10-19 (182): Associate Application Engineer (32116, Vienna VA) still absent and its page showed 'no longer available' on 2026-10-18: closed. Rest: summer 2027 interns, AI Engineer (2-5 yrs), Test Engineer, Senior/Principal; no entry FT SWE.",
-  "confidence": "high"
+ "company": "Navy Federal Credit Union",
+ "tier": 5,
+ "status": "closed",
+ "dropped": [
+  {
+   "url": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/job/32116",
+   "reason": "gone: not on the board 2026-10-26 and page shows 'This job is no longer available'"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no entry-level SWE posting in tracker history for Jul 2025 - Jan 2026",
+ "jobs_page": "https://jobs.navyfederal.org/hcmUI/CandidateExperience/en/sites/nfcu/jobs",
+ "jobs_spec": "oracle:jobs.navyfederal.org/nfcu",
+ "evidence": "Oracle full board (173) 2026-10-26: Associate Application Engineer 32116 (tracker first seen 2026-08-26) not on board; its page says 'This job is no longer available', so closed. Rest: summer interns, API Systems Engineer (experienced), AI Engineer (7+ yrs), principal/senior roles.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "postings": []
 }

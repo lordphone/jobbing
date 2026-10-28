@@ -1,7 +1,6 @@
 {
   "company": "Harvey",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -29,19 +28,6 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer, Security",
-      "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
-      "location": "San Francisco, CA",
-      "opened": "2026-09-01",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 2+ years of software engineering experience; $161K-$245K",
-      "no_sponsorship": false
     }
   ],
   "dropped": [],
@@ -51,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/harvey",
   "jobs_spec": "ashby:harvey",
-  "evidence": "Ashby full board (341) re-read 2026-10-19: two SWE New Grad (2027) postings, SF and NYC, published 2026-10-02, $165K-$181.5K. Security SWE (2+ yrs) kept from earlier run. Generic Software Engineer 45c49e6b has no level and pay from $221K, not counted.",
-  "confidence": "high"
+  "evidence": "Ashby full board (360) 2026-10-26: two SWE New Grad (2027) postings, SF and NYC, published 2026-10-02, live via detail. Other engineering roles are legal engineers, forward deployed finance engineers, database infra (senior), or senior.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

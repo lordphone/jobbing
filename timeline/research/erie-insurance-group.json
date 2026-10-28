@@ -1,16 +1,16 @@
 {
- "company": "Erie Insurance Group (Erie Indemnity)",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "not_yet",
+ "checked": "2026-10-27",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": "2025-01-16",
- "last_cycle_basis": "tracker: Associate Software Engineer, Erie PA, first seen 2025-01-16 (https://jobs.erieinsurance.com/job/Erie-Associate-Software-Engineer-PA-16506/1250895600/); no Jan 2026 posting found, so Jan pattern.",
+ "last_cycle_basis": "tracker: Associate Software Engineer, Erie PA, first seen 2025-01-16 (https://jobs.erieinsurance.com/job/Erie-Associate-Software-Engineer-PA-16506/1250895600/); no Jan 2026 posting found",
  "excluded_reason": null,
  "no_sponsorship": false,
+ "company": "Erie Insurance Group (Erie Indemnity)",
+ "tier": 5,
+ "status": "not_yet",
+ "confidence": "medium",
  "jobs_page": "https://jobs.erieinsurance.com/search/",
  "jobs_spec": null,
- "evidence": "jobs.erieinsurance.com searched 2026-10-20 (48 jobs; software, engineer, developer, associate queries): only IT Senior Software Engineer, Senior Solutions Architect, Security Design Engineer on tech side; interns are Intern II. No entry SWE; only Associate SWE seen was Jan 2025, so timing is a guess.",
- "confidence": "low"
+ "evidence": "jobs.erieinsurance.com list paged via curl 2026-10-27: tech roles are IT Senior Software Engineer (Guidewire/Java), Senior Solutions Architect, Security Design Engineer; interns only otherwise. No entry-level SWE open yet; last cycle opened 2025-01."
 }

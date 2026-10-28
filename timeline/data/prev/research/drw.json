@@ -1,7 +1,6 @@
 {
   "company": "DRW",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -81,15 +80,29 @@
       "level": "unlabeled",
       "level_basis": "requires 'a minimum of 2+ years' experience using Python in a production setting'; $175K+",
       "no_sponsorship": false
+    },
+    {
+      "title": "Quantitative Developer",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7985591",
+      "location": "New York, NY",
+      "opened": "2026-07-16",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'At least two years of experience developing production software'; 'strong technical mentorship'; $175K-$250K",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-07-07",
   "last_cycle_basis": "tracker history: Software Developer (Chicago) first seen 2025-07-07",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/drweng",
   "jobs_spec": "gh:drweng",
-  "evidence": "gh:drweng full board (166) 2026-10-19: Chicago Software Developer (grad Dec 2026-Jun 2027) live on API; Montreal and London Software Developer also posted (outside scope). Kept unlabeled US roles with no years or a 2+ yr ask and no lead duties (Platform Engineer AI, Tools Engineering x2, Research Engineer x2), all re-confirmed live. Others need 3+ yrs, lead, or are senior.",
+  "evidence": "gh:drweng full board (162) read 2026-10-26 via API: Chicago Software Developer (grad Dec 2026-Jun 2027) live; Montreal and London copies out of scope. Kept earlier counted unlabeled US roles (Platform Eng AI, Tools Eng x2, Research Eng x2, Quant Developer NYC), all still listed and rechecked.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

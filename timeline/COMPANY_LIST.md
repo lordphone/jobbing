@@ -1,6 +1,6 @@
 # Company List
 
-1786 companies.
+1871 companies.
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
@@ -132,7 +132,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 
 - Valve
 
-## 3. Strong (208)
+## 3. Strong (207)
 
 ### FAANG+ / Big Tech
 
@@ -312,7 +312,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Render
 - Slack
 - Wiz
-- Chronosphere
 - Cyera
 - Island
 - Chainguard
@@ -369,7 +368,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Rockstar Games
 - Pixar Animation Studios
 
-## 4. Solid (556)
+## 4. Solid (583)
 
 ### FAANG+ / Big Tech
 
@@ -430,6 +429,14 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Imbue
 - C3.ai
 - Uniphore
+- Reevo
+- Brain Co.
+- Aurelian
+- Encord
+- Mechanize
+- InstaLILY
+- Netic
+- Lightfield
 
 ### Late-stage / unicorns
 
@@ -533,6 +540,10 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - N1
 - Watershed
 - Solace Health
+- MLabs
+- Candid Health
+- Promise
+- Loop
 
 ### Quant / trading
 
@@ -562,6 +573,9 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - BlackEdge Capital
 - 3Red Partners
 - Castleton Commodities International
+- Alphataraxia
+- Edgehog Trading
+- Ellipsis Labs
 
 ### Banks, payments & financial data
 
@@ -611,6 +625,9 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Flywire
 - Blend
 - Dave
+- Kikoff
+- Perpay
+- Parafin
 
 ### Enterprise software & security
 
@@ -711,6 +728,13 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Huntress
 - Sysdig
 - Uncountable
+- Alarm.com
+- Vectra AI
+- D2L
+- SpruceID
+- Cogent Security
+- Baselayer
+- iManage
 
 ### Chips, hardware & infrastructure
 
@@ -755,6 +779,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Groq
 - D-Wave Quantum
 - Backblaze
+- Freeform
 
 ### Auto, aerospace & defense
 
@@ -935,6 +960,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - DoubleVerify
 - Integral Ad Science
 - Zeta Global
+- Wanderlog
 
 ### Traditional companies with large tech orgs
 
@@ -957,7 +983,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Brookhaven National Laboratory
 - National Laboratory of the Rockies (formerly NREL)
 
-## 5. Fallback (939)
+## 5. Fallback (998)
 
 ### AI labs & AI-first
 
@@ -1123,6 +1149,15 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Western & Southern Financial Group
 - AmTrust Financial
 - Pathward
+- IBC Bank
+- Texas Capital Bank
+- First Financial Bank
+- Ascensus
+- American Century Investments
+- Encore Capital Group
+- Integrity Marketing Group
+- Cincinnati Financial
+- GMO
 
 ### Enterprise software & security
 
@@ -1183,7 +1218,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - SUSE
 - LastPass
 - Barracuda Networks
-- Informatica
 - MuleSoft
 - Kaseya
 - Talkdesk
@@ -1241,6 +1275,25 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - OneImaging
 - Cisive
 - DuCharme, McMillen & Associates
+- SOTI
+- Jonas Software
+- Tavern Research
+- CWILL
+- Subsplash
+- Mintel
+- Vail Systems
+- Asure Software
+- Everfox
+- Acxiom
+- Inductive Automation
+- OCLC
+- Marigold
+- Nextech Systems
+- Merative
+- Lightcast
+- PDI Technologies
+- Rocket Software
+- Global Relay
 
 ### Chips, hardware & infrastructure
 
@@ -1336,6 +1389,9 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - ASML
 - TSMC
 - 10x Genomics
+- Nidec
+- Daifuku
+- AutoStore
 
 ### Auto, aerospace & defense
 
@@ -1572,6 +1628,10 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - iSpot.tv
 - QuinStreet
 - Varsity Brands
+- Pogo Technologies
+- Texas Sports Academy
+- O'Reilly Auto Parts
+- Loblaw Companies
 
 ### Consulting & IT services
 
@@ -1655,6 +1715,14 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Konrad Group
 - Akima
 - LMI
+- Axle
+- ICF
+- Urban Science
+- Jahnel Group
+- Pariveda Solutions
+- CapTech Consulting
+- 66 Degrees
+- CrossCountry Consulting
 
 ### Traditional companies with large tech orgs
 
@@ -1927,3 +1995,20 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Barry-Wehmiller
 - Vizient
 - Eversource Energy
+- BlueCross BlueShield of Tennessee
+- Arkansas Blue Cross and Blue Shield
+- ERCOT
+- NRG Energy
+- Airgas
+- Niagara Bottling
+- CLEAResult
+- TDS Telecom
+- MultiCare Health System
+- U.S. Venture
+- ZOLL Medical
+- Medpace
+- Blue Cross Blue Shield of Arizona
+- Daikin Applied
+- LivaNova
+- MillerKnoll
+- Evolent

@@ -1,16 +1,16 @@
 {
   "company": "Vista Equity Partners",
-  "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker had 'Agentic Factory Consultant' (remote US, 2026-08-13), a consulting role, not on board now",
-  "jobs_page": "https://careers2-vistaequitypartners.icims.com/jobs/search?ss=1",
-  "jobs_spec": null,
-  "evidence": "iCIMS listing rendered no jobs on 2026-10-20 (list sits in an iframe the pane and WebFetch could not read). The 2026-10-19 read of 6 jobs showed only Principal Architect and Director roles, so no entry SWE; engineering is at portfolio companies.",
-  "confidence": "medium",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No tracker history or dated new-grad posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://careers2-vistaequitypartners.icims.com/jobs/search?ss=1",
+  "jobs_spec": null,
+  "evidence": "iCIMS listing (1 page, 5 jobs) fetched 2026-10-27: Senior Consultant, Principal Architect, Associate Directors and a Director; no entry SWE. Engineering sits at portfolio companies. No tracker history.",
+  "confidence": "high"
 }

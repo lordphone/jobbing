@@ -1,17 +1,16 @@
 {
   "company": "Chainlink Labs",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
+  "checked": "2026-10-27",
+  "status": "closed",
   "postings": [],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: only Software Engineer 1 first seen 2026-07-27 (not labeled new grad); nothing in 2025-07 to 2026-01 window",
+  "last_cycle_opened": "2026-07-27",
+  "last_cycle_basis": "tracker first seen Software Engineer 1 (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/chainlink-labs",
   "jobs_spec": null,
-  "evidence": "Ashby board read in browser 2026-10-20 (23 jobs, 8 engineering). Engineering roles are Senior, Manager, or LatAm-only Software Engineer Data; no US/Canada entry-level. Earlier Software Engineer 1 posting is gone.",
-  "confidence": "high",
-  "jobs_spec_basis": "Ashby API returns no data; careers board opened in browser, kept jobs_spec null"
+  "evidence": "2026-10-27: Ashby board via public GraphQL (30 jobs): tracker Software Engineer 1 (first seen 2026-07-27, id 8485e325) is now Senior Software Engineer CCIP; Data Platform Engineer (Canada) asks proven large-scale systems experience; other engineering roles senior, manager, security or Brazil. No entry role left, so closed.",
+  "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Joby Aviation",
   "tier": 4,
-  "status": "no_program_found",
+  "checked": "2026-10-27",
+  "status": "excluded",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no new-grad SWE posting found",
+  "excluded_reason": "us person / itar",
+  "no_sponsorship": false,
   "jobs_page": "https://careers-jobyaviation.icims.com/jobs/intro",
   "jobs_spec": null,
-  "evidence": "iCIMS list (9 pages, 168 jobs) read 2026-10-20. Software Integration Engineer (2+ yrs, US Person), Embedded SWE (BS 3+ yrs or MS 1+ yrs, posted 2024), Navigation SWE (US Person), Autonomy Embedded and UI (5+ yrs) not entry level. No new-grad track; several roles require 'US Person'.",
-  "confidence": "medium",
-  "dropped": [],
-  "postings": [],
-  "checked": "2026-10-20",
-  "last_cycle_opened": null,
-  "last_cycle_basis": null,
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "iCIMS keyword lists fetched 2026-10-27. Software roles (Software Integration Engineer 5189, Autonomy Embedded 5424, Autonomy UI 5398) state candidate must qualify as a US Person per 22 C.F.R. 120.15; Embedded SWE 5328 is architect-level; other software roles senior.",
+  "confidence": "medium"
 }

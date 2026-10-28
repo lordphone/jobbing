@@ -1,16 +1,17 @@
 {
   "company": "DuckDuckGo",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/duck-duck-go",
   "jobs_spec": "ashby:duck-duck-go",
-  "evidence": "ashby:duck-duck-go full board (11) 2026-10-19: every engineering role is Senior (backend, C++, privacy, web); rest director, marketing, design. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Full ashby:duck-duck-go board (12) read 2026-10-26: every engineering posting is Senior; none entry-level. No entry SWE this or last cycle.",
+  "confidence": "high",
+  "dropped": [],
+  "postings": [],
+  "checked": "2026-10-26",
+  "jobs_spec_basis": "saved board ashby:duck-duck-go confirmed; DuckDuckGo hiring page uses this Ashby board"
 }

@@ -1,16 +1,31 @@
 {
-  "company": "Meijer",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Entry Level Data Engineer opened 2024-11-15 (two cycles ago, closed); nothing in 2025-26 cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://meijer.wd5.myworkdayjobs.com/Meijer",
-  "jobs_spec": "wd:meijer/wd5/Meijer",
-  "evidence": "Workday full board (176) 2026-10-20: no software engineering titles except two senior-tagged; rest retail, supply chain, business. Entry Level Data Engineer opened 2024-11-15 (two cycles ago).",
-  "confidence": "high"
+ "company": "Meijer",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer",
+   "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
+   "location": "Grand Rapids, MI",
+   "opened": "2026-10-23",
+   "date_source": "earlier run recorded 2026-10-23; Workday startDate now 2026-10-27",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "description: 'The Software Engineer I, AI designs, develops, tests...'; requires bachelor's degree, no years of experience listed",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Entry Level Data Engineer opened 2024-11-15 (two cycles ago, closed); nothing in 2025-26 cycle",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://meijer.wd5.myworkdayjobs.com/Meijer",
+ "jobs_spec": "wd:meijer/wd5/Meijer",
+ "jobs_spec_basis": "saved board kept: wd:meijer/wd5/Meijer lists this company's own jobs",
+ "evidence": "Workday full board (169) read 2026-10-27: Software Engineer R000692154 is back on the board (startDate 2026-10-27, canApply true); description reads 'Software Engineer I, AI', bachelor's, no years required. Earlier run saw its page missing, likely a transient relist. Other tech roles are senior, Data Scientist 4+ yrs, or intern.",
+ "confidence": "medium"
 }

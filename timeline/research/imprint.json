@@ -1,16 +1,16 @@
 {
   "company": "Imprint",
+  "tier": 4,
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
-  "jobs_page": "https://jobs.ashbyhq.com/imprint",
-  "jobs_spec": "ashby:imprint",
-  "evidence": "ashby:imprint full board (23) read 2026-10-20: engineering roles are Staff Backend, Backend (Mid/Senior), engineering managers. May 2026 tracker Software Engineer (SF/NYC) is closed. No entry-level role.",
-  "confidence": "high",
-  "tier": 4,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "tracker: Software Engineer (SF/NYC) first seen 2026-05-05, outside last-cycle window, now closed",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://jobs.ashbyhq.com/imprint",
+  "jobs_spec": "ashby:imprint",
+  "evidence": "ashby:imprint full board (21) 2026-10-27: only SWE is Software Engineer, Backend (NYC/SF) asking 2-5 yrs production backend (mid-level, not counted); rest Staff, managers, Lead SE. May 2026 tracker SWE posting not on board. No entry-level SWE.",
+  "confidence": "high"
 }

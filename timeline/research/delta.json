@@ -1,7 +1,6 @@
 {
   "company": "Delta",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,22 +8,23 @@
       "url": "https://delta.avature.net/en_US/careers/JobDetail/Associate-Software-Development-Engineer/30862?jobId=30862",
       "location": "Atlanta, GA",
       "opened": "2025-12-17",
-      "date_source": "page text (JSON-LD datePosted)",
+      "date_source": "page text",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": "Associate rung; minimum 0-2 years hands-on experience; bachelor's preferred",
+      "level_basis": "Title 'Associate'; minimum qualifications '0-2 years of hands-on experience'",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": "2025-12-17",
-  "last_cycle_basis": "Delta posting datePosted 2025-12-17 for the same Associate Software Development Engineer req, still live (rolling)",
+  "last_cycle_basis": "posting page date 17-DEC-2025 (same posting still live, rolling)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://delta.avature.net/en_US/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Avature board searched in browser 2026-10-20 (software, developer, engineer, data, ML, early career, graduate, associate). Associate Software Development Engineer (Atlanta, Ref 30862, dated 17-DEC-2025) shows Apply now, still live (rolling). Rest senior, co-op or intern; Data Engineer, Crew Data Products prefers 3 yrs, not a software role.",
-  "confidence": "medium"
+  "evidence": "Browser 2026-10-27: Avature page for Associate SDE (Atlanta, Ref 30862) shows Apply now, 0-2 yrs; rolling posting dated 17-DEC-2025. Earlier searches (software, engineer, developer, data, graduate, 2027, entry) found only senior SWE, Summer/Spring 2027 co-ops, and unlabeled Data Engineer, ServiceNow and Web Developer roles left out.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

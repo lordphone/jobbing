@@ -1,21 +1,21 @@
 {
-  "company": "Comcast",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Engineer--4-Days-Onsite--Englewood--CO--FreeWheel_R445145",
-      "reason": "gone: not on the 646-posting Workday board or CXS searches; CXS returns 403 and the job page has no title (a live req shows one)"
-    }
-  ],
-  "last_cycle_opened": "2025-08-21",
-  "last_cycle_basis": "tracker history: Front End Software Engineer 1 (Chicago/Reston) first seen 2025-08-21",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers",
-  "jobs_spec": "wd:comcast/wd115/Comcast_Careers",
-  "evidence": "Full Workday board 2026-10-20 (646) and CXS searches: Junior Software Engineer (FreeWheel) R445145, seen live 2026-10-19, is gone (job page carries no title, CXS 403). Other SWE roles need 2+ to 5-7 yrs or are senior; not counted.",
-  "confidence": "medium"
+ "company": "Comcast",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Junior-Backend-Software-Engineer--Python-or-PHP----Chicago---ONSITE-2X-Week--FreeWheel_R444441",
+   "reason": "gone: browser page shows \"The page you are looking for doesn't exist\", not on the Workday board"
+  }
+ ],
+ "last_cycle_opened": "2025-08-21",
+ "last_cycle_basis": "tracker first seen 2025-08-21: Front End Software Engineer 1 (Chicago/Reston)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://comcast.wd115.myworkdayjobs.com/Comcast_Careers",
+ "jobs_spec": "wd:comcast/wd115/Comcast_Careers",
+ "evidence": "Workday full board (654) 2026-10-27: Junior Backend Software Engineer (FreeWheel, Chicago, R444441, posted 2026-10-23) is gone: not in board or search, API 403, browser page says page does not exist. Other US software roles ask 2+ to 10 yrs, mentor juniors, or are Senior.",
+ "confidence": "medium"
 }

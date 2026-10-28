@@ -1,13 +1,12 @@
 {
   "company": "SailPoint",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
       "title": "Associate Security Software Engineer",
       "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-Texas-USA/Associate-Security-Software-Engineer_R013786",
-      "location": "Remote (Texas, USA); Austin, TX; United States",
+      "location": "Remote (Texas, USA); Austin, TX; Remote (US)",
       "opened": "2026-09-09",
       "date_source": "workday startDate (posted 28 days before 2026-10-07)",
       "deadline": null,
@@ -18,13 +17,14 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint",
   "jobs_spec": "wd:sailpoint/wd1/SailPoint",
-  "evidence": "Workday board (80, full) 2026-10-19: Associate Security Software Engineer (remote TX / Austin) is live via API, no citizenship text. Asks 2-4 yrs but Associate title, kept from earlier run. Other US roles are customer-facing or security analyst.",
-  "confidence": "low"
+  "evidence": "Workday full board (103) re-read 2026-10-26: Associate Security Software Engineer (remote TX or Austin) still live via API, no citizenship text. Asks 2-4 yrs but Associate title, kept. Other software roles are UK, India, intern, senior or non-engineering.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

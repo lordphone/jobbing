@@ -1,7 +1,7 @@
 {
   "company": "Notion",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "This role is for candidates with 0-2 YOE and can start full time right away; $130,000-$150,000",
+      "level_basis": "Early Career title; 0-2 YOE and can start full time right away; $130,000 - $150,000",
       "no_sponsorship": false
     },
     {
@@ -27,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "This role is for candidates with 0-2 YOE and can start full time right away; $130,000-$150,000",
+      "level_basis": "Early Career title; 0-2 YOE and can start full time right away; $130,000 - $150,000",
       "no_sponsorship": false
     },
     {
@@ -53,21 +53,14 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "No years required; 'built and shipped Android apps, through work, internships, or your own projects'; $150,000-$168,000",
+      "level_basis": "No years required; 'built and shipped Android apps, through work, internships, or your own projects'; $150,000 - $168,000",
       "no_sponsorship": false
-    },
+    }
+  ],
+  "dropped": [
     {
-      "title": "Software Engineer, Mobile Platform (iOS)",
       "url": "https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "location": "San Francisco, CA; New York, NY",
-      "opened": "2026-10-01",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "No years required, same $150,000-$168,000 band as the Android posting",
-      "no_sponsorship": false
+      "reason": "ruled out: 'Deep iOS engineering experience at scale: You've helped build and deploy mobile applications used by millions'"
     }
   ],
   "last_cycle_opened": "2025-08-18",
@@ -76,7 +69,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/notion",
   "jobs_spec": "ashby:notion",
-  "evidence": "ashby:notion (133, full) 2026-10-19 via API: three SF early-career/new-grad SWE postings live (0-2 YOE; Dec 2026 grad). Android Mobile Core and iOS Mobile Platform state no years at $150K-$168K (kept). Product Infrastructure states no years at $150K-$200K, left out.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "ashby:notion (140, full) 2026-10-26 via API: Early Career x2 (0-2 YOE) and New Grad (Dec 2026 grad) in SF, plus Android Mobile Core with no years and an intern/projects cue. iOS Mobile Platform asks for deep at-scale iOS experience. Product Infrastructure has no entry cue.",
+  "confidence": "high"
 }

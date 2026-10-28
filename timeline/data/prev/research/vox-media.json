@@ -1,16 +1,17 @@
 {
  "company": "Vox Media",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "no_program_found",
+ "jobs_page": "https://job-boards.greenhouse.io/voxmedia",
+ "jobs_spec": "gh:voxmedia",
+ "jobs_spec_basis": "saved board confirmed; careers page lists same Greenhouse jobs",
+ "last_cycle_basis": "none found",
+ "evidence": "gh:voxmedia full (19) 2026-10-26: only Network & Systems Engineer (IT) and Staff Software Engineer, New York Magazine; rest editorial, video, marketing. No entry SWE.",
+ "confidence": "high",
+ "checked": "2026-10-26",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "no SWE new-grad history in trackers",
  "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/voxmedia",
- "jobs_spec": "gh:voxmedia",
- "evidence": "gh:voxmedia full (19): only Network & Systems Engineer and Staff Software Engineer; no entry SWE.",
- "confidence": "high"
+ "no_sponsorship": false
 }

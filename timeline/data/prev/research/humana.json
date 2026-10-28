@@ -1,16 +1,21 @@
 {
- "company": "Humana",
- "status": "closed",
- "last_cycle_opened": "2025-10-10",
- "last_cycle_basis": "tracker first-seen: Software Engineer 1 - Cybersecurity Identity, 2025-10-10",
- "jobs_page": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
- "jobs_spec": "wd:humana/wd5/humana_external_career_site",
- "evidence": "Full Workday board (258) re-read 2026-10-19: no entry SWE; software roles are Senior/Lead/Director. ECM Software Engineer R-434203 is a DoD contract role. Tracker-seen Jul-Sep 2026 Junior SWE postings not on board. Summer 2027 intern only.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-19",
- "postings": [],
- "excluded_reason": null,
- "no_sponsorship": false,
- "dropped": []
+  "company": "Humana",
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Software-Engineer-2_R-433247-1",
+      "reason": "gone: not on the full Workday board (page showed 'The page you are looking for doesn't exist' on 2026-10-23)"
+    }
+  ],
+  "last_cycle_opened": "2025-10-10",
+  "last_cycle_basis": "tracker first-seen: Software Engineer 1 - Cybersecurity Identity, 2025-10-10",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
+  "jobs_spec": "wd:humana/wd5/humana_external_career_site",
+  "evidence": "Workday full board (227) 2026-10-26: Software Engineer 2 R-433247 (entry-level, ended 2026-10-23) still absent from board and earlier page-not-found check. Remaining SWE roles ask 3-5 yrs; data and BI roles ask 5+ yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

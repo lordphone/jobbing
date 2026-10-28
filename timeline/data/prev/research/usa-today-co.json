@@ -1,16 +1,16 @@
 {
  "company": "USA TODAY Co. (formerly Gannett)",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "no_program_found",
  "postings": [],
- "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history for USA TODAY Co. (the tracker's Gannett Fleming entries are a different engineering firm).",
+ "last_cycle_basis": "no tracker or careers record of a new-grad software role",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.dayforcehcm.com/en-US/gannett/CANDIDATEPORTAL",
  "jobs_spec": null,
- "evidence": "Dayforce portal in browser 2026-10-19: keyword searches (engineer, software) return only Sr. Database Engineer and Data Science Manager; rest are newsroom, sales, press, admin. No entry SWE.",
- "confidence": "medium"
+ "evidence": "Dayforce portal in browser 2026-10-26: 'engineer' search gives 4 results (Sr Director Creative Ops, Data Science Manager, Director Product, Account Executive); 'software' gives press, packaging, editor, delivery roles. No entry SWE.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-26"
 }

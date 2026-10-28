@@ -1,43 +1,43 @@
 {
-  "company": "Zip",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-08-25",
-      "date_source": "ashby publishedAt (2026-10-08 board listing)",
-      "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "location": "San Francisco, CA",
-      "opened": "2026-08-25",
-      "date_source": "tracker first seen 2026-08-25 (Ashby hosted-page publishedDate 2026-10-02, likely repost)",
-      "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Jun 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-08-22",
-  "last_cycle_basis": "tracker history first-seen 'New Grad 2026: Software Engineer' (Ashby 5f28357a-...)",
-  "jobs_page": "https://jobs.ashbyhq.com/zip",
-  "jobs_spec": "ashby:zip",
-  "evidence": "Both 2027-start new-grad SWE pages (Toronto, SF) opened in browser 2026-10-20 with Apply, grads Dec 2026-Jun 2027. Neither is on the Ashby list API (118 postings). Other SWE roles are All Levels or mid-senior.",
-  "confidence": "medium",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "dropped": []
+ "company": "Zip",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, New Grad (2027 Start)",
+   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+   "location": "Toronto, ON, Canada",
+   "opened": "2026-08-25",
+   "date_source": "page text (JSON-LD datePosted) on unlisted posting page",
+   "deadline": null,
+   "grad_window": "Dec 2026 \u2013 Jun 2027",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, New Grad (2027 Start)",
+   "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+   "location": "San Francisco, CA",
+   "opened": "2026-08-25",
+   "date_source": "page text (earlier recorded date kept)",
+   "deadline": null,
+   "grad_window": "Dec 2026 \u2013 Jun 2027",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-08-22",
+ "last_cycle_basis": "tracker first seen New Grad 2026: Software Engineer, jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
+ "jobs_page": "https://jobs.ashbyhq.com/zip",
+ "jobs_spec": "ashby:zip",
+ "evidence": "Ashby board (110, full) lists only mid-senior SWE. Both 2027-start new-grad postings (Toronto, SF) are unlisted but their pages load full descriptions 2026-10-27 in the browser; grads Dec 2026-Jun 2027.",
+ "confidence": "medium",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-27"
 }

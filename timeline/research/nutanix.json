@@ -1,11 +1,11 @@
 {
   "company": "Nutanix",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer \u2013 Master's New Grad / Bachelor's + 2\u20133 Years Experience",
+      "title": "Software Engineer – Master's New Grad / Bachelor's + 2–3 Years Experience",
       "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW",
       "location": "Vancouver, BC, Canada",
       "opened": "2026-09-25",
@@ -68,6 +68,19 @@
       "level": "unlabeled",
       "level_basis": "requires 1+ years with BS/MS CS",
       "no_sponsorship": true
+    },
+    {
+      "title": "Forward Deployed Engineer - AI Inference Systems Research",
+      "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm",
+      "location": "Vancouver, BC, Canada",
+      "opened": "2026-10-12",
+      "date_source": "tracker first seen",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "page: 'As an entry-level Forward Deployed Engineer based out of our Vancouver office'",
+      "no_sponsorship": false
     }
   ],
   "dropped": [],
@@ -77,6 +90,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/nutanix/search",
   "jobs_spec": null,
-  "evidence": "Read all 235 Jobvite listings and opened the entry-level US/Vancouver postings 2026-10-20: all five kept show Apply; no dates or deadlines on pages. MTS 1, SWE 1, SWE 2 say sponsorship not available. Left out: MTS 2 EIE/Service Provider/NC2 Ops, Flow, Envoy (2-5 yrs), Linux/Hypervisor SWE (no years stated, kernel-level, unclear).",
+  "evidence": "Jobvite has no API. 2026-10-27 paged all 269 listings and opened candidates: six postings kept, each page shows Apply (MTS1, MTS2 DataHub live though absent from search pages earlier). Added entry-level Forward Deployed Engineer (Vancouver). Dev 2 Networking, AI Gateway SWE (2-5 yrs), MTS2 3-yr reqs not counted. No deadline shown.",
   "confidence": "medium"
 }

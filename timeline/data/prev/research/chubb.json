@@ -1,5 +1,7 @@
 {
   "company": "Chubb",
+  "tier": 5,
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -7,24 +9,22 @@
       "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864",
       "location": "Philadelphia, PA; Jersey City, NJ",
       "opened": "2026-09-18",
-      "date_source": "oracle posted date",
+      "date_source": "oracle posted",
       "deadline": null,
       "grad_window": "June 2027 start",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Technology Associate Program: entry-level Software Engineers, no experience needed",
+      "level_basis": null,
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-26",
   "last_cycle_basis": "tracker first-seen: Technology Associate, Philadelphia PA / NYC",
+  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs",
   "jobs_spec": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001",
-  "evidence": "Oracle CX_2001 full board re-read 2026-10-19 (717 listed): Technology Associate - June 2027 (TAP) live, posted 2026-09-18, no end date, sponsorship not available. Associate Developer Stamford needs 3-5 yrs; Junior Automated Test Engineer is a test role; Programmer Analyst has no entry label.",
-  "confidence": "high",
-  "dropped": [],
-  "excluded_reason": null,
-  "checked": "2026-10-19",
-  "tier": 5
+  "evidence": "Oracle board (732, full) and posting API 2026-10-26: Technology Associate Program (June 2027, Software Engineering track) live; 'Sponsorship, now or in the future, is not available'. Associate Developer Stamford asks 3-5 yrs; Programmer Analyst Johnston shows no entry wording; not counted.",
+  "confidence": "high"
 }

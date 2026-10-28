@@ -1,16 +1,17 @@
 {
   "company": "Ulta Beauty",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07 to 2026-01 posting found; no tracker history or first-party evidence of a prior new-grad SWE cycle.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker or history entries for Ulta Beauty",
   "jobs_page": "https://careers.ulta.com/careers/jobs?keywords=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Ulta careers API, all 12288 jobs scanned 2026-10-20: tech roles are Architect, Sr, Lead or cloud/security engineer in Bolingbrook; no entry SWE or new-grad program.",
-  "confidence": "high"
+  "jobs_spec_basis": "no API spec; careers.ulta.com jobs JSON endpoint searched by keyword",
+  "evidence": "careers.ulta.com jobs API 2026-10-27, keywords software, developer, graduate, early career, new grad, associate engineer: tech roles are Lead AI Engineer, Architect, Manager, Sr Engineer, cloud security; only DC interns. No entry-level SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "postings": [],
+  "no_sponsorship": false,
+  "excluded_reason": null,
+  "last_cycle_opened": null
 }

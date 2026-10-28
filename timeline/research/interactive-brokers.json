@@ -1,16 +1,21 @@
 {
- "company": "Interactive Brokers",
- "tier": 4,
- "checked": "2026-10-20",
- "status": "no_program_found",
- "postings": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "Nothing dated found; hires entry developers ad hoc.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL",
- "jobs_spec": null,
- "evidence": "2026-10-20 browser: paged the Dayforce portal. US software roles (Analytics Engineer, Data Platform Engineer, Senior Java and others) are not entry-level; Jr/SWE I roles are Budapest, Mumbai, Zug only. Summer 2027 Software Developer internship only.",
- "confidence": "medium",
- "dropped": []
+  "company": "Interactive Brokers",
+  "tier": 4,
+  "status": "closed",
+  "dropped": [
+    {
+      "url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/2701",
+      "reason": "gone: page 2026-10-27 shows 'This job posting is no longer available' and the posting is absent from the full 185-job list"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "Nothing dated found; hires entry developers ad hoc.",
+  "jobs_page": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL",
+  "jobs_spec": null,
+  "evidence": "Dayforce board paged in full 2026-10-27 (185 jobs). Software Engineer - Compliance Tech (1-2 yrs, posted 10-21) now says no longer available and is not listed. Remaining US SWE roles are III/Senior or ask 3-5+ yrs. Was open 10-26.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

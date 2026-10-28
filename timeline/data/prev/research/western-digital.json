@@ -1,43 +1,35 @@
 {
-  "company": "Western Digital",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer (Apps)",
-      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
-      "location": "San Jose, CA",
-      "opened": "2026-08-11",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": "2026-11-11",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Experience level Entry Level; \"approximately 0–2+ years\"; WD early career program",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
-      "location": "San Jose, CA",
-      "opened": "2026-07-20",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": "2026-10-20",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Experience level Entry Level; \"approximately 0–2+ years\"; recent BS/MS grads",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-08-15",
-  "last_cycle_basis": "tracker last-cycle first seen 2025-08-15; history also shows New Grad 2025 postings from 2024-09 to 2024-11",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.smartrecruiters.com/WesternDigital",
-  "jobs_spec": "sr:WesternDigital",
-  "evidence": "SmartRecruiters API re-read 2026-10-19 (333, full) and detail: both San Jose early-career SWE postings listed. Apps role needs US work right without sponsorship. Deadlines are the posting's anticipated dates (10/20/26 and 11/11/26). Other roles are manufacturing, embedded Malaysia or co-ops.",
-  "confidence": "high",
-  "dropped": []
+ "postings": [
+  {
+   "title": "Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
+   "location": "San Jose, CA",
+   "opened": "2026-07-20",
+   "date_source": "smartrecruiters releasedDate",
+   "deadline": "2026-10-20",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "WD early career development program; \"approximately 0\u20132+ years of relevant professional experience\"",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
+   "reason": "gone: SmartRecruiters API shows active=false and the posting is not on the board"
+  }
+ ],
+ "last_cycle_opened": "2025-08-15",
+ "last_cycle_basis": "tracker last-cycle first seen 2025-08-15; history also shows New Grad 2025 postings from 2024-09 to 2024-11",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-26",
+ "company": "Western Digital",
+ "tier": 5,
+ "status": "open",
+ "jobs_page": "https://jobs.smartrecruiters.com/WesternDigital",
+ "jobs_spec": "sr:WesternDigital",
+ "evidence": "SmartRecruiters API (full board) 2026-10-26: San Jose Software Engineer (early career program, 0-2+ yrs per earlier read) still on board. Software Engineer (Apps) stays gone. Deadline 10/20/26 is an anticipated date, passed but posting still listed. Other US roles hardware, firmware, senior.",
+ "confidence": "medium"
 }

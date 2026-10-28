@@ -1,16 +1,16 @@
 {
   "company": "BBVA",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "no_program_found",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no US new-grad SWE posting found",
-  "jobs_page": "https://bbva.wd3.myworkdayjobs.com/bbva",
-  "jobs_spec": "wd:bbva/wd3/bbva",
-  "evidence": "Workday full board (675) 2026-10-20: only US tech-like title is AI Solutions & Analytics Associate (New York, wants 10+ yrs, no sponsorship); other US roles are CIB finance and operations. BBVA sold its US retail bank to PNC in 2021. Data/AI associate roles are Mexico, Colombia, Spain.",
-  "confidence": "high",
-  "checked": "2026-10-20",
+  "postings": [],
   "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
-  "postings": []
+  "jobs_page": "https://bbva.wd3.myworkdayjobs.com/bbva",
+  "jobs_spec": "wd:bbva/wd3/bbva",
+  "evidence": "Workday full board (710) read 2026-10-27: US roles (New York, Houston) are CIB finance, trading, risk, operations; AI Solutions & Analytics Associate (New York) is not entry SWE. Entry software roles are Mexico, Colombia, Peru, Uruguay, UK.",
+  "confidence": "high"
 }

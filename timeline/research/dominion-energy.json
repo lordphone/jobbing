@@ -1,16 +1,21 @@
 {
-  "company": "Dominion Energy",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2026-01-15",
-  "last_cycle_basis": "Tracker: Associate Developer Business Intelligence Analyst (Richmond, VA) first seen 2026-01-15; level SWE-adjacent",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.dominionenergy.com",
-  "jobs_spec": null,
-  "evidence": "careers.dominionenergy.com (SuccessFactors) paged all 148 postings 2026-10-20: only interns, grid/transmission/nuclear engineers and a Solutions Architect - Data Platform; no entry developer roles.",
-  "confidence": "medium"
+ "company": "Dominion Energy",
+ "tier": 5,
+ "status": "not_yet",
+ "dropped": [
+  {
+   "url": "https://careers.dominionenergy.com/job/RICHMOND-Software-Engineer-VA-23219/1443351300/",
+   "reason": "gone: page shows 'Sorry, this position is no longer posted'; earlier run also found it a technical lead role needing 7+ years"
+  }
+ ],
+ "last_cycle_opened": "2026-01-15",
+ "last_cycle_basis": "Tracker: Associate Developer Business Intelligence Analyst (Richmond, VA) first seen 2026-01-15; level SWE-adjacent",
+ "jobs_page": "https://careers.dominionenergy.com",
+ "jobs_spec": null,
+ "evidence": "careers.dominionenergy.com (SuccessFactors) searches for software, developer, graduate, early career, data read 2026-10-27: only Senior Software Engineer, Solutions Architects, interns and power/nuclear engineering roles. No entry-level software role.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "postings": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

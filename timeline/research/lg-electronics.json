@@ -1,16 +1,16 @@
 {
   "company": "LG Electronics",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "not_yet",
+  "checked": "2026-10-27",
+  "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history shows no SWE new-grad (only bilingual IT associate 2025-10)",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/lgelectronics",
   "jobs_spec": "gh:lgelectronics",
-  "evidence": "Greenhouse board re-read 2026-10-20 (112, full): entry-titled roles (DVLED Project Eng I, Production Eng Associate) are not software. Data Scientist / AI Engineer (Huntsville, 5378493008) is contact-center analytics, no years stated, left out. No SWE new-grad.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Greenhouse full board (124) 2026-10-27: entry-titled roles (DVLED Project Eng I, Production Eng Associate) are not software. Data Scientist / AI Engineer (Huntsville, 5378493008) is contact-center analytics, BS required, no years stated, left out as unclear. No tracker history.",
+  "confidence": "medium"
 }

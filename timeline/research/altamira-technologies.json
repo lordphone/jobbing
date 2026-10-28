@@ -1,7 +1,6 @@
 {
   "company": "Altamira Technologies",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,7 +11,7 @@
       "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
       "level_basis": "Qualifications: 'Entry level to 10+ years of experience in software or AI/ML development roles'; page states no clearance or citizenship requirement",
       "no_sponsorship": false
@@ -25,6 +24,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.jobvite.com/altamiracorps/jobs",
   "jobs_spec": null,
-  "evidence": "Jobvite list (49) and all software/AI/data postings read 2026-10-20. Only AI/ML Engineer R&D (Fairborn OH, datePosted 2026-08-21) says 'Entry level to 10+ years', Apply live, page lists no clearance (DoD/IC customer, borderline, kept). Junior Algorithm Dev and Junior DevOps need TS/SCI; other SWE roles need TS/SCI or 5-8+ yrs; 2027 items are interns.",
-  "confidence": "medium"
+  "evidence": "Jobvite list (about 45) and software/AI postings re-read in the browser pane 2026-10-27. Only AI/ML Engineer R&D (Fairborn OH, oGqGAfw6) says 'Entry level to 10+ years', Apply live, no clearance stated (DoD customer, borderline, kept). Other software roles need TS/SCI, citizenship or 2-8+ yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "live_verified": null
 }

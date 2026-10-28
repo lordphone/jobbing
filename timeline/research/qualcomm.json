@@ -1,7 +1,7 @@
 {
   "company": "Qualcomm",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -249,7 +249,7 @@
       "live_verified": "api",
       "level": "unlabeled",
       "level_basis": "Min quals: Bachelor's only; 'considering candidates at Engineer and Senior Engineer level ... 0-7 years encouraged'",
-      "no_sponsorship": false
+      "no_sponsorship": true
     },
     {
       "title": "#Platform SW Engineer, Automotive",
@@ -304,36 +304,10 @@
       "no_sponsorship": true
     },
     {
-      "title": "#Windows Driver Developer",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446720806929",
-      "location": "San Diego, CA",
-      "opened": "2026-08-20",
-      "date_source": "eightfold creationTs",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Min quals: Bachelor's degree only, no years; '#' entry-level style posting",
-      "no_sponsorship": true
-    },
-    {
       "title": "#Software Engineer",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721041627",
       "location": "San Diego, CA",
       "opened": "2026-09-02",
-      "date_source": "eightfold api creationTs",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Min quals: Bachelor's degree only, no years of experience; no senior duties; '#' entry-level style posting",
-      "no_sponsorship": true
-    },
-    {
-      "title": "#Windows Audio Software Engineer (Voice AI) \u2014 Engineer",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721046499",
-      "location": "San Diego, CA",
-      "opened": "2026-09-10",
       "date_source": "eightfold api creationTs",
       "deadline": null,
       "grad_window": null,
@@ -422,19 +396,6 @@
     },
     {
       "title": "#Software Engineer",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721477857",
-      "location": "San Diego, CA",
-      "opened": "2026-10-13",
-      "date_source": "eightfold postedTs",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Min quals: Bachelor's degree only, no years; $99.5K-$149.3K",
-      "no_sponsorship": true
-    },
-    {
-      "title": "#Software Engineer",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721477865",
       "location": "San Diego, CA",
       "opened": "2026-10-08",
@@ -447,7 +408,7 @@
       "no_sponsorship": true
     },
     {
-      "title": "#Machine Learning Engineer \u2013 Agentic AI",
+      "title": "#Machine Learning Engineer – Agentic AI",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721159438",
       "location": "San Diego, CA",
       "opened": "2026-09-18",
@@ -525,19 +486,6 @@
       "no_sponsorship": true
     },
     {
-      "title": "#Embedded Software Engineer \u2013 Device Driver Development",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446718891829",
-      "location": "San Diego, CA",
-      "opened": "2026-06-08",
-      "date_source": "eightfold api creationTs",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Min quals: Bachelor's degree only, no years of experience; no senior duties; '#' entry-level style posting",
-      "no_sponsorship": true
-    },
-    {
       "title": "#Agentic AI Windows Power and Thermal Engineer",
       "url": "https://qualcomm.eightfold.ai/careers/job/446719591126",
       "location": "San Diego, CA",
@@ -590,12 +538,7 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [
-    {
-      "url": "https://qualcomm.eightfold.ai/careers/job/446720729799",
-      "reason": "gone: Eightfold position_details returns 'Position not found' (404) and the posting is absent from the full US search"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-05",
   "last_cycle_basis": "tracker first seen: Software Engineer - Hypervisor (San Diego, CA), careers.qualcomm.com, active 2025-07-05",
   "excluded_reason": null,
@@ -603,6 +546,6 @@
   "jobs_page": "https://qualcomm.eightfold.ai/careers",
   "jobs_spec": "eightfold:qualcomm.eightfold.ai/qualcomm.com",
   "jobs_spec_basis": "jobs.py board lists only 150 of 810 US postings; read all 810 with paged pcsx search and position_details instead.",
-  "evidence": "Eightfold pcsx 2026-10-20 (810 US postings read in full via paged search): 45 entry-level SWE/ML postings (College Graduate and Entry Level titles, '#' roles, Bachelor's-only software) still listed, plus Software Engineer - Camera. Compiler Toolchain (5 yrs), firmware, test, hardware and 4+ yr roles left out.",
+  "evidence": "2026-10-27: Eightfold board listing flaky (60 US this try), so all 42 saved postings were re-read via the position API: all still live. Kept College Graduate ML Engineer, Entry Level SWE and '#' entry-level SWE roles with Bachelor's-only minimums; 3+ yr asks are preferred only. Many '#' roles say not eligible for immigration sponsorship.",
   "confidence": "high"
 }

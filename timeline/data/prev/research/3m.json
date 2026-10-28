@@ -1,30 +1,30 @@
 {
-  "company": "3M",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "AI/Machine Learning Engineer (posting text: AI Software Developer, Early Career)",
-      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/AI-Machine-Learning-Engineer_R01170506",
-      "location": "Maplewood, MN",
-      "opened": "2026-09-04",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "'As an AI Software Developer, Early Career'; clearly scoped assignments under senior researchers; but required list also shows 5 yrs Python/C++ and 3 yrs SWE practices",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no US Jul 2025-Jan 2026 entry SWE record found in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://3m.wd1.myworkdayjobs.com/Search",
-  "jobs_spec": "wd:3m/wd1/Search",
-  "evidence": "Workday full board (744) 2026-10-19 + detail: only Early-Career-labeled software role is Maplewood AI/ML Engineer (live, kept), borderline because required list shows multi-year programming. FA&A Developer is finance IT, Full Stack/IoT, Embedded Linux, Test Automation not entry. Says no visa sponsorship.",
-  "confidence": "low"
+ "company": "3M",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "AI/Machine Learning Engineer (posting text: AI Software Developer, Early Career)",
+   "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/AI-Machine-Learning-Engineer_R01170506",
+   "location": "Maplewood, MN",
+   "opened": "2026-09-04",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "'As an AI Software Developer, Early Career'; required list also shows multi-year programming experience, kept as earlier run counted it",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_basis": "no US Jul 2025-Jan 2026 entry SWE record found in tracker history",
+ "jobs_page": "https://3m.wd1.myworkdayjobs.com/Search",
+ "jobs_spec": "wd:3m/wd1/Search",
+ "evidence": "Workday board (200 listed) read 2026-10-26: AI/Machine Learning Engineer (Maplewood, text 'Early Career') still live via detail API, kept though requirements show multi-year programming. New Full-Stack Product Engineer needs 5+ yrs, not counted. Without sponsorship.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "dropped": [],
+ "last_cycle_opened": null,
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

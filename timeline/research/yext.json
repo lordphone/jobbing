@@ -1,16 +1,21 @@
 {
-  "company": "Yext",
-  "status": "closed",
-  "last_cycle_opened": "2025-12-02",
-  "last_cycle_basis": "tracker first seen; Software Engineer, Washington DC: https://job-boards.greenhouse.io/yext/jobs/7011931",
-  "jobs_page": "https://job-boards.greenhouse.io/yext",
-  "jobs_spec": "gh:yext",
-  "evidence": "Greenhouse full board (25) 2026-10-20: no US entry SWE; only London Software Engineer, Senior SWE and managers. Earlier run recorded a NYC Software Engineer (published 2026-09-04) now gone; its URL could not be re-found, and NYC Jan 2026 SWE 7277738 is not on the board.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "dropped": [],
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "Yext",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": "2025-12-02",
+ "last_cycle_basis": "tracker first seen; Software Engineer, Washington DC: https://job-boards.greenhouse.io/yext/jobs/7011931",
+ "jobs_page": "https://job-boards.greenhouse.io/yext",
+ "jobs_spec": "gh:yext",
+ "evidence": "Greenhouse full board (24) 2026-10-27: NYC Software Engineer 8296161 (first published 2026-10-22) is still absent from the board. Budapest SWE (2+) is non-US; DC Senior SWE and managers senior. Status closed.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://job-boards.greenhouse.io/yext/jobs/8296161",
+   "reason": "gone: not on gh:yext board (23, full), Greenhouse API 404, and the posting page redirects to the board with error=true"
+  }
+ ],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

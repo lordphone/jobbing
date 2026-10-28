@@ -1,16 +1,16 @@
 {
   "company": "IKEA (Ingka Group, US)",
-  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
-  "jobs_page": "https://www.seeacareerwithus.com/search-jobs",
-  "evidence": "seeacareerwithus.com jobs API 2026-10-19 (143 US jobs, full): categories are sales, food, logistics, customer relations, design, risk, property; no software or engineering role.",
-  "confidence": "high",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "checked": "2026-10-19",
   "tier": 5,
   "status": "no_program_found",
-  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker or first-party record of a prior new-grad SWE opening",
+  "jobs_page": "https://www.seeacareerwithus.com/search-jobs",
   "jobs_spec": null,
-  "dropped": []
+  "evidence": "seeacareerwithus.com sitemap 2026-10-26 lists 134 US job pages: retail, food, warehouse, design, facilities. No software, developer, data or engineer titles. Ingka tech roles sit on separate Ingka sites, not the US board.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

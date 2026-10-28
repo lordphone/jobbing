@@ -1,7 +1,7 @@
 {
  "company": "EY",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "open",
  "postings": [
   {
@@ -133,15 +133,33 @@
    "level": "unlabeled",
    "level_basis": "Analyst-level role requiring a predicted undergraduate or graduate degree",
    "no_sponsorship": false
+  },
+  {
+   "title": "Service Delivery Center - Microsoft Dynamics Developer - Analyst",
+   "url": "https://careers.ey.com/ey/job/San-Antonio-Service-Delivery-Center-Microsoft-Dynamics-Developer-Analyst-TX-78249/1435399933/",
+   "location": "San Antonio, TX",
+   "opened": "2026-10-08",
+   "date_source": "page text (datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Analyst; 'Minimum of 1-2 years of experience as a member of a technology team'; works under supervision of seniors; Bachelor's in CS (borderline: Dynamics/Power Platform developer)",
+   "no_sponsorship": false
   }
  ],
- "dropped": [],
+ "dropped": [
+  {
+   "url": "https://careers.ey.com/ey/job/Tampa-Service-Delivery-Center%2C-AI-Analyst-FL-33602/1449441333/",
+   "reason": "gone: page shows 'The Job is no longer available'"
+  }
+ ],
  "last_cycle_opened": "2026-01-16",
  "last_cycle_basis": "tracker first-seen 2026-01-16 (snapshot date, likely earlier): 'USA - Service Delivery Center - Business Technology - Associate Analyst' and 'Indirect Tax - Technology Staff' (eyglobal.yello.co)",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.ey.com/ey/search/",
  "jobs_spec": null,
- "evidence": "Opened all 8 careers.ey.com Analyst developer postings 2026-10-19: each shows Apply now, Oct 2026 dates; yello TTT AI Analyst and TTT Data Engineering Analyst pages live. 'Immigration sponsorship may be available' on TTT roles. Left out Dynamics developer, SDET, clearance roles.",
+ "evidence": "2026-10-26: browser pane unavailable; refetched 11 earlier posting pages with curl (careers.ey.com shows Apply now; 2 Yello TTT pages load with apply). Tampa AI Analyst now 'no longer available'. Fresh search of careers.ey.com found no new US/Toronto analyst-level developer roles. Analyst SDC roles ask 1-2 years; no deadlines stated.",
  "confidence": "medium"
 }

@@ -1,13 +1,12 @@
 {
   "company": "Headlands Technologies",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
       "title": "C++ Software Developer - New Grad",
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
-      "location": "Chicago, IL; New York, NY; Remote (US); Amsterdam, Netherlands; London, UK; Singapore",
+      "location": "Chicago, IL; New York, NY; Remote (US); Amsterdam, Netherlands",
       "opened": "2026-09-16",
       "date_source": "greenhouse first_published",
       "deadline": null,
@@ -18,13 +17,14 @@
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker shows only a 2026-07-05 first-seen of Quantitative Researcher New Grad (this cycle, research not SWE)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history found for 2025-07 to 2026-01",
   "jobs_page": "https://job-boards.greenhouse.io/headlandstechnologiesllc",
   "jobs_spec": "gh:headlandstechnologiesllc",
-  "evidence": "gh:headlandstechnologiesllc full board (8) 2026-10-19: C++ Software Developer - New Grad (first published 2026-09-16) live via API; text says Chicago and Amsterdam, API location list adds New York, Remote - US, London, Singapore. Experienced C++/Java posts say new grads apply via the separate New Grad posting; Quantitative Researcher - New Grad is research, not counted.",
+  "evidence": "Greenhouse full board (8) 2026-10-26: C++ Software Developer - New Grad (first published 2026-09-16) live via API; text says Chicago and Amsterdam, API list adds New York, Remote - US. Experienced C++/Java postings are separate.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

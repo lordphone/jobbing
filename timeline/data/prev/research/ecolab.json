@@ -1,16 +1,16 @@
 {
-  "company": "Ecolab",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "not_yet",
+  "checked": "2026-10-26",
   "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: GIS Developer I (St Paul MN) first seen 2026-06-03, closed; Junior QC Software Developer Calgary 2026-10-06; no clean last-cycle date",
+  "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Ecolab",
+  "tier": 5,
+  "status": "not_yet",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; jobs.py history shows only GIS Developer 1 (St Paul, 2026-06-03) and Junior QC Software Developer (Calgary, 2026-10-06), both off-cycle",
   "jobs_page": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external",
   "jobs_spec": "wd:ecolab/wd1/ecolab_external",
-  "evidence": "Workday full board 2026-10-19 (1071): US tech roles are automation, plant and data-science lead roles; software engineers are India/Switzerland and the Junior QC Software Developer is Calgary AB (not Toronto/Vancouver). No new-grad SWE track.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Workday full board (1019) read 2026-10-26: no US, Toronto or Vancouver entry software role. Engineer titles are mechanical, process, automation, project; software roles are Principal AI Architect and Regulated Software Systems QA.",
+  "confidence": "medium"
 }

@@ -1,16 +1,17 @@
 {
   "company": "Essential AI",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "history shows only 2024 research-engineer postings (closed)",
+  "last_cycle_basis": "No new-grad history; tracker shows only 2024 Member of Technical Staff research-engineer postings (2024-06-27)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/essentialai",
   "jobs_spec": "ashby:essentialai",
-  "evidence": "Ashby posting API returns 0 jobs 2026-10-20 (HTTP 200, empty list); careers page links only to that board. No postings now; history shows only 2024 research-engineer postings.",
+  "jobs_spec_basis": "essential.ai/careers 'See open positions' links to jobs.ashbyhq.com/essentialai; board empty",
+  "evidence": "Ashby posting API returns 0 jobs 2026-10-27; essential.ai/careers links only to jobs.ashbyhq.com/essentialai, so the saved board is right. No open postings; history shows only 2024 research-engineer postings.",
   "confidence": "medium"
 }

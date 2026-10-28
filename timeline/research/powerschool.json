@@ -1,43 +1,43 @@
 {
-  "company": "PowerSchool",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer - IC1",
-      "url": "https://careers-powerschool.icims.com/jobs/53084/associate-software-engineer/job",
-      "location": "Dallas, TX",
-      "opened": "2026-09-14",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Minimum Qualifications: '1 year or less of relevant and related work experience'; IC1 Associate Software Engineer",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://careers-powerschool.icims.com/jobs/52965/software-engineer/job",
-      "location": "Dallas, TX",
-      "opened": "2026-09-14",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Minimum Qualifications: 'Minimum of 2 years of relevant and related work experience'; duties are day-to-day full-stack work and code reviews, no lead or architecture ownership",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No last-cycle posting found in tracker history or board.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers-powerschool.icims.com",
-  "jobs_spec": null,
-  "evidence": "iCIMS pages fetched by HTTP 2026-10-20: Associate Software Engineer IC1 (1 yr or less) and Software Engineer (2 yrs min) both show Apply, Dallas. Other listed software roles are Senior or Lead.",
-  "confidence": "medium"
+ "company": "PowerSchool",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Software Engineer - IC1",
+   "url": "https://careers-powerschool.icims.com/jobs/53084/associate-software-engineer/job",
+   "location": "Dallas, TX",
+   "opened": "2026-09-14",
+   "date_source": "page text datePosted",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Minimum Qualifications: '1 year or less of relevant and related work experience'; IC1 Associate Software Engineer",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://careers-powerschool.icims.com/jobs/52965/software-engineer/job",
+   "location": "Dallas, TX",
+   "opened": "2026-09-14",
+   "date_source": "page text datePosted",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Minimum Qualifications: 'Minimum of 2 years of relevant and related work experience'; duties are day-to-day full-stack work and code reviews, no lead or architecture ownership",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No last-cycle posting found in tracker history or board.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers-powerschool.icims.com",
+ "jobs_spec": null,
+ "evidence": "iCIMS search (all jobs, engineer) and posting pages fetched 2026-10-27: Associate Software Engineer IC1 (1 year or less) and Software Engineer (2 yrs min) in Dallas both live with datePosted 2026-09-14, Apply present. Other engineer roles are lead, distinguished or IT.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

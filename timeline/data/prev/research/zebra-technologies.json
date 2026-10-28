@@ -1,16 +1,21 @@
 {
   "company": "Zebra Technologies",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
   "postings": [],
+  "dropped": [
+    {
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
+      "reason": "gone: browser page shows 'The page you are looking for doesn't exist.'; not in the 256-posting board; had Workday end date 2026-10-24"
+    }
+  ],
   "last_cycle_opened": "2026-02-02",
   "last_cycle_basis": "tracker first seen: Software Engineer - I, Lake Grove NY 2026-02-02; SWE 1 reqs also 2026-08-24 to 2026-09-09 (Lincolnshire IL, Holtsville NY, Kennesaw GA)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers",
   "jobs_spec": "wd:zebra/wd501/Zebra_careers",
-  "evidence": "Workday board re-read 2026-10-19 (247, full): US/Canada software roles are Advanced, II, Senior, Lead or 3+ yrs. Software Engineer 1 reqs JR102952 (Lincolnshire) and JR103056 (Holtsville) show 'page doesn't exist' in the browser; others absent from board.",
+  "evidence": "Workday full board (256) 2026-10-26: no entry software role. SW Engineer/AI Enterprise Systems Analyst needs 5+ yrs; others Advanced/Senior. Professional I JR103780 (opened 2026-10-20) is gone in browser, so closed.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

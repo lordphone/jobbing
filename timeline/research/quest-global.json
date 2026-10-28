@@ -1,16 +1,16 @@
 {
  "company": "Quest Global",
  "tier": 5,
+ "checked": "2026-10-27",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "Tracker lists staffing-style roles only (Full Stack Developer Charlotte 2025-10-31); no dated new-grad program",
+ "last_cycle_basis": "no first-party evidence of a new-grad SWE program; tracker only listed a non-SWE posting 2025-10-31",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.quest-global.com/global/en/search-results",
  "jobs_spec": null,
- "evidence": "Phenom widgets API read in browser 2026-10-20 (252 US + Canada postings, titles read, software postings opened): client-staffing software roles with 3-12 yrs, some needing US citizenship; Build & Release and Python Backend roles are owner-level with no entry wording. No new-grad program.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "dropped": []
+ "evidence": "Phenom widgets API read 2026-10-27 (1844 jobs, all paged; 262 US/Canada). Software roles are client-staffing Java/UI/DevOps/AI roles: 3-12 yrs, or no years but senior duties (Build & Release works independently across teams; Full Stack sets engineering vision), so not counted. Software Support Engineer (LA) is 24x7 support. Only entry-level title is a Schenectady entry engineer (not SWE).",
+ "confidence": "medium"
 }

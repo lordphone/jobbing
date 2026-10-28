@@ -1,16 +1,16 @@
 {
   "company": "Clio",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-10-11",
-  "last_cycle_basis": "tracker history: Software Developer (Calgary) first seen 2025-10-11, closed; New Grad Software Developer 2024-09-10, Canada-based",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: only unlabeled Software Developer (Calgary) 2025-10-11, not a new-grad label; a 2024 New Grad posting existed",
   "jobs_page": "https://clio.wd3.myworkdayjobs.com/ClioCareerSite",
   "jobs_spec": "wd:clio/wd3/ClioCareerSite",
-  "evidence": "wd:clio full board (138): Toronto/Burnaby Software Developer postings are experienced (Rails at scale, mentorship); ML/security mid-level; Barcelona/Dublin/UK outside scope. No Canada/US new-grad now.",
-  "confidence": "high"
+  "evidence": "Workday full board (133) re-read 2026-10-26: Toronto and Burnaby Software Developer postings have no entry label, no years line, CAD 112-151.5K, at-scale web app and mentorship duties (mid-level, not counted). Barcelona and Dublin outside US/Canada. ML, security roles mid or senior. Only co-op interns otherwise.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

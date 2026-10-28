@@ -1,30 +1,43 @@
 {
-  "company": "Los Alamos National Laboratory (LANL)",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "2026 Software Developer Post-Bach (IRC146104)",
-      "url": "https://lanl.jobs/search/jobdetails/2026-software-developer-post-bach/137d68f5-f92f-4406-b48e-fd01f3db19e2",
-      "location": "Los Alamos, NM",
-      "opened": "2026-10-01",
-      "date_source": "page text (JobPosting datePosted)",
-      "deadline": null,
-      "grad_window": "Bachelor's earned within the last 3 years",
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Post-Bachelors Student appointment (Research Library, web developer: PHP/Python/Java, MySQL, JS); requires a bachelor's earned within the last 3 years, no years of experience; page says 'No Clearance: Position does not require a security clearance'",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://lanl.jobs/search/searchjobs",
-  "jobs_spec": null,
-  "evidence": "Re-read posting 2026-10-19: live, 'No Clearance'. lanl.jobs sitemap + browser 2026-10-18: Research Library post-bach software developer live (posted 2026-10-01), Apply present, 'No Clearance', bachelor's within 3 years. Other software/HPC roles need DOE Q clearance; Space Data post-bacc requires citizenship.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Los Alamos National Laboratory (LANL)",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "2026 Software Developer Post-Bach (IRC146104)",
+   "url": "https://lanl.jobs/search/jobdetails/2026-software-developer-post-bach/137d68f5-f92f-4406-b48e-fd01f3db19e2",
+   "location": "Los Alamos, NM",
+   "opened": "2026-10-01",
+   "date_source": "page text (datePosted 10/1/2026)",
+   "deadline": null,
+   "grad_window": "Bachelor's earned within the last 3 years",
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Post-Bachelors Student appointment (web developer: PHP/Python/Java, MySQL, JS); requires a bachelor's earned within the last 3 years, no years of experience; page says 'No Clearance: Position does not require a security clearance'",
+   "no_sponsorship": false
+  },
+  {
+   "title": "AOT-IC Post-Bachelor (LANSCE control system software developer)",
+   "url": "https://lanl.jobs/search/jobdetails/aot-ic-post-bachelor/9cb91802-f8c2-4b5a-b2a4-917781210269",
+   "location": "Los Alamos, NM",
+   "opened": "2026-08-27",
+   "date_source": "page text (datePosted 8/27/2026)",
+   "deadline": null,
+   "grad_window": "Recent graduate, bachelor's with GPA 3.0+",
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "AOT-IC Software team 'seeking a recent graduate' for a one-year full-time post-baccalaureate position (programmer, control system software); no years asked; page says 'No Clearance: Position does not require a security clearance'; called a postgraduate internship, borderline",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_basis": "unknown; no tracker history",
+ "jobs_page": "https://lanl.jobs/search/searchjobs",
+ "jobs_spec": null,
+ "evidence": "lanl.jobs sitemap (476 jobs) and posting pages opened 2026-10-26: 2026 Software Developer Post-Bach (no clearance, bachelor within 3 yrs, 2026 in title so borderline) and AOT-IC Post-Bachelor software (no clearance required, Q only under Desired, borderline post-bac internship) kept. NEST, LIMS, HPC, digital engineer, CSP roles need Q or SCI clearance or 2-8 yrs; others are student internships.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "last_cycle_opened": null
 }

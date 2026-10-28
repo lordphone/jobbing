@@ -1,16 +1,17 @@
 {
   "company": "Getty Images Holdings",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/gettyimages",
   "jobs_spec": "lever:gettyimages",
-  "evidence": "Lever gettyimages full board (6) 2026-10-20: customer service, sales, editor, photography roles. No engineering roles.",
-  "confidence": "high"
+  "jobs_spec_basis": "gettyimages.com/careers Apply links go to jobs.lever.co/gettyimages",
+  "evidence": "Careers page links to Lever gettyimages; full board (6) 2026-10-27 has no engineering roles at all. No entry-level SWE or new-grad track found.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "postings": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history found",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

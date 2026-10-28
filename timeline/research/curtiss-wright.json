@@ -1,16 +1,16 @@
 {
   "company": "Curtiss-Wright",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "no_program_found",
-  "last_cycle_opened": "2025-12-15",
-  "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
-  "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
-  "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday board 2026-10-20 (371, full) screened. Graduate Engineer Frederick MD (0-2 yrs) requires a mechanical, nuclear or chemical engineering degree and builds plant simulation models, so not SWE. Oracle System Developer and Manufacturing SW Developer say 'candidates must be US citizens' (DoD); other software roles are 5+ yrs, senior, or Canada.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
   "postings": [],
   "dropped": [],
+  "last_cycle_opened": "2025-12-15",
+  "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
+  "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
+  "evidence": "Workday full board (376) read 2026-10-27. Graduate Engineer Frederick MD is plant-simulator engineering, not SWE. Oracle System Developer (Cheswick) needs DoD US citizen and clearance. Other software roles are senior/lead/principal or outside US/Toronto/Vancouver. No entry-level SWE.",
+  "confidence": "high"
 }

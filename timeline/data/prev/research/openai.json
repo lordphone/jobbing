@@ -1,7 +1,6 @@
 {
  "company": "OpenAI",
  "tier": 1,
- "checked": "2026-10-19",
  "status": "open",
  "postings": [
   {
@@ -27,17 +26,18 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "'ideal for early-career engineers with 1\u20132 years of experience'; requires 1\u20132 years",
+   "level_basis": "'ideal for early-career engineers with 1–2 years of experience'; requires 1–2 years",
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": "2025-09-18",
  "last_cycle_basis": "jobs.py history: Applied Emerging Talent SWE first seen 2025-09-18 (SF, Seattle)",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.ashbyhq.com/openai",
  "jobs_spec": "ashby:openai",
- "evidence": "ashby:openai full board (805) read and screened 2026-10-19; AET 2027 (0-1 yrs) and Performance Modeling Engineer ~2 (1-2 yrs, early-career) live via API. Other US SWE postings ask 3+ yrs or state no level, left out.",
- "confidence": "high"
+ "evidence": "ashby:openai full board (793) read 2026-10-26; AET 2027 (0-1 yrs) and Performance Modeling Engineer ~2 (1-2 yrs, early-career) both live via API detail. No other entry-level titles on the board.",
+ "confidence": "high",
+ "checked": "2026-10-26",
+ "dropped": []
 }

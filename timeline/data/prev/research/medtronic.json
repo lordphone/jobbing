@@ -1,16 +1,16 @@
 {
   "company": "Medtronic",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
+  "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2025-08-05",
-  "last_cycle_basis": "tracker: Software Engineer I - CRM (Blaine, MN) first seen 2025-08-05; more Software Engineer 1 reqs through Dec 2025",
+  "last_cycle_basis": "tracker first seen 2025-08-05 (worklist tracker_last_cycle)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
   "jobs_spec": "wd:medtronic/wd1/MedtronicCareers",
-  "evidence": "Workday full board (380) 2026-10-19 plus CXS keyword searches: US software roles are Embedded SWE II, Principal; only entry item is Software Quality Engineer I (quality, not SWE). Tracker's Software Engineer 1 reqs (latest 2026-07-23, Lafayette CO) are gone from the board, so closed.",
-  "confidence": "medium"
+  "evidence": "Workday board (1062, full) read 2026-10-26: US software titles are Principal, Senior, Manager or level II (Software Engineer II, Software Systems Engineer II); Data Engineer (Lafayette) is a data role. The new-grad titles are non-software or non-US. No entry SWE live.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": []
 }

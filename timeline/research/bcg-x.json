@@ -1,16 +1,25 @@
 {
   "company": "BCG X",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://careers.bcg.com/global/en/job/59067",
+      "reason": "gone: HTTP 410"
+    },
+    {
+      "url": "https://careers.bcg.com/global/en/job/59461",
+      "reason": "gone: page says the job has been filled"
+    }
+  ],
   "last_cycle_opened": "2025-11-24",
   "last_cycle_basis": "tracker: BCG X 'AI Engineer' (general, Boston/Seattle/SF etc.) first seen 2025-11-24, https://careers.bcg.com/global/en/job/55995",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.bcg.com/global/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom API 2026-10-20 (912 postings, all read): campus Forward Deployed AI Engineer 59067 (posted 2026-08-19) returns HTTP 410. FDE 59461 (Sep 22) has lead/guide-teams duties and no class year, not entry-level. Campus FDE 59702/59703 are internships.",
+  "evidence": "Phenom widgets API search 2026-10-27 (engineer, software, AI engineer, campus): campus Forward Deployed AI Engineer 59067 (posted 2026-08-19) returns HTTP 410. FDE 59461 (Sep 22) page says filled. Only live campus FDE roles are Internships; others are senior/manager.",
   "confidence": "medium"
 }

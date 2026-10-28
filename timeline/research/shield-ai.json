@@ -1,43 +1,56 @@
 {
-  "company": "Shield AI",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Development Engineer - New Graduate",
-      "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
-      "location": "San Diego, CA; Washington, D.C.; Boston, MA",
-      "opened": "2026-10-06",
-      "date_source": "lever createdAt (tracker first seen 2026-10-06)",
-      "deadline": null,
-      "grad_window": "Dec 2026 \u2013 Aug 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Engineer I, Software Integration (R6214)",
-      "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
-      "location": "Washington, D.C.; San Diego, CA",
-      "opened": "2026-10-09",
-      "date_source": "lever createdAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Engineer I; 'C++ through coursework, projects, research, or student teams'; $79K-$110K",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-07-10",
-  "last_cycle_basis": "tracker first seen 'Software Engineer I - Hardware Test' (Dallas)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.lever.co/shieldai",
-  "jobs_spec": "lever:shieldai",
-  "evidence": "Lever full board 2026-10-20 (656): SDE New Grad (grad Dec 2026-Aug 2027) and Engineer I Software Integration live, posting text has no citizenship line. Apply form asks export-control status (not a hard bar). Simulation Framework and Software-Factory Engineer I say SECRET clearance and citizenship required, not counted. SW Test and Automation I is test.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Shield AI",
+ "tier": 3,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Development Engineer - New Graduate",
+   "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
+   "location": "San Diego, CA; Washington, D.C.; Boston, MA",
+   "opened": "2026-10-06",
+   "date_source": "lever createdAt (tracker first seen 2026-10-06)",
+   "deadline": null,
+   "grad_window": "Dec 2026 \u2013 Aug 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "SDE - New Graduate title; graduating Dec 2026 - Aug 2027",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Engineer I, Software Integration (R6214)",
+   "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
+   "location": "Washington, D.C.; San Diego, CA",
+   "opened": "2026-10-09",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Engineer I; 'C++ through coursework, projects, research, or student teams'; $79K-$110K",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer I - New Grad (R6052)",
+   "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196",
+   "location": "Seattle, WA",
+   "opened": "2026-09-17",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "New Grad title; requires bachelor's in CS; internal tooling for X-BAT avionics; no citizenship line",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-07-10",
+ "last_cycle_basis": "tracker first seen 'Software Engineer I - Hardware Test' (Dallas)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.lever.co/shieldai",
+ "jobs_spec": "lever:shieldai",
+ "evidence": "Lever full board (663) read 2026-10-27, postings opened via API: SDE New Graduate (grad Dec 2026-Aug 2027), Engineer I Software Integration and Software Engineer I New Grad (Seattle) live, no citizenship line. Software-Factory and Simulation Framework say SECRET clearance and US citizenship required, not counted. Test and Automation roles are test, left out.",
+ "confidence": "medium"
 }

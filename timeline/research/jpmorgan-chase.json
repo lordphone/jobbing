@@ -1,7 +1,6 @@
 {
   "company": "JPMorgan Chase",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -9,7 +8,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111",
       "location": "Chicago, IL; Columbus, OH; Houston, TX; Jersey City, NJ; New York, NY; Palo Alto, CA; Plano, TX; Tampa, FL; Wilmington, DE",
       "opened": "2026-08-02",
-      "date_source": "oracle API posted",
+      "date_source": "tracker first seen (API posted 2026-08-03)",
       "deadline": "2026-11-06",
       "grad_window": "Jul 2026 - Jun 2027 (start Jul 2027)",
       "live_verified": "api",
@@ -22,7 +21,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102",
       "location": "Chicago, IL; Columbus, OH; Houston, TX; Jersey City, NJ; New York, NY; Palo Alto, CA; Plano, TX; Tampa, FL; Wilmington, DE",
       "opened": "2026-08-02",
-      "date_source": "oracle API posted",
+      "date_source": "tracker first seen (API posted 2026-08-03)",
       "deadline": "2026-11-06",
       "grad_window": "Jul 2026 - Dec 2026 (start Feb 2027)",
       "live_verified": "api",
@@ -32,12 +31,13 @@
     }
   ],
   "last_cycle_opened": "2025-08-04",
-  "last_cycle_basis": "tracker history: 'Software Engineer' postings first seen 2025-08-04 (x2)",
-  "excluded_reason": null,
+  "last_cycle_basis": "tracker history: 'Software Engineer' postings first seen 2025-08-04; 2025 Software Engineer Program first seen 2024-07-05",
   "no_sponsorship": true,
   "jobs_page": "https://jpmc.fa.oraclecloud.com",
   "jobs_spec": "oracle:jpmc.fa.oraclecloud.com/CX_1001",
-  "evidence": "Oracle keyword searches (not full board) 2026-10-20: both 2027 Software Engineer Program US postings (Jul and Feb start) re-opened via API detail, posted 2026-08-03, end 2026-11-06. No employment-based sponsorship. Software Engineer II/III roles are experienced, not counted.",
+  "evidence": "Oracle board searched 2026-10-27 (5367 of 7319 listed) and API detail: both 2027 Software Engineer Program US postings (Jul and Feb start) live, end 2026-11-06, no sponsorship. Data & AI analyst, non-US SWE programs and summer ML associate roles not counted.",
   "confidence": "high",
-  "dropped": []
+  "dropped": [],
+  "excluded_reason": null,
+  "checked": "2026-10-27"
 }

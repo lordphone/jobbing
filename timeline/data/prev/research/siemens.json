@@ -1,7 +1,7 @@
 {
   "company": "Siemens",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -29,6 +29,45 @@
       "level": "unlabeled",
       "level_basis": "Experience level Early Professional; pathways: bachelor's + 2+ yrs OR graduate degree with academic coding OR Siemens internship",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526167",
+      "location": "Mason, OH",
+      "opened": "2026-10-23",
+      "date_source": "page text (Posted since)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Siemens experience level field: 'Recent College Graduate' (body text says degree plus three to five years)",
+      "no_sponsorship": false
+    },
+    {
+      "title": "AI Agentic Software Engineer",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519575",
+      "location": "Raleigh, NC (remote US after onboarding)",
+      "opened": "2026-08-25",
+      "date_source": "page text (Posted since 25-Aug-2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Experience level Early Professional; requires 1-3 years professional experience; no senior duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - Associate",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519244",
+      "location": "Livonia, MI; Mason, MI",
+      "opened": "2026-08-22",
+      "date_source": "page text (Posted since)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; 'Assists senior engineers'; requires 1 to 3 years in software/cloud/DevOps; 1+ year minimum",
+      "no_sponsorship": true
     }
   ],
   "last_cycle_opened": null,
@@ -37,7 +76,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Siemens pages fetched 2026-10-19: 524948 (Early Professional, 0-3 yrs C++, ITAR/EAR contingency, not a hard exclusion, Apply present) and 507651 (Early Professional, bachelor+2 yrs or grad degree/internship, Apply present) live. Search of software engineer results: other US software roles are Mid or Experienced Professional. Posts ad hoc; no API.",
-  "confidence": "low",
+  "evidence": "Siemens search pages fetched 2026-10-26 (21 keyword searches, ~1000 jobs; opened US/Canada software roles). Counted 524948, 507651, 526167 (Recent College Graduate label), 519575, 519244 (Associate, 1-3 yrs). Mid/Experienced and 3+ yr roles left out. 524948 ITAR note: contingent on US Person status or export license.",
+  "confidence": "medium",
   "dropped": []
 }

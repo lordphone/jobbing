@@ -1,7 +1,6 @@
 {
   "company": "SpaceXAI (xAI)",
   "tier": 1,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,20 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'early-career engineers can take on real ownership'; no years asked; pay $150K-$350K",
+      "level_basis": "'early-career engineers can take on real ownership'; no years asked",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Evals",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+      "location": "Palo Alto, CA",
+      "opened": "2026-07-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'We are open to all levels from new grads to senior engineers' (also lists 3+ years actively writing code); $175,000-$275,000",
       "no_sponsorship": false
     }
   ],
@@ -26,6 +38,7 @@
   "jobs_page": "https://x.ai/careers/open-roles",
   "jobs_spec": "gh:xai",
   "jobs_spec_basis": "x.ai/careers open roles page links every job to gh:xai",
-  "evidence": "gh:xai full board (305) read and screened 2026-10-20: Ads Product SWE live via API, says early-career engineers, no years asked. Evals says all levels but requires 3+ yrs. Other SWE roles ask 2+ yrs with senior duties or no level, left out.",
-  "confidence": "medium"
+  "evidence": "gh:xai full board (308) read and screened 2026-10-27; Ads Product SWE (early-career, no years) and Evals SWE (open to new grads, also 3+ yrs, borderline, kept) both live via API. Other SWE/MTS roles ask 2+ to 7+ yrs or are senior; internships excluded.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

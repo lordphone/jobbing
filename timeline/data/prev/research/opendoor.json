@@ -1,16 +1,16 @@
 {
   "company": "Opendoor",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or dated new-grad posting found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found",
   "jobs_page": "https://www.opendoor.com/careers/open-positions",
   "jobs_spec": null,
-  "evidence": "Careers page read in browser 2026-10-19 (no API). Software Engineer (Miami/Toronto) is 'All Levels' with lead/mentor duties and deep experience; ML Engineer is Senior and Above. Applied Scientist roles are not SWE.",
-  "confidence": "high"
+  "evidence": "Careers page (no API) read over HTTP 2026-10-26: 24 R&D openings. Software Engineer (Miami, Toronto) is 'All Levels', posted May 29, but asks deep experience, design reviews and mentoring, so not entry-level. ML Engineer is senior-level; scientists and security roles not entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

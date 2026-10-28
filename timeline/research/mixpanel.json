@@ -1,16 +1,30 @@
 {
   "company": "Mixpanel",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Growth",
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8157627",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-27",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'At least 2 years of full-stack software engineering experience'; no senior duties, no level in title",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2026-04-15",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer - New Grad' first seen 2026-04-15 (SF), closed",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker history: Software Engineer - New Grad, SF, first seen 2026-04-15 (https://job-boards.greenhouse.io/mixpanel/jobs/7773373)",
   "jobs_page": "https://job-boards.greenhouse.io/mixpanel",
   "jobs_spec": "gh:mixpanel",
-  "evidence": "Greenhouse API 2026-10-20 (46, full): only US SWE is Distributed Systems (SF) requiring 3+ yrs on a senior-heavy team. Last cycle New Grad SWE (SF, 2026-04-15) is closed.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (45) read 2026-10-27: new Software Engineer, Growth (SF, first published today) asks 2 yrs required and no senior duties, so counted as unlabeled. Distributed Systems asks 3+ yrs, Marketing Systems Engineer is sole-owner, rest Senior/Staff. Previously not_yet; the new posting changes it. Last cycle's New Grad SWE gone. Spring-posting company.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

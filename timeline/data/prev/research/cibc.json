@@ -1,17 +1,17 @@
 {
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "postings": [],
   "company": "CIBC",
+  "tier": 5,
   "status": "closed",
+  "postings": [],
   "last_cycle_opened": "2026-03-25",
   "last_cycle_basis": "tracker 'Associate Technology Graduate Rotational Program' Toronto 2026-03-25 (TGRP is for former CIBC co-ops); Chicago Software Engineer I 2026-04-07 and SWE Apprentice 2026-03-23 (no sponsorship)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://cibc.wd3.myworkdayjobs.com/search",
   "jobs_spec": "wd:cibc/wd3/search",
-  "jobs_spec_basis": "Campus roles post on separate board wd:cibc/wd3/campus (35 postings, full); search kept as main list.",
-  "evidence": "Search (517) and campus (38) boards 2026-10-19: campus has summer intern/co-op and banking programs; no full-time SWE new grad. Toronto Consultant devs and Chicago Senior SWE are not entry. Tracker's Aug 2026 TGRP not listed.",
-  "confidence": "medium"
+  "jobs_spec_basis": "Campus roles post on separate board wd:cibc/wd3/campus (37 postings, full); search board (601) kept as main list.",
+  "evidence": "Search (603) and campus (38) Workday boards read in full 2026-10-26. Technology Graduate Rotational Program (Toronto, first seen 2026-08-05) is on neither, so closed. Consultant developers ask 3-8 yrs; the rest are co-ops, senior or non-engineering.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": []
 }

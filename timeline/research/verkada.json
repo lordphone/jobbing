@@ -1,7 +1,7 @@
 {
   "company": "Verkada",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -29,20 +29,29 @@
       "level": "unlabeled",
       "level_basis": "requires 1-3 years of software engineering experience; $125K-$160K",
       "no_sponsorship": false
-    }
-  ],
-  "dropped": [
+    },
     {
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
-      "reason": "gone: Greenhouse API returns 404 and the job is not on the gh:verkada board"
+      "title": "Software Engineer, Platform Infrastructure",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4759062007",
+      "location": "San Mateo, CA",
+      "opened": "2025-06-09",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'BS, MS, or PhD in Computer Science' and '1+ years of experience on cloud infrastructure or backend systems'",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-09-05",
   "last_cycle_basis": "tracker history: 'New Grad 2026: Backend/Embedded/Frontend Software Engineer' first seen 2025-09-05/08",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/verkada",
   "jobs_spec": "gh:verkada",
-  "evidence": "gh:verkada full board (317) 2026-10-19: no 2027 new-grad SWE title (TSE Univ Grad 2027 is support). Backend Connectivity (1+ yrs) and Data Platform (1-3 yrs) still live on the API and sponsor visas. Computer Vision now 404. Embedded roles and Platform Infra left out.",
+  "jobs_spec_basis": "saved board gh:verkada confirmed, full board lists Verkada jobs",
+  "evidence": "gh:verkada full board (331) read 2026-10-27: no 2027 new-grad SWE title (TSE Univ Grad 2027 is support; SWE interns 2027). Backend Connectivity (1+ yrs), Data Platform (1-3 yrs) and Platform Infrastructure (1+ yrs) live on API. Embedded roles ask 1-3+ yrs Linux or firmware, left out.",
   "confidence": "medium"
 }

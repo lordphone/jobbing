@@ -1,17 +1,17 @@
 {
   "company": "Augment Code",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history or new-grad posting found",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.augmentcode.com/careers",
   "jobs_spec": "gh:augmentcomputing",
-  "jobs_spec_basis": "Greenhouse augmentcomputing returns 0 jobs; careers page also shows 0 open roles",
-  "evidence": "Careers page (WebFetch 2026-10-20) lists no open roles and no Apply links; Greenhouse augmentcomputing returns 0 jobs; no other board found. No postings of any level.",
-  "confidence": "medium"
+  "evidence": "Greenhouse augmentcomputing (the board Augment postings use) returns 0 jobs on 2026-10-27 and old posting pages are NOT ON THE BOARD; careers page HTML has no role titles (list loads by script, browser pane unavailable). No entry-level posting found.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Search results link augmentcode postings to job-boards.greenhouse.io/augmentcomputing; board API returns 0 jobs today."
 }

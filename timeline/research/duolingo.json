@@ -1,16 +1,21 @@
 {
-  "company": "Duolingo",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "Tracker first-seen for 'Software Engineer \u2013 New Graduate', Pittsburgh (careers.duolingo.com/jobs/8155283002); 2024 cycle 2024-09-14.",
+  "checked": "2026-10-27",
+  "dropped": [
+    {
+      "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+      "reason": "ruled out: PhD required, 'You have an Ph.D. in computer science or related technical field (or expect to by August 2027)'"
+    }
+  ],
   "excluded_reason": null,
   "no_sponsorship": false,
+  "postings": [],
+  "last_cycle_opened": "2025-09-15",
+  "company": "Duolingo",
+  "tier": 3,
+  "status": "not_yet",
+  "last_cycle_basis": "tracker first seen: Software Engineer \u2013 New Graduate, Pittsburgh (careers.duolingo.com/jobs/8155283002) 2025-09-15; 2024 cycle 2024-09-14",
   "jobs_page": "https://job-boards.greenhouse.io/duolingo",
   "jobs_spec": "gh:duolingo",
-  "evidence": "gh:duolingo (62, full) and uni board gh:duolingounirecruitment (5) 2026-10-20: only new-grad role is AI Research Engineer, New PhD Graduate (Ph.D. required, left out); uni board otherwise interns. Other eng roles II/Senior/Staff. Last cycle SWE New Grad opened 2025-09-15; not posted yet.",
-  "confidence": "medium"
+  "evidence": "gh:duolingo (60, full) and uni board gh:duolingounirecruitment (5) read 2026-10-27: only new-grad role is AI Research Engineer, New PhD Graduate (PhD required, left out). Uni board otherwise interns. Last cycle's SWE New Grad opened mid-September, so not yet posted this year.",
+  "confidence": "high"
 }

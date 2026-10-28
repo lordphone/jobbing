@@ -1,21 +1,21 @@
 {
-  "company": "Chewy",
-  "tier": 4,
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2025-07-07",
-  "last_cycle_basis": "tracker history: Software Engineer I posted 2025-07-07 (Boston, MA; Fort Lauderdale, FL); reqs repost rolling",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://chewy.wd5.myworkdayjobs.com/External",
-  "jobs_spec": "wd:chewy/wd5/External",
-  "evidence": "Workday full board (248) 2026-10-19: Software Engineer I R30985-1 (opened 2026-10-05) now absent from board and its page says it doesn't exist. Remaining SWE roles are II/III/Principal. Chewy reposts SWE I rolling.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": [
-    {
-      "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Bellevue-WA/Software-Engineer-I_R30985-1",
-      "reason": "gone: not on the Workday board and the page shows 'The page you are looking for doesn't exist.'"
-    }
-  ]
+ "company": "Chewy",
+ "tier": 4,
+ "status": "closed",
+ "dropped": [
+  {
+   "url": "https://chewy.wd5.myworkdayjobs.com/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
+   "reason": "gone: posting API 403, not on the Workday board (full, 241 postings); earlier browser page showed it does not exist"
+  }
+ ],
+ "last_cycle_opened": "2025-07-07",
+ "last_cycle_basis": "tracker history: Software Engineer I posted 2025-07-07 (Boston, MA; Fort Lauderdale, FL); reqs repost rolling",
+ "jobs_page": "https://chewy.wd5.myworkdayjobs.com/External",
+ "jobs_spec": "wd:chewy/wd5/External",
+ "evidence": "Workday full board (241) 2026-10-26: Software Engineer I R31182-1 (live 2026-10-21) not listed and posting API returns 403 (live reqs return 200). Remaining SWE roles are II (4+ yrs, 3+ yrs), III, Principal, Director. Chewy reposts SWE I on a rolling basis, so it may return.",
+ "confidence": "medium",
+ "postings": [],
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

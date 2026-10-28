@@ -1,16 +1,16 @@
 {
- "company": "UPS",
- "status": "not_yet",
+ "postings": [],
+ "dropped": [],
+ "no_sponsorship": false,
+ "excluded_reason": null,
+ "checked": "2026-10-26",
  "last_cycle_opened": "2025-11-25",
- "last_cycle_basis": "tracker first-seen: Software Development Engineer 1 - Salesforce (Georgia / Parsippany NJ), 2025-11-25; earlier SDE I 2025-03-07",
+ "last_cycle_basis": "tracker first seen: Software Development Engineer 1 - Salesforce, GA/NJ, 2025-11-25",
+ "company": "UPS",
+ "tier": 5,
+ "status": "not_yet",
  "jobs_page": "https://hcmportal.wd5.myworkdayjobs.com/Search",
  "jobs_spec": "wd:hcmportal/wd5/Search",
- "evidence": "Full Workday board (480) re-read 2026-10-19: US engineering titles are building/aircraft/automation roles; entry developers are India TDC only. Only US ML Engineer (Atlanta) requires US citizenship and is not entry-level. No US entry SWE live.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-19",
- "postings": [],
- "excluded_reason": null,
- "no_sponsorship": false,
- "dropped": []
+ "evidence": "Workday board (2000, full) read 2026-10-26: US engineering titles are buildings/systems/industrial plus 2027 engineering interns and Corp IE supervisors; developer roles are India TDC or Ireland. No US entry SWE; none this cycle or last on board.",
+ "confidence": "medium"
 }

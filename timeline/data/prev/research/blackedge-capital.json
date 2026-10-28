@@ -1,23 +1,9 @@
 {
   "company": "BlackEdge Capital",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Graduate Quantitative Developer",
-      "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005",
-      "location": "Chicago, IL",
-      "opened": "2026-07-24",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": "graduating 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "title Graduate; \"Graduating in 2027 with a degree in Computer Science, Engineering or related field\"",
-      "no_sponsorship": false
-    }
-  ],
+  "checked": "2026-10-26",
+  "status": "closed",
+  "postings": [],
   "dropped": [],
   "last_cycle_opened": "2025-08-13",
   "last_cycle_basis": "tracker: New Grad 2026: Quantitative Developer first seen 2025-08-13",
@@ -25,6 +11,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/blackedgecapital",
   "jobs_spec": "gh:blackedgecapital",
-  "evidence": "Greenhouse full board (5) 2026-10-19: Graduate Quantitative Developer live, graduating 2027, Chicago. Graduate Quant Researcher not SWE. Trading Strategy Software Engineer is senior-style (ownership, nanosecond systems), not counted.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (3) 2026-10-26: Graduate Quantitative Developer 4703827005 (tracker 2026-07-24) is not on the board. Graduate Quantitative Researcher 2027 is research, not SWE. Trading Strategy Software Engineer (nanosecond C++, owns architecture) is experienced.",
+  "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Alkami Technology",
   "tier": 5,
+  "checked": "2026-10-26",
   "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no Alkami new-grad SWE posting 2025-07 to 2026-01.",
+  "last_cycle_basis": "no tracker history for entry-level SWE at Alkami",
+  "excluded_reason": null,
+  "no_sponsorship": true,
   "jobs_page": "https://alkami.wd12.myworkdayjobs.com/alkami",
   "jobs_spec": "wd:alkami/wd12/alkami",
-  "evidence": "Workday full board (54) 2026-10-19: US-remote SWE roles are Sr/Staff or mid-level (MANTL SWE JR-000780: 2+ yrs, system design, advocates architecture, code reviews; Activations 3+ yrs). Implementation Engineer is not software. No new-grad track.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "dropped": []
+  "evidence": "Workday full board (54) 2026-10-26 with posting text: only unlabeled SWE is MANTL Software Engineer JR-000780 (US Remote), 2+ yrs, $125-140K, but asks for system-design opinions and code reviews, so mid-level; left out. Others Sr/Staff/Manager or implementation. States no sponsorship.",
+  "confidence": "medium"
 }

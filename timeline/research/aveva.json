@@ -1,16 +1,30 @@
 {
   "company": "AVEVA",
-  "status": "closed",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Cloud Operations & Infrastructure Graduate - USA",
+      "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2",
+      "location": "Lake Forest, CA; Scottsdale, AZ",
+      "opened": "2026-10-26",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": "graduating by June 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "AVEVA R&D graduate program; 'pursuing a degree in CS or Engineering graduating by June 2027'; develops .NET/C# apps and automation",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-09-15",
-  "last_cycle_basis": "2025-09-15 tracker: Artificial Intelligence Graduate (Lake Forest, CA); Software Developer Graduate (San Leandro, CA etc.) 2025-11-10",
+  "last_cycle_basis": "tracker: Artificial Intelligence Graduate (Lake Forest, CA) 2025-09-15; Software Developer Graduate 2025-11-10",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
   "jobs_spec": "wd:aveva/wd3/AVEVA_careers",
-  "evidence": "Workday full board (240) 2026-10-20: this-cycle US Software Developer Graduate - AI Proficient (R014947, tracker 2026-10-12) is not on the board or API. Live US SDE Houston, AI Software Engineer Lake Forest show no entry-level wording (independent work / seasoned), so left out; Experienced roles ask more.",
+  "evidence": "Workday keyword search 'graduate' 2026-10-27 (missing from the board list) shows the Cloud Operations & Infrastructure Graduate live (R&D graduate program, grads by June 2027, C#/.NET dev + test automation). Experienced, AI and SDE Houston roles are not entry-level.",
   "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "dropped": [],
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-27",
+  "dropped": []
 }

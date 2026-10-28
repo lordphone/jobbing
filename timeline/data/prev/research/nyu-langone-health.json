@@ -1,7 +1,6 @@
 {
  "company": "NYU Langone Health",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "open",
  "postings": [
   {
@@ -9,7 +8,7 @@
    "url": "https://jobs.nyulangone.org/job/23595549/research-engineer-new-york-ny/",
    "location": "New York, NY",
    "opened": "2026-10-08",
-   "date_source": "cws jobs API open_date",
+   "date_source": "cws jobs API open_date (earlier run)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "browser",
@@ -22,7 +21,7 @@
    "url": "https://jobs.nyulangone.org/job/23417563/research-engineer-new-york-ny/",
    "location": "New York, NY",
    "opened": "2026-05-22",
-   "date_source": "cws jobs API open_date",
+   "date_source": "cws jobs API open_date (earlier run)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "browser",
@@ -31,13 +30,15 @@
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history; not found",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.nyulangone.org/job-search-results/",
  "jobs_spec": null,
- "evidence": "Both Research Engineer posting pages opened 2026-10-19 with Apply button (ML posted 2026-10-08; CSTAR 2026-05-22): master's or BS plus 1-2 yrs. CSTAR has some project-lead duties but stays counted from earlier run. Applied AI Engineer needs 1-3 yrs, HPC AI 5 yrs, rest Senior/Lead, left out.",
- "confidence": "medium"
+ "evidence": "Both Research Engineer pages (ML, CSTAR) re-opened 2026-10-26 with Apply button and full description; masters or BS plus 1-2 yrs, kept as earlier run counted them. Full list of 1536 jobs paged earlier via CWS API; no new-grad program.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-26",
+ "jobs_spec_basis": "site uses m-cloud CWS API (org 1637); full list of 1536 jobs paged, no board spec supported"
 }

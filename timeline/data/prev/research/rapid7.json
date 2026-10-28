@@ -1,7 +1,6 @@
 {
   "company": "Rapid7",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
@@ -11,6 +10,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://mymoose.wd1.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:mymoose/wd1/Careers",
-  "evidence": "Rechecked 2026-10-19, same result. Workday API 2026-10-19, 41 postings (full): software roles are SWE II / Senior DevOps in Pune; Associate Sales Engineer is UK; US roles are sales engineering. No entry SWE in US/Toronto/Vancouver.",
-  "confidence": "high"
+  "evidence": "Workday board (42, full) read 2026-10-26 and careers.rapid7.com job search paged (41 jobs, same requisitions): software roles are SWE II / Senior DevOps in Pune; Associate Sales Engineer is UK; US roles are product, customer and sales. No entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "jobs_spec_basis": "careers.rapid7.com job listings use the same R-numbered requisitions as wd:mymoose/wd1/Careers; board confirmed"
 }

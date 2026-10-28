@@ -1,7 +1,6 @@
 {
   "company": "TransMarket Group",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,30 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "title 'Junior'; works with Sr. developers; bachelor's degree, no years stated",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Junior Data Engineer",
-      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007",
-      "location": "Chicago, IL",
-      "opened": "2026-06-02",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "title 'Junior'; BA/BS/MS in CS, no years stated",
+      "level_basis": "Junior title; assists Sr. Software Developers; requires bachelor's, no years",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: Junior Software Engineer first seen 2026-04-19 (outside Jul 2025-Jan 2026 window); Python Developer / Data Engineer 2025-06-07. Rolling junior postings.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_opened": "2025-06-07",
+  "last_cycle_basis": "tracker first seen: Python Developer / Data Engineer, Chicago IL, https://job-boards.greenhouse.io/transmarketgroup/jobs/4749914007 (a June posting, before the Jul 2025 window)",
   "jobs_page": "https://job-boards.greenhouse.io/transmarketgroup",
   "jobs_spec": "gh:transmarketgroup",
-  "evidence": "Greenhouse full board (18) 2026-10-19: Junior SWE and Junior Data Engineer live, rolling, no class year, deadline or sponsorship text. Posted before Jul 1 but evergreen junior roles. Junior Data Center/Desktop Engineer is IT (3-5 yrs), not counted.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (17) read 2026-10-26: Junior Software Engineer (Chicago) still live via API, rolling, no class year, deadline or sponsorship text, posted 2026-06-02; evergreen junior role so counted. Junior Data Center/Desktop Engineer is IT infrastructure.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

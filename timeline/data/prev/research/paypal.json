@@ -1,7 +1,4 @@
 {
- "company": "PayPal",
- "tier": 4,
- "status": "open",
  "postings": [
   {
    "title": "Software Engineer - Android",
@@ -11,20 +8,36 @@
    "date_source": "eightfold postedTs",
    "deadline": null,
    "grad_window": null,
-   "live_verified": "browser",
+   "live_verified": "api",
    "level": "unlabeled",
    "level_basis": "Minimum Qualifications: 1+ years relevant experience and a Bachelor's degree; 'receiving structure and oversight from more experienced staff'",
    "no_sponsorship": true
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://paypal.eightfold.ai/careers/job/274922972416",
+   "location": "San Jose, CA",
+   "opened": "2026-10-25",
+   "date_source": "eightfold postedTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Minimum Qualifications: 1+ years relevant experience and a Bachelor's degree; 'receiving structure and oversight from more experienced staff'; $116,500-$173,250",
+   "no_sponsorship": false
   }
  ],
+ "dropped": [],
  "last_cycle_opened": "2025-08-16",
  "last_cycle_basis": "tracker history: 'New Grad: Software Engineer' first seen 2025-08-16 (San Jose/Chicago/Omaha/Scottsdale, via paypal.eightfold.ai)",
  "excluded_reason": null,
  "no_sponsorship": true,
+ "checked": "2026-10-26",
+ "company": "PayPal",
+ "tier": 4,
+ "status": "open",
  "jobs_page": "https://paypal.eightfold.ai/careers",
  "jobs_spec": "eightfold:paypal.eightfold.ai/paypal.com",
- "evidence": "Eightfold US board (197, full) 2026-10-19: only Software Engineer - Android is entry-level; opened it in browser, Apply Now live (1+ yrs, Level-1 duties, no sponsorship). Cloud Infra SWE and Recent Graduate SWE reqs from last run are gone. Rest are Senior/Staff.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "dropped": []
+ "evidence": "Eightfold board (197, full US) read 2026-10-26: two entry-level SWE: Android (Venmo, San Jose/Austin, no visa sponsorship) and new Software Engineer San Jose; both 1+ yrs, oversight duties, live via API. Recent Graduate SWE not on board. Rest Sr/Staff.",
+ "confidence": "medium"
 }

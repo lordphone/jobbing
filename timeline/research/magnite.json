@@ -1,7 +1,7 @@
 {
   "company": "Magnite",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "not_yet",
   "postings": [],
   "dropped": [],
@@ -11,6 +11,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers",
   "jobs_spec": null,
-  "evidence": "Workday CXS osv_rubicon/MagniteCareers read in full 2026-10-20 (34). Boston Engineer II (2+ yrs, $130-145K) and Broomfield Engineer II (3+ yrs) carry a II level, left out; no Engineer 1 live; Belfast placements are UK. Entry Engineer 1 existed last cycle (NYC 2025-11-03).",
-  "confidence": "medium"
+  "evidence": "Workday CXS osv_rubicon/MagniteCareers read in full (27) 2026-10-27 via direct API (jobs.py spec fails on host): US engineering roles are Engineer II (3+ yrs and 2+ yrs) or Senior, level II left out; Belfast student placements UK only; no Engineer I or new-grad program.",
+  "confidence": "medium",
+  "jobs_spec_basis": "saved board kept: no API board; careers page lists this company's own jobs"
 }

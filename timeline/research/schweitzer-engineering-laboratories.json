@@ -1,16 +1,35 @@
 {
  "company": "Schweitzer Engineering Laboratories",
  "tier": 5,
- "status": "not_yet",
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "ERP Software Engineer",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-23435",
+   "location": "Pullman, WA",
+   "opened": "2026-10-27",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Required: BA/BS in MIS, CS or related and '2+ years' experience with application development'; $82,000 - $122,900; no senior duties (ERP admin and integrations); URL slug 'Associate-Software-Engineer'",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Web-Applications---Full-Stack_2026-23734",
+   "reason": "gone: not on the full Workday board (340) and the posting API returns 403 on repeated tries (live reqs return 200)"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history for SEL",
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "jobs_page": "https://selinc.wd1.myworkdayjobs.com/SEL",
  "jobs_spec": "wd:selinc/wd1/SEL",
- "evidence": "Workday full board 2026-10-20 (308). No Associate Software Engineer live. Boise Full Stack lists typically 2+ yrs but duties include mentoring Associate Engineers; Boise SWE needs 6+, Front-End 3+. Engineering Rotation Program (Pullman, BS EE/CompE/CS) is power-systems rotation, not software.",
- "confidence": "medium",
- "last_cycle_opened": "2026-04-06",
- "last_cycle_basis": "jobs.py history: rolling 'Associate Software Engineer' (Moscow ID/Pullman WA) first seen 2026-04-06, repeats 2026-05-15 and 2026-07-06; outside Jul-Jan window",
- "checked": "2026-10-20",
- "postings": [],
- "dropped": [],
- "no_sponsorship": false,
- "excluded_reason": null
+ "evidence": "Workday full board (340) read 2026-10-27: new ERP Software Engineer (Pullman WA, posted 2026-10-27) needs 2+ yrs, no senior duties, counted unlabeled borderline. Charlotte Full Stack SWE no longer listed (403). Boise Software Engineer needs 6+ yrs; others firmware, Lead, interns, hardware/power engineering.",
+ "confidence": "low"
 }

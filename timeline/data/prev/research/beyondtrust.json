@@ -1,16 +1,30 @@
 {
- "company": "BeyondTrust",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "no_program_found",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "tracker history: only 2024 SDE; none Jul 2025-Jan 2026",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/beyondtrust",
- "jobs_spec": "gh:beyondtrust",
- "evidence": "Greenhouse full board (45) 2026-10-19: US-remote SDE 8119260 requires technical leadership in system design and architecture; other engineers are SRE, cloud, cyber, support. No entry SWE.",
- "confidence": "high"
+  "checked": "2026-10-26",
+  "postings": [
+    {
+      "title": "Associate Data Engineer",
+      "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
+      "location": "Remote (US)",
+      "opened": "2026-10-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Associate title; no years of experience required; duties 'collaborate with experienced engineers' and 'work with senior engineers'; Python, Spark, data pipelines",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad tracker history found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "company": "BeyondTrust",
+  "tier": 5,
+  "status": "open",
+  "jobs_page": "https://job-boards.greenhouse.io/beyondtrust",
+  "jobs_spec": "gh:beyondtrust",
+  "evidence": "gh:beyondtrust full board (42) re-read 2026-10-26: Associate Data Engineer (US remote, first published 2026-10-23, no years required, works with senior engineers) live and counts as entry-level. Other US roles: SDE asks technical leadership, SRE and Cloud Network need 3-5 yrs, rest senior or support.",
+  "confidence": "medium"
 }

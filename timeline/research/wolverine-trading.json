@@ -41,16 +41,30 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
+    },
+    {
+      "title": "C++ Software Engineer - WEX",
+      "url": "https://careers.wolve.com/en/postings/c14659a9-52a3-4f09-8ebb-763899dee310",
+      "location": "Chicago, IL",
+      "opened": "on or before 2026-10-21",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years of professional software development experience; no lead or senior duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-09-25",
   "last_cycle_basis": "tracker first seen: C++ Software Engineer (Chicago) 2025-09-25; Entry Level C# 2025-10-26",
-  "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://careers.wolve.com/",
   "jobs_spec": "pinpoint:wolve",
-  "evidence": "Pinpoint public JSON 2026-10-20 (19, full): Entry Level C++ SWE, Spring 2027 Grads and C++ SWE (Early Career) live, no deadline, no visa sponsorship. Dec 2026 Graduates posting is a 2026 window, left out. Opened dates are tracker first-seen.",
+  "evidence": "Pinpoint public JSON (20, full) read 2026-10-27 and posting pages: Entry Level C++ SWE, Spring 2027 Grads and Early Career live, no deadline, no visa sponsorship. Dec 2026 Graduates is a 2026 window, left out. WEX C++ SWE kept unlabeled (2+ yrs). Plain C++ SWE (2+ yrs professional C++, hardware-adjacent) left out.",
   "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": []
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "jobs_spec_basis": "saved board kept: pinpoint:wolve lists this company's own jobs"
 }

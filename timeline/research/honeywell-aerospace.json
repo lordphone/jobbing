@@ -1,7 +1,6 @@
 {
   "company": "Honeywell Aerospace",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -11,33 +10,26 @@
       "opened": "2026-08-31",
       "date_source": "oracle posted",
       "deadline": null,
-      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
+      "grad_window": "Aug 2026 - May 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "Information Systems, Cyber Engineer & Data Science Full Time Employee - Recent Grad 2027",
-      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120511",
-      "location": "United States (no city listed)",
-      "opened": "2026-08-31",
-      "date_source": "oracle posted",
-      "deadline": null,
-      "grad_window": "Graduated or graduating Aug 2026 – May 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Recent Grad 2027 program",
       "no_sponsorship": true
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120511",
+      "reason": "ruled out: requires degree 'in Data Science, Information Systems, IT or similar field', not software engineering"
+    }
+  ],
   "last_cycle_opened": "2025-09-26",
-  "last_cycle_basis": "tracker first seen: Software Engineer I, Clearwater FL / Fort Mill SC (jobs.py history)",
-  "excluded_reason": null,
-  "no_sponsorship": true,
+  "last_cycle_basis": "tracker first seen: Software Engineer I, Clearwater FL / Fort Mill SC",
   "jobs_page": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/jobs",
   "jobs_spec": "oracle:icfcjb.fa.ocs.oraclecloud.com/Aerospace",
-  "evidence": "Oracle detail 2026-10-20: Recent Grad 2027 reqs 120524 (SWE) and 120511 (IS/Cyber/Data Science) live, no end date, no sponsorship, no citizenship text, multiple US sites. Software Engineer I Clearwater 125642 requires US citizen. Advanced SWE roles need more years.",
-  "confidence": "high"
+  "no_sponsorship": true,
+  "evidence": "Oracle board (749, full) lacks req 120524, but jobs.py detail loads it with full description, no end date; kept. Posting says unable to consider applicants needing sponsorship. SWE I Clearwater 99125642 requires US citizen (excluded role). Advanced SWEs need more years.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null
 }

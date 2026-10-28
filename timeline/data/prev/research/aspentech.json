@@ -1,30 +1,30 @@
 {
-  "company": "AspenTech",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Developer (Software Developer I, Asset Performance Management)",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395",
-      "location": "Bedford, MA",
-      "opened": "2026-09-16",
-      "date_source": "tracker first seen (Workday startDate 2026-09-17)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Software Developer I; 0-2 years of software development experience, early-career",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-11-03",
-  "last_cycle_basis": "2025-11-03 tracker: Associate Software Developer, Wayzata MN, first seen 2025-11-03",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://aspentech.wd5.myworkdayjobs.com/aspentech",
-  "jobs_spec": "wd:aspentech/wd5/aspentech",
-  "evidence": "Workday full board (185) and CXS 2026-10-19: Software Developer (Bedford MA) live, canApply true, start 2026-09-17, no end date, 0-2 yrs, early-career. Medina Software Engineer (2+ yrs) left out. Early Careers EE roles are not SWE.",
-  "confidence": "high"
+ "company": "AspenTech",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Developer I (Asset Performance Management)",
+   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395",
+   "location": "Bedford, MA",
+   "opened": "2026-09-16",
+   "date_source": "tracker first seen (Workday startDate 2026-09-17)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "role is 'Software Developer I'; qualifications 'Bachelor's degree... 0-2 years of software development experience, including internships'; early-career role",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-11-03",
+ "last_cycle_basis": "tracker history: Associate Software Developer first seen 2025-11-03 (Wayzata, MN)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://aspentech.wd5.myworkdayjobs.com/aspentech",
+ "jobs_spec": "wd:aspentech/wd5/aspentech",
+ "evidence": "Workday full board (187) 2026-10-26 plus detail: Software Developer I (Bedford MA, R9395) still live, 0-2 yrs, early-career wording, no end date. Other software I roles are outside the US; Medina roles are power systems or support.",
+ "confidence": "high",
+ "checked": "2026-10-26"
 }

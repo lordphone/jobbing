@@ -1,16 +1,16 @@
 {
   "company": "Broad Institute",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker: New Grad Computational Research (Early Career Researchers) first seen 2024-09-03; research role, not SWE",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://broadinstitute.avature.net/careers/SearchJobs",
   "jobs_spec": null,
-  "evidence": "Avature read in full (30 results) 2026-10-20: only software role is Principal Software Engineer (GATK). Early Career Researchers Computational Associate I, Computational Scientist I/II are research data analysis, not software engineering, so not counted.",
+  "evidence": "Avature list paged in full (36 results) in browser 2026-10-27: only software role is Principal Software Engineer (GATK); Principal Engineer (Sabeti Lab) is senior. Early Career Researchers - Computational Associate I and Computational Associate/Scientist roles are computational biology research, not SWE. No entry-level SWE.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Sigma Computing",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -11,20 +11,20 @@
       "opened": "2026-04-06",
       "date_source": "greenhouse first_published",
       "deadline": null,
-      "grad_window": "Recent graduate within the last 12 months (BS/MS)",
+      "grad_window": "recent graduate within the last 12 months",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "New Grad (Temp-to-Hire) Program; recent graduates",
       "no_sponsorship": true
     }
   ],
   "dropped": [],
   "last_cycle_opened": "2025-07-04",
-  "last_cycle_basis": "tracker history: new-grad SWE posting Jul 2025 (job 6640194003), reposted since",
+  "last_cycle_basis": "tracker first seen: Software Engineer - New Grad Program, SF/NYC, https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/sigmacomputing",
   "jobs_spec": "gh:sigmacomputing",
-  "evidence": "gh:sigmacomputing 2026-10-19 (75, full): rolling New Grad Program SWE posting, published 2026-04-06, still live on API. Recent grads within 12 months, temp-to-hire, visa sponsorship not available. Other SWE roles senior.",
+  "evidence": "gh:sigmacomputing full (78) 2026-10-26: rolling New Grad Program SWE (first published 2026-04-06) still live on API, temp-to-hire, visa sponsorship not available. Compiler needs 5+ yrs, Data Engineer 3+; rest solutions/support. Same as prior run.",
   "confidence": "high"
 }

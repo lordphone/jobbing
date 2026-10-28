@@ -1,17 +1,17 @@
 {
   "company": "Wisk",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows 'Software Engineer - Autonomy Integration' (Remote US) first seen 2026-06-11, now gone; level unclear.",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers",
   "jobs_spec": "wd:wisk/wd108/Wisk_Careers",
-  "evidence": "Workday wisk wd108 Wisk_Careers board lists 0 postings 2026-10-20; careers page Open roles links go to this board. Nothing to check.",
-  "confidence": "medium",
-  "jobs_spec_basis": "wisk.aero/careers Apply link goes to wisk.wd108 Workday; board and browser page both show 0 jobs ('no job openings at this time')",
-  "dropped": []
+  "jobs_spec_basis": "wisk.aero/careers 'Open roles' buttons link to wisk.wd108.myworkdayjobs.com/Wisk_Careers; board confirmed, lists 0 jobs",
+  "evidence": "Workday board lists 0 postings (CXS API total 0, re-queried 2026-10-27); careers page Open roles links to it and has an Internships section only. No software or new-grad postings; no tracker history.",
+  "confidence": "medium"
 }

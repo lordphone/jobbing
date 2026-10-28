@@ -1,16 +1,30 @@
 {
-  "company": "Vertiv",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no software new-grad posting in tracker history (only application/firmware/data/AE roles)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
-  "jobs_spec": "oracle:egup.fa.us2.oraclecloud.com/CX",
-  "evidence": "Oracle board re-read 2026-10-20 (full): entry roles are electrical, mechanical, field. Software Engineer - Automation (Austin, 20274352) says no sponsorship and has architecture duties, left out. Thermal System Controls Developer is PLC controls. Data/IT roles ask 5+ yrs.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Vertiv",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Industrial ML Software Engineer",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283127",
+   "location": "Westerville, OH",
+   "opened": "2026-10-22",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "BS or MS in CS/ECE; requires '2+ Years experience in similar position'; duties are 'Support' simulation and develop/train ML models, no lead or architecture ownership",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no software new-grad posting in tracker history (only application/firmware/data/AE roles)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
+ "jobs_spec": "oracle:egup.fa.us2.oraclecloud.com/CX",
+ "evidence": "Oracle board read in full (2318) 2026-10-27. Industrial ML Software Engineer 20283127 still listed, 2+ yrs, counted unlabeled; no sponsorship. Left out CPQ developer (3+ yrs), Data Engineers (5+ yrs), Automation SWE (architecture), controls/embedded firmware, hardware and customer engineer I roles.",
+ "confidence": "medium"
 }

@@ -2,29 +2,15 @@
   "company": "Ibotta",
   "tier": 4,
   "status": "closed",
-  "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d",
-      "location": "Denver, CO",
-      "opened": "2026-07-07",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
+  "postings": [],
   "last_cycle_opened": "2026-02-13",
-  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver (Workday era; after the 2025-07/2026-01 window), https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first-seen: Associate Software Engineer, Denver (after the 2025-07/2026-01 window)",
   "jobs_page": "https://jobs.ashbyhq.com/ibotta",
   "jobs_spec": "ashby:ibotta",
-  "evidence": "Ashby API 2026-10-19 (50, full): only SWE/Data Eng interns, Director/Manager, Senior Analytics Engineer. Associate Software Engineer (opened 2026-07-07) is gone: not on the board and the browser page shows 'Job not found'. Closed.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Ashby board (50, full) read 2026-10-26: only SWE/Data Eng interns, a Manager, a Senior analytics role, and Data Engineer needing 3+ yrs. Associate Software Engineer (Denver, tracker first seen 2026-07-07) is not on the board, so closed; posting URL not available to open.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

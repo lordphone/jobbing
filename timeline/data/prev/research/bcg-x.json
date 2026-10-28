@@ -1,21 +1,17 @@
 {
   "company": "BCG X",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
   "postings": [],
-  "dropped": [
-    {
-      "url": "https://careers.bcg.com/global/en/job/59067",
-      "reason": "gone: HTTP 410 Gone and not in the careers search results"
-    }
-  ],
   "last_cycle_opened": "2025-11-24",
   "last_cycle_basis": "tracker: BCG X 'AI Engineer' (general, Boston/Seattle/SF etc.) first seen 2025-11-24, https://careers.bcg.com/global/en/job/55995",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.bcg.com/global/en/search-results",
   "jobs_spec": null,
-  "evidence": "Phenom API 2026-10-19 (762 of 912 postings read): campus Forward Deployed AI Engineer 59067 (posted 2026-08-19) returns 410 and is not listed. FDE 59461 (Sep 22) is multi-level, no class year, and its page now says 'has been filled'. Campus FDE 59702/59703 are internships.",
-  "confidence": "medium"
+  "evidence": "Phenom widgets API searched 2026-10-26 (engineer, forward deployed, campus, data, AI). Campus Forward Deployed AI Engineer 59067 (posted 2026-08-19) is gone, page returns HTTP 410. FDE 59461 (Sep 22, Boston) is multi-level I to Senior ($120K level I), no years or class year, not counted. US campus FDE roles are internships.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_spec_basis": "no API board; Phenom careers site searched via its widgets API"
 }

@@ -1,43 +1,56 @@
 {
-  "company": "NTT DATA",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Junior Developer",
-      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
-      "location": "Arlington, VA (remote)",
-      "opened": "2026-08-31",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "Junior Developer",
-      "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425007800/",
-      "location": "Arlington, VA (remote)",
-      "opened": "2026-09-29",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-10-02",
-  "last_cycle_basis": "tracker first seen 2025-10-02: Digital Technology Engineer / Senior Analyst Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
-  "jobs_spec": null,
-  "evidence": "careers-inc.nttdata.com US list (353 jobs) read 2026-10-19: only Junior Developer (Arlington VA remote, two reqs, Apply shown) is entry SWE; asks 3 yrs Python and ability to obtain Public Trust, borderline. Entry Level Business Analyst not SWE. No 2027 program posting seen.",
-  "confidence": "medium"
+ "company": "NTT DATA",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Junior Developer",
+   "url": "https://careers-inc.nttdata.com/job/Arlington-%28REMOTE%29-Junior-Developer-VA-22201/1425010700/",
+   "location": "Arlington, VA (remote)",
+   "opened": "2026-08-31",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": "Junior Developer title (posting asks 3 yrs Python; years not counted against a Junior title)",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - Enterprise Engineering (Member of Technical Staff - Enterprise Engineering I) [NTT DATA AIVista]",
+   "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991",
+   "location": "Palo Alto, CA",
+   "opened": "2026-10-13",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "This is an entry-level role. We hire for strong fundamentals and teach the rest; $150,000-$200,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Jr. .Net Engineer (On-Site San Diego)",
+   "url": "https://careers-inc.nttdata.com/job/San-Diego-Jr_-_Net-Engineer-%28On-Site-San-Diego%29-CA-92101/1443020200/",
+   "location": "San Diego, CA",
+   "opened": "2026-10-23",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": "Jr. title (posting asks 3+ yrs .NET, years not enforced for Jr. title)",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-02",
+ "last_cycle_basis": "tracker first seen 2025-10-02: Digital Technology Engineer / Senior Analyst Pathways Campus Hires (Charlotte NC); reposted 2025-10-30",
+ "jobs_page": "https://careers-inc.nttdata.com/search/?locationsearch=United+States",
+ "jobs_spec": null,
+ "evidence": "careers-inc searches (graduate, junior) and posting pages with Apply buttons 2026-10-26: Junior Developer (Arlington VA remote) and Jr. .Net Engineer (San Diego) ask 3+ yrs but carry Jr. titles. AIVista Ashby (6, full): Enterprise Engineering I is explicit entry-level SWE; AI Engineer MTS needs 3+ yrs. Other developer roles senior.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

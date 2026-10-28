@@ -1,7 +1,7 @@
 {
   "company": "Auto-Owners Insurance",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -96,13 +96,13 @@
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-11-01",
   "last_cycle_basis": "tracker first seen for 'Software Developer' (East Lansing, MI); Math Major Software Developer also 2025-12-17",
   "excluded_reason": null,
   "no_sponsorship": true,
   "jobs_page": "https://aoins.wd5.myworkdayjobs.com/AutoOwners",
   "jobs_spec": "wd:aoins/wd5/AutoOwners",
-  "evidence": "Workday board 2026-10-20 (270, full) plus posting API: seven developer roles live in Lansing MI, none ask years, all require no sponsorship. BI Developer (math/actuarial) and web developer with AWS not counted.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday board (266, full) 2026-10-27 plus posting descriptions via Workday API: seven entry-level developer roles live in Lansing MI, none ask years, all state no sponsorship. BI Developer (reporting), systems, security, instructional roles not counted.",
+  "confidence": "high"
 }

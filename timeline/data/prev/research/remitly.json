@@ -1,30 +1,43 @@
 {
   "company": "Remitly",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "no_sponsorship": false,
-      "level_basis": "posting says 'AI Native Software Engineer I'; no years required; $124,000-$155,000",
       "title": "AI Native Software Engineer",
       "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
       "location": "Seattle, WA",
       "opened": "2026-09-24",
       "date_source": "tracker first seen (Workday startDate 2026-09-25)",
-      "level": "unlabeled"
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "posting says 'As a AI Native Software Engineer I'; no years required; $124,000-$155,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Fullstack Software Development Engineer I, Card",
+      "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624",
+      "location": "Arlington, VA",
+      "opened": "2026-10-22",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Engineer I'; requires 1+ years; $124,000-$155,000",
+      "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-04-24",
-  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24, 2026-07-28); none inside 2025-07..2026-01 window",
+  "last_cycle_basis": "tracker history: SDE 1 postings year-round (2024-10-25, 2025-01/03/05, 2026-04-24, 2026-07-28); none inside the 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "jobs_spec": "wd:remitly/wd5/Remitly_Careers",
-  "evidence": "wd:remitly full board (156) 2026-10-19: AI Native Software Engineer I (Seattle, $124-155K, no years) live. Also Seattle SDE posted today needs Master's+2 yrs at $144-180K, level unclear, not counted. Same as earlier run.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday full board (173) 2026-10-26: AI Native SWE (Seattle, R_106966, no years) and Fullstack SDE I, Card (Arlington, 1+ yrs) live via API. SDE Seattle needs 2 yrs plus mentoring; Burnaby roles need 3+; Security Engineer not SWE.",
+  "confidence": "high"
 }

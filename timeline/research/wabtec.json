@@ -1,43 +1,43 @@
 {
-  "company": "Wabtec (Westinghouse Air Brake Technologies)",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineer- Rotational Program (general engineering; software degrees accepted)",
-      "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166",
-      "location": "Cedar Rapids, IA",
-      "opened": "2026-08-24",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "LEAD Program - Engineering",
-      "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016144076",
-      "location": "Erie, PA",
-      "opened": "2026-10-15",
-      "date_source": "smartrecruiters releasedDate",
-      "deadline": null,
-      "grad_window": "Graduating by Dec 2026/Jan 2027 or May/Jun 2027",
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Rotational program for graduating students: 'Graduating by December 2026/January 2027 or May/June 2027'; pay $73,000-76,000; CS/SWE degrees accepted, rotations include embedded software",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No prior-cycle history found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.smartrecruiters.com/Wabtec",
-  "jobs_spec": "sr:Wabtec",
-  "evidence": "SmartRecruiters API full board (762) 2026-10-20: Engineer Rotational Program (Cedar Rapids IA, PTC, no sponsorship) and LEAD Engineering Program (Erie PA, grads Dec 2026-Jun 2027) live. Both general engineering rotations. Other US software roles need 5+ yrs.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Wabtec (Westinghouse Air Brake Technologies)",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineer- Rotational Program (general engineering; software degrees accepted)",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166",
+   "location": "Cedar Rapids, IA",
+   "opened": "2026-08-24",
+   "date_source": "smartrecruiters releasedDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title 'Engineer- Rotational Program'; 'seeking a new college engineering graduate'; 2-year, four-rotation general engineering program on PTC products",
+   "no_sponsorship": true
+  },
+  {
+   "title": "LEAD Program - Engineering",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016144076",
+   "location": "Erie, PA",
+   "opened": "2026-10-15",
+   "date_source": "smartrecruiters releasedDate",
+   "deadline": null,
+   "grad_window": "Graduating by Dec 2026/Jan 2027 or May/Jun 2027",
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Rotational program for graduating students: 'Graduating by December 2026/January 2027 or May/June 2027'; CS/SWE degrees accepted, rotations include embedded software",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "No prior-cycle history found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.smartrecruiters.com/Wabtec",
+ "jobs_spec": "sr:Wabtec",
+ "evidence": "sr:Wabtec full board (786) read 2026-10-27: Engineer Rotational Program (Cedar Rapids, PTC products) and LEAD Program - Engineering (Erie, grads Dec 2026-Jun 2027) live via API, no sponsorship. Other US software roles need 5+ yrs; Maxton Manufacturing IT role left out.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

@@ -1,39 +1,30 @@
 {
-  "company": "Mastercard",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "AI Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
-      "location": "O'Fallon, MO",
-      "opened": "2026-10-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": "graduating April 2027 - June 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Launch Program 2027; anticipated graduation April-June 2027",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
-      "reason": "gone: not on the CorporateCareers Workday board (full) and the job API returns permission denied (403) on 2026-10-20"
-    },
-    {
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
-      "reason": "gone: not on the CorporateCareers Workday board (full) and the job API returns permission denied (403) on 2026-10-20"
-    }
-  ],
-  "last_cycle_opened": "2025-11-12",
-  "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, Campus Workday site) first seen 2025-11-12",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://mastercard.wd1.myworkdayjobs.com/Campus",
-  "jobs_spec": "wd:mastercard/wd1/Campus",
-  "evidence": "Workday Campus (46, full) 2026-10-20: AI Engineer I Launch 2027 (O'Fallon, started 2026-10-16, grads Apr-Jun 2027) live via API. No sponsorship, F1/OPT ineligible. Two older Software Engineer I reqs gone from CorporateCareers.",
-  "confidence": "medium"
+ "company": "Mastercard",
+ "tier": 4,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
+   "reason": "gone: not on the Workday board (full read 2026-10-27); earlier run saw 'page doesn't exist' in browser"
+  },
+  {
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+   "reason": "gone: not on the Workday board (full read 2026-10-27); earlier run saw 'page doesn't exist' in browser"
+  },
+  {
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
+   "reason": "gone: not on the Workday board (full read 2026-10-27); earlier run saw 'page doesn't exist' in browser"
+  }
+ ],
+ "last_cycle_opened": "2025-11-12",
+ "last_cycle_basis": "tracker history: 'Software Engineer I, Launch Program' (O'Fallon, MO, Campus Workday site) first seen 2025-11-12",
+ "jobs_page": "https://mastercard.wd1.myworkdayjobs.com/Campus",
+ "jobs_spec": "wd:mastercard/wd1/Campus",
+ "jobs_spec_basis": "Campus board confirmed via careers page; Workday API lists it",
+ "evidence": "Campus (38, full) and CorporateCareers (160, full) Workday boards read 2026-10-27: Campus has only non-US grad/intern programs and a Platform Engineering Intern; no US entry SWE. Prior Software Engineer I and AI Engineer I postings are off the boards. Closed.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

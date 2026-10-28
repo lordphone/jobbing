@@ -1,20 +1,33 @@
 {
   "company": "Rivian",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
       "title": "Software Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/34249",
-      "location": "Palo Alto, CA",
+      "location": "Palo Alto, CA; Vancouver, Canada",
       "opened": "2026-10-19",
       "date_source": "rivian careers API posted_date",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '1+ Years of experience in software development'; $97,700-$129,420 (low band); no lead/mentor duties",
+      "level_basis": "requires '1+ Years of experience in software development'; no lead/mentor duties in qualifications",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Edge AI",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0",
+      "location": "Palo Alto, CA",
+      "opened": "2026-10-20",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'2-4 years of software engineering experience, or a BS or MS in Computer Science... with equivalent demonstrated building experience' (hackathons, projects, internship count)",
       "no_sponsorship": false
     }
   ],
@@ -24,8 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.rivian.com/careers-home/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "main board has no jobs.py spec; careers.rivian.com/api/jobs read in full (946); Rivian-VW JV roles on ashby:rivianvw.tech (144)",
-  "evidence": "Rivian careers API 2026-10-19 (950) and JV Ashby (142) read. New 'Software Engineer' (EV charging, Palo Alto, req 34249) posted today, page opens, 1+ yrs, low pay band, counted unlabeled. Earlier Enterprise Software req 30795 gone. SWE II, JV roles (3+ yrs), Cloud Ops, AppSec (2+ yrs security) not counted; others Staff/Senior or interns.",
+  "evidence": "Rivian careers API (945 jobs, full) and Rivian-VW Tech JV Ashby (157, full) 2026-10-26: Software Engineer 34249 (1+ yrs) and JV Edge AI (BS/MS accepted) counted. Left out: SWE II (II level, 2+ yrs), Early Career Cloud/AppSec (May, 2+ yrs), ES&D Low Voltage, Systems Architecture SWE, other roles 2-8+ yrs.",
   "confidence": "medium",
   "dropped": []
 }

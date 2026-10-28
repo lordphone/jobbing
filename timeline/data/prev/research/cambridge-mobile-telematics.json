@@ -1,16 +1,16 @@
 {
   "company": "Cambridge Mobile Telematics",
   "tier": 4,
+  "checked": "2026-10-26",
   "status": "not_yet",
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I' postings first seen 2024-10-09 to 2025-02-03 (cycle before last); nothing labeled entry-level 2025-07 to 2026-01 (2025-12-19 'Software Engineer - Backend' level unclear).",
-  "jobs_page": "https://job-boards.greenhouse.io/cambridgemobiletelematics",
-  "jobs_spec": "gh:cambridgemobiletelematics",
-  "evidence": "Greenhouse full board (23) 2026-10-18: US engineering all Principal/Senior; only unlabeled engineers are IT Security (2+ yrs security, Cambridge) or Budapest. No SWE I or new-grad posting now. Re-checked; matches prior file.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
   "postings": [],
+  "dropped": [],
+  "last_cycle_opened": "2025-12-19",
+  "last_cycle_basis": "tracker history: 'Software Engineer - Backend' (Cambridge, MA) first seen 2025-12-19; earlier 'Software Engineer I' roles Oct 2024 to Feb 2025",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://job-boards.greenhouse.io/cambridgemobiletelematics",
+  "jobs_spec": "gh:cambridgemobiletelematics",
+  "evidence": "Greenhouse board (18, full) read 2026-10-26: US engineering is Principal/Senior; Software Engineer in Test (Embedded Firmware) is a test/firmware role; Budapest and Chennai roles are non-US. Software Engineer I posted in past cycles, none open now.",
+  "confidence": "high"
 }

@@ -1,0 +1,31 @@
+{
+ "company": "Inductive Automation",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer I",
+   "url": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb",
+   "location": "Folsom, CA",
+   "opened": "2026-08-27",
+   "date_source": "tracker first seen",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Requires bachelor's in CS or 1 year of industry experience; works under the guidance of the Senior Development team; $95K-$105K",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-12",
+ "last_cycle_basis": "jobs.py history: Software Engineer 1, Folsom CA, first seen 2025-12-12 (Lever)",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://jobs.ashbyhq.com/inductive-automation-llc",
+ "jobs_spec": "ashby:inductive-automation-llc",
+ "jobs_spec_basis": "inductiveautomation.com/careers job links go to jobs.ashbyhq.com/inductive-automation-llc",
+ "evidence": "Ashby full board (14) 2026-10-26 does not list Software Engineer I (page data isListed=false), but the page fetched with full description (BS or 1 yr, $95-105K) and the application page returns 200 (unlisted, like Commure). Page says no sponsorship. Only other entry role is QA Engineer I (test, not counted).",
+ "confidence": "medium",
+ "checked": "2026-10-26"
+}

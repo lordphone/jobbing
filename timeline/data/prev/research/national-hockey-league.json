@@ -1,16 +1,16 @@
 {
   "company": "National Hockey League (NHL)",
-  "last_cycle_basis": "No new-grad SWE history found.",
-  "jobs_page": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
-  "evidence": "TeamWork NHL league-office filter (org 28289) read in browser 2026-10-19: only tech roles are Director, Software Engineering (NYC) and seasonal Technical Support Coordinator. No entry SWE.",
-  "confidence": "high",
-  "postings": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "checked": "2026-10-19",
   "tier": 5,
   "status": "no_program_found",
-  "last_cycle_opened": null,
+  "last_cycle_basis": "none found",
+  "jobs_page": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
   "jobs_spec": null,
-  "dropped": []
+  "evidence": "2026-10-26 browser read of the TeamWork NHL page (all clubs, several pages): NHL League Office roles are Coordinator Technical Support (seasonal), Martech Manager, Ad Operations Coordinator, Project Manager, Player Relations. No software engineer posting.",
+  "confidence": "medium",
+  "postings": [],
+  "dropped": [],
+  "checked": "2026-10-26",
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

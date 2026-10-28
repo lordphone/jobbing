@@ -1,9 +1,11 @@
 {
   "company": "Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)",
+  "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer (entry to mid, E2/E3)",
+      "title": "Software Engineer",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137750719",
       "location": "Owatonna, MN",
       "opened": "2026-07-14",
@@ -12,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "SmartRecruiters experience level 'Entry Level'; 'Potential to be either an E2 or E3'; BS degree; $82,000 - $110,000",
+      "level_basis": "SmartRecruiters experience level 'Entry Level'; BS with '1-5+ years' full stack; $82,000-$110,000",
       "no_sponsorship": true
     },
     {
@@ -25,19 +27,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "SmartRecruiters experience level 'Associate'; requires a bachelor's degree, no years of experience required; $82,000 - $112,000",
+      "level_basis": "SmartRecruiters experience level 'Associate'; bachelor's required, no years asked; $82,000-$112,000",
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No US new-grad SWE posting found Jul 2025-Jan 2026; tracker history shows only UK/Europe graduate placements. RDP SWE Power Solutions (Farmington Hills) opened 2026-06-09/26, now expired.",
+  "last_cycle_basis": "No US new-grad SWE posting found Jul 2025-Jan 2026; tracker history shows only UK/Europe graduate placements. RDP SWE Power Solutions (Farmington Hills) opened 2026-06-09, now expired.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.smartrecruiters.com/BoschGroup",
   "jobs_spec": "sr:BoschGroup",
-  "evidence": "SmartRecruiters API 2026-10-20 (US search for software, ML, graduate, entry terms): both Owatonna SWE postings still listed and live; both state 'Future sponsorship for work authorization not available'. Other US SWE need 3+ yrs; Motorsport Connectivity Engineer is application engineering, not counted.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "tier": 5,
-  "dropped": []
+  "evidence": "SmartRecruiters full board (5046) read 2026-10-27, US/Canada filtered. Two Owatonna SWE postings live (API labels Entry Level / Associate), both say no future sponsorship. Other US software roles need 3-5+ yrs (Embedded SWE, Agentic SWE) or are research scientist/test.",
+  "confidence": "medium"
 }

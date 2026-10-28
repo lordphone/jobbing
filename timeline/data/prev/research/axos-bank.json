@@ -1,7 +1,7 @@
 {
   "company": "Axos Bank",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Full-time rotational program 'first step in your career in technology'; Junior AI Engineer; bachelor's plus coursework/projects; $30/hr",
+      "level_basis": "Full-time rotational program 'first step in your career in technology'; Junior AI Engineer; bachelor's plus coursework/projects",
       "no_sponsorship": false
     },
     {
@@ -27,7 +27,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Application Developer Rotational Program, 'first step in your career'; requires 1+ years related experience; $30/hr",
+      "level_basis": "Application Developer Rotational Program, 'first step in your career'; requires 1+ years related experience",
       "no_sponsorship": false
     },
     {
@@ -40,17 +40,17 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Developer Rotational Program; 1+ year office/internship experience preferred; $30/hr; opened before 2026-07-01 but rolling and still live",
+      "level_basis": "Developer Rotational Program; 1+ year office/internship experience preferred; rolling and still live",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history: only Junior Business & Technology Analyst (2025-12-10); no dated SWE new-grad posting Jul 2025-Jan 2026",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://axos.wd5.myworkdayjobs.com/Axos",
   "jobs_spec": "wd:axos/wd5/Axos",
-  "evidence": "Workday full board (253) 2026-10-19, API detail live: San Diego JBATA rotational programs (AI Engineer, Application Developer, AI Automation Developer) read as entry-level SWE. Not counted: Intermediate Software Engineer, Software Engineer, JBATA Data Engineer/Developer. Judgment call.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Workday full board (261) read 2026-10-26, descriptions via API: San Diego JBATA rotational programs (AI Engineer, Application Developer, AI Automation Developer) still live, read as entry-level SWE. Not counted: Software Engineer JR5286 and Intermediate SWE (intermediate), JBATA Data Engineer (data track), Manila roles. Judgment call.",
+  "confidence": "medium"
 }

@@ -1,7 +1,7 @@
 {
   "company": "Garmin",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -174,19 +174,6 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer - Avionics",
-      "url": "https://careers.garmin.com/jobs/18326?icims=1",
-      "location": "Olathe, KS",
-      "opened": "2026-06-22",
-      "date_source": "garmin jobs API posted_date",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required: bachelor's plus 1 year relevant experience OR equivalent; no senior duties or level in title",
-      "no_sponsorship": false
-    },
-    {
       "title": "Full Stack Engineer (TypeScript, React, .NET)",
       "url": "https://careers.garmin.com/jobs/19269?icims=1",
       "location": "Cary, NC",
@@ -237,6 +224,71 @@
       "level": "unlabeled",
       "level_basis": "Required: bachelor's plus 1 year relevant experience OR equivalent; no senior duties or level in title",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer 1 (C++ MEC MapTech)",
+      "url": "https://careers.garmin.com/jobs/20439?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-10-21",
+      "date_source": "garmin jobs API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "C/C++ Software Engineer - Core Tech Team",
+      "url": "https://careers.garmin.com/jobs/19266?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-07-30",
+      "date_source": "garmin jobs API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's plus 1 year relevant experience (not including internships or co-ops) OR equivalent education and experience",
+      "no_sponsorship": false
+    },
+    {
+      "title": "iOS Engineer",
+      "url": "https://careers.garmin.com/jobs/18508?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-04-27",
+      "date_source": "garmin jobs API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's plus 1 year relevant experience OR equivalent; no senior duties or level in title",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Fitness Wearables",
+      "url": "https://careers.garmin.com/jobs/20363?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-10-22",
+      "date_source": "garmin jobs API posted_date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's plus 1 year relevant experience OR equivalent; no senior duties or level in title",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Creative Front End Developer",
+      "url": "https://careers.garmin.com/jobs/18938?icims=1",
+      "location": "Olathe, KS",
+      "opened": "2026-08-21",
+      "date_source": "page text (Garmin Jibe API posted_date)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: 'Bachelor's Degree ... AND a minimum of 2 years of relevant web development experience'; 'Receives guidance and feedback from senior developers'",
+      "no_sponsorship": false
     }
   ],
   "dropped": [],
@@ -246,6 +298,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.garmin.com",
   "jobs_spec": null,
-  "evidence": "Garmin Jibe API (careers.garmin.com/api/jobs) 2026-10-19, all 421 jobs read: 12 live Software Engineer 1 / Embedded SWE 1 postings (bachelor's, no years) plus 6 unlabeled SWE roles asking 1 yr, all live. SWE 2, 2+ yr and lead roles not counted. Evergreen rolling, no class year.",
+  "evidence": "Garmin Jibe API re-read 2026-10-26 (429 jobs): all 22 earlier postings still live and no new Software Engineer 1 or entry-level title found. SWE 2, Senior, Lead roles left out (Level 2 and 5+ yrs). Rolling, no class year.",
   "confidence": "high"
 }

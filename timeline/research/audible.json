@@ -1,7 +1,7 @@
 {
   "company": "Audible",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -68,6 +68,32 @@
       "level": "unlabeled",
       "level_basis": "requires 1+ years non-internship experience; duties for moderate-scale problems, no lead or architecture",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, FinTech/Customer Service Tech",
+      "url": "https://www.amazon.jobs/en/jobs/10564323/software-development-engineer-fintech-customer-service-tech",
+      "location": "Newark, NJ",
+      "opened": "2026-09-29",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "basic quals: 1+ years of non-internship professional software development experience; no lead duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer, iOS",
+      "url": "https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios",
+      "location": "Newark, NJ",
+      "opened": "2026-10-14",
+      "date_source": "amazon.jobs posted date",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "basic quals: bachelor's in CS, no years required (1+ yr iOS is preferred only)",
+      "no_sponsorship": false
     }
   ],
   "dropped": [],
@@ -77,6 +103,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://www.amazon.jobs/en/search?base_query=audible",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs search json 2026-10-20: SDE Early Career (Cambridge) plus four unlabeled SDE roles with 0-1+ years basic quals, all still listed. Excluded: FinTech SDE and iOS SDE (own key components, mentoring), Creator Marketplace (3+ years), II/Senior.",
+  "evidence": "amazon.jobs search json (audible, 58 US hits) 2026-10-27: SDE Early Career (Cambridge) plus six unlabeled SDE roles (basic quals 0-1+ yrs, incl. iOS with no years required) all listed. Playback SDE (3+ yrs), II/Senior/Lead left out. Added iOS SDE.",
   "confidence": "high"
 }

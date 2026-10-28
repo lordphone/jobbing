@@ -1,7 +1,6 @@
 {
   "company": "iHeartMedia",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires a Master's degree and 24 months experience; duties are building software for the ad platform, no lead or mentor duties; accepting applications on an ongoing basis",
+      "level_basis": "Requires a Master's degree and 24 months experience; duties are building backend services, no lead or mentor duties; accepting applications on an ongoing basis",
       "no_sponsorship": false
     },
     {
@@ -29,15 +28,29 @@
       "level": "unlabeled",
       "level_basis": "Requires a Master's degree and 24 months experience; duties are designing and deploying services and writing tests, no lead or mentor duties",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer_Req37558-2",
+      "location": "San Antonio, TX",
+      "opened": "2026-01-06",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires a Master's degree and 24 months experience; SpringBoot Java microservices backend, no lead or mentor duties; accepting applications on an ongoing basis",
+      "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2026-01-26",
   "last_cycle_basis": "Tracker: Software Engineer Level 1 (NYC), https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-NY/Software-Engineer-Level-1_Req36805-2",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM",
   "jobs_spec": "wd:iheartmedia/wd5/External_iHM",
-  "evidence": "Workday full board (299) 2026-10-20 plus posting API. Jelli SWE Req38905 (San Antonio) and iHeartMedia Entertainment SWE Req38734 (Dallas) both live (canApply), each ask Master's + 24 months, no lead duties. Req37558 mentors, Req39449 5+, Req39448 3+, Req39441 6+, Req38372 5+ yrs.",
-  "confidence": "medium"
+  "evidence": "Workday full board (303) and postings read 2026-10-27. Req38905, Req38734 and Req37558 (all Master's + 24 months, rolling, no lead duties) live via API; Req37558 added this run. Req39449 5+, Full-Stack 3+, Data Engineer 6+, NY Req38372 5+ yrs, left out.",
+  "confidence": "medium",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

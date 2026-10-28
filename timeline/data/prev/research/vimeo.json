@@ -1,7 +1,6 @@
 {
   "company": "Vimeo (owned by Bending Spoons)",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -12,9 +11,9 @@
       "date_source": "page text: job id creation timestamp (board shows no posted date)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Title Graduate; board flag suitableForStudentsAndNewGraduates true; AI & Engineering track",
+      "level_basis": "Title Graduate; page data suitableForStudentsAndNewGraduates true, status active; AI & Engineering track",
       "no_sponsorship": false
     }
   ],
@@ -24,8 +23,9 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.bendingspoons.com",
   "jobs_spec": null,
-  "jobs_spec_basis": "Vimeo careers page embeds Pinpoint widget (bendingspoons, Vimeo division) with no engineering; parent board holds graduate SWE US role",
-  "evidence": "Vimeo's careers page embeds Bending Spoons' Pinpoint board with no engineering. Parent jobs.bendingspoons.com lists 'Graduate software engineer, US' (Atlanta, Boston, Miami, New York), page loads with Apply, kept from earlier run. It is a Bending Spoons-wide role, not Vimeo-specific.",
-  "confidence": "medium",
-  "dropped": []
+  "jobs_spec_basis": "vimeo.com/careers embeds Pinpoint bendingspoons (division Vimeo, no SWE); group graduate role is on jobs.bendingspoons.com",
+  "evidence": "jobs.bendingspoons.com page data (52 jobs) read 2026-10-26: Graduate software engineer, US (Atlanta, Boston, Miami, New York) still listed, status active, suitableForStudentsAndNewGraduates true. Group-wide Bending Spoons role, not Vimeo-specific; Vimeo board has only sales roles.",
+  "confidence": "low",
+  "dropped": [],
+  "checked": "2026-10-26"
 }

@@ -1,8 +1,6 @@
 {
-  "company": "Palantir",
-  "tier": 2,
-  "checked": "2026-10-20",
-  "status": "open",
+  "checked": "2026-10-27",
+  "dropped": [],
   "postings": [
     {
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -21,8 +19,8 @@
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
       "location": "New York, NY",
-      "opened": "2026-06-29",
-      "date_source": "tracker first seen (same URL as the 2026-cycle posting; Lever createdAt 2025-06-13)",
+      "opened": "2025-06-13",
+      "date_source": "lever createdAt",
       "deadline": null,
       "grad_window": "Dec 2026 or Spring 2027",
       "live_verified": "api",
@@ -61,9 +59,11 @@
   "last_cycle_basis": "Lever createdAt of NYC FDSE New Grad posting (https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728); tracker first seen 2025-07-01",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Palantir",
+  "tier": 2,
+  "status": "open",
   "jobs_page": "https://jobs.lever.co/palantir",
   "jobs_spec": "lever:palantir",
-  "evidence": "Lever API (306, full) 2026-10-20: Chicago and NYC FDSE New Grad Commercial, NYC PCL Engineer New Grad and new NYC SWE New Grad - Query Engines (created 2026-10-19, no clearance or citizenship text, read in full) live. Every other US new-grad SWE/FDIE role quotes 'Active US Security clearance, or eligibility and willingness to obtain' (all 17 rechecked 2026-10-20): excluded. Unlabeled SWEs ask 2-4+ yrs at $135K-$200K; left out. NYC FDSE URL reused from 2025-06.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Lever API (306, full) 2026-10-27 and detail reads: NYC/Chicago FDSE New Grad Commercial (grad Dec 2026/Spring 2027), NYC PCL Engineer New Grad and NYC Query Engines New Grad have no clearance text and are counted. Other US new-grad roles need clearance or eligibility to obtain one, or U.S. Person (Warp Speed), not counted.",
+  "confidence": "high"
 }

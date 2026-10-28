@@ -1,16 +1,14 @@
 {
-  "company": "SAP",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "last_cycle_opened": "2024-09-13",
-  "last_cycle_basis": "Tracker first seen 'New Grad: Software Engineer' Palo Alto (jobs.sap.com); no 2025-26 SWE grad posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
-  "jobs_spec": null,
-  "evidence": "careers.sap.com US Software-Design and Development list (40, browser) 2026-10-20: all senior/principal/expert; Developer Palo Alto needs MS+3 or BS+5 yrs. No 2027 US entry SWE. SAP Academy 2027 version not seen yet.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "SAP",
+ "tier": 4,
+ "status": "not_yet",
+ "last_cycle_opened": "2024-09-13",
+ "last_cycle_basis": "tracker first seen 2024-09-13: New Grad: Software Engineer, Palo Alto (jobs.sap.com); no 2025-26 US SWE grad posting found",
+ "jobs_page": "https://careers.sap.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=Software-Design+and+Development&optionsFacetsDD_country=US",
+ "jobs_spec": null,
+ "evidence": "careers.sap.com US lists (Software Design and Development plus keyword searches) paged 2026-10-27: Developer (Palo Alto, Newtown Square) require BS+5 or MS+3 yrs; STAR program is current students only; iXp are interns; NS2 roles need clearance. No entry full-time SWE open.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "postings": [],
+ "dropped": []
 }

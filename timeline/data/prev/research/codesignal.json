@@ -1,16 +1,17 @@
 {
   "company": "CodeSignal",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history for a new-grad SWE role; nothing else found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker or careers-page evidence found",
   "jobs_page": "https://jobs.gem.com/codesignal/",
   "jobs_spec": null,
-  "evidence": "Rechecked 2026-10-19, same result. Gem board opened in browser: Open positions (0). Small company, no postings to count.",
-  "confidence": "medium"
+  "jobs_spec_basis": "codesignal.com/careers 'See open roles' links to jobs.gem.com/codesignal; Gem API has no jobs.py spec",
+  "evidence": "Gem board API read 2026-10-26 lists 2 postings: Senior Manager FP&A (Canada remote) and Senior Manager Partnerships (US remote). No engineering postings.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

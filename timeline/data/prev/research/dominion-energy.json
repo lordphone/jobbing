@@ -1,17 +1,21 @@
 {
-  "company": "Dominion Energy",
-  "status": "not_yet",
-  "last_cycle_opened": "2026-01-15",
-  "last_cycle_basis": "Tracker: Associate Developer Business Intelligence Analyst (Richmond, VA) first seen 2026-01-15; level SWE-adjacent",
-  "jobs_page": "https://careers.dominionenergy.com",
-  "jobs_spec": null,
-  "jobs_spec_basis": "SuccessFactors site with no API; search pages read by fetch",
-  "evidence": "careers.dominionenergy.com (SuccessFactors) paged all 143 postings 2026-10-19: only interns, grid/transmission/nuclear engineers, technicians and a Data Platform solutions architect. No developer or entry SWE role live.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "tier": 5,
-  "postings": [],
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "Dominion Energy",
+ "tier": 5,
+ "status": "not_yet",
+ "dropped": [
+  {
+   "url": "https://careers.dominionenergy.com/job/RICHMOND-Software-Engineer-VA-23219/1443351300/",
+   "reason": "gone: page shows 'Sorry, this position is no longer posted'; earlier run also found it a technical lead role needing 7+ years"
+  }
+ ],
+ "last_cycle_opened": "2026-01-15",
+ "last_cycle_basis": "Tracker: Associate Developer Business Intelligence Analyst (Richmond, VA) first seen 2026-01-15; level SWE-adjacent",
+ "jobs_page": "https://careers.dominionenergy.com",
+ "jobs_spec": null,
+ "evidence": "careers.dominionenergy.com (SuccessFactors) searches for software, developer, data, IT, cyber, AI, graduate, early career crawled 2026-10-26 (124 distinct jobs): interns, power/nuclear engineers, trades, finance, IT Solutions Architects. No entry developer role live. A BI developer role appeared last January.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "postings": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

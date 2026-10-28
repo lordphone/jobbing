@@ -1,6 +1,7 @@
 {
   "company": "S&P Global",
   "tier": 5,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -17,14 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2024-09-17",
-  "last_cycle_basis": "tracker history: 'New Grad 2025: Software Engineer', Cambridge MA, first seen 2024-09-17 (careers.spglobal.com/jobs/307184); none found in the 2025-07..2026-01 window",
+  "last_cycle_basis": "tracker history: 'New Grad 2025: Software Engineer', Cambridge MA, first seen 2024-09-17; none found in the 2025-07..2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
   "jobs_spec": "wd:spgi/wd5/SPGI_Careers",
-  "evidence": "Workday full board (314) and detail 2026-10-20: Machine Learning Operations Engineer I (Kensho, Cambridge MA / NYC, 1+ yrs) posted 2026-10-15 is the only entry-level US engineering role. Other US engineering roles are Lead/Senior/Director/II. CREDit Graduate Program Analyst is ratings, not SWE. No labeled new-grad SWE track yet.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": []
+  "evidence": "Workday full board (325) and detail 2026-10-27: Machine Learning Operations Engineer I (Kensho, Cambridge MA / NYC, 1+ yrs) startDate 2026-10-15 is the only entry-level US engineering role, live via API. Other engineers are India or senior.",
+  "confidence": "medium"
 }

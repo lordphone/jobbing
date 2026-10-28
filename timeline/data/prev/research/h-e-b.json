@@ -1,30 +1,17 @@
 {
-  "company": "H-E-B",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "Software Engineer 1 - Multiple Teams",
-      "url": "https://careers.heb.com/jobs/231773",
-      "location": "San Antonio, TX",
-      "opened": "2026-08-21",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No dated first-party last-cycle opening found; H-E-B Digital posts Software Engineer 1 periodically.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.heb.com/digital",
-  "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-19 (software, engineer, data searches): SWEs are II Quality/Storage, Senior, Staff, Manager only. Software Engineer 1 (231773, first seen 2026-08-21) page returns 404, so closed. No entry SWE listed now.",
-  "confidence": "high"
+ "company": "H-E-B",
+ "tier": 5,
+ "status": "closed",
+ "last_cycle_basis": "No dated first-party last-cycle opening found; H-E-B Digital posts Software Engineer 1 periodically (tracker 2026-08-21, this cycle)",
+ "jobs_page": "https://careers.heb.com/digital",
+ "jobs_spec": null,
+ "jobs_spec_basis": "careers.heb.com Jibe JSON API (/api/jobs?keywords=) searchable, no full-board spec in jobs.py",
+ "evidence": "careers.heb.com Jibe API 2026-10-26 (software, developer, engineer I, data engineer, entry level, graduate, new grad, req 231773): SWEs are II (Storage), Senior, Staff or Manager. Tracker's Software Engineer 1 (req 231773, seen 2026-08-21) returns no result, so closed. No entry SWE listed.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "last_cycle_opened": null
 }

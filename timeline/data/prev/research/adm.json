@@ -1,16 +1,16 @@
 {
  "company": "ADM (Archer Daniels Midland)",
+ "tier": 5,
  "status": "no_program_found",
  "postings": [],
  "last_cycle_opened": null,
  "last_cycle_basis": "no tracker history; none found",
- "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25416&siteid=5998",
- "jobs_spec": null,
- "evidence": "BrassRing US board (~525 postings) browser search 'software' 2026-10-19 (72 US results, titles read): IT roles are Sr. Data Engineer, IFS Technical Analyst, Modernization Software Lead, Process Automation Engineer (plant). No entry-level SWE or software new-grad program.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-19",
  "excluded_reason": null,
  "no_sponsorship": false,
- "dropped": []
+ "jobs_page": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25416&siteid=5998",
+ "jobs_spec": null,
+ "evidence": "BrassRing in browser 2026-10-26 (502 US jobs): keyword searches for software, developer, data engineer, machine learning, graduate, early career show only plant, trade, process-engineering roles and Sr. Data Engineer, Sr Automation Developer, AI Security Architect. No entry-level SWE or new-grad program. Connected Worker Engineer (Decatur) not opened, likely manufacturing digital.",
+ "confidence": "medium",
+ "dropped": [],
+ "checked": "2026-10-26"
 }

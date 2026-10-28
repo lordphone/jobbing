@@ -1,69 +1,35 @@
 {
-  "company": "Westinghouse Electric Company",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineer - AI Delivery (high-potential program)",
-      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-%28high-potential-program%29-NC/1436332800/",
-      "location": "Cranberry Township, PA; Etna, PA",
-      "opened": "2026-10-02",
-      "date_source": "page datePosted meta",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "'0+ years experience'; Catalyst high-potential program, BS CS/SWE"
-    },
-    {
-      "title": "Computer Science/Software Engineer",
-      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Computer-ScienceSoftware-Engineer-NC/1412516200/",
-      "location": "Cranberry Township, PA (local candidates only)",
-      "opened": "2026-07-24",
-      "date_source": "tracker first seen (careers search lists Sep 20, 2026)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "no_sponsorship": false,
-      "level_basis": "'0+ years experience'; bachelor's in CS/SWE"
-    },
-    {
-      "title": "Safety SW I&C Engineer HMI Systems (req 33454)",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/",
-      "location": "Warrendale, PA (hybrid)",
-      "opened": "2026-07-21",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "'0+ years of experience'; requires bachelor's, C/C++ 'through coursework, internships, or academic projects'",
-      "no_sponsorship": false
-    },
-    {
-      "title": "I&C SW Specialist",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-SW-Specialist-OR/1410998600/",
-      "location": "Warrendale, PA",
-      "opened": "2026-09-17",
-      "date_source": "earlier page text (posted Sep 17, 2026); meta datePosted now Oct 16, likely refresh",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "requires bachelor's in CS/EE/related, 0+ years of experience; $58.4K-$73K",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2026-01-25",
-  "last_cycle_basis": "tracker first seen: Graduate Leadership Engineer - Computer Engineering, Grove City PA (careers.westinghousenuclear.com); also Leadership program new grad Engineer 2026-01-17",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.westinghousenuclear.com/search/",
-  "jobs_spec": null,
-  "evidence": "Careers search (SuccessFactors HTML, 12 keyword searches, about 980 postings) 2026-10-19, pages fetched with Apply now: AI Delivery, CS/Software Engineer, Safety SW I&C HMI (33454), I&C SW Specialist all 0+ yrs. Senior/Principal/Lead SW roles, Software Development Engineer (3 yrs) and I&C Catalyst rotation (hardware/controls) left out. Only generic export-control line.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Westinghouse Electric Company",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Engineer - AI Delivery (high-potential program)",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-%28high-potential-program%29-NC/1436332800/",
+   "location": "Cranberry Township, PA; Etna, PA",
+   "opened": "2026-10-02",
+   "date_source": "page datePosted meta",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "'0+ years experience'; Catalyst high-potential program, BS CS/SWE",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Computer-ScienceSoftware-Engineer-NC/1412516200/",
+   "reason": "gone: page shows 'This position is no longer accepting applications'"
+  }
+ ],
+ "last_cycle_opened": "2026-01-25",
+ "last_cycle_basis": "tracker first seen: Graduate Leadership Engineer - Computer Engineering, Grove City PA (careers.westinghousenuclear.com); also Leadership program new grad Engineer 2026-01-17",
+ "jobs_page": "https://careers.westinghousenuclear.com/search/",
+ "jobs_spec": null,
+ "evidence": "Careers site (SuccessFactors) crawled 2026-10-26 (865 jobs): AI Delivery (Catalyst, 0+ yrs) live with Apply. CS/Software Engineer now no longer accepting. Software Development Engineer needs 3 yrs; Digital and AI Strategy Engineer 2+ yrs strategy role, left out. Only generic export-control line.",
+ "confidence": "high",
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

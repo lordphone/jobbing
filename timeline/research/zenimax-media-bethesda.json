@@ -1,16 +1,16 @@
 {
   "company": "ZeniMax Media / Bethesda (Microsoft)",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no entry-level SWE posting found for last cycle",
+  "last_cycle_basis": "no last-cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.zenimax.com/jobs",
   "jobs_spec": null,
-  "evidence": "jobs.zenimax.com/jobs read in browser pane 2026-10-20: only 2 openings (Director Workplace Services, Senior Environment Artist). No engineering roles.",
-  "confidence": "high"
+  "evidence": "ZeniMax's own Jibe API (zenimax.jibeapply.com/api/jobs) 2026-10-27 lists only 2 openings (Director Workplace Services, Senior Environment Artist). No engineering roles. jobs.zenimax.com page blocks plain fetch; no tracker history of an entry-level SWE role.",
+  "confidence": "medium"
 }

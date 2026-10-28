@@ -1,7 +1,6 @@
 {
   "company": "Ramp",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -18,16 +17,29 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer, Core Product",
-      "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
-      "location": "New York, NY",
-      "opened": "2026-01-20",
+      "title": "Mobile Engineer, Android",
+      "url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040",
+      "location": "New York, NY; San Francisco, CA; Remote (US); Remote (Canada)",
+      "opened": "2025-07-31",
       "date_source": "ashby publishedAt",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "requires '2+ years of software engineering experience'; $168K-$275K; no lead or mentor duties",
+      "level_basis": "requires 'Minimum 1 year of experience in mobile development'; no lead duties; $189K-$330K",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Mobile Engineer, iOS",
+      "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
+      "location": "New York, NY; San Francisco, CA; Remote (US); Remote (Canada)",
+      "opened": "2025-07-31",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'Minimum 1 year of experience in mobile development'; no lead duties; $189K-$330K",
       "no_sponsorship": false
     }
   ],
@@ -37,8 +49,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/ramp",
   "jobs_spec": "ashby:ramp",
-  "evidence": "ashby:ramp full (167) 2026-10-19: no New Grad 2027 SWE yet (only a University Grad Customer Experience Associate and interns). Onboarding and Core Product still on board, ask 2+ yrs, no senior duties (borderline, unlabeled, kept). Mobile (1 yr) set engineering standards, Frontend mentors, Credit/Prod Eng own architecture: left out.",
+  "evidence": "ashby:ramp full board (173) read 2026-10-26: no New Grad 2027 SWE yet (only SWE interns, one University Grad CX role). Onboarding (2 yrs) and Mobile iOS/Android (1 yr) still live, kept as borderline unlabeled. Credit (2+ yrs, owns roadmap), Production Eng (leads) and 3+ yr roles left out.",
   "confidence": "medium",
-  "dropped": [],
-  "jobs_spec_basis": "careers page job links go to jobs.ashbyhq.com/ramp; kept ashby:ramp"
+  "checked": "2026-10-26",
+  "dropped": []
 }

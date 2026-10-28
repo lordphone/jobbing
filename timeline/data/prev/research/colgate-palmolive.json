@@ -1,16 +1,30 @@
 {
-  "company": "Colgate-Palmolive",
-  "status": "no_program_found",
-  "postings": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "jobs_page": "https://jobs.colgate.com/go/Information-Technology/8516700/",
-  "jobs_spec": null,
-  "evidence": "jobs.colgate.com RSS searches and web search 2026-10-19: only Software Development Internship (Piscataway) and senior or non-US tech roles. No US entry software role found; board is JS-rendered so coverage is partial.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "dropped": []
+ "company": "Colgate-Palmolive",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Full Stack Developer",
+   "url": "https://jobs.colgate.com/job/Piscataway-Full-Stack-Developer-NJ/1442332800/",
+   "location": "Piscataway, NJ",
+   "opened": "2026-10-21",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Required: '2+ years of experience developing and deploying web applications'; $77,000-$107,500; no lead or mentor duties",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; none found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.colgate.com/go/Information-Technology/8516700/",
+ "jobs_spec": null,
+ "evidence": "Posting page re-read 2026-10-26: Full Stack Developer (Piscataway, posted 10/21/26) still shows Apply now, 2+ yrs required, counted unlabeled. RSS engineer search shows no other entry-level software roles; Data Engineer and Platform Engineer need more years.",
+ "confidence": "medium"
 }

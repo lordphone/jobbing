@@ -1,9 +1,35 @@
 {
   "company": "Thinking Machines Lab",
   "tier": 1,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Evaluation Platform / Infra",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/9d863c78-80c0-44cd-a574-d1330e125398",
+      "location": "San Francisco, CA; New York, NY",
+      "opened": "2026-08-31",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "minimum quals: 'Two years of post-grad work experience as a software engineer or ML engineer, exclusive of internships'; $300,000 - $350,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, Research Tools",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e",
+      "location": "San Francisco, CA; New York, NY",
+      "opened": "2026-08-31",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "minimum quals: 'Two years of post-grad work experience as a software engineer or ML engineer, exclusive of internships'; $300,000 - $350,000",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
@@ -11,6 +37,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/thinkingmachines",
   "jobs_spec": "ashby:thinkingmachines",
-  "evidence": "ashby:thinkingmachines full board (53) read and screened 2026-10-20: 22 eng/research roles, pay floors $260K-$350K+, no years or entry wording, no new-grad or university program.",
-  "confidence": "high"
+  "evidence": "Ashby API full board (51) read 2026-10-27: no new-grad program. Evaluation Platform/Infra and Research Tools SWE ask exactly 2 yrs post-grad, counted. Other SWE/infra roles state no years or ask 4-8+ yrs, senior infra at $300K+, left out.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

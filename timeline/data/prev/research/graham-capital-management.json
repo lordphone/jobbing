@@ -1,7 +1,6 @@
 {
   "company": "Graham Capital Management",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,20 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "posting seeks \"an early-career developer\"; $90,000 to $125,000; follows established review processes",
+      "level_basis": "posting seeks \"an early-career developer\"; no years required; $90,000 to $125,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Trading Technology Software Developer",
+      "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005",
+      "location": "Norwalk, CT; Rowayton, CT",
+      "opened": "2026-10-21",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "junior-to-mid-level; requires 1-5 years; \"strong recent graduates with relevant internship, academic, or project experience will also be considered\"; $100,000 to $160,000",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +37,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/grahamcapitalmanagement",
   "jobs_spec": "gh:grahamcapitalmanagement",
-  "evidence": "Greenhouse full board (10) 2026-10-19: early-career developer posting live via API. Middle Office Developer 5+ yrs, Quant Research Developer 2+ yrs buy-side MS/PhD, ML Engineer London: not counted. No sponsorship text.",
-  "confidence": "medium"
+  "jobs_spec_basis": "tracker-listed posting 4741577005 confirmed live on gh:grahamcapitalmanagement API board",
+  "evidence": "Greenhouse full board (11) re-read 2026-10-26, both postings live via API: Quant Trading and Research Ops Developer is early-career; Trading Technology Software Developer is junior-to-mid and welcomes recent grads. Middle Office dev needs 5+ yrs; Quant Research Developer needs 2+ yrs and PhD/MS.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

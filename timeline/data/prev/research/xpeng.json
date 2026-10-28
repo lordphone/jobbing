@@ -1,17 +1,29 @@
 {
   "company": "XPENG",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680015002",
+      "reason": "gone: not on the Greenhouse board; page URL shows the board index instead of the posting"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8680040002",
+      "reason": "gone: not on the Greenhouse board; page URL shows the board index instead of the posting"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8811971002",
+      "reason": "gone: not on the Greenhouse board; page URL shows the board index instead of the posting"
+    }
+  ],
   "last_cycle_opened": "2025-08-14",
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
+  "last_cycle_basis": "tracker first seen: Autonomous Driving Center Full-Time Position, Santa Clara CA, https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xpengmotors",
   "jobs_spec": "gh:xpengmotors",
-  "jobs_spec_basis": "tracker first seen: Autonomous Driving Center Full-Time Position https://job-boards.greenhouse.io/xpengmotors/jobs/8091749002",
-  "evidence": "Greenhouse board (22, full) 2026-10-19 has no entry role. The three 2027 campus postings (8680015002, 8680040002, 8811971002) are off the API, so closed.",
+  "evidence": "Greenhouse full board (22) 2026-10-26: no entry role (Senior/Staff ML, interns, contractor IT). Three 2027 campus postings (8680015002, 8680040002, 8811971002) are not on the API board and their page URL shows the board index, so they are gone (earlier run counted them).",
   "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Paylocity",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
+  "checked": "2026-10-27",
+  "status": "not_yet",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Unknown; earlier Associate Engineer Software postings (ids 42240, 41451) return Job Not Found, so no dated opening confirmed.",
+  "last_cycle_basis": "No dated new-grad posting found; a Handshake listing for an Associate Software Engineer New College Grad Program is undated.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.paylocity.com/company/careers/all-listings/",
   "jobs_spec": null,
-  "evidence": "Product & Technology and Early Career listings read in browser 2026-10-20: US software roles are Senior/Staff only; interns in Rochester, entry engineers in Guadalajara/India. Kept closed from earlier run; no dated this-cycle opening confirmed.",
-  "confidence": "low"
+  "evidence": "Careers page blocked WebFetch; read the 237-job list on 2000recruiting.paylocity.com 2026-10-27. US software roles are Senior/Staff/Manager ML and DevSecOps; Engineer Software and Data Engineer are Guadalajara. Early career is interns only (SWE Intern Rochester, AI Labs intern, some convert to Associate SWE). Programmer I - Custom Client Reports (remote US, SQL reporting, operations) left out as not SWE.",
+  "confidence": "medium"
 }

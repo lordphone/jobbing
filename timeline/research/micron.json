@@ -1,7 +1,7 @@
 {
  "company": "Micron",
  "tier": 5,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "open",
  "postings": [
   {
@@ -37,12 +37,7 @@
  "no_sponsorship": false,
  "jobs_page": "https://micron.wd1.myworkdayjobs.com/External",
  "jobs_spec": "wd:micron/wd1/External",
- "evidence": "Workday searched board 2026-10-20 (3187 total) plus software/AI/data keyword searches, all read via API. Open: NCG Computer Engineer Central Engineering (EDA tools) and Software Development Engineer Boise (bachelor's, no years). Not counted: AI Full Stack 5+ yrs, IT Software Engineer 3-5+ yrs, firmware/HBM design, fab roles. NCG IT Software Support Engineer not found in board searches.",
+ "evidence": "Workday board (searched, 3149) 2026-10-27 and detail: NCG Computer Engineer (EDA tools, Boise) and Software Development Engineer (Boise) still live, bachelor, no years. Not counted: senior/staff, fab/chip design, interns, non-US.",
  "confidence": "medium",
- "dropped": [
-  {
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038",
-   "reason": "gone: earlier run saw 'page doesn't exist' in browser; still absent from every board search this run"
-  }
- ]
+ "dropped": []
 }

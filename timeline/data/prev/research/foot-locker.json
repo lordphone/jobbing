@@ -1,31 +1,21 @@
 {
  "company": "Foot Locker (part of Dick's Sporting Goods)",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "closed",
- "postings": [
+ "postings": [],
+ "dropped": [
   {
-   "title": "Associate Software Engineer - Merchandise Technology",
    "url": "https://careers.footlocker.com/jobs/71916",
-   "location": "Remote (US)",
-   "opened": "2026-09-15",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
+   "reason": "gone: page returns 404 and the Jibe API no longer lists it"
   }
  ],
  "last_cycle_opened": "2025-12-05",
- "last_cycle_basis": "Simplify tracker: Technology Development Program - Data Scientist posting first seen 2025-12-05 (history search)",
+ "last_cycle_basis": "tracker: Technology Development Program posting first seen 2025-12-05",
  "excluded_reason": null,
- "no_sponsorship": true,
+ "no_sponsorship": false,
  "jobs_page": "https://careers.footlocker.com",
  "jobs_spec": null,
- "evidence": "Jibe API 2026-10-19: engineer titles are Sr/Lead/Boomi/Data & Analytics; Associate Software Engineer 71916 returns 404 on careers site and is absent from API, so closed.",
- "confidence": "high",
- "jobs_spec_basis": "careers.footlocker.com is a Jibe site; /api/jobs lists all postings but no board spec exists",
- "dropped": []
+ "evidence": "Jibe API full crawl (2934 jobs) 2026-10-26: engineer roles are Sr/Lead, Boomi Engineer needs 3+ yrs, Data & Analytics Engineer 3+ yrs. Associate Software Engineer 71916 (Sept 2026) returns 404 and is absent from API, so closed.",
+ "confidence": "medium"
 }

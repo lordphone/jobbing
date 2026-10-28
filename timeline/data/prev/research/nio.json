@@ -1,7 +1,6 @@
 {
   "company": "NIO",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,11 +13,10 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Requires \"master's or Ph.D.\", no years asked; ideal for PhD students or recent graduates. Research title, borderline",
+      "level_basis": "Requires \"Master's or Ph.D.\", no years asked; \"ideal for PhD students or recent graduates\". Research title, borderline",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
   "excluded_reason": null,
@@ -26,6 +24,8 @@
   "jobs_page": "https://jobs.lever.co/nio-usa",
   "jobs_spec": "lever:nio-usa",
   "jobs_spec_basis": "no NIO new-grad posting in tracker history",
-  "evidence": "NIO USA Lever (5, full) 2026-10-19. Staff roles and AI Technical Lead are senior. AI Robotics Researcher (Master's or Ph.D., no years) is a borderline research role, kept from earlier run. No new-grad SWE track.",
-  "confidence": "low"
+  "evidence": "NIO USA Lever (5, full) re-read 2026-10-26. Three Staff roles and AI Technical Lead are senior. AI Robotics Researcher (Master's or PhD, no years, 'ideal for PhD students or recent graduates') still live on API, kept as a borderline research role. No new-grad SWE track. Same as prior run.",
+  "confidence": "low",
+  "checked": "2026-10-26",
+  "dropped": []
 }

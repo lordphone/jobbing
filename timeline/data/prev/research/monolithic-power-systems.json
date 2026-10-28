@@ -3,14 +3,19 @@
   "tier": 5,
   "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
+      "reason": "gone: jobs.py detail says NOT ON THE BOARD and it is absent from the full board list"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers",
   "jobs_spec": "wd:monolithicpower/wd12/MPS_Careers",
-  "evidence": "Workday full board (241) 2026-10-19: San Jose entry-level Software Engineer, Building Automation (R-2037, seen 2026-10-17) is absent from the board and from the CXS search, and an earlier browser check showed the page gone, so closed. A Sr. Staff/Principal version (R-2054, Kirkland) is senior. New Grad Applications Engineer is analog hardware; Software Engineer - New Grad is Barcelona only.",
+  "evidence": "Workday full board (232) read 2026-10-26: San Jose Software Engineer, Building Automation (R-2037, first seen 2026-10-07) is gone. Only US SWE is Sr. Staff/Principal in Kirkland. New Grad Software Engineer is Barcelona only; other new grad roles are analog/applications.",
   "confidence": "medium",
-  "checked": "2026-10-19"
+  "checked": "2026-10-26"
 }

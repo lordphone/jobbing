@@ -1,8 +1,5 @@
 {
-  "company": "National Information Solutions Cooperative (NISC)",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "open",
+  "checked": "2026-10-26",
   "postings": [
     {
       "title": "Software Developer - Full Stack (Work Management Software)",
@@ -57,13 +54,16 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-01-15",
   "last_cycle_basis": "tracker first seen Software Developer - Provisioning 2026-01-15; no clear new-grad label",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "National Information Solutions Cooperative (NISC)",
+  "tier": 5,
+  "status": "open",
   "jobs_page": "https://job-boards.greenhouse.io/nisc",
   "jobs_spec": "gh:nisc",
-  "evidence": "Greenhouse API 2026-10-19 (37, full) and posting text: four Software Developer postings list 'generally 1+ yrs', no senior duties, counted unlabeled. Provisioning (Back End, Java) lists no years and ETL programmer not counted. No sponsorship text.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Greenhouse full board (38) re-read 2026-10-26; same four Software Developer postings live, text says generally 1+ yrs, no senior duties, counted unlabeled. Provisioning (implementation work) and ETL programmer not counted. No sponsorship text.",
+  "confidence": "medium"
 }

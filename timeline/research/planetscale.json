@@ -1,6 +1,7 @@
 {
   "company": "PlanetScale",
   "tier": 3,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -17,14 +18,13 @@
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
-  "no_sponsorship": true,
+  "last_cycle_basis": "none found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/planetscale",
   "jobs_spec": "gh:planetscale",
-  "evidence": "Greenhouse API 2026-10-20 (11, full): Internal Tools SWE live, 0-2 yrs required, SF in-office only, 'We do not sponsor visas'. Postgres SWE needs 5+ yrs; support roles not SWE. No deadline.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "excluded_reason": null
+  "evidence": "Greenhouse API 2026-10-27 (11, full): Internal Tools SWE (4389100009) still live, 0-2 yrs required, SF in-office only, 'We do not sponsor visas'. Postgres SWE needs 5+ yrs; AI Developer Experience Engineer (devrel-style, $170-220K) not counted; support engineers not SWE.",
+  "confidence": "high"
 }

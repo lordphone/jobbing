@@ -1,31 +1,66 @@
 {
- "company": "Accenture",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "open",
- "postings": [
-  {
-   "title": "Entry Level Java Developer Associate",
-   "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
-   "location": "San Antonio, TX",
-   "opened": "2026-08-12",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "experienceLevel entry_level; Basic Qualifications: 2 or 4 year STEM Degree",
-   "no_sponsorship": true
-  }
- ],
- "dropped": [],
- "last_cycle_opened": "2025-12-03",
- "last_cycle_basis": "jobs.py history: 'ATC Salesforce Analyst - Nashville' active 2025-12-03; multiple ATC Analyst roles Dec 2025-Jan 2026 (tracker_last_cycle 2026-01-09)",
- "excluded_reason": null,
- "no_sponsorship": true,
- "jobs_page": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
- "jobs_spec": "wd:accenture/wd103/AccentureCareers",
- "evidence": "Commercial Workday US/Canada: only NAELFY27 Technology Summer Analyst (internship, grads Dec 2027+). Accenture Federal Services SmartRecruiters API shows Entry Level Java Developer Associate (San Antonio) active, no clearance wording (releasedDate 2014, legacy template). AFS Pega/Full Stack roles need TS clearance or citizenship.",
- "confidence": "low",
- "jobs_spec_basis": "Unfiltered board listing caps at 2000 of a global board; US and Canada searched by keyword; AFS postings live on its own SmartRecruiters"
+  "company": "Accenture",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI/ML Computational Science Engineer",
+      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00349886_en&title=AI%2FML+Computational+Science+Engineer",
+      "location": "Atlanta, GA; Austin, TX; Beaverton, OR; Bentonville, AR; Boston, MA; Carmel, IN; Charlotte, NC; Cincinnati, OH; Cleveland, OH; Columbus, OH; Culver City, CA; Denver, CO; Des Moines, IA; Detroit, MI; Hartford, CT; Houston, TX; Irving, TX; Kirkland, WA; Miami, FL; Milwaukee, WI; Minneapolis, MN; Morristown, NJ; Mountain View, CA; Nashville, TN; New York City, NY; Oklahoma City, OK; Orlando, FL; Overland Park, KS; Philadelphia, PA; Pittsburgh, PA; Raleigh, NC; Redmond, WA; Sacramento, CA; San Diego, CA; San Francisco, CA; Scottsdale, AZ; Seattle, WA; St. Louis, MO; St. Petersburg, FL; Walnut Creek, CA",
+      "opened": "2026-09-30",
+      "date_source": "workday startDate",
+      "deadline": "at least 2026-11-30",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "accenture.com job search 'Experience: Early Career' label; requirements list 3+ yrs",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Salesforce Developer (CPQ)",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Developer--CPQ-_R00331987",
+      "location": "Chesterbrook, PA; Orlando, FL; Tampa, FL; Nashville, TN",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "accenture.com job search 'Experience: Early Career' label; requires 2 yrs",
+      "no_sponsorship": true
+    },
+    {
+      "title": "MuleSoft Developer",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/MuleSoft-Developer_R00331671",
+      "location": "Chesterbrook, PA; Orlando, FL; Philadelphia, PA; Tampa, FL; Nashville, TN",
+      "opened": "2026-09-28",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "accenture.com job search 'Experience: Early Career' label; requires 2 yrs",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00363869_en&title=AI+Native+Software+Engineering+Senior+Analyst",
+      "reason": "gone: not in the Early Career list or the Workday board, and the page redirects to job search"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
+      "reason": "ruled out: released 2014-08-01 on a J2EE 1.5/Struts stale template; AFS's live board roles say 'Must be a U.S. Citizen'"
+    }
+  ],
+  "last_cycle_opened": "2025-12-03",
+  "last_cycle_basis": "jobs.py history: ATC Salesforce Analyst - Nashville active 2025-12-03; multiple ATC Analyst roles Dec 2025-Jan 2026",
+  "jobs_page": "https://www.accenture.com/us-en/careers/jobsearch",
+  "jobs_spec": "wd:accenture/wd103/AccentureCareers",
+  "jobs_spec_basis": "wd:accenture CXS works by direct API but jobs.py board fails on 429s; accenture.com search (Early Career label) read in browser",
+  "evidence": "2026-10-26: Workday CXS scan (capped at 2000) plus accenture.com Early Career filter (43 jobs, 4 pages) read. Same three software roles as before stay: AI/ML Computational Science Engineer (3 yrs), Salesforce Developer CPQ and MuleSoft Developer (2 yrs), all Early Career labeled. Postings say no visa sponsorship. Summer Analysts are internships.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": true
 }

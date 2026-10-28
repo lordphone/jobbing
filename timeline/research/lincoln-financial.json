@@ -1,30 +1,35 @@
 {
-  "company": "Lincoln Financial",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Data Engineer, AI Data Products",
-      "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/",
-      "location": "Radnor, PA; Charlotte, NC; Fort Wayne, IN; Greensboro, NC",
-      "opened": "2026-09-25",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Requires 'bachelor's degree plus typically 1 to 3 years of relevant experience'; Associate title, Python/SQL/FastAPI",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker shows Associate Application Development postings 2026-03-12 and 2026-05-12 (closed), outside the Jul-Jan window; no fall 2025 date found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
-  "jobs_spec": null,
-  "evidence": "Paged all 111 jobs on jobs.lincolnfinancial.com 2026-10-20 and opened the posting: Associate Data Engineer, AI Data Products (req 76676, dated Sep 25 2026) shows Apply now, 1-3 yrs. Other engineers are Sr, Lead or Director.",
-  "confidence": "medium"
+ "company": "Lincoln Financial",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Sr Assoc Software Engineer",
+   "url": "https://jobs.lincolnfinancial.com/job/Greensboro-Sr-Assoc-Software-Engineer-NC-27395/1435146900/",
+   "location": "Greensboro, NC; Charlotte, NC; Fort Wayne, IN; Radnor, PA",
+   "opened": "2026-09-29",
+   "date_source": "page text",
+   "deadline": "2027-02-01",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Requires '1-3+ years of direct experience with developing, enhancing, testing, or supporting software applications'; production support and development, no lead or mentoring duties; $75,000 - $120,000",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/",
+   "reason": "gone: page says \"This position is no longer posted\" on 2026-10-27"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "tracker shows Associate Application Development postings 2026-03-12 and 2026-05-12 (closed), outside the Jul-Jan window; no fall 2025 date found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
+ "jobs_spec": null,
+ "evidence": "jobs.lincolnfinancial.com search (102 jobs) and posting pages fetched 2026-10-27: Sr Assoc Software Engineer Greensboro (1-3+ yrs, Apply now, accepted through 2027-02-01) still live, kept as unlabeled. Associate Data Engineer page now says no longer posted. Other Sr Associate and Lead roles need 3-5+ yrs.",
+ "confidence": "medium"
 }

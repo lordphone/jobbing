@@ -1,16 +1,16 @@
 {
   "company": "IHG Hotels & Resorts",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "no tracker history or dated first-party source found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.ihg.com/en/search-and-apply/",
   "jobs_spec": null,
-  "evidence": "careers.ihg.com opened in browser 2026-10-19: keyword search software engineer returned no results; earlier checks found only Manager/Head level tech roles. No US entry SWE.",
+  "evidence": "careers.ihg.com keyword searches 2026-10-26 (browser): software, developer, graduate return 0; engineer returns hotel engineering and two corporate Engineering Manager roles; none a US entry-level SWE. No board API; full list not paged, so medium confidence.",
   "confidence": "medium"
 }

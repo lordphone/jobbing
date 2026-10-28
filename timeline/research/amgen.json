@@ -1,9 +1,21 @@
 {
   "company": "Amgen",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
+    {
+      "title": "Associate AI Engineer, OI&A",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
+      "location": "Thousand Oaks, CA",
+      "opened": "2026-10-27",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Associate title; Basic Qualifications: Bachelor's degree in CS/Engineering/Data Science",
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398",
@@ -14,7 +26,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Basic: Master's degree OR Bachelor's + 2 yrs software development; no senior duties or higher level in title",
+      "level_basis": "'ideal for early-career professionals'; Basic Qualifications: Master's degree OR Bachelor's and 2 years of software development experience",
       "no_sponsorship": false
     },
     {
@@ -27,30 +39,23 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'ideal for early-career professionals'; Basic: Master's degree OR Bachelor's + 2 yrs software development",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Machine Learning Engineer, AI Studio",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796",
-      "location": "Remote (US)",
-      "opened": "2026-08-24",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Basic: Master's degree OR Bachelor's + 2 yrs CS/IT experience; no senior duties",
+      "level_basis": "'ideal for early-career professionals'; Basic Qualifications: Master's degree OR Bachelor's and 2 years of software development experience",
       "no_sponsorship": false
     }
   ],
+  "dropped": [
+    {
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796",
+      "reason": "gone: not on the board; job API returns 403 permission denied while live reqs return 200"
+    }
+  ],
   "last_cycle_opened": "2025-08-08",
-  "last_cycle_basis": "tracker: Junior Software Engineer (Thousand Oaks, CA; Tampa, FL) first seen 2025-08-08",
+  "last_cycle_basis": "tracker first seen: Junior Software Engineer, Thousand Oaks/Tampa",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://amgen.wd1.myworkdayjobs.com/careers",
   "jobs_spec": "wd:amgen/wd1/careers",
-  "evidence": "Workday full board (1654) 2026-10-20 + detail: Full Stack SWE, Software Engineer and ML Engineer AI Studio all still live (Master or Bachelor+2 yrs). Posting says no deadline (ML role: anticipated Aug 31, still open). Specialist SWE need more years, Engineer I is manufacturing; left out. Sponsorship not guaranteed.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday board (1600, full) 2026-10-27: new Associate AI Engineer OI&A (bachelor's, Thousand Oaks, posted 10-27). Software Engineer R-251398 and Full Stack SWE R-216946 omitted from the list but live via API (canApply true), early-career, master's or bachelor's + 2 yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

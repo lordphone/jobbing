@@ -1,44 +1,36 @@
 {
- "company": "Infosys",
- "tier": 5,
- "status": "leftover_2026",
- "postings": [
-  {
-   "title": "Specialist Programmer",
-   "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/145643BR",
-   "location": "Austin, TX; Charlotte, NC; Phoenix, AZ; Raleigh, NC; Richardson, TX; Somerset, NJ",
-   "opened": "on or before 2026-09-27",
-   "date_source": "page text (no date shown); on board 2026-10-18",
-   "deadline": null,
-   "grad_window": "Dec 2024 - Aug 2026",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  },
-  {
-   "title": "Associate - Campus",
-   "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/152904BR",
-   "location": "Austin, TX; Charlotte, NC; Hartford, CT; Raleigh, NC; Richardson, TX; Somerset, NJ; Tempe, AZ",
-   "opened": "on or before 2026-10-08",
-   "date_source": "page text (no date shown); on board 2026-10-18",
-   "deadline": null,
-   "grad_window": "Dec 2024 - Aug 2026",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": null,
- "last_cycle_basis": "jobs.py history has zero Infosys entries; rolling program with no dated source",
- "excluded_reason": null,
- "no_sponsorship": true,
- "jobs_page": "https://digitalcareers.infosys.com/infosys/global-careers",
- "jobs_spec": null,
- "evidence": "Posting pages 145643BR and 152904BR fetched 2026-10-20 show Apply now, 'graduating from December 2024-August 2026' and 'unable to provide immigration sponsorship', so last-cycle leftover. Full Algolia board listing not re-run; 2026-10-18 listing showed only these two entry roles in US/Canada.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "jobs_spec_basis": "Board search uses public Algolia index production_Infosys_jobs (application UM59DWRPA1); lists every job",
- "dropped": []
+  "company": "Infosys",
+  "tier": 5,
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Specialist Programmer",
+      "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/145643BR",
+      "location": "Austin, TX; Charlotte, NC; Phoenix, AZ; Raleigh, NC; Richardson, TX; Somerset, NJ",
+      "opened": "on or before 2026-09-27",
+      "date_source": "page text (no date shown); on board 2026-10-18",
+      "deadline": null,
+      "grad_window": "Dec 2024 - Aug 2026",
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/152904BR",
+      "reason": "gone: page 302-redirects to infosys.com/404 on 2026-10-27 (same as a nonexistent req id); was a Dec 2024-Aug 2026 grad window leftover anyway"
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history has zero Infosys entries; rolling program with no dated source",
+  "no_sponsorship": true,
+  "jobs_page": "https://digitalcareers.infosys.com/infosys/global-careers",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Board search uses public Algolia index production_Infosys_jobs (application UM59DWRPA1); lists every job",
+  "evidence": "2026-10-27 (fetched pages, no browser): Specialist Programmer 145643BR still shows Apply now, window Dec 2024-Aug 2026 (leftover), no sponsorship. Associate - Campus 152904BR now redirects to 404, gone. No 2027 US campus posting found; one web search.",
+  "confidence": "medium",
+  "excluded_reason": null,
+  "checked": "2026-10-27"
 }

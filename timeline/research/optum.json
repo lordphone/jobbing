@@ -1,30 +1,52 @@
 {
   "company": "Optum (UnitedHealth Group)",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Associate AI/ML Engineer",
-      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/101316245472",
+      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/102526430176",
       "location": "Minnetonka, MN; Remote (US)",
       "opened": "2026-10-19",
-      "date_source": "page text (JSON-LD datePosted)",
+      "date_source": "page text (earlier req posted 10/19/2026; this repost 10/27/2026)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Associate title; required quals '2+ years of experience in software development, machine learning, data science, analytics, or AI/ML engineering'; no lead duties",
+      "level_basis": "Associate title; required quals 'Bachelor's degree, 1+ years of experience in software development, machine learning...'; no lead duties",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Data Engineer",
+      "url": "https://careers.unitedhealthgroup.com/job/eden-prairie/associate-data-engineer/34088/102507844720",
+      "location": "Eden Prairie, MN; Remote (US)",
+      "opened": "2026-10-27",
+      "date_source": "page text (Date posted 10/27/2026)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Associate title; required quals '1+ years of experience in data engineering, data platforms'; no lead duties",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://careers.unitedhealthgroup.com/job/x/x/34088/102336384672",
+      "reason": "gone: UHG page shows 'this page was moved, deleted or does not exist'; the only Associate Software Engineer now listed (Minneapolis, 102507844816) requires 4+ yrs"
+    },
+    {
+      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/associate-ai-ml-engineer/34088/101316245472",
+      "reason": "gone: page deleted; reposted as 102526430176 (same title, Minnetonka), kept above with the old opened date"
+    }
+  ],
   "last_cycle_opened": "2025-08-17",
-  "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (listed Vancouver, Canada / Remote)",
+  "last_cycle_basis": "tracker history: Associate Software Engineer first seen 2025-08-17 (Vancouver, Canada / Remote)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.unitedhealthgroup.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "UHG TalentBrew results 2026-10-20 (2263 listings pulled) and job pages: Associate AI/ML Engineer (req 2390968, posted 2026-10-19) shows Apply, 2+ yrs required, remote US. Other US software roles need 2-5+ yrs, most 4+; La Crosse also needs US citizenship. Associate Software Engineer Basking Ridge gone.",
-  "confidence": "medium"
+  "evidence": "UHG search and job pages 2026-10-27 (fetched with HTTP): Associate AI/ML (Minnetonka, 1+ yrs) reposted under req 102526430176, keeps 10/19 opened; new Associate Data Engineer (Eden Prairie, 1+ yrs) 10/27. Eden Prairie Associate SWE gone. Wausau, La Crosse SWEs and Minneapolis Associate SWE need 3-5+ yrs.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

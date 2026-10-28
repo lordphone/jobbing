@@ -1,30 +1,30 @@
 {
- "company": "GE Vernova",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "open",
- "postings": [
-  {
-   "title": "AI Engineer",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
-   "location": "Greenville, SC",
-   "opened": "2026-09-09",
-   "date_source": "tracker first seen (workday startDate 2026-09-10)",
-   "deadline": "2026-11-30",
-   "grad_window": "Bachelor's completed by the start date",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "'entry-level AI Engineer ... designed for a recent graduate'; pay $70,400-$105,600",
-   "no_sponsorship": false
-  }
- ],
- "dropped": [],
- "last_cycle_opened": "2025-12-10",
- "last_cycle_basis": "tracker: Software Engineering Specialist (Bellevue, WA) first seen 2025-12-10; level unclear",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://careers.gevernova.com/jobs",
- "jobs_spec": "wd:gevernova/wd5/vernova_externalsite",
- "evidence": "Workday full board (2220) re-read 2026-10-20: AI Engineer Greenville is live (ends 2026-11-30), entry-level for a recent graduate. Left out: Roanoke Software Engineer (U.S. Persons only), Roanoke firmware, Edison/EEDP programs (non-software), Stafford Control Software Engineer (no entry label).",
- "confidence": "high"
+  "company": "GE Vernova",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "GE Vernova AI Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2",
+      "location": "Greenville, SC",
+      "opened": "2026-09-09",
+      "date_source": "tracker first seen 2026-09-09 (earlier req R5051916-2); new req workday startDate 2026-10-27",
+      "deadline": "2026-11-30",
+      "grad_window": "Bachelor's completed by the start date",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'designed for a recent graduate'; required: recent graduate, 0-1 year of related experience",
+      "no_sponsorship": true
+    }
+  ],
+  "last_cycle_opened": "2025-12-10",
+  "last_cycle_basis": "tracker: Software Engineering Specialist (Bellevue, WA) first seen 2025-12-10; level unclear",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://careers.gevernova.com/jobs",
+  "jobs_spec": "wd:gevernova/wd5/vernova_externalsite",
+  "evidence": "Workday full board (2220) read 2026-10-27. GE Vernova AI Engineer Greenville SC (R5057133-2, posted today) live, recent graduate, 0-1 yr; says no sponsorship. Reposted from R5051916-2 (still resolves, ends 2026-11-30). Lead Software Delivery Engineer is senior; Roanoke SWE (U.S. Persons) and Bellevue SRE (3+ yrs) left out earlier.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "dropped": []
 }

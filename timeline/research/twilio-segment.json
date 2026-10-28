@@ -1,43 +1,56 @@
 {
-  "company": "Twilio Segment",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Platform Engineering (L2)",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
-      "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
-      "opened": "2026-08-04",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Required: '1-2+ years of professional software engineering experience'; L2 junior duties",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer, Platform Access (L2)",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
-      "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
-      "opened": "2026-10-06",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Experience: '1-2+ years of professional software engineering or DevOps/Platform engineering experience'; duties 'turn well-scoped tasks into working code', 'grow into a more senior role'",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "Tracker history: Twilio 'Software Engineer – Early Career - Messaging API' US first seen 2025-06-17, reposted 2025-07-01; 2025-05-23 New Grad: Software Engineer",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/twilio",
-  "jobs_spec": "gh:twilio",
-  "evidence": "Twilio Greenhouse API 2026-10-20 (133, full; Segment posts under Twilio): no new-grad title live. Two L2 SWEs (1-2+ yrs, junior duties) still live via detail, counted as unlabeled; other L2 (3+ yrs), L3 and Video (2-3+) not counted.",
-  "confidence": "low",
-  "dropped": []
+ "checked": "2026-10-27",
+ "postings": [
+  {
+   "title": "Software Engineer L2-Messaging API",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
+   "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
+   "opened": "2026-08-21",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "L2; required is only 'Bachelor's and/or Master's degree' plus Go or Java, no years; same Messaging API team as last year's Early Career posting",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Platform Engineering (L2)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
+   "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
+   "opened": "2026-08-04",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Required: '1-2+ years of professional software engineering experience'; L2 junior duties",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Platform Access (L2)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
+   "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
+   "opened": "2026-10-06",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Experience: '1-2+ years of professional software engineering or DevOps/Platform engineering experience'; duties 'turn well-scoped tasks into working code', 'grow into a more senior role'",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-07-01",
+ "last_cycle_basis": "Tracker history: Twilio 'Software Engineer – Early Career - Messaging API' US first seen 2025-06-17, reposted 2025-07-01; 2025-05-23 New Grad: Software Engineer",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "company": "Twilio Segment",
+ "tier": 4,
+ "status": "open",
+ "jobs_page": "https://job-boards.greenhouse.io/twilio",
+ "jobs_spec": "gh:twilio",
+ "evidence": "Twilio Greenhouse API 2026-10-27 (134, full; Segment posts under Twilio): no new-grad title. Three Remote-US L2 SWEs still live, kept as unlabeled (Messaging API lists no years). SWE L2 8100236 needs 3+ yrs; Video 2-3+; L3 not counted.",
+ "confidence": "medium"
 }

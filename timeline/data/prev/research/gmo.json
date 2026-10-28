@@ -1,0 +1,31 @@
+{
+ "company": "GMO",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Quantitative Technology Associate - Class of 2027",
+   "url": "https://jobs.lever.co/gmo/df44f4c5-cb3f-4960-a984-5b26acc72962",
+   "location": "Boston, MA",
+   "opened": "2026-08-31",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": "Class of 2027, joining June 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Two-year rotational technology program for students completing undergraduate or graduate programs; application development, data and AI rotations, Python required",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker history; none found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://jobs.lever.co/gmo",
+ "jobs_spec": "lever:gmo",
+ "jobs_spec_basis": "gmo.com Americas careers page links to lever.co/gmo; board lists Boston GMO roles",
+ "evidence": "GMO (Boston investment manager) careers page links to jobs.lever.co/gmo. Lever API 2026-10-26 (10 jobs) lists Quantitative Technology Associate Class of 2027, live (HTTP 200, no end date, says no visa sponsorship). Other roles are non-SWE.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
+}

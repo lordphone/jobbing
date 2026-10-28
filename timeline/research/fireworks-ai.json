@@ -1,7 +1,6 @@
 {
  "company": "Fireworks AI",
  "tier": 2,
- "checked": "2026-10-20",
  "status": "open",
  "postings": [
   {
@@ -14,17 +13,18 @@
    "grad_window": "Bachelor's or Master's completed within last 6 months or by Summer 2027; Dec 2026 grads prioritized",
    "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": null,
+   "level_basis": "Title 'New Grad (BS/MS)'; 'built for new graduates'",
    "no_sponsorship": false
   }
  ],
- "dropped": [],
  "last_cycle_opened": "2025-10-13",
  "last_cycle_basis": "tracker first seen: 'Software Engineer - Early Career - Cloud Infrastructure' (Greenhouse job 4036755009, now off the board)",
- "excluded_reason": null,
- "no_sponsorship": false,
  "jobs_page": "https://jobs.ashbyhq.com/fireworks",
  "jobs_spec": "ashby:fireworks",
- "evidence": "Ashby API 2026-10-20 (90, full): MTS New Grad (BS/MS) live, Dec 2026 grads prioritized, published 2026-09-08. Two 2026 PhD New Grad MTS roles left out. Evals Platform says 1-7 yrs at multiple levels, not counted. Status unchanged.",
- "confidence": "high"
+ "evidence": "Ashby API 2026-10-27 (90, full): MTS New Grad (BS/MS) live, Dec 2026 grads prioritized, published 2026-09-08. 2026 PhD New Grad MTS Systems Infrastructure left out (PhD only). Other MTS roles ask 3+ yrs or are senior.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

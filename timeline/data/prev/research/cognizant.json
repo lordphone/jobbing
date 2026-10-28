@@ -1,69 +1,61 @@
 {
-  "company": "Cognizant",
-  "tier": 5,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Entry-Level Engineer - Python, Data Analytics & Generative AI Life Sciences Commercial",
-      "url": "https://careers.cognizant.com/us-en/jobs/47523/entry-level-engineer-python-data-analytics-generative-ai-life-sciences-commercial/",
-      "location": "Bridgewater, NJ",
-      "opened": "2026-10-15",
-      "date_source": "page text (published date)",
-      "deadline": null,
-      "grad_window": "recent graduates or early-career (no class year)",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
-    },
-    {
-      "title": "AI Engineer (IOA)",
-      "url": "https://careers.cognizant.com/us-en/jobs/47777/ai-engineer-ioa/",
-      "location": "Dallas, TX",
-      "opened": "2026-09-10",
-      "date_source": "page text",
-      "deadline": null,
-      "grad_window": "start Oct/Nov 2026 or Jan/Feb 2027",
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "no years of experience stated; $65,000 salary; bachelor's or master's degree in CS/data science/AI",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Full Stack Software Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/00071043911/full-stack-software-developer/",
-      "location": "Plano, TX",
-      "opened": "2026-10-17",
-      "date_source": "page text (published date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "no years required; 'will be mentored by experienced professionals'; basic React and exposure to Spring Boot; bachelor's or master's in CS",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Full Stack Software Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/46857/full-stack-software-developer/",
-      "location": "United States (no city listed)",
-      "opened": "2026-10-15",
-      "date_source": "page text (published date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "no years required; mentorship from experienced professionals; bachelor's and/or master's degree; willingness to learn",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history has zero Cognizant entries; no dated first-party record of last cycle's US entry SWE posting",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://careers.cognizant.com/us-en/jobs/",
-  "jobs_spec": null,
-  "evidence": "WebFetch of the four posting pages 2026-10-19: Entry-Level Engineer Python/GenAI (Bridgewater), AI Engineer IOA (Dallas), two Full Stack Software Developer postings show Apply now, no years required; all say Cognizant cannot provide sponsorship. Two pages carry boilerplate saying the position may not be currently available. Not every US posting read.",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "dropped": []
+ "company": "Cognizant",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Entry-Level Engineer - Python, Data Analytics & Generative AI Life Sciences Commercial",
+   "url": "https://careers.cognizant.com/us-en/jobs/47523/entry-level-engineer-python-data-analytics-generative-ai-life-sciences-commercial/",
+   "location": "Bridgewater, NJ",
+   "opened": "2026-10-15",
+   "date_source": "page text (published date)",
+   "deadline": null,
+   "grad_window": "recent graduates or early-career (no class year)",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": true
+  },
+  {
+   "title": "AI Engineer (IOA)",
+   "url": "https://careers.cognizant.com/us-en/jobs/47777/ai-engineer-ioa/",
+   "location": "Dallas, TX",
+   "opened": "2026-09-10",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": "start Oct/Nov 2026 or Jan/Feb 2027",
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "no years of experience stated; $65,000 salary; bachelor's or master's degree in CS/data science/AI",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Full Stack Software Developer",
+   "url": "https://careers.cognizant.com/us-en/jobs/46857/full-stack-software-developer/",
+   "location": "United States (no city listed)",
+   "opened": "2026-10-15",
+   "date_source": "page text (published date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "no years required; $65,000; bachelor's and/or master's degree; willingness to learn",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://careers.cognizant.com/us-en/jobs/00071043911/full-stack-software-developer/",
+   "reason": "gone: not rechecked this run; earlier run saw HTTP 404 and not in sitemap"
+  }
+ ],
+ "last_cycle_basis": "no dated first-party record of last cycle's US entry SWE posting",
+ "jobs_page": "https://careers.cognizant.com/us-en/jobs/",
+ "jobs_spec": null,
+ "evidence": "2026-10-26: browser pane unavailable (Cloudflare blocks curl); fetched the three posting pages with WebFetch, each shows Apply now, $65K, no sponsorship, no years. Bridgewater and Full Stack carry 'not currently available' talent-community boilerplate and Aug/Sep 2026 start. Site keyword search did not filter.",
+ "confidence": "low",
+ "checked": "2026-10-26",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "last_cycle_opened": null
 }

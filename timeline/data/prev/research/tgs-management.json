@@ -1,17 +1,16 @@
 {
   "company": "TGS Management",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.tgsmc.com/join-our-team/",
   "jobs_spec": null,
-  "jobs_spec_basis": "Lever tgsmc API returns [], so no spec; kept null",
-  "evidence": "2026-10-19: careers page lists no openings or new-grad program, only a Lever link; Lever tgsmc API returns [] (no postings). No tracker history.",
-  "confidence": "medium"
+  "evidence": "2026-10-26: tgsmc.com join-our-team page lists no openings or new-grad program; it links to a Lever general-interest form, and the Lever API (tgsmc) lists no postings. No history in trackers.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": []
 }

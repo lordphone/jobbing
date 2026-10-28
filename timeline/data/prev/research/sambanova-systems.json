@@ -1,16 +1,30 @@
 {
   "company": "SambaNova Systems",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Performance Engineer - New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004",
+      "location": "Austin, TX; San Jose, CA",
+      "opened": "2026-10-20",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "title 'New Grad'; requires B.S. in CS/EE",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker postings in the 2025-07..2026-01 window; only the 2026-07-13 New Grad posting seen",
+  "last_cycle_basis": "no tracker postings in 2025-07..2026-01 window; an earlier this-cycle New Grad posting (6115124004) first seen 2026-07-13 is gone",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/sambanovasystems",
   "jobs_spec": "gh:sambanovasystems",
-  "evidence": "Greenhouse full board (58) 2026-10-19: 'AI Systems Performance Engineer New Grad' (San Jose, first seen 2026-07-13, job 6115124004) is gone, Greenhouse API returns 404. Remaining: Forward Deployment Engineer US asks 5+ yrs, rest senior, hardware or non-US.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (63) 2026-10-26: AI Performance Engineer - New Grad (Austin, San Jose; first_published 2026-10-20) live via API. Forward Deployment Engineer needs 5+ yrs. No citizenship text.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

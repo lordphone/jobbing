@@ -1,16 +1,21 @@
 {
   "company": "Toast",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8046879",
+      "reason": "gone: Greenhouse API 404 Job not found"
+    }
+  ],
   "last_cycle_opened": "2026-02-11",
-  "last_cycle_basis": "tracker first seen 'Software Engineer 1 - Backend' Remote Canada 2026-02-11 (off-cycle, outside Jul-Jan window); no US entry-level",
+  "last_cycle_basis": "tracker first seen 'Software Engineer 1 - Backend' Remote Canada 2026-02-11 (off-cycle, outside Jul-Jan window); Software Engineer 1 Fullstack Toronto first seen 2026-07-10",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/toast",
   "jobs_spec": "gh:toast",
-  "evidence": "Rechecked 2026-10-19 (board API plus detail): SWE roles are II/Senior/Staff/Principal. 'Software Engineer 1 - Fullstack' Toronto (first seen 2026-07-10, gh_jid 8046879) returns 404 from the Greenhouse API and is not on the board, so closed.",
-  "confidence": "medium"
+  "evidence": "gh:toast full board 2026-10-27 (337): SWE roles are II/Senior/Principal/Staff (Toronto SWE II asks 2-6 yrs or lists none, II level, not counted); no SWE I or grad title. Software Engineer 1 Fullstack Toronto (gh_jid 8046879, first seen 2026-07-10) now returns API 404.",
+  "confidence": "high"
 }

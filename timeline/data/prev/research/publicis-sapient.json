@@ -1,7 +1,7 @@
 {
   "company": "Publicis Sapient",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -9,12 +9,12 @@
       "url": "https://careers.publicissapient.com/job-details/2026-174321-java-application-support-engineer-boston",
       "location": "Boston, MA",
       "opened": "2026-09-18",
-      "date_source": "site search API releasedDate",
+      "date_source": "page text (datePosted)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "site experienceLevel: Entry Level; pay $80,000-$100,000",
+      "level_basis": "Site search API labels it experienceLevel 'Entry Level'; learn the end-to-end trade lifecycle",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +25,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.publicissapient.com/job-search",
   "jobs_spec": null,
-  "evidence": "Site search API (379 jobs) read 2026-10-19: only Entry Level tech role is Java Application Support Engineer (Boston, released 2026-09-18, $80-100K, page shows Apply). Software Engineer Intern is Class of 2028. Other tech roles are Senior or Associate Level (titled Senior). Borderline SWE (production support).",
-  "confidence": "medium"
+  "evidence": "Site search API 2026-10-26 (US plus Canada): only Entry Level tech role is Java Application Support Engineer, Boston, released 2026-09-18, listed. Borderline SWE (production support). SWE Intern is Class of 2028; AI/ML Engineer is Associate Level needing 5+ yrs.",
+  "confidence": "low"
 }

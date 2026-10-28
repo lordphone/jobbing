@@ -1,7 +1,7 @@
 {
   "company": "GE HealthCare",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": "Bachelor's completed by July 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "entry-level rotational program; hardware or software focus; CS a preferred major",
+      "level_basis": "Recent college graduate program; hardware or software focus, CS a preferred major",
       "no_sponsorship": true
     },
     {
@@ -27,7 +27,33 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Required: bachelor's with minimum 2 years software engineering experience; $103,040-$154,560; no lead or mentor duties",
+      "level_basis": "Required: bachelor's with minimum 2 years software engineering experience; no lead or mentor duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer (MRI compute, Linux packaging)",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Software-Engineer_R4048153-1",
+      "location": "Waukesha, WI",
+      "opened": "2026-10-20",
+      "date_source": "workday postedOn (Posted Today)",
+      "deadline": "2026-10-27",
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's in CS/EE/CE with minimum 2 years of experience; no lead or mentor duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Software Engineer - Embedded Systems, Anesthesia Devices",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Madison/Software-Engineer---Embedded-Systems--Anesthesia-Devices_R4047729-1",
+      "location": "Madison, WI",
+      "opened": "2026-10-21",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Required: bachelor's with 2+ years of software development experience; 'work with experienced engineers and gradually take ownership'; no lead or mentor duties",
       "no_sponsorship": true
     }
   ],
@@ -35,9 +61,9 @@
   "last_cycle_opened": "2025-11-25",
   "last_cycle_basis": "tracker: Software Engineer 1 - MIM Platform (Orange, OH) first seen 2025-11-25",
   "excluded_reason": null,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "jobs_page": "https://careers.gehealthcare.com/global/en/search-results",
   "jobs_spec": "wd:gehc/wd5/GEHC_ExternalSite",
-  "evidence": "Workday full board (1019) 2026-10-19 + detail: Edison EDP (hardware or software focus, bachelor's by July 2027) and Bellevue SWE (2 yrs) live. Full Stack Waukesha 4+ yrs, AI Applications 4+, AI Algorithm Developer 4 yrs, Beachwood cloud 2-4 yrs. All say no visa sponsorship.",
-  "confidence": "medium"
+  "evidence": "Workday board 2026-10-26 (1059, full): all four prior postings still on board: Edison EDP (Waukesha), Bellevue SWE, Waukesha SWE (ends 10-27, 2 yrs), Madison embedded SWE. Full Stack SWE Waukesha needs 4+ yrs, left out. All say no visa sponsorship. Same as prior run.",
+  "confidence": "high"
 }

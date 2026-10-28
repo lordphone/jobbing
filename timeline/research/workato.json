@@ -1,16 +1,16 @@
 {
   "company": "Workato",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No first-party or tracker record found for 2025-07 to 2026-01.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker history; none found",
   "jobs_page": "https://job-boards.greenhouse.io/workato",
   "jobs_spec": "gh:workato",
-  "evidence": "Greenhouse API 2026-10-20, 65 postings full: only US engineering role is Forward Deployed Engineer (Boston/NY/Palo Alto, 4+ yrs per earlier read). Other engineering is Europe/India/Singapore or senior.",
-  "confidence": "high"
+  "evidence": "Greenhouse full board (51) read 2026-10-27: no US or Canada engineering roles; engineering is Singapore, India, Europe or senior/manager. No new-grad or entry SWE this or last cycle.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,30 +1,30 @@
 {
-  "company": "BNP Paribas",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "2027 - Full Time Assistant Vice President - Corporate Functions, Analytics Lab (Machine Learning Engineer)",
-      "url": "https://group.bnpparibas/en/careers/job-offer/2027-full-time-assistant-vice-president-corporate-functions-analytics-lab-machine-learning-engineer",
-      "location": "Jersey City, NJ",
-      "opened": "on or before 2026-08-17",
-      "date_source": "tracker first seen / earlier run",
-      "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; not found in tracker history. Earlier note: Montreal 'IT Analyst - Graduate' (Dec 2025-Jun 2026 window), not US.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
-  "jobs_spec": null,
-  "evidence": "Reopened the posting page 2026-10-19: 'SORRY, THIS POSITION IS ALREADY FILLED'. Careers search for software engineer returned no US entry-level SWE (hits are Poland, India, Europe). Earlier read of 336 Technology offers found none.",
-  "confidence": "high"
+ "company": "BNP Paribas",
+ "tier": 5,
+ "status": "closed",
+ "postings": [
+  {
+   "title": "2027 - Full Time Assistant Vice President - Corporate Functions, Analytics Lab (Machine Learning Engineer)",
+   "url": "https://group.bnpparibas/en/careers/job-offer/2027-full-time-assistant-vice-president-corporate-functions-analytics-lab-machine-learning-engineer",
+   "location": "Jersey City, NJ",
+   "opened": "on or before 2026-08-17",
+   "date_source": "tracker first seen / earlier run",
+   "deadline": null,
+   "grad_window": "Dec 2026 - Jun 2027",
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "unknown; not found in tracker history. Earlier note: Montreal 'IT Analyst - Graduate' (Dec 2025-Jun 2026 window), not US.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://group.bnpparibas/en/careers/all-job-offers",
+ "jobs_spec": null,
+ "evidence": "No API. Browser 2026-10-26: the 2027 Analytics Lab ML Engineer (Jersey City, Graduate Programme) page says position already filled. The US listing (34 offers) has only VP/AVP/Director roles plus 2027 summer internships; no entry SWE. Kept from earlier run.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "dropped": []
 }

@@ -1,8 +1,8 @@
 {
-  "company": "CrowdStrike",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "open",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "postings": [
     {
       "title": "Software Engineer - Sensor, Sensor Performance and Stability (Hybrid)",
@@ -18,13 +18,13 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2026-02-17",
+  "company": "CrowdStrike",
+  "tier": 3,
+  "status": "open",
   "last_cycle_basis": "tracker: Engineer 1 - Sensor - SSP (Toronto) first seen 2026-02-17; Engineer 1 New Grad - Agentic AI (Sunnyvale) 2026-06-11, closed; none Jul 2025-Jan 2026",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
   "jobs_spec": "wd:crowdstrike/wd5/crowdstrikecareers",
-  "evidence": "Workday board 2026-10-19 (346, full) lists R29874 (Redmond WA; Sunnyvale CA), live, 'hiring an entry-level engineer', BS, no years, startDate 2026-08-28. Sensor macOS is Engineer 3, Mac/Linux/Windows sensor and Product Security SWE read experienced. No 2027 new-grad title.",
+  "evidence": "Workday full board (384) read 2026-10-26: R29874 (Redmond WA; Sunnyvale CA) live via API, 'hiring an entry-level engineer', BS, no years, $90-125K. Sensor macOS and Mac/Linux/Windows roles read as experienced. No 2027 new-grad title.",
   "confidence": "medium"
 }

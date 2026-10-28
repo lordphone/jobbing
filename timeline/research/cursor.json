@@ -1,30 +1,30 @@
 {
-  "company": "Cursor",
-  "tier": 1,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, New Grad 2027",
-      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
-      "location": "San Francisco, CA; New York, NY; Palo Alto, CA",
-      "opened": "2026-09-08",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": "Spring 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found: tracker shows only this posting (Simplify first seen 2026-09-09)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/cursor",
-  "jobs_spec": "ashby:cursor",
-  "evidence": "ashby:cursor full board (134) read 2026-10-20: New Grad 2027 SWE live via API (graduating Spring 2027; SF, NY, Palo Alto). Other SWE postings give no years or entry wording, left out.",
-  "confidence": "high"
+ "company": "Cursor",
+ "tier": 1,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, New Grad 2027",
+   "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+   "location": "San Francisco, CA; New York, NY; Palo Alto, CA",
+   "opened": "2026-09-08",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": "Spring 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found: tracker shows only this posting (Simplify first seen 2026-09-09)",
+ "jobs_page": "https://jobs.ashbyhq.com/cursor",
+ "jobs_spec": "ashby:cursor",
+ "evidence": "ashby:cursor full board (122) and detail read 2026-10-27: New Grad 2027 SWE live via API (graduating Spring 2027; SF, NY, Palo Alto), no citizenship or ITAR text. Other SWE postings show no entry wording.",
+ "confidence": "high",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-27"
 }

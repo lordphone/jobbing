@@ -1,17 +1,16 @@
 {
   "company": "Wood Mackenzie",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no entry-level SWE posting in 2025-07 to 2026-01; Software Engineer I (Boston) appeared Feb-Mar 2025 only, closed",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
   "jobs_spec": "wd:woodmac/wd3/woodmaccareers",
-  "jobs_spec_basis": "woodmac.com/careers/overview links to woodmac.wd3.myworkdayjobs.com/woodmaccareers",
-  "evidence": "Workday board 2026-10-20 (66, full) read fresh: only analyst, research, sales and consulting roles (IT Programs consulting titles are not engineering), no software, backend or ML engineers. Software Engineer I Boston closed in 2025.",
-  "confidence": "high"
+  "evidence": "Workday board (59, full) read 2026-10-27: only analyst, research, sales, consulting, product and admin roles. No software or data engineering new-grad roles this or last cycle.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null,
+  "last_cycle_basis": "jobs.py history: no entry-level SWE tracker postings in 2025-07..2026-01"
 }

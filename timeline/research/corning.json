@@ -1,43 +1,30 @@
 {
-  "company": "Corning",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Engineer, Software Developer",
-      "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/",
-      "location": "Corning, NY",
-      "opened": "2026-10-05",
-      "date_source": "page text (posting date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's; no years required, \"coursework, internships, co-ops, or project work\" counts as experience",
-      "no_sponsorship": true
-    },
-    {
-      "title": "Division Digital Software Engineer",
-      "url": "https://corningjobs.corning.com/job/x/1405277500/",
-      "location": "Concord, NC",
-      "opened": "2026-09-27",
-      "date_source": "page text (posting date)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "\"BS in Computer Science... Minimum 1+ years industry experience\"",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": "2026-01-14",
-  "last_cycle_basis": "tracker first-seen for 'IT Warehouse System Developer' (Wilmington, NC) 2026-01-14",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://corningjobs.corning.com",
-  "jobs_spec": null,
-  "evidence": "Both postings re-fetched 2026-10-20, Apply now present, each says it does not support immigration sponsorship. Software Developer (early career, Corning NY) and Division Digital SWE (1+ yr, Concord NC) count. Prior run: IT/OT SWE need 5 yrs; data roles 3-7+.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Corning",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Division Digital Software Engineer",
+   "url": "https://corningjobs.corning.com/job/Concord-Division-Digital-Software-Engineer-NC-28026/1405277500/",
+   "location": "Concord, NC",
+   "opened": "2026-09-27",
+   "date_source": "page text (posting date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "\"BS in Computer Science... Minimum 1+ years industry experience\"",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": "2026-01-14",
+ "last_cycle_basis": "tracker first-seen for 'IT Warehouse System Developer' (Wilmington, NC) 2026-01-14",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://corningjobs.corning.com",
+ "jobs_spec": null,
+ "evidence": "Corning SuccessFactors searches and posting pages fetched 2026-10-27. Division Digital SWE (Concord NC, 1+ yr, Apply now, no sponsorship) live, page now dated Oct 26 (earlier Sep 27 kept). Digital SWE IT/OT Concord asks 5 yrs; Applications Developer (Hickory) 3+; CORE rotational program is engineering-only.",
+ "confidence": "medium",
+ "dropped": []
 }

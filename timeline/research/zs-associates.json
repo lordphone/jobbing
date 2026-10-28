@@ -1,30 +1,30 @@
 {
- "company": "ZS Associates",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "leftover_2026",
- "postings": [
-  {
-   "title": "Business Technology Solutions Associate",
-   "url": "https://jobs.zs.com/jobs/67648",
-   "location": "Evanston, IL",
-   "opened": "2026-09-22",
-   "date_source": "tracker first seen (Jibe posted_date now 2026-10-15)",
-   "deadline": null,
-   "grad_window": "degree completed, start full-time 2026 (posting text)",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "Recent Graduate track; 0-3+ yrs; implements technology solutions in Python/SQL; asks Bachelor's/Master's in CS/MIS",
-   "no_sponsorship": true
-  }
- ],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "no earlier ZS SWE new-grad posting found in tracker history; unknown",
- "excluded_reason": null,
- "no_sponsorship": true,
- "jobs_page": "https://jobs.zs.com/jobs",
- "jobs_spec": null,
- "evidence": "Jibe API (290 jobs) read 2026-10-20: only grad tech role is Business Technology Solutions Associate (Evanston, live), text needs full-time start in 2026, so not for 2027 grads. AI Engineer Associate Consultant and Associate LLM Engineer (Toronto) ask 1-5 yrs with architecture-lead duties; BTS Associate Consultant roles ask 3-5+ yrs. No sponsorship.",
- "confidence": "medium"
+  "company": "ZS Associates",
+  "tier": 5,
+  "status": "leftover_2026",
+  "postings": [
+    {
+      "title": "Business Technology Solutions Associate",
+      "url": "https://jobs.zs.com/jobs/67648",
+      "location": "Evanston, IL",
+      "opened": "2026-09-22",
+      "date_source": "tracker first seen (Jibe posted_date now 2026-10-15)",
+      "deadline": null,
+      "grad_window": "degree completed, start full-time 2026 (posting text)",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Recent Graduate tag; 0-3+ yrs; Python/SQL tech solutions; Bachelor's/Master's CS/MIS",
+      "no_sponsorship": true
+    }
+  ],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker history found",
+  "jobs_page": "https://jobs.zs.com/jobs",
+  "jobs_spec": null,
+  "evidence": "Jibe API (282 jobs, all pages) 2026-10-27: only US recent-grad tech role is Business Technology Solutions Associate (Evanston, 67648), text says start full-time in 2026, so a 2026-cycle leftover. AI Engineer Associate Consultant (Princeton) has architecture-ownership duties; Toronto LLM Engineer roles ask 1-4 yrs; left out.",
+  "confidence": "medium",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

@@ -1,9 +1,34 @@
 {
   "company": "Twitch",
   "tier": 3,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
+      "location": "San Francisco, CA",
+      "opened": "2026-10-26",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "location": "Seattle, WA",
+      "opened": "2026-10-21",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
@@ -33,11 +58,12 @@
   ],
   "last_cycle_opened": "2025-07-28",
   "last_cycle_basis": "tracker first seen 2025-07-28: Software Development Engineer I - Frontend & Mobile (job-boards.greenhouse.io/twitch/jobs/8093301002)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/twitch",
   "jobs_spec": "gh:twitch",
-  "evidence": "Greenhouse board read in full (58) 2026-10-20. Two Software Engineer I postings (SF, Bachelor's + 1+ yrs) live via API and detail. SDE Security Platform needs 3+ yrs. No sponsorship or citizenship line.",
+  "evidence": "Greenhouse board read in full (62) 2026-10-27. Four Software Engineer I postings (SF x3, Seattle) live via API and detail. SDE Security Platform and Incident Response need 3+ yrs; SWE II Fintech not entry; interns not counted. No sponsorship or citizenship line.",
   "confidence": "high",
-  "dropped": []
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null,
+  "checked": "2026-10-27"
 }

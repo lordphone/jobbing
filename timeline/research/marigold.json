@@ -1,0 +1,17 @@
+{
+  "company": "Marigold",
+  "tier": 5,
+  "checked": "2026-10-27",
+  "status": "closed",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": "2026-01-08",
+  "last_cycle_basis": "tracker first seen: Software Engineer (Remote USA) 2026-01-08; earlier New Grad SWE 2024-09-08",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold",
+  "jobs_spec": "wd:campaignmonitor/wd5/marigold",
+  "jobs_spec_basis": "Meetmarigold careers redirects to Workday campaignmonitor/marigold; board tested",
+  "evidence": "Workday full board (5) 2026-10-27: only 3 Senior SWE (Australia) and non-eng roles. Tracker Software Engineer (Remote USA, R2356) absent from board and its CXS endpoint returns 403 permission denied (how Workday answers removed reqs); browser pane unavailable. Kept closed.",
+  "confidence": "low"
+}

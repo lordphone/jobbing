@@ -1,16 +1,30 @@
 {
- "company": "Meta",
- "tier": 1,
- "checked": "2026-10-19",
- "status": "not_yet",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": "2025-07-07",
- "last_cycle_basis": "tracker first-seen 2025-07-07, Software Engineer - University Grad - Research Infrastructure; general Software Engineer (University Grad) 2025-08-14 (jobs.py history)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://www.metacareers.com/jobsearch?q=University%20Grad",
- "jobs_spec": null,
- "evidence": "2026-10-19 browser: 'University Grad' search lists 17 items: Montreal AI research engineer, Network Production Engineer (Menlo Park/EU), ASIC, PhD research and interns. Search 'Software Engineer University Grad' in the Engineering grad role filter returns 0. No US/Toronto/Vancouver 2027 SWE grad posting yet.",
- "confidence": "medium"
+  "company": "Meta",
+  "tier": 1,
+  "checked": "2026-10-26",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Computer Vision Engineer, Reality Labs",
+      "url": "https://www.metacareers.com/profile/job_details/1725888355192236",
+      "location": "Redmond, WA",
+      "opened": "on or before 2026-10-26",
+      "date_source": "page text (no posted date shown)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Meta's own job search tags this posting 'University Grad'; minimum: in process of obtaining a bachelor's, 2+ yrs computer vision/perception",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-07-07",
+  "last_cycle_basis": "tracker first-seen 2025-07-07, Software Engineer - University Grad - Research Infrastructure; general Software Engineer (University Grad) 2025-08-14 (jobs.py history)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://www.metacareers.com/jobsearch?q=University%20Grad",
+  "jobs_spec": null,
+  "evidence": "Browser 2026-10-26: University Grad search (33 items, 4 pages) read in full. Computer Vision Engineer, Reality Labs (Redmond, WA) is tagged University Grad, Apply now live. Research Engineer, AI (University Grad) pays in CAD (Canada, not listed in Toronto/Vancouver). Others are network production, ASIC, PhD research or interns.",
+  "confidence": "medium"
 }

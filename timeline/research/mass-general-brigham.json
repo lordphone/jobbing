@@ -1,16 +1,16 @@
 {
   "company": "Mass General Brigham",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2025-10-30",
   "last_cycle_basis": "tracker first-seen: Software Engineer I, Cambridge MA 2025-10-30 (since closed)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal",
   "jobs_spec": "wd:massgeneralbrigham/wd1/mgbexternal",
-  "evidence": "Workday board read in full (2000 listed): Systems Engineer I (infra, Somerville), Data Engineer, EDI Developer; no entry SWE live. Last cycle's Software Engineer I is closed.",
-  "confidence": "high"
+  "evidence": "Workday board (2000 listed, full; pagination varies between runs) read 2026-10-27: Systems Engineer I is sysadmin work (1-3 yrs), Data Engineer asks 2-5 yrs; other engineers Senior or facilities. No entry-level SWE live. Last cycle SWE I (Cambridge, 2025-10) is gone.",
+  "confidence": "high",
+  "dropped": [],
+  "checked": "2026-10-27"
 }

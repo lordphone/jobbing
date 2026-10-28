@@ -1,43 +1,56 @@
 {
-  "company": "Asana",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Data Loading Infrastructure",
-      "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
-      "location": "San Francisco, CA",
-      "opened": "2026-09-30",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience working within large, well-maintained codebases'; no lead/mentor duties; $171,000-$190,000",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522",
-      "location": "San Francisco, CA",
-      "opened": "2026-10-14",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience working within large, well-maintained codebases'; no lead/mentor duties; pay not listed",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "on or before 2026-06-03",
-  "last_cycle_basis": "Tracker: 'Software Engineer Early Career - Product' (Vancouver, Canada) first seen on or before 2026-06-03; outside the Jul-Jan window. US new-grad opening unknown.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/asana",
-  "jobs_spec": "gh:asana",
-  "evidence": "gh:asana (full) 2026-10-19: SF Software Engineer (8194522) and SF Data Loading Infrastructure need 2+ yrs, no lead/mentor duties; counted unlabeled (borderline). AI Teammates Experience asks 3+, Vancouver SWE 3+, FDE 6+. Vancouver Early Career (Jun 2026) gone.",
-  "confidence": "low",
-  "dropped": []
+ "company": "Asana",
+ "tier": 3,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Data Loading Infrastructure",
+   "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
+   "location": "San Francisco, CA",
+   "opened": "2026-09-30",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience working within large, well-maintained codebases'; no lead/mentor duties; $171,000-$190,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - AI Teammates Platform",
+   "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522",
+   "location": "San Francisco, CA",
+   "opened": "2026-10-14",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience working within large, well-maintained codebases'; no lead/mentor duties; $171,000-$190,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, AI",
+   "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
+   "location": "Vancouver, BC",
+   "opened": "2026-10-23",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of professional software engineering experience'; owns small-to-medium features, no lead/mentor duties",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "on or before 2026-06-03",
+ "last_cycle_basis": "Tracker: 'Software Engineer Early Career - Product' (Vancouver, Canada) first seen on or before 2026-06-03; outside the Jul-Jan window. US new-grad opening unknown.",
+ "jobs_page": "https://job-boards.greenhouse.io/asana",
+ "jobs_spec": "gh:asana",
+ "evidence": "gh:asana (111, full) read 2026-10-26 via GH API: SF AI Teammates Platform and SF Data Loading Infrastructure, plus new Vancouver Software Engineer, AI (2026-10-23), require 2+ yrs with no lead/mentor duties; kept unlabeled. AI Teammates Experience 3+, Vancouver Product SWE 3+, FDE 6+.",
+ "confidence": "medium",
+ "checked": "2026-10-26",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

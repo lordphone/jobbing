@@ -1,7 +1,7 @@
 {
  "company": "Epsilon",
  "tier": 5,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "open",
  "postings": [
   {
@@ -14,20 +14,46 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "1-3 years of experience and/or directly related college coursework; works under guidance of senior engineers",
+   "level_basis": "board seniority 'Entry'; 1-3 years of experience and/or related coursework; $73,500-$136,500",
    "no_sponsorship": false
   },
   {
-   "title": "Associate, Client Integrations Engineer (New Grad Program; integration engineering, borderline SWE)",
+   "title": "Associate, Client Integrations Engineer (New Grad Program)",
    "url": "https://careers.publicisgroupe.com/jobs/174428",
    "location": "Chicago, IL",
    "opened": "2026-10-05",
    "date_source": "page text (Publicis Jibe API posted_date)",
-   "deadline": "2026-10-27",
+   "deadline": "2026-12-08",
    "grad_window": null,
    "live_verified": "api",
    "level": "new-grad title",
    "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "Full Stack Developer",
+   "url": "https://careers.publicisgroupe.com/jobs/176815",
+   "location": "Chicago, IL",
+   "opened": "2026-10-20",
+   "date_source": "page text (Publicis Jibe API posted_date)",
+   "deadline": "2026-11-16",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "board seniority 'Entry'; requires 2+ years; $73,500-$136,500",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer",
+   "url": "https://careers.publicisgroupe.com/jobs/174433",
+   "location": "Irving, TX",
+   "opened": "2026-10-07",
+   "date_source": "page text (Publicis Jibe API posted_date)",
+   "deadline": "2026-12-08",
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "board seniority 'Entry'; two or three years of Java; $73,500-$136,500; no lead duties",
    "no_sponsorship": false
   }
  ],
@@ -38,6 +64,6 @@
  "no_sponsorship": false,
  "jobs_page": "https://careers.publicisgroupe.com/jobs?brand=Epsilon",
  "jobs_spec": null,
- "evidence": "Publicis Jibe API 2026-10-20 (3208, all read): 166907 entry SWE (Westminster CO, 1-3 yrs or coursework, deadline 11/9/2026) and 174428 New Grad Program Client Integrations Engineer (Chicago, deadline 10/27/2026) both listed. Left out: 174433 Irving (2-3 yrs Java), 176815 Full Stack (mid-level, 2+ yrs).",
+ "evidence": "Publicis Jibe API full pull (3248 jobs, 89 Epsilon US) 2026-10-27: four US entry-level engineering postings still live (Westminster, Irving, 2 Chicago); deadlines are 'anticipated' per posting text. Senior, Lead, front-end 3-5 yrs roles and Summer 2027 interns not counted; New Grad Business Systems Analyst is not SWE.",
  "confidence": "high"
 }

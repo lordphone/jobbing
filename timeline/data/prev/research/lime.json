@@ -1,16 +1,31 @@
 {
   "company": "Lime",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, IoT",
+      "url": "https://jobs.ashbyhq.com/Lime/e93d7ab4-0049-4857-aa72-d8e0b7ef3ccb",
+      "location": "Remote (Canada, must reside in Canada; no city listed)",
+      "opened": "2026-09-22",
+      "date_source": "ashby publishedDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '1+ years of industry professional software development experience'; backend SWE, no lead or mentor duties, no senior level named",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; no entry-level SWE posting found for last cycle",
+  "last_cycle_basis": "No Lime new-grad SWE in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Lime",
   "jobs_spec": null,
-  "evidence": "Ashby board read via GraphQL 2026-10-19 (59 postings): engineering is Engineering Manager, Senior/Staff or NetSuite/Analytics roles; no entry-level software role in US, Toronto or Vancouver.",
-  "confidence": "high"
+  "jobs_spec_basis": "jobs.py ashby:Lime finds no board; board read via Ashby GraphQL (jobs.ashbyhq.com/api/non-user-graphql, page name Lime)",
+  "evidence": "Ashby board via GraphQL 2026-10-26 (46 postings): only entry-ish engineering role is Software Engineer, IoT (backend, remote, must reside in Canada, 1+ yrs, published 2026-09-22, still listed); kept though not a Toronto or Vancouver city. Other engineering is Manager, Senior or Staff; no US entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

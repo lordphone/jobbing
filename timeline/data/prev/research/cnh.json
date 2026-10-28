@@ -1,16 +1,31 @@
 {
- "company": "CNH (CNH Industrial)",
- "status": "no_program_found",
- "postings": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history; none found",
- "jobs_page": "https://join.cnh.com/search/?q=software%20engineer",
- "jobs_spec": null,
- "evidence": "join.cnh.com browser search 'software' (146 results) 2026-10-19 plus prior keyword searches: US software roles are interns (Software Engineer Intern x4), Software Engineer Tempe (requires Master's plus 3 yrs each in Rust, C++, AI and more), Software Test Engineer (HIL, embedded), or Senior. Others India/Europe. No full-time entry SWE.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-19",
- "excluded_reason": null,
- "no_sponsorship": false,
- "dropped": []
+  "postings": [
+    {
+      "title": "Software Engineer I",
+      "url": "https://join.cnh.com/job/Oak-Brook-Software-Engineer-I-IL-60521/1374441255/",
+      "location": "Oak Brook, IL",
+      "opened": "on or before 2026-10-26",
+      "date_source": "page text (join.cnh.com RSS pubDate 2026-10-26)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Software Engineer I; 'Bachelor's or Master's in Computer Science; 2 years experience or equivalent combination of education and experience (Masters + Internship)'; Job Type Full Time; $74,625-$114,425",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no new-grad SWE tracker history found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-26",
+  "company": "CNH (CNH Industrial)",
+  "tier": 5,
+  "status": "open",
+  "jobs_page": "https://join.cnh.com/search/?q=software%20engineer",
+  "jobs_spec": null,
+  "evidence": "join.cnh.com RSS keyword feeds (172 postings) and posting pages 2026-10-26: new Software Engineer I (Oak Brook, Full Time, Apply now, Master's + internship equals 2 yrs) is live and entry-level; localized duplicates share the req. AI Engineer I and data engineer are Intern or Co Op or 3-5 yrs; Software Test Engineer 1 asks 2 yrs of specific tools; others Senior.",
+  "confidence": "medium",
+  "jobs_spec_basis": "join.cnh.com is CNH's own SuccessFactors/jobs2web site; no API spec, read via RSS feed and posting pages"
 }

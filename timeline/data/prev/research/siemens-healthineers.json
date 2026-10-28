@@ -1,30 +1,30 @@
 {
-  "company": "Siemens Healthineers",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer (DevOps/.NET/Azure)",
-      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1",
-      "location": "Hoffman Estates, IL",
-      "opened": "2026-04-08",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Minimum qualifications: 0-3 years of professional experience in software development; pay $76,330 - $104,951. Borderline: 3-year upper bound.",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.siemens-healthineers.com/global/en/search-results?keywords=software%20engineer",
-  "jobs_spec": "wd:onehealthineers/wd3/SHSJB",
-  "evidence": "Workday full board (509) 2026-10-19: only entry-ish US SWE is the Hoffman Estates DevOps/.NET/Azure engineer (0-3 yrs, still on board, no sponsorship). Other US software roles are senior or presales; co-ops not counted. Borderline for this cycle.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "excluded_reason": null,
-  "dropped": []
+ "company": "Siemens Healthineers",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer (DevOps/.NET/Azure)",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1",
+   "location": "Hoffman Estates, IL",
+   "opened": "2026-04-08",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Minimum qualifications: 0-3 years of professional experience in software development; pay $76,330 - $104,951. Borderline: 3-year upper bound.",
+   "no_sponsorship": true
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found; no tracker history",
+ "jobs_page": "https://careers.siemens-healthineers.com/global/en/search-results?keywords=software%20engineer",
+ "jobs_spec": "wd:onehealthineers/wd3/SHSJB",
+ "evidence": "Workday full board (517) read 2026-10-26: only entry-ish US SWE is Hoffman Estates DevOps/.NET/Azure (0-3 yrs, no sponsorship, still live). Malvern Software Developer needs 3-6 yrs, SDE DevOps 2-5; Systems Engineer 1 Robotics is not SWE. Borderline.",
+ "confidence": "medium",
+ "no_sponsorship": false,
+ "dropped": [],
+ "excluded_reason": null,
+ "checked": "2026-10-26"
 }

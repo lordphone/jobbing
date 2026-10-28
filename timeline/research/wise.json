@@ -1,21 +1,17 @@
 {
-  "company": "Wise",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
-      "reason": "gone: Austin Graduate Software Engineer (2026-09-22), SmartRecruiters API says active=false (CLOSED) and it is absent from the board"
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no 2025 US posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://jobs.smartrecruiters.com/Wise",
-  "jobs_spec": "sr:Wise",
-  "evidence": "2026-10-20 SmartRecruiters (407, full): Austin Graduate SWE (posted 2026-09-22, no sponsorship) is closed and off the board. Current Graduate SWE is London only. US roles are all non-engineering.",
-  "confidence": "high"
+ "company": "Wise",
+ "tier": 4,
+ "status": "closed",
+ "no_sponsorship": true,
+ "last_cycle_basis": "no 2025 US posting found; tracker first-seen 2026-07-17 is a London Graduate Analyst",
+ "jobs_page": "https://jobs.smartrecruiters.com/Wise",
+ "jobs_spec": "sr:Wise",
+ "jobs_spec_basis": "unflagged; reread full SmartRecruiters board",
+ "evidence": "SmartRecruiters full board (411) 2026-10-27: Austin Graduate SWE 744000151030889 (posted 2026-09-22, no sponsorship) detail API says CLOSED. Graduate SWE 744000156354869 is London only. US roles are non-engineering; unlabeled eng roles are Europe/Singapore/Brazil.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "last_cycle_opened": null
 }

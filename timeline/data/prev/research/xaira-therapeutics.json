@@ -1,7 +1,6 @@
 {
   "company": "Xaira Therapeutics",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -18,7 +17,7 @@
       "no_sponsorship": false
     },
     {
-      "title": "Lab Automation - Robotics Engineer",
+      "title": "Robotics Control Software Engineer (Lab Automation - Robotics Engineer)",
       "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007",
       "location": "South San Francisco, CA",
       "opened": "2026-08-18",
@@ -29,6 +28,19 @@
       "level": "unlabeled",
       "level_basis": "'Recent graduates with strong robotics, automation, hardware/software integration, or relevant project experience are encouraged to apply'; no years asked; $150K-$180K. Robotics software with hardware work (borderline)",
       "no_sponsorship": false
+    },
+    {
+      "title": "Robotics Systems & Simulation Engineer",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007",
+      "location": "South San Francisco, CA",
+      "opened": "2026-10-21",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Recent graduates with substantial relevant research or project experience are encouraged to apply'; no years asked; $150K-$185K. Robotics simulation software with hardware work (borderline)",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
@@ -37,7 +49,8 @@
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xairatherapeutics",
   "jobs_spec": "gh:xairatherapeutics",
-  "evidence": "Greenhouse full board (28) read 2026-10-19: Lab Software Engineer (all levels, early-career wording, no years asked) and Lab Automation Robotics Engineer (recent grads encouraged, hardware/software) still live. AI in Residence is a 6-12 month program; other SWE roles senior.",
+  "evidence": "Greenhouse full board (31) screened 2026-10-26, matches prior run: Lab Software Engineer (hires across levels, no years), Robotics Control and Robotics Systems & Simulation (recent grads encouraged) live via API; borderline. AI in Residence is fixed-term; others science or research.",
   "confidence": "low",
+  "checked": "2026-10-26",
   "dropped": []
 }

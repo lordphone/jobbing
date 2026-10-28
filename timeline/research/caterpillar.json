@@ -1,5 +1,6 @@
 {
  "company": "Caterpillar",
+ "tier": 5,
  "status": "open",
  "postings": [
   {
@@ -12,19 +13,18 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "0-2 years of relevant experience (internships or academic projects are a plus); selected candidates must complete degree by start date",
+   "level_basis": "\"generally within the first 24 months of their career\"; \"0-2 years of relevant experience\"; internships or academic projects a plus; $89,210 start",
    "no_sponsorship": true
   }
  ],
  "last_cycle_opened": "2026-01-26",
  "last_cycle_basis": "tracker history: Software Engineer (Peoria/Chicago/Irving) first seen 2026-01-26; Early Career Software Engineer 2025-02-18 (spring)",
- "excluded_reason": null,
- "no_sponsorship": false,
  "jobs_page": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
  "jobs_spec": "wd:cat/wd5/CaterpillarCareers",
- "evidence": "Workday board (380 listed) read 2026-10-20; Software Engineer R0000392873 not in the listing but detail API loads it live, ends 2026-11-14, 0-2 yrs, no sponsorship. Autonomy (robotics, 1-2+ yrs) and Data Engineer (no years) roles not counted.",
+ "evidence": "Workday board (840, full) and search 2026-10-27: Software Engineer R0000392873 (Chicago/Peoria/Irving) live via detail API and board search (ends 2026-11-14, 0-2 yrs, first 24 months, no sponsorship). New PIM Platform SWE R0000401797 asks architecture review and migration leadership, left out. 2027 IT Foundation Program is rotational IT.",
  "confidence": "high",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

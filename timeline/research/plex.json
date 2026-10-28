@@ -1,16 +1,16 @@
 {
-  "company": "Plex",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history or first-party record of a 2025-26 new-grad SWE posting found.",
+  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Plex",
+  "tier": 4,
+  "status": "no_program_found",
+  "confidence": "medium",
   "jobs_page": "https://www.plex.tv/careers/open-jobs/",
   "jobs_spec": null,
-  "evidence": "Plex open-jobs page fetched: Current Openings (0); no ATS found. No openings at any level.",
-  "confidence": "medium"
+  "evidence": "plex.tv/careers/open-jobs fetched via curl 2026-10-27: server-rendered 'Current Openings (0) No open positions at the moment'; no external job board link found. No entry-level software role; no tracker history."
 }

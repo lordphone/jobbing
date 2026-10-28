@@ -1,16 +1,16 @@
 {
   "company": "Gusto",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "not_yet",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; Summer 2026 SWE Apprenticeship (SF/NYC) existed, now closed",
+  "last_cycle_basis": "jobs.py history gusto: no tracker postings; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/gusto",
   "jobs_spec": "gh:gusto",
-  "evidence": "Rechecked 2026-10-19 (board API plus detail): SWE roles ask 5+ and 7+ yrs, AI engineer 8+ yrs. No new-grad or apprenticeship posting live; only a sales early-career pool. Nothing opened yet this cycle.",
-  "confidence": "low"
+  "evidence": "gh:gusto full board (99) read 2026-10-26: SWE roles ask 5+ to 10+ yrs, enterprise AI engineer 8+ yrs, Workday developer senior. No new-grad or apprenticeship software posting live.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

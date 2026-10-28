@@ -1,17 +1,16 @@
 {
   "company": "REI",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
+  "last_cycle_basis": "No tracker history for REI Co-op; the tracker lead is REI Systems (federal contractor), a different company",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.rei.jobs/jobs/categories/Information%20Technology",
   "jobs_spec": null,
-  "jobs_spec_basis": "rei.jobs is REI's careers site (Jibe, no jobs.py spec); read via its /api/jobs list",
-  "evidence": "rei.jobs Jibe API 2026-10-19 (keyword searches): only Senior and Staff Software Engineer, Enterprise Architect; no entry software role. Tracker lead (REI Systems, Sterling VA) is a different company.",
-  "confidence": "medium"
+  "evidence": "rei.jobs API 2026-10-26 (72 jobs across keyword searches): only Staff Software Engineer Search and Enterprise Architect in tech; no entry software role. Tracker lead is REI Systems, a different company.",
+  "confidence": "high"
 }

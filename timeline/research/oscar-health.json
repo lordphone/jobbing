@@ -1,16 +1,16 @@
 {
   "company": "Oscar Health",
   "tier": 4,
-  "checked": "2026-10-20",
-  "postings": [],
-  "dropped": [],
+  "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "none found",
   "jobs_page": "https://job-boards.greenhouse.io/oscar",
   "jobs_spec": "gh:oscar",
-  "status": "no_program_found",
-  "evidence": "gh:oscar full (246) 2026-10-20: software roles are Senior/Staff only; Engineering Leader needs 6+ yrs. No entry SWE.",
-  "confidence": "high"
+  "evidence": "gh:oscar full board (232) 2026-10-27: software roles are Senior/Staff only; Data Scientist II mid-level. Operations Engineer I (NYC, 2026-10-26) is an ops automation role requiring '3+ years experience in a technical role', so not counted.",
+  "confidence": "high",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

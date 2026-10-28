@@ -1,16 +1,16 @@
 {
   "company": "Turing",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no postings",
+  "last_cycle_basis": "no new-grad SWE history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/turing",
   "jobs_spec": "gh:turing",
-  "evidence": "gh:turing (32, full) read 2026-10-20: only US entry-adjacent title is Forward Deployed AI Engineer (In Training), NYC, which asks 5+ yrs; other US engineering roles Senior/Staff Research Engineer. Entry-ish ML/data roles are Brazil/Colombia. No entry-level US SWE.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "gh:turing full board (36) read 2026-10-27: US engineering roles are FDE and Backend/Platform Engineer Enterprise AI (6+ yrs), Senior/Staff Research Engineers, Field Engineer AI Labs (solutions role, not entry SWE). Entry-level Software Engineer is in Bengaluru only. No entry-level US SWE.",
+  "confidence": "high"
 }

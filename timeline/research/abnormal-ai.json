@@ -1,6 +1,7 @@
 {
   "company": "Abnormal AI",
   "tier": 3,
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -8,10 +9,10 @@
       "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
       "location": "Remote (USA) (no city listed)",
       "opened": "2026-10-17",
-      "date_source": "greenhouse first_published (earlier run)",
+      "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "'Software Engineer 1' entry title; requires '1-2 years of experience'; $122,400-$176,000",
       "no_sponsorship": false
@@ -21,9 +22,8 @@
   "last_cycle_basis": "tracker first seen 'Software Engineer 1 - Identity Security' SF 2025-10-09; 'Software Engineer 1 - Data Platform' 2025-10-30 (both closed)",
   "jobs_page": "https://job-boards.greenhouse.io/abnormalsecurity",
   "jobs_spec": "gh:abnormalsecurity",
-  "evidence": "Greenhouse full board 2026-10-20 (80): SWE 1 Cloud Infrastructure (Remote USA) no longer in the API list, but its careers page loads with Apply Now, so it is live (unlisted). ML Engineer I and SWE 1 Platform are Singapore/Bangalore only; other US SWE are II or Senior.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
+  "evidence": "Greenhouse full board (89) read 2026-10-27: US-remote Software Engineer 1 - Cloud Infrastructure live on API (1-2 yrs, SWE 1 title). ML Engineer 1 (Singapore) and SWE 1 Platform (Bangalore) not US; SWE 1 Data Platforms gone.",
+  "confidence": "high",
   "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false

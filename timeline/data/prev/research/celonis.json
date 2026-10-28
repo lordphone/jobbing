@@ -1,16 +1,16 @@
 {
   "company": "Celonis",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2025-11-07",
-  "last_cycle_basis": "jobs.py history tracker first seen: Associate Software Engineer, Los Angeles (closed); other roles non-SWE value engineer",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first seen: Associate Software Engineer, Los Angeles (closed); other roles non-SWE value engineer",
   "jobs_page": "https://job-boards.greenhouse.io/celonis",
   "jobs_spec": "gh:celonis",
-  "evidence": "Greenhouse API 2026-10-19 (201, full): US graduate roles (Galaxy Associate Deployment Engineer, Orbit Associate Value Engineer, NY/Raleigh) are services/consulting, not SWE; Applied AI Engineer needs 4+ yrs. Only SWE is Senior (NY). No entry SWE live.",
-  "confidence": "high"
+  "evidence": "Greenhouse API (224, full) 2026-10-26: US graduate roles (Galaxy Associate Deployment Engineer, Orbit Associate Value Engineer, NY/Raleigh) are services/value engineering, not SWE. Applied AI Engineer needs 4+ yrs consulting. Other SWE roles senior or Bangalore.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

@@ -2,15 +2,15 @@
   "company": "Firefly Aerospace",
   "tier": 4,
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker entry found",
-  "jobs_page": "https://fireflyspace.com/careers/#jobopenings",
-  "jobs_spec": null,
-  "evidence": "Careers page (one page, ~70 jobs) read in browser 2026-10-20: software roles are Application Security Engineer-Ground Software, Firmware Engineer II and III, Software Test Engineer III, GNC II/III. No Software Engineer I or new-grad track. ITAR text allows State Dept authorization, so not excluded.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": [],
+  "excluded_reason": null,
   "no_sponsorship": false,
-  "excluded_reason": null
+  "jobs_page": "https://fireflyspace.com/careers/",
+  "jobs_spec": "wd:fireflyspace/wd115/Firefly",
+  "evidence": "Workday board (full, 124) 2026-10-27: software roles are Application Security Engineer, Software Test Engineer III, Firmware Engineer II/III, Senior Flight Software, plus a Spring 2027 software intern (not counted). Level I roles are non-software (wire harness, test, structures, propulsion, launch). No entry software role.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "postings": []
 }

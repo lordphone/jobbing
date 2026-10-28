@@ -1,7 +1,6 @@
 {
   "company": "Faraday Future Intelligent Electric",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -18,13 +17,15 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no new-grad SWE posting found in tracker history or board",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/faradayfuture",
   "jobs_spec": "gh:faradayfuture",
-  "evidence": "Greenhouse board (82, full) re-read 2026-10-20. SDK Platform Engineer (El Segundo, first published 2026-10-16) live, no minimum years, new graduates welcome, $80K-120K. Embodied AI Tooling Engineer needs PhD and 5+ yrs. Robotics Ops & SW Test is QA, left out.",
-  "confidence": "medium"
+  "jobs_spec_basis": "tracker lead SDK Platform Engineer confirmed live on gh:faradayfuture board",
+  "evidence": "Greenhouse board (82, full) read and screened 2026-10-27. SDK Platform Engineer (El Segundo, first published 2026-10-16) live, no minimum years, new graduates welcome. Embodied AI Tooling Engineer needs PhD and 5+ yrs. Robotics Ops & SW Test is QA (1+ yrs), left out.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

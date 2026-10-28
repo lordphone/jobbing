@@ -1,17 +1,16 @@
 {
   "company": "McKinsey",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker coverage of McKinsey (jobs.py history empty); no dated source found",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.mckinsey.com/careers/search-jobs?q=software%20engineer&country=United%20States",
   "jobs_spec": null,
-  "evidence": "McKinsey jobs gateway API 2026-10-20 (613 listings, all read): QuantumBlack Software Engineer 112342 and AI Data Engineer 112288/112449 (seen 2026-10-08) are not listed. US/Toronto engineering roles need 2-5+ yrs, citizenship or TS/SCI, or are senior; Software Delivery Analyst is a BI/data delivery role. No entry-level SWE.",
-  "confidence": "medium",
-  "jobs_spec_basis": "careers page calls gateway.mckinsey.com/apigw-x0cceuow60/v1/api/jobs/search (pageSize=20, start=page); no jobs.py spec"
+  "status": "no_program_found",
+  "evidence": "Browser job search with all results loaded 2026-10-27: Software Engineer I is Sao Paulo, other Software Engineer and Data Engineer I roles are outside the US; US tech roles are Software Engineer II, Senior/Principal, or Forward Deployed Engineer requiring US citizenship and 5+ yrs. No entry SWE in US/Toronto/Vancouver.",
+  "confidence": "medium"
 }

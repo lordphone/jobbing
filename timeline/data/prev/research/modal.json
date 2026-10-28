@@ -1,7 +1,7 @@
 {
   "company": "Modal",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -18,14 +18,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found: no tracker history or company page for a prior new-grad SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/modal",
   "jobs_spec": "ashby:modal",
-  "evidence": "ashby:modal full (43) 2026-10-19: no new-grad title. FDE-ML (2+ yrs, no lead duties, $180K-$250K) still live, meets the unlabeled rule though customer-facing; borderline. MTS roles 5+ yrs; Product Backend lists no years, left out.",
-  "confidence": "medium",
-  "dropped": [],
-  "jobs_spec_basis": "careers page job links go to jobs.ashbyhq.com/modal; kept ashby:modal"
+  "evidence": "ashby:modal full (43) 2026-10-26: no new-grad title. FDE-ML (2+ yrs, no lead duties, $180K-$250K) still live via api, meets the unlabeled rule though customer-facing; borderline, kept. Other MTS roles ask 5+ yrs; Product Backend, Growth, Inference Runtime list no years, left out.",
+  "confidence": "medium"
 }

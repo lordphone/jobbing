@@ -1,16 +1,31 @@
 {
  "company": "Aquatic Capital Management",
  "tier": 3,
- "status": "not_yet",
- "postings": [],
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, Early Career",
+   "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
+   "location": "Chicago, IL; New York, NY",
+   "opened": "2026-04-01",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Early Career engineer rotating teams, mentored by senior engineers, 'No more than 3 years' experience; base $150K-$200K",
+   "no_sponsorship": false
+  }
+ ],
  "last_cycle_opened": "2024-09-06",
- "last_cycle_basis": "tracker: New Grad SWE first seen 2024-09-08 (two cycles ago); Software Engineer - Early Career 2026-04-01 (off-cycle, now gone); none Jul 2025-Jan 2026",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "tracker: New Grad SWE first seen 2024-09-08; SWE Early Career first published 2026-04-01 (off-cycle)",
  "jobs_page": "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
  "jobs_spec": "gh:aquaticcapitalmanagement",
- "evidence": "Greenhouse API 2026-10-20 (10, full): SWE Core Data needs 5-10 yrs, Production Platform 4+ yrs, Systems and Network senior; early-career is Quantitative Researcher only; SWE intern Summer 2027. Early Career SWE (2026-04-01) is gone.",
- "confidence": "high",
- "checked": "2026-10-20",
- "dropped": []
+ "evidence": "Greenhouse full board (12) 2026-10-27: Software Engineer, Early Career (Chicago/NY) live via API, updated 2026-10-26. No class year, evergreen early-career, up to 3 yrs. Other SWE roles need 4+ yrs. Summer 2027 intern excluded.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_spec_basis": "unflagged"
 }

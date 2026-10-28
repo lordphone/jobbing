@@ -1,43 +1,44 @@
 {
- "company": "Transamerica (Aegon)",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "open",
- "postings": [
-  {
-   "title": "Intermediate Software Engineer",
-   "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Intermediate-Software-Engineer_R20062709",
-   "location": "Denver, CO; Cedar Rapids, IA; Philadelphia, PA",
-   "opened": "2026-09-25",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "requires 'Atleast One year of professional software development experience'; builds 'basic application solutions'; $82,000-$92,000; no lead or mentor duties",
-   "no_sponsorship": true
-  },
-  {
-   "title": "Intermediate Software Engineer",
-   "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Intermediate-Software-Engineer_R20062707",
-   "location": "Denver, CO; Cedar Rapids, IA; Philadelphia, PA",
-   "opened": "2026-09-25",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "requires 'Atleast One year of professional software development experience'; builds 'basic application solutions'; $82,000-$92,000; no lead or mentor duties",
-   "no_sponsorship": true
-  }
- ],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "tracker history only shows Appian Application Developer 2025-12-03 (not entry-labeled); no new-grad SWE evidence.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://transamerica.wd5.myworkdayjobs.com/US",
- "jobs_spec": "wd:transamerica/wd5/US",
- "evidence": "Workday board read in full (140) 2026-10-20 via API; both Intermediate Software Engineer reqs still live (1 yr, basic apps, $82-92K, cannot sponsor), judged entry-level. Other SWE roles are Specialist (6+ yrs), Senior, Lead. Same reqs as previous file.",
- "confidence": "medium"
+  "company": "Transamerica (Aegon)",
+  "tier": 5,
+  "checked": "2026-10-27",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Intermediate Software Engineer",
+      "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Intermediate-Software-Engineer_R20062709",
+      "location": "Denver, CO; Cedar Rapids, IA; Philadelphia, PA",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'Atleast One year of professional software development experience'; builds 'basic application solutions'; $82,000-$92,000; no lead or mentor duties",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Intermediate Software Engineer",
+      "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Intermediate-Software-Engineer_R20062707",
+      "location": "Denver, CO; Cedar Rapids, IA; Philadelphia, PA",
+      "opened": "2026-09-25",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 'Atleast One year of professional software development experience'; builds 'basic application solutions'; $82,000-$92,000; no lead or mentor duties",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "tracker history only shows Appian Application Developer 2025-12-03 (not entry-labeled); no new-grad SWE evidence.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://transamerica.wd5.myworkdayjobs.com/US",
+  "jobs_spec": "wd:transamerica/wd5/US",
+  "jobs_spec_basis": "saved board confirmed, Workday API lists Transamerica jobs",
+  "evidence": "Workday board (146, full) read 2026-10-27; both Intermediate Software Engineer reqs live via detail (1 yr, basic apps, $82-92K, cannot sponsor), judged entry-level and kept from earlier run. Other SWE roles are Specialist, Senior, Lead.",
+  "confidence": "medium"
 }

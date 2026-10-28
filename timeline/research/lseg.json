@@ -1,7 +1,7 @@
 {
   "company": "LSEG (London Stock Exchange Group)",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -14,8 +14,8 @@
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Engineering Graduate Programme for final-year BS/MS in Computer Science / Engineering / IT; aligned to an Engineering team",
+      "no_sponsorship": false
     },
     {
       "title": "Engineering Graduate Programme (New York)",
@@ -27,8 +27,8 @@
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Engineering Graduate Programme for final-year BS/MS in Computer Science / Engineering / IT; aligned to an Engineering team",
+      "no_sponsorship": false
     },
     {
       "title": "Engineering Graduate Programme (Fort Mill)",
@@ -40,17 +40,17 @@
       "grad_window": "Complete degree before Aug 2027, or class of 2026; programme starts Sep 2027",
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": true
+      "level_basis": "Engineering Graduate Programme for final-year BS/MS in Computer Science / Engineering / IT; aligned to an Engineering team",
+      "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": "2026-03-23",
   "last_cycle_basis": "Tracker history: Engineering Graduate Programme, NYC, first seen 2026-03-23 (UK Nottingham programme 2025-10-30).",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers",
   "jobs_spec": "wd:lseg/wd3/Graduate_Careers",
-  "evidence": "Graduate_Careers Workday board (33) + detail 2026-10-20: Engineering Graduate Programme live in Norwell (close Nov 28), New York and Fort Mill (close Oct 20), starts Sep 2027, wants unrestricted US work rights. New York and Fort Mill still listed on 2026-10-20, their stated closing day.",
+  "evidence": "Graduate_Careers Workday board (27, full) and detail read 2026-10-27: Norwell Engineering Graduate Programme live (closes Nov 28); New York and Fort Mill (stated close Oct 20, rolling) still listed. Starts Sep 2027, asks for unrestricted US work rights. Rest are UK/Thailand, interns or business.",
   "confidence": "high"
 }

@@ -1,21 +1,21 @@
 {
   "company": "Pennymac",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [
     {
       "url": "https://careers.pennymac.com/jobs/40358",
-      "reason": "gone: careers.pennymac.com/jobs/40358 returns HTTP 404; students page says Jan/Jun 2027 cohort applications closed"
+      "reason": "gone: careers.pennymac.com/jobs/40358 returns HTTP 404 and is not in the 37-job careers API list; students page says Jan/Jun 2027 cohort applications closed"
     }
   ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No dated last-cycle record; TRE reopens Spring 2027 per earlier careers page read.",
+  "last_cycle_basis": "No dated last-cycle record; this cycle DTO Rotational Engineer (posting 40358) opened 2026-08-31 per earlier run and is gone; students page says Tech Rotational Engineering reopens Spring 2027.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.pennymac.com/students-graduates",
   "jobs_spec": null,
-  "evidence": "Students page 2026-10-20: DTO rotational (Jan/Jun 2027 cohorts) 'now closed'; Tech Rotational Engineering 'closed, will reopen Spring 2027'. Posting 40358 (Rotational Engineer, opened 2026-08-31) 404.",
-  "confidence": "medium"
+  "status": "closed",
+  "evidence": "Careers API (37 jobs, full) 2026-10-27: no software engineering roles (only Sr Platform Engineer, product owners). Students page: Tech Rotational Engineering applications closed, reopen Spring 2027; DTO Jan/Jun 2027 cohorts closed. Posting 40358 returns 404, so closed.",
+  "confidence": "high"
 }

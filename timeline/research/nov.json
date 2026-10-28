@@ -1,30 +1,31 @@
 {
-  "company": "NOV",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
-      "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448",
-      "location": "Houston, TX, United States",
-      "opened": "2026-09-15",
-      "date_source": "oracle postedOn",
-      "deadline": null,
-      "grad_window": "graduating Dec 2026 or May 2027, or recent graduate (0-2 years)",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-12-02",
-  "last_cycle_basis": "tracker first seen: Software Engineer, Houston TX, https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38641",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001",
-  "jobs_spec": "oracle:egay.fa.us6.oraclecloud.com/CX_4001",
-  "evidence": "Oracle full board (710) read 2026-10-20: Associate Software Engineer Pathway (Houston, posted 2026-09-15) live via API, no end date, Dec 2026/May 2027 or 0-2 yr grads; no sponsorship lines. Other US SWE roles need 3+ to 5+ yrs (Software and Controls, Data Performance, Sustaining SWE); Canada roles and Norway ASE not counted.",
-  "confidence": "high",
-  "dropped": []
+ "company": "NOV",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Software Engineer - Pathway (June 2027 & January 2027)",
+   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448",
+   "location": "Houston, TX, United States",
+   "opened": "2026-09-15",
+   "date_source": "oracle postedOn",
+   "deadline": null,
+   "grad_window": "graduating Dec 2026 or May 2027, or recent graduate (0-2 years)",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Pathway rotational program for college graduates; graduating Dec 2026/May 2027 or recent graduate (0-2 yrs)",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-02",
+ "last_cycle_basis": "tracker first seen: Software Engineer, Houston TX, https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38641",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001",
+ "jobs_spec": "oracle:egay.fa.us6.oraclecloud.com/CX_4001",
+ "jobs_spec_basis": "saved board confirmed; careers page job links go to this Oracle site",
+ "evidence": "Oracle full board (734) 2026-10-27, posting opened via API: Associate Software Engineer Pathway (Houston, posted 2026-09-15) live, no end date. Other US software roles need 3+ yrs, are field support (Sustaining) or controls/data, not counted. Same as prior run.",
+ "confidence": "high"
 }

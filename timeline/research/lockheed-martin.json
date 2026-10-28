@@ -8,37 +8,32 @@
    "url": "https://lockheedmartin.eightfold.ai/careers/job/996477185662",
    "location": "Highlands Ranch, CO",
    "opened": "2026-10-06",
-   "date_source": "page text Date Posted",
+   "date_source": "eightfold board posted date",
    "deadline": null,
    "grad_window": null,
-   "live_verified": "browser",
+   "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "Bachelor's degree, C++/Linux/Agile, no years required; $75,400-$140,000; Early Career Software Engineer in Space Software Product Line; clearance None",
-   "no_sponsorship": false
-  },
-  {
-   "title": "Data Engineer Associate - Early Career",
-   "url": "https://lockheedmartin.eightfold.ai/careers/job/996477264448",
-   "location": "Highlands Ranch, CO",
-   "opened": "2026-10-07",
-   "date_source": "page text Date Posted",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": null,
+   "level_basis": "Early Career Software Engineer in Space Software Product Line; Asc - E1 level, level of experience '4 yr and up College'; bachelor's required, no years; $75,400-$140,000",
    "no_sponsorship": false
   }
  ],
+ "dropped": [
+  {
+   "url": "https://lockheedmartin.eightfold.ai/careers/job/996477264448",
+   "reason": "gone: Data Engineer Associate - Early Career is not on the board and its position API returns 404"
+  },
+  {
+   "url": "https://lockheedmartin.eightfold.ai/careers/job/996476200445",
+   "reason": "ruled out: posting field 'Final clearance for the role: Secret' (Interim Secret before start)"
+  }
+ ],
  "last_cycle_opened": "2025-11-26",
- "last_cycle_basis": "tracker: 'Early Career: Software Engineer' Owego NY first seen 2024-11-26; rolling Early Career SWE postings kept from prior file; nothing dated Jul 2025-Jan 2026 found; earlier Owego posting had 'U.S. Citizenship' flag in tracker",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "tracker: 'Early Career: Software Engineer' Owego NY first seen 2024-11-26; nothing dated Jul 2025-Jan 2026 found; that Owego posting had a U.S. Citizenship flag in the tracker",
  "jobs_page": "https://lockheedmartin.eightfold.ai/careers",
  "jobs_spec": "eightfold:lockheedmartin.eightfold.ai/lockheedmartin.com",
- "evidence": "Eightfold US board 2026-10-20 (1040) plus position API and browser. Highlands Ranch CO Software Engineer Asc E1 (page shows Apply Now) and Data Engineer Associate Early Career show Final Clearance None and no citizenship text. Other early-career SWE postings (Littleton, Huntsville, Colorado Springs) say US Citizen required or Secret/TS clearance.",
+ "evidence": "Eightfold board (1460, full US) and position API read 2026-10-27. Software Engineer Asc E1 (Highlands Ranch) has clearance field 'None' and no citizenship text, so open. Littleton Software Engineer Early Career says 'Must be a US Citizen'; ML and Research Early Career roles need TS/SCI or US citizenship. Associate SWE Huntsville needs Secret, so dropped.",
  "confidence": "medium",
- "checked": "2026-10-20",
- "jobs_spec_basis": "jobs.py board listed only 400 of 5615 US postings; searched via /api/pcsx/search with queries",
- "dropped": []
+ "checked": "2026-10-27",
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

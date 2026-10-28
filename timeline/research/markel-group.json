@@ -1,7 +1,6 @@
 {
   "company": "Markel Group",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -19,12 +18,14 @@
     }
   ],
   "dropped": [],
-  "last_cycle_opened": null,
   "last_cycle_basis": "no SWE new-grad history found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers",
   "jobs_spec": "wd:markelcorp/wd5/GlobalCareers",
-  "evidence": "Workday full board (144) + detail 2026-10-20: Software Engineer (Richmond, startDate 2026-09-16) is live, BI/Power BI focused, 2+ yrs, posting says no visa sponsorship. Borderline unlabeled, kept as earlier run counted it. Early-careers entries are talent networks and interns.",
-  "confidence": "medium"
+  "jobs_spec_basis": "saved board confirmed; careers page job links go to this Workday site",
+  "evidence": "Workday full board (139) + posting text 2026-10-27: Software Engineer (Richmond, start 2026-09-16) still live, BI/Power BI focused, 2+ yrs, no visa sponsorship. Borderline unlabeled, kept as earlier run counted it; no senior duties. Associate AI Business Partner is a business role, not engineering.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

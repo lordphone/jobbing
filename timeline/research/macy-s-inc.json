@@ -1,21 +1,16 @@
 {
-  "company": "Macy's, Inc.",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780",
-      "reason": "ruled out: posting text says 'The Macy's Technology Summer Internship Program' and 'Rising seniors majoring in Computer Science'"
-    }
-  ],
-  "last_cycle_opened": "2025-09-17",
-  "last_cycle_basis": "tracker first-seen: Macy's Tech Early Careers - Software Engineer, Johns Creek GA, https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
-  "jobs_spec": "oracle:ebwh.fa.us2.oraclecloud.com/CX_1001",
-  "evidence": "Oracle board 2026-10-20 (2676 listed of 6230, searched) and posting API: '2027 Tech Early Careers - Software Engineer' (91780) body is the Summer Internship template for rising seniors, so not counted. No full-time posting yet. Changed from open for that reason.",
-  "confidence": "medium"
+ "company": "Macy's, Inc.",
+ "tier": 5,
+ "status": "not_yet",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-17",
+ "last_cycle_basis": "tracker first-seen: Macy's Tech Early Careers - Software Engineer, Johns Creek GA, https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
+ "jobs_spec": "oracle:ebwh.fa.us2.oraclecloud.com/CX_1001",
+ "evidence": "Oracle board 2026-10-27 (2740 listed, searched, not full) plus requisition API: Macy's 2027 Tech Early Careers - Software Engineer (91780, Johns Creek, 2026-10-14) body is the Summer Internship template, not counted. Other software roles are senior/director; Engineer I roles are facilities.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

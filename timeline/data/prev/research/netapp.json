@@ -1,61 +1,61 @@
 {
-  "company": "NetApp",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Entry Level Software Engineer - ANF (Azure NetApp Files)",
-      "url": "https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496",
-      "location": "San Jose, CA",
-      "opened": "2026-09-03",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Bachelor's CS/EE; page says applicants with a Master's or more than 2 years should apply to the sibling Job ID 135679 instead",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer - ANF (Azure NetApp Files)",
-      "url": "https://careers.netapp.com/job/san-jose/software-engineer-anf-azure-netapp-files/27600/97615964512",
-      "location": "San Jose, CA",
-      "opened": "2026-09-03",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's with 2+ years related experience; Master's degree with 0+ years related experience",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer (Systems - C/C++)",
-      "url": "https://careers.netapp.com/job/san-jose/software-engineer-systems-c-c/27600/100727361824",
-      "location": "San Jose, CA",
-      "opened": "2026-09-16",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "Bachelor's with minimum 2 years, Master's degree with no experience; $113,050-168,300",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://careers.netapp.com/job/morrisville/cloud-native-software-engineer/27600/98806799328",
-      "reason": "gone: page returns HTTP 404 and the posting is absent from the careers.netapp.com search results on 2026-10-19"
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history shows only 2024 postings (2024-08-25 New Grad: Software Engineer; Nov-Dec 2024 Entry Level SWE and SWE - Masters); none 2025-07..2026-01. Pipeline roles repost on a recurring basis.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.netapp.com/engineering-careers",
-  "jobs_spec": null,
-  "evidence": "Radancy careers.netapp.com results (~280 across searches) and every US software posting read 2026-10-19: three pipeline SWE roles live (Entry Level ANF, SWE ANF, SWE Systems C/C++), all San Jose. Others ask 4-15+ yrs. Cloud Native SWE (Trident) from the prior run now 404s.",
-  "confidence": "medium"
+ "company": "NetApp",
+ "tier": 4,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Entry Level Software Engineer - ANF (Azure NetApp Files)",
+   "url": "https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496",
+   "location": "San Jose, CA",
+   "opened": "2026-09-03",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": "Entry Level title; sibling SWE ANF posting asks Bachelor's 2+ years or Master's 0+",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - ANF (Azure NetApp Files)",
+   "url": "https://careers.netapp.com/job/san-jose/software-engineer-anf-azure-netapp-files/27600/97615964512",
+   "location": "San Jose, CA",
+   "opened": "2026-09-03",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Bachelor's with 2+ years related experience; Master's degree with 0+ years related experience",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer - Cloud Volumes",
+   "url": "https://careers.netapp.com/job/san-jose/software-engineer-cloud-volumes/27600/102319759728",
+   "location": "San Jose, CA",
+   "opened": "2026-10-23",
+   "date_source": "page text (JSON-LD datePosted)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Bachelor's with 2+ years or Master's with 0+ years related experience; $113,050-168,300",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://careers.netapp.com/job/san-jose/software-engineer-systems-c-c/27600/100727361824",
+   "reason": "gone: posting page returns 404 Custom Job Error and the job is absent from the 288-result US search list"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "jobs.py history shows only 2024 postings (2024-08-25 New Grad: Software Engineer; Nov-Dec 2024 Entry Level SWE and SWE - Masters); none 2025-07..2026-01.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers.netapp.com/engineering-careers",
+ "jobs_spec": null,
+ "evidence": "2026-10-26: paged all 288 careers.netapp.com results; fetched every US SWE posting. Three San Jose postings entry-level (title or Master's 0+); Systems C/C++ now 404. Others need 4-12+ yrs. Entry Level ANF says Master's holders should not apply.",
+ "confidence": "medium"
 }

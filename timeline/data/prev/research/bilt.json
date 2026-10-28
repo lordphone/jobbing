@@ -1,17 +1,16 @@
 {
  "company": "Bilt",
  "tier": 4,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "unknown; no first-party or tracker date found",
+ "last_cycle_basis": "no dated new-grad SWE posting found in tracker history or board",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.gem.com/bilt",
  "jobs_spec": null,
- "jobs_spec_basis": "careers page jobs.gem.com/bilt; Gem public API lists all postings, no ATS feed in jobs.py",
- "evidence": "2026-10-19 Gem job-board API (19 postings, full): Back End Engineer (All Levels) asks 5+ yrs and mentoring; Software Engineer, AI (NYC, 2026-10-13) asks 4+ yrs backend; Senior FDE. No entry-level engineering role.",
- "confidence": "high",
- "dropped": []
+ "evidence": "Gem job-board API 2026-10-26 (19 postings, full): Back End Engineer (All Levels) targets 5+ yrs; Software Engineer, AI requires 4+ yrs backend; Senior FDE. No entry-level engineering role or new-grad program.",
+ "confidence": "high"
 }

@@ -1,7 +1,7 @@
 {
  "company": "EY",
  "tier": 5,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "open",
  "postings": [
   {
@@ -135,26 +135,31 @@
    "no_sponsorship": false
   },
   {
-   "title": "Service Delivery Center, AI Analyst",
-   "url": "https://careers.ey.com/ey/job/Tampa-Service-Delivery-Center%2C-AI-Analyst-FL-33602/1449441333/",
-   "location": "Tampa, FL",
-   "opened": "2026-10-20",
+   "title": "Service Delivery Center - Microsoft Dynamics Developer - Analyst",
+   "url": "https://careers.ey.com/ey/job/San-Antonio-Service-Delivery-Center-Microsoft-Dynamics-Developer-Analyst-TX-78249/1435399933/",
+   "location": "San Antonio, TX",
+   "opened": "2026-10-08",
    "date_source": "page text (datePosted)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "browser",
    "level": "unlabeled",
-   "level_basis": "Analyst; 'Bachelor's degree preferred. 1+ years of applied engineering experience'",
+   "level_basis": "Analyst; 'Minimum of 1-2 years of experience as a member of a technology team'; works under supervision of seniors; Bachelor's in CS (borderline: Dynamics/Power Platform developer)",
    "no_sponsorship": false
   }
  ],
- "dropped": [],
+ "dropped": [
+  {
+   "url": "https://careers.ey.com/ey/job/Tampa-Service-Delivery-Center%2C-AI-Analyst-FL-33602/1449441333/",
+   "reason": "gone: page shows 'The Job is no longer available' (2026-10-26)"
+  }
+ ],
  "last_cycle_opened": "2026-01-16",
  "last_cycle_basis": "tracker first-seen 2026-01-16 (snapshot date, likely earlier): 'USA - Service Delivery Center - Business Technology - Associate Analyst' and 'Indirect Tax - Technology Staff' (eyglobal.yello.co)",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://careers.ey.com/ey/search/",
  "jobs_spec": null,
- "evidence": "Reopened all 10 earlier postings 2026-10-20 (8 careers.ey.com show Apply now; 2 yello TTT roles live, sponsorship may be available) and searched careers.ey.com US: added SDC AI Analyst (Tampa, 1+ yr). Left out Dynamics, SDET, clearance (G&I) and 8+ yr roles.",
+ "evidence": "2026-10-27: careers.ey.com search (US, software/developer/analyst queries, 3 pages) found the same analyst-level SDC/TTT developer roles; refetched 11 earlier posting pages with curl, all show Apply now (Tampa AI Analyst stays gone). Analyst SDC roles ask 1-2 yrs; no deadlines stated.",
  "confidence": "medium"
 }

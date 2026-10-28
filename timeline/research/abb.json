@@ -1,16 +1,30 @@
 {
-  "company": "ABB",
-  "status": "no_program_found",
-  "last_cycle_opened": "2025-10-18",
-  "last_cycle_basis": "jobs.py history: R&D Early Career Program (Bloomfield CT et al.) first seen 2025-10-18 (engineering rotation, not SWE)",
-  "jobs_page": "https://abb.wd3.myworkdayjobs.com/external_career_page",
-  "jobs_spec": "wd:abb/wd3/external_career_page",
-  "evidence": "Workday full board (2000) 2026-10-20: R&D Early Career Program (US) 2027 is a general engineering rotation. Bartlesville R&D SWE is instrument firmware (1-3 yrs), Westerville needs 2+ yrs PLC apps; other junior SWE roles are non-US. No entry SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "tier": 5,
-  "postings": [],
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+ "company": "ABB",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Discovery Information Systems Track - 2027",
+   "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Discovery-Information-Systems-Track---2027_JR00050513",
+   "location": "Cary, NC",
+   "opened": "2026-10-25",
+   "date_source": "workday startDate",
+   "deadline": "2026-11-23",
+   "grad_window": "Dec 2026 – Jun 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "2027 Discovery two-year rotational program; 'expected graduation date between December 2026 and June 2027'; duties include designing and building solutions using Python, APIs, SQL (borderline: IS rotation with SAP/CRM focus)",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-10-18",
+ "last_cycle_basis": "jobs.py history: R&D Early Career Program (Bloomfield CT et al.) first seen 2025-10-18 (engineering rotation, not SWE)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://abb.wd3.myworkdayjobs.com/external_career_page",
+ "jobs_spec": "wd:abb/wd3/external_career_page",
+ "evidence": "Workday board (2000, full) read 2026-10-27. Discovery Information Systems Track 2027 (Cary NC, endDate 2026-11-23, no visa sponsorship) still live via API; Python/API/SQL duties inside IS rotation, borderline. R&D Early Career 2027 is non-software; SWE-ish roles are 2+/5+ yrs or interns.",
+ "confidence": "low",
+ "checked": "2026-10-27"
 }

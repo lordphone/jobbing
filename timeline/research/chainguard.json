@@ -1,16 +1,17 @@
 {
   "company": "Chainguard",
   "tier": 3,
-  "checked": "2026-10-20",
   "status": "closed",
-  "postings": [],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no entry-level SWE postings found on board or trackers",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/chainguard",
   "jobs_spec": "gh:chainguard",
-  "evidence": "Greenhouse board 77 postings (full): all engineering is Senior/Staff/Principal/Manager. An earlier run saw Software Engineer (Repositories), US/Canada, 2+ yrs, opened 2026-09-28; absent from the full board now, so closed. No new-grad program.",
-  "confidence": "medium"
+  "jobs_spec_basis": "saved board confirmed; careers page lists same Greenhouse jobs",
+  "last_cycle_basis": "no entry-level SWE postings found on board or trackers",
+  "evidence": "Greenhouse board (91, full) 2026-10-27: engineering is Senior/Staff/Principal/Manager plus SWE Sustaining Automation (3-5 yrs, not counted). Earlier Software Engineer (Repositories, 2+ yrs, opened 2026-09-28, job 4714568006) is not on the board: closed.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

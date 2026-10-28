@@ -1,17 +1,30 @@
 {
   "company": "AMD",
   "tier": 3,
-  "checked": "2026-10-19",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software System Designer",
+      "url": "https://careers.amd.com/careers-home/jobs/91827",
+      "location": "Markham, ON, Canada (Greater Toronto Area)",
+      "opened": "2026-10-14",
+      "date_source": "page text (AMD careers JSON posted_date)",
+      "deadline": null,
+      "grad_window": "recent graduate or graduating within the next academic term",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Recent graduate (or graduating within the next academic term) with a Bachelor's degree'; full-stack prototyping",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": "2025-07-24",
   "last_cycle_basis": "tracker last cycle 2025-07-24 (Software Developer - GPU IO Libraries, Calgary/Remote, unlabeled); 2027 intern/co-op wave opened 2026-08-20",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.amd.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "AMD careers JSON 2026-10-19, all 1281 postings re-read (784 US/Canada). Grad roles: Technical Sales Engineer graduate rotational and Markham Systems Design Engineer (New Grad, hardware). US/Vancouver SWE roles read are senior, lead or seasoned; no new-grad SWE yet.",
+  "evidence": "AMD careers JSON API 2026-10-26 (full listing, 1259 jobs, US/Canada screened). One entry-level SWE: Software System Designer (Markham, ON), recent-graduate full-stack role, listed live. Other US/Canada SWE roles state no level or years or are senior/staff; 2027 postings are intern/co-op. Systems Design Engineer (New Grad) Markham is hardware debug, not counted.",
   "confidence": "medium",
-  "jobs_spec_basis": "careers.amd.com/api/jobs JSON returns all postings with description and city"
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-26",
+  "dropped": []
 }

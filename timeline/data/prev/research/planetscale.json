@@ -1,30 +1,30 @@
 {
-  "company": "PlanetScale",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - Internal Tools",
-      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
-      "location": "San Francisco, CA (in-office only)",
-      "opened": "2026-08-31",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '0-2 years of professional software engineering experience, or equivalent project or internship work'; $120K-$160K",
-      "no_sponsorship": true
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/planetscale",
-  "jobs_spec": "gh:planetscale",
-  "evidence": "Greenhouse API 2026-10-19 (10, full): Internal Tools SWE live, 0-2 yrs required, SF in-office only, 'We do not sponsor visas'. Postgres SWE needs 5+ yrs; support roles not SWE. No deadline. Rechecked 2026-10-19: Internal Tools SWE still on board via API.",
-  "confidence": "high",
-  "dropped": []
+ "company": "PlanetScale",
+ "tier": 3,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer - Internal Tools",
+   "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
+   "location": "San Francisco, CA (in-office only)",
+   "opened": "2026-08-31",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '0-2 years of professional software engineering experience, or equivalent project or internship work'; $120K-$160K",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/planetscale",
+ "jobs_spec": "gh:planetscale",
+ "evidence": "Greenhouse API 2026-10-26 (12, full): Internal Tools SWE live, 0-2 yrs required, SF in-office only, 'We do not sponsor visas'. Postgres SWE needs 5+ yrs; AI Developer Experience Engineer ($170-220K, no years, devrel-style) not counted; support engineers not SWE.",
+ "confidence": "high"
 }

@@ -1,30 +1,21 @@
 {
- "company": "AutoZone",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "closed",
- "postings": [
-  {
-   "title": "Systems Engineer Associate",
-   "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
-   "location": "Memphis, TN",
-   "opened": "2026-07-27",
-   "date_source": "tracker first seen",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": "2026-07-27",
- "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN (same posting; this cycle)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
- "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
- "evidence": "Oracle board (searched, not full) 2026-10-19: Systems Engineer Associate 130511 not on board. Associate Systems Engineer (Quality Engineering) 157247 asks 2-4 yrs testing, left out; other US Systems Engineers unlabeled/senior (IT Data Mgmt asks 4-7 yrs). 2027 postings are interns.",
- "confidence": "medium",
- "dropped": []
+  "company": "AutoZone",
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
+  "dropped": [
+    {
+      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
+      "reason": "gone: page shows 'This job is no longer available' (browser 2026-10-26), NOT ON THE BOARD via API"
+    }
+  ],
+  "last_cycle_opened": "2026-07-27",
+  "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN (this cycle)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
+  "evidence": "Oracle board (searched, not full) 2026-10-26: Systems Engineer Associate 130511 closed. Associate Systems Engineer (Quality Engineering) 157247 asks 2-4 yrs testing, a test role, left out. Other US Memphis Systems Engineers need 3-8 yrs. Only 2027 interns live.",
+  "confidence": "medium",
+  "checked": "2026-10-26"
 }

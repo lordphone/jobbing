@@ -1,7 +1,6 @@
 {
   "company": "Amplitude",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -14,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Software Engineer I title; '0\u20132 years of professional software engineering experience, including internships'",
       "no_sponsorship": false
     },
     {
@@ -27,17 +26,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Software Engineer I title; '0\u20132 years of professional software engineering experience, including internships'",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": "2025-10-23",
-  "last_cycle_basis": "jobs.py history: 'Software Engineer I, Growth Platform' first seen 2025-10-23; 'Software Engineer 1 - Data Warehouse' 2025-12-01 (Greenhouse, closed)",
+  "last_cycle_basis": "jobs.py history: Software Engineer I, Growth Platform first seen 2025-10-23; Software Engineer 1 - Data Warehouse 2025-12-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/amplitude",
   "jobs_spec": "ashby:amplitude",
-  "evidence": "Ashby API 2026-10-19 (40, full): two Software Engineer I postings (San Francisco, Vancouver) published 2026-10-07, posting text requires 0-2 yrs incl. internships, pay $125K-$188K. No deadline stated. Rest senior/staff.",
-  "confidence": "high"
+  "evidence": "Ashby board (39, full) and posting API text 2026-10-26: two Software Engineer I postings (San Francisco, Vancouver) published 2026-10-07, live on API, text asks 0-2 yrs incl. internships. All other engineering is Senior/Staff/Manager.",
+  "confidence": "high",
+  "checked": "2026-10-26"
 }

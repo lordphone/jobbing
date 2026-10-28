@@ -1,7 +1,7 @@
 {
   "company": "Battelle",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -12,9 +12,9 @@
       "date_source": "phenom dateCreated",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": "Entry Level title; 'Zero to two years of relevant experience'",
+      "level_basis": "Entry Level title; zero to two years of relevant experience",
       "no_sponsorship": true
     }
   ],
@@ -25,6 +25,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://jobs.battelle.org/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "Phenom search API (187) and job pages read 2026-10-20. AI/ML Engineer - Entry Level, Columbus OH (76620, 0-2 yrs, created 2026-10-12) live, no citizenship or clearance text, 'unable to sponsor'. Other entry software roles say 'Must be a US Citizen' with clearance.",
+  "evidence": "Phenom widget API read in browser, full board (173) 2026-10-27. AI/ML Engineer - Entry Level, Columbus OH (76620, 0-2 yrs) live with Apply, cannot sponsor visas. Other software/embedded/vuln-research reqs (76480, 76185, 76644, 76503, 76361, 76523, 76524, 76251) require US citizen and clearance.",
   "confidence": "high"
 }

@@ -1,7 +1,6 @@
 {
   "company": "SLAC National Accelerator Laboratory",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,17 +13,19 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Summary: Entry-level position for a developing professional; BS or equivalent; Python controls/ML software (EPICS, bluesky)",
+      "level_basis": "Summary: Entry-level position for a developing professional; Minimum: BS or equivalent combination of education and relevant years of experience; 2-year fixed term",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no new-grad cycle found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/SLAC/jobs",
   "jobs_spec": "oracle:careersearch.stanford.edu/SLAC",
-  "evidence": "Oracle SLAC site (436, full; shared with Stanford) read 2026-10-20: Controls & AI Systems Engineer (SSRL, Python controls software) says Entry-level position, BS required, posted 2026-10-17, live. Software Developer 1 roles are Stanford University labs, not SLAC. No new-grad cycle.",
-  "confidence": "low"
+  "jobs_spec_basis": "saved board confirmed; SLAC site on Stanford Oracle careers",
+  "evidence": "Oracle SLAC site (100, full) screened 2026-10-27: Controls & AI Systems Engineer (SSRL, Python) says entry-level, BS, live via API, 2-year fixed term. Software Developer 1 (Stanford, both) asks 3 yrs; ROAR Full-Stack SWE 3 yrs; ML/AI Engineer and other software roles 3-5+ yrs or senior. No new-grad cycle.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

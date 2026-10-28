@@ -1,0 +1,17 @@
+{
+  "company": "Castleton Commodities International",
+  "tier": 4,
+  "checked": "2026-10-26",
+  "status": "no_program_found",
+  "postings": [],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker or careers record of a new-grad software role",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers",
+  "jobs_spec": null,
+  "jobs_spec_basis": "Workday tenant is osv_cci on host osv-cci, which jobs.py cannot address; read via CXS API, spec kept null",
+  "evidence": "Workday CXS list (tenant osv_cci) read in full (11 jobs) 2026-10-26: no US entry SWE. Operations & Finance Leadership Program (Houston) is not SWE, VP Front Office SWE and Senior SRE are senior, rest are London, interns or trades.",
+  "confidence": "high"
+}

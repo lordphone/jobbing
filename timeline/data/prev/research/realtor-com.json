@@ -1,30 +1,16 @@
 {
   "company": "Realtor.com (Move, Inc., News Corp)",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [
-    {
-      "title": "Software Engineer - Backend",
-      "url": "https://boards.greenhouse.io/rdccareers/jobs/7800190003",
-      "location": "Austin, TX",
-      "opened": "2026-07-10",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "tracker lists it as a junior Backend SWE posting",
-      "no_sponsorship": false
-    }
-  ],
+  "status": "unknown",
+  "postings": [],
   "dropped": [],
-  "last_cycle_opened": "2026-07-10",
-  "last_cycle_basis": "tracker first seen 2026-07-10: Software Engineer - Backend (junior), Austin TX https://boards.greenhouse.io/rdccareers/jobs/7800190003",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; a 2026 summer SWE intern (Austin) existed but no full-time new-grad posting dated",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.realtor.com",
   "jobs_spec": null,
-  "evidence": "Greenhouse API 2026-10-19: board rdccareers returns 'Job board not found' and job 7800190003 is 404 (job-boards page 404 too), so the 2026-07-10 Backend SWE posting is gone. careers.realtor.com is blocked (Cloudflare 403, pane denies it), so a successor ATS board could not be checked.",
-  "confidence": "low"
+  "evidence": "2026-10-26: careers.realtor.com returns Cloudflare 403 to curl and WebFetch, and no browser tab could be opened (pane at tab cap). Old Greenhouse board rdccareers returns 404. Web search shows only old intern and senior listings. Board unreadable, so unknown, retry later.",
+  "confidence": "low",
+  "checked": "2026-10-26"
 }

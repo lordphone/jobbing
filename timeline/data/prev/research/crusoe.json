@@ -1,30 +1,21 @@
 {
   "company": "Crusoe",
   "tier": 3,
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Software Engineer I, Network",
       "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "opened": "2026-08-19",
-      "date_source": "tracker first seen (Ashby publishedAt 2026-09-16, likely repost)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "'great opportunity for an early-career engineer'; '~1 year of professional work'; $117K-$138K",
-      "no_sponsorship": false
+      "reason": "gone: Ashby page shows 'Job not found' and it is not on the board"
     }
   ],
   "last_cycle_opened": "2025-12-12",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer - New College Graduate 2026' (SF)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Crusoe",
   "jobs_spec": "ashby:Crusoe",
-  "evidence": "Ashby full board 2026-10-19 (351) read and screened: SWE I, Network live with early-career text, no restriction or deadline. SWE II roles ask 3-5 yrs; others senior or non-software.",
+  "evidence": "Ashby full board read 2026-10-26: Software Engineer I, Network (counted 2026-10-22) now shows 'Job not found' and is off the board. Remaining SWE roles are II/Senior/Staff; AI Tools Engineer asks 3+ yrs. No entry SWE live.",
   "confidence": "high",
-  "dropped": [],
-  "checked": "2026-10-19"
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

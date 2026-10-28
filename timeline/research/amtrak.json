@@ -1,16 +1,16 @@
 {
  "company": "Amtrak",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "no_program_found",
  "postings": [],
- "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "not found",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "no tracker or first-party new-grad posting found",
  "jobs_page": "https://careers.amtrak.com/search-jobs?k=software%20engineer",
  "jobs_spec": null,
- "evidence": "careers.amtrak.com job feed 2026-10-20 (all 118 postings, titles read): software roles are Principal, Sr Principal, Lead, Director or Fellow. Only a Fall 2026/Spring 2027 Cybersecurity Awareness intern. No entry-level SWE or graduate program.",
- "confidence": "high"
+ "evidence": "careers.amtrak.com searches (software, developer, data engineer, graduate, entry level, early career, ML, IT, programmer) read 2026-10-27: software roles are Principal Software Engineer x3, Sr Mgr SRE, Fellow Digital Technology Architect, Lead Technologist. No entry SWE or new-grad program in US, Toronto or Vancouver.",
+ "confidence": "medium",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-27"
 }

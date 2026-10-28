@@ -1,16 +1,16 @@
 {
-  "company": "Guardant Health",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no tracker history",
+  "last_cycle_basis": "no tracker history for Guardant Health",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://gh.wd1.myworkdayjobs.com/gh",
   "jobs_spec": "wd:gh/wd1/gh",
-  "evidence": "Workday full board (72) re-read 2026-10-19: engineering posts are Senior/Staff/Manager or service/quality roles; rest sales, lab and client services. No entry SWE.",
-  "confidence": "high",
-  "dropped": []
+  "company": "Guardant Health",
+  "tier": 4,
+  "status": "no_program_found",
+  "jobs_page": "https://gh.wd1.myworkdayjobs.com/gh",
+  "evidence": "Workday full board (91) re-read 2026-10-26: no entry-level software role in the US. Engineering posts are Senior/Staff/Manager, service or quality roles, or in India (Data Engineering Manager); rest sales, lab, clinical, finance.",
+  "confidence": "high"
 }

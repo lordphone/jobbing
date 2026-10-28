@@ -1,30 +1,30 @@
 {
-  "company": "Vercel",
-  "tier": 2,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, CDN Content",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004",
-      "location": "San Francisco, CA",
-      "opened": "2026-07-07",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience building and operating backend services'; 'well-scoped projects... grow into owning larger pieces'; on-call 'with support from senior engineers'; $172K-$258K",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found: no new-grad posting in 2025-07 to 2026-01; tracker's only Vercel entry is this CDN Content role (2026-07-07)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/vercel",
-  "jobs_spec": "gh:vercel",
-  "evidence": "gh:vercel (93, full) 2026-10-19 via API: no new-grad title; only Summer/Winter 27 interns. CDN Content SWE live and junior-scoped (2+ yrs, support from senior engineers), kept. Other SWEs ask 3-8+ yrs or state no years (Next.js, Platform, Backend are senior-priced); left out.",
-  "confidence": "medium",
-  "dropped": []
+ "company": "Vercel",
+ "tier": 2,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, CDN Content",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004",
+   "location": "San Francisco, CA",
+   "opened": "2026-07-07",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience building and operating backend services'; 'well-scoped projects... grow into owning larger pieces'; on-call 'with support from senior engineers'; $172K-$258K",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "none found: no new-grad posting in 2025-07 to 2026-01; tracker's only Vercel entry is this CDN Content role (2026-07-07)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/vercel",
+ "jobs_spec": "gh:vercel",
+ "evidence": "gh:vercel full board 2026-10-26, all eng postings screened: no new-grad title. CDN Content SWE still live via API and junior-scoped (2+ yrs, $172K-$258K), kept as borderline. Others ask 3-8+ yrs or are senior-priced with no years (Next.js, Platform).",
+ "confidence": "low",
+ "checked": "2026-10-26",
+ "dropped": []
 }

@@ -1,16 +1,16 @@
 {
- "company": "DHL (DHL Group, US)",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "no_program_found",
  "postings": [],
  "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "not found",
+ "last_cycle_basis": "no new-grad SWE posting found in tracker history or on the site",
  "excluded_reason": null,
  "no_sponsorship": false,
+ "checked": "2026-10-26",
+ "company": "DHL (DHL Group, US)",
+ "tier": 5,
+ "status": "no_program_found",
  "jobs_page": "https://careers.dhl.com/amer/en/students-graduates",
  "jobs_spec": null,
- "evidence": "careers.dhl.com widgets API 2026-10-19, all 1606 US/Canada postings title-scanned: US IT hits are WMS Analyst I, Implementation Analyst I, Sr Application Support Engineer, Data Engineer I (Whiteland IN, 1+ yrs, data pipelines, not counted as SWE). No US SWE new-grad program.",
+ "evidence": "careers.dhl.com Phenom widgets search 2026-10-26 (US/Canada; software 10 hits, developer 1): Software Engineer II (Tempe, leads discussions, experienced), Application Cloud Engineer, BI Developer Manager, Sr roles. Data Engineer I (Whiteland IN, 2026-08-25, DHL Supply Chain) page is JS-only and unreadable, so left out; no US IT grad program (Americas early careers is supply-chain only).",
  "confidence": "medium"
 }

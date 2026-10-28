@@ -1,16 +1,16 @@
 {
-  "company": "Ring",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
+  "checked": "2026-10-26",
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No Ring-specific new-grad SWE tracker history; new grads join via Amazon's generic SDE Early Career postings",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "postings": [],
+  "last_cycle_opened": null,
+  "company": "Ring",
+  "tier": 4,
+  "status": "no_program_found",
+  "last_cycle_basis": "Ring posts under Amazon; Amazon's university-grad SDE roles are not Ring-specific. No Ring entry-level posting found.",
   "jobs_page": "https://www.amazon.jobs",
   "jobs_spec": "amazon:",
-  "evidence": "amazon.jobs search 'Ring' 2026-10-19 (US and Toronto): SDE, Builder and Application Builder roles (Toronto, Hawthorne, North Reading, Sunnyvale) all require 3+ yrs non-internship experience; embedded, manager and senior otherwise. No Ring entry role; new grads join via Amazon's generic SDE pipeline.",
-  "confidence": "high"
+  "evidence": "amazon.jobs search.json (Ring queries, search only, not full board) 2026-10-26: Ring SDE roles in Toronto (Cloud Connectivity) ask 3+ yrs professional experience; Sunnyvale embedded roles, others senior or non-US. No entry-level Ring SWE.",
+  "confidence": "medium"
 }

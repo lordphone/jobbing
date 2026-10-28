@@ -1,16 +1,17 @@
 {
   "company": "Udemy",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "jobs.py history 'udemy': no postings found",
+  "last_cycle_basis": "jobs.py history: no Udemy postings; Coursera (parent) Software Engineer I Mobile Seattle first seen 2026-02-27, outside the window",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/udemy",
-  "jobs_spec": "gh:udemy",
-  "evidence": "Greenhouse API 2026-10-20 (3, full): no SWE roles at all (Senior Pre-Sales Japan, Senior Merchandising Manager, talent community). No entry SWE.",
-  "confidence": "high"
+  "jobs_page": "https://careers.coursera.com/jobs/search/careers",
+  "jobs_spec": "gh:coursera",
+  "evidence": "gh:coursera (27) and gh:udemy (3), both full, 2026-10-27: no entry SWE; only LLMops India and non-engineering roles. Udemy roles appear on these two boards. About.udemy.com not reloaded, so confidence medium.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Prior run: careers page sends job seekers to Coursera board; Udemy roles appear on gh:coursera and gh:udemy (careerpuck)."
 }

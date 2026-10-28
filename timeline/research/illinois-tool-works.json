@@ -1,8 +1,11 @@
 {
   "company": "Illinois Tool Works (ITW)",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "no tracker record for ITW itself in Jul 2025-Jan 2026 (only unrelated Kitware hits); summer 2027 SWE internships posted 2026-09/10",
+  "jobs_page": "https://careers.itw.com/us/en",
+  "jobs_spec": "wd:itw/wd5/External",
   "postings": [
     {
       "title": "Software Engineer",
@@ -14,7 +17,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'seeking an early career Software Engineer'; Bachelor's CS/SE; $68,000 - $84,000",
+      "level_basis": "'seeking an early career Software Engineer'; Bachelor's CS/SE, no years asked; $68,000 - $84,000",
       "no_sponsorship": false
     },
     {
@@ -27,17 +30,14 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'minimum of 1 years of industry experience'; contributor/collaborator duties, no lead or mentor",
+      "level_basis": "'minimum of 1+ years of industry experience'; contributor duties, no lead or mentor",
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker record for ITW itself in Jul 2025-Jan 2026 (only unrelated Kitware hits); summer 2027 SWE internships posted 2026-09/10",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.itw.com/us/en",
-  "jobs_spec": "wd:itw/wd5/External",
-  "evidence": "Workday detail API 2026-10-20: early career Software Engineer (Rogers MN, JR8874-1) and 1+ yr embedded Software Engineer (Appleton WI, JR6591) both still resolve. Not counted: SWE II 2-4 yrs, embedded 4+ yrs, Orting 2+ yrs lead. No new-grad program.",
+  "evidence": "Workday board (785, full) 2026-10-27, software titles screened. Rogers MN early career SWE (JR8874) and Appleton embedded SWE (1+ yr, JR6591) still live via API. Left out: Orting SWE (technical lead over vendors, 2+ yrs), MTS embedded (4 yrs), Grand Prairie, Troy ERP.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

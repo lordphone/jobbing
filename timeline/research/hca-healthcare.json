@@ -1,16 +1,16 @@
 {
   "company": "HCA Healthcare",
+  "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": null,
   "last_cycle_basis": "not found; no dated HCA entry-level SWE posting from Jul 2025 - Jan 2026",
   "jobs_page": "https://careers.hcahealthcare.com/search/jobs?q=software%20engineer",
   "jobs_spec": null,
-  "evidence": "Careers site loaded in browser 2026-10-20 (searches: software engineer, associate software engineer, application developer, new graduate technology, software engineer I). IT roles are Senior, Consulting, Staff, Principal or II; Application Developer asks 5 yrs. No entry-level SWE found. No API, not fully enumerated.",
+  "evidence": "Site returned 403 to fetch and browser pane was full on 2026-10-27, so board not re-read; site search shows only Senior/Staff software roles, and HCA FAQ lists new-grad programs only for nursing, pharmacy, executive residency. Carries forward 2026-10-26 browser read: no entry SWE.",
   "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "postings": [],
+  "dropped": [],
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "dropped": []
+  "no_sponsorship": false
 }

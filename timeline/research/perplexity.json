@@ -1,30 +1,43 @@
 {
-  "company": "Perplexity",
-  "tier": 2,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
-      "url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
-      "location": "San Francisco, CA; New York, NY",
-      "opened": "2026-06-04",
-      "date_source": "ashby publishedAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires 2+ years; \"we're open to strong junior and mid-level candidates\"",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; GitHub tracker history shows no SWE new-grad posting 2025-07 to 2026-01 (only an Associate Product Manager program 2025-07-25)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.ashbyhq.com/Perplexity",
-  "jobs_spec": "ashby:Perplexity",
-  "evidence": "Ashby full board (134) re-read 2026-10-20: MTS (New Grad) 9/29 says the general portal closed for 2026, so not counted. MTS AI Products Early Career says new grads should not apply. Computer Growth SWE asks 2+ years, open to junior, kept.",
-  "confidence": "medium"
+ "company": "Perplexity",
+ "tier": 2,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+   "location": "San Francisco, CA; New York, NY",
+   "opened": "2026-06-04",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires 2+ years; \"we're open to strong junior and mid-level candidates with a track record of shipping\"",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
+   "location": "San Francisco, CA",
+   "opened": "2026-10-24",
+   "date_source": "ashby publishedAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience developing and shipping distributed systems'; 'BS, MS, or PhD'; no lead duties, borderline",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "GitHub tracker history shows no SWE new-grad posting 2025-07 to 2026-01 (only an Associate Product Manager program 2025-07-25).",
+ "jobs_page": "https://jobs.ashbyhq.com/Perplexity",
+ "jobs_spec": "ashby:Perplexity",
+ "evidence": "Ashby full board (132) screened 2026-10-27. MTS (New Grad) says applications closed; Early Career - Industry says new grads should NOT apply. Computer Growth SWE (2+ yrs, open to junior) kept; new Training Infrastructure SWE (2+ yrs) added as borderline. Experience and Agent Engine SWE state no years, left out; others ask 3+ yrs.",
+ "confidence": "medium",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-27"
 }

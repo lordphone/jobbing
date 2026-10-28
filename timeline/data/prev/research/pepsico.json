@@ -1,5 +1,6 @@
 {
   "company": "PepsiCo",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -18,13 +19,12 @@
   ],
   "last_cycle_opened": "2025-10-20",
   "last_cycle_basis": "tracker first seen: Junior Data Scientist - New Grad (Mississauga, Canada); data science not SWE; no US new-grad SWE found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://uscareers-pepsico.icims.com/jobs/search?searchKeyword=software%20engineer",
   "jobs_spec": null,
-  "evidence": "iCIMS searched 2026-10-19 (software engineer, developer, early career, associate engineer, machine learning): Analytics Platform Engineer 468920 loads, entry-level role, 1-2 yrs incl. internships (dbt/CI/CD platform work, borderline software), kept. SWE & App Arch Engineer 468396 gone. AI Engineer 454177 needs 6-8 yrs. Others senior.",
+  "evidence": "iCIMS keyword searches 2026-10-26 (12 terms) and posting 468920 opened: Analytics Platform Engineer, New York, posted 2026-09-08, 'entry-level role', 1-2 yrs incl. internships, platform dev (dbt, Airflow, CI/CD). Borderline software, kept. Other roles senior, architect or non-engineering.",
   "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": []
+  "dropped": [],
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

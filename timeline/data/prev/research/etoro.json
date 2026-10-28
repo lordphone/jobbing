@@ -1,16 +1,16 @@
 {
   "company": "eToro",
   "tier": 4,
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": null,
+  "last_cycle_basis": "no tracker history or university program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://www.etoro.com/about/careers/",
   "jobs_spec": null,
-  "evidence": "Careers page read 2026-10-19 (23 roles via WebFetch): engineering only in Limassol (BizOps Developer, Senior DevOps, Senior Frontend); only US role is Senior Accountant in New York. No US entry-level SWE.",
-  "confidence": "medium",
-  "checked": "2026-10-19"
+  "evidence": "Careers page read 2026-10-26: 20 openings; engineering only BizOps Developer and Senior DevOps (Limassol), IT support (Tel Aviv); only US role is Senior Accountant (New York). No US or Canada SWE, no new-grad program.",
+  "confidence": "high"
 }

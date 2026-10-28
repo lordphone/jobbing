@@ -1,43 +1,43 @@
 {
- "company": "Datalab USA",
- "status": "open",
- "postings": [
-  {
-   "title": "Production Programmer - Entry Level SQL Developer",
-   "url": "https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53",
-   "location": "Westminster, CO",
-   "opened": "2026-09-22",
-   "date_source": "lever createdAt",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  },
-  {
-   "title": "Production Programmer - Entry Level SQL Developer",
-   "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
-   "location": "Germantown, MD (candidates must be local)",
-   "opened": "2026-08-19",
-   "date_source": "lever createdAt",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": "2025-08-01",
- "last_cycle_basis": "Tracker history: Production Programmer - Entry Level SQL Developer (Germantown, MD) first seen 2025-08-01",
- "no_sponsorship": true,
- "jobs_page": "https://jobs.lever.co/datalabusa",
- "jobs_spec": "lever:datalabusa",
- "evidence": "Lever API full board (16) and detail pages read 2026-10-20: two live entry-level Production Programmer / SQL Developer roles, 'NO sponsorship offered'. Borderline SWE. Database Developer roles ask 2-3 yrs; Programmer Analyst roles are analytics, left out.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-20",
- "dropped": [],
- "excluded_reason": null
+  "company": "Datalab USA",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Production Programmer - Entry Level SQL Developer",
+      "url": "https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53",
+      "location": "Westminster, CO",
+      "opened": "2026-09-22",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Entry Level SQL Developer'; posting says 'entry level position'",
+      "no_sponsorship": true
+    },
+    {
+      "title": "Production Programmer - Entry Level SQL Developer",
+      "url": "https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea",
+      "location": "Germantown, MD (candidates must be local)",
+      "opened": "2026-08-19",
+      "date_source": "lever createdAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Title 'Entry Level SQL Developer'; posting says 'entry level position'",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-08-01",
+  "last_cycle_basis": "Tracker history: Production Programmer - Entry Level SQL Developer (Germantown, MD) first seen 2025-08-01",
+  "excluded_reason": null,
+  "no_sponsorship": true,
+  "jobs_page": "https://jobs.lever.co/datalabusa",
+  "jobs_spec": "lever:datalabusa",
+  "evidence": "Lever API full board (16) read 2026-10-27: two live entry-level Production Programmer / SQL Developer roles, both say no sponsorship. Borderline SWE. Database Developer roles ask 2-3 yrs; Programmer Analyst roles are analytics, left out.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

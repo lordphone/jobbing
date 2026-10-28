@@ -1,13 +1,15 @@
 {
   "company": "Aramark",
+  "tier": 5,
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
       "title": "Junior Data Engineer (req 677288)",
       "url": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19106/1426164400/",
       "location": "Philadelphia, PA",
-      "opened": "on or before 2026-09-26",
-      "date_source": "aramark sitemap lastmod (earlier run); sibling Rockville Junior Data Engineer first seen 2026-09-02 on trackers",
+      "opened": "2026-09-02",
+      "date_source": "aramarkcareers.com search listing date 9/2/26",
       "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
@@ -18,13 +20,12 @@
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history for an entry SWE; none found",
-  "no_sponsorship": false,
   "jobs_page": "https://aramarkcareers.com/UnitedStates/search/",
   "jobs_spec": null,
-  "evidence": "aramarkcareers.com posting reopened 2026-10-19: Junior Data Engineer 677288 (Philadelphia) shows Apply now, no visa sponsorship, entry-level coding duties. Jr. Data Engineer Cognitive Data Services posting is gone. Other data engineer roles ask 5-7 yrs. Board has about 7000 postings, so coverage is partial.",
+  "evidence": "2026-10-26: Junior Data Engineer 677288 (Philadelphia) page shows Apply now, no sponsorship, no deadline. Site RSS keyword searches (software, developer, junior, graduate) show only Senior Software Engineer besides it. Keyword-only search, so partial.",
   "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
+  "dropped": [],
   "excluded_reason": null,
-  "dropped": []
+  "no_sponsorship": false,
+  "jobs_spec_basis": "Aramark careers is SuccessFactors-style site with RSS keyword search; no API board."
 }

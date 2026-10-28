@@ -1,16 +1,14 @@
 {
-  "company": "BNSF Railway",
-  "status": "open",
   "postings": [
     {
       "title": "bnsf tech Trainee 2027 (Remote - US)",
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95881EXTERNALENUS",
-      "location": "Remote (US, contiguous 48 states; onboarding Fort Worth, TX)",
+      "location": "Remote (US, contiguous 48 states); onboarding in Fort Worth, TX",
       "opened": "2026-09-04",
-      "date_source": "phenom postedDate",
+      "date_source": "page text (Phenom postedDate)",
       "deadline": null,
-      "grad_window": "Pursuing or completed a CS/IT/DS/AI degree, less than 3 years professional experience; anticipated starts 2/1/2027, 6/14/2027, 9/20/2027",
-      "live_verified": "api",
+      "grad_window": "starts 2027-02, 2027-06 or 2027-09",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": true
@@ -20,24 +18,26 @@
       "url": "https://jobs.bnsf.com/us/en/job/BRSBRWUS95574EXTERNALENUS",
       "location": "Remote (US, contiguous 48 states)",
       "opened": "2026-07-28",
-      "date_source": "phenom postedDate",
+      "date_source": "page text (Phenom postedDate)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Level I/II (L3 $93,750-$125,000); requires a bachelor's in CS or 2 years of software experience, no years beyond that. Page says it may close about 7 days after posting but still showed Apply Now 2026-10-18",
+      "level_basis": "I/II level; basic quals 'Bachelor's degree or higher in computer science' with no years required; pay from $93,750",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-26",
+  "company": "BNSF Railway",
+  "tier": 5,
+  "status": "open",
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no last-cycle open date found",
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.bnsf.com/us/en/search-results?keywords=software",
   "jobs_spec": null,
-  "evidence": "BNSF Phenom search and posting pages 2026-10-19: bnsf tech Trainee 2027 (posted 2026-09-04, CS/IT/DS/AI, <3 yrs, no sponsorship) and Full Stack SWE I/II (posted 2026-07-28, sponsors H-1B/TN/OPT) both live with apply links. Sr/Staff, interns and audit trainees not counted.",
-  "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "excluded_reason": null,
-  "dropped": []
+  "evidence": "Phenom search (software, developer, data, technology) and job pages re-read 2026-10-26: bnsf tech Trainee 2027 (needs no sponsorship) and Full Stack SWE I/II both listed with Apply. Sr/Staff SWE and Data Scientist are senior. Posting says closing about 7 days after posting but still listed.",
+  "confidence": "medium"
 }

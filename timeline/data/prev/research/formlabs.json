@@ -1,16 +1,43 @@
 {
   "company": "Formlabs",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "not_yet",
-  "postings": [],
-  "dropped": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer, Business Systems",
+      "url": "https://job-boards.greenhouse.io/formlabs/jobs/7506561",
+      "location": "Somerville, MA",
+      "opened": "2025-12-30",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'built for early-career engineers, including recent graduates'; '0-3 years of professional software engineering experience, including internships'; $100K-$140K",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer, API & Automation",
+      "url": "https://job-boards.greenhouse.io/formlabs/jobs/8312364",
+      "location": "Somerville, MA",
+      "opened": "2026-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'engineers at all experience levels, from early-career engineers building their expertise'; no years required; $110K-$150K",
+      "no_sponsorship": false
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.formlabs.com",
   "jobs_spec": "gh:formlabs",
-  "evidence": "Greenhouse full board (247) 2026-10-19. 2027-grad reqs (opened 2026-09-21 to 10-02) are print optimization (any science degree, coding a bonus), R&D, reliability/test, manufacturing, robotics, electrical, mechanical: none software. Software Engineer and Data Engineer roles ask senior or 3-5+ yrs.",
-  "confidence": "medium"
+  "evidence": "gh:formlabs full board (238) read 2026-10-26. Two Somerville SWE roles welcome early-career: Business Systems (evergreen since 2025-12-30) and API & Automation (2026-10-22, all levels). 2027-grad titles are print optimization, R&D, test, mfg, ME, not software. Other SWE roles Budapest, embedded, Senior.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -2,15 +2,15 @@
   "company": "PACCAR",
   "tier": 5,
   "status": "not_yet",
-  "last_cycle_opened": "2025-10",
-  "last_cycle_basis": "tracker_last_cycle 2025-10 (PACCAR Extern/intern requisitions; entry SWE new-grad not confirmed)",
-  "jobs_page": "https://jobs.paccar.com",
-  "jobs_spec": null,
-  "evidence": "jobs.paccar.com feed (267) read 2026-10-20. Software/data roles ask 5+ to 7+ yrs (Data Engineer 5+, Purchasing Data Engineer 5+, Salesforce 7+, BEV Software Engineer, ADAS); only 2027 summer interns. No entry-level software posting yet.",
-  "confidence": "high",
-  "checked": "2026-10-20",
   "postings": [],
   "dropped": [],
+  "last_cycle_opened": "2025-10",
+  "last_cycle_basis": "tracker history: PACCAR entry-level software/IT roles first seen 2025-10",
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "jobs_page": "https://jobs.paccar.com",
+  "jobs_spec": null,
+  "evidence": "jobs.paccar.com full list (254 jobs, all pages via startrow) read 2026-10-27: Purchasing/Renton Data Engineers ask 5+ yrs, ADAS Development Engineer 7+, Application Security 5+, Data Analyst 3+, Software Engineer BEV 7+, Software Integration & Test 3+. Only Summer 2027 interns otherwise. No entry SWE live.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

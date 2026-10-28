@@ -1,16 +1,17 @@
 {
-  "company": "Miro",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Only a 2025-09 GTM Engineer in tracker; no SWE",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Miro",
+  "tier": 3,
+  "status": "not_yet",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "miro.com/careers FAQ: 'New positions will be open each January'; graduate program for Software Engineers opened Spring 2024; no tracker history for this cycle (only a 2025-09 GTM Engineer)",
   "jobs_page": "https://jobs.ashbyhq.com/miro",
   "jobs_spec": "ashby:miro",
-  "evidence": "ashby:miro 2026-10-19 (22, full): no engineering roles, only sales and G&A. No US intern or grad program.",
-  "confidence": "medium"
+  "jobs_spec_basis": "miro.com/careers/open-positions listings match the 21 jobs on jobs.ashbyhq.com/miro",
+  "evidence": "ashby:miro full board (21) 2026-10-26: no engineering roles at all (sales, CS, GTM, solutions). Company FAQ says graduate program roles (incl. Software Engineers) open each January, so nothing live yet.",
+  "confidence": "low"
 }

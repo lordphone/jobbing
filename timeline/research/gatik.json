@@ -1,16 +1,30 @@
 {
   "company": "Gatik",
   "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for Gatik",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4712524006",
+      "location": "Santa Clara, CA",
+      "opened": "2026-09-10",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'Experience: Open to all experience levels. Leveling will be determined based on experience and technical depth'; MS or PhD accepted",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_basis": "no tracker history found for Gatik",
   "jobs_page": "https://job-boards.greenhouse.io/gatikaiinc",
   "jobs_spec": "gh:gatikaiinc",
-  "evidence": "Greenhouse gatikaiinc full board (67) read 2026-10-20: Embedded SWE asks 2+ yrs automotive, ML Engineer $170-240K production-level, Robotics Engineer no entry language, rest Senior or drivers. No entry-level SWE.",
-  "confidence": "medium"
+  "evidence": "gh:gatikaiinc full board (67) 2026-10-27: ML Engineer (Santa Clara) still listed, open to all experience levels, kept as borderline unlabeled. Embedded SWE needs 2+ yrs automotive embedded, IT roles 3-5+ yrs, rest Senior/Staff or non-software.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "last_cycle_opened": null,
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

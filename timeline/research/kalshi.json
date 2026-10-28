@@ -1,7 +1,6 @@
 {
   "company": "Kalshi",
   "tier": 3,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -18,13 +17,14 @@
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "Tracker history: only a 2024 Surveillance Analyst; no new-grad SWE posting 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/kalshi",
   "jobs_spec": "gh:kalshi",
-  "evidence": "gh:kalshi 2026-10-20 (28, full) screened. Sports Operations Engineer (BS, 1-3 yrs, Python automation, no lead duties) still live on API and kept as unlabeled; other SWE roles ask 3-5+ yrs. No new-grad program.",
-  "confidence": "medium"
+  "evidence": "gh:kalshi (28, full) screened 2026-10-27. Sports Operations Engineer (1-3 yrs SWE, Python automation, no lead duties, $100-150K) live on API, kept as borderline unlabeled; published 2025-09-08. Other SWE roles ask 3-5+ yrs; Quant Developer is a trader role.",
+  "confidence": "low",
+  "checked": "2026-10-27",
+  "dropped": []
 }

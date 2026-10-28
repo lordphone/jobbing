@@ -1,16 +1,16 @@
 {
   "company": "Hermeus",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "status": "excluded",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE tracker history; only a 2026-06-24 'Manufacturing Engineer, New Grad' (non-SWE).",
-  "excluded_reason": null,
+  "last_cycle_basis": "no new-grad postings found",
+  "excluded_reason": "us person / itar",
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/hermeus",
   "jobs_spec": "lever:hermeus",
-  "evidence": "Re-read 2026-10-19: Autonomy and C&C SWE list no years but are not clearly entry-level; export clause allows deemed-export licensing. Lever (81, full) read 2026-10-18: SWE bodies need professional experience; Flight SW Engineer asks 1+ yrs but body says 'Senior' ($105-125K),",
+  "evidence": "Lever full board (80) 2026-10-26: no new-grad titles, only 2027 interns. Software roles (Flight Software 1+ yrs, Autonomy, Flight SW C&C) all say hired person 'must either be a U.S. person' per export controls. Internal Applications SWE needs 5+ yrs.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-26"
 }

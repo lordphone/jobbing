@@ -1,30 +1,30 @@
 {
- "company": "Honeywell Technologies",
- "status": "open",
- "postings": [
-  {
-   "title": "Future IT Leaders - Recent Grad/Full Time",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157980",
-   "location": "Atlanta, GA; Charlotte, NC",
-   "opened": "2026-09-18",
-   "date_source": "oracle posted date",
-   "deadline": "2027-05-01",
-   "grad_window": "Graduated Dec 2026 - May 2027",
-   "live_verified": "api",
-   "level": "new-grad title",
-   "level_basis": "Three-year rotational Corporate IT program for CS / AI / IS grads (BS or MS), $68,000-$115,000; borderline SWE, not a pure software track",
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": "2025-09-26",
- "last_cycle_basis": "jobs.py history: Software Engineer I and Cyber/Data Science recent-grad roles first seen 2025-09-26 (Simplify)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs",
- "jobs_spec": "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell",
- "evidence": "Full Oracle board (1149) re-read 2026-10-20. Only candidate is Future IT Leaders Recent Grad (live via API, ends 2027-05-01, grads Dec 2026-May 2027, no sponsorship), borderline SWE. Advanced Software Engineer roles need more years; US Person variant excluded.",
- "confidence": "low",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+  "company": "Honeywell Technologies",
+  "tier": 5,
+  "checked": "2026-10-27",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Future IT Leaders - Recent Grad/Full Time",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157980",
+      "location": "Atlanta, GA; Charlotte, NC",
+      "opened": "2026-09-18",
+      "date_source": "oracle posted date",
+      "deadline": "2027-05-01",
+      "grad_window": "Graduated Dec 2026 - May 2027",
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Recent-grad technology program for BS/MS grads (Engineering, IT, Data Science); three-year rotational Corporate IT program, borderline SWE, not a pure software track",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-09-26",
+  "last_cycle_basis": "jobs.py history: Software Engineer I and Cyber/Data Science recent-grad roles first seen 2025-09-26 (Simplify)",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs",
+  "jobs_spec": "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell",
+  "evidence": "Full Oracle board (1326) read 2026-10-27. Counted Future IT Leaders Recent Grad (api live, ends 2027-05-01, no sponsorship). Other US SWE roles need 4-5+ yrs or US Person; SWE I only Singapore/China; US-Person duplicate 156756 not counted.",
+  "confidence": "low"
 }

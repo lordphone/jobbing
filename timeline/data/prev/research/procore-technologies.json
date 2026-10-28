@@ -1,16 +1,16 @@
 {
   "company": "Procore Technologies",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Unknown; no tracker history for Procore.",
+  "last_cycle_basis": "no tracker history or new-grad program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.procore.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "Browser pane read careers.procore.com 2026-10-19 (35 results, Engineering 32): US engineering is Senior/Staff/Principal/Manager, Software Engineer 2 (Austin, above entry level) and QA Engineer 2. No entry-level or new-grad SWE.",
-  "confidence": "medium",
-  "dropped": []
+  "status": "no_program_found",
+  "evidence": "careers.procore.com 2026-10-26: Engineering list (31 results, both pages) read: US engineering roles are Senior/Staff/Principal/Manager plus QA Engineer 2 (DroneDeploy, Austin; QA, not counted). Software Engineer 2 is Bengaluru only. No new-grad program.",
+  "confidence": "medium"
 }

@@ -1,30 +1,30 @@
 {
-  "company": "Chicago Trading Company (CTC)",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Engineer - 2027 Start",
-      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
-      "location": "Chicago, IL; New York, NY",
-      "opened": "2026-08-03",
-      "date_source": "greenhouse first_published of the same job on gh:ctccampusboard (4709991005); this link 2026-08-03",
-      "deadline": null,
-      "grad_window": "Dec 2026 - Jun 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-12-18",
-  "last_cycle_basis": "tracker history: Associate C++ Engineer (Chicago) first seen 2025-12-18",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/chicagotradingcampus",
-  "jobs_spec": "gh:chicagotradingcampus",
-  "evidence": "gh:chicagotradingcampus (8) and main gh:chicagotrading (21) re-read 2026-10-20: Associate Engineer 2027 Start live (first published 2026-08-03), graduate Dec 2026-Jun 2027, no deadline. Main board engineer roles are experienced or senior. Tracker applytojob Software Engineer is CTC Group (Fort Meade), a different company.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Chicago Trading Company (CTC)",
+ "tier": 3,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Engineer - 2027 Start",
+   "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
+   "location": "Chicago, IL; New York, NY",
+   "opened": "2026-08-03",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": "Dec 2026 \u2013 Jun 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title '2027 Start'; 'You will graduate between December 2026-June 2027'",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-18",
+ "last_cycle_basis": "tracker history: Associate C++ Engineer (Chicago) first seen 2025-12-18",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/chicagotradingcampus",
+ "jobs_spec": "gh:chicagotradingcampus",
+ "evidence": "gh:chicagotradingcampus (9) and gh:chicagotrading (18) read 2026-10-27: Associate Engineer 2027 Start still live via API (page 200), graduates Dec 2026-Jun 2027, no deadline. Main-board AI Engineer, Desk Developer, Quant Developer state no entry level, left out. Tracker applytojob Software Engineer is CTC Group, a different company.",
+ "confidence": "high",
+ "checked": "2026-10-27"
 }

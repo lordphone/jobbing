@@ -1,7 +1,6 @@
 {
   "company": "Anduril",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "excluded",
   "postings": [
     {
@@ -29,15 +28,30 @@
       "level": "new-grad title",
       "level_basis": null,
       "no_sponsorship": false
+    },
+    {
+      "title": "Early Career Software Engineer, Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
+      "location": "Broomfield, CO; Fort Collins, CO",
+      "opened": "2026-10-26",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-11",
-  "last_cycle_basis": "greenhouse first_published of '2026 Early Career Software Engineer' (job 4802146007), still on board; tracker 2025-08-12",
+  "last_cycle_basis": "greenhouse first_published of 2026 Early Career Software Engineer 4802146007",
   "excluded_reason": "us person / itar",
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/andurilindustries",
   "jobs_spec": "gh:andurilindustries",
-  "evidence": "Greenhouse API (2533) 2026-10-19: 2027 Early Career SWE and Flight SWE live (2026 SWE is leftover). Detail quote on both: 'Must be a U.S. Person due to required access to U.S. export-controlled information' (ITAR). Firmware excluded as hardware.",
+  "evidence": "Greenhouse full board (2505) 2026-10-26: 2027 Early Career SWE, Flight SWE and new Battlespace Awareness SWE live; details say 'Must be a U.S. Person due to required access to U.S. export-controlled information' and clearance may be required. Dublin SWE roles are not US.",
   "confidence": "high",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "jobs_spec_basis": "unflagged; reread full Greenhouse board"
 }

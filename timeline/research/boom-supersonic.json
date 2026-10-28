@@ -1,31 +1,31 @@
 {
-  "company": "Boom Supersonic",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer (Early Career, Exceptional Talent)",
-      "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
-      "location": "Centennial, CO",
-      "opened": "2026-08-14",
-      "date_source": "rippling createdOn",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Rippling department 'Early Career'; posting says Boom hires 'a small number of extraordinary computer science graduates'; $108,000-$137,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Denver, CO (Boom Greenhouse job 5643302004)",
-  "jobs_page": "https://ats.rippling.com/boom-supersonic/jobs",
-  "jobs_spec": null,
-  "jobs_spec_basis": "Rippling ATS board API api.rippling.com/platform/api/ats/v1/board/boom-supersonic/jobs lists all jobs",
-  "evidence": "Rippling API (31 jobs) read 2026-10-20: Early Career SWE (Exceptional Talent), Centennial CO, created 2026-08-14, live, no deadline. ITAR line allows 'eligible to obtain the required authorizations from the U.S. Department of State', so kept open. Full Stack SWE ($150K-190K, Oct 2025) not entry.",
-  "confidence": "medium",
-  "checked": "2026-10-20",
-  "dropped": [],
-  "no_sponsorship": false,
-  "excluded_reason": null
+ "company": "Boom Supersonic",
+ "tier": 4,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer (Early Career, Exceptional Talent)",
+   "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
+   "location": "Centennial, CO",
+   "opened": "2026-08-14",
+   "date_source": "rippling createdOn",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Rippling department 'Early Career'; posting says Boom hires 'a small number of extraordinary computer science graduates'",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-09-07",
+ "last_cycle_basis": "tracker first-seen: New Grad: Software Engineer, Denver, CO (Boom Greenhouse job 5643302004)",
+ "jobs_page": "https://ats.rippling.com/boom-supersonic/jobs",
+ "jobs_spec": null,
+ "jobs_spec_basis": "Rippling ATS board page lists all jobs (embedded page data)",
+ "evidence": "Rippling board (22 jobs) and the Early Career SWE posting read 2026-10-27: listed, createdOn 2026-08-14, no deadline. ITAR line says applicant must be a citizen, LPR 'or eligible to obtain the required authorizations', so kept open. Build Engineer is not entry-level; other Early Career roles are non-software.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false
 }

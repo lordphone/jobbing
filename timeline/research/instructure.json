@@ -1,16 +1,30 @@
 {
   "company": "Instructure (Canvas)",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
+  "status": "open",
+  "postings": [
+    {
+      "title": "AI Engineer, Marketing",
+      "url": "https://jobs.ashbyhq.com/instructure/09dbdc35-5e01-4131-b95f-1d8298f0e8e9",
+      "location": "Remote (US)",
+      "opened": "2026-10-22",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires '2+ years in marketing technology, automation, software, or a comparable technical role or equivalent hands-on project experience'; builds production LLM tools and API integrations, no lead duties; $85-90K",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
+  "last_cycle_basis": "none found; no SWE new-grad postings in tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/instructure",
   "jobs_spec": "ashby:instructure",
-  "evidence": "Ashby full board (58) 2026-10-20: only engineering post is AI Platform Engineer in Budapest; US roles are sales, CS, product, ops. No entry SWE in US, Toronto or Vancouver.",
-  "confidence": "high"
+  "evidence": "Ashby full board (55) read 2026-10-27: other engineering posts are Budapest or senior. Only US role is AI Engineer, Marketing (US-remote, 2+ yrs, builds LLM tools for marketing, still live); borderline since it serves marketing, counted as unlabeled AI engineer and kept from the earlier run.",
+  "confidence": "low",
+  "checked": "2026-10-27"
 }

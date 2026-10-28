@@ -1,16 +1,17 @@
 {
   "company": "DigiCert",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2024-12-20",
   "last_cycle_basis": "No posting in 2025-07 to 2026-01; earlier Junior Software Engineer (Remote USA) first seen 2024-12-20 per jobs.py history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/digicert",
   "jobs_spec": "gh:digicert",
-  "evidence": "Greenhouse full board (51) 2026-10-19: only entry-level SWE is Bangalore; no US SWE roles in the entry range. Earlier Sunnyvale Associate Backend Engineer (2026-07-21) and Lehi Software Engineer Associate (2026-05-21) are no longer on board.",
-  "confidence": "medium"
+  "evidence": "Greenhouse full board (49) 2026-10-26: only entry SWE is Bangalore (non-US). This-cycle Associate Backend Engineer (Sunnyvale, gh_jid 8637536002, first seen 2026-07-21) still 404 on the Greenhouse API and off the board: closed.",
+  "confidence": "medium",
+  "postings": [],
+  "dropped": [],
+  "checked": "2026-10-26",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_spec_basis": "saved board confirmed"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Jane Street",
   "tier": 1,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -12,19 +11,20 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Greenhouse metadata employment type 'Full-Time: New Grad', role 'Software Engineer'; $300,000 base; no years asked",
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "no years of experience asked ('We don't expect you to have a background in...'); base salary $300,000; tracker lists it as 'Software Engineer Full-Time: New Grad'",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-07-10",
-  "last_cycle_basis": "jobs.py history: tracker first-seen 2025-07-10 for prior cycle's full-time postings (SWE posting 2025-08-01 NYC)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "tracker first-seen 2025-07-10 for prior cycle's full-time postings (SWE posting 2025-08-01 NYC)",
   "jobs_page": "https://www.janestreet.com/join-jane-street/open-roles/",
   "jobs_spec": "gh:janestreet",
-  "evidence": "gh:janestreet full board (221) read 2026-10-20; Greenhouse API for NYC SWE 8594541002 shows Employment Type Full-Time: New Grad, $300K base, live. Same-day NYC SWE 8599644002 is a Summer Internship, left out. Other SWE New Grad reqs are London/HK/Singapore.",
-  "confidence": "high"
+  "evidence": "gh:janestreet board (220) read 2026-10-27. Full-time Software Engineer NYC (first published 2026-07-06) is live with Apply button in browser, asks for no experience; other 2026-07-06 SWE is the intern posting. Campus Recruiter roles not counted.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

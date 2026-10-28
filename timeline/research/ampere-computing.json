@@ -1,17 +1,16 @@
 {
   "company": "Ampere Computing",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.amperecomputing.com/",
+  "last_cycle_basis": "not found",
+  "jobs_page": "https://careers.amperecomputing.com/search/jobs",
   "jobs_spec": null,
-  "jobs_spec_basis": "Careers site is Cloudflare-protected; /search/jobs.json?page=N in browser lists all jobs",
-  "evidence": "Careers site blocked fetches 2026-10-20 (403). Relying on 2026-10-19 browser read of all 92 jobs: US software roles Principal/Senior/Distinguished, AI Accelerator SWE BS+5. Web search found no 2027 new-grad role. Only interns.",
-  "confidence": "low"
+  "evidence": "Browser pane read 2026-10-27: careers site (99 jobs, 60 US; 18 software/firmware/AI/IT US roles) all Principal/Senior or BS+5 / MS+3 (AI Accelerator SWE Graph Optimization needs MS+3). Early Career page lists internships only. No entry-level SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -3,14 +3,15 @@
   "tier": 4,
   "status": "closed",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-12",
   "last_cycle_basis": "tracker first seen: SDE I London 2025-09-12; US SDE 1 Seattle 2025-10-02 (SEM Engineering)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://expedia.wd108.myworkdayjobs.com/search",
   "jobs_spec": "wd:expedia/wd108/search",
-  "evidence": "Workday full list (174) 2026-10-19: no SDE I or new-grad SWE listed; SDE I Vancouver R-109478 not on board. Only non-US infra engineer unlabeled; US SWE roles II or senior.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Full Workday list (151) 2026-10-26: no SDE I or new-grad SWE. US SWE roles are SDE II+ (2+ to 3+ yrs; iOS Engineer II asks 2+ yrs mobile); only 2027 interns and London roles. Earlier tracker SDE 1 postings (Seattle Aug 2026, Vancouver 2026-10-01) are not on the board, so closed.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "jobs_spec_basis": "saved board wd:expedia/wd108/search confirmed; lists Expedia roles"
 }

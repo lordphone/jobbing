@@ -1,16 +1,16 @@
 {
   "company": "Hyatt Hotels Corporation",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
+  "last_cycle_basis": "no tracker or page history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.hyatt.com/en-US/careers/careers/technology",
   "jobs_spec": null,
-  "evidence": "Browser careers.hyatt.com Technology search 2026-10-19 (16 jobs): US corporate tech roles are Senior ML/Full Stack/AI engineers, Director, DevOps. No entry software or tech new-grad program.",
-  "confidence": "medium"
+  "evidence": "2026-10-26: careers.hyatt.com and Taleo sitemap returned 403/404 to me, browser pane unavailable; a web search found no 2027 new-grad tech posting (internships cover finance, marketing, ops). Relies on the 2026-10-23 full Taleo sitemap read (2912 jobs): US/Canada tech roles all Senior/Lead/Director, no entry SWE.",
+  "confidence": "low"
 }

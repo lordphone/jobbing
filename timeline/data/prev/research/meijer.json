@@ -1,16 +1,22 @@
 {
-  "company": "Meijer",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Entry Level Data Engineer opened 2024-11-15 (two cycles ago, closed); nothing in 2025-26 cycle",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://meijer.wd5.myworkdayjobs.com/Meijer",
-  "jobs_spec": "wd:meijer/wd5/Meijer",
-  "evidence": "Workday full board (182) 2026-10-19: tech roles are Principal Engineer, Senior IT AppSec, Data Scientist (4+ yrs), Technical Product Owner, Advanced Analyst II (2+ yrs analytics); 2027 postings are Summer 2027 interns. No entry SWE.",
-  "confidence": "high"
+ "company": "Meijer",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Entry Level Data Engineer opened 2024-11-15 (two cycles ago, closed); nothing in 2025-26 cycle",
+ "jobs_page": "https://meijer.wd5.myworkdayjobs.com/Meijer",
+ "jobs_spec": "wd:meijer/wd5/Meijer",
+ "jobs_spec_basis": "saved board kept: wd:meijer/wd5/Meijer lists this company's own jobs",
+ "evidence": "Workday full board (173) read 2026-10-26: Software Engineer R000692154 (opened 2026-10-23) is off the board and its page says it doesn't exist, so closed. Other tech roles are Principal Engineer, Senior IT security, Data Scientist (not entry) or Summer 2027 intern.",
+ "confidence": "medium",
+ "dropped": [
+  {
+   "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
+   "reason": "gone: browser page said 'The page you are looking for doesn't exist' on 2026-10-26 and it is not on the Workday board"
+  }
+ ],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-26"
 }

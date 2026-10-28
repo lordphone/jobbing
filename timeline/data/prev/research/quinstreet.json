@@ -1,30 +1,30 @@
 {
- "company": "QuinStreet",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "open",
- "postings": [
-  {
-   "title": "Algorithms Engineer",
-   "url": "https://www.quinstreet.com/careers/?gh_jid=8093165",
-   "location": "Foster City, CA",
-   "opened": "2026-07-28",
-   "date_source": "greenhouse first_published",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "Requires a Bachelor's degree in Computer Science or a related field plus 2 years of experience; $129K-$149K",
-   "no_sponsorship": false
-  }
- ],
- "dropped": [],
- "last_cycle_opened": "2025-07-24",
- "last_cycle_basis": "tracker first seen: Entry Level Software Engineer, Foster City CA, https://www.quinstreet.com/careers/?gh_jid=7100468 (more entry-level SWE postings Nov 2025, Feb and Apr 2026, all closed)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/quinstreet",
- "jobs_spec": "gh:quinstreet",
- "evidence": "Greenhouse API 2026-10-19 (28, full) and detail: Algorithms Engineer live, requires 2 yrs, manager-directed duties, counted as unlabeled entry. Text says 'authority to work permanently in the U.S.' Other eng roles senior or Pune.",
- "confidence": "medium"
+  "company": "QuinStreet",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Algorithms Engineer",
+      "url": "https://www.quinstreet.com/careers/?gh_jid=8093165",
+      "location": "Foster City, CA",
+      "opened": "2026-07-28",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Requires a Bachelor's degree in Computer Science or a related field plus 2 years of experience; $129K-$149K",
+      "no_sponsorship": true
+    }
+  ],
+  "last_cycle_opened": "2025-07-24",
+  "last_cycle_basis": "tracker first seen: Entry Level Software Engineer, Foster City CA, https://www.quinstreet.com/careers/?gh_jid=7100468 (more entry-level SWE postings Nov 2025, Feb and Apr 2026, all closed)",
+  "jobs_page": "https://job-boards.greenhouse.io/quinstreet",
+  "jobs_spec": "gh:quinstreet",
+  "evidence": "Greenhouse full board (31) re-read 2026-10-26: Algorithms Engineer (Foster City) still listed, requires 2 yrs, no lead duties, counted as unlabeled entry. Text says 'must also have authority to work permanently in the U.S.' (no sponsorship, posting level). Other engineering roles are Pune, senior or manager.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

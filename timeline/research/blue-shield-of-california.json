@@ -1,16 +1,16 @@
 {
   "company": "Blue Shield of California",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
+  "last_cycle_basis": "jobs.py history empty; no new-grad program found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003",
   "jobs_spec": "oracle:ecge.fa.us2.oraclecloud.com/CX_1003",
-  "evidence": "Oracle CX_1003 board read in full (99 listed): no entry-level software role; only senior engineering and analyst titles.",
-  "confidence": "high"
+  "evidence": "Oracle CX_1003 board read in full (116) 2026-10-27. Engineering titles are Consultant (Full Stack and Data Scientist ask 7+ yrs; Mobile Consultant lists no years but is the mid tier above Associate), Senior, Principal. No entry-level software role or new-grad track.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

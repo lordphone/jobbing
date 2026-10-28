@@ -1,43 +1,39 @@
 {
   "company": "Rockwell Automation",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
-      "title": "Software Engineer - C++",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---C--_R26-7383-1",
-      "location": "Milwaukee, WI",
-      "opened": "2026-09-29",
+      "title": "Embedded Software Engineer",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Embedded-Software-Engineer_R26-6526",
+      "location": "Mayfield Heights, OH",
+      "opened": "2026-10-12",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Essentials: Bachelor's degree only, 2 years only preferred; 'growing your technical skills with support from more experienced engineers'",
-      "no_sponsorship": false
+      "level_basis": "Required: bachelor's degree only; 1 year embedded experience only preferred; no lead duties",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
+      "reason": "gone: browser shows 'The page you are looking for doesn't exist' and it is not on the 400-posting board"
     },
     {
-      "title": "Process Automation Software Engineer",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
-      "location": "Milwaukee, WI",
-      "opened": "2026-10-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Essentials: Bachelor's degree only, no years; 'learning software engineering practices (version control, code review, testing, CI/CD) alongside experienced developers'",
-      "no_sponsorship": true
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---C--_R26-7383-1",
+      "reason": "gone: not on the full Workday board"
     }
   ],
   "last_cycle_opened": "2025-11-13",
   "last_cycle_basis": "jobs.py history: Associate Engineer Embedded Software (Mayfield Heights, OH) first seen 2025-11-13",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
   "jobs_spec": "wd:rockwellautomation/wd1/External_Rockwell_Automation",
-  "evidence": "Workday full board (431) 2026-10-20 read in full: Software Engineer - C++ (2 yrs preferred, learning duties) and Process Automation Software Engineer (no years, learns SWE practices) live and counted. Embedded SWE roles coach juniors, so not counted.",
+  "evidence": "Full Workday board (400) 2026-10-27: Embedded SWE Mayfield Hts (R26-6526) still live via API, bachelor's only, 1 yr preferred. Process Automation SWE is gone (page does not exist). Software Test Engineer needs 2 yrs preferred, test role, not counted; others senior or non-US.",
   "confidence": "medium",
-  "checked": "2026-10-20",
-  "tier": 5,
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "checked": "2026-10-27"
 }

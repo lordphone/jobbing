@@ -1,16 +1,16 @@
 {
-  "company": "GE Aerospace",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "not_yet",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": "2026-06-02",
-  "last_cycle_basis": "tracker first seen: DTLP (Sharonville, OH), now closed; UK DTLP first seen 2025-11-25",
+  "last_cycle_basis": "tracker first seen: DTLP (Sharonville, OH) 2026-06-02, now closed; UK DTLP first seen 2025-11-25",
   "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite",
+  "no_sponsorship": false,
   "jobs_spec": "wd:geaerospace/wd5/ge_externalsite",
-  "evidence": "Workday board read 2026-10-20 (120 listed, full): no US entry-level software role. Software and data roles are Lead, Staff or Sr. Entry titles are UK apprenticeships, India Junior Engineer, interns. DTLP and EEDP not currently posted in US.",
-  "confidence": "medium"
+  "company": "GE Aerospace",
+  "tier": 5,
+  "status": "not_yet",
+  "jobs_page": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite",
+  "evidence": "Workday board read in full (623) 2026-10-27: US 2027 EEDP posts are Electrical and Mechanical only. Software roles are Lead/Senior/Staff, intern/co-op, 3+ yr cybersecurity, or UK placements. US DTLP (digital) track not listed now; last opened 2026-06.",
+  "confidence": "high"
 }

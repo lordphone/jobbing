@@ -1,16 +1,16 @@
 {
   "company": "Ancestry (Blackstone-owned)",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no full-time entry SWE history; tracker shows only postdoc and technician roles",
+  "last_cycle_basis": "not found; no tracker or first-party dated entry-level SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ancestry.wd501.myworkdayjobs.com/Careers",
   "jobs_spec": "wd:ancestry/wd501/Careers",
-  "evidence": "Workday wd:ancestry/wd501/Careers full (30) re-read 2026-10-19: engineering roles are Staff Product Engineer, Senior SRE, and ML Engineer and Software Engineer Observability co-ops (not counted). No full-time entry SWE.",
-  "confidence": "high",
+  "evidence": "wd:ancestry/wd501/Careers full (27) 2026-10-26: engineering roles are Staff Product Engineer, Senior SRE, and co-ops (ML Engineer, Observability SWE, Data Science; not counted). No full-time entry-level software role.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
   "dropped": []
 }

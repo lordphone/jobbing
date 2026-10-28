@@ -1,16 +1,16 @@
 {
- "company": "Williams-Sonoma, Inc.",
- "tier": 5,
- "checked": "2026-10-19",
- "status": "no_program_found",
  "postings": [],
+ "dropped": [],
+ "no_sponsorship": false,
+ "excluded_reason": null,
+ "checked": "2026-10-26",
  "last_cycle_opened": null,
  "last_cycle_basis": "none found",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "company": "Williams-Sonoma, Inc.",
+ "tier": 5,
+ "status": "no_program_found",
  "jobs_page": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
  "jobs_spec": "oracle:ehac.fa.us6.oraclecloud.com/CX_1",
- "evidence": "Board rechecked 2026-10-19 (full board): no entry-level or new-grad SWE posting found; prior no_program result stands.",
- "confidence": "medium",
- "dropped": []
+ "evidence": "Oracle board (1089, full) read 2026-10-26: US software roles are Staff/Lead Software Engineer; Information Security Engineers are security ops, not SWE; entry-level software roles are India only. No entry-level US SWE or new-grad program.",
+ "confidence": "high"
 }

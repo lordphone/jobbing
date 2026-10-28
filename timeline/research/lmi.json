@@ -1,16 +1,17 @@
 {
   "company": "LMI",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; only an LMI software engineering intern (Summer 2025) page found",
+  "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers-lmi.icims.com/jobs/search",
   "jobs_spec": null,
-  "evidence": "LMI iCIMS board read in full 2026-10-20 (222 jobs). Software roles ask 5-9+ yrs or are senior (Full Stack Developer 6+, ML Engineer 5+, M&S Developer 5+, Software Developer 7+), most need clearance and US citizenship. Junior Power BI Developer is BI, 1-3 yrs. No new-grad program found.",
+  "jobs_spec_basis": "careers-lmi.icims.com is LMI's careers site; iCIMS has no API",
+  "evidence": "iCIMS list read in full via HTTP 2026-10-27 (219 jobs, no API): software, ML, full-stack and data roles checked need Secret/CBP clearance (citizens only) or ask 5-9+ yrs. Junior Power BI Developer is BI dashboarding, not SWE. No entry SWE.",
   "confidence": "medium"
 }

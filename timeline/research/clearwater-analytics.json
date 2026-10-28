@@ -1,7 +1,6 @@
 {
   "company": "Clearwater Analytics",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -44,13 +43,14 @@
       "no_sponsorship": false
     }
   ],
-  "last_cycle_opened": null,
   "last_cycle_basis": "Tracker shows Associate SDE in Boise ID from 2026-04 onward; none in 2025-07 to 2026-01.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers",
   "jobs_spec": "wd:clearwateranalytics/wd1/Clearwater_Analytics_Careers",
-  "evidence": "Workday full board 2026-10-20 (279): SDE I Boise (2+ yrs, apply by 2026-12-24), Quantitative Developer I NYC (entry-level, 1+ yr), SDE NYC (2+ yrs, kept). Associate SDE June 2027 roles are London only. Boise SDE R2524-3 asks to own services, left out.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Workday board (291, full) 2026-10-27: SDE I Boise (apply by 2026-12-24), Quantitative Developer I NYC (entry-level) and SDE NYC (2+ yrs, kept) live. Boise Data Flow Engineer (data ops) left out. June 2027 Associate SDE roles are London only.",
+  "confidence": "high",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

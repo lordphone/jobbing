@@ -1,7 +1,7 @@
 {
   "company": "Keysight",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -13,14 +13,14 @@
       "deadline": null,
       "grad_window": "BS/MS CE/EE/CS; Job Type Campus",
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Tag Campus; required BS or MS, no years of experience listed; pay $89,600-149,330",
-      "no_sponsorship": true
+      "level": "new-grad title",
+      "level_basis": "Job type tag 'Campus' on Keysight's job board; required BS or MS, no years listed; pay $89,600-149,330",
+      "no_sponsorship": false
     },
     {
       "title": "R&D Software Engineer",
       "url": "https://jobs.keysight.com/external/jobs/54745?lang=en-us",
-      "location": "Santa Rosa, CA; Santa Clara, CA; Loveland, CO",
+      "location": "Santa Rosa, CA",
       "opened": "2026-10-15",
       "date_source": "keysight jibe API posted_date",
       "deadline": null,
@@ -31,13 +31,13 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker history 2025-07..2026-01 has only 'Sales Compensation Data Analyst - Recent Graduate' (2025-10-21) and R&D Data Analytics Engineer (2025-10-29); no new-grad SWE found",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.keysight.com",
   "jobs_spec": null,
-  "evidence": "Keysight Jibe API 2026-10-19 (327 US jobs, full): Campus SWE 54394 (no sponsorship) and Regular R&D SWE 54745 (no years asked) still listed and count. 55077 Campus SWE is US citizen or green card only, left out. Other SWE roles need 2-8 yrs; R&D Engineer 1 is hardware test.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Keysight Jibe API (US 'software engineer' search, 175 hits) read 2026-10-26: Campus SWE 54394 and R&D SWE 54745 (degree only, no years) live and counted. 55077 Campus SWE (tracker lead) requires US citizen/PR, left out. Other US SWE need 3-8 yrs or are interns.",
+  "confidence": "medium"
 }

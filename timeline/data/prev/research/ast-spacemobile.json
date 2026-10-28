@@ -1,7 +1,7 @@
 {
   "company": "AST SpaceMobile",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -12,19 +12,19 @@
       "date_source": "greenhouse first_published",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Associate title; requires 'Minimum of 1 year of experience in software development, test engineering, or a related technical discipline'",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history; no earlier new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ast-science.com/company/careers/",
   "jobs_spec": "gh:astspacemobile",
-  "evidence": "Greenhouse full board (243) re-read 2026-10-19: ATE Associate SWE (Midland) needs BS + 1 yr; eligibility says citizen, permanent resident or valid U.S. work authorization, so not excluded. Junior Tulip needs citizen or PR (manufacturing IT); EAI, MES, Lanham SWE roles need 4-5+ yrs or clearance.",
-  "confidence": "medium",
-  "dropped": []
+  "evidence": "Greenhouse full board (259) read 2026-10-26: ATE Associate SWE (Midland, first published 2026-06-24, rolling, no class year) live via API; accepts valid U.S. work authorization. Junior Tulip Platform Engineer requires citizen or PR and is manufacturing IT; other software roles need 2-5+ yrs.",
+  "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "Match Group",
   "tier": 4,
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no US new-grad SWE in tracker history for 2025-07 to 2026-01 (only 2025-03 ripplematch entry-level SWE postings)",
+  "last_cycle_basis": "no tracker history; none found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/matchgroup",
   "jobs_spec": "lever:matchgroup",
-  "evidence": "Lever full board (66) 2026-10-19: US engineers are II/III/Senior. AI Product Engineer (Vancouver, 0-2 yrs) is an Internship team posting, not counted. Android SWE (LA) has no level or years, left out.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Lever full board (64) 2026-10-26: US engineers are II/III/Senior/Staff. AI Product Engineer (Vancouver, tracker lead) is a 4-6 month paid internship per Lever commitment and posting text. Tinder Software Engineer Android (LA) lists no years but needs prior native Android experience; not counted.",
+  "confidence": "medium"
 }

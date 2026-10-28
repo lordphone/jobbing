@@ -1,7 +1,6 @@
 {
   "company": "Prelim",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -14,17 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "\"Whether you're a new graduate with impressive projects or an experienced engineer, we want to hear from you\"; no years required; $140K-$230K",
+      "level_basis": "\"Whether you're a new graduate with impressive projects or an experienced engineer, we want to hear from you\"; no years required; Bachelor's CS required",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker shows SWE posts in 2024 (New Grad: Software Engineer 2024-08-10) only; none 2025-07 to 2026-01.",
+  "last_cycle_basis": "tracker shows SWE posts in 2024 only (New Grad: Software Engineer 2024-08-10); none 2025-07 to 2026-01",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/prelim",
   "jobs_spec": "ashby:prelim",
-  "evidence": "Ashby API (7, full) 2026-10-20: Software Engineer, Product published 2026-08-31, live; welcomes new graduates, no years required, but duties say architect/own. Level judgment call, kept from earlier run. Other engineering roles Senior/Lead.",
-  "confidence": "medium"
+  "evidence": "Ashby full board (7) and posting text 2026-10-27: Software Engineer, Product (published 2026-08-31, live) welcomes new graduates, no years required, Bachelor's CS; borderline unlabeled kept from earlier run. Other engineering roles are Senior/Lead.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

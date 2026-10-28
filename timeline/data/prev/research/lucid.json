@@ -1,30 +1,21 @@
 {
-  "company": "Lucid",
-  "tier": 4,
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, ADAS Behavior Planning and Integration",
-      "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
-      "location": "Newark, CA",
-      "opened": "2026-10-08",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '0\u20133 years of relevant industry or research experience'; base pay $134,700\u2013$185,240",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no Lucid Motors new-grad SWE in tracker history; tracker hits are Lucid Software (different company)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://lucidmotors.com/careers/search",
-  "jobs_spec": "gh:lucidmotors",
-  "evidence": "gh:lucidmotors full board (449) read, Greenhouse API text read. ADAS Behavior Planning SWE (0-3 yrs, Newark CA) live; Perception SWE, Perception ML, Data Infra need 3+ yrs. Same as prior file.",
-  "confidence": "medium",
-  "checked": "2026-10-19"
+ "company": "Lucid",
+ "tier": 4,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
+   "reason": "gone: Greenhouse API 404 for job 5242854007, not on the board list"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no Lucid Motors new-grad SWE in tracker history; the 2025-09-16 tracker hit is likely Lucid Software (a different company)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://lucidmotors.com/careers/search",
+ "jobs_spec": "gh:lucidmotors",
+ "evidence": "gh:lucidmotors full board (445) 2026-10-26. ADAS Behavior Planning SWE (5242854007, counted earlier) is still gone (API 404). Perception SWE/MLE need MS or PhD and years, Data Infra 3+, ADAS Simulation 3+ (1+ with MS, automotive). ML Engineer (5254390007, MS or PhD, no years, independent research-level) judged not entry-level. No entry SWE live.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

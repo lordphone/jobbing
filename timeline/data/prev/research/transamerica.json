@@ -1,7 +1,7 @@
 {
  "company": "Transamerica (Aegon)",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "open",
  "postings": [
   {
@@ -38,6 +38,7 @@
  "no_sponsorship": false,
  "jobs_page": "https://transamerica.wd5.myworkdayjobs.com/US",
  "jobs_spec": "wd:transamerica/wd5/US",
- "evidence": "Workday board read in full (146) 2026-10-19 via API. Two Intermediate Software Engineer reqs (1 yr required, basic apps, $82-92K, cannot sponsor) judged entry-level though 'Intermediate' is mid-ladder; other SWE roles are Specialist (5-6+ yrs), Senior, Lead. Same two reqs as previous file.",
- "confidence": "medium"
+ "evidence": "Workday API board (143, full) read 2026-10-26; both Intermediate Software Engineer reqs live (1 yr, basic apps, $82-92K, cannot sponsor), judged entry-level and kept from earlier run. Other SWE roles are Specialist (5-6+ yrs), Senior, Lead.",
+ "confidence": "medium",
+ "jobs_spec_basis": "saved board confirmed, Workday API lists Transamerica jobs"
 }

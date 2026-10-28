@@ -1,17 +1,16 @@
 {
   "company": "HubSpot",
   "tier": 3,
-  "status": "unknown",
+  "status": "not_yet",
   "last_cycle_opened": "2025-09-08",
-  "last_cycle_basis": "jobs.py history: Software Engineer (Cambridge, MA; Remote) first seen 2025-09-08 on RippleMatch (https://app.ripplematch.com/v2/public/job/c730fa3b); HubSpot routes entry SWE via RippleMatch",
+  "last_cycle_basis": "tracker first seen: Software Engineer, Cambridge MA/Remote (RippleMatch), 2025-09-08",
   "jobs_page": "https://www.hubspot.com/careers/jobs?department=engineering&office=north-america",
-  "jobs_spec": null,
-  "jobs_spec_basis": "careers feed wtcfns.hubspot.com/careers/graphql answers but its jobs query returns upstream 404; Greenhouse slugs and Workday probe 404",
-  "evidence": "2026-10-20 browser: hubspot.com/careers/jobs, with or without the engineering filter, says 'No jobs are currently listed' even for all departments, so the list looks broken, not empty. Can't read postings; retry later.",
-  "confidence": "low",
-  "checked": "2026-10-20",
+  "jobs_spec": "gh:hubspotjobs",
+  "evidence": "Greenhouse gh:hubspotjobs full board (66) read 2026-10-27, matching the careers page count (67): only engineering posting is VP Infrastructure Engineering; no entry-level software roles. Last cycle's emerging-talent SWE seen 2025-09-08, so a track exists but nothing live.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
   "dropped": [],
-  "postings": [],
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "postings": []
 }

@@ -1,16 +1,16 @@
 {
   "company": "Included Health",
+  "tier": 4,
+  "checked": "2026-10-27",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history only shows new-grad roles Oct-Nov 2024 (New Grad 2024 Android, New Grad 2025 SWE Treat Team); none in the 2025-07 to 2026-01 window",
-  "jobs_page": "https://jobs.lever.co/includedhealth",
-  "jobs_spec": "lever:includedhealth",
-  "evidence": "lever:includedhealth full board (52) read 2026-10-20: engineering only Cloud Engineer Security (5+ yrs) and Senior/Staff SWE. No new-grad role live. Tracker shows new-grad SWE postings Oct-Nov 2024 only.",
-  "confidence": "medium",
-  "tier": 4,
-  "checked": "2026-10-20",
+  "last_cycle_basis": "2024-10-02 tracker history: new-grad postings Oct-Nov 2024 (New Grad 2025 SWE); none found in 2025-07 to 2026-01 window",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "jobs_page": "https://jobs.lever.co/includedhealth",
+  "jobs_spec": "lever:includedhealth",
+  "evidence": "lever:includedhealth full board (49) 2026-10-27: engineering only Senior/Staff SWE and Senior Cloud Engineer. No entry-level role live; it opened new-grad roles 2024-10-02 two cycles ago.",
+  "confidence": "medium"
 }

@@ -1,16 +1,17 @@
 {
   "company": "Evercore",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.evercore.com/careers/students-graduates/",
+  "jobs_page": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
   "jobs_spec": null,
-  "evidence": "Students page re-read 2026-10-19: only Analyst (banking) and MBA Associate tracks. evercore.tal.net board lists 2028 summer analyst events and banking associates; no software engineering analyst track.",
-  "confidence": "high"
+  "jobs_spec_basis": "careers page Students & Graduates links to evercore.tal.net; Students (42) and Experienced Hires (54) lists read with plain HTTP",
+  "evidence": "2026-10-26: evercore.tal.net board now shows a 'not a robot' check, not completed. evercore.com Students & Graduates lists only Analyst and Associate (finance). Prior read 2026-10-23 of the board found only banking/research/trading programs and VP/Director tech roles. No entry-level SWE found.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

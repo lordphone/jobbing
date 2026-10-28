@@ -1,7 +1,7 @@
 {
   "company": "Arctic Wolf",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
@@ -11,6 +11,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://arcticwolf.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:arcticwolf/wd1/External",
-  "evidence": "Rechecked 2026-10-20 on full board API, same result. Workday API 2026-10-19, 118 postings (full): developer roles are Senior/Staff in Bengaluru; Professional Services Engineer 1 is customer implementation; Infrastructure Developer (Eden Prairie) is 2-4 yrs infra ops. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Workday board (108, full) read 2026-10-27: developer roles are Senior/Staff or India; US/Canada engineering is senior or sales. Infrastructure Developer (Eden Prairie) is infra admin (Entra, AD, vSphere, 2-4 yrs), not SWE. No entry SWE.",
+  "confidence": "medium"
 }

@@ -1,30 +1,21 @@
 {
   "company": "T-Mobile",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "Associate Engineer, Software - Mobile App Development",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
-      "location": "Overland Park, KS; Bellevue, WA; Frisco, TX",
-      "opened": "2026-10-16",
-      "date_source": "tracker first seen 2026-10-15 / workday startDate 2026-10-16 (repost 2026-10-20)",
-      "deadline": "2026-10-22",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Associate title; 'Less than 2 years Technical engineering experience'; $73,590-$132,660",
-      "no_sponsorship": false
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
+      "reason": "gone: browser page shows \"The page you are looking for doesn't exist\" and it is not on the Workday board or search 2026-10-27"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": "2025-09-04",
-  "last_cycle_basis": "Tracker history: Associate AI Engineer (Bellevue) first seen 2025-09-04; Associate Engineer, Software 2025-11-04; many Associate Software Engineer postings Nov 2025",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "Tracker history: Associate AI Engineer (Bellevue) first seen 2025-09-04; Associate Software Engineer postings Nov 2025",
   "jobs_page": "https://tmobile.wd1.myworkdayjobs.com/External",
   "jobs_spec": "wd:tmobile/wd1/External",
-  "evidence": "Workday full board 2026-10-20 (800): Associate Engineer, Software - Mobile App Development REQ370392 is live again (canApply true, start 2026-10-20, end 2026-10-22), reposted after the 2026-10-19 close; earlier run saw it gone. Software Engineer REQ370325 needs 2-4 yrs, not counted.",
-  "confidence": "high"
+  "evidence": "Workday board 2026-10-27: Associate Software Engineer- Billing Platform (opened 2026-10-26) now gone (page missing, not in search). Remaining engineer roles ask 2-4+ yrs required or are senior; screened Embedded, Forward Deployment, SDET, Platform Engineer. Status changed from open to closed.",
+  "confidence": "medium",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

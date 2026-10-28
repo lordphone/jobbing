@@ -1,21 +1,16 @@
 {
-  "company": "BlackEdge Capital",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005",
-      "reason": "gone: API 404 and browser redirected to the board with error=true"
-    }
-  ],
-  "last_cycle_opened": "2025-08-13",
-  "last_cycle_basis": "tracker: New Grad 2026: Quantitative Developer first seen 2025-08-13",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/blackedgecapital",
-  "jobs_spec": "gh:blackedgecapital",
-  "evidence": "Greenhouse full board (3) 2026-10-20: Graduate Quantitative Developer 4703827005 gone (API 404, browser redirected to board). Graduate Quant Researcher not SWE; Trading Strategy Software Engineer is senior-style, not counted. Was open 2026-10-19.",
-  "confidence": "high"
+ "company": "BlackEdge Capital",
+ "tier": 4,
+ "checked": "2026-10-27",
+ "status": "closed",
+ "postings": [],
+ "dropped": [],
+ "last_cycle_opened": "2025-08-13",
+ "last_cycle_basis": "tracker: New Grad 2026: Quantitative Developer first seen 2025-08-13",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://job-boards.greenhouse.io/blackedgecapital",
+ "jobs_spec": "gh:blackedgecapital",
+ "evidence": "Greenhouse full board (3) 2026-10-27: Graduate Quantitative Developer 4703827005 (tracker 2026-07-24) is not on the board and its URL redirects to the job list. Graduate Quantitative Researcher 2027 is research, not SWE. Trading Strategy Software Engineer (nanosecond C++, owns architecture) is experienced.",
+ "confidence": "medium"
 }

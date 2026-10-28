@@ -3,19 +3,14 @@
   "tier": 3,
   "status": "closed",
   "postings": [],
-  "dropped": [
-    {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7703668003",
-      "reason": "gone: Greenhouse API returns 404 Job not found, it is not on the 480-posting board, and the page redirects to the board with error=true"
-    }
-  ],
   "last_cycle_opened": "2025-08-28",
-  "last_cycle_basis": "tracker first seen 2025-08-28 (trackers.json tracker_last_cycle)",
+  "last_cycle_basis": "tracker first seen 2025-08-28 (earlier file)",
   "jobs_page": "https://job-boards.greenhouse.io/axon",
   "jobs_spec": "gh:axon",
-  "evidence": "Greenhouse board read in full (480). Tracker's Software Engineer 1 / earlier run's Software Engineer I (7703668003, published 2026-10-16) is now gone. Remaining entry-level SWE I roles are Bucharest and Ho Chi Minh City; US software roles are II/Senior/Staff or need 3-8+ years.",
+  "evidence": "Greenhouse board read in full (474) 2026-10-26: US roles are Sr/Staff/II SWE or non-software entry roles (Mission Engineer, firmware, support). Software Engineer 1 (7703668003, tracker first seen 2026-10-16) is gone: Greenhouse API 404 and not on board. Vietnam/UK SWE roles are non-US.",
   "confidence": "medium",
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
+  "dropped": [],
   "no_sponsorship": false,
   "excluded_reason": null
 }

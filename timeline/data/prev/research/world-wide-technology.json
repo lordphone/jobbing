@@ -9,8 +9,9 @@
  "no_sponsorship": false,
  "jobs_page": "https://myjobs.adp.com/wwtexternalcareersite/?c=2166501&d=WWTExternalCareerSite",
  "jobs_spec": null,
- "evidence": "ADP MyJobs API read in full in browser 2026-10-19 (666 reqs). US developer roles ask 3-5+ yrs or are SME/senior (Developer 3-5, Full Stack Developer 3-5, App Development Engineer 3, Data Engineer 3+, AI Native Developer 5+); some bar sponsorship. Integrations Developer asks 2+ yrs Oracle SOA, mid-level, not counted. Entry roles are 2027 internships only.",
+ "evidence": "ADP MyJobs API 2026-10-26 (676 reqs, all titles read). US software roles (Developer, Engineer - Application Development, Full Stack Developer) ask 3-5+ yrs or TS clearance; only 2027 MBA/sales interns. No entry-level SWE.",
  "confidence": "medium",
- "checked": "2026-10-19",
- "dropped": []
+ "checked": "2026-10-26",
+ "dropped": [],
+ "jobs_spec_basis": "ADP MyJobs public API (orgoid header) lists all 676 reqs; no board spec supported"
 }

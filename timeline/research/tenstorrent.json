@@ -1,16 +1,16 @@
 {
   "company": "Tenstorrent",
   "tier": 3,
+  "checked": "2026-10-27",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-08-27",
   "last_cycle_basis": "tracker first-seen for 'Software Engineer, AI Tools' (Austin/Santa Clara/Toronto)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/tenstorrent",
   "jobs_spec": "gh:tenstorrent",
-  "evidence": "Greenhouse full board 2026-10-20 (125) screened via API. US/Toronto SWE roles (LLK, TT-Distributed, TT-Fabric, perf) state no years, $100K-$500K band, deep C++ asks. Not clearly entry; not counted.",
-  "confidence": "medium",
-  "dropped": [],
-  "checked": "2026-10-20"
+  "evidence": "Greenhouse full board (120) read 2026-10-27, screened via API. US/Toronto SWE roles (LLK, TT-Fabric, Scale Out, kernels, FDE) state no years, share a $100K-$500K all-level band and ask low-level C++ experience; no new-grad title or entry wording, so left out. Not_yet because last cycle had an entry role.",
+  "confidence": "medium"
 }

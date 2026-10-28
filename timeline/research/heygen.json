@@ -1,7 +1,7 @@
 {
  "company": "HeyGen",
  "tier": 4,
- "checked": "2026-10-20",
+ "checked": "2026-10-27",
  "status": "open",
  "postings": [
   {
@@ -27,7 +27,7 @@
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "Requires '2+ years of experience working on scalable and performant systems'; no lead/mentor duties; pay $180,000-$240,000",
+   "level_basis": "Requires '2+ years of experience working on scalable and performant systems'; no lead/mentor duties; $180,000-$240,000",
    "no_sponsorship": false
   },
   {
@@ -44,13 +44,13 @@
    "no_sponsorship": false
   }
  ],
+ "dropped": [],
  "last_cycle_opened": "2024-10-22",
  "last_cycle_basis": "tracker: Software Engineer - University Graduate first seen 2024-10-22; only a Data Scientist - New Graduate (non-SWE, LA) seen 2025-10-16 last cycle",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://job-boards.greenhouse.io/heygen",
  "jobs_spec": "gh:heygen",
- "evidence": "gh:heygen full board 2026-10-20 (22): no new-grad track. Applied AI Eng (2+ yrs, 2026-10-02), Backend Eng Infrastructure (2+ yrs) and Research Eng (Master's/PhD, 1-3 yrs) kept as unlabeled, borderline. Others ask 3-4+ yrs or give none (not counted). No explicit new-grad language.",
- "confidence": "low",
- "dropped": []
+ "evidence": "gh:heygen full board (20) re-read 2026-10-27, each engineering posting screened via API: no new-grad track. Applied AI Eng (2+ yrs), Backend Eng Infrastructure (2+ yrs) and Research Eng (Masters/PhD, 1-3 yrs) still live, kept as unlabeled, borderline. Others ask 3+, 4+, 5+ yrs or list no years at $180K+ and are left out.",
+ "confidence": "low"
 }

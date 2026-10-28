@@ -1,30 +1,21 @@
 {
-  "company": "Pennymac",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [
+  "postings": [],
+  "dropped": [
     {
-      "title": "Digital Technology Organization Rotational Engineer",
       "url": "https://careers.pennymac.com/jobs/40358",
-      "location": "Carrollton, TX; Cary, NC",
-      "opened": "2026-08-31",
-      "date_source": "tracker first seen",
-      "deadline": null,
-      "grad_window": "January and June 2027 cohorts",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
+      "reason": "gone: careers.pennymac.com/jobs/40358 returns HTTP 404 and is not in the 38-job list; students page says Jan/Jun 2027 cohort applications closed"
     }
   ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No dated last-cycle record; TRE reopens Spring 2027 per earlier careers page read.",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "checked": "2026-10-26",
+  "company": "Pennymac",
+  "tier": 5,
+  "status": "closed",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "No dated last-cycle record; this cycle DTO Rotational Engineer opened 2026-08-31 and has closed; students page says it reopens Spring 2027 per earlier read.",
   "jobs_page": "https://careers.pennymac.com/students-graduates",
   "jobs_spec": null,
-  "evidence": "Browser 2026-10-19: students page says Jan/Jun 2027 cohort applications closed, 'not currently accepting'. Posting 40358 shows 404 'no longer exists'. Keyword 'engineer' search returns only 2 non-entry roles.",
-  "confidence": "medium"
+  "evidence": "Careers API (38 jobs, full) 2026-10-26: no software engineering roles (only Sr Platform Engineer, product owners). Students page: Tech Rotational Engineering and DTO rotational programs 'Applications closed', reopen Spring 2027; posting 40358 (opened 2026-08-31) still HTTP 404, so closed.",
+  "confidence": "high"
 }

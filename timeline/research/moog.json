@@ -1,30 +1,21 @@
 {
-  "company": "Moog",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer - Test Systems",
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Software-Engineer---Test-Systems_R-26-19037",
-      "location": "Buffalo, NY",
-      "opened": "2026-10-19",
-      "date_source": "workday postedOn",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires a bachelor's, no years asked; $80,000-$105,000",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-08-09",
-  "last_cycle_basis": "tracker first seen; Associate Software Engineer, Torrance CA (moog.wd5.myworkdayjobs.com/.../Torrance-CA/Eng--Assc_R-25-13250)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site",
-  "jobs_spec": "wd:moog/wd5/moog_external_career_site",
-  "evidence": "Workday full board 2026-10-20 (240). Software Engineer - Test Systems, Buffalo NY (R-26-19037, posted 2026-10-19): bachelor's, no years asked, $80K-$105K, but says 'requires access to U.S. export-controlled information', so US-person status is likely needed. Phoenix embedded SWE says 'U.S. person'. Last cycle Associate Software Engineer Torrance.",
-  "confidence": "low"
+ "company": "Moog",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": "2025-08-09",
+ "last_cycle_basis": "tracker first seen; Associate Software Engineer, Torrance CA (moog.wd5.myworkdayjobs.com/.../Torrance-CA/Eng--Assc_R-25-13250)",
+ "jobs_page": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site",
+ "jobs_spec": "wd:moog/wd5/moog_external_career_site",
+ "evidence": "Workday full board (454) 2026-10-27. Buffalo SWE Test Systems gone. Remaining SWE: AI Software Engineer 5 yrs, AI Engineer 3-7 yrs, AI Developer (no years, onsite IT role, not counted), NX CAM citizenship-restricted data, embedded 2+/3 yrs. No entry SWE live; closed.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Software-Engineer---Test-Systems_R-26-19037",
+   "reason": "gone: not on the 454-posting Workday board and detail says not on board"
+  }
+ ],
+ "no_sponsorship": false,
+ "excluded_reason": null
 }

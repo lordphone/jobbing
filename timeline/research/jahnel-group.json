@@ -1,0 +1,31 @@
+{
+ "company": "Jahnel Group",
+ "tier": 5,
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Software Engineer",
+   "url": "https://www.jahnelgroup.com/positions",
+   "location": "Schenectady, NY",
+   "opened": "on or before 2026-10-27",
+   "date_source": "page text (own careers API shows no date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Associate Software Engineer: 'foundational understanding of software development practices, some hands-on experience'; no years ask",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-09",
+ "last_cycle_basis": "tracker last cycle 2025-09-09 (community tracker, not first-party)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.jahnelgroup.com/positions",
+ "jobs_spec": null,
+ "jobs_spec_basis": "positions page loads from careers.connect.jahnelgroup.com /v1/jobs (public JSON), read directly",
+ "evidence": "Own careers API (careers.connect.jahnelgroup.com/v1/jobs, generated 2026-10-27, 23 jobs) now lists Associate Software Engineer (Schenectady, in-person), entry-level, no years ask, no date. Earlier run missed it. Others senior; the Intern is summer-only.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
+}

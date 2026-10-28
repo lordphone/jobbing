@@ -1,16 +1,16 @@
 {
  "company": "Allstate",
+ "tier": 5,
  "status": "not_yet",
  "last_cycle_opened": "2026-01-05",
  "last_cycle_basis": "tracker first-seen: 2026 ATS Technology Development Program (US remote), 2026-01-05; also Entry Level Full Stack SWE (LLM) 2026-04-14",
  "jobs_page": "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
  "jobs_spec": "wd:allstate/wd5/allstate_careers",
- "evidence": "Full Workday board (400) re-read 2026-10-20: no US Technology Development Program or entry SWE. Software Engineer (All Levels) R35582 spans Consultant II (1+ yrs) to Lead with mentoring, so not counted. 2027 Graduate Product Engineer roles are UK/Northern Ireland only.",
+ "evidence": "Workday full board (429) read 2026-10-27, postings via API: only 2027 grad program is Graduate Product Engineer (Belfast/Derry, UK, no sponsorship). US engineering roles ask 3+ yrs or lead; Software Engineer (All Levels) spans Consultant I to Lead, not entry.",
  "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-20",
  "postings": [],
+ "dropped": [],
  "excluded_reason": null,
  "no_sponsorship": false,
- "dropped": []
+ "checked": "2026-10-27"
 }

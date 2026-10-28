@@ -1,43 +1,43 @@
 {
-  "company": "Waabi",
-  "tier": 3,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, Commercial Software",
-      "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
-      "location": "Toronto, ON",
-      "opened": "2026-09-15",
-      "date_source": "lever createdAt",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of industry experience', 'experience through internships, work experience, or coding competitions'; duties 'learn from the best developers'; CAD 149,000-220,000",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Research Engineer",
-      "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
-      "location": "Remote (US & Canada); Dallas, TX; Phoenix, AZ; Pittsburgh, PA; San Francisco, CA; Toronto, ON",
-      "opened": "2024-06-13",
-      "date_source": "lever createdAt (evergreen posting)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "required: Bachelor's plus 'experience working on applied research projects', no years asked, Master/PhD only a bonus; US $122,000 - $215,000",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker: 'New Grad: Software Engineer' Remote US first seen 2024-09-11 (two cycles ago); nothing for the 2025-26 cycle.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://jobs.lever.co/waabi",
-  "jobs_spec": "lever:waabi",
-  "evidence": "Lever board read in full (94); both postings live via API. Commercial Software SWE (Toronto, 2+ yrs) and evergreen Research Engineer (bachelor's, no years) count as unlabeled. Labelling SWE needs 4+ yrs; rest senior, test or systems. Same as previous run.",
-  "confidence": "medium",
-  "dropped": []
+ "checked": "2026-10-26",
+ "dropped": [],
+ "postings": [
+  {
+   "title": "Software Engineer, Commercial Software",
+   "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
+   "location": "Toronto, ON",
+   "opened": "2026-09-15",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of industry experience', 'experience through internships, work experience, or coding competitions'; CAD 149,000-220,000",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Research Engineer",
+   "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
+   "location": "Remote (US & Canada); Dallas, TX; Phoenix, AZ; Pittsburgh, PA; San Francisco, CA; Toronto, ON",
+   "opened": "2024-06-13",
+   "date_source": "lever createdAt",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Bachelor's plus 'experience working on applied research projects', no years asked; US $122,000 - $215,000",
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "Tracker: 'New Grad: Software Engineer' Remote US first seen 2024-09-11 (two cycles ago); nothing for the 2025-26 cycle.",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "company": "Waabi",
+ "tier": 3,
+ "status": "open",
+ "jobs_page": "https://jobs.lever.co/waabi",
+ "jobs_spec": "lever:waabi",
+ "evidence": "Lever board read in full (94) 2026-10-26; both prior postings live via API. Commercial Software SWE (Toronto, 2+ yrs) and evergreen Research Engineer (no years) count as unlabeled. Labelling SWE needs 4+ yrs; specialized Toronto Research Engineers pay senior-level ranges; rest senior, test, systems or internships.",
+ "confidence": "medium"
 }

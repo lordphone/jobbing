@@ -1,16 +1,30 @@
 {
-  "company": "Google",
-  "tier": 1,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [],
-  "last_cycle_opened": "2025-09-30",
-  "last_cycle_basis": "tracker first-seen 2025-09-30, New Grad 2026: Software Engineer (jobs.py history)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
-  "jobs_spec": null,
-  "evidence": "2026-10-20 browser: EARLY-level US search (about 150 hits for software engineer) lists no SWE for BS/MS. 2027-start Early Career SWE postings (84680705375642310) require a PhD. Software Engineer - Campus (tracker first seen 2026-08-07) was seen gone by the prior run (redirects to search).",
-  "confidence": "medium"
+ "company": "Google",
+ "tier": 1,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "UX Engineer, HUE Futures",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/131685895836181190-ux-engineer-hue-futures",
+   "location": "San Francisco, CA",
+   "opened": "on or before 2026-10-26",
+   "date_source": "page text",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "new-grad title",
+   "level_basis": "Listed under Google's own target_level=EARLY filter; requires 'Bachelor's degree' and '1 year of experience in front-end development, technical UX design, or prototyping'; JavaScript or TypeScript, HTML and CSS",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-09-30",
+ "last_cycle_basis": "tracker first-seen 2025-09-30, New Grad 2026: Software Engineer (jobs.py history)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.google.com/about/careers/applications/jobs/results/?target_level=EARLY&location=United%20States",
+ "jobs_spec": null,
+ "evidence": "Google careers pages read 2026-10-27 (browser): EARLY-level US list (6 pages) and software engineer, early career, new grad 2027 queries. Early Career 2027 Start SWE postings are PhD-only. UX Engineer HUE Futures (EARLY level, 1 yr front-end JS/TS) is the one front-end role counted and still listed; posting date not shown.",
+ "confidence": "medium"
 }

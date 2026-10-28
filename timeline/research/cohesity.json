@@ -1,21 +1,16 @@
 {
-  "company": "Cohesity",
-  "tier": 4,
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2025-11-14",
-  "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA 2025-11-14",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
-  "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
-  "evidence": "Workday API 2026-10-20 (167, full): no new-grad or entry SWE in US/Canada. Old posting R01282 (Santa Clara) page shows \"The page you are looking for doesn't exist\" in browser and is absent from board: closed.",
-  "confidence": "high",
-  "checked": "2026-10-20",
-  "dropped": [
-    {
-      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-      "reason": "gone: browser page says the page you are looking for doesn't exist; absent from Workday board"
-    }
-  ]
+ "company": "Cohesity",
+ "tier": 4,
+ "status": "closed",
+ "postings": [],
+ "last_cycle_opened": "2025-11-14",
+ "last_cycle_basis": "tracker first-seen 'AI Software Engineer-New Graduate', Santa Clara CA 2025-11-14",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
+ "jobs_spec": "wd:cohesity/wd5/Cohesity_Careers",
+ "evidence": "Workday API 2026-10-27 (175, full): no new-grad or entry SWE in US/Canada; US software roles are Sr Staff SWE and a Summer 2027 intern. Tracker-listed AI Software Engineer New College Graduate R03123 (Santa Clara) is not on the board.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "dropped": []
 }

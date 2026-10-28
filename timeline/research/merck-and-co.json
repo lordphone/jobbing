@@ -1,16 +1,16 @@
 {
-  "company": "Merck & Co. (MSD)",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
+  "checked": "2026-10-27",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found for Jul 2025-Jan 2026; tracker shows Junior Data Engineer (San Jose CA) first seen 2024-10-25, two cycles ago",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Merck & Co. (MSD)",
+  "tier": 5,
+  "status": "closed",
+  "confidence": "medium",
   "jobs_page": "https://jobs.merck.com/us/en/search-results",
   "jobs_spec": "wd:msd/wd5/searchjobs",
-  "evidence": "Workday full board (963) 2026-10-20: US software roles are senior (Associate Director); engineering Associates are chemical or manufacturing; only 2027 Future Talent interns and co-ops. Prior IT Emerging Talent Rotational Program (opened 2026-09-21) is not on the board, so closed.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Workday board (933, full) 2026-10-27: US software/AI/digital roles are senior or Director; Associate Specialist Engineering/Automation is manufacturing (not SWE); 2027 Future Talent are interns/co-ops. IT Emerging Talent Rotational Program (opened 2026-09-21 per earlier run) is absent, so closed."
 }

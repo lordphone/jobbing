@@ -1,7 +1,6 @@
 {
  "company": "Credit Karma",
  "tier": 4,
- "checked": "2026-10-20",
  "status": "open",
  "postings": [
   {
@@ -12,23 +11,42 @@
    "date_source": "page text (JSON-LD datePosted)",
    "deadline": null,
    "grad_window": "degree completed within the last 12 months",
-   "live_verified": "browser",
+   "live_verified": "api",
    "level": "new-grad title",
-   "level_basis": "Category 'New College Grad'; 'less than 12 months of relevant professional work experience'; reposted from jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720 (now 404)",
+   "level_basis": "Category 'New College Grad'; 'less than 12 months of relevant professional work experience'; reposted from jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720 (now 404); this link's datePosted 2026-10-15",
    "no_sponsorship": false
   },
   {
-   "title": "Software Developer 1, Canada Tax Content (Intuit Canada, same Intuit board)",
-   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-   "location": "Toronto, ON, Canada",
-   "opened": "2026-09-18",
-   "date_source": "page text (JSON-LD datePosted)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": "Page: 'an entry-level, growth-oriented role'; 1-2 yrs or recent BS/MS graduate",
-   "no_sponsorship": false
+   "level": "unlabeled",
+   "no_sponsorship": false,
+   "date_source": "page text (JSON-LD datePosted)",
+   "location": "Toronto, ON, Canada",
+   "title": "Software Developer 1 (Intuit-wide; Credit Karma is an Intuit company)",
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744",
+   "opened": "2026-10-27",
+   "level_basis": "'0\u20132 years of professional software development experience. Internships and co-ops count'; BS/MS; Level 1"
+  },
+  {
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "no_sponsorship": false,
+   "date_source": "page text (JSON-LD datePosted)",
+   "location": "Toronto, ON, Canada",
+   "title": "Software Developer 1 - API Management Platform (Intuit-wide)",
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064",
+   "opened": "2026-10-27",
+   "level_basis": "Level 1; requires BS/MS plus 'Coursework, internships, personal projects, or academic experience' with a language; no years asked"
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+   "reason": "gone: page returns 404 on 2026-10-26"
   }
  ],
  "last_cycle_opened": "2025-08-14",
@@ -37,8 +55,7 @@
  "no_sponsorship": false,
  "jobs_page": "https://jobs.intuit.com/search-jobs/Credit%20Karma/27595/1",
  "jobs_spec": null,
- "jobs_spec_basis": "Credit Karma roles post on the parent Intuit board (jobs.intuit.com); no API",
- "evidence": "2026-10-20 Intuit board (Credit Karma is an Intuit company). Opened both pages in browser, Apply Now shown: Software Engineer 1 (New College Grad, datePosted 2026-10-15, 5 US cities) and Toronto Software Developer 1 (2026-09-18). Both Intuit-wide. CK-branded search has only Staff/Senior engineers and interns.",
+ "evidence": "Credit Karma careers send to the Intuit board. Intuit-wide Software Engineer 1 (New College Grad, 5 US cities) still live with Apply (datePosted 2026-10-15, repost). Two new Toronto Software Developer 1 postings found 2026-10-27, Intuit-wide not CK-branded. Earlier Toronto SD1 (tax content) still 404.",
  "confidence": "medium",
- "dropped": []
+ "checked": "2026-10-27"
 }

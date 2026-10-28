@@ -1,30 +1,30 @@
 {
-  "company": "United Airlines",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Developer - Customer Care Technology",
-      "url": "https://careers.united.com/us/en/job/WHQ00026870",
-      "location": "Chicago, IL",
-      "opened": "2026-09-30",
-      "date_source": "phenom postedDate",
-      "deadline": "2026-11-23",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "minimum quals: bachelor's and 2+ years software development; supports senior developers, no lead duties (borderline mid-level: 'self-sufficient, little supervision')",
-      "no_sponsorship": true
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; tracker shows only 2026 analyst roles and Developer - IT Front End (Houston, 2026-07-23, closed); United runs an Early Career Digital Leadership Program (ECDLP) for tech",
-  "excluded_reason": null,
-  "no_sponsorship": true,
-  "jobs_page": "https://careers.united.com/us/en/search-results",
-  "jobs_spec": null,
-  "evidence": "Phenom search API 2026-10-20 (133 jobs, all read): Software Developer - Customer Care Technology (Chicago) still listed; 2+ yrs, no-sponsorship line, borderline mid-level. Other tech roles India, senior or non-SWE. Deadline 11-23 carried from earlier run.",
-  "confidence": "low"
+ "company": "United Airlines",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Developer - Customer Care Technology",
+   "url": "https://careers.united.com/us/en/job/WHQ00026870",
+   "location": "Chicago, IL",
+   "opened": "2026-09-30",
+   "date_source": "page text (Phenom postedDate)",
+   "deadline": "2026-11-23",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "requires 2+ years software development; provides support to the software development leads (Ex: Senior Developer)",
+   "no_sponsorship": true
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "unknown; tracker shows only 2026 analyst roles and Developer - IT Front End (Houston, 2026-07-23, closed); United runs an Early Career Digital Leadership Program",
+ "excluded_reason": null,
+ "no_sponsorship": true,
+ "jobs_page": "https://careers.united.com/us/en/search-results",
+ "jobs_spec": null,
+ "evidence": "Phenom job pages read 2026-10-27 (keyword searches: software, engineer, graduate, early career, entry level, developer, data): Software Developer - Customer Care Technology (Chicago) live, closes 2026-11-23, 2+ yrs, no-sponsorship line, supports senior leads, kept as borderline. Developer - Information Technology (WHQ00026982) mentors engineers, ruled out. Associate Engineer is aircraft Tech Ops.",
+ "confidence": "low"
 }

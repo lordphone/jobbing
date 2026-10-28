@@ -1,4 +1,9 @@
 {
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-26",
   "company": "Curtiss-Wright",
   "tier": 5,
   "status": "no_program_found",
@@ -6,11 +11,6 @@
   "last_cycle_basis": "tracker first seen 2025-12-15: Graduate Engineer, Frederick MD (same team); also Junior Software Developer Ottawa 2025-02-24",
   "jobs_page": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site",
   "jobs_spec": "wd:curtisswright/wd1/cw_external_career_site",
-  "evidence": "Workday board 2026-10-19 (373, full) screened. Graduate Engineer Frederick MD (0-2 yrs) is nuclear simulation engineering, not SWE. Oracle System Developer and Manufacturing SW Developer say 'candidates must be US citizens' (DoD); other software roles are 5+ yrs, senior, or Canada (Ottawa, Mississauga).",
-  "confidence": "medium",
-  "checked": "2026-10-19",
-  "postings": [],
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "evidence": "Workday full board (371) screened 2026-10-26. Graduate Engineer Frederick MD is plant-simulator engineering, not SWE. Software Developer Manufacturing and Operations (Summerville) needs 5+ yrs and US citizenship (DoD); Oracle System Developer requires US citizens (DoD); other SWE roles senior or non-US/Ottawa. No entry SWE.",
+  "confidence": "high"
 }

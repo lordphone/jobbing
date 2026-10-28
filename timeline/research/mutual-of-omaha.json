@@ -1,7 +1,5 @@
 {
- "company": "Mutual of Omaha",
- "tier": 5,
- "status": "open",
+ "checked": "2026-10-27",
  "postings": [
   {
    "title": "Java Integration Engineer I",
@@ -13,7 +11,20 @@
    "grad_window": null,
    "live_verified": "browser",
    "level": "unlabeled",
-   "level_basis": "Engineer I; 'great opportunity for an early-career developer'; requires 2+ years Java/Spring; $110,000 - $116,000; works alongside senior engineers",
+   "level_basis": "Engineer I; requires 2+ years Java/Spring; works alongside senior engineers; early-career developer",
+   "no_sponsorship": true
+  },
+  {
+   "title": "Engineer I/II (Cloud Development and Data Warehouse)",
+   "url": "https://www.mutualofomaha.com/careers/jobs/detail/505274",
+   "location": "Remote (US or Puerto Rico)",
+   "opened": "2026-10-02",
+   "date_source": "page text",
+   "deadline": "2026-10-30",
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Engineer I or Engineer II level; no years of experience stated; software engineering role for Claims",
    "no_sponsorship": true
   }
  ],
@@ -22,9 +33,11 @@
  "last_cycle_basis": "no tracker record; not found",
  "excluded_reason": null,
  "no_sponsorship": true,
+ "company": "Mutual of Omaha",
+ "tier": 5,
+ "status": "open",
  "jobs_page": "https://www.mutualofomaha.com/careers/jobs/search",
  "jobs_spec": null,
- "evidence": "Read all 7 pages (90 postings) of mutualofomaha.com job search 2026-10-20, opened detail pages: Java Integration Engineer I (early-career, 2+ yrs, Apply Now, open until filled). Engineer I/II (505274, closes 2026-10-30, no years stated) left out because title includes II. Other engineer roles need 5+ to 7+ yrs. No sponsorship.",
- "confidence": "medium",
- "checked": "2026-10-20"
+ "evidence": "Both posting pages fetched 2026-10-27: Apply Now live. 505232 (Engineer I, 2+ yrs Java, open until filled), 505274 (Engineer I/II, no years stated, closes 2026-10-30). Both state no sponsorship. Search list page 1 of 6 showed no other entry software roles; earlier run left out Full Stack 5+ yrs, Engineer II/III, Data Engineer I/II 6+.",
+ "confidence": "medium"
 }

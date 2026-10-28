@@ -1,5 +1,6 @@
 {
   "company": "Walgreens",
+  "tier": 5,
   "status": "open",
   "postings": [
     {
@@ -12,7 +13,7 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "Software Engineer I; basic qualification is a bachelor's degree in CS, no years of experience required",
       "no_sponsorship": true
     }
   ],
@@ -20,11 +21,10 @@
   "last_cycle_basis": "none found; tracker history only has this 2026 posting",
   "jobs_page": "https://sjobs.brassring.com",
   "jobs_spec": null,
-  "evidence": "Posting page fetched 2026-10-19: Software Engineer I (Full Stack) Java (req 1810437BR, Deerfield IL) loads with full description, BS required, no years; work visa sponsorship not available. BrassRing search not usable, so other roles unchecked.",
+  "evidence": "BrassRing posting 1855141 (req 1810437BR) re-read in browser 2026-10-26: Software Engineer I, Deerfield IL hybrid, Apply to job present, BS required, no years, work visa sponsorship not available, pay $65,000-$113,750. Other SWE roles not rescanned; earlier run found them senior.",
   "confidence": "medium",
-  "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
+  "dropped": [],
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "dropped": []
+  "no_sponsorship": false
 }

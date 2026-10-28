@@ -1,6 +1,7 @@
 {
   "company": "Rover",
   "tier": 4,
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -17,14 +18,13 @@
       "no_sponsorship": true
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-10-29",
   "last_cycle_basis": "tracker history: Software Engineer I, Expansions, Seattle WA, first seen 2025-10-29",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/rover",
   "jobs_spec": "lever:rover",
-  "evidence": "Lever API 2026-10-19 (37, full): 'Entry Level Software Engineer, Recommendations' live (Seattle, created 2026-09-10); asks 1-4 yrs, entry-level in title. Posting: no employer sponsorship; must be in Greater Seattle Area. Other SWE roles ask 3+ yrs.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Lever API (35, full) and detail 2026-10-26: Entry Level Software Engineer, Recommendations live (Seattle, created 2026-09-10); entry-level in title; no employer sponsorship. Other SWE roles non-US or senior.",
+  "confidence": "high"
 }

@@ -1,33 +1,32 @@
 {
  "company": "U-Haul (U-Haul Holding Company)",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "open",
  "postings": [
+  {
+   "title": "Software Developer - Junior",
+   "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R256644",
+   "location": "Phoenix, AZ (remote, must live in Phoenix metro)",
+   "opened": "2026-10-02",
+   "date_source": "tracker first seen (earlier run); API startDate now 2026-10-26 after repost",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "Title 'Junior'; requires 'Minimum of 3 years in software development and/or bachelor's degree' (degree alone satisfies); $60K-90K",
+   "no_sponsorship": true
+  },
   {
    "title": "Software Developer",
    "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Software-Developer_R255136",
    "location": "Tempe, AZ",
    "opened": "2026-09-09",
-   "date_source": "workday startDate",
+   "date_source": "workday startDate (earlier run)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "Requires 1-3 years developing software in .NET and a bachelor's; no senior duties",
-   "no_sponsorship": true
-  },
-  {
-   "title": "Software Developer",
-   "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R256644",
-   "location": "Phoenix, AZ",
-   "opened": "2026-10-02",
-   "date_source": "workday startDate",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "Experience: minimum 3 years in software development and/or bachelor's degree in CS (a degree alone satisfies); no senior title",
+   "level_basis": "Education/Training: 1-3 years developing software in .NET and a Bachelor's in CS; no senior duties",
    "no_sponsorship": true
   }
  ],
@@ -38,6 +37,7 @@
  "no_sponsorship": true,
  "jobs_page": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs",
  "jobs_spec": "wd:uhaul/wd1/UhaulJobs",
- "evidence": "Workday search 2026-10-19 plus detail: both Software Developer postings still live and qualify (Phoenix: 3 yrs and/or bachelor's; Tempe: 1-3 yrs .NET). SDET not counted. Both say not eligible for sponsorship. Rolling, no new-grad program. Board list undercounted (320), so searched by keyword.",
- "confidence": "medium"
+ "evidence": "Workday full board (800) 2026-10-26: Software Developer - Junior (Phoenix) and Software Developer (Tempe) both live via API, no sponsorship. SDET (CS degree, no years) left out as unclear. Rolling, no new-grad program.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

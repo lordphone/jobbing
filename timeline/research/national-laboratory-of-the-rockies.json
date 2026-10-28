@@ -1,17 +1,16 @@
 {
   "company": "National Laboratory of the Rockies (formerly NREL)",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "no_program_found",
+  "last_cycle_basis": "none found; tracker only saw postdoctoral researchers 2026-06-25",
+  "jobs_page": "https://nrel.wd5.myworkdayjobs.com/NLR",
+  "jobs_spec": "wd:nrel/wd5/NLR",
+  "evidence": "Workday full board (56) read 2026-10-27: only software-like role is ML and Optimization Engineer (Golden CO, R14323), a Level II/III posting needing 2+ or 5+ yrs, mentions obtaining a clearance; left out. Rest postdocs and interns.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "none found; no entry-level SWE posting identified on the board",
   "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://nrel.wd5.myworkdayjobs.com/NLR",
-  "jobs_spec": "wd:nrel/wd5/NLR",
-  "jobs_spec_basis": "nlr.gov/careers/find-job 'Search Jobs' button links to nrel.wd5.myworkdayjobs.com/NLR; jobs.py board lists 58 postings",
-  "evidence": "Workday full board (58) read 2026-10-20: only software-like roles are ML and Optimization Engineer (Level II BS+2 or Level III BS+5/MS+3, supports junior researchers, so left out as unclear), EPM Developer (finance systems), Linux Storage Engineer III; rest postdocs, interns, scientists.",
-  "confidence": "medium"
+  "no_sponsorship": false
 }

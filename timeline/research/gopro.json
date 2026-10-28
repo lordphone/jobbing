@@ -1,16 +1,17 @@
 {
   "company": "GoPro",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker or first-party record found",
+  "last_cycle_basis": "no new-grad SWE posting found for last cycle",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/goprojobs",
   "jobs_spec": "gh:goprojobs",
-  "evidence": "Greenhouse goprojobs API lists 0 postings 2026-10-20; careers page redirects to that board showing no current openings.",
-  "confidence": "high"
+  "jobs_spec_basis": "gopro.com/en/us/careers redirects in browser to job-boards.greenhouse.io/goprojobs; board confirmed, shows 'no current openings'",
+  "evidence": "Careers page redirects to the goprojobs Greenhouse board; API lists 0 postings and the page says 'no current openings' on 2026-10-27. No entry-level SWE found this cycle or last.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

@@ -1,7 +1,7 @@
 {
   "company": "VAST Data",
   "tier": 3,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -12,7 +12,7 @@
       "date_source": "comeet time_updated (lower bound)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "Entry-level tag; 'Software Engineer - A new college Grad'; Bachelor's in CS, no years",
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "comeet time_updated (lower bound)",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "browser",
+      "live_verified": "api",
       "level": "new-grad title",
       "level_basis": "Entry-level tag; 'Top Graduate Software Engineer'; Bachelor's in CS, no years",
       "no_sponsorship": false
@@ -38,7 +38,7 @@
   "jobs_page": "https://www.vastdata.com/careers",
   "jobs_spec": null,
   "jobs_spec_basis": "careers page loads Comeet careers-api company 43.001; no jobs.py spec for Comeet",
-  "evidence": "2026-10-19: Comeet list (company 43.001) and both Top Graduate SWE V-Force posting pages (RTP NC, New York) opened in browser: Entry-level tag, Apply button, no restriction text. Israel NCG roles, Graduate QA and FDE not counted.",
+  "evidence": "Comeet board JSON (264+ positions, full) fetched 2026-10-26: both Top Graduate SWE V-Force postings (RTP NC, New York) still listed, Entry-level tag, bachelor CS, no years. Israel new-grad roles out of scope; US Forward Deployed Engineer has no level label, not counted.",
   "confidence": "high",
   "dropped": []
 }

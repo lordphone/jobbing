@@ -1,30 +1,30 @@
 {
- "company": "Centific",
- "tier": 5,
- "status": "open",
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
  "postings": [
   {
-   "title": "SDE2-2 (Software Development Engineer, entry-level)",
+   "title": "SDE2-2 (Software Development Engineer)",
    "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1",
-   "location": "Remote (US) (no city listed)",
+   "location": "Remote (US)",
    "opened": "2026-05-19",
-   "date_source": "workday startDate",
+   "date_source": "workday startDate (API)",
    "deadline": null,
    "grad_window": null,
    "live_verified": "api",
    "level": "unlabeled",
-   "level_basis": "\"Entry-level position.\" Requirements: college degree, PHP/JavaScript/jQuery, Git; $80K - $110K",
+   "level_basis": "'Entry-level position'; web platform dev (PHP, JavaScript, jQuery); $80K - $110K; title's '2' appears to be a batch index",
    "no_sponsorship": false
   }
  ],
+ "checked": "2026-10-26",
  "last_cycle_opened": null,
- "last_cycle_basis": "Tracker history only shows Student Worker (2025-09-16) and experienced backend/deployment roles (2025-10-30); no dated new-grad SWE posting",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "no entry-level SWE posting between 2025-07 and 2026-01 in tracker history",
+ "company": "Centific",
+ "tier": 5,
+ "status": "open",
  "jobs_page": "https://centific.wd1.myworkdayjobs.com/Centific_Global",
  "jobs_spec": "wd:centific/wd1/Centific_Global",
- "evidence": "Workday board (99) and CXS posting page read 2026-10-19: SDE2-2 (Remote US) live, canApply true, says 'Entry-level position', PHP/JS web platform dev, no sponsorship/citizenship line. AI Engineer ($165k) and AI Research Engineer roles are research/senior, left out. Other US roles senior/sales.",
- "confidence": "medium",
- "checked": "2026-10-19",
- "dropped": []
+ "evidence": "Workday board (97, full) 2026-10-26. SDE2-2 (Remote US, Entry-level position) still live via detail API, kept. AI Engineer JR108478 (US remote) has no years or level line, NLP model experience required; left out. Other US roles are research, senior or sales.",
+ "confidence": "medium"
 }

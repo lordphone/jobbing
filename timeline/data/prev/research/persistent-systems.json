@@ -1,16 +1,17 @@
 {
   "company": "Persistent Systems",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "unknown; no tracker history; Persistent early-careers campus program is India-focused",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://careers.persistent.com/jobslist",
   "jobs_spec": null,
-  "evidence": "Board read with US filter (30 postings): developers ask 3-15 yrs (Full Stack Gen AI Developer 8+, Fullstack Engineer 10+), rest architects, leads and support. No entry-level US software role; campus program is India.",
-  "confidence": "high"
+  "jobs_spec_basis": "Zwayam-backed list (public.zwayam.com jobs/search); read all US (30) and Canada (1) postings through the site's own search API",
+  "evidence": "careers.persistent.com/jobslist in browser 2026-10-26, US+Canada filter: 32 openings; US titles are architects, leads, support/network engineers and generic Java/C#/Programmer (Dev)/Fullstack developers with no entry-level or new-grad label (card details not readable). Campus program is India.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,16 +1,16 @@
 {
   "company": "Teradyne",
   "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
+  "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2024-07-31",
-  "last_cycle_basis": "jobs.py history: 2024 NCG Software Engineer postings only (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing in 2025-07 to 2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "earlier file: 2024 NCG Software Engineer postings (2024-07-31 North Reading, 2024-10-14 Deer Park); nothing 2025-07 to 2026-01",
   "jobs_page": "https://jobs.teradyne.com",
   "jobs_spec": null,
-  "evidence": "jobs.teradyne.com RSS search 2026-10-19 (~12 software queries): US software roles ask 5+ yrs or Experienced; Automated Test Applications Engineer (SW Dev) is ITAR-restricted test work; Agoura Hills SWE left out as before. New College Graduate roles are hardware verification, test, factory apps. Earlier-noted Aug 2026 San Jose Memory Test SWE no longer listed.",
-  "confidence": "medium"
+  "evidence": "jobs.teradyne.com searched over HTTP 2026-10-26 (graduate, software engineer queries, ~570 listings). New College Graduate roles are hardware verification, mechanical, test, field apps, not software. US software roles ask 5+ yrs, say 'Experienced Software Engineer', or are applications/support; Agoura Hills 2+ yrs SWE leaves out.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

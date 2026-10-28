@@ -1,17 +1,17 @@
 {
   "company": "Rippling",
   "tier": 2,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-08-13",
-  "last_cycle_basis": "Tracker first-seen (on or before) for 'New Grad 2025: Software Engineer', New York, ats.rippling.com.",
+  "last_cycle_basis": "tracker first seen 2025-08-13: New Grad 2025: Software Engineer, New York NY",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://ats.rippling.com/rippling/jobs",
   "jobs_spec": null,
-  "evidence": "Rippling ATS public API (658 listings, 379 unique) 2026-10-19: US engineering are Summer/Winter 2027 interns, Software Engineer II and Senior/Staff; only Software Engineer I is Bangalore. No new-grad SWE yet; last cycle opened mid-Aug 2025, so it is late.",
-  "confidence": "high",
-  "dropped": [],
-  "jobs_spec_basis": "careers page Search jobs links go to ats.rippling.com/rippling/jobs; public JSON API api/v2/board/rippling/jobs is not a jobs.py spec, so kept null"
+  "jobs_spec_basis": "Rippling ATS public API https://api.rippling.com/platform/api/ats/v1/board/rippling/jobs (no jobs.py spec)",
+  "evidence": "Rippling public ATS API 2026-10-26 (652 listings, full board): US engineering roles are Summer/Winter 2027 interns, Software Engineer II (II level) and Senior/Staff/leaders. Software Engineer I is Bangalore only. No US new-grad or entry-level SWE live.",
+  "confidence": "high"
 }

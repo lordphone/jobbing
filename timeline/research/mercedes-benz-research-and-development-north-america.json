@@ -1,16 +1,17 @@
 {
   "company": "Mercedes-Benz Research & Development North America",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No new-grad SWE in tracker history",
+  "last_cycle_basis": "no record found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/MBRDNA",
   "jobs_spec": "lever:MBRDNA",
-  "evidence": "Lever board full (13) 2026-10-20, screened: System Integration AD and AD/ADAS Vehicle Integration need 3+ yrs, Software Compliance Engineer is a contractor, rest senior, legal, intern. No entry SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "mbrdna.com careers link goes to jobs.lever.co/MBRDNA; board is live but lists 0 jobs now",
+  "evidence": "mbrdna.com home page 'Careers' link goes to jobs.lever.co/MBRDNA, so the saved board is right. It shows 'No job postings currently open' on 2026-10-27 (API returns []); earlier run saw 4 senior/legal roles. No entry-level SWE or new-grad program.",
+  "confidence": "medium"
 }

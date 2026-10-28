@@ -1,16 +1,16 @@
 {
   "company": "ETS (Educational Testing Service)",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
+  "checked": "2026-10-27",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; ets.org lists internships only",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://etscareers.pereless.com/83080/talent.cfm",
   "jobs_spec": null,
-  "evidence": "Careers page 2026-10-20 lists 9 featured jobs (scoring, CTO, Salesforce lead, PR, tax); no software or entry-level engineering titles. Full list is a SPA without API, so only the featured list was readable.",
+  "status": "unknown",
+  "evidence": "2026-10-27: talent.cfm shows US disciplines Engineering/CCOE (1 job), Tech Praxis Support (1), Early Careers (3), Research (a few); featured roles include no entry SWE. Job search results page (etscareers.submit4jobs.com SPA) rendered blank in the browser pane, so individual US tech postings could not be read. Retry later.",
   "confidence": "low"
 }

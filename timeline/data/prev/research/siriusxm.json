@@ -1,17 +1,16 @@
 {
   "company": "SiriusXM",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "no_program_found",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No SWE new-grad history found in tracker or on the early-career page.",
+  "last_cycle_basis": "no last-cycle posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.siriusxm.com/careers/jobs?categories=Engineering",
   "jobs_spec": null,
-  "evidence": "careers.siriusxm.com Jibe API 2026-10-19 (55 jobs, full list): US engineering roles all Staff/Senior/Principal (Lewisville, Irving, Oakland); Dublin/Bucharest non-US. No entry-level SWE or new-grad program.",
-  "confidence": "high",
-  "dropped": [],
-  "jobs_spec_basis": "careers.siriusxm.com Jibe API (/api/jobs) lists all 55 jobs; no jobs.py spec"
+  "evidence": "careers.siriusxm.com API read in full 2026-10-26 (52 jobs): US engineering roles are Staff/Senior/Principal; Software Engineer II and others are Dublin or Bucharest. NOC Analyst (Lewisville) is ops, not SWE.",
+  "confidence": "high"
 }

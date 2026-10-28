@@ -1,30 +1,21 @@
 {
   "company": "Phillips 66",
   "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
+  "status": "closed",
+  "postings": [],
+  "dropped": [
     {
-      "title": "2027 University New Hire - Information Technology (Software Engineering, Cloud, SRE, Data, Cyber assignments)",
       "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
-      "location": "Houston, TX; Bartlesville, OK",
-      "opened": "2026-09-10",
-      "date_source": "page metadata datePosted 2026-09-10 (seen 2026-10-08, kept; page now shows 2026-10-09)",
-      "deadline": "2026-12-31",
-      "grad_window": "Winter 2026 or Spring/Summer 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Experience 66 IT university new-hire program; assignments include Software Engineering",
-      "no_sponsorship": true
+      "reason": "gone: page 2026-10-27 says 'Sorry, this position has been filled.' and it is not in the new-hire list"
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window; no IT university-hire timing known",
+  "last_cycle_basis": "not found; no IT university-hire timing known",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.phillips66.com/go/New-Hire-Opportunities/9494000/",
   "jobs_spec": null,
-  "evidence": "careers.phillips66.com page fetched 2026-10-20: 2027 University New Hire - IT shows Apply now, validThrough 2026-12-31, graduating Winter 2026 or Spring/Summer 2027. Posting says no sponsorship for temporary visas.",
-  "confidence": "medium"
+  "evidence": "2026-10-27: the 2027 University New Hire - Information Technology posting (opened 2026-09-10) says position filled and is gone from the 7-listing new-hire page (commercial, marketing, refining, finance, HSE, midstream). Only a 2027 IT intern remains; searches show no entry software role.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

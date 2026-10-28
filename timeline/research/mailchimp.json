@@ -1,7 +1,6 @@
 {
   "company": "Mailchimp",
   "tier": 4,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -16,28 +15,17 @@
       "level": "new-grad title",
       "level_basis": "Category 'Software Engineering, New College Grad'; 'Less than 12 months of relevant professional work experience'",
       "no_sponsorship": false
-    },
-    {
-      "title": "Software Developer 1, Canada Tax Content",
-      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-      "location": "Toronto, ON, Canada",
-      "opened": "2026-09-18",
-      "date_source": "page text (JSON-LD datePosted)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "browser",
-      "level": "unlabeled",
-      "level_basis": "'entry-level, growth-oriented role'; 'BS/MS ... or recent graduate'; 1-2 years developing in C#/C++/Java",
-      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first seen: Intuit Software Engineer 1 (Mountain View) 2025-08-15, Intuit-wide.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.intuit.com",
   "jobs_spec": null,
-  "evidence": "2026-10-20 fetched both Intuit pages: SWE 1 New College Grad general posting (Mountain View, Atlanta, Charlotte, NY, San Diego) and Toronto Software Developer 1 both show Apply Now. Evergreen, not tied to 2027. Mailchimp is part of Intuit.",
+  "jobs_spec_basis": "Mailchimp is an Intuit company; its new-grad roles post on jobs.intuit.com, no API spec",
+  "evidence": "2026-10-27 opened Intuit SWE 1 New College Grad posting in browser: Apply Now present, category 'Software Engineering, New College Grad', under 12 months experience. Evergreen general posting, not tied to 2027; earlier opened date kept.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

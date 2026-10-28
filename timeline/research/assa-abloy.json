@@ -1,7 +1,6 @@
 {
   "company": "ASSA ABLOY",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
@@ -10,21 +9,22 @@
       "location": "Berlin, CT",
       "opened": "2026-09-17",
       "date_source": "tracker first seen (page datePosted meta 2026-10-16)",
-      "deadline": null,
+      "deadline": "2026-10-31",
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "'Overall 0-2 years of experience in websites or web applications development'; AEM/Java/React developer working under a technical lead",
+      "level_basis": "'Overall 0-2 years of experience in websites or web applications development'; labeled Entry level; AEM/Java/React developer",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no clear new-grad SWE posting found Jul 2025-Jan 2026 (tracker shows only a Software Developer, New Haven 2026-01-15)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://assaabloy.jobs2web.com/search/",
   "jobs_spec": null,
-  "evidence": "jobs2web searches 2026-10-20 (software engineer, graduate/early career; 577-933 postings, only page 1 of each readable) plus posting page: Associate Engineer (Berlin CT, entry level, 0-2 yrs web dev, Apply now) live. Page shows an unlabeled '31-Oct-2026' (not treated as a deadline). Other software roles on page 1 are senior or non-US; earlier check found Phoenix SWE roles needing 3+ yrs.",
+  "evidence": "jobs2web US searches (software, developer, engineer) 2026-10-27: Associate Engineer Berlin CT page live with Apply now, Entry level, 0-2 yrs. Phoenix Frontend/Backend SWE and Lead SWE are mid/senior; firmware roles are embedded. Deadline 31-Oct kept from earlier run.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

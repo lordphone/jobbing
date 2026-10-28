@@ -1,16 +1,16 @@
 {
   "company": "Flock Safety",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; none found",
+  "last_cycle_basis": "not found; no tracker or first-party dated entry-level SWE posting",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/Flock%20Safety",
   "jobs_spec": "ashby:Flock%20Safety",
-  "evidence": "ashby:Flock%20Safety 2026-10-19 (29, full): only engineering roles are UAS support and flight test (hardware); no SWE new-grad. Intern conversion only.",
-  "confidence": "medium"
+  "evidence": "2026-10-26 Ashby API (27 jobs, full) matches the careers page /careers/positions list: only engineering roles are UAS Flight Test Engineer and UAS Support Engineer (Atlanta, hardware/support); rest are field technicians, ops, policy comms, CX AI designer. No software engineering postings.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": []
 }

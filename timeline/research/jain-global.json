@@ -1,24 +1,11 @@
 {
   "company": "Jain Global",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
-      "title": "Junior Developer, Compliance",
-      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Junior-Developer--Compliance_JR100626-1",
-      "location": "New York, NY; London, United Kingdom",
-      "opened": "2026-10-19",
-      "date_source": "workday postedOn (Posted Today)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "title \"Junior Developer\"; posting seeks \"Compliance Technology Junior Developer with 2-4 years\"",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Developer (Equity Arbitrage)",
+      "title": "Developer",
       "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Developer_JR100255",
       "location": "New York, NY",
       "opened": "2026-07-04",
@@ -27,17 +14,30 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Qualifications: \"0-3 years of software development experience\"; $185,000 to $200,000; works with senior engineers",
+      "level_basis": "\"Qualifications: 0-3 years of software development experience\"; $185,000 to $200,000",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Junior Developer, Compliance",
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Junior-Developer--Compliance_JR100626-1",
+      "location": "New York, NY; London, United Kingdom",
+      "opened": "2026-10-19",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Junior title; asks 2-4 yrs",
       "no_sponsorship": false
     }
   ],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no last-cycle grad SWE posting found",
+  "last_cycle_basis": "no tracker history before 2026-07",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite",
   "jobs_spec": "wd:jainglobal/wd5/ExternalSite",
-  "evidence": "Workday full board (43) read 2026-10-20: Developer JR100255 (0-3 yrs, NYC) and Junior Developer, Compliance (NYC/London) live via API. Operations Tech and Treasury Tech Developer list no level, left out. Others senior, 3+ yrs, intern or non-US.",
+  "evidence": "Workday full board (44) 2026-10-27, both postings re-read via API: Developer JR100255 (0-3 yrs, NY) and Junior Developer, Compliance (Junior title, asks 2-4 yrs, NY/London). Treasury/Operations tech, quant developer and data engineer roles are mid or senior.",
   "confidence": "medium"
 }

@@ -1,16 +1,16 @@
 {
   "company": "ClickHouse",
   "tier": 3,
-  "checked": "2026-10-20",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": null,
   "jobs_page": "https://jobs.ashbyhq.com/clickhouse",
   "jobs_spec": "ashby:clickhouse",
-  "evidence": "Rechecked 2026-10-19 (board API plus detail): no new-grad titles, no tracker history. US SWE roles ask 5+ yrs (Observability, Control Plane 6+). Core SWE C++, SQL Console, Growth Engineer, AI Operations Engineer state no years or level; left out as unclear.",
-  "confidence": "medium"
+  "evidence": "Ashby full board (207) 2026-10-27, screened US engineer postings: no new-grad titles. US SWE roles ask 3-6+ yrs or solid professional C++, shipped production agentic UI, founder/builder experience; pay $142K-$260K. No entry-level SWE.",
+  "confidence": "high",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "checked": "2026-10-27"
 }

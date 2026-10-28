@@ -1,16 +1,48 @@
 {
  "company": "American Airlines",
- "status": "closed",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Sr Associate Engineer, IT Software",
+   "url": "https://jobs.aa.com/job/Sr-Associate-Engineer%2C-IT-Software/89012-en_US",
+   "location": "Fort Worth, TX",
+   "opened": "2026-10-21",
+   "date_source": "page text (Posting Start Date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Minimum qualifications: 1+ years of experience; Sr Associate Engineer title",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Sr Associate Engineer/Engineer, IT Software",
+   "url": "https://jobs.aa.com/job/Sr-Associate-EngineerEngineer%2C-IT-Software/88835-en_US",
+   "location": "Fort Worth, TX",
+   "opened": "2026-10-23",
+   "date_source": "page text (Posting Start Date)",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "browser",
+   "level": "unlabeled",
+   "level_basis": "Minimum qualifications: 1+ years of experience; Sr Associate Engineer/Engineer title",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://jobs.aa.com/job/Associate-DeveloperDeveloper%2C-IT-Applications/88925-en_US",
+   "reason": "gone: not in the jobs.aa.com listing and page 2026-10-26 shows no Apply"
+  }
+ ],
  "last_cycle_opened": null,
  "last_cycle_basis": "destinationaa.com/campus: IT ADEPT (Phoenix AZ, Fort Worth TX) 'Applications open in September', rolling offers; no dated posting found",
- "jobs_page": "https://jobs.aa.com",
- "jobs_spec": null,
- "evidence": "2026-10-19 re-check blocked (jobs.aa.com 403, browser pane full); web search shows only Engineer/Sr Engineer IT Software (3+ yrs, req 87584, 85869) and senior developer roles, no entry posting. Relying on the 2026-10-18 browser read: earlier entry-level IT Software 88440 and 88617 show not available.",
- "confidence": "low",
- "tier": 5,
- "checked": "2026-10-19",
- "postings": [],
  "excluded_reason": null,
  "no_sponsorship": false,
- "dropped": []
+ "jobs_page": "https://jobs.aa.com",
+ "jobs_spec": null,
+ "evidence": "jobs.aa.com list (browser, paged 2026-10-26) and posting pages: Sr Associate Engineer IT Software 89012 and Sr Associate Engineer/Engineer 88835 live with Apply, 1+ yrs. Engineer/Sr Engineer IT Software 88837 and 88627 need 3+ yrs, left out.",
+ "confidence": "medium"
 }

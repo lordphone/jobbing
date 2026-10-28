@@ -1,21 +1,17 @@
 {
-  "company": "H-E-B",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://careers.heb.com/jobs/231773",
-      "reason": "gone: careers.heb.com/jobs/231773 returns 404 on 2026-10-20"
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "No dated first-party last-cycle opening found; H-E-B Digital posts Software Engineer 1 periodically.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.heb.com/digital",
-  "jobs_spec": null,
-  "evidence": "Jibe API 2026-10-20 (software search, 73 hits): SWEs are II (Quality, Storage), Senior, Staff or Manager. Software Engineer 1 (231773, first seen 2026-08-21) returns 404, so closed. No entry SWE listed now.",
-  "confidence": "high"
+ "company": "H-E-B",
+ "tier": 5,
+ "status": "closed",
+ "last_cycle_basis": "No dated first-party last-cycle opening found; H-E-B Digital posts Software Engineer 1 periodically (tracker 2026-08-21, this cycle)",
+ "jobs_page": "https://careers.heb.com/digital",
+ "jobs_spec": null,
+ "jobs_spec_basis": "careers.heb.com Jibe JSON API (/api/jobs?keywords=) searchable, no full-board spec in jobs.py",
+ "evidence": "careers.heb.com Jibe API 2026-10-27 (software engineer, engineer i, entry level, new grad, graduate, developer, full list by date): SWEs are II (Storage), Senior, Staff or Manager. Tracker's Software Engineer 1 (req 231773, seen 2026-08-21) is not listed, so closed. No entry SWE listed.",
+ "confidence": "medium",
+ "checked": "2026-10-27",
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "last_cycle_opened": null
 }

@@ -1,22 +1,9 @@
 {
   "company": "Choice Hotels International",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
-    {
-      "title": "Software Engineer 1",
-      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450",
-      "location": "Scottsdale, AZ",
-      "opened": "on or before 2026-08-28",
-      "date_source": "workday startDate of reposted R22196 (R22450 startDate 2026-10-16)",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "Software Engineer 1; bachelor's CS or equivalent, no years stated; 'building technical expertise under the guidance of senior engineering staff'",
-      "no_sponsorship": true
-    },
     {
       "title": "Software Engineer 1, Mobile Apps - Kotlin exposure required",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1--Mobile-Apps---Kotlin-exposure-required_R22195",
@@ -31,13 +18,18 @@
       "no_sponsorship": true
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450",
+      "reason": "gone: browser page shows \"The page you are looking for doesn't exist\" and not on board 2026-10-26"
+    }
+  ],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first seen 2025-08-15: Software Engineer 1, Scottsdale AZ (history search)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://choicehotels.wd5.myworkdayjobs.com/External",
   "jobs_spec": "wd:choicehotels/wd5/External",
-  "evidence": "Workday board 2026-10-19 (51, full), detail read: Software Engineer 1 R22450 (posted 2026-10-16, repost of R22196) and SE1 Mobile Kotlin R22195 live, Apply enabled; both say not eligible for sponsorship. Not a campus program.",
+  "evidence": "Workday board (52, full) 2026-10-26. SE1 Mobile Kotlin R22195 live via API, entry-level SE1, role not eligible for sponsorship. SE1 R22450 absent from the board.",
   "confidence": "medium"
 }

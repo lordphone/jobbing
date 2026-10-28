@@ -1,17 +1,17 @@
 {
   "company": "CyberArk",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history; no CyberArk or Palo Alto early-careers date found.",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": null,
   "jobs_page": "https://jobs.paloaltonetworks.com/en/search-jobs/cyberark/47263/1",
   "jobs_spec": "wd:paloaltonetworks/wd5/panwexternalcareers",
-  "jobs_spec_basis": "CyberArk roles carry CyberArk office names on Palo Alto Networks' Workday board; board lists 620 jobs in full",
-  "evidence": "PANW Workday 2026-10-19 (1428, full): US CyberArk-office engineering is Principal/Architect level; no entry SWE with a CyberArk office. Other CyberArk engineering is Israel/India.",
-  "confidence": "high",
-  "dropped": []
+  "jobs_spec_basis": "CyberArk jobs page is hosted on PANW careers; same Workday board as saved",
+  "evidence": "PANW Workday full board (1401) read 2026-10-26: US CyberArk-office (Boston, Newton, Santa Clara) engineering is Principal/Staff Software Engineer and Architect SQA. Generic PANW Software Engineer reqs (CA HQ) are Palo Alto Networks R&D roles, not CyberArk. No entry-level CyberArk software role.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

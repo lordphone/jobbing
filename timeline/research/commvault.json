@@ -1,16 +1,25 @@
 {
   "company": "Commvault",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008",
+      "reason": "gone: not on the board API (404) 2026-10-27 and not in the board list; page redirected with error=true earlier"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/commvault/jobs/5233623008",
+      "reason": "gone: not on the board API (404) 2026-10-27 and not in the board list"
+    }
+  ],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No 2025-07..2026-01 posting found; this cycle's Entry-Level Software Engineer - AI/ML (Shrewsbury, NJ) first seen 2026-07-16 per tracker history (jobs.py history).",
+  "last_cycle_basis": "No 2025-07..2026-01 posting found; this cycle's Entry-Level Software Engineer - AI/ML (Shrewsbury, NJ) first seen 2026-07-16 per tracker history",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/commvault",
   "jobs_spec": "gh:commvault",
-  "evidence": "Greenhouse 2026-10-20 (51, full): no US entry SWE live. Entry-Level SWE AI/ML (5233620008, Shrewsbury NJ, first seen 2026-07-16) and SWE AI/ML Tinton Falls (5233623008) are off the board and the page redirects to the board list. Seoul SWEs out of scope.",
+  "evidence": "Greenhouse board (58, Coverage full) read 2026-10-27: no US entry SWE live. Entry-Level SWE AI/ML (5233620008, Shrewsbury NJ, first seen 2026-07-16) and Tinton Falls SWE AI/ML (5233623008) are off the board (API 404). Seoul/India SWEs out of scope.",
   "confidence": "high"
 }

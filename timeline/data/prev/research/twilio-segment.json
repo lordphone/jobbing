@@ -1,9 +1,19 @@
 {
-  "company": "Twilio Segment",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "status": "open",
+  "checked": "2026-10-26",
   "postings": [
+    {
+      "title": "Software Engineer L2-Messaging API",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
+      "location": "Remote (US; not hired in CA, CT, NJ, NY, PA, WA)",
+      "opened": "2026-08-21",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "L2; required is only 'Bachelor's and/or Master's degree' plus Go or Java, no years; same Messaging API team as last year's Early Career posting",
+      "no_sponsorship": false
+    },
     {
       "title": "Software Engineer, Platform Engineering (L2)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
@@ -31,13 +41,16 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-07-01",
-  "last_cycle_basis": "Tracker history: Twilio 'Software Engineer \u2013 Early Career - Messaging API' US first seen 2025-06-17, reposted 2025-07-01; 2025-05-23 New Grad: Software Engineer",
+  "last_cycle_basis": "Tracker history: Twilio 'Software Engineer – Early Career - Messaging API' US first seen 2025-06-17, reposted 2025-07-01; 2025-05-23 New Grad: Software Engineer",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Twilio Segment",
+  "tier": 4,
+  "status": "open",
   "jobs_page": "https://job-boards.greenhouse.io/twilio",
   "jobs_spec": "gh:twilio",
-  "evidence": "Twilio Greenhouse API 2026-10-19 (134, full; Segment posts under Twilio): no new-grad title live. Two L2 SWEs (1-2+ yrs, junior duties) still listed, counted as unlabeled; other L2 (3+ yrs), L3 and Video not counted.",
-  "confidence": "low",
-  "dropped": []
+  "evidence": "Twilio Greenhouse API 2026-10-26 (135, full; Segment posts under Twilio): no new-grad title. Three Remote-US L2 SWEs still live, kept as unlabeled (Messaging API lists no years). SWE L2 8100236 needs 3+ yrs; Video 2-3+; L3 not counted.",
+  "confidence": "medium"
 }

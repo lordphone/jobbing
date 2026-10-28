@@ -1,16 +1,16 @@
 {
   "company": "Zoom Communications",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "closed",
+  "checked": "2026-10-26",
+  "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-08-17",
   "last_cycle_basis": "tracker first seen 'Software Engineer' Remote (Zoom Workday) 2025-08-17; 'New Grad: Software Engineer' San Jose 2024-09-11",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "jobs_spec": "wd:zoom/wd5/Zoom",
-  "evidence": "Workday (81, full) 2026-10-19: R19178 (Master+1yr SWE, San Jose), counted earlier, no longer on board. Remaining US eng: SWE R19749 6+ yrs, R19747 Staff-level, Full Stack 5-8 yrs, WebRTC 5+ yrs, Audio AI PhD. Kept closed.",
-  "confidence": "low",
-  "dropped": []
+  "evidence": "Workday full board (86) 2026-10-26: no entry-level SWE. SWE R19747 is Staff, R19749 6+ yrs, WebRTC 5+ yrs, Audio AI PhD, ML 5+ yrs. Earlier R19178 entry-level SWE is gone but no evidence it was a 2027-cycle posting, so not_yet instead of closed.",
+  "confidence": "medium"
 }

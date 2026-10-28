@@ -1,16 +1,16 @@
 {
   "company": "Hexagon",
+  "tier": 5,
   "status": "no_program_found",
-  "last_cycle_opened": null,
   "last_cycle_basis": "No US new-grad SWE tracker history (only Calgary, Canada Software Engineer - Algorithms 2026-08-05)",
   "jobs_page": "https://hexagon.com/company/careers/job-listings",
   "jobs_spec": null,
-  "evidence": "Could not reopen the listings 2026-10-20 (Cloudflare 403, no browser tab free). Carried from 2026-10-19 browser read of all 84 US and 35 Canada listings: US Software Engineer R&D asks 3-5+ yrs; Toronto roles senior or QA co-op. No entry SWE found; web search found no Hexagon graduate program.",
-  "confidence": "low",
-  "tier": 5,
-  "checked": "2026-10-20",
+  "evidence": "Browser read of all 74 US listings on hexagon.com 2026-10-27: Software Engineer R&D (Williamsburg VA, reqs 3086/3087) ask 3-5+ and 5+ yrs, other software roles Senior; Jr Field Service Engineers are not software. No entry SWE.",
+  "confidence": "high",
+  "checked": "2026-10-27",
   "dropped": [],
   "postings": [],
   "excluded_reason": null,
-  "no_sponsorship": false
+  "no_sponsorship": false,
+  "last_cycle_opened": null
 }

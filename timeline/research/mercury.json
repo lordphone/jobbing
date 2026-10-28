@@ -1,30 +1,56 @@
 {
- "company": "Mercury",
- "tier": 3,
- "status": "open",
- "postings": [
-  {
-   "title": "Software Engineer - Product",
-   "url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
-   "location": "San Francisco, CA; New York, NY; Portland, OR; Remote (US); Remote (Canada)",
-   "opened": "2026-07-01",
-   "date_source": "greenhouse first_published",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "api",
-   "level": "unlabeled",
-   "level_basis": "ideal candidate 'Has 1-4 years of backend or full-stack development experience'; US base $122,400-$158,400; no lead/mentor duties; no higher level named",
-   "no_sponsorship": false
-  }
- ],
- "last_cycle_opened": null,
- "last_cycle_basis": "unknown; no first-party date. Tracker 'Mercury' entries are Mercury Insurance, a different company.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://job-boards.greenhouse.io/mercury",
- "jobs_spec": "gh:mercury",
- "evidence": "Greenhouse full board 2026-10-20 (75): SWE - Product still listed; ideal candidate 1-4 yrs, no lead duties, borderline unlabeled, kept. Infrastructure SWE needs 2+ yrs AWS/Terraform plus RFC writing, left out; rest Senior+/Staff/managers.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "dropped": []
+  "company": "Mercury",
+  "tier": 3,
+  "checked": "2026-10-27",
+  "status": "open",
+  "postings": [
+    {
+      "title": "Software Engineer - Product",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
+      "location": "San Francisco, CA; New York, NY; Portland, OR; Remote (US); Remote (Canada)",
+      "opened": "2026-07-01",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "ideal candidate 'Has 1-4 years of backend or full-stack development experience'; US base $122,400-$158,400; no lead/mentor duties; no higher level named",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Mercury Command",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+      "location": "San Francisco, CA; New York, NY; Portland, OR; Remote (US); Remote (Canada)",
+      "opened": "2026-10-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "ideal candidate 'Has 1-4 years of backend or full-stack development experience'; US base $122,400-$176,000; no lead duties; no higher level named",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Frontend Engineer - Design Systems",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+      "location": "San Francisco, CA; New York, NY; Portland, OR; Remote (US); Remote (Canada)",
+      "opened": "2026-10-23",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'This role is open to early-career and intermediate engineers'; experience may come from internships, coursework or projects; no years asked",
+      "no_sponsorship": false
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": null,
+  "last_cycle_basis": "unknown; no first-party date. Tracker 'Mercury' entries are Mercury Insurance, a different company.",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://job-boards.greenhouse.io/mercury",
+  "jobs_spec": "gh:mercury",
+  "evidence": "Greenhouse board (77, full) and posting text read 2026-10-27: SWE - Product, SWE - Mercury Command (1-4 yrs ideal) and Frontend Engineer - Design Systems (early-career, no years) kept, all live on board. SWE - Infrastructure left out: 2+ yrs AWS, RFC and strategy duties. Other engineering is Senior/Staff/Manager.",
+  "confidence": "medium"
 }

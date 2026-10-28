@@ -1,43 +1,49 @@
 {
-  "company": "Anduril",
-  "tier": 2,
-  "checked": "2026-10-20",
-  "status": "excluded",
-  "postings": [
-    {
-      "title": "2027 Early Career Software Engineer",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007",
-      "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
-      "opened": "2026-06-11",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    },
-    {
-      "title": "2027 Early Career Flight Software Engineer",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
-      "location": "Costa Mesa, CA",
-      "opened": "2026-09-02",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": "2025-08-11",
-  "last_cycle_basis": "greenhouse first_published of '2026 Early Career Software Engineer' (job 4802146007), still on board; tracker 2025-08-12",
-  "excluded_reason": "us person / itar",
-  "no_sponsorship": false,
-  "jobs_page": "https://job-boards.greenhouse.io/andurilindustries",
-  "jobs_spec": "gh:andurilindustries",
-  "evidence": "Greenhouse API (full, 2535) 2026-10-20: 2027 Early Career SWE and Flight SWE live. Detail quote on both: 'Must be a U.S. Person due to required access to U.S. export-controlled information' (ITAR). Firmware excluded as hardware.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Anduril",
+ "tier": 2,
+ "status": "excluded",
+ "postings": [
+  {
+   "title": "2027 Early Career Software Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007",
+   "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
+   "opened": "2026-06-11",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  },
+  {
+   "title": "2027 Early Career Flight Software Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+   "location": "Costa Mesa, CA",
+   "opened": "2026-09-02",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": null,
+   "no_sponsorship": false
+  }
+ ],
+ "last_cycle_opened": "2025-08-11",
+ "last_cycle_basis": "greenhouse first_published of 2026 Early Career Software Engineer 4802146007",
+ "excluded_reason": "us person / itar",
+ "jobs_page": "https://job-boards.greenhouse.io/andurilindustries",
+ "jobs_spec": "gh:andurilindustries",
+ "evidence": "Greenhouse full board (2522) 2026-10-27: 2027 Early Career SWE and Flight SWE live via API; both say Must be a U.S. Person due to export-controlled access, clearance may be required. Early Career Battlespace SWE gone. Dublin roles not US.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "dropped": [
+  {
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
+   "reason": "gone: detail says NOT ON THE BOARD and absent from the full Greenhouse board listing on 2026-10-27"
+  }
+ ],
+ "no_sponsorship": false,
+ "jobs_spec_basis": "unflagged; reread full Greenhouse board"
 }

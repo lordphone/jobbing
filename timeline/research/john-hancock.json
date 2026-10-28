@@ -1,17 +1,30 @@
 {
- "company": "John Hancock (Manulife)",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "closed",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": "2025-11-24",
- "last_cycle_basis": "tracker: Associate Full-Stack Software Engineer (Toronto/Kitchener) first seen 2025-11-24; Associate ML Engineer (Toronto) 2025-12-03; Boston New Grad SWE 2024-12-20 the year before.",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
- "jobs_spec": "wd:manulife/wd3/MFCJH_Jobs",
- "evidence": "Workday API board read in full (613) 2026-10-20: no US/Toronto/Vancouver entry SWE. Toronto/Boston/Waterloo full-stack/back-end screened need 3-5+ yrs; Associate roles are Philippines/Malaysia. Earlier 2026-10-08 Toronto Associate Applied AI Engineer not on board.",
- "confidence": "medium",
- "jobs_spec_basis": "board confirmed; lists John Hancock/Manulife careers in full"
+  "company": "John Hancock (Manulife)",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "Associate Applied AI Engineer \u2013 GenAI Systems",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-3",
+      "location": "Toronto, ON",
+      "opened": "2026-10-25",
+      "date_source": "tracker first seen",
+      "deadline": "2026-10-29",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "\"Associate\" title; \"0\u20133 years of experience ... including internships, co-ops, research, or early-career\"; \"Master\u2019s or PhD\" accepted; $69.5K+ CAD",
+      "no_sponsorship": false
+    }
+  ],
+  "last_cycle_opened": "2025-11-24",
+  "last_cycle_basis": "tracker: Associate Full-Stack Software Engineer (Toronto/Kitchener) first seen 2025-11-24; Associate ML Engineer (Toronto) 2025-12-03; Boston New Grad SWE 2024-12-20 the year before.",
+  "jobs_page": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+  "jobs_spec": "wd:manulife/wd3/MFCJH_Jobs",
+  "evidence": "Workday MFCJH_Jobs board (623, full): NA software roles ask 3+ yrs or senior; associate SWE roles are Asia only. Tracker lead is on sister Workday site MFCJH_adminJobs: opened in browser 2026-10-27, Apply live, posted 10/26, ends 10-29. Changed from not_yet.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

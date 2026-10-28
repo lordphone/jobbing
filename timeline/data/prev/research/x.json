@@ -1,7 +1,6 @@
 {
   "company": "X",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -27,17 +26,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'We are open to all levels from new grads to senior engineers'; requires 3+ years actively writing code (may include school); $175,000-$275,000",
+      "level_basis": "'We are open to all levels from new grads to senior engineers'; requires 3+ years actively writing code; $175,000-$275,000",
       "no_sponsorship": false
     }
   ],
   "last_cycle_opened": null,
   "last_cycle_basis": "none found; no new-grad-labeled SWE posting on the xAI/X Greenhouse board in tracker history",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/xai",
   "jobs_spec": "gh:xai",
-  "evidence": "gh:xai full board 2026-10-19 (307, SpaceXAI). Ads Product SWE is early-career, no years ask (counted). Evals SWE open to new grads, asks 3+ yrs (borderline, kept from earlier run). Other SWE/MTS roles ask 2-8 yrs, are expert-level, or give none (not counted). Only SWE interns otherwise.",
+  "evidence": "gh:xai full board (304) read 2026-10-26, screened all SWE/MTS/ML titles. Ads Product SWE is early-career, no years ask (counted). Evals SWE open to new grads but asks 3+ yrs (borderline, kept). X Money SWE and others ask 2-8 yrs, no entry signal.",
   "confidence": "low",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "no_sponsorship": false,
+  "excluded_reason": null
 }

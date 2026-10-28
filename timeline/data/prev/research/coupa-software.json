@@ -1,16 +1,16 @@
 {
   "company": "Coupa Software",
+  "tier": 5,
   "status": "no_program_found",
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
+  "last_cycle_basis": "unknown; no tracker entry found",
+  "excluded_reason": null,
+  "no_sponsorship": false,
   "jobs_page": "https://jobs.lever.co/coupa",
   "jobs_spec": "lever:coupa",
-  "evidence": "Lever full board 2026-10-19 (32): engineering is Principal/Lead/Sr in Prague, Mexico City, Foster City, SF, Los Angeles; rest sales, product, other. No entry SWE.",
+  "evidence": "Lever full board (38) read 2026-10-26: engineering and AI roles are Lead, Sr or Principal (Prague, Mexico, India, US); rest sales, product, finance. No entry SWE this cycle or last.",
   "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "postings": [],
+  "checked": "2026-10-26",
   "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false
+  "postings": []
 }

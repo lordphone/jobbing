@@ -1,16 +1,17 @@
 {
   "company": "Edison International (Southern California Edison)",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "not_yet",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2026-05-17",
   "last_cycle_basis": "jobs.py history edison: App Software & AI Engineer - Associate Specialist (Alhambra CA) first seen 2026-05-17, now closed; posted ad hoc, no fixed new-grad window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://www.edisoncareers.com/job-search-results/",
   "jobs_spec": null,
-  "evidence": "SCE job API (223 jobs) read 2026-10-20: only 2027 summer internships, a 2027 MBA leadership program, and Advisor/Specialist-level data, IT and engineering roles. No entry SWE live; entry app/AI engineer roles are posted ad hoc.",
-  "confidence": "medium"
+  "jobs_spec_basis": "edisoncareers.com search sends to apply.edisoncareers.com; its sitemap lists all jobs over HTTP",
+  "evidence": "apply.edisoncareers.com sitemap (222 jobs, title scan) 2026-10-27: only 2027 summer internships (incl. Software/Data Engineering), a 2027 MBA program, and Advisor/Specialist/Engineer 3 tech roles (EMS Development and Grid Management Developer ask 3+ yrs). No entry software role live; entry SWE appears ad hoc.",
+  "confidence": "medium",
+  "checked": "2026-10-27",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

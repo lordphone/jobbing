@@ -1,16 +1,17 @@
 {
   "company": "Walleye Capital",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "no_program_found",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history for SWE; only quant researcher postings seen",
+  "last_cycle_basis": "no SWE new-grad history in trackers",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/walleyecapital-external-students",
   "jobs_spec": "gh:walleyecapital-external-students",
-  "evidence": "Campus board (5) and full-time board gh:walleyecapital-external-fulltime (12) read in full 2026-10-19: Summer 2027 developer and quant interns, quant, trader and analyst roles only. No entry-level SWE.",
-  "confidence": "medium"
+  "jobs_spec_basis": "careers page Apply links go to gh walleyecapital-external-students and -fulltime; both read, students board kept as spec",
+  "evidence": "Careers page links two boards, both read in full 2026-10-26: students (3) has Summer 2027 developer and quant interns; fulltime (13) has quant, trader, analyst roles and generic firm-overview 'Technology & Artificial Intelligence' and 'Data Science' postings with no entry-level SWE role stated. No entry SWE.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": []
 }

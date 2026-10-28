@@ -1,30 +1,30 @@
 {
-  "company": "Pacific Life",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Technology Rotation Program Associate",
-      "url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Rotation-Program-Associate_R17829",
-      "location": "Newport Beach, CA",
-      "opened": "2026-09-25",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": "first rotation starts July 2027",
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": "18-month Technology Rotation Program (three 6-month assignments on technology teams); CS/IS/engineering degree preferred; IT rotation, not SWE-specific",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history or dated university page found",
-  "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
-  "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
-  "evidence": "Workday full board (125) + CXS detail 2026-10-19: Technology Rotation Program Associate live, posted 2026-09-25, canApply, no end date, first rotation July 2027. Borderline SWE (technology-team rotation), kept as counted by earlier run. Other engineers are IAM/security/Appian.",
-  "confidence": "medium",
-  "dropped": [],
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5
+ "company": "Pacific Life",
+ "tier": 5,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Technology Rotation Program Associate",
+   "url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Rotation-Program-Associate_R17829",
+   "location": "Newport Beach, CA",
+   "opened": "2026-09-25",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": "first rotation starts July 2027",
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "18-month Technology Rotation Program (three 6-month assignments on technology teams); CS/IS/engineering degree preferred; IT rotation, not SWE-specific",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "no tracker first-seen in Jul 2025-Jan 2026 window; nothing found",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
+ "jobs_spec": "wd:pacificlife/wd1/PacificLifeCareers",
+ "evidence": "Workday full board (129) + detail 2026-10-26: Technology Rotation Program Associate live (start 2026-09-25, no end date), kept as borderline IT rotation counted earlier. Appian Engineer asks 5+ yrs; other engineers are security or senior; SWE/data interns excluded.",
+ "confidence": "low"
 }

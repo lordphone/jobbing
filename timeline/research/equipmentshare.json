@@ -1,16 +1,16 @@
 {
   "company": "EquipmentShare",
+  "tier": 4,
   "status": "closed",
-  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "No 2025-07 to 2026-01 new-grad SWE posting found in tracker history or on the board.",
   "jobs_page": "https://job-boards.greenhouse.io/equipmentsharecom",
   "jobs_spec": "gh:equipmentsharecom",
-  "evidence": "gh:equipmentsharecom board (1068) read 2026-10-20: only software role is Senior Software Engineer; interns only otherwise. Tracker Software Engineer 1 (gh_jid 8071715, seen 2026-10-06) is now 404 on the Greenhouse API, so closed.",
+  "evidence": "gh:equipmentsharecom board (1054, full) read 2026-10-27: only software role is Senior Software Engineer; Data Analytics Engineer asks 5+ yrs SQL. Earlier-seen Software Engineer 1 (gh_jid 8071715, first seen 2026-10-06) is NOT ON THE BOARD (API) and its page shows no listing, so closed.",
   "confidence": "medium",
-  "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
+  "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false,
-  "dropped": []
+  "postings": []
 }

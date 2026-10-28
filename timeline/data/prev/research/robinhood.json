@@ -1,22 +1,16 @@
 {
   "company": "Robinhood",
   "tier": 2,
-  "checked": "2026-10-19",
-  "status": "closed",
+  "checked": "2026-10-26",
+  "status": "not_yet",
   "postings": [],
+  "dropped": [],
   "last_cycle_opened": "2025-09-27",
-  "last_cycle_basis": "greenhouse first_published of the rolling 'Software Engineer 1, Backend' posting (job 7263578), still live; 2024 cycle had 'New Grad: Software Engineer' first seen 2024-09-11 (tracker)",
+  "last_cycle_basis": "tracker first seen 2025-09-27 (Software Engineer 1, Backend, gh 7263578)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://job-boards.greenhouse.io/robinhood",
   "jobs_spec": "gh:robinhood",
-  "evidence": "gh:robinhood full (153) 2026-10-19: the rolling Software Engineer 1, Backend posting (first published 2025-09-27) is gone from the board (API 404), no repost found. SWE 2 Backend is level II. No New Grad 2027 title (interns only). Web3 Backend and Web Engineer (2+ yrs, $166K-$195K, build and own) left out as mid-level; Android/iOS/Full Stack ask 3+ yrs. Status changed from open because the only counted posting closed.",
-  "confidence": "medium",
-  "dropped": [
-    {
-      "url": "https://job-boards.greenhouse.io/robinhood/jobs/7263578",
-      "reason": "gone: jobs.py detail says NOT ON THE BOARD, Greenhouse API returns 404 Job not found, and the posting is not in the 153-job board listing"
-    }
-  ],
-  "jobs_spec_basis": "careers page job links go to job-boards.greenhouse.io/robinhood; kept gh:robinhood"
+  "evidence": "gh:robinhood full board (154) read 2026-10-26: no new-grad title. SWE 1 Backend (last cycle) is gone with no repost. Web3 Backend asks 2+ yrs but is mid-level in pay and scope; Android/iOS/Full Stack ask 3+ yrs. Toronto Software Developer lists no years, not entry-level.",
+  "confidence": "medium"
 }

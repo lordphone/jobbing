@@ -1,18 +1,18 @@
 {
   "company": "Sallie Mae (SLM Corporation)",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
       "title": "Engineer I",
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-DE/Engineer-I_R26_000505",
-      "location": "Newark, DE",
+      "location": "Newark, DE; Indianapolis, IN; Arlington, VA",
       "opened": "2026-10-01",
       "date_source": "page JSON-LD datePosted; listed in siteMap.xml",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": "Engineer I; bachelor's in CS preferred; 1-2 yrs preferred, minimum is basic understanding of software development",
       "no_sponsorship": false
@@ -25,7 +25,7 @@
       "date_source": "page JSON-LD datePosted; listed in siteMap.xml",
       "deadline": null,
       "grad_window": null,
-      "live_verified": "api",
+      "live_verified": "browser",
       "level": "new-grad title",
       "level_basis": "Engineer I; software design/development; bachelor's in CS; 1-2 years listed",
       "no_sponsorship": false
@@ -39,6 +39,6 @@
   "jobs_page": "https://sallie-mae.wd5.myworkdayjobs.com/Careers",
   "jobs_spec": null,
   "jobs_spec_basis": "Workday cxs search returns 422 for sallie-mae/Careers; read the board from siteMap.xml instead",
-  "evidence": "Board read from Workday siteMap.xml 2026-10-19 (cxs search returns 422): two live Engineer I roles, Newark DE (OS/infrastructure support, posted 2026-10-01) and Indianapolis IN (software dev, posted 2026-10-19), both bachelor's CS and 1-2 yrs. Early Career programs are analytics/risk, not SWE.",
+  "evidence": "Workday siteMap (23 jobs) and both posting pages fetched 2026-10-26: two live Engineer I roles (Newark DE/Indianapolis/Arlington hybrid, Indianapolis IN), software development, 1-2 yrs preferred only. Page datePosted shows 2026-10-22; earlier recorded dates kept. Engineer III is senior; early career programs are not SWE.",
   "confidence": "medium"
 }

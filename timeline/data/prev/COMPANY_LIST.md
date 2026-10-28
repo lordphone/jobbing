@@ -1,6 +1,6 @@
 # Company List
 
-1838 companies.
+1870 companies.
 
 A company owned by another company gets its own entry if it hires under its own name, like Tinder, Slack, Twitch, X, or Hulu. Only merge entries that are the same company listed twice.
 
@@ -132,7 +132,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 
 - Valve
 
-## 3. Strong (218)
+## 3. Strong (207)
 
 ### FAANG+ / Big Tech
 
@@ -142,6 +142,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Snap
 - Pinterest
 - GitHub
+- X Development
 
 ### AI labs & AI-first
 
@@ -311,7 +312,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Render
 - Slack
 - Wiz
-- Chronosphere
 - Cyera
 - Island
 - Chainguard
@@ -346,27 +346,16 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Aurora Innovation
 - Nuro
 - Rivian
-- Blue Origin
 - Zipline
 - Redwood Materials
 - Skydio
-- Relativity Space
 - Shield AI
 - Wayve
 - Wing
-- Saronic Technologies
-- Impulse Space
-- K2 Space
 - Vannevar Labs
 - Waabi
-- Stoke Space
-- Astranis
 - Varda Space
-- Hadrian
-- Mach Industries
 - CHAOS Industries
-- Castelion
-- Apex Space
 - Nominal
 - Axon Enterprise
 
@@ -379,7 +368,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Rockstar Games
 - Pixar Animation Studios
 
-## 4. Solid (567)
+## 4. Solid (583)
 
 ### FAANG+ / Big Tech
 
@@ -440,6 +429,14 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Imbue
 - C3.ai
 - Uniphore
+- Reevo
+- Brain Co.
+- Aurelian
+- Encord
+- Mechanize
+- InstaLILY
+- Netic
+- Lightfield
 
 ### Late-stage / unicorns
 
@@ -541,6 +538,12 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Cambridge Mobile Telematics
 - GoDaddy
 - N1
+- Watershed
+- Solace Health
+- MLabs
+- Candid Health
+- Promise
+- Loop
 
 ### Quant / trading
 
@@ -569,6 +572,10 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Valkyrie Trading
 - BlackEdge Capital
 - 3Red Partners
+- Castleton Commodities International
+- Alphataraxia
+- Edgehog Trading
+- Ellipsis Labs
 
 ### Banks, payments & financial data
 
@@ -618,6 +625,9 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Flywire
 - Blend
 - Dave
+- Kikoff
+- Perpay
+- Parafin
 
 ### Enterprise software & security
 
@@ -674,7 +684,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - JFrog
 - Orca Security
 - Socure
-- Sift
 - Forter
 - Pylon
 - Kitware
@@ -719,6 +728,13 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Huntress
 - Sysdig
 - Uncountable
+- Alarm.com
+- Vectra AI
+- D2L
+- SpruceID
+- Cogent Security
+- Baselayer
+- iManage
 
 ### Chips, hardware & infrastructure
 
@@ -763,6 +779,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Groq
 - D-Wave Quantum
 - Backblaze
+- Freeform
 
 ### Auto, aerospace & defense
 
@@ -772,24 +789,16 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Pony.ai
 - Motional
 - Kodiak AI
-- Rocket Lab
 - Boom Supersonic
 - Archer Aviation
 - Planet Labs PBC (Planet)
-- Johns Hopkins University Applied Physics Laboratory (JHU APL)
 - NASA Jet Propulsion Laboratory (JPL)
 - Lawrence Livermore National Laboratory (LLNL)
-- SRI International
-- NASA
 - Joby Aviation
 - Axiom Space
-- General Atomics
 - MITRE
-- MIT Lincoln Laboratory
-- Sandia National Laboratories
 - Mobileye
 - QuantumScape
-- National Security Agency (NSA)
 - Los Alamos National Laboratory (LANL)
 - Oak Ridge National Laboratory (ORNL)
 - Torc Robotics
@@ -800,24 +809,19 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Slate Auto
 - Hermeus
 - Wisk
-- True Anomaly
-- The Aerospace Corporation
-- Draper
 - HRL Laboratories
 - Gatik
 - Epirus
 - Serve Robotics
-- Vast
 - Beta Technologies
 - Divergent Technologies
 - Ursa Major
 - SLAC National Accelerator Laboratory
 - Latitude AI
 - Bot Auto
-- Beacon AI
-- Intuitive Machines
 - WeRide
 - Ouster
+- Radiant
 
 ### Consumer, media, gaming & retail tech
 
@@ -956,6 +960,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - DoubleVerify
 - Integral Ad Science
 - Zeta Global
+- Wanderlog
 
 ### Traditional companies with large tech orgs
 
@@ -974,11 +979,11 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - TAE Technologies
 - Argonne National Laboratory
 - Lawrence Berkeley National Laboratory (Berkeley Lab)
-- Pacific Northwest National Laboratory (PNNL)
 - Fermi National Accelerator Laboratory (Fermilab)
 - Brookhaven National Laboratory
+- National Laboratory of the Rockies (formerly NREL)
 
-## 5. Fallback (970)
+## 5. Fallback (997)
 
 ### AI labs & AI-first
 
@@ -1073,7 +1078,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - LSEG (London Stock Exchange Group)
 - Depository Trust & Clearing Corporation (DTCC)
 - FINRA
-- Federal Reserve System
 - Broadridge Financial Solutions
 - Western Union
 - Early Warning Services (Zelle)
@@ -1142,6 +1146,18 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Intact
 - Horace Mann
 - Allied Solutions
+- Western & Southern Financial Group
+- AmTrust Financial
+- Pathward
+- IBC Bank
+- Texas Capital Bank
+- First Financial Bank
+- Ascensus
+- American Century Investments
+- Encore Capital Group
+- Integrity Marketing Group
+- Cincinnati Financial
+- GMO
 
 ### Enterprise software & security
 
@@ -1202,7 +1218,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - SUSE
 - LastPass
 - Barracuda Networks
-- Informatica
 - MuleSoft
 - Kaseya
 - Talkdesk
@@ -1255,6 +1270,30 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Pattern Data
 - SAS Institute
 - VMware
+- TeleTracking
+- Softheon
+- OneImaging
+- Cisive
+- DuCharme, McMillen & Associates
+- SOTI
+- Jonas Software
+- Tavern Research
+- CWILL
+- Subsplash
+- Mintel
+- Vail Systems
+- Asure Software
+- Everfox
+- Acxiom
+- Inductive Automation
+- OCLC
+- Marigold
+- Nextech Systems
+- Merative
+- Lightcast
+- PDI Technologies
+- Rocket Software
+- Global Relay
 
 ### Chips, hardware & infrastructure
 
@@ -1350,22 +1389,19 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - ASML
 - TSMC
 - 10x Genomics
+- Nidec
+- Daifuku
+- AutoStore
 
 ### Auto, aerospace & defense
 
 - Ford
 - Boeing
 - Lockheed Martin
-- Northrop Grumman
-- RTX
-- General Dynamics
 - Honeywell Aerospace
 - GE Aerospace
 - L3Harris
 - Toyota
-- BAE Systems (US)
-- Textron
-- BigBear.ai
 - Aptiv
 - NIO
 - XPENG
@@ -1381,16 +1417,11 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Daimler Truck
 - Oshkosh Corporation
 - Polaris Inc.
-- HII
-- Leonardo DRS
 - Thales
 - Airbus
 - Saab
 - Rolls-Royce (aerospace; Rolls-Royce North America)
 - Curtiss-Wright
-- AeroVironment (AV)
-- United Launch Alliance (ULA)
-- Vantor (formerly Maxar Intelligence)
 - Parsons Corporation
 - Bosch (Robert Bosch GmbH; Bosch USA / Bosch Research Sunnyvale)
 - Mercedes-Benz Research & Development North America
@@ -1403,32 +1434,20 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Electrify America
 - Iridium Communications
 - Virgin Galactic
-- Kratos Defense & Security Solutions
 - The Goodyear Tire & Rubber Company
 - Spirit AeroSystems
-- Voyager Technologies
 - Karman Space & Defense
 - Howmet Aerospace
 - Moog
 - Sierra Nevada Corporation
 - Battelle
-- Torch Technologies
-- Wyetech
-- Captivation
-- Markon
-- Technology Service Corporation (TSC)
 - CAE
-- STR (Systems & Technology Research)
 - Gulfstream
-- Arcfield
-- SciTec
 - Analytical Mechanics Associates
-- Cubic
 - Altamira Technologies
-- Scientific Research Corporation
 - GM
 - Scout Motors
-- Integration Innovation (i3)
+- Ultra (Ultra Electronics)
 
 ### Consumer, media, gaming & retail tech
 
@@ -1609,6 +1628,10 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - iSpot.tv
 - QuinStreet
 - Varsity Brands
+- Pogo Technologies
+- Texas Sports Academy
+- O'Reilly Auto Parts
+- Loblaw Companies
 
 ### Consulting & IT services
 
@@ -1618,10 +1641,8 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - EY
 - KPMG
 - Bain
-- Booz Allen Hamilton
 - Capgemini
 - Infosys
-- Leidos
 - Guidehouse
 - Cognizant
 - CDW
@@ -1641,7 +1662,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Unisys
 - Atos
 - CACI International
-- KBR
 - Jacobs Solutions
 - WTW (Willis Towers Watson)
 - Wipro
@@ -1653,7 +1673,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Tech Mahindra
 - Publicis Sapient
 - Oliver Wyman
-- SAIC (Science Applications International Corp.)
 - CGI
 - Rackspace Technology
 - NTT DATA
@@ -1661,9 +1680,7 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - TEKsystems (Allegis Group)
 - RAND Corporation
 - Robert Half
-- General Dynamics Information Technology (GDIT)
 - Tata Consultancy Services (TCS)
-- Peraton
 - Huron
 - Ankura
 - Capco
@@ -1672,11 +1689,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Hexaware
 - Synechron
 - Conduent
-- ManTech
-- ICF
-- Noblis
-- Amentum
-- V2X
 - LTIMindtree
 - Virtusa
 - Globant
@@ -1686,8 +1698,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Mphasis
 - Concentrix
 - L.E.K. Consulting
-- SMX
-- AMERICAN SYSTEMS
 - Prosidian Consulting
 - Analytic Partners
 - Sev1Tech
@@ -1698,15 +1708,20 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Quest Global
 - Centific
 - MetroStar
-- Avalore
-- Agile Defense
 - Trace3
 - McKinsey
 - BCG X
 - Thoughtworks
 - Konrad Group
-- T-Rex Solutions
 - Akima
+- LMI
+- Axle
+- ICF
+- Urban Science
+- Jahnel Group
+- Pariveda Solutions
+- CapTech Consulting
+- 66 Degrees
 
 ### Traditional companies with large tech orgs
 
@@ -1910,7 +1925,6 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Darden Restaurants
 - Ahold Delhaize USA
 - The Estée Lauder Companies
-- United States Postal Service (USPS)
 - J.B. Hunt Transport Services
 - DHL (DHL Group, US)
 - Amtrak
@@ -1979,3 +1993,21 @@ Tiers rank how much a new-grad offer is worth having: how hard it is to get, how
 - Wood Mackenzie
 - Barry-Wehmiller
 - Vizient
+- Eversource Energy
+- BlueCross BlueShield of Tennessee
+- Arkansas Blue Cross and Blue Shield
+- ERCOT
+- NRG Energy
+- Airgas
+- Niagara Bottling
+- CLEAResult
+- TDS Telecom
+- MultiCare Health System
+- U.S. Venture
+- ZOLL Medical
+- Medpace
+- Blue Cross Blue Shield of Arizona
+- Daikin Applied
+- LivaNova
+- MillerKnoll
+- Evolent

@@ -1,21 +1,16 @@
 {
   "company": "MassMutual",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872",
-      "reason": "gone: absent from the full Workday board (69) and from CXS search 'Quantitative Developer' on 2026-10-19, and the CXS job fetch returns permission denied"
-    }
-  ],
   "last_cycle_opened": "2026-04",
   "last_cycle_basis": "tracker: Associate Software Engineer, Cincinnati OH, first seen 2026-04-13 (MMAscendCareers); no Jul 2025-Jan 2026 entry SWE posting found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
   "jobs_spec": "wd:massmutual/wd1/MMCareers",
-  "evidence": "Workday full board (69) 2026-10-19: Quantitative Developer (first seen 2026-07-01, bachelor + 6 months) is no longer listed. Remaining software roles need 4-8+ yrs (AI Engineer 4+, Full Stack 5+, Policy Admin 8+). No entry SWE live.",
-  "confidence": "medium"
+  "evidence": "Workday full boards 2026-10-26: MMCareers (72) and MMAscendCareers (2). Tracker-seen Quantitative Developer (NYC, first seen 2026-07-01) is absent from the board; its posting API gives 403 while live ones give 200, page unreadable. AI Engineer asks 4+ yrs, other software roles lead or director.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "postings": [],
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

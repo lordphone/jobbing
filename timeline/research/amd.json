@@ -1,20 +1,20 @@
 {
   "company": "AMD",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
       "title": "Software System Designer",
       "url": "https://careers.amd.com/careers-home/jobs/91827",
-      "location": "Markham, ON, Canada",
+      "location": "Markham, ON, Canada (Greater Toronto Area)",
       "opened": "2026-10-14",
       "date_source": "page text (AMD careers JSON posted_date)",
       "deadline": null,
       "grad_window": "recent graduate or graduating within the next academic term",
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "'We're looking for a motivated, recent-graduate software engineer'; Bachelor's, Python, full-stack prototyping; CAD $75,600",
+      "level_basis": "'Recent graduate (or graduating within the next academic term) with a Bachelor's degree'; full-stack prototyping",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +25,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers.amd.com/careers-home/jobs",
   "jobs_spec": null,
-  "evidence": "AMD careers JSON 2026-10-20, all 1280 postings (775 US/Canada) read. One entry-level SWE: Software System Designer (Markham, ON, Greater Toronto Area), recent-graduate full-stack role, applyable. Other US SWE roles state no level or years or are senior; Systems Design Engineer (New Grad) is hardware debug.",
+  "evidence": "AMD careers JSON API 2026-10-27 (full listing, 1267 jobs, US/Canada screened). One entry-level SWE: Software System Designer (Markham, ON), recent-graduate full-stack role, still listed live. Other US/Canada SWE roles state no level or years, or are senior; 2027 postings are intern/co-op. Systems Design Engineer (New Grad) Markham is hardware debug, not counted.",
   "confidence": "medium"
 }

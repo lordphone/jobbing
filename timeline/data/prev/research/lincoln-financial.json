@@ -1,5 +1,7 @@
 {
   "company": "Lincoln Financial",
+  "tier": 5,
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
@@ -12,20 +14,30 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Associate title; 'bachelor's degree plus typically 1 to 3 years of relevant experience'; learns from senior engineers",
+      "level_basis": "Requires 'bachelor's degree plus typically 1 to 3 years of relevant experience'; Associate title, Python/SQL/FastAPI",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Sr Assoc Software Engineer",
+      "url": "https://jobs.lincolnfinancial.com/job/Greensboro-Sr-Assoc-Software-Engineer-NC-27395/1435146900/",
+      "location": "Greensboro, NC; Charlotte, NC; Fort Wayne, IN; Radnor, PA",
+      "opened": "2026-09-29",
+      "date_source": "page text",
+      "deadline": "2027-02-01",
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "Requires '1-3+ years of direct experience with developing, enhancing, testing, or supporting software applications'; production support and development, no lead or mentoring duties; $75,000 - $120,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "tracker shows Associate Application Development postings 2026-03-12 and 2026-05-12 (closed), outside the Jul-Jan window; no fall 2025 date found",
-  "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
-  "jobs_spec": null,
-  "evidence": "Paged jobs.lincolnfinancial.com 2026-10-19: Associate Data Engineer, AI Data Products (posted 2026-09-25, req 76676) shows Apply now, hybrid, 1-3 yrs, Python/FastAPI, no deadline. Sr Assoc Software Engineer and other engineers are senior.",
-  "confidence": "medium",
-  "dropped": [],
   "excluded_reason": null,
   "no_sponsorship": false,
-  "checked": "2026-10-19",
-  "tier": 5,
-  "live_verified": "browser"
+  "jobs_page": "https://jobs.lincolnfinancial.com/go/Entry-Level-Positions/7746100/",
+  "jobs_spec": null,
+  "evidence": "jobs.lincolnfinancial.com search and posting pages fetched 2026-10-26 (Apply now shown): Associate Data Engineer, AI Data Products (1-3 yrs, page date now Oct 24, first seen Sep 25) and Sr Assoc Software Engineer Greensboro (1-3+ yrs, Sep 29) still live, kept as unlabeled. Others are Lead, Sr or 5+ yrs.",
+  "confidence": "medium"
 }

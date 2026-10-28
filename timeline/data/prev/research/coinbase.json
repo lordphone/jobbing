@@ -1,44 +1,43 @@
 {
-  "company": "Coinbase",
-  "tier": 2,
-  "checked": "2026-10-19",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Software Engineer, CDP - Stablecoin",
-      "url": "https://www.coinbase.com/careers/positions/8234278",
-      "location": "Remote (US)",
-      "opened": "2026-10-01",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience building and maintaining production backend services'; $152,405-$179,300; works 'with senior engineers on design', no lead/mentor duties",
-      "no_sponsorship": false
-    },
-    {
-      "title": "Software Engineer, Blockchain Platform Nodes",
-      "url": "https://www.coinbase.com/careers/positions/8105437",
-      "location": "Remote (US)",
-      "opened": "2026-08-20",
-      "date_source": "greenhouse first_published",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "requires '2+ years of experience in software engineering'; $152,405-$179,300; execute/support duties, no lead/mentor",
-      "no_sponsorship": false
-    }
-  ],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "gh:coinbase tracker history shows only 2024-09/10 Data Engineer; nothing in the 2025-07 to 2026-01 window",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://www.coinbase.com/careers/positions",
-  "jobs_spec": "gh:coinbase",
-  "evidence": "gh:coinbase full (227) 2026-10-19: no new-grad title (interns only). Stablecoin and Nodes still live (detail confirms), ask 2+ yrs, $152K-$179K, no lead or mentor duties (borderline, unlabeled, kept). Foundations (leads incident response), Money Movement (2+ yrs, DRI ownership), Payment Acceptance 3+ yrs: left out.",
-  "confidence": "medium",
-  "dropped": [],
-  "jobs_spec_basis": "careers page job links go to coinbase.com/careers/positions?gh_jid=, Greenhouse board gh:coinbase; kept"
+ "company": "Coinbase",
+ "tier": 2,
+ "checked": "2026-10-26",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Software Engineer, CDP - Stablecoin",
+   "url": "https://www.coinbase.com/careers/positions/8234278",
+   "location": "Remote (US)",
+   "opened": "2026-10-01",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience building and maintaining production backend services'; $152,405-$179,300; works 'with senior engineers on design', no lead/mentor duties",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Software Engineer, Blockchain Platform Nodes",
+   "url": "https://www.coinbase.com/careers/positions/8105437",
+   "location": "Remote (US)",
+   "opened": "2026-08-20",
+   "date_source": "greenhouse first_published",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "requires '2+ years of experience in software engineering'; $152,405-$179,300; execute/support duties, no lead/mentor",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "gh:coinbase tracker history shows only 2024-09/10 Data Engineer; nothing in the 2025-07 to 2026-01 window",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://www.coinbase.com/careers/positions",
+ "jobs_spec": "gh:coinbase",
+ "evidence": "gh:coinbase full (228) 2026-10-26: no new-grad title. CDP Stablecoin and Blockchain Platform Nodes still live, ask 2+ yrs, no lead duties (borderline, unlabeled, kept from earlier run). Left out: Crypto Data Foundations, Payment Acceptance (3+ yrs), Money Movement, senior roles.",
+ "confidence": "medium"
 }

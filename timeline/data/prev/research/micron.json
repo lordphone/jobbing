@@ -1,7 +1,7 @@
 {
  "company": "Micron",
  "tier": 5,
- "checked": "2026-10-19",
+ "checked": "2026-10-26",
  "status": "open",
  "postings": [
   {
@@ -16,6 +16,19 @@
    "level": "new-grad title",
    "level_basis": "EDA and Design Enablement team: develops and debugs EDA tools and automation in Linux; bachelor's in CE/CS, no years ask; software-leaning",
    "no_sponsorship": false
+  },
+  {
+   "title": "Software Development Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Development-Engineer_JR114339",
+   "location": "Boise, ID",
+   "opened": "2026-10-07",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "\"Employer will accept a Bachelor's degree in Computer Science, Electronics Engineering or a related field\"; no years asked; duties are assist/support/maintain automation software",
+   "no_sponsorship": false
   }
  ],
  "last_cycle_opened": "2025-11-01",
@@ -24,12 +37,7 @@
  "no_sponsorship": false,
  "jobs_page": "https://micron.wd1.myworkdayjobs.com/External",
  "jobs_spec": "wd:micron/wd1/External",
- "evidence": "Workday searched board 2026-10-19 (621 of 3183) plus keyword searches. Open (api): NCG Computer Engineer, Central Engineering (EDA tools, Boise, posted 2026-10-15). NCG IT Software Support Engineer now gone (browser). Not counted: Systems Software 10+ yrs, firmware/HBM design, fab roles.",
+ "evidence": "Workday board (searched, 3108) 2026-10-26 plus posting API: NCG Computer Engineer (EDA tools, Boise) and Software Development Engineer (Boise) still live, bachelor, no years. Not counted: IT SWE 3-5 yrs, AI Full Stack 3-5+, fab/firmware/chip design, non-US.",
  "confidence": "medium",
- "dropped": [
-  {
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038",
-   "reason": "gone: browser page says 'The page you are looking for doesn't exist' and the posting is not in the new-college-grad board search"
-  }
- ]
+ "dropped": []
 }

@@ -1,16 +1,30 @@
 {
-  "company": "Tools for Humanity (World)",
-  "tier": 4,
-  "checked": "2026-10-20",
-  "status": "no_program_found",
-  "postings": [],
+  "postings": [
+    {
+      "title": "TFH Engineering Fellowship",
+      "url": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e076db5-ef04-46d2-a586-dc7675485808",
+      "location": "San Francisco, CA",
+      "opened": "2026-09-24",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": "graduated Summer 2024 through June 2027",
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Software Engineering Fellowship 'supports builders early in their careers'; open to graduating seniors and grads through June 2027; $15,000/month; not an internship",
+      "no_sponsorship": false
+    }
+  ],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "none found",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "checked": "2026-10-27",
+  "company": "Tools for Humanity (World)",
+  "tier": 4,
+  "status": "open",
+  "last_cycle_opened": null,
+  "last_cycle_basis": "none found; only a non-SWE Fellow posting 2026-01-15 in tracker history",
   "jobs_page": "https://jobs.ashbyhq.com/Tools%20for%20Humanity",
   "jobs_spec": "ashby:Tools%20for%20Humanity",
-  "evidence": "ashby full board (11) read 2026-10-20: only unlabeled SWE is ML Ops and Platform in Munich; US engineering roles are Senior/Staff. No US/Canada entry-level.",
-  "confidence": "high"
+  "evidence": "Ashby full board (7) 2026-10-27: TFH Engineering Fellowship, SF, published 2026-09-24, live via API. Early-career SWE program, 3 months, full-time not internship, rolling, no deadline; counted (fixed-term, strong performers often convert). Other roles Staff/Senior or non-eng.",
+  "confidence": "medium"
 }

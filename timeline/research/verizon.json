@@ -1,30 +1,21 @@
 {
-  "company": "Verizon",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Junior Data Security Engineer",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1",
-      "location": "Alpharetta, GA",
-      "opened": "2026-09-28",
-      "date_source": "workday startDate",
-      "deadline": "2026-10-28",
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Junior title; requires bachelor's degree or one or more years of relevant work experience; works under senior engineers on MCP server and Python data pipelines",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "unknown; history shows only Engineer 1 - Systems Engineering (Tampa, 2026-07-22), not SWE",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
-  "jobs_spec": "wd:verizon/wd12/verizon-careers",
-  "evidence": "Workday full board 2026-10-20 (1264) and detail: Junior Data Security Engineer live, ends 2026-10-28. Agentic AI Engineer needs 4+ yrs, Engineer I Network Performance is network not software, other software roles senior; Junior Network Security Engineer is Australia.",
-  "confidence": "medium"
+ "company": "Verizon",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1",
+   "reason": "gone: not on the full 1300-posting Workday board 2026-10-27, and its page in the browser shows 'The page you are looking for doesn't exist'"
+  }
+ ],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "unknown; tracker history shows only Engineer 1 - Systems Engineering (Tampa, 2026-07-22), not SWE",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
+ "jobs_spec": "wd:verizon/wd12/verizon-careers",
+ "evidence": "Workday full board (1300) 2026-10-27: Junior Data Security Engineer (opened 2026-09-28) is gone, page says it does not exist. AI Engineer GTM requires 6+ yrs and Agentic AI Engineer 4+ yrs; Engineer I Network Performance is network; Junior Network Security is Australia. No other entry SWE.",
+ "confidence": "medium",
+ "checked": "2026-10-27"
 }

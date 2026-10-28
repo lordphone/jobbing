@@ -1,13 +1,12 @@
 {
   "company": "Highmark Health",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "closed",
   "postings": [],
   "dropped": [
     {
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020",
-      "reason": "gone: browser page says 'The page you are looking for doesn't exist' and the Workday search no longer lists it"
+      "reason": "gone: absent from the full Workday board list (1928 postings) on 2026-10-27; only ETDP Business Operations remained on 2026-10-26"
     }
   ],
   "last_cycle_opened": "2025-12-03",
@@ -16,6 +15,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark",
   "jobs_spec": "wd:highmarkhealth/wd1/highmark",
-  "evidence": "Workday board read in full (1926 listed): ETDP Associate - Software Engineering (posted 2026-10-07) now returns 'page doesn't exist' in the browser and is absent from the search. Software Engineer J281003 needs 3+ years and US citizenship. Associate Info Sec Engineer is not SWE.",
-  "confidence": "medium"
+  "evidence": "Workday board (1928, full) 2026-10-27: ETDP Associate - Software Engineering (opened 2026-10-07) gone. Full Stack Developer needs 7 yrs; Associate InfoSec Engineer is security, not SWE; rest are interns, senior or non-software.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

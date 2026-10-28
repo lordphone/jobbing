@@ -1,16 +1,21 @@
 {
-  "company": "Cotiviti",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "status": "closed",
-  "postings": [],
-  "last_cycle_opened": "2025-09-10",
-  "last_cycle_basis": "jobs.py history: Associate Software Engineer (Remote US) https://careers-cotiviti.icims.com/jobs/17318 first seen 2025-09-10; repeated Apr, May, Jul 2026",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers-cotiviti.icims.com/jobs/search?ss=1",
-  "jobs_spec": null,
-  "evidence": "iCIMS list read 2026-10-19 (69 jobs): software roles are Principal/Senior/Director; entry only Gen AI interns. This-cycle Associate SWE 19318 (first seen 2026-07-02) and 18785, 19263 now return 410 Gone.",
-  "confidence": "high",
-  "dropped": []
+ "company": "Cotiviti",
+ "tier": 5,
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://careers-cotiviti.icims.com/jobs/20757/associate-software-engineer/job",
+   "reason": "gone: posting URL returns HTTP 410 Gone and it is not in the iCIMS list"
+  }
+ ],
+ "last_cycle_opened": "2025-09-10",
+ "last_cycle_basis": "jobs.py history: Associate Software Engineer (Remote US) https://careers-cotiviti.icims.com/jobs/17318 first seen 2025-09-10; repeated Apr, May, Jul 2026",
+ "jobs_page": "https://careers-cotiviti.icims.com/jobs/search?ss=1",
+ "jobs_spec": null,
+ "evidence": "iCIMS list (74 jobs) read 2026-10-26 via curl. Associate Software Engineer 20757 (posted 2026-10-23) now returns 410 Gone, as did earlier Associate SWE reqs. Remaining software roles are senior/principal; AI roles are interns or senior; Data Engineer Ops needs 2+ yrs RDBMS, ops-focused.",
+ "confidence": "medium",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "checked": "2026-10-26"
 }

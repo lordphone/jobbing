@@ -1,31 +1,44 @@
 {
-  "company": "Vizient",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "Associate Software Engineer",
-      "url": "https://careers.vizientinc.com/careers/job/446721364120",
-      "location": "Irving, TX; Cape Girardeau, MO",
-      "opened": "2026-10-09",
-      "date_source": "eightfold postedTs",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "new-grad title",
-      "level_basis": null,
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "tracker history (old vizient.wd1 Workday board): Associate Software Engineer Irving TX first seen 2026-04-17 and Associate AI/ML Engineer 2026-05-15; nothing in 2025-07 to 2026-01",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://careers.vizientinc.com/careers",
-  "jobs_spec": "eightfold:careers.vizientinc.com/vizientinc.com",
-  "jobs_spec_basis": "careers.vizientinc.com is the company's own Eightfold site (234 US postings read in full); old vizient.wd1 Workday board is in tracker history only",
-  "evidence": "Eightfold board read in full 2026-10-20 and position API: Associate Software Engineer (0 to 2 yrs professional experience incl. internships) posted 2026-10-09 still listed. Left out: Quality Software Engineer, Software Quality Engineer, Development Support Engineer (2+ yrs, test/support), Full-Stack Engineer (no level or years stated), senior roles, Associate Quality Engineer.",
-  "confidence": "medium"
+ "company": "Vizient",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "Associate Software Engineer",
+   "url": "https://careers.vizientinc.com/careers/job/446721364120",
+   "location": "Irving, TX; Cape Girardeau, MO",
+   "opened": "2026-10-08",
+   "date_source": "eightfold postedTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "'0 to two years of professional software engineering experience, including internships'; Associate title",
+   "no_sponsorship": false
+  },
+  {
+   "title": "Associate Software Engineer",
+   "url": "https://careers.vizientinc.com/careers/job/446721433556",
+   "location": "Irving, TX",
+   "opened": "2026-10-20",
+   "date_source": "eightfold postedTs",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "new-grad title",
+   "level_basis": "'0-3 years of software engineering experience'; Associate title, board lists as entry",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": null,
+ "last_cycle_basis": "tracker history (old vizient.wd1 Workday board): Associate Software Engineer Irving TX first seen 2026-04-17 and Associate AI/ML Engineer 2026-05-15; nothing in 2025-07 to 2026-01",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://careers.vizientinc.com/careers",
+ "jobs_spec": "eightfold:careers.vizientinc.com/vizientinc.com",
+ "jobs_spec_basis": "careers.vizientinc.com is the company's own Eightfold site; board listing returned partial results, search API used for full check",
+ "evidence": "Eightfold board (231, full US) and position API 2026-10-27: both Associate Software Engineer postings live (0-2 yrs Irving/Cape Girardeau; 0-3 yrs Irving). Left out: Software Engineer (2 yrs required), Quality Software Engineer (2+ yrs QA), Associate Quality Engineer, Senior/Staff/Lead roles.",
+ "confidence": "medium"
 }

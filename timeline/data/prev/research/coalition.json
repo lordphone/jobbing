@@ -1,5 +1,6 @@
 {
   "company": "Coalition",
+  "tier": 4,
   "status": "open",
   "postings": [
     {
@@ -12,7 +13,7 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "unlabeled",
-      "level_basis": "Two or more years of professional software development experience; base $115,000-$168,000; no lead/mentor duties",
+      "level_basis": "'Two or more years of professional software development experience'; base $115,000-$168,000; no lead/mentor duties",
       "no_sponsorship": false
     }
   ],
@@ -20,11 +21,10 @@
   "last_cycle_basis": "tracker history: Software Engineer I (Remote USA/Canada) first seen 2025-07-21",
   "jobs_page": "https://job-boards.greenhouse.io/coalition",
   "jobs_spec": "gh:coalition",
-  "evidence": "gh:coalition board (42) read 2026-10-19: Frontend Engineer, Underwriting (US) requires 2+ yrs, no lead/mentor duties, $115-168K, listed on careers page; borderline unlabeled. Canada twin lists no city. AI Automation needs 5+ yrs. No SWE I live.",
+  "evidence": "gh:coalition board (51, full) 2026-10-26, posting text via Greenhouse API: Frontend Engineer, Underwriting (US, plus a Canada-remote twin) requires 2+ yrs, no lead duties, live; borderline unlabeled. AI Automation needs 5+ yrs. No SWE I live.",
   "confidence": "low",
-  "tier": 4,
-  "checked": "2026-10-19",
-  "excluded_reason": null,
+  "checked": "2026-10-26",
+  "dropped": [],
   "no_sponsorship": false,
-  "dropped": []
+  "excluded_reason": null
 }

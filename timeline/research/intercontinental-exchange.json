@@ -1,7 +1,7 @@
 {
   "company": "Intercontinental Exchange (ICE)",
   "tier": 4,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -14,7 +14,7 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Associate title, 'Full Stack Developer I'; requires 1+ years; works on well-defined features under guidance of senior engineers",
+      "level_basis": "Associate title; requires 1+ years of professional software development experience or equivalent",
       "no_sponsorship": false
     },
     {
@@ -27,7 +27,20 @@
       "grad_window": null,
       "live_verified": "browser",
       "level": "unlabeled",
-      "level_basis": "Requires 2+ yrs Java; 'development ... with guidance from senior engineers'; 'eagerness to grow into a well-rounded full-stack engineer'; pay not shown",
+      "level_basis": "requires 2+ yrs Java and 1+ yrs JavaScript framework; development with guidance from senior engineers",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Full Stack Software Engineer (NYSE)",
+      "url": "https://careers-ice.icims.com/jobs/13416/full-stack-software-engineer/job",
+      "location": "New York, NY",
+      "opened": "2026-09-30",
+      "date_source": "icims datePosted",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "unlabeled",
+      "level_basis": "'We are hiring at the 2+ year experience level'; no lead or mentor duties; $130,000-160,000",
       "no_sponsorship": false
     }
   ],
@@ -38,6 +51,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://careers-ice.icims.com",
   "jobs_spec": null,
-  "evidence": "2026-10-20 browser: searched iCIMS (engineer, developer) and opened junior-looking dev reqs. Associate Full Stack Developer (Jacksonville, 1+ yrs) and Atlanta Full Stack Developer (2+ yrs, guided) live with Apply. Other Full Stack/Engineer II reqs ask 3+ yrs, not counted.",
-  "confidence": "medium"
+  "evidence": "iCIMS search paged in browser 2026-10-27 and posting pages opened (Apply shown): Associate Full Stack Dev (Jacksonville, 1+), Atlanta Full Stack Dev (2+, guided), NYSE Full Stack SWE (2+) counted. Other devs ask 3+ yrs (Full Stack 13899/13441, Java 13825, Angular 13744) or senior/lead; 2027 interns otherwise.",
+  "confidence": "high"
 }

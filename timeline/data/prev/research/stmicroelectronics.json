@@ -1,16 +1,17 @@
 {
   "company": "STMicroelectronics",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "no_program_found",
-  "postings": [],
-  "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "no tracker history; none found",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "no tracker or careers-page evidence found",
   "jobs_page": "https://stmicroelectronics.eightfold.ai/careers",
   "jobs_spec": null,
-  "evidence": "Eightfold apply API 2026-10-19: 22 US postings, none full-time software (interns: Hardware and Software Design, Software Algorithm Embedded). Rest are sales, marketing, FAE, failure analysis. No entry SWE.",
-  "confidence": "high"
+  "jobs_spec_basis": "careers.st.com jobs are on stmicroelectronics.eightfold.ai; apply API with domain stmicroelectronics.com lists them",
+  "evidence": "Eightfold apply API (domain stmicroelectronics.com) 2026-10-26: 23 US postings, 0 Canada, all read. Only software-related are Santa Clara interns (Hardware and Software Design, Software Algorithm Embedded). Rest are hardware, sales, marketing, quality. No entry-level SWE.",
+  "confidence": "high",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "postings": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

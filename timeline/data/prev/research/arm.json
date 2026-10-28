@@ -1,17 +1,16 @@
 {
   "company": "Arm",
   "tier": 3,
-  "checked": "2026-10-19",
   "status": "not_yet",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": "2025-09-07",
-  "last_cycle_basis": "jobs.py history: New Grad 2025: Software Applications Engineer, Austin TX, first seen 2025-09-07, careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+  "last_cycle_basis": "tracker last cycle 2025-09-07 (trackers.json)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://careers.arm.com/search-jobs",
   "jobs_spec": null,
-  "evidence": "careers.arm.com results endpoint 2026-10-19, all 542 cards re-read (102 US/Canada): non-senior US/Canada roles are hardware, CAD and theorem-proving (MS/PhD). Graduate software roles are Budapest and Seoul only. No US/Canada software grad role yet; last year's Austin grad SWE opened Sept.",
+  "evidence": "careers.arm.com results endpoint 2026-10-26 (444 jobs): Graduate roles are Budapest, Trondheim, Seoul, Shanghai only. US/Toronto software-adjacent roles are Staff/Senior/Principal or verification/hardware (CPU Hardware Verification Software Engineer Austin needs strong architecture experience). No US entry SWE.",
   "confidence": "medium",
-  "jobs_spec_basis": "careers.arm.com/search-jobs/results endpoint lists all postings; no ATS API spec"
+  "checked": "2026-10-26"
 }

@@ -1,7 +1,6 @@
 {
   "company": "Nissan",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -18,13 +17,14 @@
       "no_sponsorship": true
     }
   ],
-  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": null,
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://alliance.wd3.myworkdayjobs.com/nissanjobs",
   "jobs_spec": "wd:alliance/wd3/nissanjobs",
-  "evidence": "Workday board 2026-10-19 (324, full) screened. Researcher 1 (Santa Clara, ML perception research software in Python/C++) still live, Bachelor's required, 'Sponsorship: No'; research title so borderline. Other US roles are 2027 interns or Data Engineer needing 6 yrs.",
-  "confidence": "low"
+  "evidence": "Workday board (328, full) re-read 2026-10-26: Researcher 1 R00212854-2 (Santa Clara, bachelor/master, 0-2 yrs, Sponsorship: No) still live, kept as borderline. R00215468-1 requires 5-10 yrs, ruled out. Data Engineer (Franklin TN) needs 6 yrs; US interns only.",
+  "confidence": "low",
+  "checked": "2026-10-26",
+  "dropped": []
 }

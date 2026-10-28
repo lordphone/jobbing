@@ -1,8 +1,5 @@
 {
-  "company": "Glean",
-  "tier": 2,
-  "checked": "2026-10-20",
-  "status": "open",
+  "checked": "2026-10-27",
   "postings": [
     {
       "title": "Machine Learning Engineer, Assistant Quality",
@@ -16,6 +13,45 @@
       "level": "unlabeled",
       "level_basis": "requires '2+ years of industry experience'; $180K-$205K; no mentoring or team-lead duties",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746918005",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Requirements: Master's degree in CS or related field, no years of experience listed; $187K-$234K",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746919005",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Requirements: Master's degree in CS or related field, no years of experience listed; $187K-$234K",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746910005",
+      "location": "Mountain View, CA",
+      "opened": "2026-10-22",
+      "date_source": "greenhouse first_published",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "Minimum Requirements: Master's degree and two (2) years of experience, any suitable combination acceptable; $215K-$278.9K; no lead duties",
+      "no_sponsorship": false
     }
   ],
   "dropped": [],
@@ -23,8 +59,12 @@
   "last_cycle_basis": "jobs.py history: Software Engineer (new grad, retitled) Palo Alto first seen 2025-09-07; tracker 2025-09-03",
   "excluded_reason": null,
   "no_sponsorship": false,
+  "company": "Glean",
+  "tier": 2,
+  "status": "open",
   "jobs_page": "https://job-boards.greenhouse.io/gleanwork",
   "jobs_spec": "gh:gleanwork",
-  "evidence": "gh:gleanwork full board (118) re-read 2026-10-20: no new-grad SWE title. MLE Assistant Quality asks 2+ years, counted. MLE Search Quality and Developer Productivity list mentoring or mixed 2+/6+ years, others ask 3+ years or own systems, not counted.",
-  "confidence": "medium"
+  "evidence": "gh:gleanwork full board (133) read 2026-10-27: no new-grad title. Counted unlabeled: MLE Assistant Quality (2+ yrs), and three Mountain View Software Engineer reqs (Master's, 0 to 2 yrs, posted 2026-10-22). Other SWE/MLE/AI roles ask 5+ to 6+ yrs, mentoring or Senior.",
+  "confidence": "medium",
+  "jobs_spec_basis": "saved board confirmed; careers page uses Greenhouse gleanwork"
 }

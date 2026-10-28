@@ -1,16 +1,16 @@
 {
- "company": "Boston Scientific",
- "status": "closed",
+ "checked": "2026-10-27",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": "2025-08-07",
  "last_cycle_basis": "jobs.py history: Software Engineer I - Engineering - Development (Roseville MN) first seen 2025-08-07",
  "excluded_reason": null,
  "no_sponsorship": false,
+ "company": "Boston Scientific",
+ "tier": 5,
+ "status": "closed",
  "jobs_page": "https://bostonscientific.eightfold.ai",
  "jobs_spec": "eightfold:bostonscientific.eightfold.ai/bostonscientific.com",
- "evidence": "Full Eightfold US board (308) read 2026-10-20: software roles are Senior/Principal/III, architects, test/quality, or interns/co-ops; no Software Engineer I or new-grad posting. Earlier SWE 1 (2026-09-02) is gone. Same status as before.",
- "confidence": "medium",
- "checked": "2026-10-20",
- "tier": 5,
- "dropped": []
+ "evidence": "Eightfold API returned 403 on 2026-10-27; jobs.bostonscientific.com software search (285 results, page 1) showed only Senior/Principal/Test III/Manager software roles and an intern in the US. Software Engineer I (Arden Hills, first seen 2026-09-02) showed no longer accepting on 2026-10-23, so closed.",
+ "confidence": "medium"
 }

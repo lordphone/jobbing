@@ -1,7 +1,6 @@
 {
   "company": "Snowflake",
   "tier": 2,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -18,7 +17,7 @@
       "no_sponsorship": false
     },
     {
-      "title": "Software Engineer – Mobile Team",
+      "title": "Software Engineer \u2013 Mobile Team",
       "url": "https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
       "location": "Menlo Park, CA",
       "opened": "2026-09-30",
@@ -42,16 +41,29 @@
       "level": "unlabeled",
       "level_basis": "requires 2+ years of software engineering experience; BS, MS preferred; $160K-$230K; no team lead or mentor duties",
       "no_sponsorship": false
+    },
+    {
+      "title": "Software Engineer - Postgres",
+      "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "opened": "2026-09-25",
+      "date_source": "ashby publishedAt",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "requires 2+ years building production software; $160K-$230K; build duties, no lead or mentor",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2026-04-28",
   "last_cycle_basis": "tracker first seen: 'Software Engineer - Entry Level - Engineering Infrastructure' (Toronto, ON) on jobs.ashbyhq.com/snowflake; US entry-level SWE start unknown",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/snowflake",
   "jobs_spec": "ashby:snowflake",
-  "jobs_spec_basis": "careers.snowflake.com Apply links go to jobs.ashbyhq.com/snowflake; kept ashby:snowflake",
-  "evidence": "ashby:snowflake full (360) 2026-10-19: three US SWE postings still on board ask 2+ yrs, no senior duties (borderline, unlabeled, kept as earlier run counted). Backend and AIM Virtualization ask 2-7 yrs, over the 2-yr limit. AI Research Scientist New Grad (Bellevue) needs PhD. No 2027 SWE new grad yet.",
+  "evidence": "Ashby API full board (354) 2026-10-26: four US unlabeled SWE postings still live (all ask 2+ yrs, build duties, no lead). Others ask 3-7 yrs (Bellevue SWE 4+, Toronto 3-4+); AI Research Scientist New Grad requires a PhD, not counted.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

@@ -1,31 +1,31 @@
 {
-  "company": "Cadence",
-  "tier": 3,
-  "checked": "2026-10-20",
-  "status": "open",
-  "postings": [
-    {
-      "title": "AI Engineer, Ontologies & Knowledge Graphs",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/AI-Engineer--Ontologies---Knowledge-Graphs_R56380",
-      "location": "Livonia, MI; Remote (Michigan)",
-      "opened": "2026-09-16",
-      "date_source": "workday startDate",
-      "deadline": null,
-      "grad_window": null,
-      "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "Qualifications 'BS/MS in Computer Science...' with no years; no lead/mentor duties; no pay listed (borderline)",
-      "no_sponsorship": false
-    }
-  ],
-  "dropped": [],
-  "last_cycle_opened": "2025-12-09",
-  "last_cycle_basis": "jobs.py history: Software Development Engineer (new college grad) Burlington MA first seen 2025-12-09; also on Univ_Careers and University_Talent_NCG sites",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
-  "jobs_spec": "wd:cadence/wd1/External_Careers",
-  "jobs_spec_basis": "Saved board confirmed; jobs.py lists only 120 of 658 External postings, so full list read via Workday cxs API; sibling sites Univ_Careers and University_Talent_NCG also read.",
-  "evidence": "Workday cxs 2026-10-20 (External 658, Univ_Careers 21, University_Talent_NCG 2) read. AI Engineer Ontologies (Livonia MI, BS/MS, no years) live, borderline unlabeled. Leftovers: SWE (new college grad Dec 2026) San Jose, Adams (Recent Grad 2026). SWE II roles and 5+ yr Full-Stack left out.",
-  "confidence": "medium"
+ "company": "Cadence",
+ "tier": 3,
+ "checked": "2026-10-27",
+ "status": "open",
+ "postings": [
+  {
+   "title": "AI Engineer, Ontologies & Knowledge Graphs",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/AI-Engineer--Ontologies---Knowledge-Graphs_R56380",
+   "location": "Livonia, MI; Remote (Michigan)",
+   "opened": "2026-09-16",
+   "date_source": "workday startDate",
+   "deadline": null,
+   "grad_window": null,
+   "live_verified": "api",
+   "level": "unlabeled",
+   "level_basis": "Qualifications 'BS/MS in Computer Science...' with no years; no lead/mentor duties; no pay listed (borderline)",
+   "no_sponsorship": false
+  }
+ ],
+ "dropped": [],
+ "last_cycle_opened": "2025-12-09",
+ "last_cycle_basis": "jobs.py history: Software Development Engineer (new college grad) Burlington MA first seen 2025-12-09; also on Univ_Careers and University_Talent_NCG sites",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+ "jobs_spec": "wd:cadence/wd1/External_Careers",
+ "evidence": "Workday boards re-read 2026-10-27 (External 674, Univ_Careers 22, University_Talent_NCG 3). AI Engineer Ontologies (BS/MS, no years, no senior duties) live via API, kept as borderline unlabeled. Leftovers: SWE new college grad Dec 2026 (San Jose), Adams Recent Grad 2026. Other US SWE roles need 5-7 yrs.",
+ "confidence": "medium",
+ "jobs_spec_basis": "Saved board confirmed; sibling sites Univ_Careers and University_Talent_NCG also read."
 }

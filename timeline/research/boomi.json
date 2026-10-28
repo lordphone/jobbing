@@ -1,16 +1,17 @@
 {
  "company": "Boomi",
  "tier": 5,
- "checked": "2026-10-20",
  "status": "no_program_found",
- "postings": [],
- "dropped": [],
- "last_cycle_opened": null,
- "last_cycle_basis": "No tracker history found; unknown.",
- "excluded_reason": null,
- "no_sponsorship": false,
+ "last_cycle_basis": "jobs.py history: no entry-level SWE tracker postings in 2025-07..2026-01",
  "jobs_page": "https://boomi.com/company/careers",
  "jobs_spec": "gh:boomilp",
- "evidence": "Greenhouse full board 2026-10-20 (26): US/Canada roles are sales, presales solutions engineers, HR. No SWE postings and no entry-level engineering.",
- "confidence": "high"
+ "jobs_spec_basis": "boomi.com careers page embeds the gh:boomilp Greenhouse job openings",
+ "evidence": "Greenhouse full board (26) read 2026-10-27. US and Canada roles are sales, presales solutions engineers and program management; no SWE postings and no entry-level program.",
+ "confidence": "high",
+ "checked": "2026-10-27",
+ "postings": [],
+ "dropped": [],
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "last_cycle_opened": null
 }

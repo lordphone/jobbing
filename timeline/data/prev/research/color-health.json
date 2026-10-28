@@ -1,7 +1,7 @@
 {
   "company": "Color Health",
   "tier": 4,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "leftover_2026",
   "postings": [
     {
@@ -13,18 +13,18 @@
       "deadline": null,
       "grad_window": "Graduated 2025 or 2026",
       "live_verified": "api",
-      "level": "unlabeled",
-      "level_basis": "We are excited to bring a cohort of recent software engineering graduates; $125,000-$140,000",
+      "level": "new-grad title",
+      "level_basis": null,
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2026-07-28",
   "last_cycle_basis": "Only new-grad SWE posting found is this one (graduated 2025/2026), https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96; counts as last-cycle leftover.",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/color-health",
   "jobs_spec": "ashby:color-health",
-  "evidence": "Ashby API 2026-10-18 (17, full), posting read: only entry-level SWE is New Grad 2026 published 2026-07-28, asks graduated 2025 or 2026, so last-cycle leftover. Other SWE roles senior. Matches prior file.",
-  "confidence": "high",
-  "dropped": []
+  "evidence": "Ashby full board (17) re-read 2026-10-26: only entry-level SWE is New Grad 2026 (graduated 2025 or 2026), published 2026-07-28, still listed; last-cycle leftover, no 2027 role. Other engineering is senior.",
+  "confidence": "high"
 }

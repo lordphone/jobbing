@@ -13,23 +13,18 @@
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": null,
+      "level_basis": "title Software Engineer 1 (entry rung of SE 1/2/3 ladder); requires basic knowledge, prior internship",
       "no_sponsorship": true
     }
   ],
+  "no_sponsorship": true,
   "last_cycle_opened": "2025-07-04",
   "last_cycle_basis": "tracker first seen for 'Software Engineer 1 - Corporate Applications' (Salt Lake City/Las Vegas/Des Moines) via jobs.py history",
-  "excluded_reason": null,
-  "no_sponsorship": true,
   "jobs_page": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
   "jobs_spec": "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/CX_1",
-  "evidence": "Oracle CX_1 board 2026-10-19 (119, full): Software Engineer 1 req 10004529 live via API, no sponsorship. SE 2/3 reqs need more years. Multi-level SE req 10005871 is not on the board.",
+  "evidence": "Oracle CX_1 board (109, full) read 2026-10-26; Software Engineer 1 req 10004529 live (posted 2026-06-29), Des Moines/Davenport/Sioux City/Reno/Richmond; posting says no immigration sponsorship. SE 2/3, Sr and analyst roles not counted.",
   "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": [
-    {
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005871",
-      "reason": "gone: posting page showed 'This job is no longer available' and API returns nothing"
-    }
-  ]
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null
 }

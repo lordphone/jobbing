@@ -1,7 +1,6 @@
 {
   "company": "Autodesk",
   "tier": 4,
-  "checked": "2026-10-19",
   "status": "open",
   "postings": [
     {
@@ -16,15 +15,29 @@
       "level": "unlabeled",
       "level_basis": "Minimum: Master's in CS/CE, or Bachelor's with 3+ years; duties say 'seek mentorship'; CAD 99,000-145,200",
       "no_sponsorship": false
+    },
+    {
+      "title": "Machine Learning Operations Developer, AI/ML Platform",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Machine-Learning-Operations-Developer---AI-ML-Platfor_26WD101494-1",
+      "location": "Toronto, ON, Canada; Montreal, QC, Canada; Ontario, Canada (Remote)",
+      "opened": "2026-10-13",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "unlabeled",
+      "level_basis": "'BS or MS in Computer Science' with '2+ years of hands-on experience in DevOps and MLOps'; no level in title; no lead duties",
+      "no_sponsorship": false
     }
   ],
   "last_cycle_opened": "2025-08-07",
   "last_cycle_basis": "jobs.py history: New Grad 2025: Software Engineer San Francisco first seen 2025-08-07 (closed)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
   "jobs_page": "https://autodesk.wd1.myworkdayjobs.com/Ext",
   "jobs_spec": "wd:autodesk/wd1/Ext",
-  "evidence": "Workday Ext (311, full) 2026-10-19: no new-grad titled US/Canada SWE (Graduate SWE is Oslo). MCP/AI Developer Toronto (Master or BS+3 yrs, posted 2026-10-02) still live. Left out: SF Software Engineer (no years stated, wide pay), MLOps Toronto (2+ yrs).",
+  "evidence": "Workday Ext (186, full) read 2026-10-26: no new-grad titled US/Canada SWE (Graduate SWE is Oslo). MCP/AI Developer and MLOps Developer, both Toronto, live via API and kept (unlabeled). Java Developer Toronto at 2-5 yrs left out.",
   "confidence": "medium",
-  "dropped": []
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

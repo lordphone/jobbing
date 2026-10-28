@@ -1,16 +1,16 @@
 {
   "company": "Warner Bros. Discovery",
   "tier": 5,
-  "checked": "2026-10-19",
   "status": "not_yet",
   "postings": [],
-  "dropped": [],
   "last_cycle_opened": "2025-09-23",
-  "last_cycle_basis": "tracker first-seen: Junior Software Engineer, Salt Lake City UT (Workday); also Associate Software Engineer 2025-12-16 and Software Engineer 1 (Atlanta) 2026-04-14",
-  "excluded_reason": null,
-  "no_sponsorship": false,
+  "last_cycle_basis": "jobs.py history: Junior Software Engineer, Salt Lake City first seen 2025-09-23 (closed)",
   "jobs_page": "https://warnerbros.wd5.myworkdayjobs.com/global",
   "jobs_spec": "wd:warnerbros/wd5/global",
-  "evidence": "Workday board 2026-10-19 (200 listed): US software roles are Senior/Staff; Cybersecurity Engineer needs experience; Associate BIT Field Engineer (DC, East Point) is broadcast IT field work, not SWE. Last cycle Junior SWE and Software Engineer 1 gone.",
-  "confidence": "medium"
+  "evidence": "Workday board (full) read 2026-10-26: US software roles are Senior/Staff/Director. Associate BIT Field Engineer is broadcast IT field work, not SWE. Entry software roles (Software Developer II) are Kanata, Montreal or Mexico, not US or Toronto/Vancouver. Last cycle had a Junior SWE in Salt Lake City; none live now.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [],
+  "excluded_reason": null,
+  "no_sponsorship": false
 }

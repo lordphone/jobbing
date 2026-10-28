@@ -1,30 +1,36 @@
 {
   "company": "Kohl's",
   "tier": 5,
-  "checked": "2026-10-20",
   "status": "open",
   "postings": [
     {
       "title": "Associate Reliability Engineer (Remote)",
       "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Associate-Reliability-Engineer--Remote-_R500170",
-      "location": "Remote (US) (Kohl's Corporate Offices, no city listed)",
+      "location": "Remote (US)",
       "opened": "2026-10-12",
-      "date_source": "workday postedOn",
+      "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Associate title; requires bachelor's and programming skills; asks working IBM mainframe experience; no years line",
+      "level_basis": "Associate title; requires bachelor's degree, programming skills, no years line",
       "no_sponsorship": false
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Reliability-Engineer--Remote-_R488940",
+      "reason": "shell: board lists R488940 with no title or location and its posting API returns 404"
+    }
+  ],
   "last_cycle_opened": null,
   "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://kohls.wd504.myworkdayjobs.com/kohlscareers",
   "jobs_spec": "wd:kohls/wd504/kohlscareers",
-  "evidence": "Workday board (capped at 2000) plus keyword searches software, developer, data engineer, ML, graduate 2026-10-20, and posting API: Associate Reliability Engineer (R500170, 2026-10-12) is an SRE role, counted as borderline. Other tech roles are Senior or Staff.",
-  "confidence": "medium"
+  "jobs_spec_basis": "board lookup flaky; retried, works; careers page Apply links go to kohls.wd504",
+  "evidence": "Workday board read 2026-10-27: Associate Reliability Engineer R500170 live via API, bachelor's, no years. Other tech roles Senior/Staff/Manager. Earlier second Associate posting R488940 is now an empty ghost entry (404).",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

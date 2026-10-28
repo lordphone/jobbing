@@ -1,32 +1,21 @@
 {
   "company": "Phillips 66",
-  "status": "open",
-  "postings": [
-    {
-      "title": "2027 University New Hire - Information Technology (Software Engineering, Cloud, SRE, Data, Cyber assignments)",
-      "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
-      "location": "Houston, TX; Bartlesville, OK",
-      "opened": "2026-09-10",
-      "date_source": "page metadata datePosted 2026-09-10 (seen 2026-10-08, kept; page now shows 2026-10-09)",
-      "deadline": "2026-12-31",
-      "grad_window": "Winter 2026 or Spring/Summer 2027",
-      "live_verified": "browser",
-      "level": "new-grad title",
-      "level_basis": "Experience 66 IT university new-hire program; assignments include Software Engineering",
-      "no_sponsorship": true
-    }
-  ],
+  "tier": 5,
+  "status": "closed",
+  "postings": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "not found; jobs.py history shows only Advisor 1 Data Science (2026-06-12), outside the window; no IT university-hire timing known",
   "excluded_reason": null,
-  "no_sponsorship": true,
+  "no_sponsorship": false,
   "jobs_page": "https://careers.phillips66.com/go/New-Hire-Opportunities/9494000/",
   "jobs_spec": null,
-  "jobs_spec_basis": "SuccessFactors site, no API; New-Hire-Opportunities page lists the 2027 University New Hire postings",
-  "evidence": "careers.phillips66.com page fetched 2026-10-19: 2027 University New Hire - IT shows Apply now; assignments Software Engineering, Cloud, SRE, Data, Cyber; Houston or Bartlesville; $87.4K-115K; grads Winter 2026/Spring-Summer 2027. Sponsorship-needing candidates not eligible. Deadline is page metadata validThrough, no closing date in text.",
-  "confidence": "high",
-  "tier": 5,
-  "checked": "2026-10-19",
-  "dropped": [],
-  "live_verified": "browser"
+  "evidence": "Browser 2026-10-26: 2027 University New Hire - Information Technology (Software Engineering track, opened 2026-09-10) now says 'this position has been filled' and is gone from the 7-listing new-hire page. Only a 2027 IT intern and non-software new-hire roles remain; keyword searches show no other entry software roles.",
+  "confidence": "medium",
+  "checked": "2026-10-26",
+  "dropped": [
+    {
+      "url": "https://careers.phillips66.com/job/Houston-2027-University-New-Hire-Information-Technology-TX-77042/1418697000/",
+      "reason": "gone: browser page 2026-10-26 says 'Sorry, this position has been filled.' and it is no longer in the new-hire list"
+    }
+  ]
 }

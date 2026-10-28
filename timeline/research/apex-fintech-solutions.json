@@ -1,13 +1,13 @@
 {
   "company": "Apex Fintech Solutions",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
   "dropped": [
     {
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR10341",
-      "reason": "gone: Software Engineer I - Shark (ALDP), opened 2026-08-25, NOT ON THE BOARD per jobs.py detail, absent from board list, cxs endpoint 404"
+      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+      "reason": "gone: absent from board; job API returns 403 permission denied while live reqs return 200"
     }
   ],
   "last_cycle_opened": "2025-08-14",
@@ -16,6 +16,6 @@
   "no_sponsorship": false,
   "jobs_page": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions",
   "jobs_spec": "wd:peak6group/wd1/apexfintechsolutions",
-  "evidence": "Workday full board 2026-10-20 (43): no Software Engineer I listed; 2026-08-25 ALDP Software Engineer I posting gone (404). Remaining engineers are support, endpoint, IAM, platform (3-5 yrs).",
-  "confidence": "high"
+  "evidence": "Workday board (40, full) read and screened 2026-10-27: no Software Engineer I or new-grad role; Platform Engineer asks 3-5 yrs, App Support 3+, Endpoint is IT. 2026-08-25 ALDP SWE I req still absent from board and its API returns 403, so treated as gone.",
+  "confidence": "medium"
 }

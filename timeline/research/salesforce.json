@@ -1,7 +1,7 @@
 {
   "company": "Salesforce",
   "tier": 3,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "open",
   "postings": [
     {
@@ -9,7 +9,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
       "location": "San Francisco, CA; Palo Alto, CA; New York, NY; Seattle, WA; Bellevue, WA; Dallas, TX; Indianapolis, IN",
       "opened": "2026-08-05",
-      "date_source": "tracker first seen 2026-08-05; workday reposted (startDate 2026-10-05)",
+      "date_source": "tracker first seen 2026-08-05; workday reposted (startDate 2026-10-14)",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
@@ -22,23 +22,22 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "opened": "2026-10-16",
-      "date_source": "workday startDate (posted yesterday)",
+      "date_source": "workday startDate",
       "deadline": "2026-11-06",
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Emerging Talent program; asks up to 2 years of internship or professional experience in software engineering / ML; $114,400-$147,000",
+      "level_basis": "Emerging Talent program for interns and new graduates; asks up to 2 years of internship or professional experience; $114,400-$147,000",
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-12",
   "last_cycle_basis": "jobs.py history: Software Engineering AMTS - New Grad first seen 2025-08-12 on Salesforce Workday",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
   "jobs_spec": "wd:salesforce/wd12/External_Career_Site",
-  "evidence": "Workday full board (1573) 2026-10-20: AMTS College Grad (7 US cities, tracker first seen 2026-08-05, reposted 2026-10-14) and AI Labs Rotational Fellowship (deadline Nov 6, 2026) live per detail API. Other US MTS ask 2-5 yrs at MTS pay; Database Engineering Associate and Missionforce roles need US citizenship.",
-  "confidence": "high",
-  "jobs_spec_basis": "earlier HTTP 429 flag was rate limiting; full board listing worked on retry 2026-10-20 (careers links go to this Workday board)",
-  "dropped": []
+  "evidence": "Workday full board (1580) + detail API 2026-10-27: AMTS College Grad (7 US cities) and AI Labs Rotational Fellowship (apply by 2026-11-06) live. Database Engineering Associate and Missionforce Associate FDE require US citizenship. MTS roles ask 2-5 yrs, left out.",
+  "confidence": "high"
 }

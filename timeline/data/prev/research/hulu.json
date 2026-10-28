@@ -1,15 +1,42 @@
 {
   "company": "Hulu",
   "tier": 4,
-  "status": "closed",
+  "checked": "2026-10-26",
+  "status": "open",
   "postings": [
     {
       "title": "Product Software Engineer I",
-      "url": "https://www.disneycareers.com/en/job/new-york/product-software-engineer-i/391/99357341552",
-      "location": "New York, NY; San Francisco, CA; Seattle, WA",
-      "opened": "2026-08-17",
-      "date_source": "page text (prior file)",
-      "deadline": "2026-10-05",
+      "url": "https://www.disneycareers.com/en/job/new-york/product-software-engineer-i/391/102261826624",
+      "location": "New York, NY",
+      "opened": "2026-10-21",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Software Engineer",
+      "url": "https://www.disneycareers.com/en/job/lake-buena-vista/associate-software-engineer/391/102205972784",
+      "location": "Lake Buena Vista, FL",
+      "opened": "2026-10-20",
+      "date_source": "page text",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": null,
+      "no_sponsorship": false
+    },
+    {
+      "title": "Software Development Engineer in Test I (SDET)",
+      "url": "https://www.disneycareers.com/en/job/seattle/software-development-engineer-in-test-i-sdet/391/102176935072",
+      "location": "Seattle, WA",
+      "opened": "2026-10-19",
+      "date_source": "page text",
+      "deadline": null,
       "grad_window": null,
       "live_verified": "browser",
       "level": "new-grad title",
@@ -17,14 +44,14 @@
       "no_sponsorship": false
     }
   ],
+  "dropped": [],
   "last_cycle_opened": "2025-08-15",
   "last_cycle_basis": "tracker first-seen for Software Engineer I, Seattle WA at https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
   "excluded_reason": null,
   "no_sponsorship": false,
-  "jobs_page": "https://disney.wd5.myworkdayjobs.com/disneycareer",
+  "jobs_page": "https://www.disneycareers.com/en/search-jobs",
   "jobs_spec": "wd:disney/wd5/disneycareer",
-  "evidence": "Hulu posts under Disney. Product Software Engineer I (opened 2026-08-17, deadline 2026-10-05) absent from Disney Workday (410, full) 2026-10-19; US software roles are 3+ yrs or senior. No entry SWE live.",
-  "confidence": "high",
-  "checked": "2026-10-19",
-  "dropped": []
+  "evidence": "Hulu posts under Disney. Workday board (373) 2026-10-26 has no entry-level SWE, but disneycareers.com search lists three entry-level postings (Product SWE I NY, Associate SWE Lake Buena Vista, SDET I Seattle); each opened in browser with Apply Now. Same as prior run.",
+  "confidence": "medium",
+  "jobs_spec_basis": "Hulu posts under Disney; entry-level roles appear on disneycareers.com but not the Workday list"
 }

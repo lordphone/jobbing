@@ -1,23 +1,4 @@
-- Added X Development (tier 3, big tech): Alphabet's moonshot lab posting ML and full-stack software engineer roles in Mountain View.
-- Added Watershed (tier 4, late-stage/unicorns): climate software company posting New Grad Software Engineer roles in SF and NYC.
-- Added Solace Health (tier 4, late-stage/unicorns): health startup posting Associate Software Engineer – College Grad roles.
-- Added Radiant (tier 4, aerospace & defense): El Segundo microreactor company posting New Grad Software Engineer roles.
-- Added Sierra Space (tier 4, aerospace & defense): posts Software Engineer I and Flight Software Engineer I roles in Colorado.
-- Added Castleton Commodities International (tier 4, quant/trading): commodities trader posting Front Office Software Engineer Associate roles in Stamford and Houston.
-- Added National Laboratory of the Rockies (formerly NREL) (tier 4, traditional with tech orgs): national lab with 9 tracker postings. Other national labs sit in tier 4 too.
-- Added Ultra (Ultra Electronics) (tier 5, aerospace & defense): posts Software Engineer 1 and Graduate Software Engineer roles, including Tampa.
-- Added VTG (tier 5, aerospace & defense): defense contractor posting Associate Software Engineer roles in Virginia.
-- Added TeleTracking (tier 5, enterprise software): Pittsburgh hospital-logistics software company posting Software Engineer I roles.
-- Added Softheon (tier 5, enterprise software): posts Software Engineer I roles in Pittsburgh and Port Jefferson.
-- Added OneImaging (tier 5, enterprise software): Miami health-tech company posting Associate Software Engineer roles (some school-restricted).
-- Added Cisive (tier 5, enterprise software): background-screening company posting Associate Software Developer roles.
-- Added DuCharme, McMillen & Associates (tier 5, enterprise software): Fort Wayne tax software firm posting Associate Software Engineer roles.
-- Added TekSynap (tier 5, consulting & IT services): federal IT contractor posting Junior Software Developer roles.
-- Added LMI (tier 5, consulting & IT services): federal consultancy posting Junior Back-End Software Developer and Junior Data Scientist roles.
-- Added Western & Southern Financial Group (tier 5, banks/financial): Cincinnati insurer posting Software Developer 1 and AI Developer 1 roles.
-- Added AmTrust Financial (tier 5, banks/financial): insurer posting Software Engineer 1 roles in Cleveland and remote.
-- Added Pathward (tier 5, banks/financial): bank posting Software Engineer I roles.
-- Added Eversource Energy (tier 5, traditional with tech orgs): utility posting IT Associate Software Engineer roles in New England.
-- Added an override so tracker postings for Integration Innovation (i3) match its list entry (added last run, it still showed as unmatched).
-- Added 12 reviewed names to skip_tracker_names.json (UK-only employers, contract-mentor-only Udacity, universities, health systems, and two staffing/training agencies).
-- Removed 72 companies whose new-grad software roles all need US citizenship, a green card, a clearance or ITAR US-person status (excluded both this run and last), at his request: defense primes, cleared federal contractors, defense labs and agencies, and ITAR space hardware companies. SpaceX and Anduril kept at his request. Their normalized names are in skip_tracker_names.json so they don't come back.
+- Added CrossCountry Consulting (tier 5, consulting & it services): posting Forward Deployed Software Engineer New Grad roles in Chicago and NYC.
+- Added override zs → ZS Associates (tracker name mismatch; ZS posts Business Technology Solutions Associate roles in Chicago and Princeton).
+- Added 6 reviewed names to skip_tracker_names.json: UK-only PA Consulting and Quantum, university-affiliated Johns Hopkins APL, Newrez (operations roles only), Super Micro Computer (hardware and technician roles only), NielsenIQ (analyst roles only).
+- Left Sim, Metron, Axtria, Deluxe, Thorlabs, Dyna Robotics, Harbor, Computershare, Fujitsu and the rest for a later run: roles not labeled entry level, cleared defense work, analyst-only so far, or no US roles yet.

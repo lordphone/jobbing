@@ -1,16 +1,16 @@
 {
   "company": "UKG",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "no_program_found",
   "postings": [],
   "dropped": [],
   "last_cycle_opened": null,
-  "last_cycle_basis": "No tracker history found; unknown.",
+  "last_cycle_basis": "no tracker history found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://apply.ukg.com/careers",
   "jobs_spec": "eightfold:apply.ukg.com/ukg.com",
-  "evidence": "Eightfold pcsx search in browser 2026-10-20 (112 US, full): SWE roles are III/Staff/Principal/Lead; sampled III, DevOps and SDE postings need 4-5+ yrs, and the DevOps posting says no sponsorship. No entry SWE.",
-  "confidence": "high"
+  "evidence": "Eightfold API (128 US, full) 2026-10-27: SWE roles are Software Engineer III and up, Lead, Staff, Principal; Software Engineer (DevOps, Lowell) is the only unlabeled one and is a DevOps role. No entry-level SWE or new-grad track.",
+  "confidence": "medium"
 }

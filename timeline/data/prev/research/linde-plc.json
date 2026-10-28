@@ -1,16 +1,16 @@
 {
  "company": "Linde plc",
+ "tier": 5,
+ "checked": "2026-10-26",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history; none found",
- "jobs_page": "https://linde.csod.com/ux/ats/careersite/23/home?c=linde&country=us",
- "jobs_spec": null,
- "evidence": "Cornerstone career site browser search 'software' (24 US results) 2026-10-19: Software Developer req34087 (Tonawanda NY, posted 2026-10-19) requires 7+ yrs; Applications Developer req33177 needs 3-5 yrs; Software Developer Intern is intern; Senior Software Developer senior. LTOP 2027 programs are chem/mech/industrial engineering. No entry SWE.",
- "confidence": "medium",
- "tier": 5,
- "checked": "2026-10-19",
+ "last_cycle_basis": "none found",
  "excluded_reason": null,
  "no_sponsorship": false,
- "dropped": []
+ "jobs_page": "https://linde.csod.com/ux/ats/careersite/23/home?c=linde&country=us",
+ "jobs_spec": null,
+ "evidence": "Cornerstone search API 2026-10-26 (software, developer, graduate, entry level, data engineer, AI): only Software Developer 34087 (7+ yrs) and Applications Developer 33177 (3-5 yrs) are software, plus a software intern; 2027 LTOP roles are chemical/mechanical/industrial engineering. No entry SWE.",
+ "confidence": "medium"
 }

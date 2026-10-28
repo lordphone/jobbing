@@ -1,21 +1,16 @@
 {
   "company": "Automation Anywhere",
   "tier": 5,
-  "checked": "2026-10-20",
+  "checked": "2026-10-27",
   "status": "closed",
   "postings": [],
-  "dropped": [
-    {
-      "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/San-Jose-California/Software-Engineer_JR1492",
-      "reason": "gone: browser page shows 'The page you are looking for doesn't exist' and the job is absent from the Workday board (35)"
-    }
-  ],
+  "dropped": [],
   "last_cycle_opened": null,
   "last_cycle_basis": "jobs.py history: no prior-cycle new-grad SWE posting found",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs",
   "jobs_spec": "wd:automationanywhere/wd5/AutomationAnywhereJobs",
-  "evidence": "Software Engineer JR1492 (San Jose, opened 2026-10-06, endDate 2026-10-12) now shows 'The page you are looking for doesn't exist' in browser 2026-10-20 and is not on the Workday board (35, full). Other engineering is India/Japan/sales.",
+  "evidence": "Workday full board (36) read 2026-10-27: Software Engineer JR1492 (San Jose, opened 2026-10-06) absent from board and earlier page showed does-not-exist, closed kept. Remaining US roles are sales/director/product; engineering openings non-US.",
   "confidence": "medium"
 }

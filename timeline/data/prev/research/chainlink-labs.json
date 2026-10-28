@@ -1,17 +1,16 @@
 {
   "company": "Chainlink Labs",
   "tier": 4,
-  "checked": "2026-10-19",
-  "status": "no_program_found",
+  "checked": "2026-10-26",
+  "status": "closed",
   "postings": [],
   "dropped": [],
-  "last_cycle_opened": null,
-  "last_cycle_basis": "Tracker history: only Software Engineer 1 first seen 2026-07-27 (not labeled new grad); nothing in 2025-07 to 2026-01 window",
+  "last_cycle_opened": "2026-07-27",
+  "last_cycle_basis": "tracker first seen Software Engineer 1 (jobs.py history)",
   "excluded_reason": null,
   "no_sponsorship": false,
   "jobs_page": "https://jobs.ashbyhq.com/chainlink-labs",
   "jobs_spec": null,
-  "jobs_spec_basis": "Ashby API returns no data; careers board opened in browser, kept jobs_spec null",
-  "evidence": "Ashby board read in browser 2026-10-19 (22 jobs). US/Canada engineering: Senior CCIP, Engineering Manager, Data Platform Engineer (Kafka/Flink operator, senior). Software Engineer Data roles are LatAm only. No entry-level.",
-  "confidence": "high"
+  "evidence": "2026-10-26: Ashby board via public GraphQL (27 jobs): tracker's Software Engineer 1 (first seen 2026-07-27, id 8485e325) is now Senior Software Engineer CCIP; Data Platform Engineer (Canada) wants proven large-scale systems experience; other engineering roles are senior, manager, security or Brazil. No entry role left, so closed.",
+  "confidence": "medium"
 }

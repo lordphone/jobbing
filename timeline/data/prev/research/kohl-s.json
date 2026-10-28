@@ -1,20 +1,33 @@
 {
   "company": "Kohl's",
   "tier": 5,
-  "checked": "2026-10-19",
+  "checked": "2026-10-26",
   "status": "open",
   "postings": [
     {
       "title": "Associate Reliability Engineer (Remote)",
       "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Associate-Reliability-Engineer--Remote-_R500170",
-      "location": "Remote (US) (Kohl's Corporate Offices, no city listed)",
+      "location": "Remote (US)",
       "opened": "2026-10-12",
       "date_source": "workday startDate",
       "deadline": null,
       "grad_window": null,
       "live_verified": "api",
       "level": "new-grad title",
-      "level_basis": "Associate title; requires bachelor's and programming skills; asks working IBM mainframe experience; no years line",
+      "level_basis": "Associate title; bachelor's degree required, no years line found",
+      "no_sponsorship": false
+    },
+    {
+      "title": "Associate Reliability Engineer (Remote)",
+      "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Reliability-Engineer--Remote-_R488940",
+      "location": "Remote (US)",
+      "opened": "2026-10-22",
+      "date_source": "workday startDate",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "api",
+      "level": "new-grad title",
+      "level_basis": "Associate title; requires bachelor's and 2+ years of software development",
       "no_sponsorship": false
     }
   ],
@@ -25,6 +38,7 @@
   "no_sponsorship": false,
   "jobs_page": "https://kohls.wd504.myworkdayjobs.com/kohlscareers",
   "jobs_spec": "wd:kohls/wd504/kohlscareers",
-  "evidence": "Workday board (listing capped at 2000) plus keyword searches software, engineer I, developer, data engineer, ML, graduate, 2027, and posting API 2026-10-19: Associate Reliability Engineer (R500170, 2026-10-12) is an SRE role, counted as borderline. Other tech roles are Senior/Staff/DBA. No new-grad program.",
-  "confidence": "medium"
+  "evidence": "Workday board read 2026-10-26: both Associate Reliability Engineer (SRE) remote postings still live via API (bachelor's, one asks 2+ yrs software dev, Associate title). Other tech roles Senior/Staff/Manager. Borderline, kept from earlier run.",
+  "confidence": "medium",
+  "jobs_spec_basis": "board lookup flaky; retried, works; careers page Apply links go to kohls.wd504"
 }

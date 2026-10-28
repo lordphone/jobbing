@@ -1,17 +1,16 @@
 {
  "company": "Align Technology",
  "tier": 5,
- "checked": "2026-10-19",
  "status": "no_program_found",
  "postings": [],
+ "dropped": [],
  "last_cycle_opened": null,
- "last_cycle_basis": "no tracker history; no last-cycle posting found",
+ "last_cycle_basis": "no entry-level US SWE in tracker history or on the board",
  "excluded_reason": null,
  "no_sponsorship": false,
  "jobs_page": "https://jobs.aligntech.com/search-job",
  "jobs_spec": "pinpoint:jobs-aligntech",
- "jobs_spec_basis": "jobs.aligntech.com careers page links to jobs-aligntech.pinpointhq.com; full board of 215 listed",
- "evidence": "Pinpoint board read in full (213) 2026-10-19: software roles are in India, Austria, Germany. Only US SWE is Embedded Software Engineer (San Jose), firmware, left out; US/Canada rest is sales, legal, finance.",
- "confidence": "high",
- "dropped": []
+ "evidence": "Pinpoint board (230, full) read 2026-10-26: entry-level software roles (Jr. Software Engineer Spain, Vienna, Armenia) are non-US. US/Canada SWE is VP Platform Engineering, Sr. Software Developer in Test (Toronto), a contractor SDET, and Embedded Software Engineer (San Jose; page shows no level or years, $131K-$180K), left out as not clearly entry-level.",
+ "confidence": "medium",
+ "checked": "2026-10-26"
 }

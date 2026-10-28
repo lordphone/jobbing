@@ -1,30 +1,30 @@
 {
- "company": "SAS Institute",
- "tier": 5,
- "checked": "2026-10-20",
- "status": "open",
- "postings": [
-  {
-   "title": "C Software Developer (Emerging Careers)",
-   "url": "https://careers-sas.icims.com/jobs/42286/c-software-developer-%28emerging-careers%29/job",
-   "location": "Cary, NC",
-   "opened": "2026-08-03",
-   "date_source": "page text (iCIMS posted date)",
-   "deadline": null,
-   "grad_window": null,
-   "live_verified": "browser",
-   "level": "new-grad title",
-   "level_basis": null,
-   "no_sponsorship": true
-  }
- ],
- "last_cycle_opened": "2025-11-07",
- "last_cycle_basis": "jobs.py history tracker first seen: Software Developer - Emerging Career, Morrisville NC (careers-sas.icims.com/jobs/39730)",
- "excluded_reason": null,
- "no_sponsorship": false,
- "jobs_page": "https://globalcareers-sas.icims.com/jobs/search?ss=1&searchCategory=95184",
- "jobs_spec": null,
- "evidence": "iCIMS 2026-10-20: C Software Developer (Emerging Careers) 42286 posting page still live in Cary (Apply Now, minimal 2 yrs, visa sponsorship No). Other developer reqs seen earlier are Glasgow, Pune or 3-5+ yrs; interns and SDET not counted.",
- "confidence": "medium",
- "dropped": []
+  "company": "SAS Institute",
+  "tier": 5,
+  "status": "open",
+  "postings": [
+    {
+      "title": "C Software Developer (Emerging Careers)",
+      "url": "https://globalcareers-sas.icims.com/jobs/42286/c-software-developer-%28emerging-careers%29/job",
+      "location": "Cary, NC",
+      "opened": "2026-08-03",
+      "date_source": "page text (iCIMS datePosted)",
+      "deadline": null,
+      "grad_window": null,
+      "live_verified": "browser",
+      "level": "new-grad title",
+      "level_basis": "Emerging Careers title; requires bachelor's and 2 yrs min",
+      "no_sponsorship": true
+    }
+  ],
+  "dropped": [],
+  "last_cycle_opened": "2025-11-07",
+  "last_cycle_basis": "tracker last-cycle first seen 2025-11-07",
+  "excluded_reason": null,
+  "no_sponsorship": false,
+  "jobs_page": "https://globalcareers-sas.icims.com/jobs/search?ss=1&searchCategory=95184",
+  "jobs_spec": null,
+  "evidence": "iCIMS keyword sweeps and posting pages fetched 2026-10-27: C Software Developer (Emerging Careers) 42286 live with Apply, 2 yrs min, no visa sponsorship (earlier-recorded posted date 2026-08-03 kept). C Software Developer and SDET (C) need 5 yrs; other US roles senior.",
+  "confidence": "medium",
+  "checked": "2026-10-27"
 }

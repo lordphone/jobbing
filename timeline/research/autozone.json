@@ -1,21 +1,21 @@
 {
-  "company": "AutoZone",
-  "tier": 5,
-  "checked": "2026-10-20",
-  "status": "closed",
-  "postings": [],
-  "dropped": [
-    {
-      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
-      "reason": "gone: Systems Engineer Associate 130511 not on the Oracle board (searched) 2026-10-20"
-    }
-  ],
-  "last_cycle_opened": "2026-07-27",
-  "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN (same posting; this cycle)",
-  "excluded_reason": null,
-  "no_sponsorship": false,
-  "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-  "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
-  "evidence": "Oracle board (searched, not full) 2026-10-20: Systems Engineer Associate 130511 not on board. Associate Systems Engineer (Quality Engineering) 157247 asks 2-4 yrs testing and is a test role, left out; other US Systems Engineers need 4-7 yrs. 2027 postings are interns.",
-  "confidence": "medium"
+ "company": "AutoZone",
+ "tier": 5,
+ "checked": "2026-10-27",
+ "status": "closed",
+ "postings": [],
+ "dropped": [
+  {
+   "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511",
+   "reason": "gone: page showed 'This job is no longer available' (prior browser check 2026-10-26); detail API returns no requisition and not on board 2026-10-27"
+  }
+ ],
+ "last_cycle_opened": "2026-07-27",
+ "last_cycle_basis": "tracker first-seen date for 'Systems Engineer Associate', Memphis TN (this cycle)",
+ "excluded_reason": null,
+ "no_sponsorship": false,
+ "jobs_page": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+ "jobs_spec": "oracle:egud.fa.us2.oraclecloud.com/CX_1",
+ "evidence": "Oracle board (searched, not full) 2026-10-27: Systems Engineer Associate 130511 (tracker first seen 2026-07-27) now returns no requisition from the detail API and is not on the board. Associate Systems Engineer (Quality Engineering) asks 2-4 yrs testing, a test role. Other Memphis Systems Engineers need 3-8 yrs. Only 2027 interns live.",
+ "confidence": "medium"
 }
